@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7ef0b106499f37c01d1dc74e291e3cacb7c66aa6d25c0761d0c8c663e5cc1195.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7ef0b106499f37c01d1dc74e291e3cacb7c66aa6d25c0761d0c8c663e5cc1195"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_b57da70baff8435d88fd64203b39897e",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>Path difference is <span class=\"math\" data-latex=\"\\frac{b}{2}\"></span> sin <span class=\"math\" data-latex=\"\\theta\"></span> ≈ <span class=\"math\" data-latex=\"\\frac{b\\theta}{2}\"></span> ✔</p>\n<p>Phase difference is <span class=\"math\" data-latex=\"\\frac{2\\pi}{\\lambda}\"></span> <span class=\"math\" data-latex=\"\\frac{b\\theta}{2}\"></span> ✔</p>\n<p>i.e. <span class=\"math\" data-latex=\"\\frac{π b θ}{λ}\"></span></p>\n<p>Use of approximation for <span class=\"math\" data-latex=\"\\theta\"></span> could be in MP1 or MP2.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>For destructive interference at first minimum, phase difference is <span class=\"math\" data-latex=\"\\pi\"></span> ✔<br/>Result follows<br/>OR  Path difference = <span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span> ✔ Result follows from MP1 of ai)</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>«<span class=\"math\" data-latex=\"\\theta\"></span> =» 1.22 × <span class=\"math\" data-latex=\"\\frac{1200 \\times  10^{-9}}{6.5}\"></span>OR 2.25 × 10<sup>−7 </sup>«rad» ✔</p>\n<p>s = «<span class=\"math\" data-latex=\"\\frac{1.22 \\times  1200 \\times  10^{-9} \\times  1.3 \\times  10^{26}}{6.5}\"></span>=» 2.9 × 10<sup>19</sup> «m» ✔</p>\n<p>Award [1] for 2.4 x 10<sup>19</sup> &lt;&lt;m&gt;&gt; for neglecting 1.22<br/>Allow ECF for substitution for distance in light years.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).</p>\n<p><br/>Diffraction angle «1.22×<span class=\"math\" data-latex=\"\\frac{\\lambda}{b}\"></span> » increases so angular separation required between objects increases, so resolution is not improved</p>\n<p>OR Longer wavelengths will increase the linear size that needs to be resolved larger, so resolution is not improved ✔</p>\n<p>Clear argument must be seen. Do not allow bald answer that the resolution is not improved.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> diffracts at a single rectangular slit of opening <span class=\"math\" data-latex=\"b\"></span>. The diagram shows two rays of light leaving the top and middle of the slit. The rays come from the same wavefront. The angle of diffraction is <span class=\"math\" data-latex=\"\\theta\"></span>. For small angles the approximation sin <span class=\"math\" data-latex=\"\\theta\"></span> ≈ <span class=\"math\" data-latex=\"\\theta\"></span> may be used.</p>\n<p>diagram not to scale</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The rays meet at point P on a screen a very large distance from the slit.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the phase difference between the two rays at P is <span class=\"math\" data-latex=\"\\frac{π b θ}{λ}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> The two rays interfere destructively at P to form the first minimum of the single slit diffraction pattern. Explain why <span class=\"math\" data-latex=\"\\theta\"></span> = <span class=\"math\" data-latex=\"\\frac{\\pi}{b}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The James Webb Space Telescope (JWST) has an effective diameter of 6.5 m.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the smallest linear size at a distance of 13.6 billion light years (1.3 × 10<sup>26</sup> m) that can be resolved by the JWST when it operates at a wavelength of 1200 nm. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The JWST can also operate at wavelengths longer than 1200 nm. Suggest whether the resolution of the telescope is improved at the longer wavelengths. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

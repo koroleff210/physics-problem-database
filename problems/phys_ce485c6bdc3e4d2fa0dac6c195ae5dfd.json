@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_ce485c6bdc3e4d2fa0dac6c195ae5dfd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ice skater is rotating about a vertical axis with arms extended to the sides, parallel to the ground. The ice skater then pulls in her arms so that they are closer to her body. </p>\n<p>The angular velocity of the ice skater increases, because:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Her total angular momentum decreases.</li>\n<li data-label=\"B\">Her moment of inertia decreases.</li>\n<li data-label=\"C\">Her total angular momentum increases.</li>\n<li data-label=\"D\">Her moment of inertia increases.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

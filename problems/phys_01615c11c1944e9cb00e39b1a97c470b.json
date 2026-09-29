@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_01615c11c1944e9cb00e39b1a97c470b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The spacing of a diffraction grating is <span class=\"math\" data-latex=\"a\"></span>. What is the angle between the two fourth-order maxima when the grating is illuminated normally by monochromatic light of wavelength <span class=\"math\" data-latex=\"\\frac{a}{3}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"sin^{-1}\\left ( \\frac{3}{4} \\right )\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"sin^{-1}\\left ( \\frac{4}{3} \\right )\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2sin^{-1}\\left ( \\frac{3}{4} \\right )\"></span></li>\n<li data-label=\"D\">No fourth order maxima appear in the pattern.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

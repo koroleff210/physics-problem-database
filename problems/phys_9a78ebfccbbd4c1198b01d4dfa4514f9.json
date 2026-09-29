@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_9a78ebfccbbd4c1198b01d4dfa4514f9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table identifies characteristics of four gases present in the Earth's atmosphere.</p>\n<table><thead><tr><th></th><th>Gas</th><th>Primary interaction with radiation</th></tr></thead><tbody><tr data-label=\"A\"><td><strong>A.</strong></td><td>Nitrogen</td><td>Absorbs incoming short-wave radiation</td></tr><tr data-label=\"B\"><td><strong>B.</strong></td><td>Methane</td><td>Absorbs outgoing long-wave radiation</td></tr><tr data-label=\"C\"><td><strong>C.</strong></td><td>Oxygen</td><td>Reflects incoming visible light</td></tr><tr data-label=\"D\"><td><strong>D.</strong></td><td>Argon</td><td>Reflects outgoing long-wave radiation</td></tr></tbody></table>\n<p>Which row correctly identifies a greenhouse gas and its role in the greenhouse effect?</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

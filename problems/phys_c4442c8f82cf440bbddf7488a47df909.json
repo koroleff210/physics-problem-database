@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_c4442c8f82cf440bbddf7488a47df909",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Nucleus A decays into nucleus B as shown in the equation:</p>\n<p>A <span class=\"math\" data-latex=\"\\rightarrow\"></span> B + 2<span class=\"math\" data-latex=\"\\alpha\"></span> + 4<span class=\"math\" data-latex=\"\\beta^{-}\"></span></p>\n<p>Which of the following statements is <strong>not true</strong> about A and B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">B is an isotope of A.</li>\n<li data-label=\"B\">The nucleon number of B is smaller than the nucleon number of A.</li>\n<li data-label=\"C\">B has the same number of protons as A.</li>\n<li data-label=\"D\">B has the same number of neutrons as A.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

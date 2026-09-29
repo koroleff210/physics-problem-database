@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_1bb78449b3aa4fbf8dd217ba069ad9c5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a nucleus of iron-56 (<sup>56</sup><sub>26</sub>Fe) is M.</p>\n<p>What is the mass defect of the nucleus of iron-56?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">M − 26m<sub>p</sub> − 56m<sub>n</sub></li><li data-label=\"B\">26m<sub>p</sub> + 30m<sub>n</sub> − M</li><li data-label=\"C\">M − 26m<sub>p</sub> − 56m<sub>n</sub> − 26m<sub>e</sub></li><li data-label=\"D\">26m<sub>p</sub> + 30m<sub>n</sub> + 26m<sub>e</sub> − M</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

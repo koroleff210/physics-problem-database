@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c8b6953d1868916b377db61ce0d8585709f562a6df4198e9f622522c392a1276.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c8b6953d1868916b377db61ce0d8585709f562a6df4198e9f622522c392a1276"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_314444c156254cc89a907f2a26b37b71",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diffraction pattern for light passing through a single slit is shown on the diagram below. The slit width is <span class=\"math\" data-latex=\"0.08\"></span> mm.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the wavelength of the incident light?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"200\"></span> nm</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"400\"></span> nm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"600\"></span> nm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"800\"></span> nm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/81a25580291c2c28fa7ce33f59015fcf3a91164a40f7116bcf4a364dab1dc1e2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "81a25580291c2c28fa7ce33f59015fcf3a91164a40f7116bcf4a364dab1dc1e2"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ef61a0fed1704cdb9cd4b8f5dead6cdb",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>a moving particle has wave properties ✓ de Broglie wavelength = Planck constant÷momentum (must define p if quoted as equation) ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>use of ½ mv<sup>2</sup> = eV ✓ 1.33 × 10<sup>7</sup> m s<sup>−1 </sup>✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>idea that de Broglie wavelength and hole size must be similar ✓ Use of <span class=\"math\" data-latex=\"\\lambda=\\frac{h}{\\sqrt{2meV}}\"></span> ✓ Leading to <span class=\"math\" data-latex=\"\\lambda\"></span> around 5 x 10<sup>−11 </sup>m (which is unrealistic for a practical situation) ✓ It would not be possible to construct this hole<br/>OR<br/>hole must be smaller than an atom so impossible ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the de Broglie hypothesis. [2]</p></section><section class=\"context\"><p>A beam of electrons is accelerated from rest through a potential difference of 500 V maintained between two plates in a vacuum. The electrons then travel through a circular hole in the +500 V plate.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the maximum speed of the electrons in the beam. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>After passing through the circular hole the electrons strike a fluorescent screen.</p>\n<p>Predict whether an apparatus such as this can demonstrate that moving electrons have wave properties.</p><p>[4]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

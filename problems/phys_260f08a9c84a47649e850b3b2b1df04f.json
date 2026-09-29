@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e914f054aa2240a6f354e6568a8176befc481f5d72d4efd7474914bce1862776.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e914f054aa2240a6f354e6568a8176befc481f5d72d4efd7474914bce1862776"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/eb3307fcdff06f1880009c9ea2945f91e250d8f7d2037996e217e02b6c1eae6e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb3307fcdff06f1880009c9ea2945f91e250d8f7d2037996e217e02b6c1eae6e"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_260f08a9c84a47649e850b3b2b1df04f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere is suspended from the end of a string and rotates in a horizontal circle. Which freebody diagram, to the correct scale, shows the forces acting on the sphere?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

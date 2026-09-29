@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/07e07f58e8b85ecc46c97aaa9a18af53a6c571bd3de1ee8b3e4e828e0f280ac0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "07e07f58e8b85ecc46c97aaa9a18af53a6c571bd3de1ee8b3e4e828e0f280ac0"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_53233456717342f3bae69ee5cb2743e6",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALTERNATIVE 1 «considering expansions from A» an adiabatic process will reduce/change temperature ✓ and so curve AC must be the steeper ✓   ALTERNATIVE 2 temperature drop occurs for BC ✓ therefore CA must increase temperature «via adiabatic process». ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1 Use of adiabatic formula «<span class=\"math\" data-latex=\"p_{A}V_{A}^{\\frac{5}{3}}=p_{C}V_{C}^{\\frac{5}{3}} ⇒\"></span>» <span class=\"math\" data-latex=\"V_{C}=\\frac{p_{A}}{p_{C}}^{\\frac{3}{5}}V_{A}\"></span> ✓ <span class=\"math\" data-latex=\"V_{C}=\\frac{5.00\\times 10^{5}}{4.60\\times 10^{3}}^{\\frac{3}{5}}\"></span> × 2.00 × 10<sup>−3</sup> «= 3.333 × 10<sup>−2</sup> m<sup>3</sup>» ✓   For MP2, working or answer to at least 4 SF must be seen.   ALTERNATIVE 2 V<sub>C</sub>=V<sub>B</sub> AND p<sub>A</sub> V<sub>A</sub> = p<sub>B</sub> V<sub>B</sub> ✓ <span class=\"math\" data-latex=\"V_{C}=\\frac{5\\times 10^{5}\\times 2\\times 10^{-3}}{3\\times 10^{4}}\"></span> ✓   ALTERNATIVE 3 V<sub>C</sub>=V<sub>B</sub> AND n = 0.2 mol ✓ V<sub>C</sub> = (0.2 × 8.31 × 602) / 4 × 10<sup>4</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Increasing ✓ because thermal energy/heat is being provided to the gas « and temperature is constant, <span class=\"math\" data-latex=\"Δ S = \\frac{Δ Q}{T}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1 <span class=\"math\" data-latex=\"Q = Δ U = \\frac{3}{2} {V}_{\\text{C}} Δ P\"></span> ✓ <span class=\"math\" data-latex=\"Q=\"></span>«<span class=\"math\" data-latex=\"\\frac{3}{2}\"></span> × 3.33 × 10<sup>−2</sup> × (3.00 × 10<sup>4</sup> − 4.60 × 10<sup>3</sup>)» = 1268.7 ≈ 1270 «J» ✓   Award [2] for BCA. Accept negative values.   ALTERNATIVE 2 <span class=\"math\" data-latex=\"Rn=\\frac{5\\times 10^{5}\\times 2\\times 10^{-3}}{602}=1.66\"></span>  OR  T<sub>c</sub> = 4.6 × 10<sup>3</sup> × 3.33 × 10<sup>−2</sup> × 1.66 = 92.2  ✓ <span class=\"math\" data-latex=\"Δ U = \\frac{3}{2} \\times  1.661 \\times  ( 602 - 92.21 ) = 1270\"></span> «J» ✓   Award MP1 if T<sub>c</sub> = 92 taken from (e)</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>e<sub>c</sub> = 1 − <span class=\"math\" data-latex=\"\\frac{92}{602}\"></span> = 0.847 ✓ this engine has e &lt; e<sub>c</sub> as it should ✓   Award [0] if no calculation shown.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The pV diagram shows a heat engine cycle consisting of adiabatic, isothermal and isovolumetric parts. The working substance of the engine is an ideal gas.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The following data are available:</p>\n<p>p<sub>A</sub> = 5.00 × 10<sup>5</sup> Pa</p>\n<p>V<sub>A</sub> = 2.00 × 10<sup>−3</sup> m<sup>3</sup></p>\n<p>T<sub>A</sub> = 602 K</p>\n<p>p<sub>B</sub> = 3.00 × 10<sup>4</sup> Pa</p>\n<p>p<sub>C</sub> = 4.60 × 10<sup>3</sup> Pa</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Suggest why AC is the adiabatic part of the cycle. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the volume at C is 3.33 × 10<sup>−2</sup> m<sup>3</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Suggest, for the change A ⇒ B, whether the entropy of the gas is increasing, decreasing or constant. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the thermal energy (heat) taken out of the gas from B to C. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The highest and lowest temperatures of the gas during the cycle are 602 K and 92 K.</p>\n<p>The efficiency of this engine is about 0.6. Outline how these data are consistent with the second law of thermodynamics.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

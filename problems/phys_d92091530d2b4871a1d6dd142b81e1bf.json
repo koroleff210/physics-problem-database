@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/855cd98e33e152bed698b563ba82a6739f8465883fd7102fbc5983b3b3b6bed2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "855cd98e33e152bed698b563ba82a6739f8465883fd7102fbc5983b3b3b6bed2"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_d92091530d2b4871a1d6dd142b81e1bf",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Neither mass nor energy is exchanged with the surroundings ✓</p>\n<p>The energy diagram shows two possible configurations of the system. Each dot in the diagram represents one particle. In configuration A, one particle has energy 6E and the remaining particles have zero energy. In configuration B, three particles have energies 3E, 2E and E, and the remaining particles have zero energy.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>6 microstates ✓ Any of the six particles can be the one of the highest energy ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"k_{B} ln 120-k_{B} ln 6\"></span> ✓  <span class=\"math\" data-latex=\"3.0k_{B}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The second law predicts that isolated systems spontaneously evolve towards high-entropy states ✓  From (c), the entropy of B is greater than that of A ✓  The final state will likely be similar to B / contain relatively many low-energy particles «of different energies» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An isolated system consists of six particles. The total energy of the system is 6E, where E is a constant. The particles can randomly exchange energy between one another, in integer multiples of E.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State what is meant by an isolated system. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State and explain the number of microstates of the system in configuration A. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Configuration B has 120 microstates. Calculate the entropy difference between configurations B and A. State the answer in terms of <span class=\"math\" data-latex=\"k_{B}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The system is initially in configuration A. Comment, with reference to the second law of thermodynamics and your answer in (c), on the likely evolution of the system. [3]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

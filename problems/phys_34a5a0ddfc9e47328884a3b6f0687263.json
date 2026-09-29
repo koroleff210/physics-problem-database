@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3b73513b16d2822f39af66783a0f66257a04133f207102916646986ec67a7279.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b73513b16d2822f39af66783a0f66257a04133f207102916646986ec67a7279"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_34a5a0ddfc9e47328884a3b6f0687263",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Four identical resistors, each of resistance <span class=\"math\" data-latex=\"R\"></span>, are connected as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the effective resistance between P and Q?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{3R}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"R\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4R}{3}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4R\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

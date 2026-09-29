@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a548d12e065429e71486db9a93b6d73d3da7c901a5f87e066437a4d625aed9fc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a548d12e065429e71486db9a93b6d73d3da7c901a5f87e066437a4d625aed9fc"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_e323c438f4c0439f9ced44c3b6b9da72",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Hertzsprung–Russell diagram shows two stars, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{radius of X}}{\\textit{radius of Y}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"C\">4</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7d20d2ab4a5b900bb6cd48b71807fba351ddd52ec7e6adfc380db038c17691e8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7d20d2ab4a5b900bb6cd48b71807fba351ddd52ec7e6adfc380db038c17691e8"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_603bcc6e8a2041e89764037e44fb3918",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a double-slit experiment using coherent light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>, the central bright fringe is observed on a screen at point P. A point of destructive interference occurs at point Q. Only one point of constructive interference is observed between P and Q.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the path difference at Q?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\lambda\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3\\lambda}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2\\lambda\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

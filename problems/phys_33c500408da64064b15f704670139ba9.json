@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_33c500408da64064b15f704670139ba9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table provides data for two objects, P and Q, which are both undergoing uniform circular motion in a horizontal plane.</p>\n<div class=\"table-responsive\"><table><thead><tr><th>Object</th><th>Mass</th><th>Orbital radius</th><th>Speed</th></tr></thead><tbody><tr><td>P</td><td><span class=\"math\" data-latex=\"m\"></span></td><td><span class=\"math\" data-latex=\"r\"></span></td><td><span class=\"math\" data-latex=\"v\"></span></td></tr><tr><td>Q</td><td><span class=\"math\" data-latex=\"3m\"></span></td><td><span class=\"math\" data-latex=\"3r\"></span></td><td><span class=\"math\" data-latex=\"3v\"></span></td></tr></tbody></table></div>\n<p>Object P has a centripetal acceleration <span class=\"math\" data-latex=\"a\"></span> and is subject to a centripetal force <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>Which of the following correctly gives the centripetal acceleration and the centripetal force for object Q in terms of <span class=\"math\" data-latex=\"a\"></span> and <span class=\"math\" data-latex=\"F\"></span>?</p>\n<div class=\"table-responsive\"><table><thead><tr><th></th><th>Centripetal acceleration of Q</th><th>Centripetal force of Q</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"a\"></span></td><td><span class=\"math\" data-latex=\"3F\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"3a\"></span></td><td><span class=\"math\" data-latex=\"9F\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"3a\"></span></td><td><span class=\"math\" data-latex=\"3F\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"9a\"></span></td><td><span class=\"math\" data-latex=\"9F\"></span></td></tr></tbody></table></div>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

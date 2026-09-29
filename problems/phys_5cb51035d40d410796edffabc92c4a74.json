@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_5cb51035d40d410796edffabc92c4a74",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement best explains why astronauts in orbit around Earth experience apparent \"weightlessness\"?</p><ol class=\"mcq-options\"><li data-label=\"A\">There is no gravitational force acting on them in space</li><li data-label=\"B\">They are far enough from Earth that gravity is negligible</li><li data-label=\"C\">They are in free fall, accelerating at the same rate as their spacecraft</li><li data-label=\"D\">They are beyond the influence of Earth's gravitational field</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

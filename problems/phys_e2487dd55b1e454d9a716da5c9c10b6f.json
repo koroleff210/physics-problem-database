@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_e2487dd55b1e454d9a716da5c9c10b6f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When a proton moves in a magnetic field of strength <span class=\"math\" data-latex=\"2.6 \\: \\mu\"></span>T, it experiences a force of <span class=\"math\" data-latex=\"2.0 \\times 10^{-20}\"></span> N. The direction of the proton's velocity is perpendicular to the magnetic field direction. What is the speed of the proton?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2.0\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"5.0\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"20\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"50\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

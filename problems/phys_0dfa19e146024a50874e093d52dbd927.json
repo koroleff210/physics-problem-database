@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0dfa19e146024a50874e093d52dbd927",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A life cycle assessment is performed to compare the environmental impact of different fossil fuels used in power plants. Why is natural gas (primarily methane, <span class=\"math\" data-latex=\"CH_{4}\"></span>) preferred over coal (primarily carbon, <span class=\"math\" data-latex=\"C\"></span>) for reducing the immediate impact on the greenhouse effect during electricity generation?</p><ol class=\"mcq-options\"><li data-label=\"A\">The combustion of natural gas releases more energy per mole of <span class=\"math\" data-latex=\"CO_{2}\"></span> produced than the combustion of coal.</li><li data-label=\"B\">Methane has a lower molecular mass than the complex hydrocarbons in coal, allowing it to escape the atmosphere more quickly.</li><li data-label=\"C\">Natural gas produces only water vapor when burned, whereas coal produces both water vapor and carbon dioxide.</li><li data-label=\"D\">The carbon dioxide produced from natural gas has a different isotopic signature that does not absorb infrared radiation.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/61fb82eed239ec4be1506bb5e10f804835d2e9db1dbc18da20831e5ad977bea3.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "61fb82eed239ec4be1506bb5e10f804835d2e9db1dbc18da20831e5ad977bea3"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_7f418786491a4892869659b416a93bfd",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The minimum energy required to completely remove an electron from an atom in its ground state. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\Delta E = |-13.60 - (-3.40)| = 10.20\"></span> eV OR <span class=\"math\" data-latex=\"1.63 \\times 10^{-18}\"></span> J [1 mark]<br/>- <span class=\"math\" data-latex=\"\\lambda = \\frac{hc}{E} = \\frac{6.63 \\times 10^{-34} \\times 3.00 \\times 10^8}{1.63 \\times 10^{-18}} = 1.22 \\times 10^{-7}\"></span> m [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"E = hf = 6.63 \\times 10^{-34} \\times 4.57 \\times 10^{14} = 3.03 \\times 10^{-19}\"></span> J OR <span class=\"math\" data-latex=\"1.89\"></span> eV [1 mark]<br/>- Since this exactly matches the energy difference between <span class=\"math\" data-latex=\"n = 2\"></span> and <span class=\"math\" data-latex=\"n = 3\"></span> (<span class=\"math\" data-latex=\"|-3.40 - (-1.51)| = 1.89\"></span> eV), the photon can be absorbed. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Atoms absorb photons of specific frequencies that correspond to the energy difference between discrete energy levels, causing excitation. [1 mark]<br/>- These atoms then re-emit photons in all directions as they return to lower states, resulting in a significantly reduced intensity of those specific frequencies in the direction of the observer. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram below represents some of the energy levels of a hypothetical atom.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term *ionization energy*.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the wavelength of the photon emitted when an electron in this atom transitions from the <span class=\"math\" data-latex=\"n = 2\"></span> energy level to the <span class=\"math\" data-latex=\"n = 1\"></span> energy level.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>A photon of frequency <span class=\"math\" data-latex=\"4.57 \\times 10^{14}\"></span> Hz is incident on a sample of these atoms. Determine, using a calculation, whether this photon can be absorbed by an electron in the <span class=\"math\" data-latex=\"n = 2\"></span> energy state.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>When white light is passed through a cold gas of these atoms, dark lines are observed in the resulting spectrum. Explain the physical mechanism that causes these lines to appear dark compared to the continuous background.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

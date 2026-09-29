@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a58610e772df1d29fcee112ad112111547a82263936e0fdcd7c71e884a307999.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a58610e772df1d29fcee112ad112111547a82263936e0fdcd7c71e884a307999"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_09ef72e551a94c82a5f7b221f5a16e40",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A moon is orbiting a planet in a clockwise direction.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following quantities is increasing for the planet at the position shown?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Linear speed</li>\n<li data-label=\"B\">Gravitational potential energy</li>\n<li data-label=\"C\">Acceleration</li>\n<li data-label=\"D\">Kinetic energy</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

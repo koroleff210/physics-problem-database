@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0b630a475c487bfbe784d10e0114d29fc5b75fe175180270bc528032a9fc2184.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0b630a475c487bfbe784d10e0114d29fc5b75fe175180270bc528032a9fc2184"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_af9089084d8c417ba4e7caec523c40f3",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two loudspeakers are driven in phase and emit sound of the same frequency. A minimum intensity of sound is detected at point P.</p>\n<p>P is 4.0 m from one loudspeaker and 4.6 m from the other.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is a possible wavelength of the sound?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">20 cm</li><li data-label=\"B\">30 cm</li><li data-label=\"C\">40 cm</li><li data-label=\"D\">60 cm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

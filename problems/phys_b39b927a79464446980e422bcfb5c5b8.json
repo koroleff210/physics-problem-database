@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/198fa18493d202ac5e4612361de9107a6f6c61e5114a10b26bbd5d3187d53351.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "198fa18493d202ac5e4612361de9107a6f6c61e5114a10b26bbd5d3187d53351"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/6a4bf16dcf5c8bcfa51ef9b45847260d2c75369d48970ec44178214cd071fb64.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6a4bf16dcf5c8bcfa51ef9b45847260d2c75369d48970ec44178214cd071fb64"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_b39b927a79464446980e422bcfb5c5b8",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The minute hand of a clock hanging on a vertical wall has length <span class=\"math\" data-latex=\"L = 30 cm.\"></span></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The minute hand is observed pointing at 12 and then again 30 minutes later when the minute hand is pointing at 6.</p>\n<p>What is the average velocity and average speed of point P on the minute hand during this time interval?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

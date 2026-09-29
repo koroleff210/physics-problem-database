@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_191211fee4f44a2d978011b725e1410a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A substance in the gas state has a density about <span class=\"math\" data-latex=\"1000\"></span> times less than when it is in the liquid state. The diameter of a molecule is <span class=\"math\" data-latex=\"d\"></span>. What is the best estimate of the average distance between molecules in the gas state?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"d\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"10d\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"100d\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"1000d\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

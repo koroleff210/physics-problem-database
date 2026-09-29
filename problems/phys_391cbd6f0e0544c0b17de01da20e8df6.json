@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_391cbd6f0e0544c0b17de01da20e8df6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two loudspeakers, <span class=\"math\" data-latex=\"L_1\"></span> and <span class=\"math\" data-latex=\"L_2\"></span>, are connected to the same audio oscillator and emit coherent sound waves of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> in phase. A listener at point <span class=\"math\" data-latex=\"P\"></span> is located at a distance of <span class=\"math\" data-latex=\"6.25\\lambda\"></span> from <span class=\"math\" data-latex=\"L_1\"></span> and <span class=\"math\" data-latex=\"8.75\\lambda\"></span> from <span class=\"math\" data-latex=\"L_2\"></span>. Which of the following correctly identifies the phase difference between the two waves at <span class=\"math\" data-latex=\"P\"></span> and the nature of the interference observed?</p>\n<table><thead><tr><th></th><th>Phase difference / rad</th><th>Nature of interference</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"2.5\\pi\"></span></td><td>constructive</td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"2.5\\pi\"></span></td><td>destructive</td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"5.0\\pi\"></span></td><td>constructive</td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"5.0\\pi\"></span></td><td>destructive</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

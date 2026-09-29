@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cab0ff562452333fb3ba04977183216b72ab5921aa36a21d1db63b73c539f95c.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cab0ff562452333fb3ba04977183216b72ab5921aa36a21d1db63b73c539f95c"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_0539ae6baa394314a02e483bb99912b4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A square wire loop <span class=\"math\" data-latex=\"(w\\times w)\"></span> is moved at a constant velocity <span class=\"math\" data-latex=\"v\"></span> (in m s<span class=\"math\" data-latex=\"^{-1}\"></span>) through a region of uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> (in T). The width of the magnetic field region is <span class=\"math\" data-latex=\"3w\"></span> (with <span class=\"math\" data-latex=\"w\"></span> in m), and the field is perpendicular to the plane of the loop.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which graph best represents the variation with time <span class=\"math\" data-latex=\"t\"></span> (in s) of the induced electromotive force (emf) <span class=\"math\" data-latex=\"\\varepsilon\"></span> (in V) in the loop as it moves from one side of the magnetic field to the other?</p><ol class=\"mcq-options\"><li data-label=\"A\">A</li><li data-label=\"B\">B</li><li data-label=\"C\">C</li><li data-label=\"D\">D</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_50de7b15cf7d4042b11f20177afd3d62",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider the following statements about the internal energy of a liquid:</p>\n<p>I. It is the sum of the total intermolecular potential energy and the total random kinetic energy of the particles in the liquid.</p>\n<p>II. As the liquid is freezing its temperature remains unchanged, therefore its internal energy also remains unchanged.</p>\n<p>III. When the liquid is heated, its internal energy increases.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

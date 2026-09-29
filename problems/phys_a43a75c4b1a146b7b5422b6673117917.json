@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_a43a75c4b1a146b7b5422b6673117917",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Perpendicular to both velocity and magnetic field direction / toward the centre of the circular path<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"F = qvB\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Electron follows a circular path in a plane perpendicular to the magnetic field<br/>[1 mark]</p>\n<p>- Magnetic force provides the centripetal force necessary for circular motion<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Use <span class=\"math\" data-latex=\"eV = \\frac{1}{2}mv^2\"></span> or <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2eV}{m}}\"></span><br/>[1 mark]</p>\n<p>- <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2 \\times 1.60 \\times 10^{-19} \\times 4000}{9.11 \\times 10^{-31}}} \\approx 3.8 \\times 10^7\\ \\text{m s}^{-1}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Use <span class=\"math\" data-latex=\"r = \\frac{mv}{qB}\"></span><br/>[1 mark]</p>\n<p>- Substitution of values<br/>[1 mark]</p>\n<p>- <span class=\"math\" data-latex=\"r = \\frac{9.11 \\times 10^{-31} \\times 3.8 \\times 10^7}{1.60 \\times 10^{-19} \\times 0.30} \\approx 7.1 \\times 10^{-4}\\ \\text{m}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>To avoid collisions between electrons and air molecules which would scatter or slow down the beam<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An electron gun is used to produce a narrow beam of electrons which enters a region of uniform magnetic field. The electrons follow a circular path in this magnetic field.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the direction of the force acting on an electron when it enters the magnetic field perpendicularly. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Write an equation for the magnetic force acting on a charged particle moving in a magnetic field. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe the path taken by the electron in the magnetic field and explain the cause of this motion. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the speed of an electron accelerated from rest through a potential difference of 4.0 kV. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Determine the radius of the circular path taken by the electron in a magnetic field of 0.30 T. [3]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Suggest why a vacuum is necessary in the tube containing the electron beam. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

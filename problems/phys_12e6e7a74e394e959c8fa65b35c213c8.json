@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c8fe97f4987b87ee49199226301e27d9ad27dc8e1b0ddba6062d69c7f1fefb40.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c8fe97f4987b87ee49199226301e27d9ad27dc8e1b0ddba6062d69c7f1fefb40"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_12e6e7a74e394e959c8fa65b35c213c8",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a_i\"><p><strong><span class=\"math\" data-latex=\"a_{i}\"></span></strong></p><p>Arrow tangent to the path at P, pointing down and to the right, labelled 'v'.</p></section><section class=\"markscheme-part\" data-label=\"a_ii\"><p><strong><span class=\"math\" data-latex=\"a_{\\mathrm{ii}}\"></span></strong></p><p>Arrow pointing vertically downwards from P, labelled 'a'.</p></section><section class=\"markscheme-part\" data-label=\"b_i\"><p><strong><span class=\"math\" data-latex=\"b_{i}\"></span></strong></p><p>Vertical motion: s = 1/2 gt^2  =&gt;  2.4 = 1/2 × 9.81 × t^2; t = 0.70 s</p>\n<p>Award [1] for correct substitution into a valid kinematic equation. Award [1] for correct answer. Accept g in range 9.8-9.81 m/s^2.</p></section><section class=\"markscheme-part\" data-label=\"b_ii\"><p><strong><span class=\"math\" data-latex=\"b_{\\mathrm{ii}}\"></span></strong></p><p>Horizontal motion: v = d/t = 5.3 / 0.70 = 7.6 m s⁻¹</p>\n<p>Allow Error Carried Forward (ECF) from (b)(i). Answer should be to 2 significant figures.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Answer all questions. Answers must be written within the answer boxes provided.</p><p><strong>1.</strong> A ball is thrown horizontally from a height of 2.4 m above the ground. The horizontal distance travelled by the ball is 5.3 m. Air resistance is negligible.</p><p>The diagram shows the path of the ball. P is an instantaneous position of the ball.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw and label the velocity vector of the ball at P. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Draw and label the acceleration vector of the ball at P. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the time the ball is in the air. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the initial horizontal speed of the ball. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

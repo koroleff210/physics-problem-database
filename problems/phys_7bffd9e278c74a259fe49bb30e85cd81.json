@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fd4e3d8b3cc4e56df340ff1e56bce548abe4d62da947942eb67b75a2c83558ac.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fd4e3d8b3cc4e56df340ff1e56bce548abe4d62da947942eb67b75a2c83558ac"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_7bffd9e278c74a259fe49bb30e85cd81",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three point charges, +Q, +Q and −Q, are fixed at the three corners of a square.</p>\n<p>What is the direction of the electric field at the fourth corner?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

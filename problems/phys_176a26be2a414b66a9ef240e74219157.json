@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 6,
+  "id": "phys_176a26be2a414b66a9ef240e74219157",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>emf is the total energy supplied per unit charge by the source in driving charge around a complete circuit.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\varepsilon = I(R + r)\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Rearranged: <span class=\"math\" data-latex=\"I = \\frac{\\varepsilon}{R + r} = \\frac{9.0}{4.5 + 1.5}\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"I = 1.5\\ \\text{A}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Terminal pd: <span class=\"math\" data-latex=\"V = \\varepsilon - Ir = 9.0 - 1.5 \\cdot 1.5\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"V = 6.75\\ \\text{V}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- As <span class=\"math\" data-latex=\"R\"></span> increases, total current decreases<br/>[1 mark]<br/>- Therefore, <span class=\"math\" data-latex=\"Ir\"></span> becomes smaller, so terminal pd <span class=\"math\" data-latex=\"V = \\varepsilon - Ir\"></span> increases<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A battery of emf <span class=\"math\" data-latex=\"\\varepsilon = 9.0\\ \\text{V}\"></span> and internal resistance <span class=\"math\" data-latex=\"r = 1.5\\ \\Omega\"></span> is connected to an external resistor of resistance <span class=\"math\" data-latex=\"R = 4.5\\ \\Omega\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define electromotive force (emf).<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the equation relating emf, internal resistance, external resistance, and current.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the current in the circuit.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the terminal potential difference of the battery.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain what happens to the terminal potential difference as the external resistance increases.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

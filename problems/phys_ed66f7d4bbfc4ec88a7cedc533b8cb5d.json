@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_ed66f7d4bbfc4ec88a7cedc533b8cb5d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The pressure of an ideal gas is proportional to the</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">average speed of the gas molecules.</li>\n<li data-label=\"B\">square of the average speed of the gas molecules.</li>\n<li data-label=\"C\">root mean square speed of the gas molecules.</li>\n<li data-label=\"D\">square of the root mean square speed of the gas molecules.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

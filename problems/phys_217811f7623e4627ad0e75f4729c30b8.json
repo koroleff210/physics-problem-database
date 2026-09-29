@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d62a622c20b3ecbd55f603d1dd17dc13ab7141fbc98810ae4f7bc576419abbe6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d62a622c20b3ecbd55f603d1dd17dc13ab7141fbc98810ae4f7bc576419abbe6"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_217811f7623e4627ad0e75f4729c30b8",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The surface of a planet absorbs an intensity of 400 W m<sup>−2</sup> and reflects 100 W m<sup>−2</sup>. The surface of the planet is at equilibrium at a constant temperature.</p>\n<p>What is the albedo of the planet surface and the radiated intensity?<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

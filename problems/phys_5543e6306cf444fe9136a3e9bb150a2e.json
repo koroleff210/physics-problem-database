@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_5543e6306cf444fe9136a3e9bb150a2e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the four lowest energy levels for a specific atomic species.</p>\n<table><thead><tr><th>Energy level</th><th>Energy / <span class=\"math\" data-latex=\"10^{-19}\"></span> J</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"E_1\"></span></td><td><span class=\"math\" data-latex=\"-8.2\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"E_2\"></span></td><td><span class=\"math\" data-latex=\"-4.6\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"E_3\"></span></td><td><span class=\"math\" data-latex=\"-3.1\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"E_4\"></span></td><td><span class=\"math\" data-latex=\"-2.5\"></span></td></tr></tbody></table>\n<p>A photon with a frequency of approximately <span class=\"math\" data-latex=\"7.7 \\times 10^{14}\"></span> Hz is detected in the emission spectrum of this gas. Which electron transition is responsible for the emission of this photon?</p>\n<p>(Planck's constant <span class=\"math\" data-latex=\"h = 6.63 \\times 10^{-34}\"></span> J s)</p><ol class=\"mcq-options\"><li data-label=\"A\">Transition from <span class=\"math\" data-latex=\"E_2\"></span> to <span class=\"math\" data-latex=\"E_1\"></span></li><li data-label=\"B\">Transition from <span class=\"math\" data-latex=\"E_3\"></span> to <span class=\"math\" data-latex=\"E_1\"></span></li><li data-label=\"C\">Transition from <span class=\"math\" data-latex=\"E_4\"></span> to <span class=\"math\" data-latex=\"E_1\"></span></li><li data-label=\"D\">Transition from <span class=\"math\" data-latex=\"E_4\"></span> to <span class=\"math\" data-latex=\"E_2\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

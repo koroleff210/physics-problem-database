@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d04d40d10f274639bdae839b74c2a7a3",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The amount of thermal energy required to raise the temperature of <span class=\"math\" data-latex=\"1\\ \\text{kg}\"></span> of a substance by <span class=\"math\" data-latex=\"1\\ ^\\circ\\text{C}\"></span> (or <span class=\"math\" data-latex=\"1\\ \\text{K}\"></span>). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"Q = P \\times t = 60 \\times 180 = 10800\\ \\text{J}\"></span><br/>- Correct formula and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"\\Delta T = 45 - 20 = 25\\ ^\\circ\\text{C}\"></span><br/>- <span class=\"math\" data-latex=\"c = \\frac{Q}{m\\Delta T} = \\frac{10800}{0.40 \\times 25} = 1080\\ \\text{J kg}^{-1}\\ ^\\circ\\text{C}^{-1}\"></span><br/>- Correct calculation of temperature change and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- The average kinetic energy of the particles increases. [1 mark]<br/>- The particles move/vibrate faster or with greater speed. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Insulate the container to reduce thermal energy loss to the surroundings OR stir the liquid to ensure uniform temperature distribution. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student conducts an experiment to determine the specific heat capacity of a liquid. A sample of the liquid with a mass of <span class=\"math\" data-latex=\"0.40\\ \\text{kg}\"></span> is heated using a <span class=\"math\" data-latex=\"60\\ \\text{W}\"></span> electric immersion heater. The temperature of the liquid is recorded at regular intervals, as shown in the table below:</p><table><thead><tr><th>Time (<span class=\"math\" data-latex=\"t\"></span>) / <span class=\"math\" data-latex=\"\\text{s}\"></span></th><th>Temperature (<span class=\"math\" data-latex=\"T\"></span>) / <span class=\"math\" data-latex=\"^\\circ\\text{C}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"0\"></span></td><td><span class=\"math\" data-latex=\"20\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"60\"></span></td><td><span class=\"math\" data-latex=\"28\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"120\"></span></td><td><span class=\"math\" data-latex=\"37\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"180\"></span></td><td><span class=\"math\" data-latex=\"45\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term specific heat capacity.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the total thermal energy supplied by the heater during the <span class=\"math\" data-latex=\"180\\ \\text{s}\"></span> interval.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Use the data from the table and your answer to part (b) to calculate the specific heat capacity of the liquid.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Describe how the motion of the liquid particles changes as the temperature increases from <span class=\"math\" data-latex=\"20\\ ^\\circ\\text{C}\"></span> to <span class=\"math\" data-latex=\"45\\ ^\\circ\\text{C}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Suggest one modification to the experimental setup that would improve the accuracy of the calculated specific heat capacity.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

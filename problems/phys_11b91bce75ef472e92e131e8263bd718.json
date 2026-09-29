@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_11b91bce75ef472e92e131e8263bd718",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The amplitude of a wave emitted by a point source is <span class=\"math\" data-latex=\"A\"></span>. At a distance <span class=\"math\" data-latex=\"s\"></span> the intensity due to the wave is <span class=\"math\" data-latex=\"I\"></span>. The amplitude of the wave emitted by the point source is then decreased by <span class=\"math\" data-latex=\"75\"></span> %. What is the intensity due to this new wave at a distance <span class=\"math\" data-latex=\"\\frac{s}{2}\"></span> from the point source?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{I}{8}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{I}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{9I}{8}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{9I}{4}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

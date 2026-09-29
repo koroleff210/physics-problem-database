@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_f1ddfa3ed0734b3fa3fce40a902524f5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Based on the particulate nature of matter, which statement correctly compares the mobility of charge carriers in electrical conductors and insulators?</p><ol class=\"mcq-options\"><li data-label=\"A\">In conductors, many electrons are delocalized and can move freely through the lattice, whereas in insulators, electrons are tightly bound to atoms and have negligible mobility.</li><li data-label=\"B\">Charge carriers in insulators have much higher individual mobility than those in conductors, but they are prevented from moving by the higher density of the material.</li><li data-label=\"C\">In a conductor, both the positive atomic nuclei and the delocalized electrons have high mobility, while in an insulator, only the nuclei are mobile.</li><li data-label=\"D\">The mobility of charge carriers in an insulator is restricted because they possess a much greater mass than the charge carriers found in a conductor.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

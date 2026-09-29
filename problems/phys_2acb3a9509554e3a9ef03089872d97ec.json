@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2acb3a9509554e3a9ef03089872d97ec",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Correct centripetal force for uniform circular motion: <span class=\"math\" data-latex=\"F_c = m\\frac{v^2}{r}\"></span>.</p>\n<p>B: This is the magnitude of the magnetic force on a charge <span class=\"math\" data-latex=\"q\"></span> moving perpendicular to a magnetic field <span class=\"math\" data-latex=\"B\"></span>, not the general expression for centripetal force.</p>\n<p>C: This corresponds to omitting one factor of <span class=\"math\" data-latex=\"v\"></span>; centripetal force depends on <span class=\"math\" data-latex=\"v^2\"></span>, not <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>D: This incorrectly multiplies by <span class=\"math\" data-latex=\"r\"></span> instead of dividing by <span class=\"math\" data-latex=\"r\"></span>; centripetal force is inversely proportional to radius.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which expression correctly gives the centripetal force for a particle of mass <span class=\"math\" data-latex=\"m\"></span> moving in a circle of radius <span class=\"math\" data-latex=\"r\"></span> with speed <span class=\"math\" data-latex=\"v\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"F = \\frac{mv^2}{r}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"F = qvB\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"F = \\frac{mv}{r}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"F = mv^2r\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9b4da55e7dc5e9718943e8fc0b93a2ba6d4c1363cd6f34fc1693f33d20820a26.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9b4da55e7dc5e9718943e8fc0b93a2ba6d4c1363cd6f34fc1693f33d20820a26"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_24cf121565f14c718c8b7da480bf4b0d",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Zero ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"m\\times 1.0\\times sin 45 ^{∘}+m\\times v_{y}=0\"></span> ✓ <span class=\"math\" data-latex=\"v_{y}\"></span> = «−»0.71 «m s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The use of conservation of momentum in the horizontal direction, e.g. <span class=\"math\" data-latex=\"m\\times 1.0\\times cos 45 ^{∘}+m\\times v_{x}=m\\times 2.0\"></span> ✓ <span class=\"math\" data-latex=\"v_{x}=\"></span>«<span class=\"math\" data-latex=\"2.0-1.0\\times cos 45 ^{∘}=\"></span>»<span class=\"math\" data-latex=\"1.3\"></span> «m s<sup>−1</sup>» ✓ <span class=\"math\" data-latex=\"\\theta=tan^{-1}\\frac{v_{y}}{v_{x}}=29 ^{∘}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Initial kinetic energy <span class=\"math\" data-latex=\"=\\frac{1}{2}m2.0^{2}=2.0 m\"></span>  Final kinetic energy <span class=\"math\" data-latex=\"=\\frac{1}{2}m1.0^{2}+0.71^{2}+1.3^{2}\"></span>  ✓ <span class=\"math\" data-latex=\"1.6 m\"></span>  ✓ Final energy is less than the initial energy hence inelastic  ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Ball A, moving in a horizontal direction at an initial speed of 2.0 m s<sup>−1</sup> collides with a stationary ball B of the same mass. After the collision, ball A moves at a speed of 1.0 m s<sup>−1</sup> at an angle of 45° to the original direction of motion.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the vertical component of the total momentum of the balls after the collision. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Hence, calculate the vertical component of the velocity of ball B after the collision. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the angle θ that the velocity of ball B makes with the initial direction of motion of ball A. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Predict whether the collision is elastic. [4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

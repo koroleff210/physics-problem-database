@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0bc7c167f4a89528b0b415fd28ac9abe64f9af6d9280e75d921d4c71a71259b9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0bc7c167f4a89528b0b415fd28ac9abe64f9af6d9280e75d921d4c71a71259b9"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_9a0950d7a8504667bf1347137627c433",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loop of wire lies in a magnetic field directed into the plane of the page. The loop carries a current in a clockwise direction.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The magnetic force acting on the wire tends to</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">rotate the loop about the X axis.</li><li data-label=\"B\">rotate the loop about the Y axis.</li><li data-label=\"C\">reduce the radius of the loop.</li><li data-label=\"D\">increase the radius of the loop.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

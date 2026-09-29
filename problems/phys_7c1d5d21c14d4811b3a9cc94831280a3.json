@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/166e612691e6e5f94f9453641403f41572c38752ef676cc6ddec401845c61d7f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "166e612691e6e5f94f9453641403f41572c38752ef676cc6ddec401845c61d7f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/9658e526e20e777d67d4720c62841cfb669d3ba622cb874ff2ff9055f51c55b2.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9658e526e20e777d67d4720c62841cfb669d3ba622cb874ff2ff9055f51c55b2"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/ac5c52d180d19e7f537b996f3ca3d4d090b485a438f211ba3e29f63921105121.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ac5c52d180d19e7f537b996f3ca3d4d090b485a438f211ba3e29f63921105121"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_7c1d5d21c14d4811b3a9cc94831280a3",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>smooth curve through all error bars ✔ Curve can start at t <span class=\"math\" data-latex=\"=\"></span> 0.5 min or before.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>17 (<span class=\"math\" data-latex=\"±\"></span>1.5) «<span class=\"math\" data-latex=\"^{∘}\"></span>C» ✔ If candidates did not score in a) i) but showed a y-intercept, allow ECF from their graph.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>there are heat losses OR<br/>block radiates/loses thermal energy ✔ at a rate that equals the power of the heater ✔ Do not accept any reference to thermal equilibrium, unless clearly explained as the balance between energy coming in and out of the block.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>evidence of tangent line at t<span class=\"math\" data-latex=\"=\"></span>0<br/>OR<br/>use of the curve in its initial part of up to 0.75 min ✔ correct slope calculation ✔ Ignore the sign. For MP2, allow the use of any two points on the curve other than the ones indicated above, for [1] max.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>52 <span class=\"math\" data-latex=\"=\"></span> 0.85 <span class=\"math\" data-latex=\"\\times\"></span> c <span class=\"math\" data-latex=\"\\times\"></span> 4 ✔<br/><br/>Converts to seconds to get<br/>c <span class=\"math\" data-latex=\"=\"></span> «917.6 <span class=\"math\" data-latex=\"=\"></span>» 920 «J kg<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> K<span class=\"math\" data-latex=\"-\"></span><sup>1</sup>» ✔<br/> Allow ECF from c) Allow [1] max for a calculation as in MP1 using a different but consistent set of values, i.e., a T difference in the heating process that corresponds to a thermal energy provided for that difference.</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>percentage uncertainty in c is 8 % ✔<br/><span class=\"math\" data-latex=\"\\Delta\"></span>c <span class=\"math\" data-latex=\"=\"></span> 917.6<span class=\"math\" data-latex=\"\\times\"></span>0.08 <span class=\"math\" data-latex=\"=\"></span> 73 « J kg<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> K<span class=\"math\" data-latex=\"-\"></span><sup>1 </sup>» Allow ECF from d) for MP1, if candidates did not use the rate of cooling, accepting either 8 % or 4 %.<br/>Allow ECF from (d) for MP2.<br/>Allow ECF from MP1.</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>c <span class=\"math\" data-latex=\"=\"></span> (9.2<span class=\"math\" data-latex=\"±\"></span>0.7)<span class=\"math\" data-latex=\"\\times\"></span>10<sup>2</sup> J kg<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> K<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> Accept 1 or 2 significant figures for c with a 1 s.f. uncertainty OR 3 s.f. for c with a 2 s.f. uncertainty, i.e., consistent expressions.<br/>Allow ECF from d) and e) i).<br/>Accept an alternative unit, e.g. in g or in <span class=\"math\" data-latex=\"^{∘}\"></span>C.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A thermometer and an electrical heater are inserted into small holes in a solid aluminium block.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The heater is turned on at time t <span class=\"math\" data-latex=\"=\"></span> 0. The graph shows the variation of the temperature <span class=\"math\" data-latex=\"\\theta\"></span> of the block with time t.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> On the graph, draw the line of best-fit for the data. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate the initial temperature of the block. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Suggest why the temperature of the block approaches a constant value. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>When the temperature has reached a constant value the heater is turned off. The graph shows the variation of the temperature <span class=\"math\" data-latex=\"\\theta\"></span> of the block with time t.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>Show that the initial rate of change of the temperature of the block is approximately −4.0 K min<sup>−1</sup>.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The power of the heater is 52 W. The mass of the block is 0.85 kg. Determine the specific heat capacity of aluminium. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> The percentage uncertainty in the rate of change in (c) is 4 %. The percentage uncertainty in the power of the heater is 3 % and that in the mass of the block is 1 %.</p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> Estimate the absolute uncertainty in the specific heat capacity of aluminium. [2]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> Write down the value of the specific heat capacity of aluminium, its uncertainty and its unit. Give your answer to an appropriate number of significant figures. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

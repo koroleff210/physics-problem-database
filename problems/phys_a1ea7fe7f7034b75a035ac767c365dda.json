@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_a1ea7fe7f7034b75a035ac767c365dda",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A third-harmonic standing sound wave is formed in a pipe that is open at one end and closed at the other end. The length of the pipe is <span class=\"math\" data-latex=\"1.2\"></span> m. Point X is located <span class=\"math\" data-latex=\"20\"></span> cm from the closed end of the pipe and point Y is located <span class=\"math\" data-latex=\"60\"></span> cm from the closed end of the pipe. What is the phase difference between the motion of a particle at point X and the motion of a particle at point Y?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\pi}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\pi\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

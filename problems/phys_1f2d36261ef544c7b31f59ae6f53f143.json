@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1f2d36261ef544c7b31f59ae6f53f143",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The specific heat capacity of a substance in the solid state is <span class=\"math\" data-latex=\"c\"></span> and the specific latent heat of fusion of the substance is <span class=\"math\" data-latex=\"L\"></span>. When <span class=\"math\" data-latex=\"5000\"></span> J of energy is supplied to <span class=\"math\" data-latex=\"m\"></span> kg of this substance in the solid state, the temperature of the substance increases by <span class=\"math\" data-latex=\"50\"></span> K. When <span class=\"math\" data-latex=\"20000\"></span> J of energy is supplied to <span class=\"math\" data-latex=\"\\frac{m}{2}\"></span> kg of this substance in the solid state at its melting point, the substance completely melts without a change in its temperature. What is the ratio <span class=\"math\" data-latex=\"\\frac{c}{L}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.010\"></span> K</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.0025\"></span> K</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.010\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.0025\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

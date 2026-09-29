@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_de89701d65f84ddfa4bed34f56dfcf53",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The nucleon number of element <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"N_{A}\"></span> and its nuclear density is <span class=\"math\" data-latex=\"\\rho_{A}\"></span>. The nucleon number of element B is <span class=\"math\" data-latex=\"\\frac{N_{A}}{2}\"></span> and its nuclear density is <span class=\"math\" data-latex=\"\\rho_{B}\"></span>. What is <span class=\"math\" data-latex=\"\\frac{\\rho_{A}}{\\rho_{B}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

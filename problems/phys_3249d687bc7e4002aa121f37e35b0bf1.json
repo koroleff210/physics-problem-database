@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f7079c41ce0bdf5b1977ef4e0ca3c62bacb0bd4464068e4ce0800bfad8bcb7db.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f7079c41ce0bdf5b1977ef4e0ca3c62bacb0bd4464068e4ce0800bfad8bcb7db"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_3249d687bc7e4002aa121f37e35b0bf1",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass 2.0 kg is on a horizontal surface. The object is pulled by a force of 12.0 N and accelerates at 2.0 m s<sup>−2</sup>.</p>\n<p>What is the coefficient of dynamic friction between the object and the surface?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.3</li><li data-label=\"B\">0.4</li><li data-label=\"C\">0.6</li><li data-label=\"D\">0.8</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

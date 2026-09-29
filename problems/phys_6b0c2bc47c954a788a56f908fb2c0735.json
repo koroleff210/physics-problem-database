@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a6f33205cf5f792972779d0757f6ab2aaf5087dccd14cb3c8d9e3a574912d2eb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a6f33205cf5f792972779d0757f6ab2aaf5087dccd14cb3c8d9e3a574912d2eb"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/5fbf0d6e8be28d95dca2eccf9cc29e083e74bdf043e8f5b420cdd24a7b98d88c.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5fbf0d6e8be28d95dca2eccf9cc29e083e74bdf043e8f5b420cdd24a7b98d88c"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_6b0c2bc47c954a788a56f908fb2c0735",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>White light is emitted from a hot filament. The light passes through hydrogen gas at low pressure and then through a diffraction grating onto a screen. A pattern of lines against a background appears on the screen.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the appearance of the lines and background on the screen?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

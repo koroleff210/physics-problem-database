@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0d88e03f30a844369f0d88a17ca34837",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Who was the first scientist to show that electric charge is quantized?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Coulomb</li><li data-label=\"B\">Millikan</li><li data-label=\"C\">Planck</li><li data-label=\"D\">Rutherford</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

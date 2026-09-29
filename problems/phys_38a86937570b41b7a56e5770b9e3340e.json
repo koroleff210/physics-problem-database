@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_38a86937570b41b7a56e5770b9e3340e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is heated at a constant pressure of <span class=\"math\" data-latex=\"2.0 \\times 10^{5}\\text{ Pa}\"></span>. The gas absorbs <span class=\"math\" data-latex=\"850\\text{ J}\"></span> of thermal energy, causing its volume to expand from <span class=\"math\" data-latex=\"1.5 \\times 10^{-3}\\text{ m}^{3}\"></span> to <span class=\"math\" data-latex=\"3.5 \\times 10^{-3}\\text{ m}^{3}\"></span>. What is the resulting change in the internal energy of the gas?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"450\\text{ J}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"850\\text{ J}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1250\\text{ J}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"400\\text{ J}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

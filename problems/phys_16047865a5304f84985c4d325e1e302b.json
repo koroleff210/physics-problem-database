@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_16047865a5304f84985c4d325e1e302b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A helicopter is moving towards a stationary observer in a straight line and its loudspeaker emits a sound of frequency <span class=\"math\" data-latex=\"f_{h}\"></span>. The speed of the helicopter is <span class=\"math\" data-latex=\"0.2c\"></span> where <span class=\"math\" data-latex=\"c\"></span> is the speed of sound. What is the frequency of the sound emitted by the loudspeaker as detected by the observer?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{5f_{h}}{6}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{6f_{h}}{5}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5f_{h}}{4}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4f_{h}}{5}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

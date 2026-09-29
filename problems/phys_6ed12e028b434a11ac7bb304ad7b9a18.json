@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_6ed12e028b434a11ac7bb304ad7b9a18",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The defining characteristic of greenhouse gases is their ability to absorb long-wave infrared (IR) radiation emitted by a planet's surface. This absorption process traps thermal energy in the atmosphere, leading to the greenhouse effect. Other options are incorrect: UV radiation is primarily absorbed by the ozone layer, and the mechanism for greenhouse gases is absorption and re-radiation, not reflection.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which is correct about greenhouse gases in the atmosphere of a planet?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> They reflect incoming ultraviolet radiation from the Sun.</li>\n<li data-label=\"B\"> They absorb incoming ultraviolet radiation from the Sun.</li>\n<li data-label=\"C\"> They reflect infrared radiation from the surface of the planet.</li>\n<li data-label=\"D\"> They absorb infrared radiation from the surface of the planet.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

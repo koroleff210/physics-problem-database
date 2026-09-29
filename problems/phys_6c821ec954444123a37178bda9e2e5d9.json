@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_6c821ec954444123a37178bda9e2e5d9",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <strong>Define</strong> an adiabatic process as one in which no thermal energy (heat) is exchanged between the system and its surroundings (<span class=\"math\" data-latex=\"Q = 0\"></span>). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <strong>Recall and substitute</strong> into the first law: <span class=\"math\" data-latex=\"\\Delta U = Q - W = 520 - 180\"></span>. [1 mark]<br/>- <strong>State</strong> the final value: <span class=\"math\" data-latex=\"\\Delta U = 340\"></span> J. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <strong>State</strong> that for a complete cycle, the net change in internal energy is zero, therefore for process <span class=\"math\" data-latex=\"Y\"></span>, <span class=\"math\" data-latex=\"\\Delta U = -340\"></span> J. [1 mark]<br/>- <strong>Calculate</strong> <span class=\"math\" data-latex=\"Q = \\Delta U + W = -340 + (-440) = -780\"></span> J and <strong>conclude</strong> that energy is transferred <strong>from</strong> the gas. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The following table shows the energy transfers for two sequential processes, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, that return a fixed mass of an ideal gas to its initial state.</p><table><thead><tr><th>Process</th><th>Thermal energy added to gas / J</th><th>Work done by gas / J</th></tr></thead><tbody><tr data-label=\"X\"><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"+520\"></span></td><td><span class=\"math\" data-latex=\"+180\"></span></td></tr><tr data-label=\"Y\"><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"Q\"></span></td><td><span class=\"math\" data-latex=\"-440\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define what is meant by an adiabatic process.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the change in the internal energy of the gas during process <span class=\"math\" data-latex=\"X\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the value of <span class=\"math\" data-latex=\"Q\"></span> for process <span class=\"math\" data-latex=\"Y\"></span> and state whether thermal energy is transferred to or from the gas.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

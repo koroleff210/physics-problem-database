@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_55a0133f526a40ae88e1a41d027ac52d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two containers X and Y are maintained at the same temperature. X has volume <span class=\"math\" data-latex=\"4 m^{3}\"></span> and Y has volume <span class=\"math\" data-latex=\"6 m^{3}\"></span>. They both hold an ideal gas. The pressure in X is <span class=\"math\" data-latex=\"100 Pa\"></span> and the pressure in Y is <span class=\"math\" data-latex=\"50 Pa\"></span>. The containers are then joined by a tube of negligible volume. What is the final pressure in the containers?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"70 Pa\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"75 Pa\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"80 Pa\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"150 Pa\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

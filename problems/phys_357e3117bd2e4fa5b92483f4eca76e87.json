@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ca5d1f6942a4fb624fbddda8359e2cadc604509eaf62ff76530ab29e086e91b7.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ca5d1f6942a4fb624fbddda8359e2cadc604509eaf62ff76530ab29e086e91b7"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_357e3117bd2e4fa5b92483f4eca76e87",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would be the result if the object accelerated uniformly over the entire 10 s (area of a triangle from 0 to 10).</p>\n<p>B: This only accounts for the area of the rectangular portion from 4 s to 10 s.</p>\n<p>C: Correct. Total displacement is the area under the v-t graph: (0.5 × 4 s × 12 m/s) + (6 s × 12 m/s) = 24 m + 72 m = 96 m.</p>\n<p>D: This assumes the object traveled at its maximum velocity for the entire 10 s period (10 × 12).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the velocity <span class=\"math\" data-latex=\"v\"></span> of an object moving in a straight line varies with time <span class=\"math\" data-latex=\"t\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the total displacement of the object during the first <span class=\"math\" data-latex=\"10 \\mathrm{~s}\"></span> of its motion?</p><ol class=\"mcq-options\"><li data-label=\"A\">60 m</li><li data-label=\"B\">72 m</li><li data-label=\"C\">96 m</li><li data-label=\"D\">120 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

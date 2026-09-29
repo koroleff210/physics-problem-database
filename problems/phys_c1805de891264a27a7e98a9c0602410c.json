@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_c1805de891264a27a7e98a9c0602410c",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>average intensity at Ceres orbit<span class=\"math\" data-latex=\"= ( \\frac{3.8 \\times  {10}^{26}}{4 \\times  π \\times  {( 4.4 \\times  {10}^{11} )}^{2}} )  = 156 \\, W \\, {m}^{- 2}\"></span> ✔ average incident intensity<span class=\"math\" data-latex=\"=\\frac{156}{4}=≪39≫\"></span> ✔ temperature <span class=\"math\" data-latex=\"=\\frac{39}{5.67\\times 10^{-8}}^{\\frac{1}{4}}=160 ≪K≫\"></span> ✔ Allow ECF from MP1 and MP2</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>«kinetic» energy of decay products is converted to/transferred as thermal energy ✔<br/>«primarily» by conduction ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>gases have no/weaker intermolecular forces/bonds &lt;&lt;than for solids&gt;&gt; ✔<br/>gases larger intermolecular distances &lt;&lt;than for solids&gt;&gt; ✔<br/>molecules in gases move freely &lt;&lt;but in solids do not&gt;&gt; ✔ &lt;&lt;same temperature so&gt;&gt; same Ek ✔ Accept reverse arguments</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>4.9<span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"-\"></span><sup>21</sup> «J» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>&lt;&lt;use of <span class=\"math\" data-latex=\"\\frac{GM}{r}\"></span>&gt;&gt; &lt;&lt; - &gt;&gt; <span class=\"math\" data-latex=\"\\frac{6.67\\times 10^{-11}\\times 9\\times 10^{20}}{4.7\\times 10^{5}}\"></span> OR &lt;&lt; - &gt;&gt; 1.3<span class=\"math\" data-latex=\"\\times\"></span>10<sup>5</sup> seen ✔ Award [1] for correct substitution</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Ceres is a dwarf planet in the asteroid belt. The following data are available.</p>\n<table><tbody><tr><td><p>Mean distance of Ceres from the Sun</p></td><td><p>= 4.4 × 10<sup>11</sup> m</p></td></tr><tr><td><p>Mean power output of the Sun</p></td><td><p>= 3.8 × 10<sup>26</sup> W</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Determine the mean temperature of Ceres assuming that it acts as a black-body radiator. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Ceres has a solid rocky core covered with solid ice. The mean temperature is higher than your answer in (a)(i) because radioactive nuclei in the centre of Ceres are decaying. Outline how the energy from the radioactive decay reaches the surface. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> At low temperatures such as the mean temperature of Ceres, water undergoes a phase change directly from solid to gas.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Compare the molecular conditions of the solid phase and the gas phase at the same temperature. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The maximum surface temperature of Ceres is <span class=\"math\" data-latex=\"-\"></span>38 <span class=\"math\" data-latex=\"^{∘}\"></span>C. Observations show that significant quantities of water vapour are released from the surface of Ceres every second when the temperature is at this maximum. Calculate the mean kinetic energy of a molecule of water vapour at this temperature. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> </p><p>The following data are available.</p>\n<table><tbody><tr><td><p>Radius of Ceres</p></td><td><p>= 4.7 × 10<sup>5</sup> m</p></td></tr><tr><td><p>Mass of Ceres</p></td><td><p>= 9.0 × 10<sup>20</sup> kg</p></td></tr></tbody></table>\n<p>Show that the gravitational potential at the surface of Ceres is about <span class=\"math\" data-latex=\"-\"></span>10<sup>5</sup> J kg<span class=\"math\" data-latex=\"-\"></span><sup>1</sup>.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

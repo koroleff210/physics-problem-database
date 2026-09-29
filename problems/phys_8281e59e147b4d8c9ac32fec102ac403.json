@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_8281e59e147b4d8c9ac32fec102ac403",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Atoms have discrete/quantized energy levels;<br/>An electron absorbs a photon to move to a higher energy level;<br/>The photon energy must equal the difference between energy levels, so only specific wavelengths are absorbed (creating dark lines in a continuous spectrum);</p>\n<p>For the third mark, the link between energy difference and specific absorbed wavelengths from a continuous spectrum must be clear.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>E₂ - E₁ = (E₂ - E₀) - (E₁ - E₀) = hc/λ₂₀ - hc/λ₁₀;<br/>= 1240 eV nm × (1/309 nm - 1/514 nm) = 1.60 eV;</p>\n<p>Award [1] for correct method showing subtraction of energies (or calculation of individual energies in eV and then subtraction). Award [1] for correct final answer to 3 s.f. Answer must be in eV. Allow answers in range 1.59-1.61 eV due to rounding of constants.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows some of the energy levels of an atom.</p><p>[Diagram: three horizontal atomic energy levels labelled E0, E1 and E2, with E2 highest, E1 middle and E0 lowest.]</p><p>The wavelengths of photons emitted in some of the atomic transitions between these energy levels are given in the table.</p><div class=\"table-responsive\"><table><thead><tr><th>Transition</th><th>Wavelength / nm</th></tr></thead><tbody><tr><td>From E1 to E0</td><td>514</td></tr><tr><td>From E2 to E0</td><td>309</td></tr></tbody></table></div><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain, with reference to energy levels, the formation of the absorption spectrum of a gas. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate in eV the energy difference E2 - E1 using the given wavelengths 514 nm and 309 nm. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

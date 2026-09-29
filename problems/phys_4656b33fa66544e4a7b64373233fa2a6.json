@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_4656b33fa66544e4a7b64373233fa2a6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A moderator and control rods are two key parts of a nuclear power station. What is true about the atoms in a moderator and the atoms in control rods?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Both are good absorbers of neutrons.</li>\n<li data-label=\"B\">Both are poor absorbers of neutrons.</li>\n<li data-label=\"C\">Moderator atoms are good absorbers of neutrons, control rod atoms are poor absorbers of neutrons.</li>\n<li data-label=\"D\">Moderator atoms are poor absorbers of neutrons, control rod atoms are good absorbers of neutrons.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

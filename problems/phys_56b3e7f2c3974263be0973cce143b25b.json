@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_56b3e7f2c3974263be0973cce143b25b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The maximum induced emf (ε) is proportional to the number of turns (N) and the speed of the magnet (v), so ε ∝ Nv. A ratio can be set up: ε₂/ε₁ = (N₂v₂)/(N₁v₁). Solving for the new speed v₂ gives v₂ = v₁ * (ε₂/ε₁) * (N₁/N₂) = 2.0 * (300/400) * (100/300) = 0.5 m/s.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A magnet is inserted into a coil of 100 turns with speed <span class=\"math\" data-latex=\"2.0\\,\\mathrm{m\\,s^{-1}}\"></span> and induces a maximum emf of <span class=\"math\" data-latex=\"400\\,\\mathrm{V}\"></span>. The magnet is then inserted into a coil of the same length and cross-sectional area with 300 turns and induces a maximum emf of <span class=\"math\" data-latex=\"300\\,\\mathrm{V}\"></span>.</p>\n<p>What is its new speed?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"6.0\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"2.3\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"1.5\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"0.5\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

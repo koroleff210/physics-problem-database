@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/79a5bc912e4a01fbd6fc1999da2d64c4b9b4dd9f3184172c65cf7206626d0ae4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "79a5bc912e4a01fbd6fc1999da2d64c4b9b4dd9f3184172c65cf7206626d0ae4"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/903afd4b18ed3734c1dd98151429de0d8196acb89262ac6c205fa87fdfcb49f4.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "903afd4b18ed3734c1dd98151429de0d8196acb89262ac6c205fa87fdfcb49f4"
+    }
+  ],
+  "classes": [
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a281462beb6a4daca1802ef34fd4dd06",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"I=\\frac{F}{BL}=\\frac{0.084}{1.20.6}=0.117 A\"></span> ✓ <br/>Must see full substitution   OR   answer to 3 (or more) significant figures.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Down «the page» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>current «in wire» creates a magnetic field OR Reference to hand rule ✓<br/><br/> «by hand rule» Field is out of page on right side of wire OR Field is into the page on left side of wire. ✓<br/><br/> therefore, field is smaller/weaker/opposite direction on right side of wire OR field is larger/stronger/same direction on left side of wire. ✓ <br/>Allow ECF from 4aii) for “upwards” current. For MP2 and MP3 we need to see specific sides mentioned. Allow ECF from MP2 if field directions are backwards.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Force on wires is attractive/towards each other. OR Force on left wire to the right AND force on right wire to the left ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{F}{L} = {μ}_{0} \\frac{{I}^{2}}{2 π r}\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{F}{L}=4\\pi\\times 10^{-7}\\times \\frac{0.117^{2}}{2\\pi0.4}= 6.84\\times 10^{-9}\"></span> ✓ N m<sup>–1</sup> ✓ <br/>Award MP2 for use of L = 0.6 m leading to 4.1 × 10<sup>–9</sup> (or 4.32 × 10<sup>–9</sup>) For MP3 accept other variations such as kg s<sup>–2</sup> or T A MP3 should be awarded for correct units regardless of value.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A metal conducting wire is in a region of uniform magnetic field B = 1.2 T directed into the page. There is current in the wire and the piece of wire has a length L = 0.60 m.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The wire experiences a magnetic force of 0.084 N toward the right.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the current in the wire is about 0.12 A. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State the direction of the current through the wire. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Outline how current in the wire causes the magnitude of the magnetic field to be different on the left side and right side of the wire. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The wire is now removed from the magnetic field and placed at a distance of 0.4 m from another similar conducting wire. Both wires have the same current as before, in the same direction.<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the direction of the force on each wire. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine the force per unit length between the two wires. Give an appropriate SI unit for your answer. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

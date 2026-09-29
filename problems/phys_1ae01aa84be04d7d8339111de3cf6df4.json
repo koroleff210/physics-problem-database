@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_1ae01aa84be04d7d8339111de3cf6df4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In Earth's inertial frame, two events are simultaneous and are separated by a distance of <span class=\"math\" data-latex=\"1.80\\times 10^8\\ \\text{m}\"></span>. What is the magnitude of the time difference between the events in a frame moving at <span class=\"math\" data-latex=\"0.60c\"></span> in the direction from the first event to the second?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.00\\ \\text{s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.45\\ \\text{s}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.90\\ \\text{s}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.80\\ \\text{s}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

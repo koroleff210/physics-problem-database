@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_e05a81e086584b889de9d72f9827d1e5",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"I=e\\sigma T^4\"></span>.</p>\n<p><span class=\"math\" data-latex=\"\\sigma T^4=5.67\\times10^{-8}\\times(300)^4=4.59\\times10^{2}\\,\\text{W m}^{-2}\"></span> (black-body value) [1 mark]</p>\n<p><span class=\"math\" data-latex=\"I=0.70\\times4.59\\times10^{2}=3.21\\times10^{2}\\,\\text{W m}^{-2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"I_{\\text{dry land}}=eI_{\\text{bb}}=0.70\\,I_{\\text{bb}}\"></span>, so it is 70% of the black-body value (30% lower)<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Dark, matte/rough surfaces tend to have higher emissivity (closer to 1). [1 mark]</p>\n<p>Light-coloured and/or smooth/shiny surfaces tend to have lower emissivity (reflect more IR). [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Thermal infrared emission from different Earth surfaces can be modelled using the Stefan–Boltzmann law <span class=\"math\" data-latex=\"I=e\\sigma T^4\"></span>, where <span class=\"math\" data-latex=\"I\"></span> is the emitted power per unit area, <span class=\"math\" data-latex=\"e\"></span> is emissivity and <span class=\"math\" data-latex=\"\\sigma=5.67\\times10^{-8}\\,\\text{W m}^{-2}\\text{K}^{-4}\"></span>. For dry land, take <span class=\"math\" data-latex=\"e=0.70\"></span> and <span class=\"math\" data-latex=\"T=300\\,\\text{K}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the emitted power per unit area from the dry land. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Compare this emitted power per unit area to that of a black body at the same temperature. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe how the nature of a surface (material/texture/colour) affects its emissivity. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

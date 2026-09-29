@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a5ebac542961e804956502aa9c10312f62a55da3f5bd6830f837ce6f31a14c0c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a5ebac542961e804956502aa9c10312f62a55da3f5bd6830f837ce6f31a14c0c"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_4cc507e281214fc9858e3c5ba7336b42",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>there is background radiation present OR there is a systematic error in the rate counter ✔ Award [1] for an explanation that suggests that other radioactive elements of higher half-life could be present in the sample.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>realization that 2 «Bq» is the background activity ✔ calculation, reading or work on graph that shows understanding of half-life ✔ half-life <span class=\"math\" data-latex=\"=\"></span> 70 (<span class=\"math\" data-latex=\"±\"></span>5) «s» ✔ Allow [2] max for a correct calculation of a half-life if MP1 is not scored, range accepted 65 to 85. Award MP2 for the correct use of any number of half-lives. For MP3, accept answers in the range 65 «s» to 75 «s»</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The graph shows the variation with time t of the activity A of a sample of protactinium-234.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Suggest why the activity approaches a non-zero constant value. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Estimate the half-life of protactinium-234 explaining your work. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_0124ac8f2b984b97846b9ff7ab85ace5",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is true about the shape of Earth's orbit around the Sun and about the orbital speed of Earth, according to Kepler's laws of planetary motion?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Shape of Earth's orbit around the Sun</strong></p>\n</td>\n<td>\n<p><strong>Orbital speed of Earth</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Elliptical</p>\n</td>\n<td>\n<p>Constant</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Elliptical</p>\n</td>\n<td>\n<p>Varies</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>Circular</p>\n</td>\n<td>\n<p>Constant</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>Circular</p>\n</td>\n<td>\n<p>Varies</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

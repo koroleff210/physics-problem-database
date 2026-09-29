@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_a9a38d3f4ccc4919af0cae56cdb6b111",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fusion reaction of one nucleus of hydrogen-2 and one nucleus of hydrogen-3 converts a mass of 0.024 u into energy. A fission reaction of one nucleus of uranium-235 converts a mass of 0.48 u into energy.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{energy released per unit mass of hydrogen}}{\\textit{energy released peer unit mass of uranium}}\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.050</li><li data-label=\"B\">0.426</li><li data-label=\"C\">2.35</li><li data-label=\"D\">20.0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

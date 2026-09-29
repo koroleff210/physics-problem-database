@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_41ffe33c813e456e986312ab30c09a79",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cylinder sealed by a movable piston contains <span class=\"math\" data-latex=\"n\"></span> moles of an ideal gas. Initially, the pressure in the cylinder is <span class=\"math\" data-latex=\"p\"></span> and the volume occupied by the gas is <span class=\"math\" data-latex=\"V\"></span>. The cylinder is opened and <span class=\"math\" data-latex=\"6.02 \\times 10^{24}\"></span> gas molecules are released. This causes a <span class=\"math\" data-latex=\"50\"></span> % increase in the volume and a <span class=\"math\" data-latex=\"50\"></span> % decrease in the pressure in the cylinder. The average kinetic energy of the gas molecules is unchanged. What is the value of <span class=\"math\" data-latex=\"n\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"20\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"30\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"40\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"60\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

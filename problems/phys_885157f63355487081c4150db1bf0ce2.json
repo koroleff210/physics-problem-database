@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_885157f63355487081c4150db1bf0ce2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>Heat flows from a region of higher temperature to one of lower temperature, so heat will flow from gas Y (at 2T) to gas X (at T). The internal energy of an ideal gas is proportional to the product of the number of particles and the absolute temperature (U ∝ NT). Comparing the two gases, <span class=\"math\" data-latex=\"U_{X}\"></span> = U ∝ <span class=\"math\" data-latex=\"N_{X}\"></span> * T and <span class=\"math\" data-latex=\"U_{Y}\"></span> = U/2 ∝ <span class=\"math\" data-latex=\"N_{Y}\"></span> * 2T. Solving for the number of particles shows <span class=\"math\" data-latex=\"N_{X}\"></span> = 4 * <span class=\"math\" data-latex=\"N_{Y}\"></span>, meaning gas X has more particles.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas X at temperature T has internal energy U. A second ideal gas Y at temperature 2T has internal energy U/2. Which gas has more particles and what is the direction of heat flow between the gases once they are put into thermal contact?</p>\n<table><thead><tr><th>Option</th><th>Gas with more particles</th><th>Direction of heat flow</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>X</td><td>X to Y</td></tr><tr data-label=\"B\"><td>B</td><td>Y</td><td>X to Y</td></tr><tr data-label=\"C\"><td>C</td><td>X</td><td>Y to X</td></tr><tr data-label=\"D\"><td>D</td><td>Y</td><td>Y to X</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

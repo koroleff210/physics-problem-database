@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_8e9ee566405f40ddbce1be39afec0c23",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why the temperature of a substance remains constant during melting, even though thermal energy is being added?</p><ol class=\"mcq-options\"><li data-label=\"A\">The added energy increases the average kinetic energy of the particles.</li><li data-label=\"B\">The energy is used to increase the pressure of the substance.</li><li data-label=\"C\">The energy is used to break intermolecular bonds, not to increase particle speed.</li><li data-label=\"D\">The substance releases energy to its surroundings at the same rate it absorbs it.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

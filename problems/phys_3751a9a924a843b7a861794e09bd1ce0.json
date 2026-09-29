@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_3751a9a924a843b7a861794e09bd1ce0",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>2.43 pm ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>8.43 pm ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>(Energy of photon inversely prop to wavelength)   photon transfers some of its energy to the electron. ✓ If its energy decreases so its wavelength increases. ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>(for this interaction) <span class=\"math\" data-latex=\"\\Delta\\lambda=\\frac{h}{m_{e}c}1-cos \\theta=\\frac{h}{m_{e}c}\"></span> and therefore <span class=\"math\" data-latex=\"1-cos \\theta\"></span> must equal 1 ✓ so cos theta = 0 and theta = 90 deg ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iv\"><p><strong>b.iv</strong></p><p>(Because energy is conserved)<br/><span class=\"math\" data-latex=\"E_{k}=hc\\frac{1}{\\lambda_{i}}-\\frac{1}{\\lambda_{f}}\"></span> <span class=\"math\" data-latex=\"=6.63\\times 10^{-34}\\times 3.00\\times 10^{8}\\frac{1}{6.00\\times 10^{-12}}-\\frac{1}{8.43\\times 10^{-12}}\"></span> ✓ 9.6 fJ ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The quantity <span class=\"math\" data-latex=\"\\frac{h}{m_{e}c}\"></span> is known as the Compton wavelength.</p>\n<p>Show that the Compton wavelength is about 2.4 pm.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> A photon with a wavelength of 6.00 pm interacts with a stationary electron. After the interaction the photon's wavelength has changed by 2.43 pm.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the wavelength of the photon after the interaction. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Outline why the wavelength of the photon has changed. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Deduce the scattering angle for the photon. [2]</p></section><section class=\"question-part\" data-label=\"b.iv\"><p><strong>b.iv</strong> Determine, in J, the kinetic energy of the electron after the interaction. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_12f3cb7c4fe84dc18b680c57f077f386",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect: this depends on Earth’s cross-sectional area and is not per unit area.</p>\n<p>B: Incorrect: this is the Sun’s luminosity, not an irradiance at Earth’s orbit.</p>\n<p>C: Correct: the solar constant is the solar power per unit area (irradiance) at Earth’s orbit at the top of the atmosphere, on a surface perpendicular to the Sun’s rays.</p>\n<p>D: Incorrect: this refers to Earth’s total power output (radiated/returned), not the incoming solar irradiance per unit area.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The solar constant at Earth’s orbit is approximately <span class=\"math\" data-latex=\"1.36\\ \\text{kW m}^{-2}\"></span>. Which of the following best describes the solar constant?</p><ol class=\"mcq-options\"><li data-label=\"A\">The total energy received by Earth per second</li><li data-label=\"B\">The total energy emitted by the Sun per second</li><li data-label=\"C\">The amount of solar energy per unit area received at a point outside Earth’s atmosphere, per second</li><li data-label=\"D\">The total energy Earth emits back into space per second</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

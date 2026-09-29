@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/695e69f290892c605fae4fa1df92ea640afee9b6a2940e91b7ab9eb9ec15c134.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "695e69f290892c605fae4fa1df92ea640afee9b6a2940e91b7ab9eb9ec15c134"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/bd75fea19dcaea0ee705030bb3311b1451afd989d6371e54287b1a5b726f245d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bd75fea19dcaea0ee705030bb3311b1451afd989d6371e54287b1a5b726f245d"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fc977ff394454a3d894eb9d33d5c8ab7",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The coil of a direct current electric motor is turning with a period T. At t = 0 the coil is in the position shown in the diagram. Assume the magnetic field is uniform across the coil.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which graph shows the variation with time of the force exerted on section XY of the coil during one complete turn?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

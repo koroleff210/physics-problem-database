@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4b26c1d5de1a8b17dcbade13a0af3304b463c26012c42ca18b1cbbfb49928222.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4b26c1d5de1a8b17dcbade13a0af3304b463c26012c42ca18b1cbbfb49928222"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_2925e12189ff4cc49586d5655641fc97",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A travelling wave of time period 2.0 s is moving through a medium. The graph shows, for one instant, the variation with distance of the displacement of particles in the medium.</p>\n<p>What is the speed of the wave?<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.75 m s<sup>−1</sup></li><li data-label=\"B\">1.5 m s<sup>−1</sup></li><li data-label=\"C\">3.0 m s<sup>−1</sup></li><li data-label=\"D\">6.0 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

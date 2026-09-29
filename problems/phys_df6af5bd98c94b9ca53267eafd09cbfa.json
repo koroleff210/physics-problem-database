@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f4041155e99b87c04796ccea8bc77e0069a7793768e5f3cb4867ffb2e5167291.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f4041155e99b87c04796ccea8bc77e0069a7793768e5f3cb4867ffb2e5167291"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_df6af5bd98c94b9ca53267eafd09cbfa",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p></p>\n<p>The net force on the sledge is zero, which is why it is moving at constant speed.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>The net force on the sledge is not zero, due to the component of the weight along the slope.</p>\n<p>Therefore the sledge is decelerating at a constant rate.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"(2.7)^{2} = (0)^{2} + 2a(6.3)\"></span></p>\n<p><span class=\"math\" data-latex=\"a \\approx 0.579\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p>The net force is equal to the component of the weight along the slope, so:</p>\n<p><span class=\"math\" data-latex=\"ma = mg \\times sin \\theta\"></span></p>\n<p><span class=\"math\" data-latex=\"sin \\theta = \\frac{0.579}{9.81}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\theta \\approx 3.4^{\\circ}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A person on a sledge is sliding along a horizontal surface at a speed of <span class=\"math\" data-latex=\"2.7\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> between points X and Y. When the sledge reaches point Y, it slides up a slope to point Z where it comes to rest for a moment. The surfaces are frictionless. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline why the sledge moves at constant speed between X and Y. In your answer, refer to Newton’s first law of motion.</p>\n<p>  [1]</p>\n<p>b. Describe the motion of the sledge from Y to Z. In your answer, refer to Newton’s second law of motion.</p>\n<p>   [2]</p>\n<p>c. The angle between the slope and the horizontal is <span class=\"math\" data-latex=\"\\theta\"></span>. The distance between point Y and point Z is <span class=\"math\" data-latex=\"6.3\"></span> m. Calculate the value of <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

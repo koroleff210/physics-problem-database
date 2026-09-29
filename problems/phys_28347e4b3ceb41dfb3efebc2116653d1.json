@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_28347e4b3ceb41dfb3efebc2116653d1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The frequency of a mass-spring system oscillating horizontally with simple harmonic motion (SHM) on the surface of planet X is <span class=\"math\" data-latex=\"f\"></span>. The gravitational field strength at the surface of planet X is <span class=\"math\" data-latex=\"g_{X}\"></span>. The mass-spring system is moved to the surface of planet Y where the gravitational field strength is <span class=\"math\" data-latex=\"g_{Y}\"></span>. <span class=\"math\" data-latex=\"\\frac{g_{X}}{g_{Y}}=\\frac{1}{4}\"></span>. What is the frequency at which the mass-spring system oscillates on the surface of planet Y?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{f}{2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"f\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2f\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4f\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

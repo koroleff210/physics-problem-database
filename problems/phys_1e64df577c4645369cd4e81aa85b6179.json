@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e5e1b0a3cd5f0f1bfce81b6d64ec0c3d434cff1296b5739275c1fdd5ff1f8e88.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e5e1b0a3cd5f0f1bfce81b6d64ec0c3d434cff1296b5739275c1fdd5ff1f8e88"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1e64df577c4645369cd4e81aa85b6179",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The initial number of undecayed nuclei at t=0 is N₀ = 1000. The half-life is the time required for the number of nuclei to decrease to half this value, N = 500. Reading from the graph, the time corresponding to N=500 is t = 1200 seconds. Converting to minutes gives 1200 s / 60 s/min = 20 minutes.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the radioactive decay curve for an isotope.</p>\n<p>What is its half-life?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> 20 minutes</li>\n<li data-label=\"B\"> 15 minutes</li>\n<li data-label=\"C\"> 12 minutes</li>\n<li data-label=\"D\"> 10 minutes</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

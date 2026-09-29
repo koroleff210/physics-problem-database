@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5dd6ae08a97b2c8cbb67c49d0c57b463c0835fbc2c6325027c70c4196dca37b9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5dd6ae08a97b2c8cbb67c49d0c57b463c0835fbc2c6325027c70c4196dca37b9"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_a3bc3837c2b742948d4be6e4687985c4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how <span class=\"math\" data-latex=\"T\"></span>, the temperature of two substances varies with <span class=\"math\" data-latex=\"t\"></span>, time as energy is supplied to them at the same rate. Initially, both substances are in the solid state. Which of the following statements is <strong>not</strong> correct about the two substances?</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Initially, the substances have the same temperature.</li>\n<li data-label=\"B\">It takes substance A more time to melt than substance B.</li>\n<li data-label=\"C\">The specific heat capacity of substance A in the liquid state is the same as the specific heat capacity of substance B in the solid state.</li>\n<li data-label=\"D\">The specific heat capacity of substance A in the solid state is larger than in the liquid state.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

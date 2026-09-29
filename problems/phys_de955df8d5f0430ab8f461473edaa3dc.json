@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/06d34ab5b7cf0dfe63ec2820de5c2823494ecda896af0e1caca8d0de61602bcb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "06d34ab5b7cf0dfe63ec2820de5c2823494ecda896af0e1caca8d0de61602bcb"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/26aff1dec68f68c19c1691d1b9a5f729f601c272e8e1656eeaa23cd047757394.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "26aff1dec68f68c19c1691d1b9a5f729f601c272e8e1656eeaa23cd047757394"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_de955df8d5f0430ab8f461473edaa3dc",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows possible paths Q, R, and S of particles moving into a region of uniform magnetic field. The field is directed into the plane of the page.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What particles are shown by each path?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

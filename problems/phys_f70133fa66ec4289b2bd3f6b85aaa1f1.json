@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2a83740619d03a9dc8574e4e47e28137fe6d2666a604f5f2d62e7eba7e251218.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2a83740619d03a9dc8574e4e47e28137fe6d2666a604f5f2d62e7eba7e251218"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f70133fa66ec4289b2bd3f6b85aaa1f1",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E_{potential}\"></span> = <span class=\"math\" data-latex=\"E_{kinetic}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}k\\Delta x^{2}\"></span> = <span class=\"math\" data-latex=\"\\frac{p^{2}}{2m}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta x\"></span> = <span class=\"math\" data-latex=\"\\frac{p}{\\sqrt{mk}}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\Delta x\"></span> = <span class=\"math\" data-latex=\"\\frac{mv}{\\sqrt{mk}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta x^{2}\"></span> = <span class=\"math\" data-latex=\"\\frac{mv^{2}}{k}\"></span></p>\n<p><em>v</em> = <span class=\"math\" data-latex=\"\\sqrt{\\frac{k\\Delta x^{2}}{m}}\"></span></p>\n<p><em>v</em> = <span class=\"math\" data-latex=\"\\sqrt{\\frac{63.9\\times (0.124 - 0.072)^{2}}{0.12}}\"></span></p>\n<p><em>v</em> = 1.19995 <span class=\"math\" data-latex=\"\\approx\"></span> 1.2 m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Calculated answer should be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p>\n<p> </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p>Using <em>v</em><span class=\"math\" data-latex=\"^{2}\"></span> = <em>u</em><span class=\"math\" data-latex=\"^{2}\"></span> + 2<em>as</em></p>\n<p><em>a</em> = <span class=\"math\" data-latex=\"\\frac{1.15^{2}-1.2^{2}}{2 \\times 0.035}\"></span></p>\n<p><em>a</em> = - 1.68 m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p>Using <span class=\"math\" data-latex=\"F_{f}\"></span> = <span class=\"math\" data-latex=\"\\mu_{d}R\"></span></p>\n<p><em>ma</em> = <span class=\"math\" data-latex=\"\\mu_{d}\"></span><em>mg</em></p>\n<p><span class=\"math\" data-latex=\"\\mu_{d}\"></span> = <span class=\"math\" data-latex=\"\\frac{a}{g}\"></span> = <span class=\"math\" data-latex=\"\\frac{1.68}{9.81}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\mu_{d}\\approx 0.17\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d\"><p><strong>4d</strong></p><p></p>\n<p>At point B: </p>\n<p><span class=\"math\" data-latex=\"E_{k} = \\frac{1}{2} \\times 0.12 \\times 1.2^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{k}\"></span> = 0.0864 J</p>\n<p>At point F:</p>\n<p><span class=\"math\" data-latex=\"E_{grav. p.}\"></span> = 0.85 <span class=\"math\" data-latex=\"\\times\"></span> 0.0864</p>\n<p><span class=\"math\" data-latex=\"E_{grav. p.}\"></span> = 0.07344 J</p>\n<p>0.12 <span class=\"math\" data-latex=\"\\times\"></span> 9.81 <span class=\"math\" data-latex=\"\\times\"></span> (0.012 + <em>r</em>) = 0.07344</p>\n<p><em>r</em> = 0.05 m</p>\n<p>Length from E to F (quarter of a circle) = <span class=\"math\" data-latex=\"\\frac{2 \\times \\pi \\times 0.05}{4}\"></span> <span class=\"math\" data-latex=\"\\approx\"></span> 0.079 m</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A child launches a toy car of mass <em>m</em> by compressing and releasing a spring of spring constant <em>k</em>. The car travels along a track from point A to point F. The initial momentum of the toy car right after it loses contact with the spring is <em>p</em>. Assume that friction within the spring and air friction are negligible and that the surface between point A and point B is frictionless.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Show that the distance by which the spring has been compressed can be expressed as <span class=\"math\" data-latex=\"\\frac{p}{\\sqrt{mk}}\"></span>. </p>\n<p>  [2]</p>\n<p>b.  A certain spring is 12.4 cm long and has a spring constant of 63.9 N m<span class=\"math\" data-latex=\"^{-1}\"></span>. A toy car with a mass of 120 g is launched by compressing this spring to a length of 7.2 cm. Show that the initial speed of the toy car is 1.2 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>   [3]</p>\n<p>c. After the toy car has been launched, it travels along the track from point A to point F, where it comes to rest for a moment. The surface between point B and point F is <strong>not</strong> frictionless. The distance between point B and point C is 3.5 cm and the speed of the toy car at point C is 1.15 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. Calculate the coefficient of dynamic friction of the surface between point B and point C.</p>\n<p>  [3]</p>\n<p>d. The toy car loses 15% of its kinetic energy due to friction between point B and point F. The height of the ramp between point C and point D is 1.2 cm. The shape of the track between point E and point F is a circular arc with centre O. Angle <span class=\"math\" data-latex=\"E\\hat{O}F\"></span> is 90<span class=\"math\" data-latex=\"^{o}\"></span>. Find the length of the track between E and F. </p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

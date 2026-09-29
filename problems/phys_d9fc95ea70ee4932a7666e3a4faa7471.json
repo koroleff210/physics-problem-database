@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5fd22bf54301a6e201eea17a8c89953ab67218d2749b266e9748fc4730fae650.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5fd22bf54301a6e201eea17a8c89953ab67218d2749b266e9748fc4730fae650"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_d9fc95ea70ee4932a7666e3a4faa7471",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>X and Y are two conductors with the same diameter, made from the same material. Y is twice the length of X. They are connected in series to a cell of emf ε.</p>\n<p>X dissipates power P.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the power dissipated by Y?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{P}{2}\"></span></li><li data-label=\"B\">P</li><li data-label=\"C\">2P</li><li data-label=\"D\">4P</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

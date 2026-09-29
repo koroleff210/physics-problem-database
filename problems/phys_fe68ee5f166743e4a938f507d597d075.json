@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_fe68ee5f166743e4a938f507d597d075",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* The acceleration of the mass is directly proportional to its displacement from the equilibrium position. [1 mark]<br/>* The acceleration is always directed towards the equilibrium position (or opposite to the direction of displacement). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"k = \\frac{F}{x} = \\frac{2.80}{0.070} = 40 \\mathrm{\\,N\\,m^{-1}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Period formula: <span class=\"math\" data-latex=\"T = 2 \\pi \\sqrt{\\frac{m}{k}}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = 2 \\pi \\sqrt{\\frac{0.350}{40}} = 0.588 \\mathrm{\\,s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"f = \\frac{1}{T} = \\frac{1}{0.588} = 1.70 \\mathrm{\\,Hz}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Angular frequency: <span class=\"math\" data-latex=\"\\omega = \\sqrt{\\frac{k}{m}} = \\sqrt{\\frac{40}{0.350}}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\omega = 10.7 \\mathrm{\\,rad\\,s^{-1}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>Maximum acceleration: <span class=\"math\" data-latex=\"a_{max} = \\omega^2 A\"></span></p>\n<p><span class=\"math\" data-latex=\"a_{max} = (10.69)^2 \\times 0.045 = 5.14 \\mathrm{\\,m\\,s^{-2}}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<p>An engineer is testing a mechanical sensor consisting of a mass <span class=\"math\" data-latex=\"m = 0.350 \\mathrm{\\,kg}\"></span> suspended from a vertical spring. The system is designed to oscillate with simple harmonic motion (SHM).</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the two conditions required for the motion of the mass to be defined as simple harmonic. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>In a preliminary test, the engineer observes that adding a weight of <span class=\"math\" data-latex=\"2.80 \\mathrm{\\,N}\"></span> to the spring results in a static extension of <span class=\"math\" data-latex=\"0.070 \\mathrm{\\,m}\"></span>.</p>\n<p>Calculate the spring constant <span class=\"math\" data-latex=\"k\"></span> of the spring.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the period of oscillation <span class=\"math\" data-latex=\"T\"></span> when the <span class=\"math\" data-latex=\"0.350 \\mathrm{\\,kg}\"></span> mass is attached to this spring. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the frequency of these oscillations. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> The mass is pulled down by an amplitude of <span class=\"math\" data-latex=\"4.50 \\mathrm{\\,cm}\"></span> and then released. Calculate the angular frequency <span class=\"math\" data-latex=\"\\omega\"></span> of the motion. [2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Calculate the maximum acceleration of the mass during the cycle. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

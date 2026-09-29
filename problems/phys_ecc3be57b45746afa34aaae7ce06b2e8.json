@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ecc3be57b45746afa34aaae7ce06b2e8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and Q are two parallel conducting plates where P is negatively charged and Q is positively charged. The distance between P and Q is <span class=\"math\" data-latex=\"x\"></span>. When an electron is placed at a distance of <span class=\"math\" data-latex=\"\\frac{x}{3}\"></span> from Q, the electric force experienced by the electron is <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>What is the force experienced by the electron when the distance between P and Q is increased to <span class=\"math\" data-latex=\"3x\"></span> and the electron is placed at a distance of <span class=\"math\" data-latex=\"\\frac{x}{3}\"></span> from Q?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{F}{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{F}{9}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"F\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"3F\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

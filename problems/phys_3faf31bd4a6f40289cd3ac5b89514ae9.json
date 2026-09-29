@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "C.2",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_3faf31bd4a6f40289cd3ac5b89514ae9",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"20a\"><p><strong>20a</strong></p><p></p>\n<p>The minimum energy needed to remove an electron from the metal surface.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"20b\"><p><strong>20b</strong></p><p></p>\n<p>The photons that are incident on the metal surface have energy <span class=\"math\" data-latex=\"E = hf\"></span>.</p>\n<p>In order for photoelectrons to be emitted, the value of <span class=\"math\" data-latex=\"hf\"></span> must be larger than the work function of the metal surface.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"20c\"><p><strong>20c</strong></p><p></p>\n<p>Maximum kinetic energy of emitted photoelectrons:</p>\n<p><span class=\"math\" data-latex=\"E_{max} = \\frac{(3.5 \\times 10^{-25})^{2}}{2 \\times (9.11 \\times 10^{-31})} \\approx 6.72 \\times 10^{-20}\"></span> J</p>\n<p> <span class=\"math\" data-latex=\"6.72 \\times 10^{-20} = (6.63 \\times 10^{-34}) \\times f - 3.8 \\times 10^{-19}\"></span></p>\n<p><span class=\"math\" data-latex=\"f \\approx 6.75 \\times 10^{14}\"></span> Hz</p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{3 \\times 10^{8}}{6.75 \\times 10^{14}} \\approx 4.4 \\times 10^{-7}\"></span> m or <span class=\"math\" data-latex=\"440\"></span> nm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"20d\"><p><strong>20d</strong></p><p></p>\n<p>When the work function is decreased, the incident photons need to have less kinetic energy in order for photoelectrons to be emitted.</p>\n<p>To have photons with less energy, their frequency should be decreased/wavelength increased.</p>\n<p>This can be achieved by shifting the colour of the incident light towards the red end of the visible spectrum.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Monochromatic light is incident on a metal surface and photoelectrons are emitted from the surface. The metal has a work function of <span class=\"math\" data-latex=\"3.8 \\times 10^{-19}\"></span> J.</p>\n<p></p>\n<p>a. State what work function means.</p>\n<p>  [1]</p>\n<p>b. Outline why photoelectrons are only emitted from the metal surface above a certain frequency of the incident light.</p>\n<p>  [2]</p>\n<p>c. The maximum momentum of the emitted photoelectrons is <span class=\"math\" data-latex=\"3.5 \\times 10^{-25}\"></span> kg m s<span class=\"math\" data-latex=\"^{-1}\"></span>. Calculate the wavelength of the incident light.</p>\n<p>  [4]</p>\n<p>d. The work function of the metal is decreased. Outline how the colour of the incident light should be changed in order to keep the momentum of the emitted photoelectrons the same as in question part (c).</p>\n<p>  [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

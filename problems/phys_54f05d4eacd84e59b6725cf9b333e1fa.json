@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_54f05d4eacd84e59b6725cf9b333e1fa",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What happens to the fundamental frequency of a stretched string when its tension is doubled and its length remains the same?</p><ol class=\"mcq-options\"><li data-label=\"A\">It halves</li><li data-label=\"B\">It remains the same</li><li data-label=\"C\">It increases by a factor of <span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li><li data-label=\"D\">It doubles</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5a2feee8b64e0dc5ea3c690100d110821265247768f75566ec8a54084cc2569b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5a2feee8b64e0dc5ea3c690100d110821265247768f75566ec8a54084cc2569b"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_0df8efd1a49d4a4386245a263c31c297",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A flywheel of moment of inertia 0.50 kg m<sup>2</sup> rotates anti-clockwise with an initial angular velocity of 15 rad s<sup>−1</sup>. A torque is applied to the flywheel and its angular velocity changes to 25 rad s<sup>−1</sup>, rotating clockwise.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the angular impulse delivered to the flywheel?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">5.0 N m s</li><li data-label=\"B\">10 N m s</li><li data-label=\"C\">20 N m s</li><li data-label=\"D\">40 N m s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

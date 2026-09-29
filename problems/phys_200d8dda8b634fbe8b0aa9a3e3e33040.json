@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_200d8dda8b634fbe8b0aa9a3e3e33040",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"2.0\\text{ kg}\"></span> is released from rest at the top of a slide. The table shows the height <span class=\"math\" data-latex=\"h\"></span> of the block above the ground and its speed <span class=\"math\" data-latex=\"v\"></span> at three different positions as it moves down the slide.</p>\n<table><thead><tr><th><span class=\"math\" data-latex=\"h / \\text{m}\"></span></th><th><span class=\"math\" data-latex=\"v / \\text{m s}^{-1}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"10.0\"></span></td><td><span class=\"math\" data-latex=\"0.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"8.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"0.0\"></span></td><td><span class=\"math\" data-latex=\"12.0\"></span></td></tr></tbody></table>\n<p>What is the total work done by the resistive forces on the block as it moves from the top of the slide (<span class=\"math\" data-latex=\"h = 10.0\\text{ m}\"></span>) to the bottom (<span class=\"math\" data-latex=\"h = 0.0\\text{ m}\"></span>)?<br/>(Assume <span class=\"math\" data-latex=\"g = 10\\text{ m s}^{-2}\"></span>)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"36\\text{ J}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"56\\text{ J}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"144\\text{ J}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"200\\text{ J}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

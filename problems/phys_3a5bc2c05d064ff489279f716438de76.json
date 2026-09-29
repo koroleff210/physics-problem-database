@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d486926dac45ebbc2a19b18986c230db26431e392b7b1365f0ec879bf95d729a.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d486926dac45ebbc2a19b18986c230db26431e392b7b1365f0ec879bf95d729a"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_3a5bc2c05d064ff489279f716438de76",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Student calculates the area of the triangular section only (<span class=\"math\" data-latex=\"20 \\text{ kJ}\"></span>) and divides by the time (<span class=\"math\" data-latex=\"20 \\text{ s}\"></span>).</p>\n<p>B: Student calculates the area of the rectangular section only (<span class=\"math\" data-latex=\"80 \\text{ kJ}\"></span>) and divides by the time (<span class=\"math\" data-latex=\"20 \\text{ s}\"></span>).</p>\n<p>C: - The work done is equal to the area under the force-distance graph.<br/>- Area of triangle (0 to 10 m) = <span class=\"math\" data-latex=\"\\frac{1}{2} \\times 10 \\text{ m} \\times 4.0 \\text{ kN} = 20 \\text{ kJ}\"></span>.<br/>- Area of rectangle (10 to 30 m) = <span class=\"math\" data-latex=\"(30 - 10) \\text{ m} \\times 4.0 \\text{ kN} = 80 \\text{ kJ}\"></span>.<br/>- Total work done <span class=\"math\" data-latex=\"W = 20 + 80 = 100 \\text{ kJ}\"></span>.<br/>- Average power <span class=\"math\" data-latex=\"P = \\frac{W}{t} = \\frac{100 \\text{ kJ}}{20 \\text{ s}} = 5.0 \\text{ kW}\"></span>.</p>\n<p>D: Student incorrectly assumes the force is a constant <span class=\"math\" data-latex=\"4.0 \\text{ kN}\"></span> for the entire distance: <span class=\"math\" data-latex=\"\\frac{4.0 \\text{ kN} \\times 30 \\text{ m}}{20 \\text{ s}} = 6.0 \\text{ kW}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the horizontal force <span class=\"math\" data-latex=\"F\"></span> acting on a crate varies with the distance <span class=\"math\" data-latex=\"d\"></span> moved by the crate.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The crate takes <span class=\"math\" data-latex=\"20 \\text{ s}\"></span> to move the total distance of <span class=\"math\" data-latex=\"30 \\text{ m}\"></span>. What is the average power developed by the force <span class=\"math\" data-latex=\"F\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\text{ kW}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.0 \\text{ kW}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"5.0 \\text{ kW}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"6.0 \\text{ kW}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

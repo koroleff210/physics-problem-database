@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1a864a2ac2ff4f669285eef411ae3136",
+  "level": "sl_hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a\"><p><strong>8a</strong></p><p></p>\n<p>Most alpha particles passed through the foil undeflected; however a small percentage of the alpha particles was deflected through large angles.</p>\n<p>This suggested that the positively charged alpha particles were deflected due to the concentration of positive charge in a small volume.</p>\n<p>In turn, this led the scientists to conclude that the atom is mostly empty space with a small, dense, positively charged nucleus.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b\"><p><strong>8b</strong></p><p></p>\n<p>A beam of white light is passed through a gas.</p>\n<p>Photons in the light beam with energies that correspond to the difference between energy levels in the atom are absorbed by electrons in the atom (and as a result, the electrons become excited).</p>\n<p>The light that emerges from the gas is passed through a prism and projected onto a screen, where an absorption spectrum is formed (with black lines at the position of the absorbed photons).</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p>Calculating the frequency of the photon (remember to convert the energy of the photon from eV to joules):</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{0.66 \\times \\left (1.6 \\times 10^{-19}  \\right )}{6.63 \\times 10^{-34}} \\approx 1.59 \\times 10^{14}\\: \\textup{Hz}\"></span></p>\n<p>Calculating the wavelength of the photon:</p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{3 \\times 10^{8}}{1.59 \\times 10^{14}} \\approx 1.9 \\times 10^{-6}\\:\\textup{m} = 1900\\: \\textup{nm}\"></span></p>\n<p>The wavelengths that fall into the visible region of the electromagnetic spectrum are between <span class=\"math\" data-latex=\"400\"></span> nm and <span class=\"math\" data-latex=\"700\"></span> nm, therefore this absorption line is not in the visible region of the electromagnetic spectrum.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Geiger, Marsden, and Rutherford fired alpha particles at a thin gold foil in an experiment.</p>\n<p>(a)   Explain how the results of this experiment led to the discovery of the nucleus.</p>\n<p>    [3]</p>\n<p>A student carries out a different experiment to observe the absorption spectrum of a gas.</p>\n<p>(b)   Outline, with a reference to energy level transitions, how an absorption spectrum is formed.</p>\n<p> [3]</p>\n<p>The photon energy associated with one of the lines in the absorption spectrum of hydrogen is <span class=\"math\" data-latex=\"0.66\"></span> eV.</p>\n<p>(c)   Determine, using a calculation, whether this absorption line is in the visible region of the electromagnetic spectrum.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

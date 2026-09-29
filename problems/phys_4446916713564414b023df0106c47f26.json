@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_4446916713564414b023df0106c47f26",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the formulae represents Newton’s second law?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mass}{volume}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{work}{displacement}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\textit{change of momentum}}{time}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"pressure\\times area\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

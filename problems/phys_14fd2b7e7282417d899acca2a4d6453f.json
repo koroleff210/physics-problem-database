@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_14fd2b7e7282417d899acca2a4d6453f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider the following three statements about Compton scattering of light by electrons:</p>\n<p>I. It provides evidence for the particle nature of light.</p>\n<p>II. The wavelength shift of the scattered photon is proportional to <span class=\"math\" data-latex=\"\\cos\\theta\"></span> where <span class=\"math\" data-latex=\"\\theta\"></span> is the scattering angle.</p>\n<p>III. The electron gains kinetic energy during the scattering.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

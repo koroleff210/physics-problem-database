@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eb7fe7ff41248c197eae2559cc3154afc39baf45b8f3641eccc22c19c92c36de.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb7fe7ff41248c197eae2559cc3154afc39baf45b8f3641eccc22c19c92c36de"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/7476276e261c1c3a2546a7c92266581f17e1667587b60c61b5c36ae13c8118fa.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7476276e261c1c3a2546a7c92266581f17e1667587b60c61b5c36ae13c8118fa"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/78d0b4e6b0614bfed07a621ac28a54c919adc084e0ede33be1b75429af327f9a.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "78d0b4e6b0614bfed07a621ac28a54c919adc084e0ede33be1b75429af327f9a"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_ee75defe34574e09b5143d629fac73d8",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>about 11 o’clock position on turntable ✔ In the region shown</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>maximum frequency shift occurs when velocity of source relative to frequency meter is maximum ✔<br/>&lt;&lt;maximum velocity of source is&gt;&gt;when S moves directly towards frequency meter ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1<br/><span class=\"math\" data-latex=\"\\Delta\"></span><span class=\"math\" data-latex=\"f\"></span><span class=\"math\" data-latex=\"=\"></span>10.5 «Hz» ✔ Range 10 – 11 Hz <span class=\"math\" data-latex=\"\\frac{10.5}{440}=\\frac{v_{s}}{330}\"></span> <span class=\"math\" data-latex=\"v_{s}\"></span> <span class=\"math\" data-latex=\"=\"></span> 7.9 &lt;&lt;m s<sup>−1</sup>&gt;&gt;<span class=\"math\" data-latex=\"v_{s}\"></span>=<span class=\"math\" data-latex=\"=\"></span> 7.9 «ms<span class=\"math\" data-latex=\"-\"></span><sup>1</sup>» ✔ Range 7.5 – 8.3 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> <span class=\"math\" data-latex=\"\\omega\"></span><span class=\"math\" data-latex=\"=\"></span>«<span class=\"math\" data-latex=\"\\frac{v}{r}\"></span><span class=\"math\" data-latex=\"=\"></span>»28 ✔ Range 27 – 30 rad  s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> rad s<sup>−1</sup> ✔   ALTERNATIVE 2 Observed frequency <span class=\"math\" data-latex=\"=\"></span> 450.5 OR 430 &lt;&lt;Hz&gt;&gt; ✔ Range 450 – 451 OR 429 – 431 Use of f' <span class=\"math\" data-latex=\"=\"></span> f (v/v<span class=\"math\" data-latex=\"±\"></span>u<sub>s</sub>) ✔ u<sub>s</sub> <span class=\"math\" data-latex=\"=\"></span> 7.7 &lt;&lt;m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup>&gt;&gt; ✔ Range 7.5 – 8.0 omega &lt;&lt;<span class=\"math\" data-latex=\"=\"></span> v/r&gt;&gt; <span class=\"math\" data-latex=\"=\"></span> 28 ✔ Range 27 – 30 rad s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram shows a point source of sound S on the edge of a horizontal turntable that rotates about a vertical axis. The sound is detected using a small stationary frequency meter placed 0.78 m from the axis of the turntable. The turntable has a radius of 0.28 m. The linear speed of S is much less than the speed of sound.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation of the detected frequency with rotation angle <span class=\"math\" data-latex=\"\\theta\"></span> for one revolution of the turntable.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State, on the diagram, the position of S for which the detected frequency is at a maximum. Label this position A. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Outline why this maximum frequency shift does not occur when θ = 90° or when θ = 270°. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the angular speed of the turntable. The speed of sound is 330 m s<sup>−1</sup>. State an appropriate unit for your answer. [5]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

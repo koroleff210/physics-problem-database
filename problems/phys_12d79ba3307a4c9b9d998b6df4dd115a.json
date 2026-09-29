@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/36ca29dd02962cefc043eed3ea6bbc9d729d69c221326b4c1ecb599a24813d62.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "36ca29dd02962cefc043eed3ea6bbc9d729d69c221326b4c1ecb599a24813d62"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_12d79ba3307a4c9b9d998b6df4dd115a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A negatively charged sphere is falling through a magnetic field.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the direction of the magnetic force acting on the sphere?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">To the left of the page</li><li data-label=\"B\">To the right of the page</li><li data-label=\"C\">Out of the page</li><li data-label=\"D\">Into the page</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

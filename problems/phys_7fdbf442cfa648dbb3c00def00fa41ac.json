@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2088e4ee3472f619fc2676f6d40e3f7dda394e686fff8794b69173c5e5b16f6e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2088e4ee3472f619fc2676f6d40e3f7dda394e686fff8794b69173c5e5b16f6e"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/176bb578d3ca2b16d117298733dcbf01b5478d1b5d7959b570ecfb4f1f78c4ec.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "176bb578d3ca2b16d117298733dcbf01b5478d1b5d7959b570ecfb4f1f78c4ec"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/71728fe9ff91db164b7430d315e56397dfbb3d779e6c609d5affb537df29bacf.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "71728fe9ff91db164b7430d315e56397dfbb3d779e6c609d5affb537df29bacf"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_7fdbf442cfa648dbb3c00def00fa41ac",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Wavelength = 0.68 «m» ✓ Period = 0.002 «s» ✓   Accept 0.67 − 0.70 m for wavelength.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>v = «λ/T = 0.68 / 0.002 = » 340 «m s<sup>−1</sup>» ✓   Allow ECF from 2ai Allow v = 335 − 350 m s<sup>−1</sup></p>\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>440 Hz because the frequency heard «by the driver» will be higher OR 440 Hz because the «apparent» wavelength decreases. ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{v}{c}=\\frac{\\Delta\\lambda}{\\lambda}=\\frac{659\\times 10^{-9}-656.1\\times 10^{-9}}{656.1\\times 10^{-9}}\"></span> ✓ v = 1.33 x 10<sup>6</sup> «m s<sup>−1</sup>» OR 0.00442 c ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Graph 1 shows the variation of particle displacement d with position <span class=\"math\" data-latex=\"x\"></span> for a travelling sound wave.</p>\n<p>Graph 1</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Graph 2 shows the variation of particle displacement d with time t for the same travelling sound wave.</p>\n<p>Graph 2</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the wavelength and the period of the sound wave. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the speed of the sound wave. [1]</p></section><section class=\"context\"><p>The Doppler effect applies to both sound and light waves.</p><p>A car is moving at constant velocity v between two sources of sound as shown in the diagram. The sources emit sound at 440 Hz and at 540 Hz. The driver hears both sounds at the same frequency.</p><p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Explain which frequency is emitted by source A. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>The spectrum of light received from a galaxy shows a peak at a wavelength of 659.0 nm. The peak corresponds to an atomic transition in the hydrogen atom that emits a wavelength of 656.1 nm when observed in a laboratory on Earth.</p>\n<p>Calculate the velocity of the galaxy with respect to Earth.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_6407a4e59e8844d49c0b86e27440157a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student investigates the variation of current <span class=\"math\" data-latex=\"I\"></span> with potential difference <span class=\"math\" data-latex=\"V\"></span> for a thermistor. The results are plotted on a log-log graph. The data produce a straight line with negative gradient. What does this indicate?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p>Resistance is constant</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"I\"></span> is directly proportional to <span class=\"math\" data-latex=\"V\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"I\"></span> is inversely proportional to <span class=\"math\" data-latex=\"V\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"I\"></span> is proportional to <span class=\"math\" data-latex=\"V^{-n}\"></span>, with <span class=\"math\" data-latex=\"n &gt; 0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

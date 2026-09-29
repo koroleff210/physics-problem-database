@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6488101ee572b43a89b657c61184bac131533b20dcf1ff386b5af2db939bc9a8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6488101ee572b43a89b657c61184bac131533b20dcf1ff386b5af2db939bc9a8"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_75cf74ccdc644215868d065135242d81",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>At t=0, the object is at the equilibrium position, meaning its potential energy (PE) is zero and its kinetic energy (KE) is maximum. The problem states PE is the solid line and KE is the dashed line. This initial condition eliminates options B and C. Energy in SHM varies sinusoidally with time (proportional to sin^2 and cos^2 functions). Option A shows correct sinusoidal curves, while option D shows incorrect triangular-wave-like curves. Therefore, A is the correct graph.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is undergoing simple harmonic motion. At <span class=\"math\" data-latex=\"t=0\\,\\mathrm{s}\"></span> the object goes through the equilibrium position. Kinetic energy is shown with a dashed line and potential energy with a solid line.</p>\n<p>Which graph correctly represents the variation of kinetic and potential energy with time?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> graph A</li>\n<li data-label=\"B\"> graph B</li>\n<li data-label=\"C\"> graph C</li>\n<li data-label=\"D\"> graph D</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

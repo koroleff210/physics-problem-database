@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_988be1b03f374aefa307362d67dca29e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following provides evidence for the existence of nuclear energy levels?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The spectrum of beta-particle energies</li>\n<li data-label=\"B\">The atomic emission spectra of elements.</li>\n<li data-label=\"C\">The spectrum of gamma ray energies.</li>\n<li data-label=\"D\">Deviations from the Rutherford scattering.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

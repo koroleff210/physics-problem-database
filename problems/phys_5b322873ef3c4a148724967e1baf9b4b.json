@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fbc0ddd5db7cd41d606db1f8ee264509839f33523e53b0803f811ade4e4608af.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fbc0ddd5db7cd41d606db1f8ee264509839f33523e53b0803f811ade4e4608af"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_5b322873ef3c4a148724967e1baf9b4b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting ring is placed in a magnetic field. There is a current in the coil so that the direction of electron flow in the coil is anti-clockwise. As a result of the current in the coil and the magnetic field, an electromagnetic force acts on the coil upwards.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the magnetic field?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Upwards</li>\n<li data-label=\"B\">Downwards</li>\n<li data-label=\"C\">Into the page</li>\n<li data-label=\"D\">Out of the page</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_96027dea59ee40d086ef759e2cdb2158",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A balloon rises at a steady vertical velocity of 10 ms<sup>−1</sup>. An object is released at rest relative to the balloon when the object is at a height 120 m above the ground. Air resistance is negligible.</p>\n<p>What time, to the nearest second, does the object take to hit the ground?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4 s</li><li data-label=\"B\">5 s</li><li data-label=\"C\">6 s</li><li data-label=\"D\">12 s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

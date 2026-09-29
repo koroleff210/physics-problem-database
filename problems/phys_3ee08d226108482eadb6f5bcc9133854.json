@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8f7db50333ebb49ed9a61b9427f4c4b576fecd4c1b4a6d463f20498aa0053fb5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8f7db50333ebb49ed9a61b9427f4c4b576fecd4c1b4a6d463f20498aa0053fb5"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3ee08d226108482eadb6f5bcc9133854",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Read at least two points correctly and consistently ✓ Use <span class=\"math\" data-latex=\"\\frac{1}{2} ⋅ g ⋅ t^{2}\"></span> with a length interval from two non-consecutive points OR for two (or more) length intervals, using consistent time intervals ✓ Correct calculation of g ✓<br/><br/>Award [2] max if they use one single length interval of consecutive points. Award [1] max if they miss to subtract the initial point in their length interval or if they use inconsistent time intervals. Do not penalize significant figures in the final answer.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use 10% for delta t<sup>2</sup> ✓ Estimate an uncertainty for s using an absolute of 0.5 OR 1 mm AND propagate it to 1/their length interval OR 2/their length interval respectively ✓ Add both relative or percentage uncertainties AND calculate the absolute uncertainty ✓<br/><br/>Allow ECF for MP3. Do not penalize significant figures in the final answer.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Flash must be so short that blurring is within the absolute uncertainty / error of determination of s ✓ (Final) speed is around 2 m s<sup>−1</sup> and error is about 1 mm so (maximum) duration around <span class=\"math\" data-latex=\"\\frac{1}{2000}\"></span>s ✓<br/><br/>Award [1] max if they argue that images might merge and state a maximum of 0.025 s (or less). Award [1] max if they use the uncertainty of time and state a time of (2 x) 0.05 x 0.05 s = 0.005 s (or less). Award MP2 if they state an interval of 0.001 s or less.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A small ball is released from rest at time t = 0 in front of a vertical ruler. A multi-flash photograph is taken of the ball at t = 0 and every 0.050 s from then on.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The distance s fallen by the ball is related to the acceleration g of the ball and t by s =<span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>gt<sup>2</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine g using the photograph. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The percentage uncertainty in t is ± 5 %.</p>\n<p>Estimate the absolute uncertainty in your value of g.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Suggest a suitable value for the maximum duration of the flash. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_a88777db26a14000ac060d8b161d7e0b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A photoelectron is emitted when a photon of energy <span class=\"math\" data-latex=\"E\"></span> is incident on a metal surface.</p>\n<p>The work function of the surface is <span class=\"math\" data-latex=\"Φ\"></span>.</p>\n<p>What is the maximum possible speed of the photoelectron as it leaves the surface?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2E-Φ}{m_{e}}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E-Φ}{m_{e}}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E-Φ}{m_{e}h}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2E-Φ}{m_{e}h}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

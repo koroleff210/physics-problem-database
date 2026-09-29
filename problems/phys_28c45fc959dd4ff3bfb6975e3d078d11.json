@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_28c45fc959dd4ff3bfb6975e3d078d11",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The temperature and the pressure of an ideal gas are changed. Assuming that the gas is in a closed container, which of the following changes will cause its volume to definitely increase?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Temperature</strong></p>\n</td>\n<td>\n<p><strong>Pressure</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Increase</td>\n<td>Increase</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Increase</td>\n<td>Decrease</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Decrease</td>\n<td>Increase</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Decrease</td>\n<td>Decrease</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

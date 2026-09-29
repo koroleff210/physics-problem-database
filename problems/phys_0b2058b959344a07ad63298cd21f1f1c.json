@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2fea8d6c7c6bff4d75a6dce9527e59d9f397614c4a25bce77df8ecde5c0ff9d9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2fea8d6c7c6bff4d75a6dce9527e59d9f397614c4a25bce77df8ecde5c0ff9d9"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_0b2058b959344a07ad63298cd21f1f1c",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with distance <span class=\"math\" data-latex=\"x\"></span> of the displacement of the particles in a wave. The frequency of the wave is 600 Hz.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the wave?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.012 m s<sup>−1</sup></li><li data-label=\"B\">0.024 m s<sup>−1</sup></li><li data-label=\"C\">1.2 m s<sup>−1</sup></li><li data-label=\"D\">2.4 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

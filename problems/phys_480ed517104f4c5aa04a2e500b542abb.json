@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/98603a099478722178ea6f8dde49e0ecc29e710580d1bf01ee386c788a21c908.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98603a099478722178ea6f8dde49e0ecc29e710580d1bf01ee386c788a21c908"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_480ed517104f4c5aa04a2e500b542abb",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/><br/>«minimum» energy required to «completely» separate the nucleons of a nucleus OR energy released when nucleus is assembled from the nucleons ✔<br/>Accept protons and neutrons for nucleons.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"Binding energy = mass of separate nucleons - mass of nucleus\"></span><br/>«1105 = 54 × 938 + 77 × 940 − <span class=\"math\" data-latex=\"Mc\"></span><sup>2</sup>» ✔<br/><span class=\"math\" data-latex=\"M\"></span> = 1.22 × 10<sup>5</sup> «MeV c<sup>−2</sup>» ✔ <br/>Do not allow BCA. Award ECF from using binding energy with incorrect sign. An answer that doesn’t include binding energy scores [0].</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«nuclei with the» same number of protons ✔<br/>different number of neutrons ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>binding energy per nucleon is a measure of stability so <span class=\"math\" data-latex=\"_{ }^{ }\"></span> has the greater binding energy per nucleon ✔ <br/>Correct mention of stability required to award the mark. Allow opposite comment for Xe 133.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/><br/>protons have 2 u quarks OR neutrons have one u quark ✔<br/><span class=\"math\" data-latex=\"N\"></span>=«2 × 54 + 1 × 77=» 185 ✔<br/>For MP1 accept e.g proton uud.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>accept range 5.2 days to 5.4 days ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The binding energy of the stable nuclide <sup>131</sup><sub>54</sub>Xe is 1.105 GeV.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Outline what is meant by binding energy. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate, in MeV c<sup>−2</sup>, the mass of a nucleus of <sup>131</sup><sub>54</sub>Xe. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> <sup>131</sup><sub>54</sub>Xe and<sup>133</sup><sub>54</sub>Xe are two isotopes of xenon.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Outline what is meant by isotopes. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> <sup>133</sup><sub>54</sub>Xe is radioactive. Suggest how the binding energy per nucleon for <sup>131</sup><sub>54</sub>Xe compares with that of <sup>133</sup><sub>54</sub>Xe. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Determine the number of up quarks (u quarks) in the nucleus of <sup>133</sup><sub>54</sub>Xe. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The graph shows the variation with time of the activity of a pure sample of <sup>133</sup><sub>54</sub>Xe.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Estimate the half-life of <span class=\"math\" data-latex=\"_{ }^{ }\"></span>.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

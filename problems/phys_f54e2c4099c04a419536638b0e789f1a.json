@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/01544db0c1c635828c23f05c1a847b4b437d7f4b272c7af91e261d6c37d70039.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "01544db0c1c635828c23f05c1a847b4b437d7f4b272c7af91e261d6c37d70039"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f54e2c4099c04a419536638b0e789f1a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which graph shows the variation of activity <span class=\"math\" data-latex=\"A\"></span> with time <span class=\"math\" data-latex=\"t\"></span> for a radioactive nuclide?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

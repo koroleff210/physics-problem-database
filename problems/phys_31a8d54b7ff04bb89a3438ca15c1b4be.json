@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_31a8d54b7ff04bb89a3438ca15c1b4be",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The initial activity of a pure sample of a radioactive nuclide is <span class=\"math\" data-latex=\"A\"></span>. After two minutes, the activity of the sample is approximately 0.03A. What is the best estimate for the half-life of the nuclide?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"24\"></span> s</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"30\"></span> s</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"36\"></span> s</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"48\"></span> s</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

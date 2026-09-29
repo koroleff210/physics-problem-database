@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_f31c864666314d74817434aa89ceee6f",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Calculate the moment of inertia for the four point masses: <span class=\"math\" data-latex=\"4 \\times (0.40 \\times 0.50^2) = 0.40 \\text{ kg m}^2\"></span> [1 mark]<br/>- Sum the hub and point mass values: <span class=\"math\" data-latex=\"0.15 + 0.40 = 0.55 \\text{ kg m}^2\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Calculate the angular acceleration using <span class=\"math\" data-latex=\"\\alpha = \\frac{\\tau}{I}\"></span>: <span class=\"math\" data-latex=\"\\alpha = \\frac{1.1}{0.55} = 2.0 \\text{ rad s}^{-2}\"></span> [1 mark]<br/>- Calculate the time using <span class=\"math\" data-latex=\"t = \\frac{\\Delta\\omega}{\\alpha}\"></span>: <span class=\"math\" data-latex=\"t = \\frac{12}{2.0} = 6.0 \\text{ s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State that the time required will decrease [1 mark]<br/>- Explain that moving masses closer to the axle reduces the total moment of inertia <span class=\"math\" data-latex=\"I\"></span>, which results in a greater angular acceleration <span class=\"math\" data-latex=\"\\alpha\"></span> for a constant torque (since <span class=\"math\" data-latex=\"\\alpha \\propto \\frac{1}{I}\"></span>) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A experimental flywheel is constructed using a central hub and four identical small masses attached to light radial spokes. The flywheel is mounted on a vertical, frictionless axle. The physical properties of the system components are provided in the table below:</p><table><thead><tr><th>Component</th><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Central Hub</td><td>Moment of Inertia</td><td><span class=\"math\" data-latex=\"0.15 \\text{ kg m}^2\"></span></td></tr><tr><td>Four point masses</td><td>Mass (each)</td><td><span class=\"math\" data-latex=\"0.40 \\text{ kg}\"></span></td></tr><tr><td>Radial position</td><td>Distance of each mass from axle</td><td><span class=\"math\" data-latex=\"0.50 \\text{ m}\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the total moment of inertia <span class=\"math\" data-latex=\"I\"></span> of the flywheel assembly about its central axle.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>A constant resultant torque of <span class=\"math\" data-latex=\"1.1 \\text{ N m}\"></span> is applied to the flywheel, which is initially at rest. Determine the time taken for the flywheel to reach an angular velocity of <span class=\"math\" data-latex=\"12 \\text{ rad s}^{-1}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The four point masses are moved closer to the axle, decreasing their radial distance. Predict, with a reason, the effect this change will have on the time required to reach the same final angular velocity if the same torque is applied.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_74bf4a31ca484371a24ee56c6c5e1301",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes simple harmonic motion with period <span class=\"math\" data-latex=\"T\"></span> and amplitude <span class=\"math\" data-latex=\"A\"></span>. At time <span class=\"math\" data-latex=\"t = 0\"></span>, the particle is at its equilibrium position. Which of the following is the earliest time <span class=\"math\" data-latex=\"t &gt; 0\"></span> at which the magnitude of the velocity of the particle is equal to half its maximum velocity?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{T}{12}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{T}{8}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{T}{6}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{T}{4}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

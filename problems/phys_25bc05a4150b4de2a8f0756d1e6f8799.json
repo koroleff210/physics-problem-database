@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3",
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_25bc05a4150b4de2a8f0756d1e6f8799",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Gases in the atmosphere are compounds of <sup>12</sup><sub>6</sub>C, <sup>1</sup><sub>1</sub>H, <sup>16</sup><sub>8</sub>O and <sup>14</sup><sub>7</sub>N.</p>\n<p>Four of these gases are CO<sub>2</sub>, N<sub>2</sub>O, CH<sub>4</sub> and H<sub>2</sub>O. A pure sample of each gas is produced. Each sample has the same volume, pressure, and temperature.</p>\n<p>Which sample has the smallest mass?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">CH<sub>4</sub></li><li data-label=\"B\">N<sub>2</sub>O</li><li data-label=\"C\">CO<sub>2</sub></li><li data-label=\"D\">H<sub>2</sub>O</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

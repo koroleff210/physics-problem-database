@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_8d2afaa35e2e4328becdf4a3c5657246",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the relationship between the applied force and the extension for a spring that behaves elastically throughout the range shown.</p>\n<table><thead><tr><th>Applied force / N</th><th>Extension / cm</th></tr></thead><tbody><tr><td>4.0</td><td>2.0</td></tr><tr><td>8.0</td><td>4.0</td></tr><tr><td>12.0</td><td>6.0</td></tr></tbody></table>\n<p>When the extension is 2.0 cm, the elastic potential energy stored in the spring is <span class=\"math\" data-latex=\"E\"></span>. What is the additional work required to stretch the spring from an extension of 2.0 cm to 4.0 cm?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"E\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2E\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3E\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4E\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f12036a97a2bf8d4a9567980114fcd11b9054e879914c56ab37e4d1a8dafabc0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f12036a97a2bf8d4a9567980114fcd11b9054e879914c56ab37e4d1a8dafabc0"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_7835dc2b57c44603ad21985ccbc003b0",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is thrown upwards at time t = 0. The graph shows the variation with time of the height of the ball. The ball returns to the initial height at time T.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the height h at time t ?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}gt^{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}gT^{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{2}gTT-t\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{2}gtT-t\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

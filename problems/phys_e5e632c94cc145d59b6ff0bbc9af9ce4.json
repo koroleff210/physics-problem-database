@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_e5e632c94cc145d59b6ff0bbc9af9ce4",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Thermal conductivity is inversely proportional to temperature gradient: <span class=\"math\" data-latex=\"k \\propto \\frac{1}{\\Delta T / \\Delta x}\"></span>. [1 mark]<br/>- Shallower gradient implies higher conductivity if input energy is constant. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Copper: <span class=\"math\" data-latex=\"\\Delta T=85-75=10^{\\circ} \\mathrm{C}, \\Delta x=6 \\mathrm{~cm} \\Rightarrow 1.67^{\\circ} \\mathrm{C} / \\mathrm{cm}\"></span>. [1 mark]<br/>- Steel: <span class=\"math\" data-latex=\"\\Delta T=75-35=40^{\\circ} \\mathrm{C}, \\Delta x=6 \\mathrm{~cm} \\Rightarrow 6.67^{\\circ} \\mathrm{C} / \\mathrm{cm}\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Copper has a shallower gradient <span class=\"math\" data-latex=\"\\rightarrow\"></span> higher thermal conductivity. [1 mark]<br/>- Steel has steeper gradient <span class=\"math\" data-latex=\"\\rightarrow\"></span> lower conductivity. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Insulate rods to reduce heat loss to surroundings. [1 mark]<br/>- Use more thermocouple positions along the rod or record temperature over time to ensure steady-state. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Assumes steady-state heat flow is reached at 300 s. [1 mark]<br/>- If not, gradients may reflect transient rather than steady-state conduction, leading to inaccurate comparison.[1 mark]</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<p>A student compares the thermal conductivity of two rods made from different materials: copper (Rod A) and steel (Rod B). Each rod has the same length, diameter, and is heated at one end with an identical electric heater. The student places thermocouples at two fixed positions on each rod and measures the temperature at those points after 300 seconds. The results are shown in the table below.</p><table><thead><tr><th>Rod</th><th><span class=\"math\" data-latex=\"x_{1}(\\mathrm{~cm})\"></span></th><th><span class=\"math\" data-latex=\"T_{1}\\left({ }^{\\circ} \\mathrm{C}\\right)\"></span></th><th><span class=\"math\" data-latex=\"x_{2}(\\mathrm{~cm})\"></span></th><th><span class=\"math\" data-latex=\"T_{2}\\left({ }^{\\circ} \\mathrm{C}\\right)\"></span></th></tr></thead><tbody><tr><td>A (Copper)</td><td>2.0</td><td>85.0</td><td>8.0</td><td>75.0</td></tr><tr><td>B (Steel)</td><td>2.0</td><td>75.0</td><td>8.0</td><td>35.0</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain how the temperature gradient in each rod is related to its thermal conductivity.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Use the data to calculate the temperature gradient in each rod.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Assuming the rods received the same energy input and have equal cross-sectional areas, what does the difference in gradient suggest about the relative thermal conductivities of the metals?<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest two improvements to this experiment that would improve the reliability of the comparison.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Identify one assumption made in this experiment and explain how it may affect the result.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

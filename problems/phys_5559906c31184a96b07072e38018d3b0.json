@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_5559906c31184a96b07072e38018d3b0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is rotated in a horizontal circle of radius <span class=\"math\" data-latex=\"2.0\"></span> m at constant speed. The magnitude of the resultant force on the object is <span class=\"math\" data-latex=\"5.0\"></span> N. What is the work done on the object by the resultant force during a quarter of a revolution and what is the direction of the resultant force?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Work done by the resultant force on the object</strong></p>\n</td>\n<td>\n<p><strong>Direction of resultant force</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"10 \\pi\"></span> J</td>\n<td>Towards the centre of the circle</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"10 \\pi\"></span> J</td>\n<td>Tangent to the circle</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Zero</td>\n<td>Towards the centre of the circle</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Zero</td>\n<td>Tangent to the circle</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_aa2fa5699e3a4366a72073d9623546bd",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>MP1: In the particle model, an electron absorbs the energy of a single photon. MP2: The photon's energy depends on frequency, not intensity, so <span class=\"math\" data-latex=\"K_{\\mathrm{max}}\"></span> is independent of intensity. / The wave model incorrectly predicts <span class=\"math\" data-latex=\"K_{\\mathrm{max}}\"></span> depends on intensity.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of photoelectric equation <span class=\"math\" data-latex=\"K_{\\mathrm{max}}\"></span> = hf - hf₀. Substitution: 8.0 × 10⁻²⁰ = (6.63 × 10⁻³⁴)(9.0 × 10¹⁴) - hf₀. Calculation to find f₀ ≈ 7.8 × 10¹⁴ Hz.</p>\n<p>The value <span class=\"math\" data-latex=\"K_{\\mathrm{max}}\"></span> = 8.0 × 10⁻²⁰ J is taken from the source image, which contradicts the paraphrased text. A correct answer is required to 2 or 3 significant figures.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Similarity: The gradient is the same (equal to Planck's constant h). Difference: They have different x-intercepts (threshold frequencies) OR different y-intercepts (work functions).</p>\n<p>Award 1 mark for a valid similarity and 1 mark for a valid difference.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The increase in wavelength / decrease in frequency of the scattered X-rays.</p>\n<p>Allow mention of the dependence of wavelength shift on scattering angle.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment to investigate the photoelectric effect, monochromatic electromagnetic radiation is incident on a metal surface.</p><p>When the frequency of radiation is 9.0 × 10¹⁴ Hz, photoelectrons of maximum kinetic energy 8.0 × 10⁻²⁰ J are emitted from the metal surface.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The maximum kinetic energy of the photoelectrons does not depend on the intensity of radiation. Explain how this observation supports the particle nature of light. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the threshold frequency of the metal surface. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The variation of the maximum kinetic energy of the photoelectrons is plotted against the frequency of radiation for two surfaces made of different metals.</p>\n<p>Identify one similarity and one difference between the graphs obtained.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>In the Compton experiment, X-rays are scattered by electrons.</p>\n<p>State which feature of this experiment cannot be explained using the wave model of light.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

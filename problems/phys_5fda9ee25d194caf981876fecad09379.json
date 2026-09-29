@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_5fda9ee25d194caf981876fecad09379",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/><br/>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>A particle without structure/constituents/component particles ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>Electromagnetic, weak «nuclear», strong «nuclear» «and gravitational» ✔</p>\n<p>Allow electroweak for electromagnetic and weak</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>Weak ✔ Decay violates strangeness «and only the weak interaction does» ✔</p>\n<p>For MP2 allow comments that suggest that strangeness has changed in the interaction</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>According to E = ∆mc<sup>2</sup> / identifies mass energy equivalence ✔ energy is released when nucleons come together / a nucleus is formed «so nucleus has less mass than individual nucleons» OR energy is required to «completely» separate the nucleons / break apart a nucleus «so individual nucleons have more mass than nucleus» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Q = 224 × 7.679917 + 4 × 7.073915 − 228 × 7.645074 ✔ Q = 5.520 «MeV» ✔</p>\n<p>Allow 8.8 × 10<sup>−13</sup> J Award [1max] if answer is negative.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Quarks are elementary particles.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State what is meant by an elementary particle. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> List the fundamental forces that act on quarks. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> </p><p>The lambda baryon (Λ<sup>0</sup>) has quark content uds. It decays according to the reaction Λ<sup>0</sup> → p + π<sup>−</sup> . The quark content of the pion is u̅d.</p>\n<p>State and explain which fundamental interaction is responsible for this decay.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> By reference to the concept of binding energy, explain why the combined mass of the nucleons of a nucleus is greater than the mass of the nucleus. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>The following binding energies per nucleon are available:</p>\n<p><span class=\"math\" data-latex=\"Th\"></span>: 7.645074 MeV</p>\n<p><span class=\"math\" data-latex=\"Ra\"></span>: 7.679917 MeV</p>\n<p><span class=\"math\" data-latex=\"He\"></span>: 7.073915 MeV</p>\n<p>Determine the energy released in the decay <span class=\"math\" data-latex=\"_{ }^{ }→ _{ }^{ }+ _{ }^{ }\"></span>.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

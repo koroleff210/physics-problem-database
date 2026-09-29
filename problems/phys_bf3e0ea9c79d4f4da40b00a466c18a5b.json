@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_bf3e0ea9c79d4f4da40b00a466c18a5b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why the sound intensity sharply increases when a pipe reaches its resonant length for a particular frequency?</p><ol class=\"mcq-options\"><li data-label=\"A\">The pipe absorbs all the incoming sound energy</li><li data-label=\"B\">The wavelength becomes smaller than the pipe length</li><li data-label=\"C\">The wave is reflected and undergoes constructive interference</li><li data-label=\"D\">The wave frequency matches the pipe's natural frequency, causing destructive interference</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

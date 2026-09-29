@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bd25f10548e7071cae609544371bedafad203f16228eb303b464b61261fae8b1.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bd25f10548e7071cae609544371bedafad203f16228eb303b464b61261fae8b1"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_d3920e3b404d460fb2af1bbf648a192f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a circuit used to measure the current through and the potential difference across a resistor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement about the measuring instruments is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">The ammeter is connected in parallel and measures the voltage drop across the resistor.</li><li data-label=\"B\">The voltmeter is connected in series and measures the current through the resistor.</li><li data-label=\"C\">The ammeter is connected in series and should ideally have zero resistance.</li><li data-label=\"D\">The voltmeter is connected in parallel and should ideally have zero resistance.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

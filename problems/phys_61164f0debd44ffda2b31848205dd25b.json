@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_61164f0debd44ffda2b31848205dd25b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pipe open at both ends supports a standing wave at its second harmonic. How many antinodes are present in the pipe?</p><ol class=\"mcq-options\"><li data-label=\"A\">1</li><li data-label=\"B\">2</li><li data-label=\"C\">3</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

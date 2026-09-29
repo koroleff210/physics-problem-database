@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_f502b7515cd94f798a2767277406e887",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. A change of 1°C corresponds to a change of 1 K.</p>\n<p>B: Incorrect. <span class=\"math\" data-latex=\"0\\,{}^{\\circ}\\mathrm{C} = 273.15\\ \\mathrm{K}\"></span> (approximately <span class=\"math\" data-latex=\"273\\ \\mathrm{K}\"></span>).</p>\n<p>C: Correct. The Celsius and Kelvin scales have the same size degree; temperature differences are equal (<span class=\"math\" data-latex=\"1\\,{}^{\\circ}\\mathrm{C}\"></span> change <span class=\"math\" data-latex=\"= 1\\ \\mathrm{K}\"></span> change).</p>\n<p>D: Incorrect. <span class=\"math\" data-latex=\"100\\,{}^{\\circ}\\mathrm{C} = 373.15\\ \\mathrm{K}\"></span> (approximately <span class=\"math\" data-latex=\"373\\ \\mathrm{K}\"></span>).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following statements is correct about the relationship between the Celsius and Kelvin scales?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p>A temperature increase of 1°C is equivalent to an increase of 2 K.</p></li><li data-label=\"B\"><p>0°C is equal to 0 K.</p></li><li data-label=\"C\"><p>A temperature increase of 1°C is equivalent to an increase of 1 K.</p></li><li data-label=\"D\"><p>100°C is equal to 273 K.</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

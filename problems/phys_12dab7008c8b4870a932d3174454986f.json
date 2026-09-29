@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3",
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_12dab7008c8b4870a932d3174454986f",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The four neutrons released in the reaction may initiate further fissions ✓  «If sufficient U-235 is available,» the reaction is self-sustained ✓  Allowing for the continuous production of energy ✓ The number of neutrons available is controlled with control rods «to maintain the desired reaction rate» ✓</p>\n\n\n\n</section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"137\\times 8.389+95\\times 8.460-235\\times 7.591\"></span> ✓ 169 «MeV» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«For the same number of nuclei,» the activity is inversely related to half-life ✓  Thus <sup>144</sup><sub>58</sub>Ce has a longer half-life and will likely require longer storage ✓ Half-lives of their decay products need also be considered when planning storage ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>One possible fission reaction of uranium-235 <sup>235</sup><sub>92</sub>U is</p>\n<p><sup>235</sup><sub>92</sub>U+n→<sup>137</sup><sub>55</sub>Cs+<sup>95</sup><sub>37</sub>Rb+4n</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline, with reference to the decay equation above, the role of chain reactions in the operation of a nuclear power station. [3]</p></section><section class=\"context\"><p>The following data are given:</p><p>Binding energy per nucleon of <sup>235</sup><sub>92</sub>U    = 7.591 MeV</p><p>Binding energy per nucleon of caesium-137 <sup>137</sup><sub>55</sub>Cs    = 8.389 MeV</p><p>Binding energy per nucleon of rubidium-95 <sup>95</sup><sub>37</sub>Rb    = 8.460 MeV</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate, in MeV, the energy released in the reaction. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Two nuclides present in spent nuclear fuel <sup>137</sup><sub>55</sub>Cs are  and cerium-144 (<sup>144</sup><sub>58</sub>Ce). The initial activity of a sample of pure <sup>137</sup><sub>55</sub>Cs is about 40 times greater than the activity of the same amount of pure <sup>144</sup><sub>58</sub>Ce.</p>\n<p>Discuss which of the two nuclides is more likely to require long-term storage once removed from the reactor.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

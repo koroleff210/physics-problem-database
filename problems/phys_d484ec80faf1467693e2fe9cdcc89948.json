@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d484ec80faf1467693e2fe9cdcc89948",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass of <span class=\"math\" data-latex=\"1.0\"></span> kg is tied to the end of a string of length <span class=\"math\" data-latex=\"2.0\"></span> m and is rotated in a horizontal circle. The frequency of the rotation is gradually increased and when the tension in the rope reaches <span class=\"math\" data-latex=\"8.0\"></span> N, the string breaks. The same mass is then tied to a second, similar string of length <span class=\"math\" data-latex=\"4.0\"></span> m and once again rotated in a horizontal circle at increasing frequency until the string breaks. What is the linear speed of the mass at the moment the second string breaks?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{8}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{32}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"8.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"32\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 6,
+  "id": "phys_6307cac4794a485297ab7f9869e94fbe",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Ohm’s law states that the current through a conductor is directly proportional to the potential difference across it, provided the temperature remains constant.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use <span class=\"math\" data-latex=\"V = IR \\Rightarrow R = \\frac{V}{I} = \\frac{12}{1.5}\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"R = 8.0\\ \\Omega\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Increasing resistance decreases the current (Ohm’s law)<br/>[1 mark]<br/>- Power is given by <span class=\"math\" data-latex=\"P = I^2 R\"></span> or <span class=\"math\" data-latex=\"P = \\frac{V^2}{R}\"></span><br/>[1 mark]<br/>- Since <span class=\"math\" data-latex=\"V\"></span> is constant, increasing <span class=\"math\" data-latex=\"R\"></span> decreases <span class=\"math\" data-latex=\"P\"></span><br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student connects a variable resistor to a battery of emf <span class=\"math\" data-latex=\"12\\ \\text{V}\"></span> and measures the current in the circuit as the resistance is adjusted. The internal resistance of the battery is negligible.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State Ohm’s law.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The current in the circuit is <span class=\"math\" data-latex=\"1.5\\ \\text{A}\"></span> when the resistance is adjusted to a certain value. Calculate this resistance.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The student increases the resistance. Describe and explain what happens to the current and the power dissipated in the resistor.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

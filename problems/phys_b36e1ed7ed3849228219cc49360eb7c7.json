@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/368bd1e476143086bcc2fcaa0d72c0da14a46273bf55a6bb63916af84354055c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "368bd1e476143086bcc2fcaa0d72c0da14a46273bf55a6bb63916af84354055c"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_b36e1ed7ed3849228219cc49360eb7c7",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and Q leave the same point, travelling in the same direction. The graphs show the variation with time <span class=\"math\" data-latex=\"t\"></span> of velocity <span class=\"math\" data-latex=\"v\"></span> for both P and Q.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the distance between P and Q when <span class=\"math\" data-latex=\"t=8.0 s\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"20 m\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"40 m\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"60 m\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"120 m\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

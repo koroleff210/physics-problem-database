@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_e98a8b3639ef4e98863764945772107d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the unit of angular impulse?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">N s</li><li data-label=\"B\">N m</li><li data-label=\"C\">N m s<sup>−1</sup></li><li data-label=\"D\">N m s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

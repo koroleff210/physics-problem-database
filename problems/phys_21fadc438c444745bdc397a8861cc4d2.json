@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_21fadc438c444745bdc397a8861cc4d2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Newton’s second law of motion states that:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The net force acting on a body is equal to the product of its mass and velocity.</li>\n<li data-label=\"B\">When one body exerts a force on a second body, the second body simultaneously exerts a force equal in magnitude and opposite in direction on the first body.</li>\n<li data-label=\"C\">The net force acting on a body is proportional to the momentum of the body.</li>\n<li data-label=\"D\">The rate of change of momentum of a body is equal to the net force acting on the body.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

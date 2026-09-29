@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_0c5da9e15e63498cad33780990102225",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary boat oscillates vertically on a river flowing at speed <span class=\"math\" data-latex=\"u\"></span>, creating waves of frequency <span class=\"math\" data-latex=\"f\"></span>. A raft floats along the river away from the boat at the same speed as the water. The speed of a wave on still water is <span class=\"math\" data-latex=\"v\"></span>. What is the frequency <span class=\"math\" data-latex=\"f'\"></span> of the waves created by the boat as seen by the raft?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"f\\frac{v}{v-u}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"f\\frac{v}{v+u}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"f\\frac{v-u}{v}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"f\\frac{v+u}v\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

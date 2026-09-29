@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/67bba2f4b7a95e03b2f9db6ba9636dc927474a02d2b7ff69978188da328f8715.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "67bba2f4b7a95e03b2f9db6ba9636dc927474a02d2b7ff69978188da328f8715"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ea8affa3d11d4ebb930c089cda6a4a4f",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two points R and S are in a uniform electric field of strength <span class=\"math\" data-latex=\"E\"></span>, directed vertically downwards. The horizontal distance from R to S iThis question proved relatively challenging, with many students choosing incorrect options: C (using the<br/>total displacement instead of the displacement in the direction of the field) or D (misinterpreting the sign<br/>of the change the potential increases in the direction opposite to the field strength).<br/>s <span class=\"math\" data-latex=\"Δ x\"></span>, and the vertical distance from R to S is <span class=\"math\" data-latex=\"Δ y\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The electric potential at R is zero. What is the electric potential at S?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"E \\sqrt{Δ {x}^{2} + Δ {y}^{2}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"E Δ y\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"- E \\sqrt{Δ {x}^{2} + Δ {y}^{2}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"- E Δ y\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

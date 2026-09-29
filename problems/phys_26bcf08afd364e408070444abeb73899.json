@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_26bcf08afd364e408070444abeb73899",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>the beam is parallel or anti-parallel to the magnetic field lines [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>the magnetic force is always perpendicular to the velocity (or direction of motion) so no work is done [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>recognizes that <span class=\"math\" data-latex=\"r = \\frac{mv}{qB}\"></span> or <span class=\"math\" data-latex=\"r \\propto \\frac{m}{q}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\frac{r_{\\alpha}}{r_p} = 2\"></span></p>\n<p><strong>OR</strong></p>\n<p>states that the alpha particle has <span class=\"math\" data-latex=\"4 \\times\"></span> the mass and <span class=\"math\" data-latex=\"2 \\times\"></span> the charge of a proton [1 mark]</p>\n<p>[2 marks]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A beam of electrons travels through a region containing a uniform magnetic field of flux density <span class=\"math\" data-latex=\"B\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the orientation of the electron beam relative to the magnetic field lines that would result in the electrons experiencing no magnetic force.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Outline why the kinetic energy of an electron in the beam remains constant as it moves through the magnetic field.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The electron beam is replaced by a source of protons and alpha particles. Both particles enter the same magnetic field at the same speed <span class=\"math\" data-latex=\"v\"></span>, moving perpendicular to the field lines. Deduce the ratio <span class=\"math\" data-latex=\"\\frac{r_{\\alpha}}{r_p}\"></span>, where <span class=\"math\" data-latex=\"r_{\\alpha}\"></span> is the radius of the alpha particle's path and <span class=\"math\" data-latex=\"r_p\"></span> is the radius of the proton's path.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

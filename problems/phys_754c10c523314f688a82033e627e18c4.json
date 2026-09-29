@@ -1,0 +1,74 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2e268145c6b0939802f132e5abb83c4a60703b5f92e675fb02aaef02b0487f37.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2e268145c6b0939802f132e5abb83c4a60703b5f92e675fb02aaef02b0487f37"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/f09ac964eda7ca2bf8c6d3f671db7ffa00f7d7a48f41793151d9f9f16c158b0c.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f09ac964eda7ca2bf8c6d3f671db7ffa00f7d7a48f41793151d9f9f16c158b0c"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/3e750e8112af49e87c8915f5cd8d02e8599b854d3a8eacbdef419211551af76f.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e750e8112af49e87c8915f5cd8d02e8599b854d3a8eacbdef419211551af76f"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/c00d6534b73d399dd186f66b3e3b699b2d0dc508556b7a5c599f6a8704e5a19c.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c00d6534b73d399dd186f66b3e3b699b2d0dc508556b7a5c599f6a8704e5a19c"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/d1969a15ee8f64e2df301c5c1b3c663205e56e32a78b668a67f54f8a7ad99e47.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d1969a15ee8f64e2df301c5c1b3c663205e56e32a78b668a67f54f8a7ad99e47"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.2",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_754c10c523314f688a82033e627e18c4",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"17a\"><p><strong>17a</strong></p><p></p>\n<p>As the coil is entering the magnetic field, magnetic flux linkage through the coil is changing.</p>\n<p>According to Faraday’s law of induction, the induced emf in a coil is proportional to the rate of change of magnetic flux linkage through the coil.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17b(i)\"><p><strong>17b(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"17b(ii)\"><p><strong>17b(ii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"17c\"><p><strong>17c</strong></p><p></p>\n<p>Induced emf in the coil:</p>\n<p><span class=\"math\" data-latex=\"\\varepsilon = (0.788)(1.6 ) \\approx 1.26\"></span> V</p>\n<p><span class=\"math\" data-latex=\"1.26 = (94)\\times \\frac{(643 \\times 10^{-3})(2L^{2})}{386 \\times 10^{-3}}\"></span></p>\n<p><span class=\"math\" data-latex=\"L \\approx 0.063\"></span> m or <span class=\"math\" data-latex=\"6.3\"></span> cm</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A rectangular coil, moving at constant speed, enters a uniform magnetic field of strength <span class=\"math\" data-latex=\"643\"></span> mT at <span class=\"math\" data-latex=\"t = 0\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline, with reference to Faraday’s law of induction, how an emf is induced in the coil.</p>\n<p>  [2]</p>\n<p>b. Sketch how the:</p>\n<p>i. magnetic flux linkage in the coil varies with time.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>ii. induced current in the coil varies with time.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>  [2]</p>\n<p>It takes the coil <span class=\"math\" data-latex=\"386\"></span> ms to fully enter the magnetic field. The length of the coil is <span class=\"math\" data-latex=\"2L\"></span>, the width of the coil is <span class=\"math\" data-latex=\"L\"></span>, and the coil has <span class=\"math\" data-latex=\"94\"></span> turns. The maximum induced current in the coil is <span class=\"math\" data-latex=\"0.788\"></span> A and the resistance of the coil is <span class=\"math\" data-latex=\"1.6 \\: \\Omega\"></span>.</p>\n<p>c. Determine <span class=\"math\" data-latex=\"L\"></span>. Give your answer to an appropriate number of significant figures.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

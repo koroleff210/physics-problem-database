@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7ca0cabe8a6c4b6b9957235192960d80",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State that for a fixed mass of gas at constant pressure, volume is directly proportional to temperature (<span class=\"math\" data-latex=\"V \\propto T\"></span> or <span class=\"math\" data-latex=\"V/T = \\text{constant}\"></span>) [1 mark]<br/>- Show consistent ratios for at least two data points: e.g., <span class=\"math\" data-latex=\"\\frac{2.40 \\times 10^{-3}}{300} = 8.0 \\times 10^{-6}\\ \\mathrm{m}^3\\ \\mathrm{K}^{-1}\"></span> and <span class=\"math\" data-latex=\"\\frac{4.00 \\times 10^{-3}}{500} = 8.0 \\times 10^{-6}\\ \\mathrm{m}^3\\ \\mathrm{K}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use the ideal gas law <span class=\"math\" data-latex=\"PV = N k_B T\"></span> or <span class=\"math\" data-latex=\"PV = nRT\"></span> with <span class=\"math\" data-latex=\"N = n N_A\"></span> at any point from the table, e.g., at <span class=\"math\" data-latex=\"300\\ \\mathrm{K}\"></span>: <span class=\"math\" data-latex=\"N = \\frac{1.0 \\times 10^5\\ \\mathrm{Pa} \\times 2.40 \\times 10^{-3}\\ \\mathrm{m}^3}{1.38 \\times 10^{-23}\\ \\mathrm{J}\\ \\mathrm{K}^{-1} \\times 300\\ \\mathrm{K}}\"></span> [1 mark]<br/>- Calculate the final value: <span class=\"math\" data-latex=\"N \\approx 5.8 \\times 10^{22}\"></span> molecules [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Substitute the temperature into the kinetic energy formula <span class=\"math\" data-latex=\"\\bar{E}_k = \\frac{3}{2} k_B T\"></span>: <span class=\"math\" data-latex=\"\\bar{E}_k = 1.5 \\times 1.38 \\times 10^{-23}\\ \\mathrm{J}\\ \\mathrm{K}^{-1} \\times 500\\ \\mathrm{K}\"></span> [1 mark]<br/>- Calculate the final value: <span class=\"math\" data-latex=\"\\bar{E}_k = 1.04 \\times 10^{-20}\\ \\mathrm{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Identify that at low temperatures, the intermolecular forces (attractive forces) between molecules become significant or the volume of the molecules themselves becomes a non-negligible fraction of the total volume [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A physics student performs an experiment to investigate the properties of a fixed mass of an ideal gas contained within a piston-cylinder arrangement. The gas is kept at a constant pressure of <span class=\"math\" data-latex=\"1.0 \\times 10^5\\ \\mathrm{Pa}\"></span>. The student records the volume <span class=\"math\" data-latex=\"V\"></span> of the gas at different absolute temperatures <span class=\"math\" data-latex=\"T\"></span>.</p><table><thead><tr><th>Temperature <span class=\"math\" data-latex=\"T\"></span> (K)</th><th>Volume <span class=\"math\" data-latex=\"V\"></span> (<span class=\"math\" data-latex=\"10^{-3}\\ \\mathrm{m}^3\"></span>)</th></tr></thead><tbody><tr><td>300</td><td>2.40</td></tr><tr><td>400</td><td>3.20</td></tr><tr><td>500</td><td>4.00</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Show that the data in the table is consistent with Charles's Law.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the total number of gas molecules present in the cylinder.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the average translational kinetic energy of a single gas molecule when the temperature is <span class=\"math\" data-latex=\"500\\ \\mathrm{K}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>State one reason why a real gas would deviate from this ideal behavior if the temperature were significantly decreased while keeping the pressure constant.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

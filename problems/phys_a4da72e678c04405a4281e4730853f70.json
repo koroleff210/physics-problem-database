@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_a4da72e678c04405a4281e4730853f70",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>100 «m» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>the length measured by an observer at rest « with respect to the object being measured » ✔</p>\n<p>Accept the length of an object in the object’s rest frame. Allow “the maximal measurable length/ longest measurable distance of object.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>γ = « <span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{1 - \\frac{0.6^{2}}{1^{2}}}}\"></span> »=1.25 ✔</p>\n<p>«100/1.25 =»80 «m» ✔</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>Newton assumed that «time and» space are absolute / OWTTE<br/>OR<br/>relativity assumes that « time and » space are not absolute/constant ✔ different length measurements contradict Newton’s assumption / OWTTE ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The length of a space station is measured to be 100 m according to observer A at rest in the space station.</p>\n<p>Observer B is moving at 0.60c with respect to the space station.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Write down the length of the space station according to Galilean relativity. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Define what is meant by proper length. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the length of the space station according to observer B, with reference to special relativity. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Outline how the results in (b)(ii) contradict Newton’s postulates concerning time and space. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

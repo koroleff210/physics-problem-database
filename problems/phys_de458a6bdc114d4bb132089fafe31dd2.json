@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_de458a6bdc114d4bb132089fafe31dd2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This expression omits the factor of 4 resulting from the <span class=\"math\" data-latex=\"4\\pi\"></span> in the surface area of the sphere (intensity formula) and the lack of <span class=\"math\" data-latex=\"\\pi\"></span> in the cross-sectional area calculation.</p>\n<p>B: This expression calculates the power reflected by the planet rather than the power absorbed, as it uses <span class=\"math\" data-latex=\"\\alpha\"></span> instead of <span class=\"math\" data-latex=\"(1 - \\alpha)\"></span>.</p>\n<p>C: - The intensity of radiation at distance <span class=\"math\" data-latex=\"d\"></span> is <span class=\"math\" data-latex=\"I = \\frac{L}{4 \\pi d^{2}}\"></span>.<br/>- The power incident on the planet is <span class=\"math\" data-latex=\"P_{\\text{incident}} = I \\times \\text{cross-sectional area} = I \\times \\pi R^{2}\"></span>.<br/>- Substituting <span class=\"math\" data-latex=\"I\"></span> gives <span class=\"math\" data-latex=\"P_{\\text{incident}} = \\frac{L \\pi R^{2}}{4 \\pi d^{2}} = \\frac{L R^{2}}{4 d^{2}}\"></span>.<br/>- The power absorbed is <span class=\"math\" data-latex=\"P_{\\text{absorbed}} = P_{\\text{incident}} \\times (1 - \\alpha) = \\frac{L R^{2} (1 - \\alpha)}{4 d^{2}}\"></span>.</p>\n<p>D: This expression incorrectly retains a factor of <span class=\"math\" data-latex=\"\\pi\"></span> in the denominator, failing to cancel it with the <span class=\"math\" data-latex=\"\\pi\"></span> from the planet's cross-sectional area.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star of luminosity <span class=\"math\" data-latex=\"L\"></span> is at a distance <span class=\"math\" data-latex=\"d\"></span> from a planet of radius <span class=\"math\" data-latex=\"R\"></span>. The planet has an albedo of <span class=\"math\" data-latex=\"\\alpha\"></span>.</p>\n<p>Which expression gives the total solar power absorbed by the planet?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{L R^{2} (1 - \\alpha)}{d^{2}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{L R^{2} \\alpha}{4 d^{2}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{L R^{2} (1 - \\alpha)}{4 d^{2}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{L R^{2} (1 - \\alpha)}{4 \\pi d^{2}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

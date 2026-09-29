@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_e1cfce1beeb84f8badea3a21d200b8d5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following provides evidence for the particle nature of light?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Compton scattering of light from electrons</li>\n<li data-label=\"B\">The dark and bright fringes in a double-slit diffraction pattern</li>\n<li data-label=\"C\">Deviations from Rutherford scattering</li>\n<li data-label=\"D\">Atomic absorption and emission spectra</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

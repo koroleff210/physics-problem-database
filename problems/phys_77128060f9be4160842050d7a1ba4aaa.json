@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_77128060f9be4160842050d7a1ba4aaa",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>For a lightly damped oscillation…<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the amplitude goes to zero within one period of oscillation.</li><li data-label=\"B\">the oscillation frequency does not change with time.</li><li data-label=\"C\">energy is transferred from the oscillation as quickly as possible.</li><li data-label=\"D\">the oscillation frequency equals the undamped oscillation frequency.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

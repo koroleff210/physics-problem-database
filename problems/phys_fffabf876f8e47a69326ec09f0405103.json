@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_fffabf876f8e47a69326ec09f0405103",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is not a transverse wave?</p><ol class=\"mcq-options\"><li data-label=\"A\">Light</li><li data-label=\"B\">Water surface wave</li><li data-label=\"C\">Sound</li><li data-label=\"D\">Radio wave</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

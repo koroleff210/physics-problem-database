@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/90eeaf9e3af753b5d0481f18e3cc66463116a227828dcc76d158e339d6b54ea3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "90eeaf9e3af753b5d0481f18e3cc66463116a227828dcc76d158e339d6b54ea3"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_a2932101e5b543ea9feb5a0e28afbf3c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Based on the energy budget shown, what is the albedo of the Earth's surface?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\">0.25</li><li data-label=\"B\">0.38</li><li data-label=\"C\">0.60</li><li data-label=\"D\">0.63</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

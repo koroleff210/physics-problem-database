@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_31c2b2c8d938476291f8b357e74e682f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star has a parallax angle of 1 × 10<sup>−2</sup> arc-second at the orbit of the Earth.</p>\n<p>What is the distance from the Sun to the star?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.01 pc</li><li data-label=\"B\">0.02 pc</li><li data-label=\"C\">50 pc</li><li data-label=\"D\">100 pc</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

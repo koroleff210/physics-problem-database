@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e6174b067375d2da922f0250784935ec836bffd7aa66150b07ac690d36113d79.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e6174b067375d2da922f0250784935ec836bffd7aa66150b07ac690d36113d79"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_5143e22313a8474bac0caec7456d1a97",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALTERNATIVE 1 Energy conservation after heavier block falls a distance <span class=\"math\" data-latex=\"h\"></span> gives <span class=\"math\" data-latex=\"\\frac{1}{2}\\frac{mr^{2}}{2}\\omega^{2}+\\frac{1}{2}mv^{2}+\\frac{1}{2}\\times 2mv^{2}=2mgh-mgh\"></span> ✓ <span class=\"math\" data-latex=\"\\omega=\\frac{v}{r}\"></span> so <span class=\"math\" data-latex=\"v^{2}=\\frac{4gh}{7}\"></span> ✓ <span class=\"math\" data-latex=\"v^{2}=2ah⇒\\frac{4gh}{7}=2ah\"></span> ✓ Hence <span class=\"math\" data-latex=\"a=\\frac{2g}{7}\"></span>   ALTERNATIVE 2 Moment of inertia of system <span class=\"math\" data-latex=\"\\frac{1}{2}mr^{2}+mr^{2}+2mr^{2}=\\frac{7}{2}mr^{2}\"></span> ✓ Net torque = <span class=\"math\" data-latex=\"mgr\"></span>, so <span class=\"math\" data-latex=\"mgr=\\frac{7}{2}mr^{2}\\times \\alpha\"></span> ✓ <span class=\"math\" data-latex=\"\\alpha=\\frac{a}{r}\"></span> ✓ Hence <span class=\"math\" data-latex=\"a=\\frac{2g}{7}\"></span>   ALTERNATIVE 3 <span class=\"math\" data-latex=\"2mg-T_{1}=2ma\"></span>   and   <span class=\"math\" data-latex=\"T_{2}-mg=ma\"></span> ✓ <span class=\"math\" data-latex=\"T_{1}-T_{2}r=\\frac{mr^{2}}{2}\\frac{a}{r}⇒T_{1}-T_{2}=\\frac{ma}{2}\"></span> ✓ Adding equations of MP1: <span class=\"math\" data-latex=\"-\\frac{ma}{2}+mg=3ma\"></span> ✓ Hence <span class=\"math\" data-latex=\"a=\\frac{2g}{7}\"></span></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>No, because there is a non-zero external torque on the system / the system has angular acceleration ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two blocks of mass <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"2m\"></span> are connected with a string that goes over a pulley of mass <span class=\"math\" data-latex=\"m\"></span>.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>When the blocks are released, the pulley turns about the axle as the blocks move. The string does not slip relative to the pulley. The radius of the pulley is <span class=\"math\" data-latex=\"r\"></span> and its moment of inertia about the axle is <span class=\"math\" data-latex=\"\\frac{mr^{2}}{2}\"></span>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the acceleration <span class=\"math\" data-latex=\"a\"></span> of the blocks is given by <span class=\"math\" data-latex=\"a=\\frac{2g}{7}\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Suggest whether the angular momentum of the pulley–blocks system is conserved. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

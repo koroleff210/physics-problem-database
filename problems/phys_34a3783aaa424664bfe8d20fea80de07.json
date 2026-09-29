@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_34a3783aaa424664bfe8d20fea80de07",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>This is a projectile motion problem. At the highest point of its trajectory, the vertical component of the ball's velocity is momentarily zero. The horizontal component of velocity remains constant throughout the flight, as air resistance is ignored. The speed at the top is therefore equal to the initial horizontal velocity, calculated as <span class=\"math\" data-latex=\"v_{x}\"></span> = <span class=\"math\" data-latex=\"v_{0}\"></span> * cos(theta) = 10 * cos(30 degrees) which is approximately 8.7 m/s.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is launched with an initial velocity of <span class=\"math\" data-latex=\"10\\,\\mathrm{m\\,s^{-1}}\"></span> and an angle of <span class=\"math\" data-latex=\"30^\\circ\"></span> to the horizontal. Air resistance is ignored.</p>\n<p>What is the instantaneous speed of the ball at the top of its path?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"10\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"8.7\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"5.0\\,\\mathrm{m\\,s^{-1}}\"></span></li>\n<li data-label=\"D\"> zero <span class=\"math\" data-latex=\"\\mathrm{m\\,s^{-1}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

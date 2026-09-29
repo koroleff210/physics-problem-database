@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_f61703e273eb413ab4c11b752bea4b39",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone is thrown vertically upwards from the ground at <span class=\"math\" data-latex=\"t = 0\"></span>. At <span class=\"math\" data-latex=\"t = 3.0\"></span> s and <span class=\"math\" data-latex=\"t = 11\"></span> s the stone passes the same point above its starting position and then falls back to the ground. Air resistance is negligible. What is the total distance traveled by the stone?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"180\"></span> m</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"250\"></span> m</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"360\"></span> m</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"490\"></span> m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/045cb09a7be5e6c7d1e0656adf93366f4248fffa384fbae40f61336f8d3443e5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "045cb09a7be5e6c7d1e0656adf93366f4248fffa384fbae40f61336f8d3443e5"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_19710029ce894e08b6dd57c1cf5ae016",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>g OR 9.81 «m s<sup>−2</sup>» OR acceleration of gravity/due to free fall ✓   Accept 10 «m s<sup>−2</sup>». Ignore sign. Do not accept bald “gravity”. Accept answer that indicates tangent of the graph at time t=0.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Identification of air resistance/drag force «acting upwards» ✓ «that» increases with speed ✓<br/>«until» weight and air resistance cancel out OR net force/acceleration becomes zero ✓   A statement as “air resistance increases with speed” scores MP1 and MP2.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>«loss in» GPE = 3.4 × 10<sup>−5</sup> × 9.81 × 21 «= 7.0 × 10<sup>−3</sup>» «J» OR «gain in» KE = 0.5 × 3.4 × 10<sup>−5</sup> × 9.0<sup>2</sup> «= 1.4 × 10<sup>−3</sup>» «J» ✓<br/>energy transferred to air «=7.0 × 10<sup>−3</sup> − 1.4 × 10<sup>−3</sup>» = 5.6 × 10<sup>−3</sup>» «J» ✓   any calculated answer to 2 sf ✓   Allow [1] through the use of kinematics assuming constant acceleration. Allow ECF from MP1.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>«gravitational» potential energy «of the raindrop» into thermal/internal energy «of the air» ✓   Accept heat for thermal energy. Accept into kinetic energy of air particles. Ignore sound energy.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A raindrop falls vertically from rest.</p>\n<p>The graph shows how the speed of the raindrop varies with time t.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>During the first 3.0 s of motion, the raindrop falls a distance of 21 m and reaches a speed of 9.0 m s<sup>−1</sup>. The mass of the raindrop is 34 mg. The temperature of the raindrop does not change.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the initial acceleration of the raindrop. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain, by reference to the vertical forces, how the raindrop reaches a constant speed. [3]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Determine the energy transferred to the air during the first 3.0 s of motion. State your answer to an appropriate number of significant figures. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Describe the energy change that takes place for t &gt; 3.0 s. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

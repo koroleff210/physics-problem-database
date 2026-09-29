@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_afd3f95e5beb4f79992eb15516ac1e2f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which condition is necessary for a system to undergo simple harmonic motion?</p><ol class=\"mcq-options\"><li data-label=\"A\">Acceleration is always constant.</li><li data-label=\"B\">Acceleration is always directed away from equilibrium.</li><li data-label=\"C\">Acceleration is proportional to displacement and directed towards equilibrium.</li><li data-label=\"D\">Velocity is always proportional to displacement.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0b2657b0213504b5d5a8f4d22d2e5ad9952ed62e0b3ea9622f2cd3a7f3d232ec.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0b2657b0213504b5d5a8f4d22d2e5ad9952ed62e0b3ea9622f2cd3a7f3d232ec"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d1c02c8aefd340068c8f5ae0d53c81ba",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>As the north pole of the falling magnet approaches the ring, the downward magnetic flux through the ring increases. By Lenz's law, the induced current must create an opposing upward magnetic field. Using the right-hand grip rule, this requires a counter-clockwise current when viewed from above, which corresponds to a clockwise current when viewed from the ground. Since the magnet is accelerating under gravity, its speed increases, causing the rate of change of magnetic flux to increase. Therefore, the magnitude of the induced current is variable.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A falling magnet approaches a conducting circular ring above the ground.</p>\n<p>What is correct about the direction and magnitude of the current induced in the ring as the magnet approaches it, as seen from the ground?</p>\n<table><thead><tr><th>Option</th><th>Direction of the current</th><th>Magnitude of the current</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Counter-clockwise</td><td>Constant</td></tr><tr data-label=\"B\"><td>B</td><td>Counter-clockwise</td><td>Variable</td></tr><tr data-label=\"C\"><td>C</td><td>Clockwise</td><td>Constant</td></tr><tr data-label=\"D\"><td>D</td><td>Clockwise</td><td>Variable</td></tr></tbody></table>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

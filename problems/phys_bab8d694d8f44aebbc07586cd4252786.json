@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b2bd7f962ccc261d66ca85ac5142d85bb8da967d12725e6d65da05463cb78654.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b2bd7f962ccc261d66ca85ac5142d85bb8da967d12725e6d65da05463cb78654"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_bab8d694d8f44aebbc07586cd4252786",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is sliding from rest down a frictionless inclined plane. The vertical displacement of the object is 1.5 m during the first second.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the vertical displacement during the next second?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.5 m</li><li data-label=\"B\">3.0 m</li><li data-label=\"C\">4.5 m</li><li data-label=\"D\">5.0 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

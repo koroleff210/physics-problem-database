@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_b7b31147d3b34a568a2f36cd061f5d67",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The fixed distance between Earth and a star measured in Earth’s reference frame is <span class=\"math\" data-latex=\"d_{E}\"></span>. A spaceship travels from Earth to the star at a constant speed of 0.8c relative to Earth. The distance between Earth and the star as measured by the spaceship is d<sub>s</sub>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{d_{s}}{d_{E}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{3}{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{4}{5}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{5}{3}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

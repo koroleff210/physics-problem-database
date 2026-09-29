@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a968f56d4612e4190f46c7ebfdcbf8b35532cfa126a0e5e1a1999be1281088f4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a968f56d4612e4190f46c7ebfdcbf8b35532cfa126a0e5e1a1999be1281088f4"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_527cee1cef084d1380d50c941a622c72",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«incident and reflected» waves superpose/interfere/combine ✓</p>\n<p>«that leads to» standing waves formed OR nodes and antinodes present ✓</p>\n<p>at antinodes / maxima there is maximum intensity / constructive interference / «displacement» addition / louder sound ✓</p>\n<p>at nodes / minima there is minimum intensity / destructive interference / «displacement» cancellation / quieter sound ✓</p>\n<p>OWTTE</p>\n<p>Allow a sketch of a standing wave for MP2</p>\n<p>Allow a correct reference to path or phase differences to identify constructive / destructive interference</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>wavelength = 0.24 «m» ✓</p>\n<p><span class=\"math\" data-latex=\"f\"></span> = «<span class=\"math\" data-latex=\"\\frac{340}{0.24}\"></span>=» 1.4 «kHz» OR 1400 «Hz» ✓</p>\n<p>Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>relates intensity to amplitude ✓</p>\n<p>antinodes / maximum intensity will be decreased / quieter ✓</p>\n<p>nodes / minimum will be increased / louder ✓</p>\n<p>difference in intensities will be less ✓</p>\n<p>maxima and minima are at the same positions ✓</p>\n<p>OWTTE</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A loudspeaker emits sound waves of frequency <span class=\"math\" data-latex=\"f\"></span> towards a metal plate that reflects the waves. A small microphone is moved along the line from the metal plate to the loudspeaker. The intensity of sound detected at the microphone as it moves varies regularly between maximum and minimum values.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The speed of sound in air is 340 m s<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Explain the variation in intensity. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Adjacent minima are separated by a distance of 0.12 m. Calculate <span class=\"math\" data-latex=\"f\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The metal plate is replaced by a wooden plate that reflects a lower intensity sound wave than the metal plate.</p>\n<p>State and explain the differences between the sound intensities detected by the same microphone with the metal plate and the wooden plate.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

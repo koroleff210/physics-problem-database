@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_4814bca4384246f1a417523797f9258d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The interaction between atmospheric gases and radiation is a key factor in the Earth's energy balance. Which row in the table correctly identifies how greenhouse gases generally behave toward incoming short-wavelength solar radiation and outgoing long-wavelength terrestrial radiation?</p>\n<table><thead><tr><th></th><th>Short-wavelength solar radiation</th><th>Long-wavelength terrestrial radiation</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Mostly absorbed</td><td>Mostly transmitted</td></tr><tr data-label=\"B\"><td>B</td><td>Mostly transmitted</td><td>Mostly absorbed</td></tr><tr data-label=\"C\"><td>C</td><td>Mostly transmitted</td><td>Mostly transmitted</td></tr><tr data-label=\"D\"><td>D</td><td>Mostly absorbed</td><td>Mostly absorbed</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

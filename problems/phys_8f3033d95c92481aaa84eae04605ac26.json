@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/61b0f7320d6718e867f6f49a9a154732ee2ec3b1d485a5ab1bf3beca5210d734.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "61b0f7320d6718e867f6f49a9a154732ee2ec3b1d485a5ab1bf3beca5210d734"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/2fc0d1fa92db09f32f0189d70af63ed167d37813279dd51cfb427b002fa0b9bd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2fc0d1fa92db09f32f0189d70af63ed167d37813279dd51cfb427b002fa0b9bd"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/db9202bc816d51ff9059b6980e42cb97f83cf00cedc131343e6b90836c784da9.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "db9202bc816d51ff9059b6980e42cb97f83cf00cedc131343e6b90836c784da9"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_8f3033d95c92481aaa84eae04605ac26",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Alternate 1 Place light source midway between clocks / at origin O ✓ set clocks at 2000/c and start them with flash of light from O ✓<br/><br/>Alternate 2 Initially together (at origin) and synchronised ✓ then moved apart (infinitely) slowly ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"tan \\theta=\\frac{1}{4}\"></span> <span class=\"math\" data-latex=\"v=0.25c\"></span><br/><br/>Accept BCA</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Correct construction of light cones seen ✓ Line identified on diagram ✓<br/><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Line at correct angle intersecting A at worldline of right-hand clock.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"\\frac{8000}{c}=2.7\\times 10^{-5}\"></span> «s» ✓ <br/>Allow ECF from b) i)</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>two construction lines ✓ difference in time identified correctly ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>A has changed from one inertial reference frame to another (when it changed velocity) ✓<br/><br/>Accept “Due to acceleration at turnaround”</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The spacetime diagram (<span class=\"math\" data-latex=\"x\"></span>, ct) for a space station S shows the worldlines of two clocks (clock 1 and clock 2). Each clock is 2.0 km from S. The spacetime diagram also shows the worldline of spaceship A.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Outline how clock 1 and clock 2 can be synchronized with a clock on S. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Determine, in terms of c, the speed of A in the reference frame of S. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> </p><p>Clock 1 and clock 2 emit separate light signals when A is at (0,0).</p>\n<p>Identify, on the diagram, the proper time that elapses between the arrival of the light signals at A.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> At event E, spaceship P leaves S to intercept spaceship A. The speed of P is 0.50c in the reference frame of S.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Identify, with the letter X on the diagram, the event of P intercepting A. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> State, in seconds, the time of event X for clock 2. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Spaceship A then returns to S.</p>\n<p>The spacetime diagram shows the rest frame of A on its outward journey (<span class=\"math\" data-latex=\"x\"></span>′, ct′) and on its return journey (<span class=\"math\" data-latex=\"x\"></span>″, ct″).</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>An observer in A determines, for the reference frame of S, the time t<sub>1</sub> immediately before the change of velocity of A and the time t<sub>2</sub> immediately after the change of velocity of A.</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Identify, with lines and labels on the spacetime diagram, the difference between t<sub>1</sub> and t<sub>2</sub>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Explain how the difference between t<sub>1</sub> and t<sub>2</sub> arises. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

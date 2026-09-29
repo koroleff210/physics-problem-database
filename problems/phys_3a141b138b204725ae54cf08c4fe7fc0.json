@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_3a141b138b204725ae54cf08c4fe7fc0",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Momentum must be conserved in initial direction of shell (20° above horizontal)  ✓  Recoil velocity is 4.2 m s<sup>−1</sup> at 20° below horizontal  ✓  3.95 m s<sup>−1 </sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"E_{k}=\\frac{1}{2}mv^{2}=11.7 kJ\"></span>  ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Must be transferred into the ground beneath the cannon OR into the suspension system  ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A cannon is used to fire a shell into snow to trigger an avalanche before the snow can cause damage. The mass of the cannon is 1500 kg and the mass of the shell is 15 kg. The shell is projected with an initial speed of 420 m s<sup>−1</sup> at an angle of 20° above the horizontal. The cannon is mounted so that it can only recoil horizontally.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine the recoil velocity of the cannon. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the initial kinetic energy of the cannon. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Suggest what happens to the vertical component of momentum of the cannon when the shell is fired. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

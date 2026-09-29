@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_2e1b16ba19044dbd97f9df324cd60dc0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Correct: albedo is the fraction/ratio (or percentage) of incident radiation that is reflected.</p>\n<p>B: Incorrect: this describes absorptivity (or <span class=\"math\" data-latex=\"1-\\text{albedo}\"></span> if transmission is negligible).</p>\n<p>C: Incorrect: this is an energy per unit area (e.g. J m<span class=\"math\" data-latex=\"^{-2}\"></span>), not a dimensionless ratio.</p>\n<p>D: Incorrect: this is a difference in power/energy, not a ratio; it would have units.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A surface exposed to sunlight reflects part of the incoming radiation.</p>\n<p>Which statement best defines albedo?</p><ol class=\"mcq-options\"><li data-label=\"A\">The ratio of the reflected radiation from a surface to the incident radiation on that surface.</li><li data-label=\"B\">The ratio of the absorbed radiation by a surface to the incident radiation on that surface.</li><li data-label=\"C\">The total energy absorbed by a surface per unit area.</li><li data-label=\"D\">The difference between the incident radiation and the reflected radiation from a surface.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

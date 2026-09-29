@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_43975c6577854acb8d223c6af0172c11",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The entropy of a system is <span class=\"math\" data-latex=\"S\"></span>, and the number of possible microstates is <span class=\"math\" data-latex=\"Ω\"></span>. What is the number of possible microstates for a system of entropy <span class=\"math\" data-latex=\"\\frac{S}{2}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Ω}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{Ω}}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{Ω}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"Ω^{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

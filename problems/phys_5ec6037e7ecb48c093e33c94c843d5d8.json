@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5ec6037e7ecb48c093e33c94c843d5d8",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Greenhouse gases in the atmosphere (e.g., <span class=\"math\" data-latex=\"CO_2\"></span>, <span class=\"math\" data-latex=\"CH_4\"></span>, or <span class=\"math\" data-latex=\"H_2O\"></span> vapor) absorb infrared/long-wave radiation emitted by the surface [1 mark]<br/>- This energy is re-radiated in all directions, including back towards the planet's surface [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Recognition that total power per unit area emitted by the surface is the sum of both incident fluxes: <span class=\"math\" data-latex=\"238 + 152 = 390\\text{ W m}^{-2}\"></span> [1 mark]<br/>- Correct calculation of temperature using Stefan-Boltzmann law: <span class=\"math\" data-latex=\"T = \\sqrt[4]{\\frac{390}{0.94 \\times 5.67 \\times 10^{-8}}} = 292.4\\text{ K} \\approx 292\\text{ K}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- A lower albedo means less radiation is reflected, so the \"Absorbed solar radiation\" value increases [1 mark]<br/>- The increase in net energy input results in a higher equilibrium surface temperature [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A simplified climate model for a planet provides the following data for the average energy flux at its surface:</p><table><thead><tr><th>Energy Flux Component</th><th>Power per unit area / <span class=\"math\" data-latex=\"\\text{W m}^{-2}\"></span></th></tr></thead><tbody><tr><td>Absorbed solar radiation</td><td>238</td></tr><tr><td>Back-radiation from atmosphere</td><td>152</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain the origin of the <span class=\"math\" data-latex=\"152\\text{ W m}^{-2}\"></span> flux from the atmosphere.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The surface of the planet has an emissivity of <span class=\"math\" data-latex=\"0.94\"></span>. Calculate the equilibrium surface temperature of the planet.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The planet's ice caps melt, significantly decreasing the surface albedo. Describe the effect of this change on the absorbed solar radiation and predict the resulting change in the planet’s average surface temperature.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

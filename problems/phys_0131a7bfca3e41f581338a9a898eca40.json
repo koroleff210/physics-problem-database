@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fb765938aacef07c90a3d100cf9594267c179fa0a66dbe6aa0f1d5ab34f127a5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fb765938aacef07c90a3d100cf9594267c179fa0a66dbe6aa0f1d5ab34f127a5"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_0131a7bfca3e41f581338a9a898eca40",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>At the moment of release, the pendulum bob has zero velocity, so its centripetal acceleration is zero. The net force in the radial direction (along the string) must therefore be zero. By resolving the gravitational force mg, its component along the string is mg cos(θ). This component is balanced by the tension T. Therefore, T = mg cos(θ). Using the trigonometric identity sin(90° - θ) = cos(θ), this corresponds to option D.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere of mass <span class=\"math\" data-latex=\"m\"></span> is attached to a string and acts as a pendulum. The diagram shows the moment when the sphere is released with an initial angle to the vertical of <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n<p>What is the magnitude of the tension <span class=\"math\" data-latex=\"T\"></span> in the string when it is released?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"mg\\tan(\\theta)\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"mg\\sin(\\theta)\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"mg\\cos(90^\\circ-\\theta)\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"mg\\sin(90^\\circ-\\theta)\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

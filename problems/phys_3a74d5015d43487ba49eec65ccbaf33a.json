@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0a2c1ddf0d885dd68f6f7a8f6dc6685a0f11d4836d2f81ff2e977a02b7cedb89.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0a2c1ddf0d885dd68f6f7a8f6dc6685a0f11d4836d2f81ff2e977a02b7cedb89"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_3a74d5015d43487ba49eec65ccbaf33a",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The intensity pattern of monochromatic light of wavelength λ, is projected onto a screen.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What combination produces this pattern?</p>\n<table><tbody><tr><td></td><td><p>Number of slits</p></td><td><p>Width of slits<br/></p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>1</p></td><td><p>smaller than λ</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>1</p></td><td><p>greater than λ</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>2</p></td><td><p>smaller than λ</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>2</p></td><td><p>greater than λ</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

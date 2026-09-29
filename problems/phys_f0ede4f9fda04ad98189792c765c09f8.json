@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_f0ede4f9fda04ad98189792c765c09f8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas undergoes a cyclic process in a heat engine. Over one complete cycle, which of the following quantities is necessarily zero?</p><ol class=\"mcq-options\"><li data-label=\"A\">The net work done by the gas</li><li data-label=\"B\">The total energy transferred as heat</li><li data-label=\"C\">The change in internal energy of the gas</li><li data-label=\"D\">The total energy input to the gas</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

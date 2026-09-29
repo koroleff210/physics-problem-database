@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_30823dfdff724c209d870170ab117af8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The decay constant, <span class=\"math\" data-latex=\"\\lambda\"></span>, of a radioactive sample can be defined as</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the number of disintegrations in the radioactive sample.</li><li data-label=\"B\">the number of disintegrations per unit time in the radioactive sample.</li><li data-label=\"C\">the probability that a nucleus decays in the radioactive sample.</li><li data-label=\"D\">the probability that a nucleus decays per unit time in the radioactive sample.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

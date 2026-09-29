@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_adf8507db42d4f47a44e8d9fc040df8f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of glass of mass 5 kg and temperature 30°C is brought into contact with a block of asphalt of mass 20 kg and temperature 75°C. The specific heat capacity of asphalt is twice that of glass. No energy is transferred to the surroundings. What is the final temperature of both blocks?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">35°C</li><li data-label=\"B\">45°C</li><li data-label=\"C\">60°C</li><li data-label=\"D\">70°C</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

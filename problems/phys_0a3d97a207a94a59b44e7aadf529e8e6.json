@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/84a64b1395c5d6807439bb348448a64ad49945a9cd931c9537846c0a66646096.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84a64b1395c5d6807439bb348448a64ad49945a9cd931c9537846c0a66646096"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0a3d97a207a94a59b44e7aadf529e8e6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two point charges are placed at points P and Q as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>At which of the following points is the direction of the electric field to the left?</p>\n<p>I. A</p>\n<p>II. B</p>\n<p>III. C</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

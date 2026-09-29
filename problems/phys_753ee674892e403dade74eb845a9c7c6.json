@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_753ee674892e403dade74eb845a9c7c6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would indicate constant resistance at all currents; however, the resistance increases as the wire heats up at higher current, so the graph will not remain linear.</p>\n<p>B: Concave downwards would imply the gradient <span class=\"math\" data-latex=\"\\frac{\\mathrm{d}V}{\\mathrm{d}I}\"></span> decreases with increasing current, corresponding to resistance decreasing with current, which is opposite to heating in a metal wire.</p>\n<p>C: As current increases, the wire heats up and its resistance increases, so the gradient <span class=\"math\" data-latex=\"\\frac{\\mathrm{d}V}{\\mathrm{d}I}\"></span> increases with current. The <span class=\"math\" data-latex=\"V\"></span>-<span class=\"math\" data-latex=\"I\"></span> graph therefore curves upwards (concave up).</p>\n<p>D: Although it reflects increasing resistance qualitatively, a heated wire’s resistance typically increases continuously with current/temperature, giving a smooth concave-up curve rather than a piecewise straight-line graph.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal wire obeys Ohm's law at room temperature. As current increases, its temperature rises and its resistance increases. Which of the following best describes the shape of its <span class=\"math\" data-latex=\"V\"></span>-<span class=\"math\" data-latex=\"I\"></span> graph?</p><ol class=\"mcq-options\"><li data-label=\"A\">A straight line through the origin</li><li data-label=\"B\">A curve concave downwards</li><li data-label=\"C\">A curve concave upwards</li><li data-label=\"D\">A straight line through the origin with increasing gradient (piecewise linear)</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

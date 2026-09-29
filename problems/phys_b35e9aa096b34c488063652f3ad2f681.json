@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_b35e9aa096b34c488063652f3ad2f681",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two radioactive samples <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span> have the same half-life. Initially the ratio <span class=\"math\" data-latex=\"\\frac{\\textit{activity of X}}{\\textit{activity of Y}}\"></span> is 4.</p>\n<p>What is this ratio after 2 half-lives?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"B\">1</li><li data-label=\"C\">2</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

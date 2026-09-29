@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_cc20efc7016940babb86e33e250a60ab",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An unstable nuclide has too many protons.</p>\n<p>What is the most likely decay of the nuclide?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Alpha</li><li data-label=\"B\">Beta minus</li><li data-label=\"C\">Beta plus</li><li data-label=\"D\">Gamma</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

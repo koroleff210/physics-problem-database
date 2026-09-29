@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_6d3b327100e74cfeadfefcac8d0a2cee",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"1 kg\"></span> is thrown downwards from a height of <span class=\"math\" data-latex=\"20 m\"></span>. The initial speed of the object is <span class=\"math\" data-latex=\"6 m s^{-1}\"></span>.<br/>The object hits the ground at a speed of <span class=\"math\" data-latex=\"20 m s^{-1}\"></span>. Assume <span class=\"math\" data-latex=\"g=10 m s^{-2}\"></span>. What is the best estimate of the energy transferred from the object to the air as it falls?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"6 J\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"18 J\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"182 J\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"200 J\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

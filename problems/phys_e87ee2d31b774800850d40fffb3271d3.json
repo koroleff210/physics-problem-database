@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e87ee2d31b774800850d40fffb3271d3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron is accelerated from rest through a potential difference of 3.8 kV.</p>\n<p>The de Broglie wavelength of the electron after acceleration is</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.021 mm</li><li data-label=\"B\">0.021 μm</li><li data-label=\"C\">0.021 nm</li><li data-label=\"D\">0.021 pm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

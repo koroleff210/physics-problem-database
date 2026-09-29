@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_e86866ff5ad44c0ba90840259c846b99",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"8.0 kg\"></span> is falling vertically through the air. The drag force acting on the object is <span class=\"math\" data-latex=\"60 N\"></span>. What is the best estimate of the acceleration of the object?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Zero</li><li data-label=\"B\"><span class=\"math\" data-latex=\"2.5 m s^{-2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"7.5 m s^{-2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"10 m s^{-2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

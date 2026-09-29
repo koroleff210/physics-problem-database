@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ac0cb515cea4225e6eb4f553c94d1227915bffc202d6a81ed2caed2ffc91dd59.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ac0cb515cea4225e6eb4f553c94d1227915bffc202d6a81ed2caed2ffc91dd59"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/1a03ce58013b8dd91600548494133342a0356371398bfcbfed717ae066c048e3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1a03ce58013b8dd91600548494133342a0356371398bfcbfed717ae066c048e3"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/32f9165e1c4fb1a72522bcabe3337beeee5ed38fde1b33de3174aee87c6a831d.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "32f9165e1c4fb1a72522bcabe3337beeee5ed38fde1b33de3174aee87c6a831d"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_85b849c3d20d464da7565dc6a8aac69a",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a\"><p><strong>6a</strong></p><p></p>\n<p>The restoring force acting on the object/acceleration of the object must be proportional to the displacement.</p>\n<p>The direction of the restoring force/acceleration must point towards the equilibrium position/must be in the opposite direction to the displacement.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b\"><p><strong>6b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"2\"></span> cm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6c\"><p><strong>6c</strong></p><p></p>\n<p>Time period = <span class=\"math\" data-latex=\"20\"></span> ms</p>\n<p>Frequency <span class=\"math\" data-latex=\"= \\frac{1}{20 \\times 10^{-3}} = 50\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6d\"><p><strong>6d</strong></p><p></p>\n<p>Tangent at one of the points where the displacement is zero.</p>\n<p>Gradient <span class=\"math\" data-latex=\"\\approx 0.6\"></span> to <span class=\"math\" data-latex=\"0.65\"></span> </p>\n<p><span class=\"math\" data-latex=\"v \\approx 6\"></span> to <span class=\"math\" data-latex=\"6.5\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Kinetic energy <span class=\"math\" data-latex=\"= \\frac{1}{2} \\times 0.054 \\times v^{2} \\approx 0.97\"></span> to <span class=\"math\" data-latex=\"1.14\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6e\"><p><strong>6e</strong></p><p></p>\n<p>Any maximum or minimum point labelled with the letter X.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"6f\"><p><strong>6f</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An object with a mass of <span class=\"math\" data-latex=\"54\"></span> g undergoes simple harmonic motion. The graph shows how <em>d</em>, the displacement of the object varies with <em>t</em>, time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline the conditions that are needed in order for an object to perform simple harmonic motion.</p>\n<p>  [2]</p>\n<p>b. State the amplitude of the oscillations.</p>\n<p>  [1]</p>\n<p>c. Find the frequency of the oscillations.</p>\n<p>  [2]</p>\n<p>d. Determine the maximum kinetic energy of the object. </p>\n<p>  [3]</p>\n<p>e. Label, with the letter X, on the graph a point where the magnitude of the object's acceleration is at a maximum.</p>\n<p>  [1]</p>\n<p>f. On the axes below, the dashed line shows how the displacement of the object varies with time. Sketch a graph to show how the acceleration of the object varies with time. On your sketch, ignore the actual acceleration values.<br/></p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e474613433022c84c38a148c004fa1bc9e52ae17353cc382c208f755becb80b6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e474613433022c84c38a148c004fa1bc9e52ae17353cc382c208f755becb80b6"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_31681a1a83624a29b452b3d26d7caa7a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two isolated point charges, X of charge <span class=\"math\" data-latex=\"+Q\"></span> and Y of charge <span class=\"math\" data-latex=\"+2Q\"></span>, are separated by a distance <span class=\"math\" data-latex=\"3d\"></span>. P is a point <span class=\"math\" data-latex=\"d\"></span> from X and <span class=\"math\" data-latex=\"2d\"></span> from Y respectively.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the net electric field strength at P?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{kQ}{2d^{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3kQ}{4d^{2}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3kQ}{2d^{2}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_1ad3d7236bad4225bf076f5e69455865",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A quantity <span class=\"math\" data-latex=\"Z\"></span> is defined as <span class=\"math\" data-latex=\"Z = \\frac{g^2}{G}\"></span>, where <span class=\"math\" data-latex=\"g\"></span> is the gravitational field strength at the surface of a planet and <span class=\"math\" data-latex=\"G\"></span> is the gravitational constant. What is the SI unit of <span class=\"math\" data-latex=\"Z\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\mathrm{kg}\\,\\mathrm{m}\\,\\mathrm{s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\mathrm{kg}\\,\\mathrm{m}^2\\,\\mathrm{s}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\mathrm{kg}\\,\\mathrm{m}^{-1}\\,\\mathrm{s}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\mathrm{kg}\\,\\mathrm{m}^{-3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

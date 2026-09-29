@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7f1621c7c9571ae6fefd7bef9a652db5e9e40dfebce1abec9fefd0a8b78364e0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7f1621c7c9571ae6fefd7bef9a652db5e9e40dfebce1abec9fefd0a8b78364e0"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e9dfef9c47f44763887f050d3922b1ed",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spacecraft, moving with speed v relative to Earth, passes Earth on its way to a planet. As the spacecraft passes Earth, clocks on Earth and in the spacecraft show zero.</p>\n<p>The planet is a distance D from Earth, according to an observer on Earth.</p>\n<p>What are the readings on the Earth clock and on the spacecraft clock when the spacecraft arrives at the planet?<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

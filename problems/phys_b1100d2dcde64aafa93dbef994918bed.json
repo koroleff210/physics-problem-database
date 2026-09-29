@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/78a8e88f4b566bdb55877cb93a3dbf3f64d1242cb68a4d77a73095ed4ba8eca1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "78a8e88f4b566bdb55877cb93a3dbf3f64d1242cb68a4d77a73095ed4ba8eca1"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_b1100d2dcde64aafa93dbef994918bed",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Energy is produced in a power station and it is eventually used to operate a lighting system for a large stadium. The Sankey diagram shows the energy flow during the process.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the efficiency of the process?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.20\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.25\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.48\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.52\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

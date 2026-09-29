@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/216ca52e16dea1cfb17df3dfdab0c47c3c386a6151e4075625e4b1c795fffa9b.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "216ca52e16dea1cfb17df3dfdab0c47c3c386a6151e4075625e4b1c795fffa9b"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_3c542fa2aefe4e629b062bcc06c6e943",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows the trajectories of two projectiles, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, which are launched from the same location on level ground with the same initial speed <span class=\"math\" data-latex=\"u\"></span>. Air resistance is negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement correctly compares the motion of projectile <span class=\"math\" data-latex=\"P\"></span> with projectile <span class=\"math\" data-latex=\"Q\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"P\"></span> has a longer time of flight than <span class=\"math\" data-latex=\"Q\"></span>.</p></li><li data-label=\"B\"><p>The vertical component of the initial velocity is smaller for <span class=\"math\" data-latex=\"P\"></span> than for <span class=\"math\" data-latex=\"Q\"></span>.</p></li><li data-label=\"C\"><p>The horizontal component of the velocity is larger for <span class=\"math\" data-latex=\"P\"></span> than for <span class=\"math\" data-latex=\"Q\"></span>.</p></li><li data-label=\"D\"><p>The acceleration of <span class=\"math\" data-latex=\"P\"></span> at its highest point is zero.</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

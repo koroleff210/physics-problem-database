@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4ed8e17e8667b681b32e1d429ed68fc0e665f948848b50587bb08ee93d57f26b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4ed8e17e8667b681b32e1d429ed68fc0e665f948848b50587bb08ee93d57f26b"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_882bf1203d054359b760b074c8ecd1e2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The displacement of a wave varies with the distance along the wave as shown on the graph.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The speed of the wave is <span class=\"math\" data-latex=\"5.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What is the time period of the wave?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.050\"></span> s</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.10\"></span> s</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.20\"></span> s</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.40\"></span> s</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

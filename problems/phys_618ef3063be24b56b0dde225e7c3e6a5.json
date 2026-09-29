@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_618ef3063be24b56b0dde225e7c3e6a5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A coherent beam of monochromatic light with wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on a diffraction grating. Initially, the beam is restricted so that exactly 6 slits are illuminated, and the first-order principal maximum is observed at an angle <span class=\"math\" data-latex=\"\\theta\"></span> to the incident direction. The beam is then widened so that 12 slits of the same grating are illuminated.</p>\n<p>Three statements regarding the first-order principal maximum for 12 slits are:</p>\n<p>I. The angle at which it is observed increases to <span class=\"math\" data-latex=\"2\\theta\"></span>.</p>\n<p>II. Its peak intensity increases by a factor of four.</p>\n<p>III. Its angular width decreases.</p>\n<p>Which statements are correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_48ecdf0b3d524eed9a0bc7f2685d58e3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>If a surface has an emissivity of 1, which of the following statements is true?</p><ol class=\"mcq-options\"><li data-label=\"A\">It absorbs all incident radiation and reflects none.</li><li data-label=\"B\">It reflects all incident radiation and absorbs none.</li><li data-label=\"C\">It only emits visible light.</li><li data-label=\"D\">It does not emit any radiation.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

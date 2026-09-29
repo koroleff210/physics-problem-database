@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9861722f308b47a0ace2c4771224dea4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet <span class=\"math\" data-latex=\"A\"></span> and Planet <span class=\"math\" data-latex=\"B\"></span> are both uniform spheres with the same average density. The mass of Planet <span class=\"math\" data-latex=\"B\"></span> is 27 times the mass of Planet <span class=\"math\" data-latex=\"A\"></span>. If the gravitational field strength at the surface of Planet <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"g\"></span>, what is the gravitational field strength at the surface of Planet <span class=\"math\" data-latex=\"B\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3g\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"9g\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"27g\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

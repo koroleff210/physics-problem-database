@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_5093b4d31fc545d1b02f20998e640bc4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes simple harmonic motion of period <span class=\"math\" data-latex=\"T\"></span>. At time <span class=\"math\" data-latex=\"t=0\"></span> the particle is at its equilibrium position.</p>\n<p>What is <span class=\"math\" data-latex=\"t\"></span> when the particle is at its greatest distance from the equilibrium position?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{T}{8}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{T}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3T}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"T\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

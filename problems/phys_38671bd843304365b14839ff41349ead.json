@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_38671bd843304365b14839ff41349ead",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>This question is duplicated in #85 and #99</p>\n<p><span class=\"math\" data-latex=\"X\"></span> has a mass that is twice the mass of <span class=\"math\" data-latex=\"Y\"></span>. The kinetic energy of <span class=\"math\" data-latex=\"X\"></span> is four times that of <span class=\"math\" data-latex=\"Y\"></span>.</p>\n<p>What is the value of <span class=\"math\" data-latex=\"\\frac{\\textit{momentum of X}}{\\textit{momentum of Y}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"2\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\\sqrt{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

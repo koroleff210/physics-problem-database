@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9b6abb0d9cc3d76a01016675f43c3f584ab9aedddf51d90aca877ccf476c4f27.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9b6abb0d9cc3d76a01016675f43c3f584ab9aedddf51d90aca877ccf476c4f27"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/3538c616327e2c2fa27d8d86a9c4a24bd33f23eb28f4bb17c5bef8592326cb32.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3538c616327e2c2fa27d8d86a9c4a24bd33f23eb28f4bb17c5bef8592326cb32"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_81eab2f6108348798368f23846755bd9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The insulated cylinder implies an adiabatic compression (Q=0). The work done on the gas is W = Fd = 500 N × 0.10 m = 50 J. From the first law of thermodynamics, the internal energy increases by ΔU = W = 50 J. Assuming the ideal gas is monatomic, its internal energy change is ΔU = (3/2)nRΔT. With n=1 mol and R=8.31 J K⁻¹ mol⁻¹, the temperature change is ΔT = ΔU / ((3/2)R) ≈ 4 K. The final temperature is thus 80 °C + 4 °C = 84 °C.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>One mole of an ideal gas is enclosed in an insulated cylinder. The temperature of the gas is <span class=\"math\" data-latex=\"80^\\circ\\mathrm{C}\"></span>. A piston is then pushed with a force of <span class=\"math\" data-latex=\"500\\,\\mathrm{N}\"></span> over a distance of <span class=\"math\" data-latex=\"10\\,\\mathrm{cm}\"></span> to compress the gas.</p>\n<p>What is the final temperature?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"480^\\circ\\mathrm{C}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"400^\\circ\\mathrm{C}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"84^\\circ\\mathrm{C}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"4^\\circ\\mathrm{C}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

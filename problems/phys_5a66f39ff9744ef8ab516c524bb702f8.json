@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5a66f39ff9744ef8ab516c524bb702f8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below provides the average distance from a star and the intensity of radiation received for two planets, Alpha and Beta, that orbit the star.</p>\n<table><thead><tr><th>Planet</th><th>Average distance from star / AU</th><th>Intensity of radiation / <span class=\"math\" data-latex=\"\\mathrm{W \\, m}^{-2}\"></span></th></tr></thead><tbody><tr><td>Alpha</td><td>1.0</td><td>1250</td></tr><tr><td>Beta</td><td>2.5</td><td><span class=\"math\" data-latex=\"S_{\\text{Beta}}\"></span></td></tr></tbody></table>\n<p>What is the intensity of radiation received by planet Beta, <span class=\"math\" data-latex=\"S_{\\text{Beta}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"500 \\, \\mathrm{W \\, m}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"200 \\, \\mathrm{W \\, m}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3125 \\, \\mathrm{W \\, m}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"7813 \\, \\mathrm{W \\, m}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

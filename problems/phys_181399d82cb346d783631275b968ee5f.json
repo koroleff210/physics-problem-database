@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_181399d82cb346d783631275b968ee5f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The gravitational field strength at the surface of a planet of radius R is <span class=\"math\" data-latex=\"g\"></span>. A satellite is moving in a circular orbit a distance R above the surface of the planet. What is the magnitude of the acceleration of the satellite?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{g}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{g}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"g\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

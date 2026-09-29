@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2c4542bd6072100188ea5fb13c3876e07b2f3df216caf22e9d91ebe87774aba2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c4542bd6072100188ea5fb13c3876e07b2f3df216caf22e9d91ebe87774aba2"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_d05488259a244083ba84ffbc38659ccc",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Source S produces sound waves of speed v and frequency <span class=\"math\" data-latex=\"f\"></span>. S moves with constant velocity <span class=\"math\" data-latex=\"\\frac{v}{5}\"></span> away from a stationary observer.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the frequency measured by the observer?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{5}f\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5}{6}f\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{6}{5}f\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{5}{4}f\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

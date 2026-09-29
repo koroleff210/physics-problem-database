@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8be4aebc28e26e561899bc9262d8e5bbf19ea7321246fdb70fb25fd07923e4ed.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8be4aebc28e26e561899bc9262d8e5bbf19ea7321246fdb70fb25fd07923e4ed"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_39ccbe28b59f4b80bae2520c3a7c36de",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charged sphere in a gravitational field is initially stationary between two parallel metal plates. There is a potential difference V between the plates.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Three changes can be made:</p>\n<p>I.   Increase the separation of the metal plates<br/>II.  Increase V<br/>III. Apply a magnetic field into the plane of the paper</p>\n<p>What changes made separately will cause the charged sphere to accelerate?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

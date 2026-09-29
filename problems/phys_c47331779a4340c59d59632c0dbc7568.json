@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_c47331779a4340c59d59632c0dbc7568",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A disc of radius <span class=\"math\" data-latex=\"R\"></span> and mass <span class=\"math\" data-latex=\"M\"></span> is rotating in the horizontal plane at an angular velocity of <span class=\"math\" data-latex=\"\\omega\"></span> about its centre. Then a point mass of <span class=\"math\" data-latex=\"2M\"></span> is dropped vertically onto the disc at a distance of <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span> from the centre of the disc. The point mass sticks to the disc. The moment of inertia for the disc is <span class=\"math\" data-latex=\"I = \\frac{1}{2}MR^{2}\"></span>.</p>\n<p>What is the new angular velocity of the disc after the point mass has been dropped on it?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\omega}{8}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\omega}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\omega}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\omega\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

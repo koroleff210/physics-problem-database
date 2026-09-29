@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b900d179ddb675c6f2595276cf19dffda1d08392dcfef60b82f86b347501edc3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b900d179ddb675c6f2595276cf19dffda1d08392dcfef60b82f86b347501edc3"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_e4383cdfc0894b599d967bf9fd927af1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Radioactive nuclide A can decay by two different routes as shown below.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>D and H are the final decay products, B, C, F, and G are intermediate products. Which one of the following statements is correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">C and G have the same mass number.</li>\n<li data-label=\"B\">The nucleon number of B is the same as the nucleon number of G.</li>\n<li data-label=\"C\">C and G are different isotopes of the same element.</li>\n<li data-label=\"D\">B and F have different atomic numbers.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

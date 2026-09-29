@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_ec689be663a74ac89d3fc2105ed3375d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a fission power plant, the reaction rate is maintained at a steady state by adjusting the position of the control rods. Which statement describes how these rods perform this function?</p><ol class=\"mcq-options\"><li data-label=\"A\">By reflecting neutrons back toward the center of the fuel assembly</li><li data-label=\"B\">By acting as a heat sink to dissipate excess energy from the fuel</li><li data-label=\"C\">By capturing neutrons to ensure the reaction remains at a critical level</li><li data-label=\"D\">By providing a structural framework to support the uranium pellets</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

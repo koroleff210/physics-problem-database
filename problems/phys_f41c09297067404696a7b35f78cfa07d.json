@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_f41c09297067404696a7b35f78cfa07d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rectangular loop of wire moves to the right with constant velocity into a region of uniform magnetic field directed into the page. The loop starts completely outside the field, and its right-hand vertical side is the leading edge that enters the field first. According to Lenz's law, what is the direction of the induced current in the loop as it enters the magnetic field?</p><ol class=\"mcq-options\"><li data-label=\"A\">Clockwise</li><li data-label=\"B\">Counterclockwise</li><li data-label=\"C\">No current is induced</li><li data-label=\"D\">Alternating between clockwise and counterclockwise</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

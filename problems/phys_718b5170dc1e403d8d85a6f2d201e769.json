@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.1",
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_718b5170dc1e403d8d85a6f2d201e769",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>In an ideal gas intermolecular forces are assumed to be zero, so the potential energy of an ideal gas is zero (while the potential energy of a real gas is not zero).</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"n = \\frac{(3.7)(7.2)}{(8.31)(28 + 273)} \\approx 0.01065\"></span></p>\n<p><span class=\"math\" data-latex=\"N = (0.01065)(6.02 \\times 10^{23}) \\approx 6.4 \\times 10^{21}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"p = \\frac{(0.01065)(8.31)(301)}{0.33 \\times 3.7} \\approx 21.8 \\approx 22\"></span> Pa</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1d\"><p><strong>1d</strong></p><p></p>\n<p>The temperature of the gas is unchanged, so the average velocity of the gas particles is unchanged. </p>\n<p>As a result of a decrease in volume, the gas atoms collide with the walls more frequently.</p>\n<p>This means that the rate of change of momentum at the container wall increases, hence pressure increases.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A container is filled with an ideal, monatomic gas and sealed with a movable piston. The volume of the gas is <span class=\"math\" data-latex=\"3.7\"></span> m<span class=\"math\" data-latex=\"^{3}\"></span>, the temperature of the gas is <span class=\"math\" data-latex=\"28 \\:{} ^{\\circ}\"></span>C and the pressure of the gas is <span class=\"math\" data-latex=\"7.2\"></span> Pa.</p>\n<p></p>\n<p>a. Outline the difference between the internal energy of an ideal gas and the internal energy of a real gas. </p>\n<p>  [2]</p>\n<p>b. Find the number of gas atoms in the container.</p>\n<p>  [2]</p>\n<p>The piston on the container is moved so that the volume of the container decreases by <span class=\"math\" data-latex=\"67\"></span> %. The temperature of the gas is kept unchanged.</p>\n<p>c. Calculate the new pressure of the gas.</p>\n<p>  [1]</p>\n<p>d. Explain, in terms of molecular motion, this change in pressure. </p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

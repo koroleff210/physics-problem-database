@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_09900853764045f8a14648cb62ce190f",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The solar constant is the intensity of solar radiation received per unit area at the top of the Earth's atmosphere, measured on a surface perpendicular to the Sun's rays. However, the Earth is a sphere, so the solar radiation is spread over the entire surface area of the Earth, which is four times the cross-sectional area (the area of the Earth's shadow). Therefore, to get the average incoming intensity over the whole Earth, the solar constant must be divided by 4.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The average absorbed intensity <span class=\"math\" data-latex=\"I\"></span> can be calculated using the formula:</p>\n<p><span class=\"math\" data-latex=\"I = \\frac{S}{4} (1 - \\text{albedo})\"></span></p>\n<p>Substituting the given values:</p>\n<p><span class=\"math\" data-latex=\"I = \\frac{1370}{4} (1 - 0.3) = 342.5 \\times 0.7 = 239.75 \\text{ W m}^{-2}\"></span></p>\n<p>So, the average absorbed intensity is <span class=\"math\" data-latex=\"239.75 \\text{ W m}^{-2}\"></span>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Radiation received by the Earth depends on its geometry (spherical shape) and reflection (albedo).</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain why the solar constant must be divided by 4 to get the average incoming intensity.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The albedo of Earth is 0.3. Calculate the average absorbed intensity. Use <span class=\"math\" data-latex=\"S = 1370 \\text{ W m}^{-2}\"></span>.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

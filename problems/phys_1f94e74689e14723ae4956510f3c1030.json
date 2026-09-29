@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6b3e533a2c1208d846d91047172924a8c03b8bcc0ad2bc5f6e8b3633d8e6f15f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6b3e533a2c1208d846d91047172924a8c03b8bcc0ad2bc5f6e8b3633d8e6f15f"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1f94e74689e14723ae4956510f3c1030",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A box of mass <span class=\"math\" data-latex=\"50\"></span> kg is placed on a scale in an elevator. The elevator is moving downwards and has a downwards acceleration of <span class=\"math\" data-latex=\"2.0\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the reading on the scale?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"100\"></span> N</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"400\"></span> N</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"500\"></span> N</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"600\"></span> N</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

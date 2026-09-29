@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_17ada76ece7c42a7bb8859e3b707300b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A potential difference <span class=\"math\" data-latex=\"V\"></span> is maintained between two parallel horizontal plates separated by a distance <span class=\"math\" data-latex=\"d\"></span>. A particle with a constant charge <span class=\"math\" data-latex=\"q\"></span> located between the plates experiences an electrostatic force <span class=\"math\" data-latex=\"F\"></span>. If the potential difference is increased to <span class=\"math\" data-latex=\"4V\"></span> and the separation between the plates is increased to <span class=\"math\" data-latex=\"2d\"></span>, what is the new force acting on the particle?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5F\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2F\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4F\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8F\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

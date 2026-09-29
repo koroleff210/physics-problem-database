@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e8e1b306ac71b27c79e10681da33e972031262ac37d9902095b9c7419609e329.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e8e1b306ac71b27c79e10681da33e972031262ac37d9902095b9c7419609e329"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_06e4d03379554f9f9a7590fdfa7b1b92",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p>The time period of the oscillations is approximately constant.</p>\n<p>OR</p>\n<p>The amplitude of the oscillations decreases exponentially.</p>\n<p>Therefore the system experiences light damping.</p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p>Reading from the graph, we get that the time period is about <span class=\"math\" data-latex=\"7\"></span> seconds.</p>\n<p>Calculating the angular velocity:</p>\n<p><span class=\"math\" data-latex=\"\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{7} \\approx 0.898\\: \\textup{rad\\,s}^{-1}\"></span></p>\n<p>Reading from the graph, we get that the displacement at <span class=\"math\" data-latex=\"t = 16\\: \\textup{s}\"></span> is <span class=\"math\" data-latex=\"20\\: \\textup{cm}\"></span>, so <span class=\"math\" data-latex=\"0.20\\: \\textup{m}\"></span></p>\n<p>Calculating the acceleration:</p>\n<p><span class=\"math\" data-latex=\"a = -\\omega^{2}x = -(0.898)^{2} \\times 0.20 \\approx -0.16\\:\\textup{m\\,s}^{-2}\"></span></p>\n<p>Hence the magnitude of the acceleration at <span class=\"math\" data-latex=\"t = 16\\: \\textup{s}\"></span> is <span class=\"math\" data-latex=\"0.16\\:\\textup{m\\,s}^{-2}\"></span></p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"9c\"><p><strong>9c</strong></p><p>As a result of increased damping, the system loses energy at a faster rate.</p>\n<p>Therefore the amplitude of the displacement-time graph will decrease at a faster rate.</p>\n<p>OR</p>\n<p>(assuming heavy or critical damping)</p>\n<p>The displacement of the object will not vary between positive and negative values, but will decrease exponentially and approach zero.</p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"9d\"><p><strong>9d</strong></p><p>Calculating the mass of the sphere, using the volume of a sphere formula and converting the density into <span class=\"math\" data-latex=\"\\textup{kg\\,m}^{-3}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"m = V \\rho = \\frac{4}{3} \\pi (0.080)^{3} \\times 7870 \\approx 16.9\\:\\textup{kg}\"></span></p>\n<p>Calculating the time period for a mass-spring system:</p>\n<p><span class=\"math\" data-latex=\"T = 2 \\pi \\sqrt{\\frac{m}{k}} = 2 \\pi \\sqrt{\\frac{16.9}{185}} \\approx 1.9\\:\\textup{s}\"></span></p>\n<p>Therefore <span class=\"math\" data-latex=\"f_{0} = \\frac{1}{1.9} \\approx 0.53\\: \\textup{Hz}\"></span></p>\n<p>Final answer must be given to 2 significant figures.</p>\n<p>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how the displacement of an oscillating object varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   State and explain the nature of the damping that the system experiences.</p>\n<p>  [2]</p>\n<p>(b)   Determine the magnitude of the object's acceleration at <span class=\"math\" data-latex=\"t = 16\\: \\textup{s}\"></span>.</p>\n<p>  [3]</p>\n<p>The damping in the system is increased.</p>\n<p>(c)   Outline how this affects the displacement-time graph for the oscillating object.</p>\n<p>  [2]</p>\n<p>Another system is composed of a solid iron sphere that hangs on a vertical spring. The radius of the sphere is <span class=\"math\" data-latex=\"0.080\\: \\textup{m}\"></span> and the density of iron is <span class=\"math\" data-latex=\"7.87\\: \\textup{g\\,cm}^{-3}\"></span>. </p>\n<p>(d)   Given that the spring constant of the spring is <span class=\"math\" data-latex=\"185\\: \\textup{N\\,m}^{-1}\"></span>, determine the natural frequency of oscillation for the system. Give your answer to an appropriate number of significant figures.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

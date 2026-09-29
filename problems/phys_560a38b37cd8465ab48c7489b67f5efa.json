@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_560a38b37cd8465ab48c7489b67f5efa",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Recall the expression for the strength of a gravitational field, <span class=\"math\" data-latex=\"g = \\frac{GM}{r^2}\"></span>, and define the field at the planetary surface as <span class=\"math\" data-latex=\"g_p = \\frac{GM}{R^2}\"></span> [1 mark]<br/>- Substitute the relative mass and radius for the moon into the field equation: <span class=\"math\" data-latex=\"g_m = \\frac{G(0.0125M)}{(0.25R)^2}\"></span> [1 mark]<br/>- Simplify the numerical ratio: <span class=\"math\" data-latex=\"g_m = \\frac{0.0125}{0.0625} \\frac{GM}{R^2} = 0.2 \\frac{GM}{R^2} = \\frac{1}{5} g_p\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Apply the inverse square relationship <span class=\"math\" data-latex=\"g \\propto \\frac{1}{r^2}\"></span> to set up a ratio between the two positions: <span class=\"math\" data-latex=\"\\frac{g_h}{g_s} = \\frac{R^2}{(R+h)^2} = \\frac{1}{25}\"></span> [1 mark]<br/>- Solve for the height by taking the square root of both sides (<span class=\"math\" data-latex=\"R+h = 5R\"></span>) to find <span class=\"math\" data-latex=\"h = 4R\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A planet has a mass <span class=\"math\" data-latex=\"M\"></span> and a radius <span class=\"math\" data-latex=\"R\"></span>. A moon orbiting this planet has a mass of <span class=\"math\" data-latex=\"0.0125M\"></span> and a radius of <span class=\"math\" data-latex=\"0.25R\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Show that the planet's surface gravitational field is five times as strong as the moon's surface field.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>A research probe is moved from the planetary surface to a height <span class=\"math\" data-latex=\"h\"></span>. At this altitude, the planet's gravitational field magnitude is <span class=\"math\" data-latex=\"\\frac{1}{25}\"></span> of the value measured at the surface. Determine <span class=\"math\" data-latex=\"h\"></span> in terms of <span class=\"math\" data-latex=\"R\"></span>.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

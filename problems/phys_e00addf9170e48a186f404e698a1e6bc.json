@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e00addf9170e48a186f404e698a1e6bc",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student makes three claims about a main sequence star:</p>\n<p>I. The star will eventually evolve into a white dwarf.</p>\n<p>II. The outward radiation pressure prevents the star from collapsing under its own weight.</p>\n<p>III. In the core of the star hydrogen is fusing into helium.</p>\n<p></p>\n<p>Which of these claims are definitely correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_d9a5653aa5764b15a3da00f647c79173",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>A small fraction of alpha particles were deflected at large angles.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Electrostatic / Coulomb interaction.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Most of the atom is empty space.<br/>[1 mark]<br/>- Alpha particles are not significantly affected unless they pass very close to the nucleus.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The positive charge is concentrated in a small central nucleus.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>High-energy alpha particles were used in experiments to investigate atomic structure.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the experimental observation that led to the conclusion that atoms have a small, dense nucleus.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Identify the type of interaction responsible for deflecting alpha particles.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Outline one reason why most alpha particles passed through the foil with no deflection.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>State one feature of the atomic model that was revised following the experiment.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

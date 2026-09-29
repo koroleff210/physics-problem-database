@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_b33ff4a4155b496e9603a6e2976889ab",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A large stone is dropped from a tall building. What is correct about the speed of the stone after 1 s?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">It is decreasing at increasing rate.</li><li data-label=\"B\">It is decreasing at decreasing rate.</li><li data-label=\"C\">It is increasing at increasing rate.</li><li data-label=\"D\">It is increasing at decreasing rate.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

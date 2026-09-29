@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7c21bba6bfc74e5aa4116fbcafc84951",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\lambda = \\frac{c}{f} = \\frac{3.0 \\times 10^8}{15 \\times 10^9} = 0.020\"></span> «m» [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\theta = \\frac{\\lambda}{b} = \\frac{0.020}{0.080} = 0.25\"></span> «rad» [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\lambda = \\frac{340}{850} = 0.40\"></span> «m» [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\text{path difference} = 15.6 - 15.0 = 0.6\"></span> «m»</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\Delta L}{\\lambda} = \\frac{0.6}{0.4} = 1.5\"></span> <strong>OR</strong> <span class=\"math\" data-latex=\"\\Delta L = 1.5\\lambda\"></span></p>\n<p>this corresponds to destructive interference, so the intensity is a minimum [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- the angular separation between the principal maxima increases / the maxima move further from the center [1 mark]<br/>- the principal maxima become sharper / the width of each maximum decreases [1 mark]<br/>- the intensity/brightness of the principal maxima increases [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- constant phase difference between the sources [1 mark]<br/>- identical frequency / wavelength [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The question assesses knowledge of single-slit diffraction, path difference, diffraction grating properties, and the conditions for coherence within the context of wave phenomena (C.3).</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> A microwave source emitting waves of frequency <span class=\"math\" data-latex=\"15\\text{ GHz}\"></span> is directed at a single slit of width <span class=\"math\" data-latex=\"8.0\\text{ cm}\"></span>. Calculate the angular position, in radians, of the first minimum of the resulting diffraction pattern. Assume the speed of microwaves is <span class=\"math\" data-latex=\"3.0 \\times 10^8\\text{ m s}^{-1}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Two loudspeakers are connected to a single signal generator and emit a frequency of <span class=\"math\" data-latex=\"850\\text{ Hz}\"></span> in a room where the speed of sound is <span class=\"math\" data-latex=\"340\\text{ m s}^{-1}\"></span>. A point <span class=\"math\" data-latex=\"X\"></span> in the room is located <span class=\"math\" data-latex=\"15.0\\text{ m}\"></span> from one speaker and <span class=\"math\" data-latex=\"15.6\\text{ m}\"></span> from the other. Deduce whether the sound intensity at point <span class=\"math\" data-latex=\"X\"></span> is a maximum or a minimum. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> A beam of monochromatic light is incident on a diffraction grating. Discuss how the resulting pattern of principal maxima changes if the grating is replaced by another one that has a significantly larger number of lines per millimeter. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> State the two conditions that must be met for two wave sources to be considered coherent. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

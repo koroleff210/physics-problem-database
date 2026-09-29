@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/428499637ce878dec28032a4dc29d7c0527905e5c1d172094ca34e6d6acbea34.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "428499637ce878dec28032a4dc29d7c0527905e5c1d172094ca34e6d6acbea34"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_bcc70c15a5e7413b991b6a3cd7f1623a",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Excited state - electron bound to atom/nucleus/proton OR Ionised state – electron free from/not bound to atom ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Electron/atom loses energy OR electron/atom moves to a lower energy state ✔<br/>by emitting a/one photon ✔</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>visible «light» ✔ Accept orange/red light</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"E=\\frac{hc}{\\lambda}\"></span> OR energy change <span class=\"math\" data-latex=\"=\\frac{hc}{\\lambda}3.0\\times 10^{-19} J\"></span> ✔ conversion to eV giving 1.88 OR 1.89 «eV» ✔<br/>transition is from 2 to 3 ✔ ‘Use of’ requires a substitution NOT just a statement of a formula<br/>A bald statement of 1.88 OR 1.89 &lt;&lt;eV&gt;&gt; scores MP1 and MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The table shows some of the energy levels for a hydrogen atom.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Discuss one difference between an atom in an excited state and an atom in an ionized state. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain how electromagnetic radiation is emitted from a hydrogen atom in an excited state. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> When radiation of wavelength 6.6 × 10<span class=\"math\" data-latex=\"-\"></span><sup>7 </sup>m is incident on cold hydrogen gas some of it is absorbed by the gas.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> State the region of the electromagnetic spectrum of this radiation. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine the initial and final states of the hydrogen atom that are involved in this absorption. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

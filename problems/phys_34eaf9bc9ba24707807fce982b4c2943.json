@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_34eaf9bc9ba24707807fce982b4c2943",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Justin conducts an experiment to find the value of the solar constant. He finds that the solar constant has a value of approximately <span class=\"math\" data-latex=\"1390 \\, \\mathrm{W\\,m^{-2}}\"></span>. What is the most likely reason for the discrepancy between his experimental value and the accepted value of <span class=\"math\" data-latex=\"1360 \\, \\mathrm{W\\,m^{-2}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">The albedo of the Earth is different at different locations.</li><li data-label=\"B\">The orbit of the Earth around the Sun is elliptical.</li><li data-label=\"C\">The experiment was not conducted at the equator.</li><li data-label=\"D\">Justin is bad at doing experiments.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

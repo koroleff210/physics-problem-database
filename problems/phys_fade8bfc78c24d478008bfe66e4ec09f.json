@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_fade8bfc78c24d478008bfe66e4ec09f",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a\"><p><strong>12a</strong></p><p></p>\n<p>Combining the equations <span class=\"math\" data-latex=\"\\frac{v^{2}}{r} = \\frac{4 \\pi^{2}r}{T^{2}}\"></span> and <span class=\"math\" data-latex=\"v_{orbit} = \\sqrt{\\frac{GM}{R}}\"></span> we get <span class=\"math\" data-latex=\"\\frac{GM}{r^{2}} = \\frac{4 \\pi^{2}r}{T^{2}}\"></span></p>\n<p>The orbital radius of the satellite is <span class=\"math\" data-latex=\"D + R\"></span>, so substituting this for <span class=\"math\" data-latex=\"r\"></span> and rearranging we get:</p>\n<p><span class=\"math\" data-latex=\"\\frac{MT^{2}}{(D + R)^{3}} = \\frac{4 \\pi^{2}}{G}\"></span></p>\n<p>Since <span class=\"math\" data-latex=\"\\frac{4 \\pi^{2}}{G}\"></span> is constant, <span class=\"math\" data-latex=\"\\frac{MT^{2}}{(D + R)^{3}}\"></span> is also constant.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b\"><p><strong>12b</strong></p><p></p>\n<p>Using the kinetic energy and the orbital speed equations:</p>\n<p><span class=\"math\" data-latex=\"E = \\frac{1}{2}m \\left ( \\sqrt{\\frac{GM}{D + R}} \\right )^{2}\"></span></p>\n<p>Simplifying and rearranging:</p>\n<p><span class=\"math\" data-latex=\"m = \\frac{2E(D + R)}{GM}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12c\"><p><strong>12c</strong></p><p></p>\n<p>Combining the following three equations:</p>\n<p>Escape speed: <span class=\"math\" data-latex=\"v_{esc} = \\sqrt{\\frac{2GM}{r}}\"></span></p>\n<p>Density: <span class=\"math\" data-latex=\"\\rho = \\frac{m}{V}\"></span></p>\n<p>Volume of a sphere: <span class=\"math\" data-latex=\"\\frac{4}{3} \\pi r^{3}\"></span></p>\n<p><span class=\"math\" data-latex=\"v_{esc} = \\sqrt{\\frac{2\\times G \\times \\frac{4}{3} \\pi r^{3} \\rho}{r}} = \\sqrt{\\frac{8 \\pi G r^{2} \\rho}{3}}\"></span></p>\n<p>Substituting:</p>\n<p> <span class=\"math\" data-latex=\"15.3 \\times 10^{3} = \\sqrt{\\frac{(8 \\pi)(6.67 \\times 10^{-11})(6.23 \\times 10^{3}) R^{2}}{3}}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> is orbiting a planet of mass <span class=\"math\" data-latex=\"M\"></span> in a circular orbit. The radius of the planet is <span class=\"math\" data-latex=\"R\"></span>, the distance of the satellite from the surface of the planet is <span class=\"math\" data-latex=\"D\"></span> and the orbital period of the satellite is <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p>a. Show that <span class=\"math\" data-latex=\"\\frac{MT^{2}}{(D + R)^{3}}\"></span> is constant.</p>\n<p>   [3]</p>\n<p>The kinetic energy of the satellite is <span class=\"math\" data-latex=\"E\"></span>.</p>\n<p>b. Show that <span class=\"math\" data-latex=\"m = \\frac{2E(D + R)}{GM}\"></span></p>\n<p>   [2]</p>\n<p>When a rocket is fired from the surface of the planet with an initial speed of <span class=\"math\" data-latex=\"15.3\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span>, the rocket is just able to escape the gravitational field of the planet. The average density of the planet is <span class=\"math\" data-latex=\"6.23\"></span> g cm<span class=\"math\" data-latex=\"^{-3}\"></span>. </p>\n<p>c. Find <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>    [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

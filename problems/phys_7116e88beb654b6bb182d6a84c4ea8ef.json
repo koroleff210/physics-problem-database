@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7116e88beb654b6bb182d6a84c4ea8ef",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>A: This is the inverse ratio <span class=\"math\" data-latex=\"\\frac{n_B}{n_A}\"></span>.</p>\n<p>B: This is the ratio of the absolute temperatures <span class=\"math\" data-latex=\"\\frac{T_A}{T_B}\"></span>.</p>\n<p>C: This is the ratio of the products of pressure and volume <span class=\"math\" data-latex=\"\\frac{P_A V_A}{P_B V_B}\"></span>.</p>\n<p>D: Using the ideal gas law <span class=\"math\" data-latex=\"PV = nRT\"></span>, the number of moles is <span class=\"math\" data-latex=\"n = \\frac{PV}{RT}\"></span>. \\nFor sample <span class=\"math\" data-latex=\"A\"></span>: <span class=\"math\" data-latex=\"n_A = \\frac{120 \\times 5.0}{R \\times 300} = \\frac{600}{300R} = \\frac{2}{R}\"></span>. \\nFor sample <span class=\"math\" data-latex=\"B\"></span>: <span class=\"math\" data-latex=\"n_B = \\frac{240 \\times 2.0}{R \\times 400} = \\frac{480}{400R} = \\frac{1.2}{R}\"></span>. \\nThe ratio <span class=\"math\" data-latex=\"\\frac{n_A}{n_B} = \\frac{2}{1.2} = \\frac{20}{12} = \\frac{5}{3}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The properties of two separate samples of an ideal gas, <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span>, are recorded in the table below.</p>\n<table><thead><tr><th>Property</th><th>Sample <span class=\"math\" data-latex=\"A\"></span></th><th>Sample <span class=\"math\" data-latex=\"B\"></span></th></tr></thead><tbody><tr><td>Pressure / kPa</td><td>120</td><td>240</td></tr><tr><td>Volume / <span class=\"math\" data-latex=\"\\text{dm}^3\"></span></td><td>5.0</td><td>2.0</td></tr><tr><td>Temperature / K</td><td>300</td><td>400</td></tr></tbody></table>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{amount of gas in } A \\text{ (in mol)}}{\\text{amount of gas in } B \\text{ (in mol)}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{3}{5}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{5}{4}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{5}{3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8026b7a78e344676c9be6bcad7c79e32e7e99750544b2a41e2326aa0892815df.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8026b7a78e344676c9be6bcad7c79e32e7e99750544b2a41e2326aa0892815df"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_ba2f759483e3427b85583e42b12e671b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A biker is traveling on a horizontal road in a straight line. She stops pedalling and allows the bike to come to rest.  </p>\n<p>Which free-body diagram correctly represents the forces acting on the biker from the moment she stops pedalling to the moment she comes to rest?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

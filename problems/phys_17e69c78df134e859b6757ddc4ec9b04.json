@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_17e69c78df134e859b6757ddc4ec9b04",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A toy car collides with an identical toy car at rest. The cars stick together. The surface is frictionless.</p>\n<p>Three statements about this collision are:</p>\n<p>I.    The speed of one car decreases and the speed of the other car increases.</p>\n<p>II.   Total momentum is conserved.</p>\n<p>III.  Kinetic energy is conserved.</p>\n<p>Which statements are true?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

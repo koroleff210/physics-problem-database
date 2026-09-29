@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b93a295515cf456aa4be8a289cab49b4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spacecraft of mass <span class=\"math\" data-latex=\"m\"></span> is launched from the surface of a planet of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>. The spacecraft is moved to a position at a distance <span class=\"math\" data-latex=\"2R\"></span> from the surface of the planet. What is the minimum work required to achieve this change in position?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{2R}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{2GMm}{3R}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{3R}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{2GMm}{R}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

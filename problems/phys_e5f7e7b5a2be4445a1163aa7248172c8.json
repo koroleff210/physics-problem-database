@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_e5f7e7b5a2be4445a1163aa7248172c8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball rotates on a string in a vertical circle. It completes 30 revolutions in a minute. What is the frequency of the rotation?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">30 Hz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> Hz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{30}\"></span> Hz</li>\n<li data-label=\"D\">2 Hz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

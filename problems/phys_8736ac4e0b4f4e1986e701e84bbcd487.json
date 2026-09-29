@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/336236da88227ac29009a2d9c7bdbc79277e4104b0268ae47c5389c6375c021c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "336236da88227ac29009a2d9c7bdbc79277e4104b0268ae47c5389c6375c021c"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_8736ac4e0b4f4e1986e701e84bbcd487",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p>In a transverse wave the displacement of the medium is perpendicular to the direction of wave propagation/energy transfer.</p>\n<p>In a longitudinal wave the displacement of the medium is parallel to the direction of wave propagation/energy transfer.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p>1 mm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"v = \\frac{0.0075}{0.032} = 0.234375\"></span> m s<span class=\"math\" data-latex=\"^{-1} \\approx 0.23\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Calculated answer must be given to at least 3 s. f. to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d\"><p><strong>4d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda\"></span> = 0.01 m</p>\n<p><em>f</em> = <span class=\"math\" data-latex=\"\\frac{0.23}{0.01}=23\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4e\"><p><strong>4e</strong></p><p></p>\n<p>Arrow pointing upwards.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A transverse wave is traveling in a medium from left to right. The graph shows how <em>d</em>, the displacement of the particles in the medium varies with <em>x</em>, the distance. The solid line shows the displacement at <em>t</em> = 0 and the dashed line shows the displacement at <em>t</em> = 0.032 s.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Distinguish between a transverse and a longitudinal traveling wave.</p>\n<p>  [2]</p>\n<p>b. State the amplitude of the wave.</p>\n<p>  [1]</p>\n<p>c. Show that the speed of the wave is 0.23 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [2]</p>\n<p>d. Calculate the frequency of the wave.</p>\n<p>  [2]</p>\n<p>e. The point labelled with the letter A represents a particle in the medium in which the wave travels. On the diagram, draw an arrow to represent the direction of motion of this particle at <em>t</em> = 0.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

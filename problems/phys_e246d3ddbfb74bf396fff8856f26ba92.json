@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/12d113c26feee7375e9eb2b33c4882cfa6ffe1fc4c604bc592706f16f617190d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "12d113c26feee7375e9eb2b33c4882cfa6ffe1fc4c604bc592706f16f617190d"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_e246d3ddbfb74bf396fff8856f26ba92",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a solid cylinder that is rolling down a slope without slipping. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The three forces that act on the cylinder are the weight, the normal force, and the frictional force between the cylinder and the slope. </p>\n<p>Which of these forces provides a torque about the axis of the cylinder?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The weight</li>\n<li data-label=\"B\">The normal force</li>\n<li data-label=\"C\">The frictional force</li>\n<li data-label=\"D\">None of them</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

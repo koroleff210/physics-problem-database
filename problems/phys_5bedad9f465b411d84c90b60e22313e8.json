@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/43f98a54db571527f7099049c6b80151b6952af66da5a1fe2dbcdb6904be56ce.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "43f98a54db571527f7099049c6b80151b6952af66da5a1fe2dbcdb6904be56ce"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_5bedad9f465b411d84c90b60e22313e8",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>A process in which the temperature of the system remains constant.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Internal energy depends only on temperature for an ideal gas.<br/>[1 mark]<br/>- Since temperature is constant, internal energy does not change.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The area under a pressure-volume graph represents the work done <strong>by</strong> the gas.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- From first law: <span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>, and <span class=\"math\" data-latex=\"\\Delta U = 0\"></span> for isothermal<br/>[1 mark]<br/>- So <span class=\"math\" data-latex=\"Q = -3500\\ \\text{J}\"></span>, thermal energy is transferred <strong>out</strong> of the gas<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sealed cylinder contains a monatomic ideal gas. The gas is compressed from a volume of <span class=\"math\" data-latex=\"0.80\\ \\text{m}^3\"></span> to <span class=\"math\" data-latex=\"0.40\\ \\text{m}^3\"></span> at constant temperature.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Define the term “isothermal process.” [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State what happens to the internal energy of the gas during this process and explain your answer. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The pressure-volume graph below represents this isothermal compression.</p>\n<p>Explain what the area under the curve physically represents.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The area under the curve is numerically equal to <span class=\"math\" data-latex=\"3500\\ \\text{J}\"></span>. Using the first law of thermodynamics, determine the amount of thermal energy transferred to or from the gas. State whether it is into or out of the gas. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

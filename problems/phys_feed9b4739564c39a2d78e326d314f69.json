@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ea33dc1d4c46e9640d6c03c70cac725a7091dbd082bff150612f7e55309e5a44.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ea33dc1d4c46e9640d6c03c70cac725a7091dbd082bff150612f7e55309e5a44"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_feed9b4739564c39a2d78e326d314f69",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation of pressure p with Celsius temperature θ for <span class=\"math\" data-latex=\"n\"></span> moles of an ideal gas. The volume <span class=\"math\" data-latex=\"V\"></span> of the gas is constant.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{nR}{V}\"></span> for the gas?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.27</li><li data-label=\"B\">0.33</li><li data-label=\"C\">3.0</li><li data-label=\"D\">3.7</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

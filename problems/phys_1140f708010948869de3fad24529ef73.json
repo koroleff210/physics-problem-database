@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/342aa9dcad7c5d7a39ce89d3621c793e97f5fd9005a63a08662e362e554ed88d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "342aa9dcad7c5d7a39ce89d3621c793e97f5fd9005a63a08662e362e554ed88d"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_1140f708010948869de3fad24529ef73",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a(i)\"><p><strong>8a(i)</strong></p><p></p>\n<p>Downwards</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8a(ii)\"><p><strong>8a(ii)</strong></p><p></p>\n<p>To the right/towards the centre of the circle.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b\"><p><strong>8b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\omega = \\sqrt{\\frac{37}{\\left ( 2.3 \\right )\\left ( 5.1 \\right )}} \\approx 1.8\"></span> rad s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"v = (1.78)(5.1) \\approx 9.1\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{k} = \\frac{1}{2}\\left ( 2.3 \\right )\\left ( 9.1 \\right )^{2} \\approx 95\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8d\"><p><strong>8d</strong></p><p></p>\n<p>The acceleration and the velocity of the object are perpendicular to each other, so the speed of the object is unchanged. </p>\n<p>We can assume that the mass of the object is also unchanged and since kinetic energy depends on mass and speed, kinetic energy is constant.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"2.3\"></span> kg  is moving in a vertical circle of radius <span class=\"math\" data-latex=\"5.1\"></span> m at constant speed in an anticlockwise direction. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. When the object is at the position shown on the diagram, state the direction of:</p>\n<p>i. the object’s velocity.</p>\n<p>ii. the net force on the object.</p>\n<p>   [2]</p>\n<p>The magnitude of the net force that acts on the object is <span class=\"math\" data-latex=\"37\"></span> N.</p>\n<p>b. Calculate the angular velocity of the object. Include an appropriate SI unit with your answer.</p>\n<p>  [2]</p>\n<p>c. Determine the kinetic energy of the object.</p>\n<p>   [2]</p>\n<p>d. Explain why the kinetic energy of the object is constant.</p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

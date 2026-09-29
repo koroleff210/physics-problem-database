@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f28a8e469f4d9b31a98bd3f9d34d9b36930d193deeb5261b0fcc5c3267e2c79e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f28a8e469f4d9b31a98bd3f9d34d9b36930d193deeb5261b0fcc5c3267e2c79e"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_5b8362f1f5b247dba76c47e04832d652",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Configuration A has only one microstate ✓  In configuration B, pairs of particles can be swapped between the halves ✓  Every such change gives rise to a new microstate «so there is a large number of microstates in B» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The entropy of the gas is related to the number of microstates OR <span class=\"math\" data-latex=\"S_{A}=k_{B} ln Ω_{A}\"></span> and <span class=\"math\" data-latex=\"S_{A}=k_{B} ln Ω_{B}\"></span> ✓<br/>Since <span class=\"math\" data-latex=\"Ω_{B}&gt;Ω_{A}\"></span> , the entropy in configuration B is greater ✓ A process that results in an increase of entropy in an isolated system is irreversible ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The particles of an ideal gas initially occupy one half of an isolated container, whose second half is initially empty. The gas is then allowed to expand freely into the second half. The diagram shows two configurations of the gas: the initial configuration A and configuration B, in which equal numbers of particles occupy each half of the container.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>When a particle moves to a new position within the same half of the container, the microstate of the gas is considered unchanged. When a particle moves to the other half of the container, a new microstate is formed.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the gas in configuration B has a greater number of microstates than in A. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Deduce, with reference to entropy, that the expansion of the gas from the initial configuration A is irreversible. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

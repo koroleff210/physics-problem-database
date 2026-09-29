@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/11159f3a0b3e7d76b3f99a7970a7b241bc06374e32323c41c28180b1eafccded.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11159f3a0b3e7d76b3f99a7970a7b241bc06374e32323c41c28180b1eafccded"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_cec08cb4d43f44ad91a438e1b7d6f6fb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small block is accelerated from rest along a horizontal track. The graph shows the variation with displacement <span class=\"math\" data-latex=\"s\"></span> of the square of the velocity <span class=\"math\" data-latex=\"v^2\"></span> of the block.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the acceleration of the block?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8.0 \\text{ m s}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

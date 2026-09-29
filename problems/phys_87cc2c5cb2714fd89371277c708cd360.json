@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_87cc2c5cb2714fd89371277c708cd360",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A body is held in translational equilibrium by three coplanar forces of magnitude <span class=\"math\" data-latex=\"3 N\"></span>, <span class=\"math\" data-latex=\"4 N\"></span> and <span class=\"math\" data-latex=\"5 N\"></span>. Three statements about these forces are</p>\n<p>I.  all forces are perpendicular to each other<br/>II.  the forces cannot act in the same direction<br/>III.  the vector sum of the forces is equal to zero.</p>\n<p>Which statements are true?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

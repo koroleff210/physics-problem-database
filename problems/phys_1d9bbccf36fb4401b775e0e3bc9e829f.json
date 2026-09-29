@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3f455be883c1e26073264065aaf4d844e4bed5e77ab895379472098efb21a16f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3f455be883c1e26073264065aaf4d844e4bed5e77ab895379472098efb21a16f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/3e8c5665120538fff1f7c1c957a6668f9de3baa281fbd670e3c36dc05b06dc10.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e8c5665120538fff1f7c1c957a6668f9de3baa281fbd670e3c36dc05b06dc10"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/bfbb598237cfe822f95712d3ad22367e4d44a451f4ac332f0857b539684c17a3.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "bfbb598237cfe822f95712d3ad22367e4d44a451f4ac332f0857b539684c17a3"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/1ef34fe66791414c7547da0d9bddd8e4ce9405af93ae41986accc195a358ffa7.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "1ef34fe66791414c7547da0d9bddd8e4ce9405af93ae41986accc195a358ffa7"
+    }
+  ],
+  "classes": [
+    "A.5",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1d9bbccf36fb4401b775e0e3bc9e829f",
+  "level": "hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"21a(i)\"><p><strong>21a(i)</strong></p><p>The time measured between two events in the reference frame where the events take place.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21a(ii)\"><p><strong>21a(ii)</strong></p><p><span class=\"math\" data-latex=\"t_{1}\"></span> is a proper time interval.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21b\"><p><strong>21b</strong></p><p>Calculating the Lorentz factor:</p>\n<p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{0.45} \\approx 2.22\"></span></p>\n<p>Therefore <span class=\"math\" data-latex=\"2.2 = \\frac{1}{\\sqrt{1-\\frac{v^{2}}{c^{2}}}}\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 0.89c\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21c\"><p><strong>21c</strong></p><p>Calculating the Lorentz factor:</p>\n<p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1-\\frac{(0.80c)^{2}}{c^{2}}}} \\approx 1.67\"></span></p>\n<p>Therefore <span class=\"math\" data-latex=\"L_{C}\"></span>, the length of the spaceship as measured by person C is:</p>\n<p><span class=\"math\" data-latex=\"L_{C} = 1.67 \\times 23 = 38.41 \\approx 38\\;\\textup{m}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21d(i)\"><p><strong>21d(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21d(ii)\"><p><strong>21d(ii)</strong></p><p>We will start by drawing lines that are parallel to <span class=\"math\" data-latex=\"x'\"></span> and pass through the two events (the front light flashing and the rear light flashing).</p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p>The lines intersect the <span class=\"math\" data-latex=\"ct'\"></span> axis at P and Q.</p>\n<p>Since the line that passes through the front light coordinate intersects the <span class=\"math\" data-latex=\"ct'\"></span> axis earlier than the line that passes through the rear light coordinate, the front light flashes first as observed by person C.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21d(iii)\"><p><strong>21d(iii)</strong></p><p>Let’s start by calculating the time difference between the two events (the front light flashing and the rear light flashing) as observed by person C, using the Lorentz transformation equation <span class=\"math\" data-latex=\"t' = \\gamma \\left ( t - \\frac{vx}{c^{2}} \\right )\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\Delta t_{c} = 1.67 \\left ( 0 - \\frac{0.80c \\times 23}{c^{2}} \\right ) = 1.67 \\left ( \\frac{0.80 \\times 23}{3 \\times 10^{8}} \\right ) \\approx 1.024 \\times 10^{-7}\\;\\textup{s}\"></span></p>\n<p>Next, we will use the equation <span class=\"math\" data-latex=\"\\left (\\Delta s  \\right )^{2} = \\left (c\\Delta t  \\right )^{2} - \\Delta x^{2}\"></span> to calculate <span class=\"math\" data-latex=\"\\left (\\Delta s  \\right )^{2}\"></span> for both person C and person D.</p>\n<p>For person C:</p>\n<p><span class=\"math\" data-latex=\"\\left (\\Delta s  \\right )^{2} = \\left (3 \\times 10^{8} \\times 1.024 \\times 10^{-7}  \\right )^{2} - 38.41^{2} \\approx -530\"></span></p>\n<p>For person D:</p>\n<p><span class=\"math\" data-latex=\"\\left (\\Delta s  \\right )^{2} = \\left (3 \\times 10^{8} \\times 0  \\right )^{2} - 23^{2} \\approx -530\"></span></p>\n<p>Therefore the spacetime interval between the two events is invariant.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A spaceship is travelling between two planets at speed <span class=\"math\" data-latex=\"v\"></span> relative to Earth. Person C is sitting on the spaceship while person D is at rest on the surface of Earth. According to person C, the journey between the planets takes <span class=\"math\" data-latex=\"t_{1}\"></span> days and according to person D the journey between the planets takes <span class=\"math\" data-latex=\"t_{2}\"></span> days.</p>\n<p>(a)</p>\n<p>(i)   Outline what is meant by <em>proper time interval</em>.</p>\n<p>  [1]</p>\n<p>(ii)   State whether <span class=\"math\" data-latex=\"t_{1}\"></span> or <span class=\"math\" data-latex=\"t_{2}\"></span> is a proper time interval.</p>\n<p>  [1]</p>\n<p>(b)   Find <span class=\"math\" data-latex=\"v\"></span>, given that <span class=\"math\" data-latex=\"t_{1} = 0.45t_{2}\"></span>.</p>\n<p>  [2]</p>\n<p>(c)   During a different journey when the spaceship is travelling at a speed of <span class=\"math\" data-latex=\"0.80c\"></span>, it passes person D who measures the length of the spaceship to be approximately <span class=\"math\" data-latex=\"23\\;\\textup{m}\"></span>. </p>\n<p>Find the length of the spaceship as measured by person C.</p>\n<p>  [2]</p>\n<p>(d)   As the spaceship passes person D, the front and rear lights of the spaceship flash simultaneously as observed by person D.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The spacetime diagram below shows these two events as observed by person D.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>(i)   On the spacetime diagram, draw the space <span class=\"math\" data-latex=\"x'\"></span> and time <span class=\"math\" data-latex=\"ct'\"></span> axes for the reference frame of person C.</p>\n<p>  [2]</p>\n<p>(ii)   Use the diagram to deduce which light flashes first as observed by person C.</p>\n<p>  [3]</p>\n<p>(iii)   Show that the spacetime interval between the two events (the front light flashing and the rear light flashing) is invariant.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

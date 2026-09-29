@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/343a96b0b732ef615c6f77b094eb5257f21617e9acf6a0496fac4a76cb62ac65.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "343a96b0b732ef615c6f77b094eb5257f21617e9acf6a0496fac4a76cb62ac65"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_7a1b84b9d04748848f3ce2f782776c60",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>Using the generated/mock diagram now used in this questionbank entry, the applied force F up the plane is larger than the component of the weight down the plane. The resultant force is therefore up the plane, so the box accelerates up the plane. This corresponds to sliding up the plane with increasing speed.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The free-body diagram shows a box on a frictionless inclined plane. The diagram and forces are drawn to scale. Weight <span class=\"math\" data-latex=\"W\"></span> and normal force <span class=\"math\" data-latex=\"N\"></span> are shown. The force <span class=\"math\" data-latex=\"F\"></span> is acting up the plane.</p>\n<p>What is correct about the motion of the box?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> The box is sliding down the plane with a constant speed.</li>\n<li data-label=\"B\"> The box is sliding down the plane with an increasing speed.</li>\n<li data-label=\"C\"> The box is sliding up the plane with a constant speed.</li>\n<li data-label=\"D\"> The box is sliding up the plane with an increasing speed.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_5e7550a7d3c340d6a86b142197094b4c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"2.5\\ kg\"></span> object is attached to a spring (<span class=\"math\" data-latex=\"k = 400\\ N\\ m^{-1}\"></span>) and compressed <span class=\"math\" data-latex=\"0.30\\ m\"></span> on a frictionless horizontal surface. It is then released, and after travelling <span class=\"math\" data-latex=\"1.2\\ m\"></span>, it hits a rough patch and comes to rest. What is the average resistive force on the rough patch?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\ N\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"15\\ N\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20\\ N\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"25\\ N\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

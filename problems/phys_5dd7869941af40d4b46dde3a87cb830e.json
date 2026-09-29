@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_5dd7869941af40d4b46dde3a87cb830e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. This could result from an incorrect ratio such as <span class=\"math\" data-latex=\"\\frac{480}{1500}\"></span> or other arithmetic error. Emissivity is <span class=\"math\" data-latex=\"\\varepsilon=\\frac{E_{\\text{grey}}}{E_{\\text{black}}}\"></span>.</p>\n<p>B: Correct. <span class=\"math\" data-latex=\"\\varepsilon=\\frac{E_{\\text{grey}}}{E_{\\text{black}}}=\\frac{480}{800}=0.60\"></span> (dimensionless).</p>\n<p>C: Incorrect. This is the inverse ratio <span class=\"math\" data-latex=\"\\frac{800}{480}\\approx 1.67\"></span>. Emissivity must be <span class=\"math\" data-latex=\"\\le 1\"></span> for a real surface at a given temperature.</p>\n<p>D: Incorrect. This could result from doubling <span class=\"math\" data-latex=\"0.60\"></span> or other miscalculation. Emissivity is the ratio <span class=\"math\" data-latex=\"\\frac{480}{800}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A black body emits radiation at <span class=\"math\" data-latex=\"800\\ \\mathrm{W\\ m^{-2}}\"></span>. A grey surface at the same temperature emits <span class=\"math\" data-latex=\"480\\ \\mathrm{W\\ m^{-2}}\"></span>. What is the emissivity of the grey surface?</p><ol class=\"mcq-options\"><li data-label=\"A\">0.32</li><li data-label=\"B\">0.60</li><li data-label=\"C\">1.7</li><li data-label=\"D\">2.0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

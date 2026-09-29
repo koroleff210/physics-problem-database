@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_2af1406d73ce403d9d8aeba13c241023",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Photons of energy 12 eV are incident on the cathode of a photoelectric cell. The work function of the surface of the cathode is 5 eV. The maximum kinetic energy of the photoelectrons that reach the anode of the photoelectric cell is 4 eV.           </p>\n<p>What is the best estimate for the magnitude of the energy transferred between the electron and the field as the electron travels between the cathode and the anode?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"5 \\times 10^{-19}\"></span> J</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"8 \\times 10^{-19}\"></span> J</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"11 \\times 10^{-19}\"></span> J</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"13 \\times 10^{-19}\"></span> J</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

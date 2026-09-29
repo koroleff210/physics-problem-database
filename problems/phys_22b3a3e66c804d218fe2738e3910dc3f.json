@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/50e7bc397cc91798fac96ec169863b97cc3a84732992cb8748553d84d8e023dd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "50e7bc397cc91798fac96ec169863b97cc3a84732992cb8748553d84d8e023dd"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ff5a809c9a9198b00e490a62c0bfccb80ac1d5109a5d57941c6be7c51fb92ab3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ff5a809c9a9198b00e490a62c0bfccb80ac1d5109a5d57941c6be7c51fb92ab3"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_22b3a3e66c804d218fe2738e3910dc3f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron enters a region of uniform magnetic field at a speed v. The direction of the electron is perpendicular to the magnetic field. The path of the electron inside the magnetic field is circular with radius r.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The speed of the electron is varied to obtain different values of r.</p>\n<p>Which graph represents the variation of speed v with r?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

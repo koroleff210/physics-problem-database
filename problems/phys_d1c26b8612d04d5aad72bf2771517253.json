@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9425eac2a61a94b63b12a1aa123d0cabfc0941aeee182d603e4e7f515edfcedf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9425eac2a61a94b63b12a1aa123d0cabfc0941aeee182d603e4e7f515edfcedf"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d1c26b8612d04d5aad72bf2771517253",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The variation with time t of the acceleration α of an object is shown. At t = 0 the object is at rest.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object when t = 8.0 s?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.0 m s<sup>−1</sup></li><li data-label=\"B\">32 m s<sup>−1</sup></li><li data-label=\"C\">50 m s<sup>−1</sup></li><li data-label=\"D\">64 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

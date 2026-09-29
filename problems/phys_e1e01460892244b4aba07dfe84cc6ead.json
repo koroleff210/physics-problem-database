@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e1e01460892244b4aba07dfe84cc6ead",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object performs simple harmonic motion with amplitude <span class=\"math\" data-latex=\"A\"></span>. The table shows the kinetic energy and potential energy of the object at a specific displacement <span class=\"math\" data-latex=\"x\"></span> from the equilibrium position.</p>\n<table><thead><tr><th>Energy type</th><th>Value / mJ</th></tr></thead><tbody><tr><td>Kinetic energy</td><td>12.0</td></tr><tr><td>Potential energy</td><td>4.0</td></tr></tbody></table>\n<p>What is the displacement <span class=\"math\" data-latex=\"x\"></span> in terms of <span class=\"math\" data-latex=\"A\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25 A\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50 A\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.75 A\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.87 A\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

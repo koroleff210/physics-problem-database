@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_2455ad9aba534f5a98bc24b2b4a0197f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>This is a special relativity problem involving the subtraction of collinear velocities. The relative speed <span class=\"math\" data-latex=\"v_{\\mathrm{rel}}\"></span> between two objects moving with speeds u and v in a common frame is given by the relativistic velocity transformation formula: <span class=\"math\" data-latex=\"v_{\\mathrm{rel}}\"></span> = |(u - v) / (1 - uv/c^2)|. Due to the principle of relativity, the magnitude of the relative velocity must be the same from both spaceships' perspectives. Calculating this speed gives (0.80c - 0.60c) / (1 - 0.80*0.60) = 0.20c / 0.52 ≈ 0.38c.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An external observer sees spaceship X, travelling at <span class=\"math\" data-latex=\"0.80c\"></span>, approach and overtake another spaceship Y, travelling at <span class=\"math\" data-latex=\"0.60c\"></span>.</p>\n<p>Which line is correct?</p>\n<table><thead><tr><th>Option</th><th>from spaceship X</th><th>from spaceship Y</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Y approaches at 0.38c</td><td>X approaches at 0.20c</td></tr><tr data-label=\"B\"><td>B</td><td>Y approaches at 0.38c</td><td>X approaches at 0.38c</td></tr><tr data-label=\"C\"><td>C</td><td>Y approaches at 0.20c</td><td>X approaches at 0.20c</td></tr><tr data-label=\"D\"><td>D</td><td>Y approaches at 0.20c</td><td>X approaches at 0.38c</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

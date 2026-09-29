@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/93d1b5c9c044f1276c0fc154e7ab5bdb420785243cf4d798cf81189de7669ada.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "93d1b5c9c044f1276c0fc154e7ab5bdb420785243cf4d798cf81189de7669ada"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_01c03d05255c4e23aebd40223e1369a6",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The black-body radiation curves for two objects A and B are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{temperature of A}}{\\textit{temperature of B}}\"></span>?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{3}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4}{3}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"3\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

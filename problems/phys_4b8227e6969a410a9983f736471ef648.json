@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4b8227e6969a410a9983f736471ef648",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the activity of a radioactive isotope measured at regular time intervals.</p>\n<table><thead><tr><th>Time / s</th><th>Activity / Bq</th></tr></thead><tbody><tr><td>0</td><td>160</td></tr><tr><td>10</td><td>113</td></tr><tr><td>20</td><td>80</td></tr><tr><td>30</td><td>57</td></tr><tr><td>40</td><td>40</td></tr></tbody></table>\n<p>What is the decay constant <span class=\"math\" data-latex=\"\\lambda\"></span> for this isotope?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.017\\text{ s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.035\\text{ s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.069\\text{ s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.69\\text{ s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9e8bfbdfe85c49e9f2e8a0cf1ed3c1a3c22144807777b3039ae2617fcb487f27.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e8bfbdfe85c49e9f2e8a0cf1ed3c1a3c22144807777b3039ae2617fcb487f27"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_859cb05d227040a39c89c89dcf587cc2",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A variable force with a maximum F<sub>max</sub> is applied to an object over a time interval T. The object has a mass m and is initially at rest.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object at time T?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{F_{max}T}{2m}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{F_{max}T}{m}\"></span></li><li data-label=\"C\">F<sub>max</sub>Tm</li><li data-label=\"D\">2F<sub>max</sub>Tm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

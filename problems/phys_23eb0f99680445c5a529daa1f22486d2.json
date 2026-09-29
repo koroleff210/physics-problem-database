@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_23eb0f99680445c5a529daa1f22486d2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following table includes data about a photon:</p>\n\n<p> </p>\n<table>\n<tbody>\n<tr>\n<td><strong>Wavelength</strong></td>\n<td><span class=\"math\" data-latex=\"\\lambda\"></span></td>\n</tr>\n<tr>\n<td><strong>Energy</strong></td>\n<td><span class=\"math\" data-latex=\"E\"></span></td>\n</tr>\n<tr>\n<td><strong>Momentum</strong></td>\n<td><span class=\"math\" data-latex=\"p\"></span></td>\n</tr>\n</tbody>\n</table>\n\n<p>What is <span class=\"math\" data-latex=\"\\frac{p}{E}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"c\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{c}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\lambda\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{\\lambda}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

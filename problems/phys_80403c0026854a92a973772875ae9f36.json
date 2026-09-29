@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_80403c0026854a92a973772875ae9f36",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which quantity is directly proportional to the energy of a photon?</p><ol class=\"mcq-options\"><li data-label=\"A\">Wavelength</li><li data-label=\"B\">Frequency</li><li data-label=\"C\">Amplitude</li><li data-label=\"D\">Intensity</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

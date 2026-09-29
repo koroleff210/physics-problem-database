@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_b503de5e41874595b05cab6c04555e2f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the fundamental SI unit combination for angular impulse?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\textup{kg\\,m}\\,\\textup{s}^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\textup{kg\\,m}^{2}\\,\\textup{s}^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\textup{kg\\,m}\\,\\textup{s}^{-2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\textup{kg\\,m}^{2}\\,\\textup{s}^{-2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

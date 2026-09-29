@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_cd75f0822d214529835b810cf06d6b5d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A heater of power <span class=\"math\" data-latex=\"P\"></span> provides energy to a liquid at its boiling point. A mass <span class=\"math\" data-latex=\"m\"></span> of the liquid vaporizes in time <span class=\"math\" data-latex=\"t\"></span>. The specific latent heat of vaporization is <span class=\"math\" data-latex=\"L\"></span>. How much energy is transferred to the surroundings in time <span class=\"math\" data-latex=\"t\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"Pt+mL\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"Pt-mL\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mL}{Pt}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{Pt}{mL}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

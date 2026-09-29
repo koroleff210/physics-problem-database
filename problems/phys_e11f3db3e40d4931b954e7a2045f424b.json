@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b2189e5a0d9ad3b5cffc6abb98086359721908620a1828582671dbd745e0b461.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b2189e5a0d9ad3b5cffc6abb98086359721908620a1828582671dbd745e0b461"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_e11f3db3e40d4931b954e7a2045f424b",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The HR diagram shows two stars, X and Y.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Three statements are made about star X and star Y.</p>\n<p>I.    Star X is hotter than star Y.</p>\n<p>II.   Star X has a larger radius than star Y.</p>\n<p>III.  Star X is more luminous than star Y.</p>\n<p>Which of the statements are correct?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

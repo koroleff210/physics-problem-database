@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fd40c9ab59e335485323aa2a3ebca1087091909e482fee72ccc39e3209730699.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fd40c9ab59e335485323aa2a3ebca1087091909e482fee72ccc39e3209730699"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_cbc8d99f20c3416ba64853e90284a5f2",
+  "level": "sl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>parallax angle = <span class=\"math\" data-latex=\"\\frac{0.18}{2}\"></span> ✔</p>\n<p>distance =« <span class=\"math\" data-latex=\"\\frac{1}{0.09}\"></span> =» 11 «pc» ✔</p>\n<p>Allow ECF for MP2. For MP2, working or answer to at least 2 significant figures must be seen.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>11 × 3.26 × 9.46 × 10<sup>15</sup> = 3.4 × 10<sup>17</sup> «m» ✔ <span class=\"math\" data-latex=\"\\frac{3.4 \\times  10^{17}}{1.50 \\times  10^{11}}\"></span> OR 2.3 × 10<sup>6</sup> ✔</p>\n<p>Award [2] for BCA from interval 2.0 x10<sup>6</sup> to 2.4 x10<sup>6</sup></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>group of stars that appear to be close to one another/form a shape/pattern ✔ but are not gravitationally bound<br/>OR<br/>are not necessarily close in space ✔</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>identify peak wavelength ✔ use peak wavelength « in Wien’s law λ<sub>max</sub>T = 2.9 × 10<sup>−3</sup> » to get T ✔</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>use of mass-luminosity relationship to get M = 2.5M<sub>SUN</sub>  ✔ white dwarf ✔</p>\n<p>Do not allow use of temperature or wavelength, without considering the mass.</p>\n<p>Do not allow ECF from MP1.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>surface area/radius/size/temperature of the star increases and decreases<br/>OR<br/>the star expands and contracts periodically ✔ as it expands, it cools/brightness decreases<br/>OR<br/>as it contracts, the temperature raises/brightness increases ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram shows the extreme positions of star A six months apart as seen from Earth. The black dots are the fixed positions of distant stars. The horizontal scale is in arc-seconds.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the distance to star A is about 10 pc. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the ratio <span class=\"math\" data-latex=\"\\frac{\\textit{distance to star A}}{\\textit{distance from Earth to Sun}}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Star B is part of a constellation. Outline what is meant by a constellation. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The analysis of the stellar spectrum of star B shows that it has a surface temperature of 9900 K. Star B is a main sequence star with a luminosity of 25 L<sub>⊙</sub>, where L<sub>⊙</sub> is the luminosity of the Sun.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Outline how the temperature of a star can be determined from its stellar spectrum. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Predict the likely final stage in the stellar evolution of star B. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Another star in the constellation is a Cepheid variable. Outline the reason for the variation in brightness of this star. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_b76b36c9b910496aa4f459cff5b2ef3b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This observation supports the idea that atoms are mostly empty space, not directly the idea of a dense nucleus.</p>\n<p>B: Rare large-angle (including backward) deflections imply a small region with concentrated positive charge and mass, consistent with a dense nucleus causing strong Coulomb repulsion at close approach.</p>\n<p>C: This is also an observation from the experiment and would support the nucleus idea, but it is essentially the same as option B; therefore it is not the unique best answer here.</p>\n<p>D: Small-angle deflections occur commonly and can be explained by weaker interactions at larger distances; they are less direct evidence for a dense, concentrated nucleus than large-angle deflections.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which observation from the Geiger-Marsden experiment directly supports the idea of a dense nucleus?</p><ol class=\"mcq-options\"><li data-label=\"A\">Most alpha particles passed through the foil undeflected.</li><li data-label=\"B\">A few alpha particles were deflected at large angles.</li><li data-label=\"C\">A very small number of alpha particles were deflected through angles greater than <span class=\"math\" data-latex=\"90^\\circ\"></span>.</li><li data-label=\"D\">Some alpha particles were deflected through small angles.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

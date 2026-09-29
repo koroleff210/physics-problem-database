@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_be14dd0be67c46eb9e98a31f88570c6d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is true about an isolated, hollow, charged metal sphere?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The electric field strength inside the sphere is zero.</li>\n<li data-label=\"B\">The electric potential inside the sphere is zero. </li>\n<li data-label=\"C\">The electric field strength at the surface of the sphere is zero.</li>\n<li data-label=\"D\">The electric potential at the surface of the sphere is zero.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

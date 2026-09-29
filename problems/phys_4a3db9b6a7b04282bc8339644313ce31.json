@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4a3db9b6a7b04282bc8339644313ce31",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton of kinetic energy 2.0 MeV enters a region of uniform magnetic field <span class=\"math\" data-latex=\"\\vec{B}\"></span> of magnitude 0.25 T perpendicular to its velocity. After some time, an electric field <span class=\"math\" data-latex=\"\\vec{E}\"></span> is applied in the same direction as <span class=\"math\" data-latex=\"\\vec{B}\"></span>.</p>\n<p>Which of the following best describes the resulting motion of the proton once both fields are active?</p><ol class=\"mcq-options\"><li data-label=\"A\">The proton undergoes circular motion at a larger radius.</li><li data-label=\"B\">The proton undergoes helical motion with increasing pitch.</li><li data-label=\"C\">The proton continues straight with no deflection.</li><li data-label=\"D\">The proton spirals inward, losing kinetic energy.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

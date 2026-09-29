@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_42ea3112bd194d9ab7f2a5139f2edaca",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A researcher investigates the structure of the atom by firing alpha particles at a thin gold foil. For a head-on collision with a nucleus, the alpha particle is momentarily at rest at a distance of closest approach. The table shows data for two different trials of this experiment.</p>\n<table><thead><tr><th>Trial</th><th>Initial kinetic energy</th><th>Distance of closest approach</th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"E\"></span></td><td><span class=\"math\" data-latex=\"d\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"4E\"></span></td><td><span class=\"math\" data-latex=\"x\"></span></td></tr></tbody></table>\n<p>Which of the following expresses <span class=\"math\" data-latex=\"x\"></span> in terms of <span class=\"math\" data-latex=\"d\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25d\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50d\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0d\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0d\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

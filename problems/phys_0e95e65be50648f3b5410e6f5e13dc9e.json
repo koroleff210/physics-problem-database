@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0e95e65be50648f3b5410e6f5e13dc9e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and Q are points on a horizontal, circular disk that is rotating at constant  angular speed. The distance of P from the centre of the disk is <span class=\"math\" data-latex=\"10\"></span> cm and the distance of Q from the centre of the disk is <span class=\"math\" data-latex=\"30\"></span> cm. An object of mass <span class=\"math\" data-latex=\"m\"></span> is placed at each point. The centripetal force acting on the mass at point Q is <span class=\"math\" data-latex=\"F\"></span> and the linear speed of the mass at point P is <span class=\"math\" data-latex=\"v\"></span>. What is the centripetal force that acts on the mass at point P and what is the linear speed of point Q?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Centripetal force on mass at point P</strong></p>\n</td>\n<td>\n<p><strong>Linear speed of mass at point Q</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{F}{3}\"></span></td>\n<td><span class=\"math\" data-latex=\"3v\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"3F\"></span></td>\n<td><span class=\"math\" data-latex=\"3v\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{F}{3}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{v}{3}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"3F\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{v}{3}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

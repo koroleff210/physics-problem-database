@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/16fc3923f440b4078cec5026859bda3d75b27066edf69c351a686e4ea4b66efa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "16fc3923f440b4078cec5026859bda3d75b27066edf69c351a686e4ea4b66efa"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/9e0f4f77c2137d4d3cebecf5a538197244a930d951e48bcf9a1b7e6bd065d49e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e0f4f77c2137d4d3cebecf5a538197244a930d951e48bcf9a1b7e6bd065d49e"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1cc68fa5978c4809985e020b6bf9114a",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Curve within all error bars ✓<br/>Must be one curve. Do not allow multiple lines or straight line dot to dot but be lenient about ‘smoothness’.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 Curve extrapolated to V-axis and intercept read correctly within half a square ✓ <br/>ALTERNATIVE 2 Numerical value calculated 48 cm<sup>3</sup> ✓ <br/>Unit not required Expect a value of around 48 cm<sup>3</sup> but allow ECF from ai) Unit not required Allow range of ±2 cm<sup>3</sup></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Proposes workable method used to test suggestion. ✓ e.g. check if the half-life / decay constant is constant OR Constant ratio test for equal time changes using values from graph line OR Value of gradient proportional to V OR fits data from points on curve to ln V = c – kt in some way<br/>Do not allow suggestion of use of plotted points Allow a method which suggest e.g. calculating a half-life and using it to predict another volume</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Calculations must be from an appropriate method<br/><br/>method correctly uses two data points on graph ✓ method correctly uses three or more data points with suitable correct comment ✓ (leading to statement that foam experiment is a suitable model) <br/>e.g. one half life or decay constant is calculated correctly e.g a second half-life or decay constant is calculated correctly and recognition that they are the same   OR   half-life / decay constant used to predict a volume at another time     Measurements must be checked and within one square vertically / horizontally to the line. Half-life is about 280 s but calculations must be checked</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1 Recognises that this is three half-lives ✓ «Time =3 × 280 =» 840 s ✓<br/><br/> ALTERNATIVE 2 Calculates decay constant from half-life <span class=\"math\" data-latex=\"\\lambda=\\frac{\\textit{ln 2}}{280}\"></span>   OR   2.5 × 10<sup>–3</sup> s<sup>–1</sup> ✓ «V = V<sub>0</sub>e<sup>–λt</sup> leading to t =» 840 s ✓<br/><br/> ALTERNATIVE 3 Attempts alternative correct non-half-life method based on a minimum of three data points as in (b)(i) ✓  Answer in range 780–900 s ✓ <br/>ALTERNATIVE 4 Calculation of final volume of foam <span class=\"math\" data-latex=\"V'=46\\times \\frac{1}{8}=5.8 cm^{3}\"></span> ✓ Attempt to extend graph axis and estimate time Answer in range 780–900 s ✓ <br/>Marks may only be awarded from one alternative Unit not required Allow answer in range 780–900 s Allow ECF from bii) if half-life calculated Do not award ECF from MP1 if a different number of half-lives is concluded. Unit not required Allow answer in range 780–900 s Allow ECF from bii) if half-life calculated Allow ECF from aii) MP2 can only be awarded if some effort is made to extrapolate the graph to the right.</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<section class=\"context\"><p>A foam forms above a liquid when the liquid is stirred or poured.</p>\n<p>A student investigates the change in volume of a foam with time.</p>\n<p>At time t = 0, the liquid is poured quickly into a measuring cylinder and a foam forms above the liquid. The student waits one minute for the foam to settle and then records the volume V of the foam and the time t.</p>\n<p>The student repeats the measurement every minute.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The student plots the data to show how V varies with t. Error bars are given for values of V; errors in t are negligible.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw the best-fit line for these data on the graph, extrapolating your line to the V-axis. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate the initial volume of the foam. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The student suggests that the foam experiment can model radioactive decay.</p>\n<p>For this to be true, the V–t graph must have similar properties to those of a graph of corrected count rate against time for the decay of a radioactive nuclide.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Explain how data from the V–t graph can be tested to decide whether the foam experiment can model radioactive decay. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show, using data from the V–t graph and your test from (b)(i), that the student’s suggestion is correct. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The student decides to stop the experiment when the volume of the foam has decreased by <span class=\"math\" data-latex=\"\\frac{7}{8}\"></span><sup>th</sup> of its original volume.</p>\n<p>Predict the time at which the student will stop the experiment.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

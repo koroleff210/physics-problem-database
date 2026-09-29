@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_11b6771a52ed4e4a892244fda454f3eb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between planet X and planet Y is <span class=\"math\" data-latex=\"R\"></span>. A meteorite of mass <span class=\"math\" data-latex=\"m\"></span> is located on the line connecting the centres of the planets and it is at the same distance from the centres of the planets. The mass of planet X is <span class=\"math\" data-latex=\"M\"></span> and the mass of planet Y is <span class=\"math\" data-latex=\"2M\"></span>. What is the magnitude of the gravitational force experienced by the meteorite?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{GMm}{R^{2}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2GMm}{R^{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4GMm}{R^{2}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{5GMm}{R^{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

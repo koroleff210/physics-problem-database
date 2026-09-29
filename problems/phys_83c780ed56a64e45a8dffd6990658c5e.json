@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": null,
+  "id": "phys_83c780ed56a64e45a8dffd6990658c5e",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>the laws of physics are the same in all inertial frames of reference [1 mark]</p>\n<p>no inertial frame is preferred / there is no absolute rest frame [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1 - 0.750^2}} = 1.51\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"L = \\frac{L_0}{\\gamma} = \\frac{8.60}{1.51} = 5.70\\text{ ly}\"></span> [1 mark]</p>\n<p>*Award [2] for a bald correct answer.*</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"1.20c\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>the second postulate states that the speed of light in a vacuum is constant for all inertial observers [1 mark]</p>\n<p>the result exceeds the speed of light (<span class=\"math\" data-latex=\"1.20c &gt; c\"></span>), which is the universal speed limit for any object with mass [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p><span class=\"math\" data-latex=\"u' = \\frac{v + u}{1 + \\frac{vu}{c^2}} = \\frac{0.600c + 0.600c}{1 + (0.600)^2}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"u' = \\frac{1.20c}{1.36} = 0.882c\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1 - 0.882^2}} = 2.12\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\Delta t = \\gamma \\Delta t_0 = 2.12 \\times 10.0 = 21.2\\text{ s}\"></span> [1 mark]</p>\n<p>*Allow ECF from part (e).*<br/>*Accept answers in the range 21.2 to 21.3 s depending on rounding of gamma.*</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about relativistic length, time, and velocity transformations.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the first postulate of special relativity. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> An automated probe is sent from Earth to the star Sirius, which is at a distance of <span class=\"math\" data-latex=\"8.60\\text{ light-years (ly)}\"></span> as measured by an observer on Earth. The probe travels at a constant speed of <span class=\"math\" data-latex=\"0.750c\"></span>. Calculate the distance between Earth and Sirius according to a computer on board the probe. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Two scout ships, A and B, leave a space station at the same time, traveling in opposite directions. Each ship has a speed of <span class=\"math\" data-latex=\"0.600c\"></span> relative to the space station. Calculate the speed of ship B relative to ship A using Galilean relativity. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Identify the postulate of special relativity that is violated by the result in part (c) and explain why this result is impossible in relativistic mechanics. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Calculate the actual speed of ship B relative to ship A using the relativistic velocity addition formula. [2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> A beacon on ship B emits a pulse of light every <span class=\"math\" data-latex=\"10.0\\text{ s}\"></span> according to its own internal clock. Calculate the time interval between these pulses as measured by an observer on ship A. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

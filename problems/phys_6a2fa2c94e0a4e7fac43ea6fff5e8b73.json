@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/38ee71428fc04f4bb8059edd7bf041fa8e1b4a3c75669d5794982797c614d018.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "38ee71428fc04f4bb8059edd7bf041fa8e1b4a3c75669d5794982797c614d018"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_6a2fa2c94e0a4e7fac43ea6fff5e8b73",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows three energy levels of an atom. Transitions between these levels result in the emission of photons. The frequency of the photon emitted in the transition from <span class=\"math\" data-latex=\"n=3\"></span> to <span class=\"math\" data-latex=\"n=1\"></span> is <span class=\"math\" data-latex=\"f_{31}\"></span>, and the frequency of the photon emitted from <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=1\"></span> is <span class=\"math\" data-latex=\"f_{21}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the frequency of the photon emitted during the transition from <span class=\"math\" data-latex=\"n=3\"></span> to <span class=\"math\" data-latex=\"n=2\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"f_{31} + f_{21}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"f_{31} - f_{21}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt{f_{31} \\cdot f_{21}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{f_{31} + f_{21}}{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_391e00ed55404ca4bfd330d74c66ca43",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the likely evolutionary outcome for a star with the same mass as the Sun?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">main sequence star  → red giant →  supernova → white dwarf</li><li data-label=\"B\">main sequence star → red giant → planetary nebula → white dwarf</li><li data-label=\"C\">main sequence star → super giant → supernova → neutron star</li><li data-label=\"D\">main sequence star → super giant → planetary nebula → black hole</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

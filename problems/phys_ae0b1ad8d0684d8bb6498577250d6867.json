@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ac755e20be43c194ccec570e481b6d76900718c6925080e02b85cdad7785450f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ac755e20be43c194ccec570e481b6d76900718c6925080e02b85cdad7785450f"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_ae0b1ad8d0684d8bb6498577250d6867",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks, X and Y, are placed in contact with each other. Data for the blocks are provided.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>X has a mass <span class=\"math\" data-latex=\"m\"></span>. What is the mass of Y?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{m}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"m\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"4 m\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"6 m\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

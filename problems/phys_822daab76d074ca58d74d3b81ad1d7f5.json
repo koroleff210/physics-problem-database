@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/331ef5f7198cdd13d29e11d4ed76763cd5eff8b45892043ff40d486c60ce2a3c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "331ef5f7198cdd13d29e11d4ed76763cd5eff8b45892043ff40d486c60ce2a3c"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_822daab76d074ca58d74d3b81ad1d7f5",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram below shows a simple model of five energy levels in an atom. An electron transitions from <span class=\"math\" data-latex=\"E_{4}\"></span> to <span class=\"math\" data-latex=\"E_{2}\"></span> and a photon is emitted.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which transition results in the emission of a photon of shorter wavelength?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"E_{5}\"></span> to <span class=\"math\" data-latex=\"E_{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"E_{3}\"></span> to <span class=\"math\" data-latex=\"E_{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"E_{5}\"></span> to <span class=\"math\" data-latex=\"E_{4}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"E_{3}\"></span> to <span class=\"math\" data-latex=\"E_{1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

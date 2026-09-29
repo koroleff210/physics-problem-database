@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_09ad3a168d584c1fa6f4d7d6dd6d9d45",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sound source is moving in a horizontal circle at constant speed. An stationary observer is standing near the sound source. The sound detected by the observer has:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">varying frequency and intensity.</li>\n<li data-label=\"B\">constant frequency and intensity.</li>\n<li data-label=\"C\">constant frequency and varying intensity.</li>\n<li data-label=\"D\">varying frequency and constant intensity.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_fb88099aa63446718bd6b93d81c237ab",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle moves along a horizontal straight line. At a particular instant, the particle has a negative velocity and a positive acceleration. Which of the following correctly describes the motion of the particle at this instant?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is moving in the positive direction and its speed is increasing.</li><li data-label=\"B\">It is moving in the negative direction and its speed is decreasing.</li><li data-label=\"C\">It is moving in the negative direction and its speed is increasing.</li><li data-label=\"D\">It is moving in the positive direction and its speed is decreasing.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3c45dae59a25c3e3a780085fece8ab3d1a2c01ff2b817680c5f1b9e0ecdf5ba5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3c45dae59a25c3e3a780085fece8ab3d1a2c01ff2b817680c5f1b9e0ecdf5ba5"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_40c037a77c954f94b5bdba966cf77e59",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with distance r of the electric potential V from a charge Q.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the electric field strength at distance s?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The area under the graph between s and infinity</li><li data-label=\"B\">The area under the graph between 0 and s</li><li data-label=\"C\">The gradient of the tangent at s</li><li data-label=\"D\">The negative of the gradient of the tangent at s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

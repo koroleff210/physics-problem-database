@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_1e98461d12d14f62bf940e62ec89a7cf",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass 2.0 kg accelerates uniformly at a rate of 1.0 m s<sup>−2</sup> when a force of 4.0 N acts on it.<br/>The force is doubled while resistive forces stay the same. What is the block’s acceleration?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4.0 m s<sup>−2</sup></li><li data-label=\"B\">3.0 m s<sup>−2</sup></li><li data-label=\"C\">2.0 m s<sup>−2</sup></li><li data-label=\"D\">1.0 m s<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

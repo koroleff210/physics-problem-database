@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_30e4db4fed174cf49ba37d51d9233e25",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>To facilitate a sustained chain reaction in a thermal nuclear reactor, high-speed neutrons must be slowed down. Which property of a moderator material is primarily responsible for ensuring that neutrons lose the maximum possible kinetic energy during a single elastic collision?</p><ol class=\"mcq-options\"><li data-label=\"A\">The material has a high density to increase the frequency of neutron interactions.</li><li data-label=\"B\">The nuclei of the material have a mass similar to the mass of a neutron.</li><li data-label=\"C\">The nuclei of the material have a very low neutron capture cross-section.</li><li data-label=\"D\">The material is an excellent thermal conductor to facilitate heat transfer to the coolant.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

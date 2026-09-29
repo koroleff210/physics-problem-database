@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_d32b8d16c8244cfeb952918a468ae211",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two wires, X and Y, both carry currents into the plane of the page. The current in wire X is <span class=\"math\" data-latex=\"I\"></span> and the current in wire Y is <span class=\"math\" data-latex=\"2I\"></span>.</p>\n<p>Consider the following statements:</p>\n<p>I. The force exerted by X on Y is greater than the force exerted by Y on X.</p>\n<p>II. The force experienced by X is inversely proportional to the distance between the wires. </p>\n<p>III. The force between X and Y is attractive.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d1426ef2cc7d406069ce43f63a61bf936031d9a8bbb69e069cf79280bd7a36b6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d1426ef2cc7d406069ce43f63a61bf936031d9a8bbb69e069cf79280bd7a36b6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/bddb74b7cea3b5bb29528bfd69555d692ce5f0e53444719ae496f1919b138c61.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bddb74b7cea3b5bb29528bfd69555d692ce5f0e53444719ae496f1919b138c61"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/3b0937bb8e08c2dd1c94728dd0181524bfea10eec2ccedf5c9c48d1b9663d3b2.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b0937bb8e08c2dd1c94728dd0181524bfea10eec2ccedf5c9c48d1b9663d3b2"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_b711f52e702745d6b4e0440c95c93a4a",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a_i\"><p><strong><span class=\"math\" data-latex=\"a_{i}\"></span></strong></p><p>Identifies angular frequency ω = 15.7 rad s⁻¹ from the equation.<br/>Uses f = ω / 2π = 15.7 / (2π) ≈ 2.50 Hz.</p>\n<p>Must show the calculation as the answer is given.</p></section><section class=\"markscheme-part\" data-label=\"a_ii\"><p><strong><span class=\"math\" data-latex=\"a_{\\mathrm{ii}}\"></span></strong></p><p>Uses <span class=\"math\" data-latex=\"v_{\\mathrm{max}}\"></span> = x₀ω = 0.450 × 15.7 = 7.065 m s⁻¹.<br/>This is approximately 7 m s⁻¹.</p>\n<p>Must show the calculation. Accept intermediate answers of 7.07 m s⁻¹ or 7.1 m s⁻¹ as they are 'about 7'.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"a_{\\mathrm{max}}\"></span> = x₀ω² = 0.450 × (15.7)² = 110.9... m s⁻²<br/>OR<br/><span class=\"math\" data-latex=\"a_{\\mathrm{max}}\"></span> = ωv_max = 15.7 × 7.065 = 110.9... m s⁻²<br/>Answer: 111 m s⁻²</p>\n<p>Award [1] for using a correct formula. Award [1] for the correct answer to 3 s.f. Allow ECF from part (a).</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Correctly shaped curve (sinusoidal-like, always non-negative, constant amplitude <span class=\"math\" data-latex=\"E_{T}\"></span>). [1]<br/>Correct period and phase: starts at <span class=\"math\" data-latex=\"E_{k}\"></span>=0, has a period of 0.2 s (so 4 cycles are shown), and peaks touch the <span class=\"math\" data-latex=\"E_{T}\"></span> line. [1]</p>\n<p>The curve should be reasonably smooth. Peaks should be at t = 0.1, 0.3, 0.5, 0.7 s. Zeros should be at t = 0, 0.2, 0.4, 0.6, 0.8 s.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Minimum frequency occurs when source moves away from detector at maximum speed. [1]<br/>f' = f * v / (v + <span class=\"math\" data-latex=\"v_{s}\"></span>) = 500 * 340 / (340 + 7.065) = 489.8... Hz ≈ 490 Hz. [1]</p>\n<p>Award [1] for correct formula and reasoning. Award [1] for calculation. Accept use of <span class=\"math\" data-latex=\"v_{s}\"></span> ≈ 7.1 m/s from (a)(ii), which also gives 490 Hz. Answer must be to 2 or 3 s.f.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>6.</strong> A loudspeaker oscillates with simple harmonic motion at the end of a spring.</p><p>The displacement x, in metres, of the loudspeaker is modelled by</p><p>x = 0.450 sin(15.7t + π/2)</p><p>where t is the time in seconds.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the oscillation frequency is 2.5 Hz. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Show that the maximum speed is about 7 m s^-1. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the maximum acceleration. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Sketch how kinetic energy varies with time over the given 0 to 0.8 s interval. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the minimum frequency recorded by the stationary detector. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

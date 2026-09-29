@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ef3e24b1ccbc133b1061b2bd00a8d81f84f38f1243ba9860decd4761c9505e0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ef3e24b1ccbc133b1061b2bd00a8d81f84f38f1243ba9860decd4761c9505e0"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_5e41fa4446314c97ab55ff2a9bf38f9b",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cart starts from rest at point S and moves in a straight line with a constant acceleration. Two points X and Y are 0.50 m and 1.0 m from S.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The cart passes X with speed v<sub>X</sub> and passes Y with speed v<sub>Y</sub>. What is <span class=\"math\" data-latex=\"\\frac{v_{Y}}{v_{x}}\"></span>?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"2\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\\sqrt{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

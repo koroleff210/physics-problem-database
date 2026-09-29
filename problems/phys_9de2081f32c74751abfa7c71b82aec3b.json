@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/357455be9999cc5b6605c16c6f955a22ba20d0fe1b50afd8205040d583d99bc4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "357455be9999cc5b6605c16c6f955a22ba20d0fe1b50afd8205040d583d99bc4"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_9de2081f32c74751abfa7c71b82aec3b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small ball is attached to a string and moves in a circle with angular speed <span class=\"math\" data-latex=\"\\omega\"></span>. The angle between the string and the vertical is <span class=\"math\" data-latex=\"\\theta\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the radius of the ball’s path?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{g}{\\omega^{2}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{g \\sin \\theta}{\\omega^{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{g \\cos \\theta}{\\omega^{2}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{g \\tan \\theta}{\\omega^{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

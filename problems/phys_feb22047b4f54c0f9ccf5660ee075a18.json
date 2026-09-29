@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_feb22047b4f54c0f9ccf5660ee075a18",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sound source emits a sound wave that has speed <em>c</em> in still air. An airplane flies towards the sound source at constant speed <em>v</em>, passes the sound source and continues flying away from the sound source at the same constant speed.</p>\n<p>What is true about the speed of the sound detected by an observer on the airplane before the airplane passes the sound source and after the airplane has passed the sound source when <em>v</em> = <em>c</em>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Speed detected by observer before the airplane passes the source</strong></p>\n</td>\n<td>\n<p><strong>Speed detected by observer after the airplane has passed the source</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>2<em>c</em></td>\n<td>0</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><em>c</em></td>\n<td>0</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>2<em>c</em></td>\n<td><em>c</em></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><em>c</em></td>\n<td><em>c</em></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_1b85d90edb2847b6b66e06889034ffe3",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Newton's Second Law: The wall must exert a force on the water to change its horizontal momentum (or velocity) [1 mark]<br/>- Newton's Third Law: The water exerts a force on the wall that is equal in magnitude and opposite in direction to the force the wall exerts on the water [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- The total momentum of the system (comprising the water, the wall, and the Earth) remains constant provided no external horizontal forces act on it [1 mark]<br/>- The momentum lost by the water as it comes to a stop is transferred to the wall and the Earth, which must gain an equivalent amount of momentum [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State that the force is the rate of change of momentum: <span class=\"math\" data-latex=\"F = v \\frac{\\Delta m}{\\Delta t}\"></span> [1 mark]<br/>- Substitute the mass flow rate (<span class=\"math\" data-latex='\"\\rho Av\"'></span>) into the force equation: <span class=\"math\" data-latex=\"F = v (\\rho Av) = \\rho Av^2\"></span> [1 mark]<br/>- Apply the definition of pressure (<span class=\"math\" data-latex=\"P = F/A\"></span>) to obtain <span class=\"math\" data-latex=\"P = \\frac{\\rho Av^2}{A} = \\rho v^2\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An industrial cleaning system uses a high-pressure nozzle to direct a horizontal jet of water toward a vertical surface. The water, which has a density <span class=\"math\" data-latex=\"\\rho\"></span>, exits the nozzle with a cross-sectional area <span class=\"math\" data-latex=\"A\"></span> and strikes the surface at a velocity <span class=\"math\" data-latex=\"v\"></span>. Upon impact, the water loses all its horizontal velocity and moves vertically down the wall.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Using the principles of Newton's second and third laws, account for the force experienced by the wall during the impact.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe the application of the principle of conservation of linear momentum to the interaction between the water and the wall.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The mass of water striking the wall every second is determined by the product <span class=\"math\" data-latex=\"\\rho Av\"></span>. Show that the pressure <span class=\"math\" data-latex=\"P\"></span> exerted on the surface by the jet is given by the expression <span class=\"math\" data-latex=\"P = \\rho v^2\"></span>.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

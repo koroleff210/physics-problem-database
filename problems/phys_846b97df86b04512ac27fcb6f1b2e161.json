@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_846b97df86b04512ac27fcb6f1b2e161",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Containers A and B contain the same substance at the same temperature. In container A the substance is in the gas state. In container B the substance is in the liquid state. The average kinetic energy of the molecules in container A is <span class=\"math\" data-latex=\"E_{A}\"></span> and the average kinetic energy of the molecules in container B is <span class=\"math\" data-latex=\"E_{B}\"></span>. What is true about <span class=\"math\" data-latex=\"E_{A}\"></span> and <span class=\"math\" data-latex=\"E_{B}\"></span>?   </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Based on the information provided, the relationship between <span class=\"math\" data-latex=\"E_{A}\"></span> and <span class=\"math\" data-latex=\"E_{B}\"></span> cannot be determined.</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"E_{A}&gt;E_{B}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"E_{A}&lt;E_{B}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"E_{A}=E_{B}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

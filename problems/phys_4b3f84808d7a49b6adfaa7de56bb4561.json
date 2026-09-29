@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_4b3f84808d7a49b6adfaa7de56bb4561",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The pattern is formed when the electrons scattered from adjacent planes in the graphite crystal undergo interference / diffract ✓ Interference / diffraction is a property of waves only ✓</p>\n<p>The beam is produced by accelerating electrons through an electric potential difference U.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The de Broglie wavelength of the electrons should be comparable to or shorter than the interatomic distance / <span class=\"math\" data-latex=\"2\\times 10^{-10}\"></span> m ✓ Momentum of electrons <span class=\"math\" data-latex=\"≈\\frac{6.63\\times 10^{-34}}{2\\times 10^{-10}}\"></span> «<span class=\"math\" data-latex=\"=3.32\\times 10^{-2}\"></span> N s» ✓ Kinetic energy of electrons = «<span class=\"math\" data-latex=\"\\frac{{p}^{2}}{2 m} = \\frac{{( 3.32 \\times  {10}^{- 24} )}^{2}}{2 \\times  9.11 \\times  {10}^{- 31}} =\"></span>»<span class=\"math\" data-latex=\"6.0\\times 10^{-18}\"></span> «J»  ✓ U = «<span class=\"math\" data-latex=\"\\frac{E}{e}=\\frac{6.10\\times 10^{-18}}{1.6\\times 10^{-19}}=\"></span>»40 «V» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The protons have the same energy but greater mass hence a greater momentum than the electrons ✓ From <span class=\"math\" data-latex=\"\\lambda=\\frac{h}{p}\"></span>, the protons will have a shorter wavelength ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A beam of electrons is incident on a thin crystalline sample of graphite. The electrons emerging from the sample form a pattern on a fluorescent screen. The pattern consists of a series of bright and dark rings concentric with the direction of the incident beam.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline why the pattern observed on the screen is an evidence for matter waves. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> A typical interatomic distance in the graphite crystal is of the order of <span class=\"math\" data-latex=\"2\\times 10^{-10}\"></span> m. Estimate the minimum value of U for the pattern in (a) to be formed on the screen. [4]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Protons can also be accelerated by the same potential difference U. Compare, without calculation, the de Broglie wavelength of the protons to that of the electrons. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

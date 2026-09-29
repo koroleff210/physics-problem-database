@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1742fbeee0e1596d220d31b8e00c592d18f36eec76af051c5e66b159f71aa59c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1742fbeee0e1596d220d31b8e00c592d18f36eec76af051c5e66b159f71aa59c"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f36855060e7b4958aa9be4e9c970bd66",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a photoelectric experiment a stopping voltage <span class=\"math\" data-latex=\"V\"></span> required to prevent photoelectrons from flowing across the photoelectric cell is measured for light of two frequencies <span class=\"math\" data-latex=\"f_{1}\"></span> and <span class=\"math\" data-latex=\"f_{2}\"></span>. The results obtained are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The ratio <span class=\"math\" data-latex=\"\\frac{V_{2}-V_{1}}{f_{2}-f_{1}}\"></span> is an estimate of</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"e\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"h\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{e}{h}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{h}{e}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_5fe2f4741bb4480c94303d8110fef476",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planets <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span> orbit the same star.</p>\n<p>The orbital radius of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"R_{X}\"></span>, and that of planet <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"R_{Y}\"></span>. The orbital period of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"T_{X}\"></span>, and that of <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"T_{Y}\"></span>.</p>\n<p>What is<span class=\"math\" data-latex=\"\\frac{T_{Y}}{T_{X}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{R_{Y}}{R_{X}}^{\\frac{3}{2}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{R_{X}}{R_{Y}}^{\\frac{3}{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{R_{Y}}{R_{X}}^{\\frac{2}{3}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{R_{X}}{R_{Y}}^{\\frac{2}{3}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

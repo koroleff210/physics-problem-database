@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_372cb65e4ce34751931531e2c6c07e02",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"7a\"><p><strong>7a</strong></p><p></p>\n<p>Molecules in a solid vibrate about/have fixed positions due to the attractive forces between them.</p>\n<p>As energy is supplied to the solid, molecules overcome these attractive forces and the solid melts. In a liquid, molecules are able to change position. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7b\"><p><strong>7b</strong></p><p></p>\n<p>Volume of an ice cube: <span class=\"math\" data-latex=\"0.023^{3} \\approx 1.22 \\times 10^{-5}\"></span> m<span class=\"math\" data-latex=\"^{3}\"></span></p>\n<p>Mass of five ice cubes: <span class=\"math\" data-latex=\"(1.22 \\times 10^{-5}) \\times 920 \\times 5 \\approx 0.056\"></span> kg <span class=\"math\" data-latex=\"\\approx 60\"></span> g</p>\n<p>Calculated answer must be given to at least 2 s. f. In order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7c\"><p><strong>7c</strong></p><p></p>\n<p>Energy changes of ice cubes:</p>\n<p><span class=\"math\" data-latex=\"(0.060 \\times (2.1 \\times 10^{3}) \\times 7.2) + (0.060 \\times (0.336 \\times 10^{6})) + (0.060 \\times (4.2 \\times 10^{3}) \\times T_{final})\"></span></p>\n<p>Energy change of water:</p>\n<p><span class=\"math\" data-latex=\"0.850 \\times (4.2 \\times 10^{3}) \\times (18.5-T_{final})\"></span></p>\n<p>Energy changes of ice cubes = Energy change of water</p>\n<p>Solving for <span class=\"math\" data-latex=\"T_{final}\"></span> (using your calculator or otherwise)</p>\n<p><span class=\"math\" data-latex=\"T_{final} \\approx 11.8\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C or <span class=\"math\" data-latex=\"12\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7d\"><p><strong>7d</strong></p><p></p>\n<p>Both the ice and the water are below room temperature.</p>\n<p>This means that additional energy is supplied to the water and the ice.</p>\n<p>As a result, the final temperature of the water will be higher than in part (c).</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Five identical ice cubes are dropped into a thermally isolated cylinder containing water. The following data are available:</p>\n<p></p>\n<p>Side length of each ice cube:  <span class=\"math\" data-latex=\"2.3\"></span> cm</p>\n<p>Density of ice:  <span class=\"math\" data-latex=\"920\"></span> kg m<span class=\"math\" data-latex=\"^{-3}\"></span></p>\n<p>Initial temperature of ice cubes:  <span class=\"math\" data-latex=\"-7.2\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p>Mass of water in the container:  <span class=\"math\" data-latex=\"850\"></span> g</p>\n<p>Initial temperature of water: <span class=\"math\" data-latex=\"18.5\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p>Specific heat capacity of ice: <span class=\"math\" data-latex=\"2.1\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Specific latent heat of fusion of ice: <span class=\"math\" data-latex=\"0.336\"></span> MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Specific heat capacity of water: <span class=\"math\" data-latex=\"4.2\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p>\n<p> </p>\n<p>a. Outline the process of melting, with reference to the behaviour of molecules.</p>\n<p>  [2]</p>\n<p>b. Show that the total mass of the five ice cubes is 60 grams.</p>\n<p>  [3]</p>\n<p>c. Calculate the final temperature of the water.</p>\n<p>  [4]</p>\n<p>d. The process is repeated using a container that is not thermally isolated from its surroundings. Air temperature in the room where the process is repeated is <span class=\"math\" data-latex=\"23\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C. State and explain how the final temperature of the water differs from your answer to part (c).</p>\n<p>  [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

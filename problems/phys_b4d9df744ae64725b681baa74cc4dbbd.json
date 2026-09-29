@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_b4d9df744ae64725b681baa74cc4dbbd",
+  "level": "hl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Identify the Doppler effect formula for an observer moving away from a stationary source: <span class=\"math\" data-latex=\"f' = f \\left( \\frac{v - v_{\\text{obs}}}{v} \\right)\"></span><br/>- Substitute the provided values into the equation: <span class=\"math\" data-latex=\"1140 = 1200 \\left( \\frac{340 - v_{\\text{obs}}}{340} \\right)\"></span> [1 mark]<br/>- Rearrange and simplify the expression to isolate the unknown speed: <span class=\"math\" data-latex=\"323 = 340 - v_{\\text{obs}}\"></span> [1 mark]<br/>- State the final calculated speed with appropriate units: <span class=\"math\" data-latex=\"17 \\text{ m\\,s}^{-1}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stationary building features an alarm system that generates a constant tone at a frequency of <span class=\"math\" data-latex=\"1200 \\text{ Hz}\"></span>. A person in a car driving directly away from the building perceives the tone at a frequency of <span class=\"math\" data-latex=\"1140 \\text{ Hz}\"></span>. The local speed of sound is <span class=\"math\" data-latex=\"340 \\text{ m\\,s}^{-1}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the magnitude of the car's velocity.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

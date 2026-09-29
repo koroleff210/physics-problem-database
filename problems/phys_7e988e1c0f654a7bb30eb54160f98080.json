@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f1bea1e239bc440d51a84abf154224659887db59e10ae60e190fd60e94d60998.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f1bea1e239bc440d51a84abf154224659887db59e10ae60e190fd60e94d60998"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_7e988e1c0f654a7bb30eb54160f98080",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a portion of an absorption spectrum, with dark lines observed against a continuous background.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the best explanation for the appearance of the dark lines in the spectrum?</p><ol class=\"mcq-options\"><li data-label=\"A\">Photons are emitted when electrons fall to lower energy levels.</li><li data-label=\"B\">Electrons are ejected from atoms when struck by high-energy photons.</li><li data-label=\"C\">Photons of specific energies are absorbed as electrons transition to higher energy levels.</li><li data-label=\"D\">Atoms fluoresce, producing interference patterns that block certain wavelengths.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

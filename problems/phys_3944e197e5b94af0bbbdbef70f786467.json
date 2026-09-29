@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/041f33804097304f9ed079d559235744ae9c2917939452bb8866838800ebe7ce.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "041f33804097304f9ed079d559235744ae9c2917939452bb8866838800ebe7ce"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3944e197e5b94af0bbbdbef70f786467",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A layer of ice on the surface of a lake separates cold air from relatively warmer unfrozen water.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The temperature of the air and the temperature of the water can both be assumed constant. The thickness of the ice gradually increases. What effect does the change in ice thickness have on the temperature gradient across the ice and the rate of thermal energy transfer by conduction through the ice?</p>\n<table><tbody><tr><td></td><td><p>Temperature gradient across the ice</p></td><td><p>Rate of thermal energy transfer through the ice</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>increases</p></td><td><p>increases</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>increases</p></td><td><p>decreases</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>decreases</p></td><td><p>increases</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>decreases</p></td><td><p>decreases</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

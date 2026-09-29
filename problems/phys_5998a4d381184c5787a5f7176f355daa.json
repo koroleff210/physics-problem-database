@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5998a4d381184c5787a5f7176f355daa",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which equation is an example of β<sup>+</sup> decay?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><sup>14</sup><sub>6</sub>C→<sup>14</sup><sub>7</sub>N+e<sup>-</sup>+ν<sub>e</sub></li><li data-label=\"B\"><sup>14</sup><sub>6</sub>C→<sup>14</sup><sub>7</sub>N+e<sup>+</sup>+ν̅<sub>e</sub></li><li data-label=\"C\"><sup>23</sup><sub>12</sub>Mg→<sup>23</sup><sub>11</sub>Na+e<sup>+</sup>+ν̅<sub>e</sub></li><li data-label=\"D\"><sup>23</sup><sub>12</sub>Mg→<sup>23</sup><sub>11</sub>Na+e<sup>+</sup>+ν<sub>e</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

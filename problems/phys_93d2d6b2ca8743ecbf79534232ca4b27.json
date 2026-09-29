@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_93d2d6b2ca8743ecbf79534232ca4b27",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron is accelerated from rest through a potential difference of <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p>What is the de Broglie wavelength of the electron?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{h}{\\sqrt{eVm_{e}}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2h}{\\sqrt{eVm_{e}}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{h}{2\\sqrt{eVm_{e}}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{h}{\\sqrt{2eVm_{e}}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

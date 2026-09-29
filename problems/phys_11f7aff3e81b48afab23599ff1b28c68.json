@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ca3577a1e346be110319ea9c442ecdfcb851361be5f759d5d6758edede51aca5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ca3577a1e346be110319ea9c442ecdfcb851361be5f759d5d6758edede51aca5"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/595357d6f0df1c0c90d34fc330c7407c9984699ece0c723952cebf432dac22f3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "595357d6f0df1c0c90d34fc330c7407c9984699ece0c723952cebf432dac22f3"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/05ef8152157a499dec58154ff9210324ecc6b11e21e0ec42b4a04a4460d47918.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "05ef8152157a499dec58154ff9210324ecc6b11e21e0ec42b4a04a4460d47918"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_11f7aff3e81b48afab23599ff1b28c68",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>use of pV = constant ✓ P<sub>B</sub> = 43 «Kpa» ✓   Award [2] for BCA</p>\n<p>The gas now undergoes adiabatic compression BC until it returns to the initial volume. To complete the cycle, the gas returns to A via the isovolumetric process CA.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>concave curved line from B to locate C with a higher pressure than A ✓ vertical line joining C to A ✓   Allow ECF from MP1 i.e., award [1] for first process locating C at a lower pressure than A, then vertical line to A. Arrows on the processes are not needed. Point C need not be labelled.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1 use of <span class=\"math\" data-latex=\"TV^{\\frac{2}{3}}\"></span> = constant «so <span class=\"math\" data-latex=\"3003V_{A}^{\\frac{2}{3}}=T_{C}V_{A}^{\\frac{2}{3}}\"></span>» ✓ T<sub>C</sub> = 624 «K» OR T<sub>C</sub> = 351 «°C» ✓   ALTERNATIVE 2 use of <span class=\"math\" data-latex=\"pV^{\\frac{5}{3}}\"></span> to get either p<sub>c</sub> = <span class=\"math\" data-latex=\"433^{\\frac{5}{3}}\"></span> OR p<sub>c</sub> = 268 «kPa» ✓ « T<sub>C</sub> = 268 × 300/129 = so » T<sub>C</sub> = 624 «K» OR T<sub>C</sub> = 351 «°C» ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1 «the process is adiabatic so» ΔQ = 0 ✓   ALTERNATIVE 2 The compression is reversible «so ΔS = 0» ✓   OWTTE</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>area under curve AB is less than area under curve BC ✓   Do not allow ECF from part (b)</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>«W = 0 so» Q = ΔU ✓ «ΔU = <span class=\"math\" data-latex=\"\\frac{3}{2}\"></span> × 53.2 × R × (351 – 27) so » ΔU = 2.15 × 10<sup>5</sup> «J» ✓   Award [2] for BCA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A frictionless piston traps a fixed mass of an ideal gas. The gas undergoes three thermodynamic processes in a cycle.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The initial conditions of the gas at A are:</p>\n<p>volume = 0.330 m<sup>3</sup><br/>        pressure = 129 kPa<br/>temperature = 27.0 °C</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Process AB is an isothermal change, as shown on the pressure volume (pV) diagram, in which the gas expands to three times its initial volume.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the pressure of the gas at B. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Sketch, on the pV diagram, the remaining two processes BC and CA that the gas undergoes. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Show that the temperature of the gas at C is approximately 350 °C. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Explain why the change of entropy for the gas during the process BC is equal to zero. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Explain why the work done by the gas during the isothermal expansion AB is less than the work done on the gas during the adiabatic compression BC. [1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> The quantity of trapped gas is 53.2 mol. Calculate the thermal energy removed from the gas during process CA. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

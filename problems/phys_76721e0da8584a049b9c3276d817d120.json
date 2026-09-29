@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_76721e0da8584a049b9c3276d817d120",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: The final speed <span class=\"math\" data-latex=\"v\"></span> is given by the impulse-momentum theorem: <span class=\"math\" data-latex=\"F \\cdot t = m \\cdot v\"></span>, so <span class=\"math\" data-latex=\"v = \\frac{Ft}{m}\"></span>.<br/>For the second object, the final speed <span class=\"math\" data-latex=\"V\"></span> is: <span class=\"math\" data-latex=\"V = \\frac{\\text{Force} \\times \\text{time}}{\\text{mass}} = \\frac{3F \\times \\frac{t}{2}}{2m} = \\frac{\\frac{3}{2}Ft}{2m} = \\frac{3}{4} \\left( \\frac{Ft}{m} \\right) = \\frac{3}{4}v\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A constant force <span class=\"math\" data-latex=\"F\"></span> acts on an object of mass <span class=\"math\" data-latex=\"m\"></span>, which is initially at rest. After a time interval <span class=\"math\" data-latex=\"t\"></span>, the object reaches a speed <span class=\"math\" data-latex=\"v\"></span>. A second object of mass <span class=\"math\" data-latex=\"2m\"></span>, also initially at rest, is acted upon by a constant force <span class=\"math\" data-latex=\"3F\"></span> for a time interval <span class=\"math\" data-latex=\"\\frac{t}{2}\"></span>. What is the final speed of the second object in terms of <span class=\"math\" data-latex=\"v\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{3}{4}v\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{4}{3}v\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{3}{2}v\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3v\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

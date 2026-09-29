@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/41d26118328b7dd8a4f2fb1a84584f694084c3b239ece9e1254e0aad44e31663.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "41d26118328b7dd8a4f2fb1a84584f694084c3b239ece9e1254e0aad44e31663"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_1018af8d6b5c4a22bbd6ce167f0c0ce0",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>static friction force «between blocks» AND directed to the right ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>F = 60a ✓ F<sub>f</sub> = 0.6 × 15 × 9.8 «= 88.2 N» ✓ <span class=\"math\" data-latex=\"88.2=15\\times \\frac{F}{60}⇒F=350\"></span> «N» ✓   Allow use of a = 0.6g leading to 353 N.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A block of mass 45 kg is placed on a horizontal table. There is no friction between the block and the table.</p>\n<p>An object of mass 15 kg is placed on top of the block.</p>\n<p>A force F acts on the block so that it accelerates. The acceleration of the object and the acceleration of the block are the same so that they do not move relative to each other.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The coefficient of static friction between the block and the object is 0.60.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the nature and direction of the force that accelerates the 15 kg object. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the largest magnitude of F for which the block and the object do not move relative to each other. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

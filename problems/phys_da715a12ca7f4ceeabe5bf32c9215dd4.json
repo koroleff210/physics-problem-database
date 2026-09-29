@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 8,
+  "id": "phys_da715a12ca7f4ceeabe5bf32c9215dd4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A water wave travels from deep to shallow water. Which of the following quantities remains unchanged across the boundary?</p><ol class=\"mcq-options\"><li data-label=\"A\">Wave speed</li><li data-label=\"B\">Frequency</li><li data-label=\"C\">Wavelength</li><li data-label=\"D\">Direction of propagation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

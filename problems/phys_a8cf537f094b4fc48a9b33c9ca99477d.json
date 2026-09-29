@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eb471ed9f234a07c49ac42064235c432966576d076706ffdcc69e899ba0eec0e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb471ed9f234a07c49ac42064235c432966576d076706ffdcc69e899ba0eec0e"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_a8cf537f094b4fc48a9b33c9ca99477d",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"V = \\frac{4}{3} π {( 3.5 \\times  {10}^{- 3} )}^{3} = 1.8 \\times  {10}^{- 7} \\, {m}^{3}\"></span> ✓ <br/>Must see full substitution   OR   answer to 2 (or more) significant figures</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"{F}_{b} = ρ V g = ( 1000 ) ( 1.8 \\times  {10}^{- 7} ) ( 9.8 ) = 0.00176\"></span> ✓ <span class=\"math\" data-latex=\"m=\\frac{W}{g}=\\frac{1.6\\times 10^{-3}}{9.8}=1.63\\times 10^{-4} kg\"></span> ✓ <span class=\"math\" data-latex=\"a=\\frac{∑F}{m}=\\frac{F_{b}-F_{g}}{m}=\\frac{1.6\\times 10^{-4} N}{1.63\\times 10^{-4} kg}=0.98 m s^{-2}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>As the speed of the droplet increases, the drag force increases ✓ net force changes/decreases ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>net force/acceleration becomes zero ✓ weight and drag force cancel out buoyancy force ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"F_{d}=6\\piηrv\"></span> ✓ <span class=\"math\" data-latex=\"v=\\frac{F_{b}-F_{g}}{6\\piηr}=\\frac{1.8\\times 10^{-3}-1.6\\times 10^{-3}}{6\\pi0.00110.0035}=2.2 m s^{-1}\"></span> ✓ <br/>Allow ECF from 1(a).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A spherical oil droplet is released from rest at the bottom of a column of water.</p>\n<p>The graph shows the variation with time t of the vertical velocity of the oil droplet.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The following data are available:<br/><br/></p>\n<p>radius of the oil droplet = 3.5 mm</p>\n<p>weight of the oil droplet = 1.6 × 10<sup>−3</sup> N</p>\n<p>density of the water = 1000 kg m<sup>−3</sup></p>\n<p>viscosity of the water = 1.1 × 10<sup>−3</sup> Pa s</p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the volume of the oil droplet is about 2 × 10<sup>–7</sup> m<sup>3</sup>. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the initial acceleration of the oil droplet. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Describe why the acceleration of the oil droplet changes. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Explain why the velocity of the oil droplet is constant for t &gt; 3 s. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Deduce the velocity of the oil droplet for t &gt; 3 s. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/30ec6777555e77bca52d47838ecb0b7a0be71ee433bfab23837b09edd1ad26d7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "30ec6777555e77bca52d47838ecb0b7a0be71ee433bfab23837b09edd1ad26d7"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ea4234b75a6c49318b44c575eb655278",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALT 1 4kq / r<sub>1</sub><sup>2</sup> = kq / r<sub>2</sub><sup>2</sup> used to give r<sub>1</sub> = 2 r<sub>2</sub>. ✓ Since r<sub>1</sub> = 2 r<sub>2</sub> therefore r<sub>1</sub> = 2/3 d. ✓ ALT 2 k·q/(d−x)<sup>2</sup>=k·4q/x<sup>2</sup> ✓ Rearrange to show x = 2/3d ✓</p>\n<p>A negative charge N is placed stationary at X.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>The charge will be attracted/net force towards q therefore it will accelerate to the right ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>The net force will be downwards so it will return towards the axis «and continue an oscillation around X» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two positive electric charges of magnitudes q and 4q are a distance d apart, along a line L.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>X is a point along L where the electric field E due to the charges is zero.</p>\n<p>Show that X is at a distance <span class=\"math\" data-latex=\"\\frac{2}{3}\"></span>d from the largest charge.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> </p><p>N is just displaced along L, closer to q, and released.</p>\n<p>Explain the subsequent motion of N.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>N is just displaced upwards, perpendicularly to L, and released.</p>\n<p>Explain the subsequent motion of N.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1284f7d531c1b9d2a41a4b93577aac58967b5e89bdf0cbc73b4e97ae458222d6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1284f7d531c1b9d2a41a4b93577aac58967b5e89bdf0cbc73b4e97ae458222d6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/01fd765c671c30f066818a490466184c13c9f502703dae9eb2dee9fb80abfca8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "01fd765c671c30f066818a490466184c13c9f502703dae9eb2dee9fb80abfca8"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e46f9979c194757aca906d8aa28bf4a",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Some of the nuclear energy levels of oxygen-14 (<sup>14</sup>O) and nitrogen-14 (<sup>14</sup>N) are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A nucleus of <sup>14</sup>O decays into a nucleus of <sup>14</sup>N with the emission of a positron and a gamma ray. What is the maximum energy of the positron and the energy of the gamma ray?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/31dad386c78626dce7594570c6bd71d1c871232af1b2660f638aee6f1fcbbbf7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "31dad386c78626dce7594570c6bd71d1c871232af1b2660f638aee6f1fcbbbf7"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_9bc6d830b6c94937a52474d2f64993af",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet is in an elliptical orbit around a star. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>P and Q are points along the planet’s orbit. </p>\n<p>Consider the following statements:</p>\n<p>I. The linear speed of the planet is less at Q than at P.</p>\n<p>II. The orbital period of the planet is proportional to the square of the distance between P and Q.</p>\n<p>III. The gravitational force exerted by the planet on the star is the greatest at P.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

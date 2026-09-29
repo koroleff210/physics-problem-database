@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/979755a4c9758bf3b58fa219175fb653c54211248c16aa78c56759ba41c763fd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "979755a4c9758bf3b58fa219175fb653c54211248c16aa78c56759ba41c763fd"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_a174f8c5ab034031a4ce876f963fc8bf",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a(i)\"><p><strong>a(i)</strong></p><p><span class=\"math\" data-latex=\"15\\times 30\\times 60=27000 J\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"a(ii)\"><p><strong>a(ii)</strong></p><p><span class=\"math\" data-latex=\"27\\times 10^{3}=0.32\\times c\\times 290-250\"></span> OR <span class=\"math\" data-latex=\"2100\"></span> ✓ <span class=\"math\" data-latex=\"J kg^{-1} K^{-1}\"></span> OR <span class=\"math\" data-latex=\"J \\, {k g}^{- 1} \\, {\\,}^{0} {C}^{- 1}\"></span> ✓ <br/>Allow any appropriate unit that is <span class=\"math\" data-latex=\"\\frac{energy}{mass\\times termperature}\"></span></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>«intermolecular» bonds are formed during freezing ✓</p>\n<p><br/>bond-forming process releases energy<br/>OR<br/>«intermolecular» PE decreases «and the difference is transferred as heat» ✓</p>\n<p><br/>«average random» KE of the molecules does not decrease/change ✓</p>\n<p><br/>temperature is related to «average» KE of the molecules «hence unchanged» ✓</p>\n<p>To award MP3 or MP4 molecules/particles/atoms must be mentioned.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>mass of frozen oil <span class=\"math\" data-latex=\"=\\frac{27\\times 10^{3}}{130\\times 10^{3}}=0.21 kg\"></span> ✓ unfrozen mass <span class=\"math\" data-latex=\"=0.32-0.21=0.11 kg\"></span> ✓</p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A sample of vegetable oil, initially in the liquid state, is placed in a freezer that transfers thermal energy from the sample at a constant rate. The graph shows how temperature <span class=\"math\" data-latex=\"T\"></span> of the sample varies with time <span class=\"math\" data-latex=\"t\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The following data are available.</p>\n<p>Mass of the sample <span class=\"math\" data-latex=\"=0.32 kg\"></span><br/>Specific latent heat of fusion of the oil <span class=\"math\" data-latex=\"=130 kJ kg^{-1}\"></span><br/>Rate of thermal energy transfer <span class=\"math\" data-latex=\"=15 W\"></span></p></section><section class=\"question-part\" data-label=\"a(i)\"><p><strong>a(i)</strong> Calculate the thermal energy transferred from the sample during the first <span class=\"math\" data-latex=\"30\"></span> minutes. [1]</p></section><section class=\"question-part\" data-label=\"a(ii)\"><p><strong>a(ii)</strong> Estimate the specific heat capacity of the oil in its liquid phase. State an appropriate unit for your answer. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The sample begins to freeze during the thermal energy transfer. Explain, in terms of the molecular model of matter, why the temperature of the sample remains constant during freezing. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the mass of the oil that remains unfrozen after <span class=\"math\" data-latex=\"60\"></span> minutes. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

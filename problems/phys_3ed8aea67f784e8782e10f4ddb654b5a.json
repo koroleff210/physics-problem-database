@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b27be68601e22618f2462fba541f3bf277b0c39a25220f5372d507a16ee771a9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b27be68601e22618f2462fba541f3bf277b0c39a25220f5372d507a16ee771a9"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/14be844c0d58887ffbbcad6b9b48d44483abb2dd966671d6aae4eaf833d61115.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "14be844c0d58887ffbbcad6b9b48d44483abb2dd966671d6aae4eaf833d61115"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_3ed8aea67f784e8782e10f4ddb654b5a",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>reads λ= 5.0x10<sup>−7</sup> «m» ✓ <span class=\"math\" data-latex=\"ϕ=\"></span>«<span class=\"math\" data-latex=\"h c /\\lambda=\"></span>»<span class=\"math\" data-latex=\"\\frac{1.24\\times 10^{-6}}{5\\times 10^{-7}}\"></span> OR 2.48 «eV» ✓   Must see full substitution or answer to 3 or more significant figures for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALT 1 «hf OR hc/λ= (1.24 × 10<sup>−6</sup>)/(4.0 × 10<sup>−7</sup>) = » 3.1 «V» ✓ «3.1 − 2.5 =» 0.6 «V» ✓   ALT 2 <span class=\"math\" data-latex=\"\\frac{6.63\\times 10^{-34}3\\times 10^{8}}{4\\times 10^{-7}}-4\\times 10^{-19}=9.73\\times 10^{-20}\"></span>«<span class=\"math\" data-latex=\"J\"></span>» ✓ «(9.73 × 10<sup>−20</sup>)/(1.6 × 10<sup>−19</sup>)» = 0.6 «V» ✓</p>\n<p>The laser is now replaced by a monochromatic laser of red light and variable intensity.</p>\n<p>Although the intensity of the laser is increased significantly, no current is read in the ammeter.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Particle nature suggests photons have energy related to frequency/wavelength ✓ Intensity does not change photon energy OR Intensity not related to E necessary to release electron. ✓ One photon of sufficient energy is necessary to release an electron OR photon must have sufficient energy to release electron. ✓ If light is a wave, higher intensity should provide energy with time to eject an electron. ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An electric circuit is used to investigate the photoelectric effect.</p>\n<p>A beam of light from a laser of variable wavelength λ and constant intensity <span class=\"math\" data-latex=\"I\"></span> is used to illuminate a curved metallic electrode E. Another electrode, C, is near E. Both electrodes are in vacuum. For each λ tuned in the laser, the voltage across CE is raised. The minimum voltage V<sub>s</sub> that shows no current in the ammeter is recorded.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation of V<sub>s</sub> with λ.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the work function of the metal used in C is about 2.5 eV. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate V<sub>s</sub> when <span class=\"math\" data-latex=\"\\lambda\"></span> is 4.0 × 10<sup>−7</sup> m. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain how this observation is consistent with the particle nature of light. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

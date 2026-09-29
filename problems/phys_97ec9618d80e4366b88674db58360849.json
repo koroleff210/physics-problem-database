@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/aebfbf74d81419b6c9086135aa03c23b05daeb9aa0347083ef50c25cfa6fa9b4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "aebfbf74d81419b6c9086135aa03c23b05daeb9aa0347083ef50c25cfa6fa9b4"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_97ec9618d80e4366b88674db58360849",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A balloon and a glass jar both contain particles of the same ideal gas and are connected as shown. The tap connecting the balloon and the glass jar between A and B is closed. The pressure and the temperature in both the balloon and the glass jar are <em>p </em>and <em>T </em>respectively. The initial volume of the balloon is 8<em>V</em> and the volume of the glass jar is 4<em>V</em>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When the tap is opened, the temperature of the gas particles does not change, while the pressure in both the balloon and the glass jar becomes 2<em>p</em>.</p>\n<p>What is the new volume of the balloon?</p>\n<p></p>\n<p><em></em></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><em>V</em></li>\n<li data-label=\"B\">2<em>V</em></li>\n<li data-label=\"C\">4<em>V</em></li>\n<li data-label=\"D\">16<em>V</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

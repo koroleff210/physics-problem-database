@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.3",
+    "B.4",
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_7be356a3e5ba4259868c5336a2ca7708",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>E = VIt = 220 × 2.0 × 30 = 13200 J;<br/>1.32 × 10^4 J OR 13.2 kJ</p>\n<p>Answer must be given to receive the mark.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Heating increases the average kinetic energy/speed of the gas particles; <br/>This leads to more frequent collisions with the container walls AND/OR a larger change in momentum per collision, increasing the average force and thus pressure;</p>\n<p>Award [1] for linking heat to particle KE/speed. Award [1] for linking speed to collision frequency or momentum change at wall.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>n = pV/RT = (101×10³ × 0.45) / (8.31 × 293) ≈ 18.7 mol;<br/>For constant volume, Q = ΔU = n <span class=\"math\" data-latex=\"C_{V}\"></span> ΔT, with <span class=\"math\" data-latex=\"C_{V}\"></span> = 3R/2 for a monatomic gas;<br/>ΔT = Q / (n × 1.5 × R) = 13200 / (18.66... × 1.5 × 8.31) ≈ 56.7 K;</p>\n<p>Award [1] for calculating n. Award [1] for using Q = n <span class=\"math\" data-latex=\"C_{V}\"></span> ΔT (or equivalent). Award [1] for correct final answer. The assumption of monatomic gas is implicit. Accept answers in the range 56-57 K due to rounding of n.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Initial temperature for expansion <span class=\"math\" data-latex=\"T_{i}\"></span> = 293 + 56.7 ≈ 349.7 K;<br/>For adiabatic expansion of monatomic gas (γ=5/3), <span class=\"math\" data-latex=\"T_{f}\"></span> = <span class=\"math\" data-latex=\"T_{i}\"></span> (<span class=\"math\" data-latex=\"V_{i}\"></span> / <span class=\"math\" data-latex=\"V_{f}\"></span>)^(γ-1) = 349.7 × (V / 2V)^(2/3) ≈ 220 K;</p>\n<p>Award [1] for identifying correct initial temperature and adiabatic relation. Award [1] for correct calculation and final answer. Accept <span class=\"math\" data-latex=\"T_{i}\"></span> from 349 K to 350 K. Final answer should be around 220 K.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>2.</strong> An ideal gas is held in a container. Thermal energy is transferred to it by a heater. The heater works at a voltage of 220 V and the current in the heater is 2.0 A. The gas is heated for 30 s at a constant volume.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate thermal energy transferred to the gas. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain in particle terms how pressure increases. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Given T=293 K, p=101 kPa, V=0.45 m^3, calculate the temperature increase. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Gas expands adiabatically to double its original volume. Assume monatomic; determine final temperature. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

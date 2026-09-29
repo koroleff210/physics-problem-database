@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/975db71cc4ba4c74f101fe0106c40f5bc21ef3eee9254beaca46664db17e4ea8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "975db71cc4ba4c74f101fe0106c40f5bc21ef3eee9254beaca46664db17e4ea8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/91f3d3ddfb4201e0eef8b4b2aa7998af612ba51de8c431c1264a2a37782501ab.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "91f3d3ddfb4201e0eef8b4b2aa7998af612ba51de8c431c1264a2a37782501ab"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a9a052c9d23045e49a00d6e9d70eeac1",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a\"><p><strong>8a</strong></p><p></p>\n<p>The sound wave travels down the tube and is reflected at the water surface.</p>\n<p>The reflected wave and the incident wave superpose and as a result, a standing wave is formed in the tube.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b\"><p><strong>8b</strong></p><p></p>\n<p>A quarter of a wavelength is drawn in the tube.</p>\n<p>There is a node at the water surface and an antinode at the open end of the tube.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p>In the final position where sound intensity is a maximum, <span class=\"math\" data-latex=\"90\"></span> % of the tube is immersed in water. </p>\n<p>This means that sound intensity is a maximum at the following immersion positions: <span class=\"math\" data-latex=\"30\"></span> %, <span class=\"math\" data-latex=\"50\"></span> %, <span class=\"math\" data-latex=\"70\"></span> %, <span class=\"math\" data-latex=\"90\"></span> %.</p>\n<p>The second position where sound intensity is maximum after the tube begins to move downwards is at a <span class=\"math\" data-latex=\"70\"></span> % immersion.</p>\n<p>At this position the length of the tube above the water is <span class=\"math\" data-latex=\"258\"></span> mm.</p>\n<p>At this position <span class=\"math\" data-latex=\"\\lambda = \\frac{(4)(0.258)}{3} \\approx 0.344\"></span> m</p>\n<p><span class=\"math\" data-latex=\"320 = 0.344f\"></span></p>\n<p><span class=\"math\" data-latex=\"f \\approx 930\"></span> Hz</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A vertical tube of length <span class=\"math\" data-latex=\"860\"></span> mm that is open at both ends is partially immersed in water. A sound source placed above the tube emits sound towards the tube. The diagram shows the position of the tube when <span class=\"math\" data-latex=\"30\"></span> % of the tube is immersed in water. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>At this position the intensity of the sound detected is a maximum, because a standing sound wave forms in the tube.</p>\n<p>a. Outline how a standing wave is formed in the tube.</p>\n<p>   [2]</p>\n<p>The tube is moved vertically downwards. A maximum sound intensity is detected three more times before the tube is fully immersed in water. The last position where a maximum sound intensity is detected as the tube is immersed is when <span class=\"math\" data-latex=\"86\"></span> mm of the tube is above the water surface.</p>\n<p>b. Sketch the standing wave in the tube at this position.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [1]</p>\n<p></p>\n<p>The speed of sound at the position of the tube is <span class=\"math\" data-latex=\"320\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. </p>\n<p>c. Find the frequency of the standing wave that is formed in the tube when a maximum sound intensity is detected for the second time after the tube begins to move downwards.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

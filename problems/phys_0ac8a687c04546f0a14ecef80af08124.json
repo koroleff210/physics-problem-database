@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0ac8a687c04546f0a14ecef80af08124",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The problem describes the photoelectric effect. Green light has a higher frequency (and thus higher energy per photon) than red light. According to the photoelectric effect equation, E_k_max = hf - Φ, a higher photon energy (hf) results in a higher maximum kinetic energy (E_k_max) for the emitted electrons. Since intensity is constant and green photons are more energetic, there must be fewer photons per second, leading to a lower rate of emission, ruling out D.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Red light incident on a metallic surface causes the emission of electrons from the surface. The red light is then replaced by green light of the same intensity. What change, if any, will be observed in the emitted electrons?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Less delay in emission of electrons</li>\n<li data-label=\"B\"> Higher maximum kinetic energy of the electrons</li>\n<li data-label=\"C\"> No change</li>\n<li data-label=\"D\"> Higher rate of emission of electrons</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

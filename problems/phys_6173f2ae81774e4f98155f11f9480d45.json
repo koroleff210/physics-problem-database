@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9d0251928359e08be353575ed8d1059ec24344ce05e367ff36daab6ffb402a7f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9d0251928359e08be353575ed8d1059ec24344ce05e367ff36daab6ffb402a7f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/832fe2726903a269dbb0d2f344c8f424adf4e45b7d4b6ba8f8b41404bdd151dd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "832fe2726903a269dbb0d2f344c8f424adf4e45b7d4b6ba8f8b41404bdd151dd"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_6173f2ae81774e4f98155f11f9480d45",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on two parallel slits of width <span class=\"math\" data-latex=\"b\"></span> that are separated by distance <span class=\"math\" data-latex=\"d\"></span>.</p>\n<p>The graph of intensity against diffraction angle is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are <span class=\"math\" data-latex=\"\\frac{\\lambda}{d}\"></span> and <span class=\"math\" data-latex=\"\\frac{\\lambda}{b}\"></span>?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

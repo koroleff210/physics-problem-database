@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a30fa51699934460aa23c551d4d9f3c8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass <em>m</em> is launched on a horizontal table by compressing and releasing a spring. Air friction and friction between the block and the table are negligible. When the spring is compressed through a distance <em>d</em>, the kinetic energy of the mass is <em>E</em>.   Through what distance should the spring be compressed in order for a block of mass 4<em>m </em>to have kinetic energy <em>E</em>?</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{d}{2}\"></span></li>\n<li data-label=\"B\"><em>d</em></li>\n<li data-label=\"C\">2<em>d</em></li>\n<li data-label=\"D\">4<em>d</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

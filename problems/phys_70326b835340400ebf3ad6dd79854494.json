@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/13ab15279ed62ecd16ef3993a31506202990b7120a5a8c77b1a35e3feb04fbdc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "13ab15279ed62ecd16ef3993a31506202990b7120a5a8c77b1a35e3feb04fbdc"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_70326b835340400ebf3ad6dd79854494",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the angular acceleration α of a flywheel varies with torque <span class=\"math\" data-latex=\"τ\"></span> applied to the flywheel.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the moment of inertia of the flywheel?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.20 kg m<sup>2</sup></li><li data-label=\"B\">5.0 kg m<sup>2</sup></li><li data-label=\"C\">40 kg m<sup>2</sup></li><li data-label=\"D\">80 kg m<sup>2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

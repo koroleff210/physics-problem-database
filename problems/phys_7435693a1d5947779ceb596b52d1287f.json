@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_7435693a1d5947779ceb596b52d1287f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Why are high voltages and low currents used when electricity is transmitted over long distances?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Cables can be closer to the ground.</li><li data-label=\"B\">Electrons have a greater drift speed.</li><li data-label=\"C\">Energy losses are reduced.</li><li data-label=\"D\">Resistance of the power lines is reduced.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

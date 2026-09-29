@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_20f64197142f4fa19c4765441b4fd30a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The energy of an oscillating system dissipates at the fastest rate when the system is</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">heavily damped.</li>\n<li data-label=\"B\">critically damped.</li>\n<li data-label=\"C\">lightly damped.</li>\n<li data-label=\"D\">not damped.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d230f468ea224b4f91aa96668c12795e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Nucleus P and nucleus Q undergo nuclear fusion to create nucleus R. The nuclear binding energy per nucleon for P is <span class=\"math\" data-latex=\"B_{\\textup{P}}\"></span> and for R is <span class=\"math\" data-latex=\"B_{\\textup{R}}\"></span>. </p>\n<p>What is true about the relationship between <span class=\"math\" data-latex=\"B_{\\textup{P}}\"></span> and <span class=\"math\" data-latex=\"B_{\\textup{R}}\"></span> and about fusion in the core of main sequence stars?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td><strong>Relationship between <span class=\"math\" data-latex=\"B_{\\textup{P}}\"></span> and <span class=\"math\" data-latex=\"B_{\\textup{R}}\"></span></strong></td>\n<td><strong>Fusion in the core of main sequence stars</strong></td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"B_{\\textup{P}} &gt; B_{\\textup{R}}\"></span></td>\n<td>hydrogen fuses into helium</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"B_{\\textup{P}} &lt; B_{\\textup{R}}\"></span></td>\n<td>hydrogen fuses into helium</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"B_{\\textup{P}} &gt; B_{\\textup{R}}\"></span></td>\n<td>helium fuses into larger elements</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"B_{\\textup{P}} &lt; B_{\\textup{R}}\"></span></td>\n<td>helium fuses into larger elements</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

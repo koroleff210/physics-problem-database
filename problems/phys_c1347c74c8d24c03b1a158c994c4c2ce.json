@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c1347c74c8d24c03b1a158c994c4c2ce",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small object of mass <span class=\"math\" data-latex=\"0.20\\text{ kg}\"></span> is attached to a string and rotates in a horizontal circle of radius <span class=\"math\" data-latex=\"0.80\\text{ m}\"></span> on a frictionless surface. The string will break if the tension in it exceeds <span class=\"math\" data-latex=\"16\\text{ N}\"></span>. What is the maximum speed at which the object can rotate before the string breaks?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"8.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"10\\text{ m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

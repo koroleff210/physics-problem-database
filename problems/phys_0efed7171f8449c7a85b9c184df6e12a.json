@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_0efed7171f8449c7a85b9c184df6e12a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When an electron in an atom transitions from a higher energy level to a lower energy level, which of the following occurs?</p><ol class=\"mcq-options\"><li data-label=\"A\">A photon is absorbed</li><li data-label=\"B\">A photon is emitted</li><li data-label=\"C\">The atom becomes ionized</li><li data-label=\"D\">The electron is ejected from the atom</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

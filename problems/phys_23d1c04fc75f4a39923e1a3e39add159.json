@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_23d1c04fc75f4a39923e1a3e39add159",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solid metallic sphere is positively charged and isolated from all other charges.</p>\n<p>The electric potential due to the sphere</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">is constant inside the sphere.</li><li data-label=\"B\">is constant outside the sphere.</li><li data-label=\"C\">is smallest at the surface of the sphere.</li><li data-label=\"D\">increases with distance from the sphere.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fc1c32bc70d07e12678bb73d022ba64ebc2fa370765e806bc575da979d594718.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fc1c32bc70d07e12678bb73d022ba64ebc2fa370765e806bc575da979d594718"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_300deb30dcf64052adf2f32ae8a8e27d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows some of the energy levels of an atom.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>How many different wavelengths are there in the absorption spectrum of the atom?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">4</li>\n<li data-label=\"B\">5</li>\n<li data-label=\"C\">10</li>\n<li data-label=\"D\">16</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

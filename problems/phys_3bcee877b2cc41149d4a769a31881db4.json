@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_3bcee877b2cc41149d4a769a31881db4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes an emission spectrum?</p><ol class=\"mcq-options\"><li data-label=\"A\">A continuous spectrum with all wavelengths present</li><li data-label=\"B\">A series of dark lines on a continuous background</li><li data-label=\"C\">A series of bright lines on a dark background</li><li data-label=\"D\">A spectrum with only infrared wavelengths</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

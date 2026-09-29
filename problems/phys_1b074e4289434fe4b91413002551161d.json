@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_1b074e4289434fe4b91413002551161d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What does a stellar parallax measurement allow astronomers to calculate?</p><ol class=\"mcq-options\"><li data-label=\"A\">A star's mass</li><li data-label=\"B\">A star's luminosity</li><li data-label=\"C\">A star's distance from Earth</li><li data-label=\"D\">A star's surface temperature</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

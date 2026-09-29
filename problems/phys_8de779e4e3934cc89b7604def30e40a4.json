@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_8de779e4e3934cc89b7604def30e40a4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An asteroid falling towards a planet has a speed of 20.0 km s<sup>−1</sup> at point P.</p>\n<p>10 minutes later the asteroid is at point Q and its speed is 20.6 km s<sup>−1</sup> .</p>\n<p>What is the average gravitational field strength between P and Q?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.001 N kg<sup>−1</sup></li><li data-label=\"B\">0.006 N kg<sup>−1</sup></li><li data-label=\"C\">1 N kg<sup>−1</sup></li><li data-label=\"D\">6 N kg<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

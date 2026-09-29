@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/85ccc02b61e2381380acd49e1eec9f0f5b2e9ff52a4fda228c2a4434d7bca517.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "85ccc02b61e2381380acd49e1eec9f0f5b2e9ff52a4fda228c2a4434d7bca517"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_a345d4b5066e429b9b58518d242cb2d5",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Define current as the rate of flow of electric charge (<span class=\"math\" data-latex=\"I = \\frac{\\Delta Q}{\\Delta t}\"></span>) [1 mark]<br/>- Identify that the charge carriers in metallic conductors are free/conduction electrons [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State that the potential differences are equal because the components are connected in parallel [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate the parallel resistance for <span class=\"math\" data-latex=\"R_2\"></span> and <span class=\"math\" data-latex=\"R_3\"></span>: <span class=\"math\" data-latex=\"\\frac{1}{R_p} = \\frac{1}{6.0} + \\frac{1}{6.0} = \\frac{2}{6.0} \\implies R_p = 3.0\\ \\Omega\"></span> [1 mark]<br/>- Calculate the total resistance by adding <span class=\"math\" data-latex=\"R_1\"></span>: <span class=\"math\" data-latex=\"R_{total} = R_1 + R_p = 3.0 + 3.0 = 6.0\\ \\Omega\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate the total current in the circuit: <span class=\"math\" data-latex=\"I = \\frac{V}{R_{total}} = \\frac{12\\ \\mathrm{V}}{6.0\\ \\Omega} = 2.0\\ \\mathrm{A}\"></span> [1 mark]<br/>- Calculate the total charge using <span class=\"math\" data-latex=\"Q = I \\times t\"></span>: <span class=\"math\" data-latex=\"Q = 2.0\\ \\mathrm{A} \\times 120\\ \\mathrm{s} = 240\\ \\mathrm{C}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram below shows a circuit containing a <span class=\"math\" data-latex=\"12\\ \\mathrm{V}\"></span> DC power supply and three resistors: <span class=\"math\" data-latex=\"R_1\"></span>, <span class=\"math\" data-latex=\"R_2\"></span>, and <span class=\"math\" data-latex=\"R_3\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>In terms of charge flow, define electric current and state the charge carrier responsible for conducting current in metallic resistors.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State how the potential difference across resistor <span class=\"math\" data-latex=\"R_2\"></span> compares to the potential difference across resistor <span class=\"math\" data-latex=\"R_3\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the total equivalent resistance of the entire circuit network.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the total charge that passes through the battery if the circuit remains closed for a period of <span class=\"math\" data-latex=\"120\"></span> seconds.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

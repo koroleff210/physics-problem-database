@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eb1dd239926ef917bc60ce209ac3851ad094891b347fe59ac10365bbfc10d8b5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb1dd239926ef917bc60ce209ac3851ad094891b347fe59ac10365bbfc10d8b5"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/130de50fc309e38c5170c63c5a9bd3435f5ca8ca80b4795e862d73a4f72ad7a5.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "130de50fc309e38c5170c63c5a9bd3435f5ca8ca80b4795e862d73a4f72ad7a5"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/61f2b75e8cc9fe4068a09f913878cec7efaf4644c2562899abc519a447e91ad1.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "61f2b75e8cc9fe4068a09f913878cec7efaf4644c2562899abc519a447e91ad1"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.3",
+    "B.5",
+    "C.2",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_0801e101b4ae438bb225c4f0d4bdbb22",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"16a\"><p><strong>16a</strong></p><p></p>\n<p>The frequency of red light is lower than the frequency of blue light, so based on the equation <span class=\"math\" data-latex=\"E = hf\"></span> photons in the blue light beam carry more energy than the photons in the red light beam.</p>\n<p>The experiment shows that when the energy of the photons in the light beam is increased, one photoelectron is emitted per incident photon, which is evidence for the particle nature of light. </p>\n<p>The energy of an electromagnetic wave is independent of the frequency of the wave, so based on the wave theory of light, no change should occur when blue light is used instead of red light.</p>\n<p>OR</p>\n<p>Based on the wave theory for light, electrons would not be emitted instantaneously, because energy would have to be built up in order for electron emission to happen.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16b\"><p><strong>16b</strong></p><p></p>\n<p>The graph shows that charge begins to flow in the circuit when the magnitude of the potential difference between the metal surface and the collecting plate is <span class=\"math\" data-latex=\"2.3\"></span> V. </p>\n<p>This means that the maximum kinetic energy of the emitted photoelectrons is <span class=\"math\" data-latex=\"2.3\"></span> eV.</p>\n<p>Substituting into the equation <span class=\"math\" data-latex=\"E = hf - \\Phi\"></span> and rearranging:</p>\n<p><span class=\"math\" data-latex=\"2.57 = hf\"></span></p>\n<p>Substituting further, converting <span class=\"math\" data-latex=\"2.57\"></span> eV into joules and rearranging:</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{(2.57)(1.6 \\times 10^{-19})}{(6.63 \\times 10^{-34})} \\approx 6.20 \\times 10^{14}\"></span> Hz</p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{c}{f} = \\frac{3 \\times 10^{8}}{6.20 \\times 10^{14}} \\approx 4.84 \\times 10^{-7}\"></span> m or <span class=\"math\" data-latex=\"484\"></span> nm</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16c\"><p><strong>16c</strong></p><p></p>\n<p>Calculating the kinetic energy of the photoelectrons just before they reach the collecting plate:</p>\n<p><span class=\"math\" data-latex=\"E_{K} = \\frac{1}{2}(9.11 \\times 10^{-31})(1460 \\times 10^{3})^{2} \\approx 9.71 \\times 10^{-19}\"></span> J <span class=\"math\" data-latex=\"\\approx 6.07\"></span> eV</p>\n<p><span class=\"math\" data-latex=\"V_{p} = 6.07 - 2.3 \\approx 3.8\"></span> V</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16d\"><p><strong>16d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment to demonstrate the photoelectric effect, a student first uses red monochromatic light and then blue monochromatic light. The student observes that when she shines red light on a metal surface, no electrons are emitted from the surface; however when she shines blue light on the same metal surface, photoelectrons are emitted instantaneously. </p>\n<p>a. Explain how these observations provide evidence for the particle nature of light, but not for the wave nature of light.</p>\n<p>   [3]</p>\n<p>The student builds a circuit using the metal surface from her previous experiment.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>She shines blue light on the metal surface and measures the current in the circuit for different potential difference values between the surface and the collecting plate. The data is shown on the graph.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>The work function of the metal surface is <span class=\"math\" data-latex=\"0.27\"></span> eV.</p>\n<p>b. Determine the wavelength of the incident light. </p>\n<p>  [3]</p>\n<p>The potential difference between the metal surface and the collecting plate is adjusted to <span class=\"math\" data-latex=\"V_{p}\"></span>. After this change, the speed of the photoelectrons just before they reach the collecting plate is <span class=\"math\" data-latex=\"1460\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>c. Determine <span class=\"math\" data-latex=\"V_{p}\"></span></p>\n<p>   [2]</p>\n<p>The student decreases the intensity of the incident light without changing its frequency. </p>\n<p>d. Sketch, on the diagram above, how the current in the circuit varies with the potential difference between the metal surface and the collecting plate after this change.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/62b8d4a5220d8d5fda4e56bb8d9e0ef5686165f5ead4da17a3028af94efc35d6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "62b8d4a5220d8d5fda4e56bb8d9e0ef5686165f5ead4da17a3028af94efc35d6"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_42bf014ac83340e59be8ea9e7c6372f5",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A graph of the variation with nucleon number A of the binding energy per nucleon is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the approximate total energy, in MeV, needed to completely separate the nucleons of a <sup>180</sup><sub>72</sub>Hf nucleus?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">580</li><li data-label=\"B\">620</li><li data-label=\"C\">1440</li><li data-label=\"D\">2020</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

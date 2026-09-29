@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ddcf481a1853735fc2773bd42b2b470e04656f6973a6e318c3b64947e5d8e2a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ddcf481a1853735fc2773bd42b2b470e04656f6973a6e318c3b64947e5d8e2a"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f048f8ae5c3c4e2abab1e602bd43d75b",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron with speed <span class=\"math\" data-latex=\"v\"></span> enters the region between two charged parallel plates midway between the plates, as shown. The potential difference between the plates is <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the speed of the electron on impact with the plate?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{v^{2}+\\frac{eV}{2m_{e}} }\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{v^{2}+\\frac{eV}{2m_{e}}^{2} }\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{v^{2}+\\frac{eV}{m_{e}} }\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{v^{2}+\\frac{eV}{m_{e}}^{2} }\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

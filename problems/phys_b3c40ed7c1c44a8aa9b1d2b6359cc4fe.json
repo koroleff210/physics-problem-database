@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b3c40ed7c1c44a8aa9b1d2b6359cc4fe",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A photon of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> scatters off an electron at rest. The scattered photon has wavelength <span class=\"math\" data-latex=\"\\lambda'\"></span>.</p>\n<p>What is the fraction of the incident photon energy that gets transferred to the electron?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\lambda}{\\lambda'}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\lambda'}{\\lambda}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\lambda'-\\lambda}{\\lambda}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{\\lambda'-\\lambda}{\\lambda'}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

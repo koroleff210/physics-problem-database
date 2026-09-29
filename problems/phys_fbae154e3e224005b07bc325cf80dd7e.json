@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/23d1648e828c83e1f4bf85875851bf44ed784cd169cef0c71e25167d5d4f1e68.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "23d1648e828c83e1f4bf85875851bf44ed784cd169cef0c71e25167d5d4f1e68"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fbae154e3e224005b07bc325cf80dd7e",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A person stands in an elevator (lift). The total mass of the person and the elevator is 800 kg. The elevator accelerates upward at 2.0 m s<sup>−2</sup>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the tension in the cable?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.6 kN</li><li data-label=\"B\">6.4 kN</li><li data-label=\"C\">8.0 kN</li><li data-label=\"D\">9.6 kN</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

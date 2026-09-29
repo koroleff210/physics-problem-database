@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/11249d3d359e857336c4b803139d135977a2dd7b35ae023260b42d88eee524da.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11249d3d359e857336c4b803139d135977a2dd7b35ae023260b42d88eee524da"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2cc294ce15d542e0a065d16b498298b9",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"2m\"></span> moving at velocity <span class=\"math\" data-latex=\"3v\"></span> collides with a stationary object of mass <span class=\"math\" data-latex=\"4m\"></span>. The objects stick together after the collision. What is the final speed and the change in total kinetic energy immediately after the collision?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_679cb63d96b84b81aaad87d7f0d7d63d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which component is responsible for slowing down neutrons in a nuclear reactor to increase the likelihood of nuclear fission?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Moderator</li><li data-label=\"B\">Control rods</li><li data-label=\"C\">Fuel rods</li><li data-label=\"D\">Heat exchanger</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

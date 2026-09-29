@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_12e685ccad054f0e913d0277ca19b7f0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic electromagnetic radiation is incident on a metal surface. Three observations about the electrons emitted from the surface are:</p>\n<p>I.    The maximum energy of the electrons does not depend on radiation intensity.</p>\n<p>II.   The number of electrons emitted in a unit time increases with radiation intensity.</p>\n<p>III.  No electrons are emitted when the frequency of radiation is less than a threshold value.</p>\n<p>Which observations are inconsistent with the wave model of electromagnetic radiation?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

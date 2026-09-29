@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/65e0cd3c1386c0f4b1da950721a0b870af9c7e4ed9c154444dbca690d3f4b958.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "65e0cd3c1386c0f4b1da950721a0b870af9c7e4ed9c154444dbca690d3f4b958"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/d1b835ca3b0416a29ef4bbc6244173d2bed4208de590d642e0b24df79fe086b8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d1b835ca3b0416a29ef4bbc6244173d2bed4208de590d642e0b24df79fe086b8"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/781116bce26fac05fae9a9d3f9b54027e9b843751808d0c13400e40e1fb28b9a.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "781116bce26fac05fae9a9d3f9b54027e9b843751808d0c13400e40e1fb28b9a"
+    }
+  ],
+  "classes": [
+    "B.2",
+    "C.2",
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_be9a87cc059f4645ac8c0e25cfbc7ed1",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>sound waves are longitudinal OR light waves are transverse ✓ sound waves cannot travel through vacuum OR light waves travel can travel through vacuum ✓ sound waves are propagated due to pressure changes OR light waves are propagated due to electric or magnetic field changes ✓ speed of sound not the same between inertial reference frames OR speed of light same in all inertial reference frames ✓ Speed of sound is «generally» slower OR speed of light is «generally» faster. ✓</p>\n<p>Graph 1 shows the variation of particle displacement d with position <span class=\"math\" data-latex=\"x\"></span> for a travelling sound wave.</p>\n<p>Graph 1</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Graph 2 shows the variation of particle displacement d with time t for the same travelling sound wave.</p>\n<p>Graph 2</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Wavelength = 0.68 «m» ✓ Period = 0.002 «s» ✓   Accept 0.67 − 0.70 m for wavelength.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>v = «λ/T = 0.68 / 0.002 = » 340 «m s<sup>−1</sup>» ✓   Allow ECF from 4bi Allow v = 335 – 350 m s<sup>−1</sup></p>\n<p>The Doppler effect applies to both sound and light waves.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>«apparent» change in the frequency/wavelength/pitch ✓ caused by a compression/stretching of wavefronts «due to relative motion» OR meets wavefronts more of less frequently ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"440⋅\\frac{340+v}{340}=540⋅\\frac{340-v}{340}\"></span> ✓ so v = 34.7 «m s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{v}{c}=\\frac{\\Delta\\lambda}{\\lambda}=\\frac{659\\times 10^{-9}-656.1\\times 10^{-9}}{656.1\\times 10^{-9}}\"></span>✓ v = 1.33 × 10<sup>6</sup> «m s<sup>−1</sup>» OR 0.00442 c ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Identify two differences between sound waves in air and light waves. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the wavelength and the period of the sound wave. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the speed of the sound wave. [1]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Explain the Doppler effect. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>A car is moving at constant velocity v between two sources of sound as shown in the diagram. The sources emit sound at 440 Hz and at 540 Hz. The driver hears both sounds at the same frequency. The speed of sound is 340 m s<sup>−1</sup>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Determine v.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> </p><p>The spectrum of light received from a galaxy shows a peak at a wavelength of 659.0 nm. The peak corresponds to an atomic transition in the hydrogen atom that emits a wavelength of 656.1 nm when observed in a laboratory on Earth.</p>\n<p>Calculate the velocity of the galaxy with respect to Earth.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

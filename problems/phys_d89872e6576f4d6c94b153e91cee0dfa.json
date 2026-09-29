@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2eba2c7823525a086781a427a9b83e0949e3c4bb0b5c93abd4188ee63130bb23.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2eba2c7823525a086781a427a9b83e0949e3c4bb0b5c93abd4188ee63130bb23"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_d89872e6576f4d6c94b153e91cee0dfa",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>Horizontal component of the velocity: <span class=\"math\" data-latex=\"25 \\times cos(19^{\\circ}) \\approx 23.6\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"D = (23.6)(0.68) \\approx 16\"></span> m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p>Initial vertical component of velocity: <span class=\"math\" data-latex=\"25 \\times sin(19^{\\circ}) \\approx 8.14\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"s = (8.14)(0.68) + \\frac{1}{2}(-9.81)(0.68)^{2} \\approx 3.27\"></span> m</p>\n<p><span class=\"math\" data-latex=\"3.27 &gt; 2.44\"></span>, so the ball goes over the goal.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"0 = 8.14 + (-9.81)t\"></span></p>\n<p><span class=\"math\" data-latex=\"t = \\frac{8.14}{9.81} \\approx 0.83\"></span> s</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A ball is kicked with an initial speed of <span class=\"math\" data-latex=\"25\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> at an angle of <span class=\"math\" data-latex=\"19^{\\circ}\"></span> to the horizontal. A football goal is located at a horizontal distance of <span class=\"math\" data-latex=\"D\"></span> from the initial position of the ball. The height of the goal is <span class=\"math\" data-latex=\"2.44\"></span> m. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>It takes the ball <span class=\"math\" data-latex=\"0.68\"></span> s to reach the goal. </p>\n<p>a. Find <span class=\"math\" data-latex=\"D\"></span>.</p>\n<p>  [2]</p>\n<p>b. Show that the ball goes over the goal.</p>\n<p>  [3]</p>\n<p>c. Find the time it takes the ball to reach the highest point of its motion.</p>\n<p>   [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

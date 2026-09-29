@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_fbd6c5f574b74acd854cecb1776cd76c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In two dimensions, electric field lines and equipotentials:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">are parallel. </li>\n<li data-label=\"B\">are equidistant.</li>\n<li data-label=\"C\">are perpendicular.</li>\n<li data-label=\"D\">do not intersect.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

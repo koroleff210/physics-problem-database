@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_2e97673ec951485da11e7cc6143861b3",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"E = mc^2\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Mass decreases.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Mass defect is converted into energy.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Electrostatic / Coulomb repulsion.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Fusion in stars converts mass to energy.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the equation that relates mass and energy. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State what happens to mass during fusion. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State one reason why fusion produces energy. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Identify the fundamental force that must be overcome for fusion to occur. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

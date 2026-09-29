@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f109235520fb4a25a935edc513b38c0a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A projectile is launched with an initial kinetic energy <span class=\"math\" data-latex=\"E\"></span>. The initial horizontal and vertical components of velocity are equal. Air resistance is negligible. What is the kinetic energy of the projectile at the highest point of the motion?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">zero</li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{E}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{E}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"E\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

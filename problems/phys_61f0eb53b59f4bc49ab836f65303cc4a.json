@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_61f0eb53b59f4bc49ab836f65303cc4a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ice skater extends his arms horizontally to the sides and as a result, his angular velocity about the vertical axis of rotation changes from <span class=\"math\" data-latex=\"\\omega\"></span> to <span class=\"math\" data-latex=\"\\frac{\\omega}{3}\"></span>. The rotational kinetic energy of the ice skater before extending his arms to the sides is <span class=\"math\" data-latex=\"E\"></span>. </p>\n<p>Given that no external torques act on the ice skater, what is the change in the rotational kinetic energy of the ice skater as a result of  extending his arms to the sides?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{E}{9}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{8E}{9}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{E}{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2E}{3}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

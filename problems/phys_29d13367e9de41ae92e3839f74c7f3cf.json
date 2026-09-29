@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source markscheme diagram 1",
+      "file": "assets/bc47c657675045266ec34dd99b2e7842b4e0bce68a94ca7036df7bc97864f5af.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "bc47c657675045266ec34dd99b2e7842b4e0bce68a94ca7036df7bc97864f5af"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_29d13367e9de41ae92e3839f74c7f3cf",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The sound waves produced by the tuning fork travel down the tube and reflect at the water surface [1 mark]<br/>- The incident and reflected waves overlap and interfere (superpose), creating a standing wave pattern with stationary nodes and antinodes [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- There must be a displacement node at the water surface [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Recognize that the distance between the first and second resonance positions corresponds to half a wavelength: <span class=\"math\" data-latex=\"\\dfrac{\\lambda}{2} = L_2 - L_1\"></span> [1 mark]<br/>- Calculate <span class=\"math\" data-latex=\"\\lambda = 2 \\times (0.510 - 0.170) = 0.680\\ \\text{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- First resonance: Sketch showing a node at the water surface and an antinode at the open end [1 mark]<br/>- Second resonance: Sketch showing a node at the water surface, one intermediate node/antinode pair, and an antinode at the open end [1 mark]</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Calculate speed <span class=\"math\" data-latex=\"v = f\\lambda = 500 \\times 0.680 = 340\\ \\text{m/s}\"></span> [1 mark]<br/>- Explain that the antinode does not occur exactly at the physical end of the tube (end correction) [1 mark]<br/>- State that subtracting <span class=\"math\" data-latex=\"L_1\"></span> from <span class=\"math\" data-latex=\"L_2\"></span> cancels out the end correction constant, eliminating systematic error [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a resonance tube experiment, a tuning fork with a fixed frequency <span class=\"math\" data-latex=\"f = 500\\ \\text{Hz}\"></span> is held above a vertical glass tube. The tube is slowly filled with water, and the lengths of the air column at which resonance occurs are measured. The first resonance is observed when the air column has a length <span class=\"math\" data-latex=\"L_1 = 17.0\\ \\text{cm}\"></span>, and the second resonance is observed at <span class=\"math\" data-latex=\"L_2 = 51.0\\ \\text{cm}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Describe how the interaction of sound waves within the air column leads to the formation of a standing wave. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the boundary condition that must be met at the water surface for the air column to resonate. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the wavelength of the sound waves produced by the tuning fork. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Sketch the displacement standing wave patterns for the air column at the first and second resonant lengths. Label the nodes and antinodes. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Determine the speed of sound in air from these measurements and explain why using the difference <span class=\"math\" data-latex=\"(L_2 - L_1)\"></span> is typically more accurate than using <span class=\"math\" data-latex=\"4 \\times L_1\"></span> to find the wavelength. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

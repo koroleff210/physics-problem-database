@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_f78f8e89ad614a0aa5a950819854a205",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following statements about a body thrown vertically upwards (no air resistance) is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">Its velocity is zero and acceleration is zero at the top.</li><li data-label=\"B\">Its velocity is zero and acceleration is decreasing at the top.</li><li data-label=\"C\">Its velocity is zero and acceleration is directed upward at the top.</li><li data-label=\"D\">Its velocity is zero and acceleration is directed downward at the top.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

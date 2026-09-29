@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_95cba9f387d24b82a59d969d3aeadd5a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the best estimate for the kinetic energy of a proton after it has been accelerated through a potential difference of <span class=\"math\" data-latex=\"4.0\"></span> GV from rest?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.64\"></span> nJ</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6.4\"></span> nJ</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"64\"></span> nJ</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"640\"></span> nJ</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

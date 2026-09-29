@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/365494887a7d2a74b3ab5fe86aac047758fce6e6d19b1bbbd56b9a733438ad58.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "365494887a7d2a74b3ab5fe86aac047758fce6e6d19b1bbbd56b9a733438ad58"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_a207e2f6721f4e2d8779c0c063a0159d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass of 2.0 kg of water is cooling down in a sealed container. At time <em>t</em><span class=\"math\" data-latex=\"_{1}\"></span> the temperature is 273 K. At time <em>t</em><span class=\"math\" data-latex=\"_{2}\"></span>, there is 0.5 kg of water in the container. </p>\n<p>Which graph shows how the temperature <em>T</em> inside the container varies with time <em>t</em>?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

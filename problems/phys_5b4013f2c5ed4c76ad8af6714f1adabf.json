@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1d7b717fb80cc98d216f822b80eb16ac692f5d62c7352ecc78a626ca4022c9d2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1d7b717fb80cc98d216f822b80eb16ac692f5d62c7352ecc78a626ca4022c9d2"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_5b4013f2c5ed4c76ad8af6714f1adabf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows how a rectangular coil moves through a magnetic field. The direction of the field is into the page. A current is induced in the coil as it enters and leaves the field. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the electron flow between point S and point T as the coil is entering and leaving the field?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction of electron flow as the coil is entering the field</strong></p>\n</td>\n<td>\n<p><strong>Direction of electron flow as the coil is leaving the field</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Upwards</td>\n<td>Downwards</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Downwards</td>\n<td>Downwards</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Upwards</td>\n<td>Upwards</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Downwards</td>\n<td>Upwards</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

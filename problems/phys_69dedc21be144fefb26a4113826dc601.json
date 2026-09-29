@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_69dedc21be144fefb26a4113826dc601",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is established on a string that is fixed at both ends. Which of the following is correct for all particles on the string located between two adjacent nodes?</p><ol class=\"mcq-options\"><li data-label=\"A\">They oscillate with the same amplitude.</li><li data-label=\"B\">They are in phase with one another.</li><li data-label=\"C\">They possess the same maximum kinetic energy.</li><li data-label=\"D\">They reach their maximum displacement at different times.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

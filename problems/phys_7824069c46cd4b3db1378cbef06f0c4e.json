@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_7824069c46cd4b3db1378cbef06f0c4e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes the cause of dark fringes in an interference pattern?</p><ol class=\"mcq-options\"><li data-label=\"A\">Light is absorbed by the slits</li><li data-label=\"B\">Two waves arrive exactly in phase</li><li data-label=\"C\">Two waves arrive exactly out of phase</li><li data-label=\"D\">The wave frequency becomes zero</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

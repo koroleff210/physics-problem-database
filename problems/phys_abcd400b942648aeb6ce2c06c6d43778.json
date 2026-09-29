@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_abcd400b942648aeb6ce2c06c6d43778",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A liquid is heated at a constant rate in an open container. The temperature of the liquid rises by 0.50 °C per second until it boils. In a period of 10 minutes after reaching boiling point, half the mass of the liquid has vaporized.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{specific heat capacity of the liquid}}{\\textit{specific latent heat of vaporization of the liquid}}\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{600}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{300}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{10}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{5}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_270c0c71416d4c9ab88a78efb911922a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An isotope of mass number <span class=\"math\" data-latex=\"A=1000\"></span> has a binding energy per nucleon of <span class=\"math\" data-latex=\"8.7\\ \\mathrm{MeV}\"></span>. What is the total energy released if <span class=\"math\" data-latex=\"0.010\\ \\mathrm{mol}\"></span> of this isotope is formed from separated nucleons?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"8.37 \\times 10^{24}\\ \\mathrm{MeV}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.24 \\times 10^{25}\\ \\mathrm{MeV}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"5.25 \\times 10^{23}\\ \\mathrm{MeV}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9.62 \\times 10^{22}\\ \\mathrm{MeV}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

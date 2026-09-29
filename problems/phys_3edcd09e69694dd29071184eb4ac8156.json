@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_3edcd09e69694dd29071184eb4ac8156",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What statement is not true about radioactive decay?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The percentage of radioactive nuclei of an isotope in a sample of that isotope after 7 half-lives is smaller than 1 %.</li><li data-label=\"B\">The half-life of a radioactive isotope is the time taken for half the nuclei in a sample of that isotope to decay.</li><li data-label=\"C\">The whole-life of a radioactive isotope is the time taken for all the nuclei in a sample of that isotope to decay.</li><li data-label=\"D\">The half-life of radioactive isotopes range between extremely short intervals to thousands of millions of years.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

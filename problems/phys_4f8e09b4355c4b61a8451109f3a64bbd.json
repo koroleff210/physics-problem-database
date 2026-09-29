@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_4f8e09b4355c4b61a8451109f3a64bbd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rocket travels a distance of 3 km in 10 s.</p>\n<p>What is the order of magnitude of <span class=\"math\" data-latex=\"\\frac{\\textit{the speed of the rocket}}{\\textit{the speed of light in a vacuum}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">−5</li><li data-label=\"B\">−6</li><li data-label=\"C\">−7</li><li data-label=\"D\">−8</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

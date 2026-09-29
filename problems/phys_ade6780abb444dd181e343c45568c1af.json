@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ade6780abb444dd181e343c45568c1af",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The reservoirs of a Carnot engine are maintained at temperatures of <span class=\"math\" data-latex=\"200\\:{}^{\\circ}\\textup{C}\"></span> and <span class=\"math\" data-latex=\"300\\:{}^{\\circ}\\textup{C}\"></span>, respectively.</p>\n<p>What is the best estimate for the efficiency of the engine?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.17\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.33\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.67\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.83\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

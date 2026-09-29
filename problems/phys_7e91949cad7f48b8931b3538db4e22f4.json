@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/69500f351c99088e757426c27caf7d1cdcdade8b09675bae7e92abd402dcf1da.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "69500f351c99088e757426c27caf7d1cdcdade8b09675bae7e92abd402dcf1da"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e91949cad7f48b8931b3538db4e22f4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>For the bar to be in rotational equilibrium, the net torque about the pivot must be zero. The counter-clockwise torque from F₃ (F₃×R) must balance the clockwise torque from F₂ (F₂×R), so F₃ = F₂. The force F₁ acts at the pivot and creates no torque. Assuming F₁ is a positive force as depicted, the inequality F₃ &lt; F₁ + F₂ is equivalent to F₂ &lt; F₁ + F₂, which simplifies to 0 &lt; F₁. This is true, making B the correct conclusion.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three forces, <span class=\"math\" data-latex=\"F_{1}\"></span>, <span class=\"math\" data-latex=\"F_{2}\"></span> and <span class=\"math\" data-latex=\"F_{3}\"></span>, are exerted on a uniform rigid bar. The forces on the diagram are not drawn to scale. R is the distance from the pivot point. The bar is in rotational equilibrium.</p>\n<p>What can be concluded from this?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"F_3 = F_1 + F_2\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"F_3 &lt; F_1 + F_2\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"F_3 &lt; F_1\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"F_3 &lt; F_2\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

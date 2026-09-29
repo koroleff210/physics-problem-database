@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 1,
+  "id": "phys_036709613ca047a98b468c89948b97c5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following equations is the rotational equivalent of Newton’s second law of motion for an object of constant mass?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\textup{force = mass} \\times \\textup{angular acceleration}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\textup{force = moment of inertia} \\times \\textup{angular acceleration}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\textup{torque = mass} \\times \\textup{angular acceleration}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\textup{torque = moment of inertia} \\times \\textup{angular acceleration}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

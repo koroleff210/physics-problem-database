@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_49ced08e2b3e49f9bc2f1026890a8283",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor operates at a potential difference of <span class=\"math\" data-latex=\"250\"></span> V. It takes the motor <span class=\"math\" data-latex=\"4.0\"></span> s to raise a box of mass <span class=\"math\" data-latex=\"20\"></span> kg through a vertical height of <span class=\"math\" data-latex=\"10\"></span> m. The efficiency of the motor is <span class=\"math\" data-latex=\"50\"></span> %. What is the current in the motor?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.0\"></span> A</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2.0\"></span> A</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4.0\"></span> A</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8.0\"></span> A</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

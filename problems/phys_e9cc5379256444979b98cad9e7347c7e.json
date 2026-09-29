@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_e9cc5379256444979b98cad9e7347c7e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two point masses <span class=\"math\" data-latex=\"4M\"></span> and <span class=\"math\" data-latex=\"M\"></span> are separated by a distance <span class=\"math\" data-latex=\"D\"></span>. Point P is a point on the line connecting the two masses where the resultant gravitational field strength is zero. What is the gravitational potential at P due to these two masses?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"-\\frac{5GM}{D}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"-\\frac{9GM}{D}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"-\\frac{10GM}{D}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"-\\frac{12GM}{D}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_22962b847f1947d79892cb020e1105e9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>Power is given by P = V²/R. Resistance is R = ρL/A. Since the material (ρ) and diameter (A) are the same, resistance is proportional to length (R ∝ L). Halving the length (L → L/2) halves the resistance (R → R/2). With the same potential difference V, the new power is P' = V²/(R/2) = 2(V²/R) = 2P. Thus, the power dissipated is 2 × 1000 W = 2000 W.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A potential difference across a wire of length L dissipates 1000 W. A second wire of the same material and diameter has length L/2. What is the power dissipated in the second wire with the same potential difference across it?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"250 W\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"500 W\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"2000 W\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"4000 W\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

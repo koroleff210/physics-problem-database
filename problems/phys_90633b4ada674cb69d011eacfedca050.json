@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_90633b4ada674cb69d011eacfedca050",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between two point charges, <span class=\"math\" data-latex=\"q_{1}\"></span> and <span class=\"math\" data-latex=\"q_{2}\"></span> is <span class=\"math\" data-latex=\"x\"></span>. Point P is located on the straight line connecting the two charges, at a distance <span class=\"math\" data-latex=\"a\"></span> from <span class=\"math\" data-latex=\"q_{1}\"></span>. The electric potential due to the charges is a minimum at point P. What is <span class=\"math\" data-latex=\"\\frac{q_{2}}{q_{1}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{(x-a)^{2}}{a^{2}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{a^{2}}{(x-a)^{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{x-a}{a}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{a}{x-a}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

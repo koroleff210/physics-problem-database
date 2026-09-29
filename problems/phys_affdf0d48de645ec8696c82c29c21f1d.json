@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5c16b5e84ddd27b63263c9c83ff61e67849b991701235179600b84fdc4549c5f.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5c16b5e84ddd27b63263c9c83ff61e67849b991701235179600b84fdc4549c5f"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_affdf0d48de645ec8696c82c29c21f1d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows two equipotential surfaces, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, in the gravitational field of a planet.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The gravitational potential at surface <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"-50 \\text{ MJ kg}^{-1}\"></span> and the gravitational potential at surface <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"-20 \\text{ MJ kg}^{-1}\"></span>. How much work is required to move a <span class=\"math\" data-latex=\"2.0 \\text{ kg}\"></span> mass from surface <span class=\"math\" data-latex=\"X\"></span> to surface <span class=\"math\" data-latex=\"Y\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"30 \\text{ MJ}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"60 \\text{ MJ}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"70 \\text{ MJ}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"140 \\text{ MJ}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

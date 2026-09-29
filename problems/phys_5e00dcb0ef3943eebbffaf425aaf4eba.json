@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_5e00dcb0ef3943eebbffaf425aaf4eba",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. <span class=\"math\" data-latex=\"\\frac{k_B}{R}=\\frac{1}{N_A}\"></span> so it corresponds to <span class=\"math\" data-latex=\"\\frac{n}{N}\"></span>, not <span class=\"math\" data-latex=\"\\frac{N}{n}\"></span>.</p>\n<p>B: Correct. From <span class=\"math\" data-latex=\"R=N_A k_B\"></span>, <span class=\"math\" data-latex=\"N_A=\\frac{R}{k_B}\"></span>. Also <span class=\"math\" data-latex=\"n=\\frac{N}{N_A}\"></span> so <span class=\"math\" data-latex=\"\\frac{N}{n}=N_A=\\frac{R}{k_B}\"></span>.</p>\n<p>C: Incorrect. This does not reduce to <span class=\"math\" data-latex=\"N_A\"></span>; it has dimensions and does not match <span class=\"math\" data-latex=\"\\frac{N}{n}\"></span>.</p>\n<p>D: Incorrect. This does not incorporate <span class=\"math\" data-latex=\"R\"></span> and does not reduce to <span class=\"math\" data-latex=\"N_A\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The universal gas constant is related to the Boltzmann constant by <span class=\"math\" data-latex=\"R = N_A k_B\"></span>, where <span class=\"math\" data-latex=\"N_A\"></span> is the Avogadro constant. If <span class=\"math\" data-latex=\"N\"></span> is the number of molecules and <span class=\"math\" data-latex=\"n\"></span> is the amount of substance in moles, what is <span class=\"math\" data-latex=\"\\frac{N}{n}\"></span> in terms of <span class=\"math\" data-latex=\"R\"></span> and <span class=\"math\" data-latex=\"k_B\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{k_B}{R}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{R}{k_B}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{R}{k_B^2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{k_B}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

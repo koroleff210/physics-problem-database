@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/184ff1cc10872465d4145397361990e955ad2654b88f0c9eda9afa36d4b8ea4a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "184ff1cc10872465d4145397361990e955ad2654b88f0c9eda9afa36d4b8ea4a"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_f421c04b11da4624b117884dfe2be282",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three identical resistors each of resistance R are connected with a variable resistor X as shown. X is initially set to R. The current in the cell is 0.60 A.</p>\n<p>The cell has negligible internal resistance.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>X is now set to zero. What is the current in the cell?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.45 A</li><li data-label=\"B\">0.60 A</li><li data-label=\"C\">0.90 A</li><li data-label=\"D\">1.80 A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

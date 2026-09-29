@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_231685ffc09049af91e5ffc51462c438",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star in a binary system shows periodic shifts between red and blue in its spectral lines. What does this indicate?</p><ol class=\"mcq-options\"><li data-label=\"A\">The star is moving closer and farther periodically</li><li data-label=\"B\">The star is increasing in temperature</li><li data-label=\"C\">The star is collapsing into a black hole</li><li data-label=\"D\">The star is emitting different types of radiation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

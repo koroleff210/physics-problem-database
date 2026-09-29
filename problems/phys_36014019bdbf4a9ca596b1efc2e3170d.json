@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_36014019bdbf4a9ca596b1efc2e3170d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"m\"></span> is accelerated from rest by a constant resultant force <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>The final velocity of the object is <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>What energy is transferred to the object during the acceleration? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Fv}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"Fv\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mv^{2}}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"mv^{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/400b790d3863016f804a246d6c913d7b88df4215d943a8ef281cf24bce66c27a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "400b790d3863016f804a246d6c913d7b88df4215d943a8ef281cf24bce66c27a"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_33d0aa5411a545d2a7c75747e9c6aae8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point mass enters a gravitational field with horizontal velocity. The gravitational equipotential surfaces are shown for the field. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following statements correctly describes the path of the point mass after it has entered the field?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">A line curving upwards.</li>\n<li data-label=\"B\">A line curving downwards.</li>\n<li data-label=\"C\">A horizontal straight line.</li>\n<li data-label=\"D\">A straight line at a non-zero angle to the horizontal.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

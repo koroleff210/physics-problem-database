@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_7fe8399eebf84759bd20885e778f28e5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a laboratory setup, monochromatic light of wavelength <span class=\"math\" data-latex=\"620\\ \\text{nm}\"></span> illuminates a single slit of unknown width. The diffraction pattern is projected onto a screen <span class=\"math\" data-latex=\"2.5\\ \\text{m}\"></span> away. The angular separation between the first minima on either side of the central maximum is measured to be <span class=\"math\" data-latex=\"1.00^\\circ\"></span>. What is the slit width?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.4 \\times 10^{-4} \\text{ m}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.6 \\times 10^{-4} \\text{ m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"7.1 \\times 10^{-5} \\text{ m}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8.9 \\times 10^{-5} \\text{ m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

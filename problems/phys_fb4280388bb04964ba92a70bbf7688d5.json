@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_fb4280388bb04964ba92a70bbf7688d5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which factor does not affect the rate of thermal energy transfer by conduction?</p><ol class=\"mcq-options\"><li data-label=\"A\">Thickness of the material</li><li data-label=\"B\">Temperature difference</li><li data-label=\"C\">Surface color</li><li data-label=\"D\">Thermal conductivity of the material</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_ac8a6e66071340edabc6918dfb8c7676",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Using <span class=\"math\" data-latex=\"U=\\tfrac12kx^2\"></span> but incorrectly taking <span class=\"math\" data-latex=\"E=U\"></span>. Correct method: <span class=\"math\" data-latex=\"k=m\\omega^2\"></span> and <span class=\"math\" data-latex=\"E=K+U=3U\"></span>.</p>\n<p>B: Using <span class=\"math\" data-latex=\"K=2U\"></span> but incorrectly taking <span class=\"math\" data-latex=\"E=K\"></span>. Correct method: <span class=\"math\" data-latex=\"E=K+U=3U\"></span>.</p>\n<p>C: <span class=\"math\" data-latex=\"k=m\\omega^2=0.20\\times 10^2=20\\ \\text{N m}^{-1}\"></span>. <span class=\"math\" data-latex=\"U=\\tfrac12kx^2=\\tfrac12\\times 20\\times (0.10)^2=0.10\\ \\text{J}\"></span>. Given <span class=\"math\" data-latex=\"K=2U\"></span>, total <span class=\"math\" data-latex=\"E=K+U=3U=0.30\\ \\text{J}\"></span>.</p>\n<p>D: Likely arithmetic error (e.g. misplacing a decimal when evaluating <span class=\"math\" data-latex=\"(0.10)^2\"></span> or multiplying by <span class=\"math\" data-latex=\"k\"></span>). Correct total energy is <span class=\"math\" data-latex=\"0.30\\ \\text{J}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.20\\ \\text{kg}\"></span> mass oscillates on a spring with angular frequency <span class=\"math\" data-latex=\"\\omega = 10\\ \\text{rad s}^{-1}\"></span>. At <span class=\"math\" data-latex=\"x = 0.10\\ \\text{m}\"></span>, the kinetic energy is twice the potential energy. What is the total energy of the system?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.10\\ \\text{J}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.20\\ \\text{J}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.30\\ \\text{J}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3.0\\ \\text{J}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

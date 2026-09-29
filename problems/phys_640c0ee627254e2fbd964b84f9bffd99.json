@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_640c0ee627254e2fbd964b84f9bffd99",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a(i)\"><p><strong>11a(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"_{0}^{1}\\textrm{n} + _{\\; \\, 92}^{235}\\textrm{U} \\: \\rightarrow \\:{}  _{Y}^{X}\\textrm{A} + _{36}^{92}\\textrm{Kr} + 3\\,{} _{0}^{1}\\textrm{n}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11a(ii)\"><p><strong>11a(ii)</strong></p><p></p>\n<p>The sum of the proton numbers on the left-hand side must be equal to the sum of the proton numbers on the right-hand side, so:</p>\n<p><span class=\"math\" data-latex=\"1 + 235 = X + 92 + 3 \\times 1\"></span></p>\n<p><span class=\"math\" data-latex=\"X = 141\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11a(iii)\"><p><strong>11a(iii)</strong></p><p></p>\n<p>The sum of the proton numbers on the left-hand side must be equal to the sum of the proton numbers on the right-hand side, so:</p>\n<p><span class=\"math\" data-latex=\"92 = Y + 36\"></span></p>\n<p><span class=\"math\" data-latex=\"Y = 56\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p></p>\n<p>Calculating the mass difference between the reactants and the products:</p>\n<p><span class=\"math\" data-latex=\"\\Delta m = (m_{U} + m_{n}) - (m_{A} + m_{Kr} + 3m_{n})\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta m = (235.0439 + 1.0087) - (140.9144 + 91.9262 + 3 \\times 1.0087) = 0.1859\"></span> u</p>\n<p>Converting this mass into energy, using <span class=\"math\" data-latex=\"\\textup{u} = 931.5\\:\\textup{MeV\\,c}^{-2}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\Delta m = 0.1859 \\times 931.5 \\approx 173.2\\:\\textup{MeV\\,c}^{-2}\"></span></p>\n<p>Therefore the energy released in this fission reaction is:</p>\n<p><span class=\"math\" data-latex=\"\\Delta E \\approx 173.2\\:\\textup{MeV}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p></p>\n<p>Calculating the fraction of the uranium-235 that is converted into energy:</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\Delta m}{m} = \\frac{0.1859}{235.0439} \\approx 7.9 \\times 10^{-4}\"></span></p>\n<p>Calculating the mass that is converted into energy when <span class=\"math\" data-latex=\"4.0\"></span> kg of uranium-235 undergoes fission:</p>\n<p><span class=\"math\" data-latex=\"4.0 \\times 7.9 \\times 10^{-4} \\approx 3.16 \\times 10^{-3}\"></span> kg</p>\n<p>Calculating the nuclear energy produced in TJ:</p>\n<p><span class=\"math\" data-latex=\"\\Delta E = \\Delta mc^{2} = (3.16 \\times 10^{-3}) \\times (3 \\times 10^{8})^{2} \\approx 2.8 \\times 10^{14}\\:\\textup{J} = 280\\:\\textup{TJ}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a nuclear reactor uranium-235 <span class=\"math\" data-latex=\"\\left (_{\\; \\, 92}^{235}\\textrm{U}  \\right )\"></span> is used as fuel. The fission reaction is induced by colliding a neutron with the uranium-235 nucleus. The fission products include <span class=\"math\" data-latex=\"_{36}^{92}\\textrm{Kr}\"></span>, <span class=\"math\" data-latex=\"_{ \\, Y}^{X}\\textrm{A}\"></span> and three neutrons.</p>\n<p>(a)</p>\n<p>(i)   State the equation for this fission reaction.</p>\n<p>  [2]</p>\n<p>(ii)   Show that <span class=\"math\" data-latex=\"X = 141\"></span>.</p>\n<p>  [1]</p>\n<p>(iii)   Find the value of <span class=\"math\" data-latex=\"Y\"></span>.</p>\n<p>  [1]</p>\n<p>The table shows the atomic mass of each nuclide in the fission reaction.</p>\n<p></p>\n<table>\n<tbody>\n<tr>\n<td><strong>Nuclide</strong></td>\n<td><strong>Atomic mass</strong></td>\n</tr>\n<tr>\n<td><span class=\"math\" data-latex=\"_{\\; \\, 92}^{235}\\textrm{U}\"></span></td>\n<td><span class=\"math\" data-latex=\"235.0439\"></span> u</td>\n</tr>\n<tr>\n<td><span class=\"math\" data-latex=\"_{ \\, Y}^{X}\\textrm{A}\"></span></td>\n<td><span class=\"math\" data-latex=\"140.9144\"></span> u</td>\n</tr>\n<tr>\n<td><span class=\"math\" data-latex=\"_{36}^{92}\\textrm{Kr}\"></span></td>\n<td><span class=\"math\" data-latex=\"91.9262\"></span> u</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p>(b)   Calculate the energy released in this fission reaction. Give your answer in MeV.</p>\n<p>  [3]</p>\n<p>(c)   Estimate the nuclear energy that is produced when <span class=\"math\" data-latex=\"4.0\"></span> kg of uranium-235 undergoes fission. Give your answer in TJ.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

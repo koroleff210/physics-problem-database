@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_0403775b6186464b992841f91ee5911a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Particle X moves in a circle with a constant speed v. The net force on X is F<sub>X</sub>. Particle Y moves with a constant velocity, the magnitude of the velocity is v. The net force on Y is F<sub>Y</sub> . Which of the following is correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">F<sub>X</sub><span class=\"math\" data-latex=\"&gt;\"></span>F<sub>Y</sub></li><li data-label=\"B\">F<sub>X</sub><span class=\"math\" data-latex=\"=\"></span>F<sub>Y</sub> ≠ 0</li><li data-label=\"C\">F<sub>X </sub>&lt; F<sub>Y</sub></li><li data-label=\"D\">F<sub>X</sub><span class=\"math\" data-latex=\"=\"></span>F<sub>Y</sub><span class=\"math\" data-latex=\"=\"></span>0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

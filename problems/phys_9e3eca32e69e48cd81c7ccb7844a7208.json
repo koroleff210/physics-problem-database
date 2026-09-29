@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/08f65948060d87603876838126eab0dd81d73be162202e1c46674672daf119c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "08f65948060d87603876838126eab0dd81d73be162202e1c46674672daf119c5"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/7fca0b6200f8ca1c672b671c78b39c5c316eda8f3b30aeca7678e95c8d4594ee.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7fca0b6200f8ca1c672b671c78b39c5c316eda8f3b30aeca7678e95c8d4594ee"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_9e3eca32e69e48cd81c7ccb7844a7208",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two bodies each of equal mass travelling in opposite directions collide head-on.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is a possible outcome of the collision?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

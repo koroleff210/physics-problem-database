@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/906916e19913fc14601e31dc8d0a472513179ba99c4d2add412abc8acdd43dbb.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "906916e19913fc14601e31dc8d0a472513179ba99c4d2add412abc8acdd43dbb"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_81d99da33bfc4ed1b8f36adc80d16593",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <strong>Identify</strong> the vertical component of the tension: <span class=\"math\" data-latex=\"T_{y} = 180 \\times \\sin(30^{\\circ}) = 90\\text{ N}\"></span> [1 mark]<br/>- <strong>Calculate</strong> the normal reaction force: <span class=\"math\" data-latex=\"R = mg - T_{y} = (50 \\times 9.81) - 90 = 400.5\\text{ N}\"></span> (accept <span class=\"math\" data-latex=\"400\\text{ N}\"></span> or <span class=\"math\" data-latex=\"401\\text{ N}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <strong>State</strong> that the only horizontal force acting on the crate is now friction, which acts in the direction opposite to the motion [1 mark]<br/>- <strong>Explain</strong> using Newton's second law (<span class=\"math\" data-latex=\"F = ma\"></span>) that this net unbalanced force results in a constant deceleration [1 mark]<br/>- <strong>Explain</strong> using Newton's first law that the crate's state of motion (velocity) must change because the forces are no longer balanced, eventually bringing it to rest [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <strong>Apply</strong> the conservation of momentum: <span class=\"math\" data-latex=\"m_1 u_1 = (m_1 + m_2) v\"></span> [1 mark]<br/>- <strong>Substitute</strong> and calculate: <span class=\"math\" data-latex=\"12000 \\times 2.5 = (12000 + 8000)v \\implies v = \\frac{30000}{20000} = 1.5\\text{ m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- <strong>Calculate</strong> the change in momentum (impulse): <span class=\"math\" data-latex=\"\\Delta p = m(v - u) = 0.060 \\times (20 - (-25)) = 2.7\\text{ kg m s}^{-1}\"></span> [1 mark]<br/>- <strong>Calculate</strong> the average force: <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t} = \\frac{2.7}{0.015} = 180\\text{ N}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A rectangular wooden crate of mass <span class=\"math\" data-latex=\"50\\text{ kg}\"></span> is being pulled across a horizontal warehouse floor at a constant velocity. A rope is attached to the crate and pulled with a tension <span class=\"math\" data-latex=\"T\"></span> of <span class=\"math\" data-latex=\"180\\text{ N}\"></span> at an angle of <span class=\"math\" data-latex=\"30^{\\circ}\"></span> to the horizontal.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the magnitude of the normal reaction force exerted by the floor on the crate.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The rope suddenly breaks while the crate is in motion. Describe and explain the subsequent motion of the crate until it comes to a rest, with reference to Newton's first and second laws of motion.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>A freight car of mass <span class=\"math\" data-latex=\"12,000\\text{ kg}\"></span> rolls at a speed of <span class=\"math\" data-latex=\"2.5\\text{ m s}^{-1}\"></span> along a level track. It collides and couples with a second stationary freight car of mass <span class=\"math\" data-latex=\"8,000\\text{ kg}\"></span>. Calculate the speed of the combined cars immediately after the collision.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>A tennis ball of mass <span class=\"math\" data-latex=\"0.060\\text{ kg}\"></span> strikes a wall horizontally at a speed of <span class=\"math\" data-latex=\"25\\text{ m s}^{-1}\"></span> and rebounds in the opposite direction at a speed of <span class=\"math\" data-latex=\"20\\text{ m s}^{-1}\"></span>. The ball is in contact with the wall for <span class=\"math\" data-latex=\"15\\text{ ms}\"></span>. Determine the average force exerted by the wall on the ball during the impact.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

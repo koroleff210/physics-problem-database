@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cf13a753137110926746bacd281dcba9734292ca072b7b95709f25e685553c55.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cf13a753137110926746bacd281dcba9734292ca072b7b95709f25e685553c55"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_006cc849353d4fb8900c6bb2eda283d0",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sound wave travels through a gas at a speed of 270 m s<sup>−1</sup>. The graph shows the variation of the displacement s of the gas particles with distance d from the source.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the frequency of the wave?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">180 Hz</li><li data-label=\"B\">360 Hz</li><li data-label=\"C\">450 Hz</li><li data-label=\"D\">900 Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

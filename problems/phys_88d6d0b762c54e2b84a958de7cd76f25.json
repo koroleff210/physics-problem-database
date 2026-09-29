@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_88d6d0b762c54e2b84a958de7cd76f25",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star’s radius is most directly related to which two properties?</p><ol class=\"mcq-options\"><li data-label=\"A\">Temperature and mass</li><li data-label=\"B\">Temperature and luminosity</li><li data-label=\"C\">Mass and luminosity</li><li data-label=\"D\">Distance and apparent magnitude</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

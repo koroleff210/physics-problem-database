@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_bcadc9d7dce548e99335c3cba9c4a6d5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a single-slit diffraction experiment, what happens to the central maximum if the slit width is decreased?</p><ol class=\"mcq-options\"><li data-label=\"A\">It becomes narrower</li><li data-label=\"B\">It disappears completely</li><li data-label=\"C\">It becomes wider</li><li data-label=\"D\">It stays the same</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

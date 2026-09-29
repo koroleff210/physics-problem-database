@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/da4e5b81c5bfd538a1bce6cba6b8f1b1f269dc1f0e33237dd95144cc6ab8c6c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "da4e5b81c5bfd538a1bce6cba6b8f1b1f269dc1f0e33237dd95144cc6ab8c6c5"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ad6a4b023a67b4fd2c9374dab7fd8662f87d99c0a78206ee5faed1d62c77d667.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ad6a4b023a67b4fd2c9374dab7fd8662f87d99c0a78206ee5faed1d62c77d667"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_6c03f95d82034aa5a958881ea6778d02",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a\"><p><strong>8a</strong></p><p></p>\n<p>A resistor in which current is not directly proportional to the potential difference.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b(i)\"><p><strong>8b(i)</strong></p><p></p>\n<p>An ideal ammeter has zero resistance.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b(ii)\"><p><strong>8b(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"5.0\"></span> V</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p>Finding the resistance of resistor <span class=\"math\" data-latex=\"R\"></span> when the current (based on the ammeter reading) in it is <span class=\"math\" data-latex=\"125\"></span> mA:</p>\n<p><span class=\"math\" data-latex=\"R = \\frac{5}{125 \\times 10^{-3}} = 40 \\: \\Omega\"></span></p>\n<p>Finding the resistance of the lightbulb:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{11} = \\frac{1}{40} + \\frac{1}{R_{bulb}}\"></span></p>\n<p><span class=\"math\" data-latex=\"R_{bulb} \\approx 15 \\: \\Omega\"></span></p>\n<p>Power dissipated in the lightbulb:</p>\n<p><span class=\"math\" data-latex=\"P = \\frac{5^{2}}{15} \\approx 1.7\"></span> W</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student carries out an experiment to determine certain characteristics of resistor <span class=\"math\" data-latex=\"R\"></span>. Based on the data collected, she plots the following graph that shows how the current in the resistor varies with potential difference.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The student concludes that the resistor is non-Ohmic.</p>\n<p>a. Outline what is meant by a non-Ohmic resistor.</p>\n<p>   [1]</p>\n<p>The students connects resistor <span class=\"math\" data-latex=\"R\"></span> to a cell of negligible internal resistance and to a lightbulb of fixed resistance. The ammeter and the voltmeter are ideal. </p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>The ammeter reading is <span class=\"math\" data-latex=\"125\"></span> mA and the total resistance in the circuit is <span class=\"math\" data-latex=\"11 \\: \\Omega\"></span>.</p>\n<p>b. State:</p>\n<p>i. what is meant by an ideal ammeter.</p>\n<p>ii. the voltmeter reading.</p>\n<p>  [2]</p>\n<p>c. Calculate the total power dissipated in the lightbulb.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

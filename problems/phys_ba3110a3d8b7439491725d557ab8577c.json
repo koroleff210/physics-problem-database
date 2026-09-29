@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_ba3110a3d8b7439491725d557ab8577c",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Identify that for an adiabatic process, <span class=\"math\" data-latex=\"Q = 0\"></span>, so <span class=\"math\" data-latex=\"\\Delta U = -W\"></span> (where <span class=\"math\" data-latex=\"W\"></span> is work done by the gas) or <span class=\"math\" data-latex=\"\\Delta U = W_{\\text{on gas}}\"></span>. [1 mark]<br/>- Calculate <span class=\"math\" data-latex=\"\\Delta U = +640 \\mathrm{~J}\"></span> and conclude that the temperature increases (since <span class=\"math\" data-latex=\"U \\propto T\"></span> for an ideal gas). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the relationship for internal energy of a monatomic gas: <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2} n R \\Delta T\"></span> [1 mark]<br/>- Substitute the values (<span class=\"math\" data-latex=\"n = 0.80 \\mathrm{~mol}\"></span>, <span class=\"math\" data-latex=\"R = 8.31 \\mathrm{~J~mol}^{-1}\\mathrm{~K}^{-1}\"></span>, <span class=\"math\" data-latex=\"\\Delta T = 60 \\mathrm{~K}\"></span>):<br/><span class=\"math\" data-latex=\"\\Delta U = 1.5 \\times 0.80 \\times 8.31 \\times (350 - 290)\"></span> [1 mark]<br/>- Calculate the heat supplied (since <span class=\"math\" data-latex=\"W=0\"></span> for isochoric, <span class=\"math\" data-latex=\"Q = \\Delta U\"></span>):<br/><span class=\"math\" data-latex=\"Q = 1.5 \\times 0.80 \\times 8.31 \\times 60 = 598.32 \\approx 600 \\mathrm{~J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State the relationship between entropy change and heat for a reversible isothermal process: <span class=\"math\" data-latex=\"\\Delta S = \\frac{Q}{T}\"></span> [1 mark]<br/>- Calculate the heat absorbed (<span class=\"math\" data-latex=\"Q\"></span>):<br/><span class=\"math\" data-latex=\"Q = \\Delta S \\times T = 2.2 \\mathrm{~J~K}^{-1} \\times 400 \\mathrm{~K} = 880 \\mathrm{~J}\"></span> [1 mark]<br/>- Identify that for an isothermal process involving an ideal gas, <span class=\"math\" data-latex=\"\\Delta U = 0\"></span>. [1 mark]<br/>- Apply the first law of thermodynamics (<span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>) to find the work done:<br/><span class=\"math\" data-latex=\"W = Q = 880 \\mathrm{~J}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample containing <span class=\"math\" data-latex=\"0.80 \\mathrm{~mol}\"></span> of an ideal monatomic gas is kept within a cylinder fitted with a frictionless piston. The gas undergoes a series of thermodynamic processes starting from an initial state.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>In an adiabatic compression, <span class=\"math\" data-latex=\"640 \\mathrm{~J}\"></span> of work is done on the gas by the surroundings. Calculate the change in the internal energy (<span class=\"math\" data-latex=\"\\Delta U\"></span>) of the gas and state whether the temperature of the gas increases or decreases.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The gas is then returned to its initial state and heated at a constant volume. During this isochoric process, the temperature of the gas rises from <span class=\"math\" data-latex=\"290 \\mathrm{~K}\"></span> to <span class=\"math\" data-latex=\"350 \\mathrm{~K}\"></span>. Calculate the amount of heat energy (<span class=\"math\" data-latex=\"Q\"></span>) supplied to the gas.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>In a third process, the gas undergoes a reversible isothermal expansion at a constant temperature of <span class=\"math\" data-latex=\"400 \\mathrm{~K}\"></span>. During this expansion, the entropy of the gas increases by <span class=\"math\" data-latex=\"2.2 \\mathrm{~J~K}^{-1}\"></span>. Calculate the heat absorbed by the gas and the work done by the gas during this process.<p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

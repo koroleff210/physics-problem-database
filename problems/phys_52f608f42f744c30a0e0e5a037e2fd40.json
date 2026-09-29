@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_52f608f42f744c30a0e0e5a037e2fd40",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spaceship, in circular orbit around a planet, decides to turn on its engines and move into an orbit with a larger radius. What is the change in the total energy of the spaceship and what is true about the work done by the engines?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Total energy</strong></p>\n</td>\n<td>\n<p><strong>Work done by the engines</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Increases</td>\n<td>Negative</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Increases</td>\n<td>Positive</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Decreases</td>\n<td>Negative</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Decreases</td>\n<td>Positive</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

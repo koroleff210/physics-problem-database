@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_a06092cd3e7a42a39753159d0968a5e7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rectangular wire loop is pulled at a constant velocity through a region of uniform magnetic field. The resistance of the loop and the magnetic field strength are varied in two trials as shown in the table below.</p>\n<table><thead><tr><th>Trial</th><th>Magnetic field strength</th><th>Velocity</th><th>Resistance</th><th>Force required</th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"B\"></span></td><td><span class=\"math\" data-latex=\"v\"></span></td><td><span class=\"math\" data-latex=\"R\"></span></td><td><span class=\"math\" data-latex=\"F\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"B\"></span></td><td><span class=\"math\" data-latex=\"v\"></span></td><td><span class=\"math\" data-latex=\"2R\"></span></td><td>?</td></tr></tbody></table>\n<p>What is the force required to maintain the constant velocity <span class=\"math\" data-latex=\"v\"></span> in Trial 2?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4F\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2F\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{F}{2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{F}{4}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

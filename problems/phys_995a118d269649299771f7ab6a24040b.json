@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_995a118d269649299771f7ab6a24040b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A test charge <span class=\"math\" data-latex=\"+q\"></span> is placed at a point in an electric field. The magnitude of the electric field strength at this point is <span class=\"math\" data-latex=\"E\"></span> and the magnitude of the electric force acting on the charge is <span class=\"math\" data-latex=\"F\"></span>. The charge <span class=\"math\" data-latex=\"+q\"></span> is removed and replaced by a second charge of <span class=\"math\" data-latex=\"-5q\"></span> at the same point.</p>\n<p>What is the magnitude of the electric field strength at that point and the magnitude of the electric force acting on the second charge?</p>\n<table><thead><tr><th></th><th>Magnitude of electric field strength</th><th>Magnitude of electric force</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"5E\"></span></td><td><span class=\"math\" data-latex=\"5F\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"5E\"></span></td><td><span class=\"math\" data-latex=\"F\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"E\"></span></td><td><span class=\"math\" data-latex=\"F\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"E\"></span></td><td><span class=\"math\" data-latex=\"5F\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

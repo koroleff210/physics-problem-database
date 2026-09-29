@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_5a006c2edb8d46ccbf8065a63288de88",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A single slit of width <span class=\"math\" data-latex=\"100\\: \\mu\"></span>m is illuminated by a beam of monochromatic light. The angle between the first minimum and the central maximum in the diffraction pattern is <span class=\"math\" data-latex=\"6.0 \\times 10^{-3}\"></span> rad. What is the frequency of the incident light?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"200\"></span> THz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"500\"></span> THz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2.0\"></span> PHz</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"5.0\"></span> PHz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_1fd213ceb743499a9b98f6fc1fc9c341",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The stellar parallax method involves a measurement of...</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the peak wavelength of radiation from a star.</li><li data-label=\"B\">the frequency shift of the lines in a stellar spectrum.</li><li data-label=\"C\">the position of a star in the sky at different times of year.</li><li data-label=\"D\">the intensity of radiation from a star at different wavelengths.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

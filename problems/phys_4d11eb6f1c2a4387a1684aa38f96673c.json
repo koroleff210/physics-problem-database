@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7570d8dc939a5c9432385c711f0425b81b7e73c299cdb004dfa9906526cac3ee.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7570d8dc939a5c9432385c711f0425b81b7e73c299cdb004dfa9906526cac3ee"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_4d11eb6f1c2a4387a1684aa38f96673c",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State that magnetic flux linkage is the product of the magnetic flux through a single loop and the total number of turns in the coil <span class=\"math\" data-latex=\"(\\Phi_{linkage} = N\\Phi)\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify the magnetic field strength at <span class=\"math\" data-latex=\"t = 1.0 \\text{ s}\"></span> as <span class=\"math\" data-latex=\"0.60 \\text{ T}\"></span> [1 mark]<br/>- Calculate flux linkage: <span class=\"math\" data-latex=\"N B A = 400 \\times 0.60 \\times 2.5 \\times 10^{-3} = 0.60 \\text{ Wb}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate the rate of change of the magnetic field: <span class=\"math\" data-latex=\"\\frac{\\Delta B}{\\Delta t} = \\frac{0.60 - 0}{5.0 - 2.0} = 0.20 \\text{ T s}^{-1}\"></span> [1 mark]<br/>- Use Faraday's Law: <span class=\"math\" data-latex=\"\\mathcal{E} = N A \\frac{\\Delta B}{\\Delta t} = 400 \\times 2.5 \\times 10^{-3} \\times 0.20 = 0.20 \\text{ V}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- State the direction: Clockwise [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- State that the magnetic flux depends on the component of the magnetic field perpendicular to the coil area <span class=\"math\" data-latex=\"(\\Phi = NBA \\cos \\theta)\"></span> [1 mark]<br/>- Explain that since <span class=\"math\" data-latex=\"\\cos(60^\\circ) = 0.5\"></span> (which is less than <span class=\"math\" data-latex=\"\\cos(0^\\circ) = 1\"></span>), the rate of change of flux linkage decreases, resulting in a lower induced emf (half of the original value) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A flat circular coil with 400 turns and a cross-sectional area of <span class=\"math\" data-latex=\"2.5 \\times 10^{-3} \\text{ m}^2\"></span> is placed in a region of a uniform magnetic field. The plane of the coil is initially perpendicular to the magnetic field lines. The magnetic field is directed into the page. The variation with time <span class=\"math\" data-latex=\"t\"></span> of the magnetic field strength <span class=\"math\" data-latex=\"B\"></span> is shown in the graph below.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define magnetic flux linkage.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnetic flux linkage through the coil at <span class=\"math\" data-latex=\"t = 1.0 \\text{ s}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the magnitude of the electromotive force (emf) induced in the coil between <span class=\"math\" data-latex=\"t = 2.0 \\text{ s}\"></span> and <span class=\"math\" data-latex=\"t = 5.0 \\text{ s}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>State the direction (clockwise or counter-clockwise) of the conventional current induced in the coil during the interval from <span class=\"math\" data-latex=\"t = 2.0 \\text{ s}\"></span> to <span class=\"math\" data-latex=\"t = 5.0 \\text{ s}\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>The coil is now rotated so that the normal to its plane makes an angle of <span class=\"math\" data-latex=\"60^\\circ\"></span> with the magnetic field lines. Explain the effect this rotation has on the magnitude of the induced emf between <span class=\"math\" data-latex=\"t = 2.0 \\text{ s}\"></span> and <span class=\"math\" data-latex=\"t = 5.0 \\text{ s}\"></span>.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

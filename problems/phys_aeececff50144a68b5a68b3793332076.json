@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_aeececff50144a68b5a68b3793332076",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. Neutron absorption is important in fission chain reactions, not for overcoming the electrostatic (Coulomb) repulsion between positively charged nuclei in stellar fusion.</p>\n<p>B: Incorrect. High density increases collision frequency, but sufficiently high temperature is also required so nuclei have enough kinetic energy (and tunnelling probability) to overcome Coulomb repulsion.</p>\n<p>C: Correct. Fusion in stellar cores requires very high temperature (and the associated high pressure/density conditions) so that nuclei can get close enough for the strong nuclear force to act despite Coulomb repulsion.</p>\n<p>D: Incorrect. Coulomb repulsion depends on charge and separation, not temperature; lower temperature reduces kinetic energy and makes fusion less likely.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which condition is necessary for nuclear fusion to occur in the core of a star?</p><ol class=\"mcq-options\"><li data-label=\"A\">A high neutron absorption cross-section for the fuel</li><li data-label=\"B\">High plasma density only, even at low temperature</li><li data-label=\"C\">High temperature and pressure to overcome Coulomb repulsion</li><li data-label=\"D\">A low temperature to reduce Coulomb repulsion between nuclei</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

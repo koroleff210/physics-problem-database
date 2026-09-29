@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_8041ebad19014a0984064588edf956b5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: <strong>X</strong> and <strong>Y</strong> have the same nucleon number (<span class=\"math\" data-latex=\"11 + 13 = 24\"></span> and <span class=\"math\" data-latex=\"12 + 12 = 24\"></span> respectively), but since they have different proton numbers (<span class=\"math\" data-latex=\"11\"></span> and <span class=\"math\" data-latex=\"12\"></span>), they are different elements.</p>\n<p>B: Isotopes are defined as atoms of the same element (same proton number) that have different numbers of neutrons. Both <strong>W</strong> and <strong>X</strong> have <span class=\"math\" data-latex=\"11\"></span> protons, identifying them both as sodium, but they have different neutron counts (<span class=\"math\" data-latex=\"12\"></span> and <span class=\"math\" data-latex=\"13\"></span>).</p>\n<p>C: <strong>Y</strong> and <strong>Z</strong> have the same number of neutrons (<span class=\"math\" data-latex=\"12\"></span>), but different proton numbers (<span class=\"math\" data-latex=\"12\"></span> and <span class=\"math\" data-latex=\"10\"></span>). Particles with the same neutron number but different proton numbers are called isotones, not isotopes.</p>\n<p>D: <strong>W</strong> and <strong>Z</strong> have different proton numbers (<span class=\"math\" data-latex=\"11\"></span> and <span class=\"math\" data-latex=\"10\"></span>), so they belong to different elements. Although they share the same number of neutrons (<span class=\"math\" data-latex=\"12\"></span>), they are not isotopes.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below lists the subatomic composition of four different particles, <strong>W</strong>, <strong>X</strong>, <strong>Y</strong>, and <strong>Z</strong>.</p>\n<table><thead><tr><th>Particle</th><th>Number of protons</th><th>Number of neutrons</th><th>Number of electrons</th></tr></thead><tbody><tr><td><strong>W</strong></td><td>11</td><td>12</td><td>11</td></tr><tr><td><strong>X</strong></td><td>11</td><td>13</td><td>11</td></tr><tr><td><strong>Y</strong></td><td>12</td><td>12</td><td>12</td></tr><tr><td><strong>Z</strong></td><td>10</td><td>12</td><td>10</td></tr></tbody></table>\n<p>Which two particles represent isotopes of the same chemical element?</p><ol class=\"mcq-options\"><li data-label=\"A\"><strong>X</strong> and <strong>Y</strong></li><li data-label=\"B\"><strong>W</strong> and <strong>X</strong></li><li data-label=\"C\"><strong>Y</strong> and <strong>Z</strong></li><li data-label=\"D\"><strong>W</strong> and <strong>Z</strong></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

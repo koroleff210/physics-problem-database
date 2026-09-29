@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6bc265771ca0d7cc87d29cd46fd55ae400f28753b03006eceb4390c69c66be4c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6bc265771ca0d7cc87d29cd46fd55ae400f28753b03006eceb4390c69c66be4c"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b3674490598e4e539875689b78627c29",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> passes through a single-slit of width <span class=\"math\" data-latex=\"b\"></span> and produces a diffraction pattern on a screen. Which combination of changes to <span class=\"math\" data-latex=\"b\"></span> and <span class=\"math\" data-latex=\"\\lambda\"></span> will cause the greatest decrease in the width of the central maximum?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

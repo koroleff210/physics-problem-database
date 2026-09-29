@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d73cc1340ff0fe86e39739ee180b3a985c30038ac91aec4a9d23fe087fb1ce64.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d73cc1340ff0fe86e39739ee180b3a985c30038ac91aec4a9d23fe087fb1ce64"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_27bcf6e67271415ab66b9b31d5b8b957",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Identify that the force is directed vertically upward (towards the positive plate) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use the formula <span class=\"math\" data-latex=\"E = \\frac{V}{d}\"></span> [1 mark]<br/>- Substitute values: <span class=\"math\" data-latex=\"E = \\frac{800}{0.020} = 4.0 \\times 10^4\\text{ V m}^{-1}\"></span> (or <span class=\"math\" data-latex=\"\\text{N C}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State that the electric field lines are vertical, so the electric force is purely vertical [1 mark]<br/>- Explain that since there is no horizontal force acting on the electron, its horizontal acceleration is zero according to Newton's first/second law [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Use the relationship <span class=\"math\" data-latex=\"W = q \\Delta V\"></span> [1 mark]<br/>- Calculate: <span class=\"math\" data-latex=\"W = 1.6 \\times 10^{-19} \\times 800 = 1.28 \\times 10^{-16}\\text{ J}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows a cross-section of two parallel metal plates separated by a distance of <span class=\"math\" data-latex=\"2.0\\text{ cm}\"></span>. The top plate is held at a potential of <span class=\"math\" data-latex=\"+800\\text{ V}\"></span> and the bottom plate is grounded at <span class=\"math\" data-latex=\"0\\text{ V}\"></span>. An electron enters the region between the plates from the left with an initial horizontal velocity.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the direction of the electric force acting on the electron as it travels between the plates.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnitude of the electric field strength, <span class=\"math\" data-latex=\"E\"></span>, in the region between the plates.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain, with reference to Newton's laws of motion, why the horizontal component of the electron's velocity remains constant while it is between the plates.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the work done by the electric field on the electron if it were to move from the bottom plate to the top plate.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

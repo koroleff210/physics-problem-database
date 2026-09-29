@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9de953b3da322608bbe1c4dd9879f1c796865ee112dd7d41067c1406f6e8b155.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9de953b3da322608bbe1c4dd9879f1c796865ee112dd7d41067c1406f6e8b155"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_62479c2dc4dd4eb8abbf9f1ffad9e0b1",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of intensity I and wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on a single slit of width w. An interference pattern is formed on a screen located a distance d from the slits.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What change will increase the width of the central maximum?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Decrease <span class=\"math\" data-latex=\"\\lambda\"></span></li><li data-label=\"B\">Decrease I</li><li data-label=\"C\">Decrease d</li><li data-label=\"D\">Decrease w</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

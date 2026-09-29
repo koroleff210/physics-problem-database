@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_57058816685246f5930c15f8198b334b",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The distance between any two adjacent points in phase / the distance between two consecutive identical points on a wave</p>\n<p>OR</p>\n<p>The distance between two adjacent:<br/>- crests<br/>- troughs<br/>- compressions<br/>- rarefactions<br/>- points in the same state of vibration</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"f = \\frac{v}{\\lambda} = \\frac{0.40}{0.20} = 2.0\\ \\text{Hz}\"></span></p>\n<p>Correct substitution and working. [1 mark]</p>\n<p>Final answer with correct unit (2.0 Hz). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Hertz / Hz</p>\n<p>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A water wave travels with speed <span class=\"math\" data-latex=\"v = 0.40\\ \\text{m s}^{-1}\"></span> and wavelength <span class=\"math\" data-latex=\"\\lambda = 0.20\\ \\text{m}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Define the term wavelength. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the frequency of the wave. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State the unit of frequency. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

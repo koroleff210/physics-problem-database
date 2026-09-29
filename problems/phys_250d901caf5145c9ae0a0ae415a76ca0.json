@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_250d901caf5145c9ae0a0ae415a76ca0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The work done by the centripetal force on an object that moves in a circle at constant speed is:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">directly proportional to the radius of the circle.</li>\n<li data-label=\"B\">inversely proportional to the mass of the object.</li>\n<li data-label=\"C\">zero.</li>\n<li data-label=\"D\">negative.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

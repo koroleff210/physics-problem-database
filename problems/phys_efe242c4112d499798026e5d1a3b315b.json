@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_efe242c4112d499798026e5d1a3b315b",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>g = <span class=\"math\" data-latex=\"\\frac{G \\, M}{{( 1.50 \\times  {10}^{11} )}^{2}}\"></span> ✓ g = 0.0059 «N kg<sup>−1</sup> or m/s<sup>2</sup>» ✓</p>\n<p>The orbital speed of Earth around the Sun is not constant.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>A planet orbits a star describing an elliptical path with the Sun/star at one of the foci ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALT 1 One component of the gravitational force creates an acceleration «that acts in the same direction of the velocity» ✓ Therefore KE increases ✓ ALT 2 According to Kepler’s second law, the Earth sweeps out equal areas in equal times ✓ Therefore, the Earth moves slower/less KE when far from the sun ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Earth orbits the Sun at an average distance of 1.50 × 10<sup>8</sup> km.</p>\n<p>The mass of the Sun is 2.0 × 10<sup>30</sup> kg.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the gravitational field strength of the Sun at a distance of 1.50 × 10<sup>8</sup> km from its centre. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State Kepler’s first law of orbital motion. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Explain why the kinetic energy of Earth changes as it orbits the Sun. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

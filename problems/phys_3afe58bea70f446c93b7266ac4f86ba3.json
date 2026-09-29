@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d4a11f1ec1f115648280df8b014e9a42ed7d40a1f4a1d8b13ef2d1d3e6e5a660.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d4a11f1ec1f115648280df8b014e9a42ed7d40a1f4a1d8b13ef2d1d3e6e5a660"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_3afe58bea70f446c93b7266ac4f86ba3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the net force <span class=\"math\" data-latex=\"F\"></span> acting on an object of mass <span class=\"math\" data-latex=\"0.50\\text{ kg}\"></span>. The object is initially at rest.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object when <span class=\"math\" data-latex=\"t = 20\\text{ ms}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"8.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"16\\text{ m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

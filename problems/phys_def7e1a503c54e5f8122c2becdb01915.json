@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1c2eca18324aa623dae08f517142210c77ff34da6751872d97d698eef6f21aa6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1c2eca18324aa623dae08f517142210c77ff34da6751872d97d698eef6f21aa6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ce3170cc5b0a57f41ef3e7175f7dc12e8ba6753d156dfe9ddbd3fbf541c9640a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ce3170cc5b0a57f41ef3e7175f7dc12e8ba6753d156dfe9ddbd3fbf541c9640a"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_def7e1a503c54e5f8122c2becdb01915",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation of displacement d with distance <span class=\"math\" data-latex=\"x\"></span> along a transverse wave. At time t = 0 a point P has a displacement d = 0.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the graphs shows the variation with time t of the displacement d of P?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_93c345ef09aa47c5ab9b45ad053caf0f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The initial activity of a sample of radioactive nuclide is A. The activity of the sample after 50 seconds is 400 Bq and after 150 seconds is 25 Bq.</p>\n<p>What is A?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">600 Bq</li>\n<li data-label=\"B\">775 Bq</li>\n<li data-label=\"C\">800 Bq</li>\n<li data-label=\"D\">1600 Bq</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

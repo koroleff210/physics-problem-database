@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_ff0b54837f0a421ba8358eb614251db1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone of mass <span class=\"math\" data-latex=\"1.0\"></span> kg is thrown vertically downwards from the top of a cliff. The initial kinetic energy of the stone is <span class=\"math\" data-latex=\"200\"></span> J. When the stone hits the ground, its kinetic energy is <span class=\"math\" data-latex=\"600\"></span> J. Air resistance is negligible. What is the height of the cliff?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"10\"></span> m</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"20\"></span> m</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"30\"></span> m</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"40\"></span> m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

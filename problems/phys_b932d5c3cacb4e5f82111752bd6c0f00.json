@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_b932d5c3cacb4e5f82111752bd6c0f00",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between the centre of planet A and the centre of planet B is <span class=\"math\" data-latex=\"d\"></span>. The mass of planet A and B is <span class=\"math\" data-latex=\"16m\"></span> and <span class=\"math\" data-latex=\"25m\"></span> respectively. The resultant gravitational force on an object placed at a distance <span class=\"math\" data-latex=\"x\"></span> from the centre of planet B is zero. What is the ratio <span class=\"math\" data-latex=\"\\frac{x}{d}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{9}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5}{9}\"></span>  </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{16}{25}\"></span>  </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4}{5}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

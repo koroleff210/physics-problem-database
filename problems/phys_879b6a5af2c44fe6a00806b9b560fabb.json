@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6aad8aa90b394cb57457dfdaa8f5fa04a0033c2e1ae856476692772b724ce56b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6aad8aa90b394cb57457dfdaa8f5fa04a0033c2e1ae856476692772b724ce56b"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_879b6a5af2c44fe6a00806b9b560fabb",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The dashed line represents the variation with incident electromagnetic frequency <span class=\"math\" data-latex=\"f\"></span> of the kinetic energy E<sub>K</sub> of the photoelectrons ejected from a metal surface. The metal surface is then replaced with one that requires less energy to remove an electron from the surface.</p>\n<p>Which graph of the variation of E<sub>K</sub> with <span class=\"math\" data-latex=\"f\"></span> will be observed?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

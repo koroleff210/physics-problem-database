@@ -1,0 +1,84 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/961a4d2059ef57ec6ae4d94513b5946690b9874716edac99485be13150229355.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "961a4d2059ef57ec6ae4d94513b5946690b9874716edac99485be13150229355"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d6e8604c6063cf61ead4907843c55eda864c53b40befc88d1362b521c5672ae2.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d6e8604c6063cf61ead4907843c55eda864c53b40befc88d1362b521c5672ae2"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/a70da45f025d26d4ac38d4af22a8e103d2ca220e16fb8f88e972d104c8aff201.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a70da45f025d26d4ac38d4af22a8e103d2ca220e16fb8f88e972d104c8aff201"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/869e3f6ec3fd8b17d6e7effb25a78ed5a2c22d584ce9740ad61c91954efb8e72.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "869e3f6ec3fd8b17d6e7effb25a78ed5a2c22d584ce9740ad61c91954efb8e72"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/c291a4cbb0f66820dcb4fd942ff179df1fd27af9c96d1888cd31d706e3153421.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c291a4cbb0f66820dcb4fd942ff179df1fd27af9c96d1888cd31d706e3153421"
+    },
+    {
+      "alt": "Source markscheme diagram 6",
+      "file": "assets/983d89e9b1cec0fb0e0bf75f5c541d5f9d16ce8c7aa825afa516c27ff62fb5af.png",
+      "id": "fig_06",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "983d89e9b1cec0fb0e0bf75f5c541d5f9d16ce8c7aa825afa516c27ff62fb5af"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "C.1",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_b2c30e2a65b24e439f7445e2aec315f7",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p>Position B labeled.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}(43)(0.38)^{2} = \\frac{1}{2}(0.28)v^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 4.7\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3d\"><p><strong>3d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_06\"><img alt=\"Source markscheme diagram 6\" src=\"asset:fig_06\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"280\"></span> grams is attached to a horizontal spring of spring constant <span class=\"math\" data-latex=\"43\"></span> N m<span class=\"math\" data-latex=\"^{-1}\"></span>. The spring is then extended by <span class=\"math\" data-latex=\"38\"></span> cm. At <span class=\"math\" data-latex=\"t = 0\"></span> the block is released and it oscillates with simple harmonic motion (SHM) between point A and point C. The period of the oscillations is <span class=\"math\" data-latex=\"T\"></span>. Friction between the surface and the block is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Draw a free-body diagram to represent the forces that act on the block at <span class=\"math\" data-latex=\"t = \\frac{3T}{8}\"></span>.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [2]</p>\n<p></p>\n<p>b. On the diagram, label the position where the speed of the block is maximum.</p>\n<p>  [1]</p>\n<p>c. Calculate the maximum speed reached by the block.</p>\n<p>    [2]</p>\n<p>The graph shows how the displacement of the block from B varies with time. </p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>d. Sketch a graph to show how the acceleration of the block varies with time. </p>\n\n<figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

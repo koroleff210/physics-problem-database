@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/44e173146693490c7fcac4694607506bb0a416ed3390c253eb7ca7af7fca04b4.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "44e173146693490c7fcac4694607506bb0a416ed3390c253eb7ca7af7fca04b4"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_fe54dcb354e1453aac4cc4be67d4088e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Note: Student calculated the area as a rectangle (<span class=\"math\" data-latex=\"6.0 \\times 10^{-3} \\times 10\"></span>) instead of a triangle.</p>\n<p>B: Note: Area under the graph = <span class=\"math\" data-latex=\"\\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 10 \\text{ s} \\times 6.0 \\times 10^{-3} \\text{ A} = 0.030 \\text{ C}\"></span>.</p>\n<p>C: Note: Student calculated the triangle area but failed to convert mA to A (<span class=\"math\" data-latex=\"0.5 \\times 10 \\times 6 = 30\"></span>).</p>\n<p>D: Note: Student calculated the rectangle area and failed to convert mA to A (<span class=\"math\" data-latex=\"10 \\times 6 = 60\"></span>).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph below shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the current <span class=\"math\" data-latex=\"I\"></span> through a circuit component.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the total charge that passes through the component from <span class=\"math\" data-latex=\"t = 0\"></span> to <span class=\"math\" data-latex=\"t = 10 \\text{ s}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.060 \\text{ C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.030 \\text{ C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"30 \\text{ C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"60 \\text{ C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_4a02308532c74222b33364f375299493",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The half-life of a radioactive nuclide is 15 minutes. The initial count rate observed from a pure source of the radioactive nuclide is 580 counts s<sup>−1</sup>.</p>\n<p>The average background count rate is 20 counts s<sup>−1</sup>. The decay products are stable.</p>\n<p>What is the observed count rate one hour after the initial observation? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">35 counts s<sup>−1</sup></li><li data-label=\"B\">55 counts s<sup>−1</sup></li><li data-label=\"C\">70 counts s<sup>−1</sup></li><li data-label=\"D\">90 counts s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

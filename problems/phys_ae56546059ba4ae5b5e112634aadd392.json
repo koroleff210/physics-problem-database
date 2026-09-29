@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/16374bdb226c4a8caa6f41eba8d1738014afe9b993c65ebb8278ce250fb648b4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "16374bdb226c4a8caa6f41eba8d1738014afe9b993c65ebb8278ce250fb648b4"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.3",
+    "B.1",
+    "B.5",
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_ae56546059ba4ae5b5e112634aadd392",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Resistance of cable = 0.072 Ω ✓ Pd is (500 − 0.072 × 600) = 457 V ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Power input = 457 × 600 = 274 kW ✓ Power output = 0.9 × 274 = 247 kW ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The pd across the motor increases as the tram travels up the track ✓ (As the current is constant), the power output also rises ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Total weight of tram = 75 × 710 + 5 × 10<sup>4</sup> = 1.03 × 10<sup>5</sup> N ✓ Total force down track = 750 + 1.03 × 10<sup>5</sup> sin (10) = 1.87 × 10<sup>4</sup> N ✓ Use of P= F × v ✓ (v = 247 000 ÷ 1.87 × 10<sup>4</sup>)= 13 m s<sup>−1</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Time for run = s/v = 3000 ÷ 13.2 = 227 s ✓ 3 minutes loading = 180 s So one trip = 407 s ✓ And there are 3600/407 trips per hour = 8.84 ✓ So 8 complete trips with 75 = 600 passengers ✓</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Work leading to volume = 7.1 x 10<sup>−3</sup> m<sup>3</sup> ✓ Work leading to mass of steel = 55 .8 kg ✓ Kinetic Energy transferred per annulus = <span class=\"math\" data-latex=\"\\frac{\\frac{1}{2}mv^{2}}{8}=\\frac{1}{16}\\times \\frac{1.03\\times 10^{5}}{9.81}\\times 13^{2}\"></span> = 110 kJ ✓ <span class=\"math\" data-latex=\"\\Delta T = \\frac{{E}_{\\text{k}}}{m c} = \\frac{1.1 \\times  {10}^{5}}{55.8 \\times  420} = 4.7\"></span> K ✓</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{\\Delta\\lambda}{\\lambda}≈\\frac{v}{c}\"></span> ✓ 1.2 nm ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An Alpine village uses an electric tram system to transport visitors from a lower station up to an upper station at the village. The length of the tramline is 3.0 km and the gradient of the tramline is a constant 10°.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The tram has a weight of 5.0 × 10<sup>4</sup> N and can carry a maximum of 75 passengers of average weight 710 N.</p>\n<p>The energy is supplied to each tram through a single overhead cable with a resistance per unit length of 0.024 Ω km<sup>−1</sup>. The tram rails are used for the return path of the current. The return path and the connections from the cable to the electric motor in the tram have negligible resistance.</p>\n<p>The power supply maintains a constant emf of 500 V between the rails and the cable at the upper station.</p>\n<p>Assume that the current through the motor is constant at 600 A and that the motor efficiency is always 0.90 for the entire range of voltages available to the tram.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A tram is just leaving the lower railway station.</p>\n<p>Determine, as the train leaves the lower station,</p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> the pd across the motor of the tram, [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> the mechanical power output of the motor. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Discuss the variation in the power output of the motor with distance from the lower station. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The total friction in the system acting on the tram is equivalent to an opposing force of 750 N.</p>\n<p>For one particular journey, the tram is full of passengers.</p>\n<p>Estimate the maximum speed v of the tram as it leaves the lower station.</p><p>[4]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The tram travels at v throughout the journey. Two trams are available so that one is returning to the lower station on another line while the other is travelling to the village. The journeys take the same time.</p>\n<p>It takes 1.5 minutes to unload and 1.5 minutes to load each tram. Ignore the time taken to accelerate the tram at the beginning and end of the journey.</p>\n<p>Estimate the maximum number of passengers that can be carried up to the village in one hour.</p><p>[4]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>There are eight wheels on each tram with a brake system for each wheel. A pair of brake pads clamp firmly onto an annulus made of steel.</p>\n<p>The train comes to rest from speed v. Ignore the energy transferred to the brake pads and the change in the gravitational potential energy of the tram during the braking.</p>\n<p>Calculate the temperature change in each steel annulus as the tram comes to rest.</p>\n<p>Data for this question</p>\n<p>The inner radius of the annulus is 0.40 m and the outer radius is 0.50 m.</p>\n<p>The thickness of the annulus is 25 mm.</p>\n<p>The density of the steel is 7860 kg m<sup>−3</sup></p>\n<p>The specific heat capacity of the steel is 420 J kg<sup>−1</sup> K<sup>−1</sup></p><p>[4]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> The speed of the tram is measured by detecting a beam of microwaves of wavelength 2.8 cm reflected from the rear of the tram as it moves away from the station. Predict the change in wavelength of the microwaves at the stationary microwave detector in the station. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

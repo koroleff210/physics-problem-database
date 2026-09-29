@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_3ce6aae3b6974e9094e86e3b66dbfc65",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A negatively charged particle enters a uniform magnetic field perpendicular to its velocity and travels in a circular arc. What happens if the same particle enters with double the initial speed?</p><ol class=\"mcq-options\"><li data-label=\"A\">The radius halves and period doubles</li><li data-label=\"B\">The radius and period both double</li><li data-label=\"C\">The radius doubles and period remains constant</li><li data-label=\"D\">The radius and period remain unchanged</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

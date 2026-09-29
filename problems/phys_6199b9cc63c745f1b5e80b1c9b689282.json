@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_6199b9cc63c745f1b5e80b1c9b689282",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Moon A has mass <em>M</em>, radius <em>R</em> and the gravitational field strength on the surface of Moon A is <em>g</em>. Moon B has mass 3<em>M</em> and the gravitational field strength on its surface is <span class=\"math\" data-latex=\"\\frac{g}{4}\"></span>.</p>\n<p>What is the diameter of Moon B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2<span class=\"math\" data-latex=\"\\sqrt{3}\"></span><em>R</em></li>\n<li data-label=\"B\">4<span class=\"math\" data-latex=\"\\sqrt{3}\"></span><em>R</em></li>\n<li data-label=\"C\">12<em>R</em></li>\n<li data-label=\"D\">24<em>R</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

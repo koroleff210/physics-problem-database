@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_59c9ab2a863b4782b0cb11064f5d7202",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A black body emits radiation with a peak wavelength <span class=\"math\" data-latex=\"\\lambda_0\"></span> at a temperature <span class=\"math\" data-latex=\"T_0\"></span>. If the temperature of the black body is increased to <span class=\"math\" data-latex=\"3 T_0\"></span>, what is the new peak wavelength?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\lambda_0 / 3\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\lambda_0 / 9\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3 \\lambda_0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9 \\lambda_0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

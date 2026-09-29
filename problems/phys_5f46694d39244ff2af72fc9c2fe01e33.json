@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ba1789b2819dfd0f7167d1d991505a753e1fe1de33da39ce726f7251f9a9aae.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ba1789b2819dfd0f7167d1d991505a753e1fe1de33da39ce726f7251f9a9aae"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_5f46694d39244ff2af72fc9c2fe01e33",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two isolated point masses, P of mass m and Q of mass 2m, are separated by a distance 3d. X is a point a distance d from P and 2d from Q.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the net gravitational field strength at X and the net gravitational potential at X?</p>\n<table><tbody><tr><td></td><td><p>Net gravitational field strength at X</p></td><td><p>Net gravitational<br/>potential at X</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{Gm}{d^{2}}\"></span></p></td><td><p>0</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{Gm}{d^{2}}\"></span></p></td><td><p><span class=\"math\" data-latex=\"-\\frac{Gm}{d}\"></span></p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{Gm}{2d^{2}}\"></span></p></td><td><p>0</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{Gm}{2d^{2}}\"></span></p></td><td><p><span class=\"math\" data-latex=\"-\\frac{2Gm}{d}\"></span></p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

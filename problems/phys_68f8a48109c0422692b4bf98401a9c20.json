@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/da845b2cfca49a8fd8e6a0489ca9d77e04e0e47d2b660bde95c2b5f4137e41c7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "da845b2cfca49a8fd8e6a0489ca9d77e04e0e47d2b660bde95c2b5f4137e41c7"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/89830a59dfeafe44a51283c794ef4d2cd27fdf746369f2d095007b3976aadf74.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "89830a59dfeafe44a51283c794ef4d2cd27fdf746369f2d095007b3976aadf74"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_68f8a48109c0422692b4bf98401a9c20",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block is sliding down on an inclined plane with constant acceleration <em>a</em> as shown on the diagram.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>Which free-body diagram shows the forces acting on the block?</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

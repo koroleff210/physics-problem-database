@@ -1,0 +1,48 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bde80185ef46f2bf81c93f1e7b44484977e4389cb1fd5288d8da361e6a64d6df.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bde80185ef46f2bf81c93f1e7b44484977e4389cb1fd5288d8da361e6a64d6df"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ef518291095a3ce6c3744f3a9d556157046007f4fc28840574f4337a6755c92b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ef518291095a3ce6c3744f3a9d556157046007f4fc28840574f4337a6755c92b"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3",
+    "B.1",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_2d0678d7a41a4c68b61b0ac3e81c23bf",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Identifies length of cylinder as vΔt so volume as <span class=\"math\" data-latex=\"S \\times  v \\times  Δ t\"></span> to show the result ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"Δ p = Δ m \\times  v\"></span> OR <span class=\"math\" data-latex=\"ρ \\times  S \\times  v \\times  Δ t \\times  v\"></span> ✓ Force is <span class=\"math\" data-latex=\"\\frac{Δ p}{Δ t} = \\frac{ρ \\times  S \\times  v \\times  Δ t \\times  v}{Δ t}\"></span> Hence result ✓   Award [1] if solved through F = ma replacing <span class=\"math\" data-latex=\"a = \\frac{Δ v}{Δ t}\"></span>(therefore not using v as about constant through interval <span class=\"math\" data-latex=\"Δ t\"></span>)</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Identifies orbital velocity as <span class=\"math\" data-latex=\"v=\\sqrt{\\frac{GM}{r}}\"></span> ✓ <span class=\"math\" data-latex=\"E_{K}=\\frac{1}{2}mv^{2}=\\frac{GMm}{2r}\"></span> so <span class=\"math\" data-latex=\"E_{T}=\\frac{GMm}{2r}-\\frac{GMm}{r}\"></span> Hence result ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>The total energy is reduced OR the satellite gets closer to the surface ✓ «From <span class=\"math\" data-latex=\"v=\\frac{\\sqrt{GM}}{r}\"></span> » the satellite moves faster ✓ «From ρSv<sup>2</sup>» the opposing force increases « because v and ρ increase » ✓ The satellite burns / crashes / falls to Earth ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"P = \\frac{Δ E}{Δ t}\"></span> ✓ <span class=\"math\" data-latex=\"P=\"></span>«<span class=\"math\" data-latex=\"\\frac{-4.5\\times 10^{9}}{30\\times 24\\times 3600}\"></span>»<span class=\"math\" data-latex=\"-1.7\\times 10^{3}W\"></span> ✓   Ignore sign</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Average height 417.5 km ✓ <span class=\"math\" data-latex=\"v=\\sqrt{\\frac{6.67\\times 10^{-11}\\times 5.98\\times 10^{24}}{6.38+0.4175\\times 10^{6}}}\"></span> OR <span class=\"math\" data-latex=\"7.7\\times 10^{3} m s^{-1}\"></span> ✓   Accept 417.5± 0.3 for MP1</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p><span class=\"math\" data-latex=\"Δ T = \\frac{Q}{m c}\"></span> ✓ <span class=\"math\" data-latex=\"Δ T =\"></span>«<span class=\"math\" data-latex=\"\\frac{4.5\\times 10^{9}}{4.2\\times 10^{5}\\times 500}=\"></span>»<span class=\"math\" data-latex=\"21K\"></span> OR <span class=\"math\" data-latex=\"21^{o}C\"></span> ✓   Award [2] if 21 is seen as the answer without working</p></section><section class=\"markscheme-part\" data-label=\"c.iv\"><p><strong>c.iv</strong></p><p>Attempt to use <span class=\"math\" data-latex=\"P=F v\"></span> ✓ <span class=\"math\" data-latex=\"1.7\\times 10^{3} W=F\\times 7.7\\times 10^{3}ms^{-1}\"></span> ✓ F = 0.22 N ✓   Allow ECF from c) i). Ignore sign. MP3 will vary depending on their values of c) i) and c) ii, between 0.21 and 0.23</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"V=\\frac{E}{\\textit{E density}}\"></span> ✓ <span class=\"math\" data-latex=\"V=\"></span>«<span class=\"math\" data-latex=\"\\frac{4.5\\times 10^{9}}{8.5\\times 10^{9}}=\"></span>»<span class=\"math\" data-latex=\"0.53 m^{3}\"></span> ✓   Award [2] if 0.53 «m<sup>3</sup>» is seen as the answer without working</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A cylindrical spacecraft of cross-sectional area S moves with velocity v. The spacecraft enters a region of dust of density ρ. All the dust that comes into contact with the forward cross-sectional area of the spacecraft sticks to the spacecraft increasing its mass.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that in time Δt the mass of the spacecraft will increase by an amount ρSvΔt. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Deduce that the spacecraft will experience a drag force ρSv<sup>2</sup> opposite to its velocity. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> A satellite of mass m is in a circular orbit of radius r around Earth. Earth has mass M.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the total energy of the satellite is given by <span class=\"math\" data-latex=\"E_{T}=-\\frac{GMm}{2r}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The satellite experiences a drag force due to the atmosphere of Earth. With reference to the results in (a) and (b)(i), state and explain the likely fate of this satellite. [4]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The graph shows the variation with time of the height of the International Space Station (ISS) during a 30-day period.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The following data are available:</p>\n<table><tbody><tr><td></td><td><p>Mass of Earth</p></td><td><p>= 5.98 × 10<sup>24</sup> kg</p></td></tr><tr><td></td><td><p>Mass of the ISS</p></td><td><p>= 4.20 × 10<sup>5</sup> kg</p></td></tr><tr><td></td><td><p>Radius of the Earth</p></td><td><p>= 6.38 × 10<sup>6</sup> m</p></td></tr></tbody></table>\n<p>For the 30-day period indicated in the graph the loss of total energy of the ISS is 4.5 × 10<sup>9</sup> J.</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the average rate at which the energy of the ISS is being dissipated. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Show, using the average height during the 30-day period, that the speed of the ISS is about 8 × 10<sup>3</sup> m s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Estimate the increase in the temperature of the ISS assuming all the lost energy went into thermal energy of the ISS. Take the specific heat capacity of the ISS to be 500 J kg<sup>−1</sup> K<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.iv\"><p><strong>c.iv</strong> Estimate, using the answers to (c)(i) and (c)(ii), the average drag force that acted on the ISS. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>At the end of the 30-day period, rockets are fired to bring the ISS back to its initial height. The energy density of liquid hydrogen rocket fuel is 8.5 × 10<sup>3</sup> MJ m<sup>−3</sup>.</p>\n<p>Estimate the volume of fuel needed.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_571c2f72073e420da7110d7cad27e0e5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is projected from a cliff edge at <span class=\"math\" data-latex=\"v = 25\\,\\mathrm{m}\\,\\mathrm{s}^{-1}\"></span> at a <span class=\"math\" data-latex=\"37^\\circ\"></span> angle above the horizontal. It lands <span class=\"math\" data-latex=\"82.4\\,\\mathrm{m}\"></span> horizontally from the base of the cliff. What is the height of the cliff? Use <span class=\"math\" data-latex=\"\\sin 37^\\circ = 0.6\"></span> and <span class=\"math\" data-latex=\"\\cos 37^\\circ = 0.8\"></span>.</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"18.0\\ m\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"21.4\\ m\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"24.6\\ m\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"27.2\\ m\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

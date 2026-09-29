@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d02cfdf09dab960b720bd8a6e6821253b52ea40870906b5b56fed92f2d4adfc1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d02cfdf09dab960b720bd8a6e6821253b52ea40870906b5b56fed92f2d4adfc1"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/b876b071480c7d287cbdc6117a21bc6de25d9db28bb6b465a46882a695442a64.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b876b071480c7d287cbdc6117a21bc6de25d9db28bb6b465a46882a695442a64"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ad569e6a12d141a3b0a38892066f6af6",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A circular coil of wire is in a region of uniform magnetic field directed out of the page, refer to Figure 1. The area of coil in the region varies with time as shown in the graph.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the induced current in the loop plotted with time?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

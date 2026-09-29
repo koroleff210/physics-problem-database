@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3b3b0ab2dce34d6be4fd3613a997d80cd5a817ba20d8a15be4014f55cbf59b42.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b3b0ab2dce34d6be4fd3613a997d80cd5a817ba20d8a15be4014f55cbf59b42"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_9b872a120a48445981697b05faf99848",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone is kicked horizontally at a speed of 1.5 m s<sup>−1</sup> from the edge of a cliff on one of Jupiter’s moons. It hits the ground 2.0 s later. The height of the cliff is 4.0 m. Air resistance is negligible.</p>\n<p>What is the magnitude of the displacement of the stone?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">7.0 m</li><li data-label=\"B\">5.0 m</li><li data-label=\"C\">4.0 m</li><li data-label=\"D\">3.0 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

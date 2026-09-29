@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d8b0ef3a6d58f19ce107aa820b0e822fddb98599eb9dc09ad1def87862ac9887.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d8b0ef3a6d58f19ce107aa820b0e822fddb98599eb9dc09ad1def87862ac9887"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_2790aa8491784f31b468497d180213a3",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>beta-minus / β⁻ «decay» ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>the energy of the emitted beta particle has a continuous spectrum ✔<br/>this implies a missing particle «the antineutrino» is carrying away some energy to ensure energy is conserved ✔</p>\n<p>Second mark is for linking the continuous spectrum to the need for a new particle to conserve energy/momentum.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>recognises that initial mass of Rb-87 is proportional to <span class=\"math\" data-latex=\"m_{Rb} + m_{Sr} = 2.232 + 0.028 = 2.260\\, \\text{mg}\"></span> ✔<br/>substitutes into <span class=\"math\" data-latex=\"t = \\frac{1}{\\lambda} \\ln(\\frac{N_0}{N}) \\rightarrow t = \\frac{1}{4.50 \\times 10^{-19}} \\ln(\\frac{2.260}{2.232})\"></span> ✔<br/><span class=\"math\" data-latex=\"t = 2.77 \\times 10^{16}\\,\\text{s} = 8.78 \\times 10^8\\, \\text{years}\"></span> (accept <span class=\"math\" data-latex=\"8.8 \\times 10^8\\, \\text{years}\"></span>) ✔</p>\n<p>Calculation must be shown. Final answer must be in years. The use of masses as a proxy for number of atoms is acceptable as molar masses are almost identical.</p></section><section class=\"markscheme-part\" data-label=\"d_i\"><p><strong><span class=\"math\" data-latex=\"d_{i}\"></span></strong></p><p>the curve is approximately flat / binding energy per nucleon is approximately constant / saturates «for A &gt; 60» ✔</p>\n<p>This implies that nucleons only interact with their nearest neighbours.</p></section><section class=\"markscheme-part\" data-label=\"d_ii\"><p><strong><span class=\"math\" data-latex=\"d_{\\mathrm{ii}}\"></span></strong></p><p>mass defect <span class=\"math\" data-latex=\"\\Delta m = (37 m_H + 50 m_n) - m_{atom} = (37 \\times 1.007825 + 50 \\times 1.008665) - 86.91 = 0.813\\,\\text{u}\"></span> ✔<br/>binding energy per nucleon = <span class=\"math\" data-latex=\"\\frac{0.813 \\times 931.5}{87} = 8.70\\,\\text{MeV}\"></span> ✔</p>\n<p>Requires use of data booklet values for proton/neutron/H-atom masses. Allow use of proton/electron masses instead of H-atom mass. Award 1 mark for correct mass defect calculation. Award 1 mark for correct conversion to BE/nucleon. Answer must be in MeV.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>7.</strong> The radioactive decay of rubidium-87, <span class=\"math\" data-latex=\"{}^{87}_{37}\\mathrm{Rb}\"></span>, into strontium-87, <span class=\"math\" data-latex=\"{}^{87}_{38}\\mathrm{Sr}\"></span>, is used to date rocks. The rocks do not contain strontium when they are formed.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Identify the type of decay. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why the beta spectrum led to the postulate of the neutrino. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Given masses of Rb-87 and Sr-87 and decay constant 4.50×10^-19 s^-1, determine rock age. [3]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Use binding-energy graph to identify feature justifying short range of strong nuclear force. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Given mass of Rb-87 is 86.91 u, calculate its binding energy in MeV. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

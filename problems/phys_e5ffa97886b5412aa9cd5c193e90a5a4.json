@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_e5ffa97886b5412aa9cd5c193e90a5a4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A technician measures the activity of a radioactive sample in a laboratory with a constant background radiation level. The recorded activity, which includes the contribution from background radiation, is documented in the table below for the first <span class=\"math\" data-latex=\"10.0\"></span> hours of the experiment.</p>\n<table><thead><tr><th>Time / hours</th><th>Recorded activity / Bq</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"0.0\"></span></td><td><span class=\"math\" data-latex=\"840\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"440\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"10.0\"></span></td><td><span class=\"math\" data-latex=\"240\"></span></td></tr></tbody></table>\n<p>What is the expected recorded activity at <span class=\"math\" data-latex=\"t=20.0\\ \\text{h}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"40\\text{ Bq}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"50\\text{ Bq}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"90\\text{ Bq}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"140\\text{ Bq}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

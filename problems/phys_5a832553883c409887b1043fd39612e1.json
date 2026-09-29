@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_5a832553883c409887b1043fd39612e1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thermally isolated container has <span class=\"math\" data-latex=\"10\"></span> kg of ice. The specific latent heat of fusion of ice is <span class=\"math\" data-latex=\"0.336\"></span> MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span>. How much energy must be supplied to the ice to completely melt it, without changing its temperature? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.0336\"></span> MJ</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.336\"></span> MJ</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"3.36\"></span> MJ</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"33.6\"></span> MJ</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

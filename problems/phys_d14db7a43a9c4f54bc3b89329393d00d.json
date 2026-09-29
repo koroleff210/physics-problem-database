@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_d14db7a43a9c4f54bc3b89329393d00d",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"19a\"><p><strong>19a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{3 \\times 10^{8}}{507 \\times 10^{12}} \\approx 5.92 \\times 10^{-7}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"tan \\theta = \\frac{2.91 \\times 10^{-3}}{1.67}\"></span></p>\n<p><span class=\"math\" data-latex=\"(\"></span>Or using small angle approximation.<span class=\"math\" data-latex=\")\"></span></p>\n<p><span class=\"math\" data-latex=\"\\theta \\approx 1.74 \\times 10^{-3}\"></span> rad</p>\n<p><span class=\"math\" data-latex=\"b = \\frac{5.92 \\times 10^{-7}}{1.74 \\times 10^{-3}} \\approx 3.40 \\times 10^{-4}\"></span> m</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19b\"><p><strong>19b</strong></p><p></p>\n<p>With a smaller slit width, less light reaches the screen, so the intensity of the pattern decreases.</p>\n<p>Based on the equation <span class=\"math\" data-latex=\"\\theta = \\frac{\\lambda}{b}\"></span>, when <span class=\"math\" data-latex=\"b\"></span> is smaller, <span class=\"math\" data-latex=\"\\theta\"></span> will be larger, therefore the distance between the central maximum and the first minimum increases.</p>\n<p>OR</p>\n<p>Based on the equation <span class=\"math\" data-latex=\"\\theta = \\frac{\\lambda}{b}\"></span>, when <span class=\"math\" data-latex=\"b\"></span> is smaller, <span class=\"math\" data-latex=\"\\theta\"></span> will be larger, therefore the first diffraction minimum forms at a smaller angle.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Monochromatic light of frequency <span class=\"math\" data-latex=\"507\"></span> THz is incident on a single slit. A diffraction pattern is formed on a screen at a distance of <span class=\"math\" data-latex=\"167\"></span> cm from the slit. The distance between the central maximum and the first minimum in the pattern is <span class=\"math\" data-latex=\"2.91\"></span> mm.</p>\n<p>a. Determine the width of the slit.</p>\n<p>   [3]</p>\n<p>b. State and explain <strong>two</strong> changes to the diffraction pattern when the width of the slit is halved. </p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_432d37794dd745f6be5e125f72d3b745",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> is launched from the surface of a spherical planet of radius <span class=\"math\" data-latex=\"R\"></span>, where the gravitational field strength is <span class=\"math\" data-latex=\"g\"></span>. The satellite is placed into a stable circular orbit at a height <span class=\"math\" data-latex=\"R\"></span> above the planet's surface. What is the minimum energy that must be supplied to the satellite by the launch system?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25 mgR\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50 mgR\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.75 mgR\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.00 mgR\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

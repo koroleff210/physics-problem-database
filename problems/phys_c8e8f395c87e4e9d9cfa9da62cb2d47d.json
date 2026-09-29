@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4ee29c846c9126d76cbcecb9f139137dc2c9705f5ea06d6eea8fde276b4d2b00.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4ee29c846c9126d76cbcecb9f139137dc2c9705f5ea06d6eea8fde276b4d2b00"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_c8e8f395c87e4e9d9cfa9da62cb2d47d",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point mass of 5 kg is placed at point P located on one of three gravitational equipotential lines, each separated by a distance of 100 km, as shown.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the initial acceleration of the point mass?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4 m s<sup>−2</sup> to the left</li><li data-label=\"B\">4 m s<sup>−2</sup> to the right</li><li data-label=\"C\">20 m s<sup>−2</sup> to the left</li><li data-label=\"D\">20 m s<sup>−2</sup> to the right</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

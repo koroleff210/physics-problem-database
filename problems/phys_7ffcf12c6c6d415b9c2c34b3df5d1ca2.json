@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7ffcf12c6c6d415b9c2c34b3df5d1ca2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A container holds a fixed mass of an ideal gas at pressure <span class=\"math\" data-latex=\"P\"></span>. The volume of the container is reduced to <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> of its original value while the absolute temperature of the gas is tripled. What is the resulting pressure of the gas?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{3}{2}P\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{2}{3}P\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"6P\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{6}P\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

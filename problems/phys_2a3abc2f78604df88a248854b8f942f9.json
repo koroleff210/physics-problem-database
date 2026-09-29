@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_2a3abc2f78604df88a248854b8f942f9",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{2.0}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\omega = 3.14\\ \\text{rad s}^{-1}\"></span> (or <span class=\"math\" data-latex=\"\\pi\\ \\text{rad s}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of <span class=\"math\" data-latex=\"a_{max} = \\omega^2 A\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"a_{max} = (3.14)^2 \\times 0.10 = 0.987\\ \\text{m s}^{-2}\"></span> (accept <span class=\"math\" data-latex=\"0.99\"></span> or <span class=\"math\" data-latex=\"\\frac{\\pi^2}{10}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of <span class=\"math\" data-latex=\"v = \\omega \\sqrt{A^2 - x^2}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"v = 3.14 \\sqrt{0.10^2 - 0.060^2} = 3.14 \\times 0.080 = 0.251\\ \\text{m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"0\\ \\text{N}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Kinetic energy decreases as it is converted into elastic potential energy [1 mark]<br/>- At maximum displacement, the kinetic energy is zero and the potential energy of the system is at its maximum [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.50\\ \\text{kg}\"></span> block is attached to a horizontal spring and oscillates on a frictionless surface. The system undergoes simple harmonic motion with a period of <span class=\"math\" data-latex=\"2.0\\ \\text{s}\"></span> and an amplitude of <span class=\"math\" data-latex=\"0.10\\ \\text{m}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the angular frequency <span class=\"math\" data-latex=\"\\omega\"></span> of the block's vibration. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the maximum acceleration experienced by the block during its motion. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the speed of the block when it is at a displacement of <span class=\"math\" data-latex=\"0.060\\ \\text{m}\"></span> from the equilibrium position. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> State the magnitude of the net force acting on the block as it passes through the equilibrium position. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Describe the energy transformations that occur as the block moves from the equilibrium position toward the maximum positive displacement. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

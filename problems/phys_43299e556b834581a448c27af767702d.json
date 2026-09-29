@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_43299e556b834581a448c27af767702d",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>6π<span class=\"math\" data-latex=\"Rην\"></span> = <span class=\"math\" data-latex=\"\\frac{4}{3}\"></span><span class=\"math\" data-latex=\"\\pi\"></span><span class=\"math\" data-latex=\"R\"></span><sup>3</sup><span class=\"math\" data-latex=\"\\rho\"></span>g  ✔ manipulation to show ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>correct substitution ✔ 0.0032 «Pa s» ✔</p>\n<p>Award [1] if there is a POT error in the calculation Apply ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>Reynolds number = 33 or 35  ✔</p>\n<p>«comparison with limit for laminar flow» is laminar ✔</p>\n<p>Allow ECF from b). Allow use of diameter in calculation of Reynolds number (R) so R is double.</p>\n<p>Allow ECF for MP2 with consistent conclusion.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A bubble of gas is rising at constant speed in a container filled with a liquid.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Show that the speed v of the bubble can be estimated as</p>\n<p>v = <span class=\"math\" data-latex=\"\\frac{2}{9} \\frac{{R}^{2} ρ g}{η}\"></span></p>\n<p>where <span class=\"math\" data-latex=\"R\"></span> is the radius of the bubble, <span class=\"math\" data-latex=\"\\rho\"></span> is the density of the liquid and <span class=\"math\" data-latex=\"η\"></span> is the viscosity of the liquid. Assume the weight of the bubble is negligible.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The velocity of the bubble is measured to be 18 cm s<sup>−1</sup>. The radius of the bubble is 0.45 mm and the density of the liquid is 1300 kg m<sup>−3</sup>.</p>\n<p>Calculate, in Pa s, the viscosity of the liquid.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Justify, with a calculation, that laminar flow applies in this situation. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

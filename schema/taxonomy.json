@@ -1,0 +1,30 @@
+{
+  "schema_version": "taxonomy.v1",
+  "curriculum": "IB Physics",
+  "classes": [
+    { "id": "A.1", "title": "Kinematics", "topic_id": "A", "topic_title": "Space, time and motion" },
+    { "id": "A.2", "title": "Forces and momentum", "topic_id": "A", "topic_title": "Space, time and motion" },
+    { "id": "A.3", "title": "Work, energy and power", "topic_id": "A", "topic_title": "Space, time and motion" },
+    { "id": "A.4", "title": "Rigid body mechanics", "topic_id": "A", "topic_title": "Space, time and motion" },
+    { "id": "A.5", "title": "Galilean and special relativity", "topic_id": "A", "topic_title": "Space, time and motion" },
+    { "id": "B.1", "title": "Thermal energy transfers", "topic_id": "B", "topic_title": "The particulate nature of matter" },
+    { "id": "B.2", "title": "Greenhouse effect", "topic_id": "B", "topic_title": "The particulate nature of matter" },
+    { "id": "B.3", "title": "Gas laws", "topic_id": "B", "topic_title": "The particulate nature of matter" },
+    { "id": "B.4", "title": "Thermodynamics", "topic_id": "B", "topic_title": "The particulate nature of matter" },
+    { "id": "B.5", "title": "Current and circuits", "topic_id": "B", "topic_title": "The particulate nature of matter" },
+    { "id": "C.1", "title": "Simple harmonic motion", "topic_id": "C", "topic_title": "Wave behaviour" },
+    { "id": "C.2", "title": "Wave model", "topic_id": "C", "topic_title": "Wave behaviour" },
+    { "id": "C.3", "title": "Wave phenomena", "topic_id": "C", "topic_title": "Wave behaviour" },
+    { "id": "C.4", "title": "Standing waves and resonance", "topic_id": "C", "topic_title": "Wave behaviour" },
+    { "id": "C.5", "title": "Doppler effect", "topic_id": "C", "topic_title": "Wave behaviour" },
+    { "id": "D.1", "title": "Gravitational fields", "topic_id": "D", "topic_title": "Fields" },
+    { "id": "D.2", "title": "Electric and magnetic fields", "topic_id": "D", "topic_title": "Fields" },
+    { "id": "D.3", "title": "Motion in electromagnetic fields", "topic_id": "D", "topic_title": "Fields" },
+    { "id": "D.4", "title": "Induction", "topic_id": "D", "topic_title": "Fields" },
+    { "id": "E.1", "title": "Structure of the atom", "topic_id": "E", "topic_title": "Nuclear and quantum physics" },
+    { "id": "E.2", "title": "Quantum physics", "topic_id": "E", "topic_title": "Nuclear and quantum physics" },
+    { "id": "E.3", "title": "Radioactive decay", "topic_id": "E", "topic_title": "Nuclear and quantum physics" },
+    { "id": "E.4", "title": "Fission", "topic_id": "E", "topic_title": "Nuclear and quantum physics" },
+    { "id": "E.5", "title": "Fusion and stars", "topic_id": "E", "topic_title": "Nuclear and quantum physics" }
+  ]
+}

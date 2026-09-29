@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_c2033b91351a44219b07ff413209d6c5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. This describes the correct mechanism; slow (thermal) neutrons have a higher probability of causing fission in <span class=\"math\" data-latex=\"^{235}\"></span>U, so this cannot be a distractor.</p>\n<p>B: Incorrect. <span class=\"math\" data-latex=\"^{238}\"></span>U is not readily fissioned by slow (thermal) neutrons; it typically requires fast neutrons or absorbs a neutron to form <span class=\"math\" data-latex=\"^{239}\"></span>U leading to breeding, not immediate fission.</p>\n<p>C: Correct. The probability (cross-section) for <span class=\"math\" data-latex=\"^{235}\"></span>U to absorb a slow (thermal) neutron and undergo fission is much higher than for fast neutrons, so moderation increases the likelihood of fission events that sustain the chain reaction.</p>\n<p>D: Incorrect. Control rods are used to absorb neutrons to reduce the reaction rate; this does not explain why slow neutrons are more effective at sustaining a chain reaction (the key is increased fission probability in <span class=\"math\" data-latex=\"^{235}\"></span>U).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a nuclear fission reactor, moderators are used to slow down neutrons. Which of the following statements best describes why slow neutrons are more effective in sustaining a fission chain reaction?</p><ol class=\"mcq-options\"><li data-label=\"A\">Slow neutrons are more likely to induce fission when they collide with uranium-235 nuclei because the fission cross-section is higher at low (thermal) neutron energies.</li><li data-label=\"B\">Slow neutrons are more likely to induce fission when they collide with uranium-238 nuclei, increasing the rate of fission.</li><li data-label=\"C\">Slow neutrons have a higher probability of being absorbed by uranium-235 nuclei, increasing the rate of fission.</li><li data-label=\"D\">Slow neutrons are more easily absorbed by control rods, allowing for more efficient reactor control.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

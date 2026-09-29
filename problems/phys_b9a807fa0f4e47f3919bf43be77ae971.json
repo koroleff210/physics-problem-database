@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/656a3bfbfb8984c382373ac60b148d7f354dc1c0f2647afc92998bac66023157.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "656a3bfbfb8984c382373ac60b148d7f354dc1c0f2647afc92998bac66023157"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b9a807fa0f4e47f3919bf43be77ae971",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks of equal mass are connected by a light string that passes over a frictionless pulley. The blocks slide at a constant velocity on inclined planes that are at right angles to each other. One of the inclined planes makes an angle θ to the horizontal such that θ &lt; 45°.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following statements is correct?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The net force acting on each block is the same.</li><li data-label=\"B\">The weight force acting on each block is different.</li><li data-label=\"C\">The magnitude of the normal force acting on each block is the same.</li><li data-label=\"D\">The magnitude of the force exerted by the string on each block is different.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

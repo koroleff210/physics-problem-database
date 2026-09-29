@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 1,
+  "id": "phys_33c3d6914cf14c3fa2abc603fc2cdc7b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The direction of the current induced in a conductor is such as to oppose the change that created the current. This statement is:</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">only true for alternating currents.</li>\n<li data-label=\"B\">only true for direct currents.</li>\n<li data-label=\"C\">equivalent to Lenz’s law.</li>\n<li data-label=\"D\">equivalent to Faraday’s law of induction.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

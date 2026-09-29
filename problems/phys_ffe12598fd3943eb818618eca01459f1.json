@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/62022f023a91691d91e93ba16438c833e775f5ff78374ef8d5d00934def4e429.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "62022f023a91691d91e93ba16438c833e775f5ff78374ef8d5d00934def4e429"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_ffe12598fd3943eb818618eca01459f1",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State the constant property: Frequency [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use the critical angle formula: <span class=\"math\" data-latex=\"\\sin \\theta_c = \\frac{n_2}{n_1} = \\frac{1.48}{1.62}\"></span> [1 mark]<br/>- Calculate final value: <span class=\"math\" data-latex=\"\\theta_c = \\sin^{-1}(0.9136) = 66.0^\\circ\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Comparison: The angle of incidence <span class=\"math\" data-latex=\"\\phi = 70^\\circ\"></span> is greater than the critical angle <span class=\"math\" data-latex=\"\\theta_c = 66.0^\\circ\"></span> [1 mark]<br/>- Conclusion: Total internal reflection occurs, so the ray is confined within the core [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Explain protection: Cladding protects the core surface from scratches or moisture, which would otherwise cause light to scatter or leak [1 mark]<br/>- Explain crosstalk: Cladding prevents light from leaking between adjacent fibers when they are bundled together in a cable [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram illustrates a cross-section of an optical fiber. A light ray within the glass core is incident on the boundary with the cladding material at an angle <span class=\"math\" data-latex=\"\\phi\"></span> to the normal. The refractive index of the core is <span class=\"math\" data-latex=\"n_1 = 1.62\"></span> and the refractive index of the cladding is <span class=\"math\" data-latex=\"n_2 = 1.48\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the wave property of light that remains constant as it crosses the boundary from the core to the cladding.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the critical angle for the boundary between the core and the cladding.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine whether the light ray will be confined within the core if the angle of incidence is <span class=\"math\" data-latex=\"\\phi = 70^{\\circ}\"></span>. Justify your answer.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain why a cladding layer is necessary in practical optical fibers rather than relying on a glass-air interface.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

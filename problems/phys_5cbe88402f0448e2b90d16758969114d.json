@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_5cbe88402f0448e2b90d16758969114d",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>gravitational potential is the work/energy per unit mass in bringing a point mass from infinity to a point in space ✔ this work is negative since the force is opposite to the displacement<br/>OR<br/>gravitational force is attractive<br/>OR<br/>gravitational force does work<br/>OR<br/>work done to bring the mass from the point to infinity would be positive ✔ <br/>ALT1 MP1 ‘per unit mass’ or ‘per kg’ must be included.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>the «minimum» speed of an object «at the surface of a planet» for the object to reach infinity/leave the gravitational field/escape the gravitational field. ✔<br/><br/> Do not allow ‘overcome the force of gravity’. Award [0] for answers that state orbit.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Use of 'GPE at surface <span class=\"math\" data-latex=\"R\"></span> + KE of probe = GPE at new height <span class=\"math\" data-latex=\"r\"></span>' ✔ <span class=\"math\" data-latex=\"-\\frac{GMm}{R}+\\frac{1}{2}m 0.9\\sqrt{\\frac{2GM}{R}}^{2}= -\\frac{GMm}{r}\"></span>  ✔ «<span class=\"math\" data-latex=\"r=5.3R\"></span> so» height <span class=\"math\" data-latex=\"=4.3R\"></span>✔ <br/>Award ECF for MP3 from incorrect use of 0.9 factor.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The gravitational potential due to an isolated point mass is zero at infinity. Explain why the gravitational potential at all other points is negative. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> A probe is launched from the surface of a planet with a speed 0.9 v<sub>esc</sub> where v<sub>esc</sub> is the escape speed from the planet.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State what is meant by escape speed. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The radius of the planet is <span class=\"math\" data-latex=\"R\"></span>. Determine, in terms of <span class=\"math\" data-latex=\"R\"></span>, the maximum height above the surface the probe can reach. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

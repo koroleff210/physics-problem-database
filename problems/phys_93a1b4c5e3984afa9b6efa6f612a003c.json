@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_93a1b4c5e3984afa9b6efa6f612a003c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"700\"></span> nm is incident on two slits that are <span class=\"math\" data-latex=\"21\"></span> mm apart. An interference pattern is formed on a screen at a distance of <span class=\"math\" data-latex=\"3.0\"></span> m from the slits..</p>\n<p>What is the separation of the fringes in the interference pattern?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.1\"></span> mm</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"10\"></span> mm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.1\"></span> cm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10\"></span> cm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

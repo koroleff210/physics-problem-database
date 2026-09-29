@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/428c73a02d57135922976cdf12806a61b06925e24613a3ec985e8b1b8c0e6cd6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "428c73a02d57135922976cdf12806a61b06925e24613a3ec985e8b1b8c0e6cd6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/49c87caf87f5e0f0a5e82e3d788aed798837aa7c372a888233572ae9ceb4ac55.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "49c87caf87f5e0f0a5e82e3d788aed798837aa7c372a888233572ae9ceb4ac55"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_18b228d54dd0416399314af0563abd10",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Use of Snell's Law: sin(θ₂)/1480 = sin(45.0°)/1450;<br/>θ₂ = arcsin((1480/1450) * sin(45.0°)) = 46.2°;</p>\n<p>Award [1] for correct substitution into Snell's Law. Award [1] for the correct answer. Accept answers in the range 46.1° to 46.3°. Award [2] for a bald correct answer.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>sin(θ_c) = <span class=\"math\" data-latex=\"v_{\\mathrm{slow}}\"></span> / <span class=\"math\" data-latex=\"v_{\\mathrm{fast}}\"></span> = 1450 / 1480;<br/>θ_c = 78.5°;</p>\n<p>Accept answers in the range 78.4° to 78.6°. Accept 79°.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Sound refracts away from the normal when entering a faster medium;<br/>This causes the path to continuously curve back towards the minimum speed layer;<br/>The sound becomes trapped/channelled/ducted, allowing for long-range propagation;</p>\n<p>Award one mark for each distinct point. A valid alternative or additional point is mentioning that rays at angles greater than the critical angle undergo total internal reflection.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>3.</strong> As a result of the variation of temperature and pressure with depth, the speed of sound <span class=\"math\" data-latex=\"v\"></span> in the sea varies so that it reaches a minimum value at a certain depth. This variation can be modelled by layers of constant decreasing speeds of sound up to that depth. Layers above or below that layer have increasing <span class=\"math\" data-latex=\"v\"></span>, as shown in the diagram.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate angle of refraction from 1450 m/s layer into 1480 m/s layer. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine critical angle for sound emitted from the minimum-speed layer. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe the path of sound emitted at X. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

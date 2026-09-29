@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e9ccc243272c4f97d2195ce29b6327e28743e1e63e733a8867a2146606ad9b71.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e9ccc243272c4f97d2195ce29b6327e28743e1e63e733a8867a2146606ad9b71"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_719c93a79bce443393eedabc54683182",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The particle experiences a downward gravitational force (mg) and an upward electric force. The electric force is upward because the charge is negative and the field is downward. The resultant force is the vector sum. If we define the downward direction as positive and treat the charge 'q' as a signed (negative) value, the downward component of the gravitational force is 'mg' and the downward component of the electric force is 'qE' (a negative value). The total downward component of the resultant force is 'mg + qE'. This interpretation is mathematically robust and generalizable.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle with mass <span class=\"math\" data-latex=\"m\"></span> and negative charge <span class=\"math\" data-latex=\"q\"></span> is moving with speed <span class=\"math\" data-latex=\"v\"></span> between two charged plates. The plates form an electric field <span class=\"math\" data-latex=\"E\"></span>.</p>\n<p>What is the resultant force on the particle?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"mg\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"qE-mg\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"qE+mg\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"qE\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

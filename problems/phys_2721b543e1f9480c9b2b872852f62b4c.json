@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ca05e8d4e195dc5bfa7d46babe7cded3cbc91624a67ca8cb7a1f73a107ef88e9.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ca05e8d4e195dc5bfa7d46babe7cded3cbc91624a67ca8cb7a1f73a107ef88e9"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2721b543e1f9480c9b2b872852f62b4c",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The vertical component of the cable tension (<span class=\"math\" data-latex=\"T \\sin 35.0^\\circ\"></span>) is less than the total weight of the beam (acting downwards) [1 mark]</p>\n<p>Therefore, for translational equilibrium (<span class=\"math\" data-latex=\"\\sum F_y = 0\"></span>), the hinge must provide the remaining upward vertical force.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Taking moments about the hinge:<br/>Clockwise moments = Anticlockwise moments</p>\n<p><span class=\"math\" data-latex=\"(15.0 \\times 9.81) \\times 1.50 = (T \\sin 35.0^\\circ) \\times 3.00\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"220.725 = 1.7207 \\times T\"></span></p>\n<p><span class=\"math\" data-latex=\"T = 128\"></span> N [1 mark]</p>\n<p>Note: Allow 130 N if <span class=\"math\" data-latex=\"g=10\"></span> is used.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>New total clockwise moment = <span class=\"math\" data-latex=\"(15.0 \\times 9.81 \\times 1.50) + (8.0 \\times 9.81 \\times 3.00) = 456.165\"></span> Nm</p>\n<p><span class=\"math\" data-latex=\"T_{\\text{new}} = \\frac{456.165}{3.00 \\sin 35.0^\\circ} = 265\"></span> N [1 mark]</p>\n<p>Since <span class=\"math\" data-latex=\"265\"></span> N <span class=\"math\" data-latex=\"&gt; 250\"></span> N, the cable will snap. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A uniform rigid beam of mass 15.0 kg and length 3.00 m is hinged to a vertical wall. It is held in a horizontal position by a light cable attached to the right end of the beam and to a point on the wall directly above the hinge. The cable makes an angle of 35.0° with the horizontal beam.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Outline why the hinge must exert a vertical upward force on the beam for it to remain in equilibrium.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the tension <span class=\"math\" data-latex=\"T\"></span> in the cable.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>A mass of 8.0 kg is suspended from the right end of the beam. The cable has a maximum breaking strength of 250 N. Determine whether the cable will snap.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

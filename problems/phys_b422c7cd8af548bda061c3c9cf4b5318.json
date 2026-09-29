@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_b422c7cd8af548bda061c3c9cf4b5318",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Diagram shows one-quarter of a full wavelength.<br/>[1 mark]<br/>- Node at closed end and antinode at open end.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Node at closed end, antinode at open end.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"L = \\dfrac{\\lambda}{4}\"></span><br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A tube is closed at one end and open at the other.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Draw the fundamental mode of the standing wave in the tube. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the position of the node and antinode. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State the length of the tube in terms of the wavelength. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

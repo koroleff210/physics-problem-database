@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 6,
+  "id": "phys_66be0f8dd231446f9003e3a89f774249",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Kinetic energy <span class=\"math\" data-latex=\"E_k = eV = 1.60 \\times 10^{-19} \\times 150 = 2.40 \\times 10^{-17}\\ \\text{J}\"></span> [1 mark]<br/>- Momentum <span class=\"math\" data-latex=\"p = \\sqrt{2 m_e E_k} = \\sqrt{2 \\times 9.11 \\times 10^{-31} \\times 2.40 \\times 10^{-17}} = 6.61 \\times 10^{-24}\\ \\text{kg m s}^{-1}\"></span> [1 mark]<br/>- Wavelength <span class=\"math\" data-latex=\"\\lambda = \\frac{h}{p} = \\frac{6.63 \\times 10^{-34}}{6.61 \\times 10^{-24}} = 1.00 \\times 10^{-10}\\ \\text{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Electrons behave as particles but produce interference patterns typical of waves [1 mark]<br/>- This demonstrates wave–particle duality, a fundamental quantum concept [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Increasing accelerating voltage increases electron momentum, decreasing de Broglie wavelength and narrowing the diffraction pattern [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A beam of electrons is accelerated through a potential difference of <span class=\"math\" data-latex=\"150\\ \\text{V}\"></span>. The electrons then pass through a narrow slit producing a diffraction pattern on a screen.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the de Broglie wavelength of the electrons. (Electron mass <span class=\"math\" data-latex=\"m_e = 9.11 \\times 10^{-31}\\ \\text{kg}\"></span>, charge <span class=\"math\" data-latex=\"e=1.60 \\times 10^{-19}\\ \\text{C}\"></span>, Planck constant <span class=\"math\" data-latex=\"h=6.63 \\times 10^{-34}\\ \\text{J s}\"></span>.)<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain why the observation of diffraction patterns from electrons demonstrates wave–particle duality.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe how increasing the accelerating voltage affects the diffraction pattern.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

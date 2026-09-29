@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_bb064b316da34eb7a84b3ccefc210753",
+  "level": "sl_hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- upwards (opposite to the direction of the initial velocity) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- calculates the speed of the acrobat just before impact: <span class=\"math\" data-latex=\"v = \\sqrt{2gh} = \\sqrt{2 \\times 9.81 \\times 12} = 15.34\\text{ m s}^{-1}\"></span> [1 mark]<br/>- calculates the change in momentum: <span class=\"math\" data-latex=\"\\Delta p = m\\Delta v = 65 \\times 15.34 = 997.1\\text{ N s}\"></span> [1 mark]<br/>- calculates the average resultant force: <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t} = \\frac{997.1}{0.40} = 2492.75\\text{ N} \\approx 2500\\text{ N}\"></span> [1 mark]</p>\n<p>*Accept 2490 N or 2500 N depending on rounding. Allow ECF from velocity calculation.*</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An acrobat of mass <span class=\"math\" data-latex=\"65\\text{ kg}\"></span> falls vertically from a platform located <span class=\"math\" data-latex=\"12\\text{ m}\"></span> above a safety mat. After making contact with the mat, the acrobat is brought to rest in a time interval of <span class=\"math\" data-latex=\"0.40\\text{ s}\"></span>. Assume air resistance is negligible during the fall.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the direction of the acceleration of the acrobat during the period they are in contact with the mat.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnitude of the average resultant force acting on the acrobat while they are being brought to rest.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

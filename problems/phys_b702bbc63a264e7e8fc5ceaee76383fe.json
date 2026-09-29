@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_b702bbc63a264e7e8fc5ceaee76383fe",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which application of the Doppler effect relies on the reflection of waves off moving objects?</p><ol class=\"mcq-options\"><li data-label=\"A\">Determining the age of a star using its spectrum</li><li data-label=\"B\">Measuring blood flow speed in arteries using ultrasound</li><li data-label=\"C\">Measuring the distance to nearby stars using parallax</li><li data-label=\"D\">Comparing frequencies of different musical instruments</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

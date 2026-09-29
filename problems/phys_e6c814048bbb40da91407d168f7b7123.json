@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_e6c814048bbb40da91407d168f7b7123",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>For a satellite in a circular orbit at radius <span class=\"math\" data-latex=\"r_{\\mathrm{orbit}}\"></span> = 2R, the gravitational force equals the centripetal force, giving GMm/(2R)^2 = mv^2/(2R). The kinetic energy K = 1/2 mv^2 can be used to find GM = 4KR/m. The escape speed <span class=\"math\" data-latex=\"v_{\\mathrm{esc}}\"></span> from the planet's surface (radius R) is given by 1/2 <span class=\"math\" data-latex=\"v_{\\mathrm{esc}}\"></span>^2 = GM/R. Substituting the expression for GM yields <span class=\"math\" data-latex=\"v_{\\mathrm{esc}}\"></span>^2 = 2(4KR/m)/R = 8K/m, so <span class=\"math\" data-latex=\"v_{\\mathrm{esc}}\"></span> = sqrt(8K/m).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spherical planet of radius R has a satellite of mass m that orbits it a distance 2R from its centre with kinetic energy K. What is the escape speed from the surface of the planet?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"\\sqrt{8K/m}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"\\sqrt{4K/m}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"\\sqrt{2K/m}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"\\sqrt{K/m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

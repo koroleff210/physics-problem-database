@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c5a7e04cb6508e3f633d6bfea95f346616be12b572fa94501e3c5ca149b37a63.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c5a7e04cb6508e3f633d6bfea95f346616be12b572fa94501e3c5ca149b37a63"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_287eec3d8ddd4ffeb4d57143f313a564",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>4.8 «light years» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>«−» 0.48c ✓   Ignore sign</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"y\"></span> = 1.6 ✓ D = <span class=\"math\" data-latex=\"\\frac{4.8}{1.6}\"></span> = 3 «ly» ✓   Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"= \\frac{0.3c-0.78c}{1-\\frac{0.78c\\times 0.3c}{c^{2}}}\"></span> ✓ «−» 0.63c ✓   Award [2] if MP1 correct and correct answer given to 1 significant figure.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p><span class=\"math\" data-latex=\"Δ {t}_{p} = \\frac{3 \\, l y}{( 0.78 - 0.627 ) c}\"></span> OR <span class=\"math\" data-latex=\"Δ {t}_{p} = 1.6 ( \\frac{4.8 \\, l y}{0.3 c} - \\frac{0.78 c \\times  4.8 \\, l y}{{c}^{2}} )\"></span> ✓ = 19 OR 20 «years» ✓   Award [2] for BCA</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>shuttle measures proper time ✓</p>\n<p>as the events occur at the same place for the shuttle / shuttle is at both events ✓</p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Star A and star B are separated by a fixed distance of 4.8 light years as measured in the reference frame in which they are stationary. An observer P at rest in a space station moves to the right with speed 0.78c relative to the stars. A shuttle S travels from star A to star B at a speed of 0.30c relative to the stars.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the value of the maximum distance between the stars that can be measured in any reference frame. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the speed of shuttle S relative to observer P using Galilean relativity. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the distance between star A and star B relative to observer P. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Show that the speed of shuttle S relative to observer P is approximately 0.6c. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Calculate the time, according to observer P, that the shuttle S takes to travel from star A to star B. [2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> State and explain the reference frame in which the proper time for shuttle S to journey from star A to star B can be measured. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

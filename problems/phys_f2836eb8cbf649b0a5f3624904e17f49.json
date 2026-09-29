@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0cef76bdf08fcc0e8996be140a62926ca508d3ed63a498473f39828a757b8d54.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0cef76bdf08fcc0e8996be140a62926ca508d3ed63a498473f39828a757b8d54"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_f2836eb8cbf649b0a5f3624904e17f49",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the pressure of an ideal gas in a sealed container of volume <span class=\"math\" data-latex=\"V\"></span> varies with temperature. The number of gas molecules in the container is <span class=\"math\" data-latex=\"A\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the gradient of the graph?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{AR}{V}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{A}{VR}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{Ak_{B}}{V}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{A}{k_{B}V}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_dcc29d7b34e042e492602ba4df996930",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>Using the ideal gas law, PV = N <span class=\"math\" data-latex=\"k_{B}\"></span> T, the number of atoms is N = PV / (<span class=\"math\" data-latex=\"k_{B}\"></span> T). The ratio of the number of atoms is <span class=\"math\" data-latex=\"N_{A}\"></span> / <span class=\"math\" data-latex=\"N_{B}\"></span> = (<span class=\"math\" data-latex=\"P_{A}\"></span> / <span class=\"math\" data-latex=\"P_{B}\"></span>) * (<span class=\"math\" data-latex=\"T_{B}\"></span> / <span class=\"math\" data-latex=\"T_{A}\"></span>). Temperatures must be converted to Kelvin: <span class=\"math\" data-latex=\"T_{A}\"></span> = 18 + 273.15 = 291.15 K and <span class=\"math\" data-latex=\"T_{B}\"></span> = 36 + 273.15 = 309.15 K. The ratio is (8.1e4 / 5.3e4) * (309.15 / 291.15) ≈ 1.528 * 1.062 ≈ 1.62, which corresponds to option B.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two containers of equal volume, A and B, are filled with an ideal gas. The pressure in A is <span class=\"math\" data-latex=\"8.1\\times10^4\\,\\mathrm{Pa}\"></span> and its temperature is <span class=\"math\" data-latex=\"18^\\circ\\mathrm{C}\"></span>. The pressure in B is <span class=\"math\" data-latex=\"5.3\\times10^4\\,\\mathrm{Pa}\"></span> and its temperature is <span class=\"math\" data-latex=\"36^\\circ\\mathrm{C}\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\dfrac{\\text{number of gas atoms in A}}{\\text{number of gas atoms in B}}\"></span>?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> 3.1</li>\n<li data-label=\"B\"> 1.6</li>\n<li data-label=\"C\"> 0.6</li>\n<li data-label=\"D\"> 0.3</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

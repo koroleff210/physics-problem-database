@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3badb423e4058e98850dabef5d2a96f9e76d3864136ed4c1115203a3b1b2dfab.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3badb423e4058e98850dabef5d2a96f9e76d3864136ed4c1115203a3b1b2dfab"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2cef43eaf3b54366a82109a26ba059c8",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Source X and source Y both emit waves of wavelength 0.40 m. There is a constant phase angle of <span class=\"math\" data-latex=\"\\pi\"></span> rad between the sources. Point P is 5.2 m from X and 4.6 m from Y. The amplitude of each wave at P is A.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the amplitude of the resultant wave at P?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0</li><li data-label=\"B\">A</li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span>A</li><li data-label=\"D\">2A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

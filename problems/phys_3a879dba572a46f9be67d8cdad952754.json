@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cafad59c366e831196d6c2b331d0bbb33b928542fdd21b8816ca94668ec0e16a.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cafad59c366e831196d6c2b331d0bbb33b928542fdd21b8816ca94668ec0e16a"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_3a879dba572a46f9be67d8cdad952754",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The energy consumption of a device is shown by the Sankey diagram below:</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the efficiency of this device?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.13\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.90\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.30\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.10\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

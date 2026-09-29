@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_15223fa488f04decaa48d0799b3c50e6",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"v_{17} sin \\theta=\\frac{19\\times 0.5\\times sin30}{17}=0.279 m s^{-1}\"></span>  ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"v_{17} cos \\theta=\\frac{17\\times 2.5-19\\times 0.50\\times cos30}{17}\"></span>  ✓  <span class=\"math\" data-latex=\"=2.02 m s^{-1}\"></span>  ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>2.04 m s<sup>−1 </sup> ✓  At 7.9° to initial direction  ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Total angle between stones is 38°, angle will be 90° when elastic OR Compares kinetic energies in a correct calculation (initial ke = 53 J, final ke = 34 J +2.4 J) ✓   <br/>Collision is not elastic ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A curling stone of mass 17 kg travelling at 2.5 cm s<sup>−1</sup> collides with a second stationary curling stone of mass 19 kg. The second curling stone is scattered with a speed of 0.50 cm s<sup>−1</sup> at an angle of 30° to the initial direction of the first stone.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate the component of momentum of the first curling stone perpendicular to the initial direction. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the velocity component of the first curling stone in the initial direction. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Determine the velocity of the first curling stone. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Deduce whether this collision is elastic. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_fbef7918243a4c5eb3ef115a96d4e50c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nitrogen-14 nucleus is bombarded with an alpha particle, resulting in the formation of an oxygen-17 nucleus and the emission of a single particle <span class=\"math\" data-latex=\"X\"></span>, as shown in the following nuclear equation:</p>\n<p><span class=\"math\" data-latex=\"{}^{14}_{7}\\text{N} + {}^{4}_{2}\\text{He} \\rightarrow {}^{17}_{8}\\text{O} + X\"></span></p>\n<p>What is particle <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">A neutron</li><li data-label=\"B\">A proton</li><li data-label=\"C\">An electron</li><li data-label=\"D\">A positron</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

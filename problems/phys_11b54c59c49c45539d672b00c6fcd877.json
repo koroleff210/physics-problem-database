@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_11b54c59c49c45539d672b00c6fcd877",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below shows the electric potential at three points, <span class=\"math\" data-latex=\"X\"></span>, <span class=\"math\" data-latex=\"Y\"></span>, and <span class=\"math\" data-latex=\"Z\"></span>, in a non-uniform electric field.</p>\n<table><thead><tr><th>Point</th><th>Electric Potential / <span class=\"math\" data-latex=\"\\mathrm{V}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"+150\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"-50\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Z\"></span></td><td><span class=\"math\" data-latex=\"+50\"></span></td></tr></tbody></table>\n<p>An electron (<span class=\"math\" data-latex=\"q = -1.6 \\times 10^{-19}\\ \\mathrm{C}\"></span>) is moved from point <span class=\"math\" data-latex=\"Y\"></span> to point <span class=\"math\" data-latex=\"Z\"></span>. What is the change in the electric potential energy of the electron?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"+1.6 \\times 10^{-17}\\ \\mathrm{J}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"-1.6 \\times 10^{-17}\\ \\mathrm{J}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"-3.2 \\times 10^{-17}\\ \\mathrm{J}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"-8.0 \\times 10^{-18}\\ \\mathrm{J}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

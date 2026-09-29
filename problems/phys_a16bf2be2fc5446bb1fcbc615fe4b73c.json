@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_a16bf2be2fc5446bb1fcbc615fe4b73c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a solid metal cube is three times the mass of a solid metal sphere. The radius of the sphere is half that of the side length of the cube. </p>\n<p>What is the best estimate for <span class=\"math\" data-latex=\"\\frac{\\textup{density of cube}}{\\textup{density of sphere}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{8}{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{8}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

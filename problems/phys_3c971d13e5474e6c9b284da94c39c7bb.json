@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/22ef7029a7a046df7ca5ebe74b4b15b0ce94d5c0186f49639561ed6634c23d91.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "22ef7029a7a046df7ca5ebe74b4b15b0ce94d5c0186f49639561ed6634c23d91"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_3c971d13e5474e6c9b284da94c39c7bb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The path of a positron is shown as it moves between two parallel, charged plates. The direction of the positron´s velocity is horizontal as it enters the electric field between the plates. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the electric field between the plates?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">To the left</li>\n<li data-label=\"B\">To the right</li>\n<li data-label=\"C\">Downwards</li>\n<li data-label=\"D\">Upwards</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

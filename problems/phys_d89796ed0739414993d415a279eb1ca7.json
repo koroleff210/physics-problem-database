@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/39d4e9076ea4a638d3ce0113b91aac92b924acae7f6a8883ba8486dfbd8595d6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "39d4e9076ea4a638d3ce0113b91aac92b924acae7f6a8883ba8486dfbd8595d6"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_d89796ed0739414993d415a279eb1ca7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A kayak is moving perpendicularly to ocean waves that are travelling at a speed of <span class=\"math\" data-latex=\"4.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> towards the coast. The waves arrive at the coast with a frequency of <span class=\"math\" data-latex=\"0.40\"></span> Hz. The person sitting in the kayak observes that the kayak crosses the wavefronts with a frequency of <span class=\"math\" data-latex=\"0.20\"></span> Hz.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>In which direction is the kayak moving and what is the speed of the kayak?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction in which the kayak is moving</strong></p>\n</td>\n<td>\n<p><strong>Speed of the kayak</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Towards the coast</td>\n<td><span class=\"math\" data-latex=\"2.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Towards the coast</td>\n<td><span class=\"math\" data-latex=\"4.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Away from the coast</td>\n<td><span class=\"math\" data-latex=\"2.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Away from the coast</td>\n<td><span class=\"math\" data-latex=\"4.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

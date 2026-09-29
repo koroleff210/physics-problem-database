@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_51d4c4d1b7d343e882e9cf596fb410f9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An engine with an efficiency of <span class=\"math\" data-latex=\"30 \\%\"></span> provides a constant useful power output of <span class=\"math\" data-latex=\"150 \\text{ kW}\"></span> by burning fuel with a specific energy of <span class=\"math\" data-latex=\"40 \\text{ MJ kg}^{-1}\"></span>. What is the mass of fuel consumed by the engine during <span class=\"math\" data-latex=\"1.0\"></span> hour of operation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4.1 \\text{ kg}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"12.5 \\text{ kg}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"45 \\text{ kg}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"13.5 \\text{ kg}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

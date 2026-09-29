@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/98d6ea7202802f5db47810183cae2d996f0b1466a3f88eec8fa0582fc5b2d527.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98d6ea7202802f5db47810183cae2d996f0b1466a3f88eec8fa0582fc5b2d527"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/702ad65dfe15adab00b9f136c059c8d5123bd1e83c98b70a57d63ead436e5099.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "702ad65dfe15adab00b9f136c059c8d5123bd1e83c98b70a57d63ead436e5099"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_4010ef40c8a74bdf9a36514317243ac2",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>v = ≪<span class=\"math\" data-latex=\"\\sqrt{2gh}\"></span> = ≫ <span class=\"math\" data-latex=\"\\sqrt{2 \\times  9.81 \\times 28}\"></span>  OR  23.4 «m s<sup>−1</sup>» ✔   Starting point can be suvat equations or conservation of energy.<br/>Answer must be seen to at least 3 s.f. or correct substitution shown.<br/>Allow 23.7 for use of g = 10</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>[k] = <span class=\"math\" data-latex=\"\\frac{N}{m^{2} s^{-2}}\"></span> = <span class=\"math\" data-latex=\"\\frac{kg m s^{-2}}{m^{2} s^{-2}}\"></span> ✔</p>\n<p>[k] = <span class=\"math\" data-latex=\"kgm^{-1}\"></span> ✔</p>\n<p>kg m s<sup>−2</sup> OR m<sup>2 </sup>s<sup>−2</sup> seen for MP1</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATE 1<br/>Resistance/drag force/friction increases with speed ✔<br/>Until it becomes equal to the weight ✔<br/>Net force/acceleration is then zero «and so speed is constant» ✔   ALTERNATE 2<br/>Resistance force increases with speed ✔<br/>Until GPE lost no longer converted to KE ✔<br/>But to thermal energy/work done against resistive force ✔</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>28 «m» ✔</p>\n<p>Accept range 25 to 31 «m» for those who counted squares<br/>Do not allow displacement or distance travelled. A value is required.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Alternate 1 <span class=\"math\" data-latex=\"mg\"></span> = k<span class=\"math\" data-latex=\"v\"></span><sup>2</sup> with v = 9.5 m s<sup>−1</sup> ✔ k = « <span class=\"math\" data-latex=\"\\frac{mg}{v^{2}}\"></span> = <span class=\"math\" data-latex=\"\\frac{2.7\\times 10^{-3}\\times 9.81}{9.5^{2}}\"></span>=»2.9 × 10<sup>−4</sup> ✔</p>\n<p>Alternate 2 Determination of acceleration from gradient of a tangent at any point other than t = 0 ✔ Use of <span class=\"math\" data-latex=\"mg\"></span> − k<span class=\"math\" data-latex=\"v\"></span><sup>2</sup> = <span class=\"math\" data-latex=\"ma\"></span> to find k ✔ For example:<br/>Gradient at t = 1 s is 3.9 «m s<sup>−2</sup>» and speed is 7.4 «m s<sup>−1</sup>» k=«<span class=\"math\" data-latex=\"\\frac{mg-ma}{v^{2}}\"></span> = <span class=\"math\" data-latex=\"\\frac{2.7\\times 10^{-3}\\times 9.81 - 3.9}{7.4^{2}}\"></span> =»2.9 × 10<sup>−4</sup></p>\n<p>Allow 3.0 × 10<sup>−4</sup> for use of g = 10.<br/>Allow ECF for MP2 from incorrect read off from graph.<br/>Ignore any units on k.</p>\n<p>Do not award MP1 for simply calculating the gradient and equating it to k. For MP1 there needs to be a recognition that the gradient is the acceleration.<br/>Range for Alternate 2<br/>(2.5 to 3.3) × 10<sup>−4</sup></p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATE 1</p>\n<p><span class=\"math\" data-latex=\"Δ p\"></span> = «2.7 × 10<sup>−3</sup> × (7.8 + 9.5) =» 0.0467 «N s» ✔</p>\n<p>«1.1 = <span class=\"math\" data-latex=\"\\frac{Δ p}{Δ t}\"></span> so T = <span class=\"math\" data-latex=\"\\frac{0.0467}{1.1}\"></span> =» 0.042 «s» ✔</p>\n<p>ALTERNATE 2 a = « <span class=\"math\" data-latex=\"\\frac{F}{m}\"></span>=» <span class=\"math\" data-latex=\"\\frac{1.1}{2.7 \\times  10^{-5}}\"></span>= 407 «m s<sup>−2</sup>» ✔ T = «<span class=\"math\" data-latex=\"\\frac{9.5 + 7.8}{407}\"></span>=» 0.042 «s» ✔</p>\n<p>Watch for ECF from incorrect value of v in cii).</p>\n<p>Award [1] for t = 0.076 «s» using an impact speed of 23 m s<sup>−1</sup>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A ball of mass 2.7 g is released from rest from a height of 28 m above horizontal ground.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that in the absence of air resistance the ball impacts the ground with a speed of about 23 m s<sup>−1</sup>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> An air resistance force F acts on the ball. F can be modeled by F = kv<sup>2</sup> where v is the speed and k is a constant.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine the unit of k in terms of fundamental units. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Describe how the ball reaches terminal speed. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The graph shows the variation with time t of the speed v of the ball from the instant it is released until it impacts the ground.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> State the value of the area under the curve. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine k. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The ball rebounds from the ground with speed 7.8 m s<sup>−1</sup>. The ball is in contact with the ground for a time T. The average resultant force on the ball during this time is 1.1 N.</p>\n<p>Determine T.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

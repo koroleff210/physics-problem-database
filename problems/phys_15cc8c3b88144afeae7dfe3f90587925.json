@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_15cc8c3b88144afeae7dfe3f90587925",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the distance from Earth in parsecs for a star with a parallax angle of 0.1 arcseconds?</p><ol class=\"mcq-options\"><li data-label=\"A\">0.1 pc</li><li data-label=\"B\">1 pc</li><li data-label=\"C\">10 pc</li><li data-label=\"D\">100 pc</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

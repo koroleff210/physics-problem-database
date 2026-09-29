@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_985847d300934696a97bb1dd7b4c547f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Window 1 is made of a single glass pane of thickness d. Window 2 is made of two glass panes of thickness d each, separated by a thin air space. Both windows have the same surface area and separate air masses of the same temperature difference.</p>\n<p>Thermal energy transferred in unit time through window 1 is <span class=\"math\" data-latex=\"Q\"></span>. The thermal energy transferred in unit time through window 2 is</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">less than <span class=\"math\" data-latex=\"\\frac{Q}{2}\"></span></li><li data-label=\"B\">equal to <span class=\"math\" data-latex=\"\\frac{Q}{2}\"></span></li><li data-label=\"C\">between <span class=\"math\" data-latex=\"\\frac{Q}{2}\"></span> and <span class=\"math\" data-latex=\"Q\"></span></li><li data-label=\"D\">equal to <span class=\"math\" data-latex=\"2Q\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

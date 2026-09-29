@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/dfe16076093fbf60d35fbb532ff4d17ba3ae27712acfa045ed21d7cd1f982bef.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "dfe16076093fbf60d35fbb532ff4d17ba3ae27712acfa045ed21d7cd1f982bef"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/72293a0a10ec7bb8150f6deabd8fa52d7d0d6b65b7e6d36f867f06f1a028be82.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "72293a0a10ec7bb8150f6deabd8fa52d7d0d6b65b7e6d36f867f06f1a028be82"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/109c87a59d75e8592d39e7efe3e4c27b38044b9aff69703749a03a484ae58c59.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "109c87a59d75e8592d39e7efe3e4c27b38044b9aff69703749a03a484ae58c59"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "C.1",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_b942891a81c14663b3491bbd54062ce9",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a\"><p><strong>5a</strong></p><p></p>\n<p>The restoring force that acts on the buoy is proportional to its displacement and it points in the opposite direction.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b\"><p><strong>5b</strong></p><p></p>\n<p>Since the restoring force that acts on the buoy is proportional to the displacement, <span class=\"math\" data-latex=\"1.7 = k(15)\"></span>, so <span class=\"math\" data-latex=\"k \\approx 0.113\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{max} = (0.113)(28) \\approx 3.164\"></span> N</p>\n<p><span class=\"math\" data-latex=\"a_{max} = \\frac{3.164}{0.42} \\approx 7.5\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c\"><p><strong>5c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"5d\"><p><strong>5d</strong></p><p></p>\n<p>Distance travelled by the buoy during half of an oscillation is <span class=\"math\" data-latex=\"0.56\"></span> m</p>\n<p>Time it takes for the buoy to travel this distance: <span class=\"math\" data-latex=\"t = \\frac{0.56}{0.47} \\approx 1.19\"></span> s</p>\n<p>Therefore the period of the oscillations is <span class=\"math\" data-latex=\"2.38\"></span> s and the frequency is <span class=\"math\" data-latex=\"\\frac{1}{2.38} \\approx 0.42\"></span> Hz</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A vertical, cylindrical buoy of mass <span class=\"math\" data-latex=\"0.42\"></span> kg is floating in the ocean. The horizontal line on the buoy shows the level of the water when the buoy is at rest. When a sea bird sits on the buoy, the buoy is displaced vertically downwards by a distance of <span class=\"math\" data-latex=\"28\"></span> cm. At <span class=\"math\" data-latex=\"t = 0\"></span> the bird flies away from the buoy.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline why the buoy oscillates with simple harmonic motion (SHM) when the bird flies away.</p>\n<p>  [1]</p>\n<p>When the horizontal line on the buoy is <span class=\"math\" data-latex=\"15\"></span> cm above the water surface, the restoring force that acts on the buoy is <span class=\"math\" data-latex=\"1.7\"></span> N.</p>\n<p>b. Calculate the maximum acceleration of the buoy.</p>\n<p>   [2]</p>\n<p>c. Sketch how the kinetic energy of the buoy varies with time during one complete oscillation.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [2]</p>\n<p></p>\n<p>d. The average speed of the buoy during half of an oscillation is <span class=\"math\" data-latex=\"0.47\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. Calculate the frequency of the buoy’s oscillations.</p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

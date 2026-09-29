@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_40ea14635aea4e6980913e7c6ae03b41",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The proper time interval between two events is, by definition, the time interval measured in a reference frame where the two events occur at the same spatial location. Due to time dilation, any observer moving relative to this frame will measure a longer time interval. Therefore, for observer X to measure the proper time, events P and Q must happen at the same point in space in X's frame.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An observer X measures the proper time interval between events P and Q. What must be true about this scenario?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"Observer &lt;code&gt;X&lt;/code&gt; is at rest.\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"Observer &lt;code&gt;X&lt;/code&gt; measures the longest time interval between &lt;code&gt;P&lt;/code&gt; and &lt;code&gt;Q&lt;/code&gt; in any reference frame.\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"P&lt;code&gt; and &lt;/code&gt;Q&lt;code&gt; occur at the same point in space in observer &lt;/code&gt;X`'s reference frame.\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"All observers measure the same time interval between &lt;code&gt;P&lt;/code&gt; and &lt;code&gt;Q&lt;/code&gt;.\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

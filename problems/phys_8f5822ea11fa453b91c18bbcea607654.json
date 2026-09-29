@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_8f5822ea11fa453b91c18bbcea607654",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The moderator in a nuclear power station…<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">increases the proportion of U-235 in the fuel source.</li><li data-label=\"B\">transfers internal energy from the reactor to the turbines.</li><li data-label=\"C\">allows operators to regulate the rate of power production.</li><li data-label=\"D\">decreases the kinetic energy of neutrons in the reactor.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

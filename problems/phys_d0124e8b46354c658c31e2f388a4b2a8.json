@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_d0124e8b46354c658c31e2f388a4b2a8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of a radioactive isotope has a half-life of 25 minutes. At <span class=\"math\" data-latex=\"t = 0\"></span>, the sample contains <span class=\"math\" data-latex=\"N_0\"></span> nuclei of this isotope. What is the ratio of the number of nuclei that have decayed to the number of nuclei remaining at <span class=\"math\" data-latex=\"t = 75\"></span> minutes?</p><ol class=\"mcq-options\"><li data-label=\"A\">3</li><li data-label=\"B\">7</li><li data-label=\"C\">8</li><li data-label=\"D\">15</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

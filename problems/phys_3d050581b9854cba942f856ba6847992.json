@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_3d050581b9854cba942f856ba6847992",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>This question is duplicated in #88 and #95</p>\n<p>The resistive force F that acts on an object moving through a fluid at speed v is given by F = kv where k is a constant. What is the unit of k?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">N s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"B\">N m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"C\">kg m<sup>2 </sup>s<span class=\"math\" data-latex=\"-\"></span><sup>3</sup></li><li data-label=\"D\">kg s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bc00f425f14468ef4a5552271b2ab73fbb41fa29fd7eb9f82ea6b8124c4ff25a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bc00f425f14468ef4a5552271b2ab73fbb41fa29fd7eb9f82ea6b8124c4ff25a"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/6b5aae7f777018143199c004bff0245587fa7eb392d01c4e08a37a13eb2c8201.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6b5aae7f777018143199c004bff0245587fa7eb392d01c4e08a37a13eb2c8201"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/23412412c9d6e09eb636d7f120d04a52b9549533bfe6575455cb9b8d38a2a691.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "23412412c9d6e09eb636d7f120d04a52b9549533bfe6575455cb9b8d38a2a691"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "B.5",
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_421e5182ed0049f8b6fa1d3fca73897f",
+  "level": "sl_hl",
+  "marks": 13,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a\"><p><strong>15a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15b(i)\"><p><strong>15b(i)</strong></p><p><em></em></p>\n<p><span class=\"math\" data-latex=\"F = ma = (4 \\times 1.661 \\times 10^{-27}) \\times (4 \\times 10^{13}) = 2.6576 \\times 10^{-13}\"></span> N <span class=\"math\" data-latex=\"\\approx 2.7 \\times 10^{-13}\"></span> N</p>\n<p>Calculated answer must be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15b(ii)\"><p><strong>15b(ii)</strong></p><p><em></em></p>\n<p><span class=\"math\" data-latex=\"F = qvBsin\\theta\"></span></p>\n<p><span class=\"math\" data-latex=\"v = \\frac{2.7 \\times 10^{-13}}{2 \\times 1.6 \\times 10^{-19} \\times 9.7 \\times sin90^{o}} \\approx 86985\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{k} = \\frac{1}{2} \\times (4 \\times 1.661 \\times 10^{-27}) \\times 86985^{2} \\approx 2.5 \\times 10^{-17}\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c(i)\"><p><strong>15c(i)</strong></p><p></p>\n<p>A conductor has (a large amount of) free electrons that can move through it to create a current.</p>\n<p>An insulator does not have (a large amount of) free electrons, so it will not have a current flowing through it.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c(ii)\"><p><strong>15c(ii)</strong></p><p></p>\n<p>Downwards</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c(iii)\"><p><strong>15c(iii)</strong></p><p></p>\n<p>volume = <span class=\"math\" data-latex=\"\\pi (0.32 \\times 10^{-3})^{2} \\times 0.75 \\approx 2.413 \\times 10^{-7}\"></span> m<span class=\"math\" data-latex=\"^{3}\"></span></p>\n<p>mass = <span class=\"math\" data-latex=\"(2.413 \\times 10^{-7}) \\times 8960 \\approx 2.16 \\times 10^{-3}\"></span> kg</p>\n<p><span class=\"math\" data-latex=\"2BILsin\\theta = mg\"></span></p>\n<p><span class=\"math\" data-latex=\"I = \\frac{2.16 \\times 10^{-3} \\times 9.81}{2 \\times 9.7 \\times 0.75 \\times sin90^{o}} \\approx 0.0015\"></span> A</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows the path of an alpha-particle moving at constant speed in a uniform magnetic field. The direction of the field is out of the page and the magnetic field strength is 9.7 T.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Draw labeled arrows on the diagram to indicate the direction of the alpha-particle's velocity and acceleration at point X.</p>\n<p>  [2]</p>\n<p>b. The acceleration of the alpha-particle is <span class=\"math\" data-latex=\"4.0 \\times 10^{13}\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>i. Show that the magnitude of the magnetic force acting on the alpha-particle is <span class=\"math\" data-latex=\"2.7 \\times 10^{-13}\"></span> N.</p>\n<p>  [2]</p>\n<p>ii. Calculate the kinetic energy of the alpha-particle.</p>\n<p>  [3]</p>\n<p>c. A current-carrying copper wire is placed in the magnetic field as shown on the diagram. Copper is a conductor.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>i. Distinguish between an insulator and a conductor.</p>\n<p>  [2]</p>\n<p>ii. State the direction of the magnetic force acting on the wire.</p>\n<p>  [1]</p>\n<p>iii. The magnetic force acting on the wire is half of the wire's weight. The length of the wire is 75 cm, the diameter of the wire's cross-sectional area is 0.64 mm and the density of copper is 8.96 g cm<span class=\"math\" data-latex=\"^{-3}\"></span>. Calculate the current in the wire.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

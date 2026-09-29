@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_35326f7935714c25965d566073f2f226",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet X has a mass M and radius R with gravitational field strength g at its surface. Planet Y has mass 3M and radius 2R.</p>\n<p>What is the gravitational field strength at the surface of planet Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{2g}{3}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3g}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4g}{3}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3g}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

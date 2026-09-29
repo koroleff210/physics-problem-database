@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_416519c0e13b4d35a5dc84dba79ce1fa",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The half-life of radioactive nuclide A is <span class=\"math\" data-latex=\"T\"></span>. The initial activity of a pure sample of nuclide A is the same as the initial activity of a pure sample of another radioactive nuclide, B. After <span class=\"math\" data-latex=\"2T\"></span> the ratio <span class=\"math\" data-latex=\"\\frac{Activity\\: of\\: sample\\: containing\\: nuclide\\: A}{Activity\\: of\\: sample\\: containing\\: nuclide\\: B}=8\"></span>. What is the half-life of nuclide B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.2T\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.4T\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2.5T\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"5T\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/881f05cc98852f45cedb7b39223e694baf43e5e65868ab15ad3735d5824b61eb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "881f05cc98852f45cedb7b39223e694baf43e5e65868ab15ad3735d5824b61eb"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_a22519e751114576bf9e7ac6920f421a",
+  "level": "hl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«0.20 × 0.80T» = 0.16T ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\frac{1}{2}\\times T\\times 0.16T=1800\"></span> ✔ <span class=\"math\" data-latex=\"T=150\"></span> «s» ✔ <br/>Award MP1 for any recognition that area under graph is displacement.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A train starting from rest travels from A to B with acceleration 0.20 m s<sup>−2</sup> and then decelerates to rest from B to C. The total distance from A to C is 1800 m. The graph shows the variation with time of the speed of the train.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The time of travel from A to C is T and the time from A to B is 0.80 T.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the speed of the train when at point B in terms of T. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine <span class=\"math\" data-latex=\"T\"></span>. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

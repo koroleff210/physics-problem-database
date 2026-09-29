@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bb1afb1948177d5c709b27fdc2060a6f2a3aff12b88c01dae301735c9969deea.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bb1afb1948177d5c709b27fdc2060a6f2a3aff12b88c01dae301735c9969deea"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_2c2dd79d67d2473195729dd0e0e4461a",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>0.6 c OR = 1.8 × 10<sup>8</sup> «m s<sup>−1</sup>» ✓</p>\n<p>A flash of light sent by an Earth observer at ct = 2.0 km is directed towards the spaceship.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Line drawn at 45° from ct = 2 km to hit spaceship world line at ct = 5 km OR ct = 1.2/(c − 0.6c) + 2 = 5 «km» ✓ t = <span class=\"math\" data-latex=\"\\frac{5000}{c}\"></span> = 1.7 × 10<sup>−5</sup> «s» ✓   Award [2] for BCA</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>(ct')<sup>2</sup> − 0 = 5<sup>2</sup> − 3<sup>2</sup> OR <span class=\"math\" data-latex=\"\\gamma\"></span> = 1.25 ✓   ct' = 4 «km» OR t' = 13 «µs» ✓   Allow ECF from (b) Allow ECF from MP1</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The spacetime diagram shows the Earth frame with the worldline of a spaceship S moving away from Earth. ct′ = 0 when ct = 0.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine the speed of the spaceship relative to Earth. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Estimate, using the spacetime diagram, the time in seconds when the flash of light reaches the spaceship according to the Earth observer. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the time coordinate ct′ when the flash of light reaches the spaceship, according to an observer at rest in the spaceship. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_537a86f5bc354ec4bba109b12890eb7e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A person throws a stone from the top of a cliff horizontally with initial speed <span class=\"math\" data-latex=\"v\"></span> at <span class=\"math\" data-latex=\"t = 0\"></span>, near the surface of the Earth. The stone hits the ground below the cliff at <span class=\"math\" data-latex=\"t = 10 \\; \\textup{s}\"></span>. Air resistance is not negligible. </p>\n<p>Which of the following statements is true about the vertical acceleration of the stone at <span class=\"math\" data-latex=\"t = 7 \\; \\textup{s}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Greater than <span class=\"math\" data-latex=\"g\"></span>.</li>\n<li data-label=\"B\">Less than <span class=\"math\" data-latex=\"g\"></span>.</li>\n<li data-label=\"C\">Equal to <span class=\"math\" data-latex=\"g\"></span>.</li>\n<li data-label=\"D\">Depends only on <span class=\"math\" data-latex=\"v\"></span>.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

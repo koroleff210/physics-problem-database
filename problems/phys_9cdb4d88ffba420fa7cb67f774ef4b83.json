@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/efaef64d03f1117f4bc765cdf442d303529f853deea29232fe4f483f0917453b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "efaef64d03f1117f4bc765cdf442d303529f853deea29232fe4f483f0917453b"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_9cdb4d88ffba420fa7cb67f774ef4b83",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>there is a potential difference across the internal resistance<br/>OR<br/>there is energy/power dissipated in the internal resistance ✓ when there is current «in the cell»/as charge flows «through the cell» ✓ <br/>Allow full credit for answer based on <span class=\"math\" data-latex=\"V=ε-Ir\"></span></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1<br/>pd dropped across cell <span class=\"math\" data-latex=\"=6.5 V\"></span>✓ internal resistance <span class=\"math\" data-latex=\"=\\frac{6.5}{0.9}\"></span> ✓ <span class=\"math\" data-latex=\"7.2 Ω\"></span>✓ <br/>ALTERNATIVE 2 <span class=\"math\" data-latex=\"ε=IR+r\"></span> so <span class=\"math\" data-latex=\"ε=V+Ir\"></span> ✓ <span class=\"math\" data-latex=\"21.0=14.5+0.9\\times r\"></span> ✓ <span class=\"math\" data-latex=\"7.2 Ω\"></span> ✓ <br/>Alternative solutions are possible Award [3] marks for a bald correct answer</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>power arriving at cell = 680 x 0.35 x 0.45 = «107 W» ✓ power in external circuit = 14.5 x 0.9 = «13.1 W» ✓ efficiency = 0.12 OR 12 % ✓ <br/>Award [3] marks for a bald correct answer Allow ECF for MP3</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>«energy from Sun/photovoltaic cells» is renewable<br/>OR<br/>non-renewable are running out ✓ non-polluting/clean ✓ no greenhouse gases<br/>OR<br/>does not contribute to global warming/climate change ✓ <br/>OWTTE Do not allow economic aspects (e.g. free energy)</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A photovoltaic cell is supplying energy to an external circuit. The photovoltaic cell can be modelled as a practical electrical cell with internal resistance.</p>\n<p>The intensity of solar radiation incident on the photovoltaic cell at a particular time is at a maximum for the place where the cell is positioned.</p>\n<p>The following data are available for this particular time:</p>\n<p>Operating current = 0.90 A<br/>Output potential difference to external circuit = 14.5 V<br/>                      Output emf of photovoltaic cell = 21.0 V<br/>                                                 Area of panel = 350 mm × 450 mm</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the output potential difference to the external circuit and the output emf of the photovoltaic cell are different. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the internal resistance of the photovoltaic cell for the maximum intensity condition using the model for the cell. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The maximum intensity of sunlight incident on the photovoltaic cell at the place on the Earth’s surface is 680 W m<sup>−2</sup>.</p>\n<p>A measure of the efficiency of a photovoltaic cell is the ratio</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\textit{energy available every second to the external circuit}}{\\textit{energy arriving every second at the photovoltaic cell surface}}.\"></span></p>\n<p>Determine the efficiency of this photovoltaic cell when the intensity incident upon it is at a maximum.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>State two reasons why future energy demands will be increasingly reliant on sources such as photovoltaic cells.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

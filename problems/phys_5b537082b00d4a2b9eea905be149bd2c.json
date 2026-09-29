@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d463f0891ee7aa2ef465d046543385f2cf08ae4d989883c4c49d3f9447cf1032.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d463f0891ee7aa2ef465d046543385f2cf08ae4d989883c4c49d3f9447cf1032"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_5b537082b00d4a2b9eea905be149bd2c",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State the period: <span class=\"math\" data-latex=\"2.0\\ \\mathrm{s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Calculate <span class=\"math\" data-latex=\"f = \\frac{1}{T} = \\frac{1}{2.0} = 0.50\\ \\mathrm{Hz}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate angular frequency <span class=\"math\" data-latex=\"\\omega = \\frac{2\\pi}{T} = \\pi\\ \\mathrm{rad\\,s^{-1}}\"></span> (<span class=\"math\" data-latex=\"3.14\\ \\mathrm{rad\\,s^{-1}}\"></span>) OR identify amplitude <span class=\"math\" data-latex=\"A = 0.080\\ \\mathrm{m}\"></span> [1 mark]<br/>- Calculate acceleration <span class=\"math\" data-latex=\"a_{\\text{max}} = \\omega^2 A = \\pi^2 \\times 0.080 = 0.79\\ \\mathrm{m\\,s^{-2}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- The velocity is at a maximum [1 mark]<br/>- At <span class=\"math\" data-latex=\"t = 1.0\\ \\mathrm{s}\"></span>, the displacement is zero (the equilibrium position), where kinetic energy/velocity is greatest OR the gradient of the <span class=\"math\" data-latex=\"x\"></span>-<span class=\"math\" data-latex=\"t\"></span> graph is at its steepest point [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A mass-spring system undergoes simple harmonic motion on a horizontal, frictionless surface. The graph below shows the variation with time <span class=\"math\" data-latex=\"t\"></span> in seconds (s) of the displacement <span class=\"math\" data-latex=\"x\"></span> in centimetres (cm) of the mass from its equilibrium position.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Determine the period of the oscillation from the graph.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the frequency of the oscillation.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the magnitude of the maximum acceleration of the mass.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Identify whether the velocity of the mass is zero or at a maximum at <span class=\"math\" data-latex=\"t = 1.0\\ \\mathrm{s}\"></span>. Justify your answer.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

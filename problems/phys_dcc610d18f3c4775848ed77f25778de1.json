@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_dcc610d18f3c4775848ed77f25778de1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A power station burning fossil fuel has a useful power output of <span class=\"math\" data-latex=\"147 \\text{ MW}\"></span>. The specific energy of the fuel is <span class=\"math\" data-latex=\"35 \\text{ MJ kg}^{-1}\"></span> and it is consumed at a rate of <span class=\"math\" data-latex=\"12 \\text{ kg s}^{-1}\"></span>. What is the overall efficiency of this power station?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"12\\%\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"35\\%\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"42\\%\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"65\\%\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

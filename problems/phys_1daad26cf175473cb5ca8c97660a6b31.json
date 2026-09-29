@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/36261c4d9a5747d359d13d89db91160fee838395b4800c556a070f6f2ada8cd3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "36261c4d9a5747d359d13d89db91160fee838395b4800c556a070f6f2ada8cd3"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/bfc9690b9e976150b71312a7866785a26a6597adb4f3e351b40ba5e3430ae063.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bfc9690b9e976150b71312a7866785a26a6597adb4f3e351b40ba5e3430ae063"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_1daad26cf175473cb5ca8c97660a6b31",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"p_{gas} = p_{a} + p_{block}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{nRT}{V} = p_{a} + \\frac{mg}{A}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{NRT}{(H \\times 0.5 \\times 0.5)N_{A}} = p_{a} + \\frac{(\\rho \\times A \\times 0.2)g}{A}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{4NRT}{HN_{A}} = p_{a} + 0.2 \\rho g\"></span></p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E_{t} = (3.1 \\times 10^{24})\\left ( \\frac{3}{2}\\times 1.38 \\times 10^{-23} \\times(127 + 273) \\right ) \\approx 26000\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{4(3.1 \\times 10^{24})(8.31)(127 + 273)}{(6.02 \\times 10^{23})H} = 10^{5} + 0.2 \\left ( \\frac{565}{0.5 \\times 0.5 \\times 0.2} \\right )(9.81)\"></span></p>\n<p><span class=\"math\" data-latex=\"H \\approx 0.56\"></span> m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3d\"><p><strong>3d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{4(1.55 \\times 10^{24})(8.31)(127 + 273)}{(6.02 \\times 10^{23})H_{c}} = 10^{5} + \\left ( \\frac{2 \\times 565}{0.5 \\times 0.5} \\right )(9.81)\"></span></p>\n<p><span class=\"math\" data-latex=\"H_{c} \\approx 0.24\"></span> m</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The dimensions of a lead block are <span class=\"math\" data-latex=\"50\"></span> cm by <span class=\"math\" data-latex=\"50\"></span> cm by <span class=\"math\" data-latex=\"20\"></span> cm. The density of the block is <span class=\"math\" data-latex=\"\\rho\"></span> and the volume of the block is <span class=\"math\" data-latex=\"V\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>A container is filled with a monatomic ideal gas and the block is used to seal the container. </p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>The number of gas atoms in the container is <span class=\"math\" data-latex=\"N\"></span> and the temperature of the gas is <span class=\"math\" data-latex=\"T\"></span>, and the height of the gas in the container is <span class=\"math\" data-latex=\"H\"></span>. The atmospheric pressure at the position of the container is <span class=\"math\" data-latex=\"p_{a}\"></span>.</p>\n<p>a. Show that <span class=\"math\" data-latex=\"\\frac{4NRT}{HN_{A}} = p_{a} + 0.2 \\rho g\"></span>.</p>\n<p>   [2]</p>\n<p></p>\n<p>The following data is provided:</p>\n\n<table>\n<tbody>\n<tr>\n<td><strong>Number of gas atoms in the container</strong></td>\n<td>\n<p><span class=\"math\" data-latex=\"3.1 \\times 10^{24}\"></span></p>\n</td>\n</tr>\n<tr>\n<td><strong>Temperature of the gas</strong></td>\n<td><span class=\"math\" data-latex=\"127 \\:{} ^{\\circ}\"></span>C</td>\n</tr>\n<tr>\n<td><strong>Mass of lead block</strong></td>\n<td><span class=\"math\" data-latex=\"565\"></span> kg</td>\n</tr>\n</tbody>\n</table>\n\n<p>b. Find the total energy of the gas.</p>\n<p>  [1]</p>\n<p>c. Find <span class=\"math\" data-latex=\"H\"></span>.</p>\n<p>  [2]</p>\n<p>Half of the gas atoms are released and the remaining gas is sealed in the container using two identical lead blocks placed on top of each other. The temperature of the gas is unchanged.</p>\n<p>d. Find the new height of the gas in the container.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

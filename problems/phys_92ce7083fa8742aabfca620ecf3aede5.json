@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_92ce7083fa8742aabfca620ecf3aede5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A system of moment of inertia <span class=\"math\" data-latex=\"I\"></span> rotates from rest about a given axis. The angular acceleration α of the system is constant.</p>\n<p>What is the change in angular momentum when the system has made four complete rotations about the given axis?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"2I\\sqrt{2\\pi\\alpha}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"4I\\sqrt{\\pi\\alpha}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2I\\sqrt{2\\alpha}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4I\\sqrt{\\alpha}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

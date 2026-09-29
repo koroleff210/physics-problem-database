@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d9bb4f66d3a482ae8d6be8172d79402ca053f7d449249e26b2a784ad637b4fd1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d9bb4f66d3a482ae8d6be8172d79402ca053f7d449249e26b2a784ad637b4fd1"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_9f6b08ca15b24f8da1c8ece24c00db79",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows four possible processes for a gas.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>During which of these processes is the work done by the gas the largest?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Process 1</li>\n<li data-label=\"B\">Process 2</li>\n<li data-label=\"C\">Process 3</li>\n<li data-label=\"D\">Process 4</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

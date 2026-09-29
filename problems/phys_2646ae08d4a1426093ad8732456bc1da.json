@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2646ae08d4a1426093ad8732456bc1da",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is not an assumption of the kinetic model of ideal gases?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The volume of each molecule is negligible compared to the total volume of the gas.</li>\n<li data-label=\"B\">Intermolecular forces between the particles are negligible.</li>\n<li data-label=\"C\">The duration of collisions is negligible compared to the time between collisions.</li>\n<li data-label=\"D\">The change in the velocity of the molecules is negligible during collisions with the container wall.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

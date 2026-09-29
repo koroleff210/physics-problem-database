@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 1,
+  "id": "phys_57155d00f26943a89380ef216f721b7f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere of radius <span class=\"math\" data-latex=\"2.0\\; \\textup{m}\"></span> is rotating about its diameter with an angular speed of <span class=\"math\" data-latex=\"5.0\\; \\textup{rad\\,s}^{-1}\"></span>. The moment of inertia for the sphere is <span class=\"math\" data-latex=\"I = \\frac{2}{5}mr^{2}\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"r\"></span> is the radius of the sphere.</p>\n<p>Given that the rotational kinetic energy of the sphere is <span class=\"math\" data-latex=\"50\\; \\textup{J}\"></span>, what is the mass of the sphere?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2.5\\; \\textup{kg}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"5.0\\; \\textup{kg}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"7.5\\; \\textup{kg}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10\\; \\textup{kg}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

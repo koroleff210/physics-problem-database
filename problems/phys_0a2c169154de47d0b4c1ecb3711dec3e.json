@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0a2c169154de47d0b4c1ecb3711dec3e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron moves with velocity <span class=\"math\" data-latex=\"v\"></span> into the plane of the page. A uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> is directed towards the top of the page. What is the direction of the magnetic force acting on the electron?</p><ol class=\"mcq-options\"><li data-label=\"A\">Towards the right</li><li data-label=\"B\">Towards the top of the page</li><li data-label=\"C\">Towards the left</li><li data-label=\"D\">Towards the bottom of the page</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

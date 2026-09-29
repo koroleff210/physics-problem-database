@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_06c91aafd8044e13be91229bcd6f57e9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star has a radius 13 times that of the Sun and a luminosity that is 400 000 times that of the Sun.</p>\n<p>The surface temperature of the Sun is 5700 K.</p>\n<p>What is the surface temperature of the star?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4.0 x 10<sup>4</sup> K</li><li data-label=\"B\">7.6 x 10<sup>4</sup> K</li><li data-label=\"C\">1.0 x 10<sup>5</sup> K</li><li data-label=\"D\">1.4 x 10<sup>7</sup> K</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

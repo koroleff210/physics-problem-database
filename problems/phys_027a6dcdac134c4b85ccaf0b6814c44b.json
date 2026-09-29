@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_027a6dcdac134c4b85ccaf0b6814c44b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A muon of proper lifetime <span class=\"math\" data-latex=\"t\"></span> is produced in the high atmosphere and travels towards Earth at a relativistic speed <span class=\"math\" data-latex=\"v\"></span>. What is the distance travelled by the muon in the reference frame of Earth?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"vt\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"vt1-\\frac{v^{2}}{c^{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"vt\\sqrt{1-\\frac{v^{2}}{c^{2}}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{vt}{\\sqrt{1-\\frac{v^{2}}{c^{2}}}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

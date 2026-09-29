@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_a7e80b2b35b54b259f6959f7b2f9ad04",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle of mass <span class=\"math\" data-latex=\"m\"></span> and charge <span class=\"math\" data-latex=\"q\"></span> enters a uniform magnetic field of strength <span class=\"math\" data-latex=\"B\"></span> and moves on a circular path with speed <span class=\"math\" data-latex=\"v\"></span>. The angle between the particle’s path and the direction of the magnetic field is <span class=\"math\" data-latex=\"\\theta\"></span>. Initially, <span class=\"math\" data-latex=\"\\theta = 45^{o}\"></span>. What changes will definitely increase the radius of the particle’s path?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Increasing <span class=\"math\" data-latex=\"m\"></span> and increasing <span class=\"math\" data-latex=\"\\theta\"></span> to <span class=\"math\" data-latex=\"60^{o}\"></span>.</li>\n<li data-label=\"B\">Decreasing <span class=\"math\" data-latex=\"v\"></span> and decreasing <span class=\"math\" data-latex=\"q\"></span>.</li>\n<li data-label=\"C\">Increasing <span class=\"math\" data-latex=\"v\"></span> and decreasing <span class=\"math\" data-latex=\"m\"></span>.</li>\n<li data-label=\"D\">Decreasing <span class=\"math\" data-latex=\"B\"></span> and decreasing <span class=\"math\" data-latex=\"\\theta\"></span> to <span class=\"math\" data-latex=\"30^{o}\"></span>.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

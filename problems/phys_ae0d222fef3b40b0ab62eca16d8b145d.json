@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a1efba03139fbbf937d6a2d806b9deac67dbf723ead00db4675da3739d15cee4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a1efba03139fbbf937d6a2d806b9deac67dbf723ead00db4675da3739d15cee4"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_ae0d222fef3b40b0ab62eca16d8b145d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small metal ball at the end of a rod is rotated anticlockwise in a vertical circle at constant speed. After a few revolutions, as the ball is moving upwards, it is released at the moment when the rod is horizontal.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the shape of the ball’s path after it is released from the rod?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">A circle</li>\n<li data-label=\"B\">A semi-circle</li>\n<li data-label=\"C\">A parabola</li>\n<li data-label=\"D\">A straight line</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b3bbadb3f17fb4b97404c9f739610792ce70c69bfc2c5f3957872b75c31f8f4e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b3bbadb3f17fb4b97404c9f739610792ce70c69bfc2c5f3957872b75c31f8f4e"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_48fc8fd3236c43cba2b62451bdd31fb4",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The points X and Y are in a uniform electric field of strength <span class=\"math\" data-latex=\"E\"></span>. The distance OX is <span class=\"math\" data-latex=\"x\"></span> and the distance OY is <span class=\"math\" data-latex=\"y\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the change in electric potential between X and Y?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"Ex\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"Ey\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"Ex + y\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"E\\sqrt{x^{2} + y^{2}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/403966e3b502fdeb85ee3ffb405c408c72da5e063fa4522f48001698c7d6b243.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "403966e3b502fdeb85ee3ffb405c408c72da5e063fa4522f48001698c7d6b243"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_13c88889592340549103ee75aab536c9",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A trolley of mass <span class=\"math\" data-latex=\"m\"></span> is moving with speed <span class=\"math\" data-latex=\"u\"></span>. A load is dropped onto the trolley so that it immediately attaches to the trolley. The speed of the trolley and the load becomes <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the mass of the load?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mu-v}{v}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{mu+v}{v}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mu}{v}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{mv}{u}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

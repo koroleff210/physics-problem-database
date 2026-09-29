@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_dde67f856ef34adabd2b7a409c71a05c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An insulated container of negligible mass contains a mass 2M of a liquid. A piece of a metal of mass M is dropped into the liquid. The temperature of the liquid increases by 10 °C and the temperature of the metal decreases by 80 °C in the same time.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{specific heat capacity of the liquid}}{\\textit{specific heat capacity of the metal}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">4</li><li data-label=\"C\">8</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

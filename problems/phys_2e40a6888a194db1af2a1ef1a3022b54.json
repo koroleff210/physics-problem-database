@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2e40a6888a194db1af2a1ef1a3022b54",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The density of an ideal gas is 1.4 kg m<sup>−3</sup> when its pressure is 0.1 MPa.</p>\n<p>What is the average translational speed of the gas molecules?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.46 m s<sup>−1</sup></li><li data-label=\"B\">270 m s<sup>−1</sup></li><li data-label=\"C\">460 m s<sup>−1</sup></li><li data-label=\"D\">71 km s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

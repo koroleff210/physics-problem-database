@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_e7b7355206994a22af6558eba3165f06",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A search coil is moved from a region of uniform magnetic field to a region of zero flux in a time interval <span class=\"math\" data-latex=\"t\"></span>. This process induces an average electromotive force (emf) <span class=\"math\" data-latex=\"E\"></span> and causes a total charge <span class=\"math\" data-latex=\"Q\"></span> to flow through the coil. The process is repeated, but the coil is now moved out of the same magnetic field in a time interval <span class=\"math\" data-latex=\"2t\"></span>.</p>\n<p>Which of the following correctly identifies the average induced emf and the total charge flow for the second process?</p>\n<table><thead><tr><th></th><th>Average induced emf</th><th>Total charge flow</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>halved</td><td>halved</td></tr><tr data-label=\"B\"><td>B.</td><td>halved</td><td>unchanged</td></tr><tr data-label=\"C\"><td>C.</td><td>unchanged</td><td>halved</td></tr><tr data-label=\"D\"><td>D.</td><td>doubled</td><td>unchanged</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

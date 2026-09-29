@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_9201cd2bcf004eaa8b4e1905b8c89bef",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone is released from rest and falls vertically. Air resistance is negligible. What is correct about the stone during each consecutive second of its motion?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The change in velocity is constant.</li><li data-label=\"B\">The change in displacement is constant.</li><li data-label=\"C\">The change in acceleration decreases.</li><li data-label=\"D\">The change in speed increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

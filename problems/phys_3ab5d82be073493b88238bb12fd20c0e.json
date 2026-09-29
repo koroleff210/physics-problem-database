@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3ab5d82be073493b88238bb12fd20c0e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>80 g of a liquid are heated with a constant power output of 100 W. All the power goes into the liquid. After 60 s, the rise in temperature is 50 K.</p>\n<p>What is the specific heat capacity of the liquid in J kg<sup>−1 </sup>K<sup>−1</sup>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">120</li><li data-label=\"B\">960</li><li data-label=\"C\">1200</li><li data-label=\"D\">1500</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

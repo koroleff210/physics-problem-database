@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/42dd07b4053147c401b52a1d661f1fab79aa2671754555439a4b6c54309aa500.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "42dd07b4053147c401b52a1d661f1fab79aa2671754555439a4b6c54309aa500"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c115e87fe7dc21d64ccd30ef0b2d4ade2de02cbae34036413d957c87c37d274b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c115e87fe7dc21d64ccd30ef0b2d4ade2de02cbae34036413d957c87c37d274b"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_33556a60fdb6432eb4411d0a992abfc2",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting ring is perpendicular to a uniform magnetic field directed out of the page.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The magnitude of the magnetic field strength increases. What are the direction of the conventional current induced in the ring and the net magnetic force on the ring?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

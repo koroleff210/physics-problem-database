@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/24cd9c779fb2201fe82511c4a813aec1d80c34f4b003a0f1d03edae12e944669.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "24cd9c779fb2201fe82511c4a813aec1d80c34f4b003a0f1d03edae12e944669"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/e71b06b8d67a128ce4ea50acd4b9e531aca62cbd3f9adcbb8d833c9fc8d08451.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e71b06b8d67a128ce4ea50acd4b9e531aca62cbd3f9adcbb8d833c9fc8d08451"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/78588aa5e8128811c85434c03812443e4b0303055473cb82c79a8f21b6a38d06.jpg",
+      "id": "fig_03",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "78588aa5e8128811c85434c03812443e4b0303055473cb82c79a8f21b6a38d06"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/9e8a0bd0fe8e269ecbcc37afddfde6e10a064abf09520456337674a78d6b38aa.jpg",
+      "id": "fig_04",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e8a0bd0fe8e269ecbcc37afddfde6e10a064abf09520456337674a78d6b38aa"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_58e18f671a984248bc39514be430c3cb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object falls vertically from rest through air. The effect of air resistance cannot be neglected.</p>\n<p>Which graph best represents the variation of the object's velocity with time?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

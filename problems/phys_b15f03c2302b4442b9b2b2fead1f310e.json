@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_b15f03c2302b4442b9b2b2fead1f310e",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>V<span class=\"math\" data-latex=\"=\\frac{6.00\\times 10^{-4}\\times 8.31\\times 712}{1.00\\times 10^{5}}\"></span> «<span class=\"math\" data-latex=\"=\"></span>3.55<span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"-\"></span><sup>5</sup> m<sup>3 </sup>» ✔ quotes p<sub>1</sub>V<sub>1</sub><sup>5/3</sup><span class=\"math\" data-latex=\"=\"></span>p<sub>2</sub>V<sub>2</sub><sup>5/3</sup> or pV<sup>5/3</sup> <span class=\"math\" data-latex=\"=\"></span> constant with at least one substitution correct ✔ p=«<span class=\"math\" data-latex=\"\\frac{1 \\times  {10}^{5} \\times  {( 3.55 \\times  {10}^{- 5} )}^{\\frac{5}{3}}}{{( 8 \\times  {10}^{- 5} )}^{\\frac{5}{3}}}\"></span>» <span class=\"math\" data-latex=\"=\"></span> 25800 Pa ✔ Award [3] for a BCA</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"T=\\frac{25800\\times 8\\times 10^{-5}}{6\\times 10^{-4}\\times 8.31}\"></span>  OR  <span class=\"math\" data-latex=\"T=414 K\"></span> ✔ Q<span class=\"math\" data-latex=\"=\"></span>0 OR W<span class=\"math\" data-latex=\"=\"></span>−<span class=\"math\" data-latex=\"\\Delta\"></span>U ✔ <span class=\"math\" data-latex=\"W =  \\frac{3}{2} n R Δ T = - \\frac{3}{2} \\times  6 \\times  {10}^{- 4} \\times  8.31 \\times  ( 414 - 712 ) =  2.23 \\,  J\"></span> ✔ MP2 seen or implied in MP3. Ignore sign Award [3] for a BCA</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>ALTERNATIVE 1<br/><span class=\"math\" data-latex=\"Q = p Δ V + \\frac{3}{2} p Δ V = \\frac{5}{2} p Δ V\"></span> ✔<br/><span class=\"math\" data-latex=\"Q=\\frac{5}{2}\\times 25800\\times 3.55-8\\times 10^{-5}\"></span> ✔<br/><span class=\"math\" data-latex=\"Q=-2.87 J\"></span> ✔ ALTERNATIVE 2<br/><span class=\"math\" data-latex=\"T=\\frac{25800\\times 3.55\\times 10^{-5}}{6\\times 10^{-4}\\times 8.31}\"></span>  OR  <span class=\"math\" data-latex=\"184 K\"></span> ✔<br/><span class=\"math\" data-latex=\"Q =  W + Δ U =  25800 \\times  ( 3.55 - 8 ) \\times  {10}^{- 5} + \\frac{3}{2} \\times  6 \\times  {10}^{- 4} \\times  8.31 \\times  ( 184 - 414 )\"></span> ✔<br/><span class=\"math\" data-latex=\"Q=-2.87 J\"></span> ✔ MP1 seen or implied in MP2. Ignore sign Allow ECF from a) i) and a) ii) Award [3] for a BCA</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"efficiency=\\frac{3.9-2.87}{3.9}=0.26\"></span>  OR  <span class=\"math\" data-latex=\"26 \\%\"></span> ✔ Allow ECF from (b)(i)</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>so that minimum energy is wasted/ejected<br/>OR<br/>useful work as close as possible to energy input<br/>OR<br/>beneficial for the environment / to the availability of resources<br/>✔ Allow to obtain maximum power possible</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A monatomic ideal gas is trapped in a cylinder by a piston. The following data are available.</p>\n<table><tbody><tr><td><p>Initial pressure of gas</p></td><td><p>= 1.00 × 10<sup>5</sup> Pa</p></td></tr><tr><td><p>Initial temperature</p></td><td><p>= 712 K</p></td></tr><tr><td><p>Quantity of gas</p></td><td><p>= 6.00 × 10<sup>−4</sup> mol</p></td></tr></tbody></table>\n<p>The gas undergoes an adiabatic expansion to a volume of 8.00 × 10<sup>−5</sup> m<sup>3</sup>.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Determine the pressure of the gas after the adiabatic expansion. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Determine the work done by the gas during the expansion. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The gas then undergoes an isobaric compression until its volume is equal to the initial volume.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the energy removed in this isobaric compression. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The gas returns to its original state in an isovolumetric change. The energy supplied during this change is 3.9 J. Calculate the efficiency of this cycle. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Outline why it is important that engines are designed with high efficiency even though all engines obey the first law of thermodynamics. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

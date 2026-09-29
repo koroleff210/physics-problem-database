@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_9690256e27224f0980ccd2f19c911166",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The problem describes Compton scattering. The shift in wavelength is given by the formula Δλ = (h / (<span class=\"math\" data-latex=\"m_{e}\"></span> * c)) * (1 - cos θ). With a scattering angle θ = 60°, cos(60°) = 0.5. Therefore, Δλ = (h / (<span class=\"math\" data-latex=\"m_{e}\"></span> * c)) * (1 - 0.5) = h / (2 * <span class=\"math\" data-latex=\"m_{e}\"></span> * c).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What will be the shift in wavelength for a photon that scatters off an electron at an angle of 60 deg?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"2h/(m_e c)\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"h/(m_e c)\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"2h/(3m_e c)\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"h/(2m_e c)\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

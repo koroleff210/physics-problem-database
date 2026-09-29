@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_27ebda51bd49499c988d3b20e0003bf1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes simple harmonic motion of amplitude <span class=\"math\" data-latex=\"x_{0}\"></span> and frequency <span class=\"math\" data-latex=\"f\"></span>. What is the average speed of the particle during one oscillation?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"f x_{0}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2f x_{0}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4f x_{0}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

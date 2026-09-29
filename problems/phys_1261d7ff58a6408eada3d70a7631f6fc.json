@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/69e7dd9786239def1bf9650ecb10f6f8b85c66fffd1ff5bfa8745a4c7f90106f.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "69e7dd9786239def1bf9650ecb10f6f8b85c66fffd1ff5bfa8745a4c7f90106f"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/670cd1d2c2aff9c50023852149c29d438eca9cab175e1c728e1e80cd8bb1d71b.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "670cd1d2c2aff9c50023852149c29d438eca9cab175e1c728e1e80cd8bb1d71b"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_1261d7ff58a6408eada3d70a7631f6fc",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Impulse (or change in momentum) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- The cart undergoes constant (uniform) acceleration [1 mark]<br/>- The velocity of the cart increases at a constant rate (linear increase) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>- Correct vertical arrows for Weight (<span class=\"math\" data-latex=\"W\"></span>) downwards and Normal reaction force (<span class=\"math\" data-latex=\"N\"></span>) upwards [1 mark]<br/>- Horizontal arrow for the applied force (<span class=\"math\" data-latex=\"F\"></span>) to the right, with all arrows correctly labelled [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate the area of the trapezoid: <span class=\"math\" data-latex=\"\\text{Area} = \\frac{1}{2}(b_1 + b_2) \\times h\"></span> or equivalent sum of parts [1 mark]<br/>- <span class=\"math\" data-latex=\"\\text{Impulse} = \\frac{1}{2}(0.60 + 0.40) \\times 5.0 = 2.5 \\text{ N s}\"></span> (or <span class=\"math\" data-latex=\"\\text{kg m s}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Recognize that <span class=\"math\" data-latex=\"\\text{Impulse} = \\Delta p = m \\Delta v\"></span> [1 mark]<br/>- Substitute values: <span class=\"math\" data-latex=\"2.5 = 0.50 \\times (v - 0)\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"v = 5.0 \\text{ m s}^{-1}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A laboratory cart of mass <span class=\"math\" data-latex=\"0.50 \\text{ kg}\"></span> is placed on a horizontal, frictionless track. The cart is initially at rest. A horizontal force <span class=\"math\" data-latex=\"F\"></span> is applied to the cart. The graph below shows how the force <span class=\"math\" data-latex=\"F\"></span> varies with time <span class=\"math\" data-latex=\"t\"></span> for the first <span class=\"math\" data-latex=\"0.60 \\text{ seconds}\"></span> of the motion.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the physical quantity represented by the area under the force-time graph. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Describe the motion of the cart during the time interval <span class=\"math\" data-latex=\"t = 0.10 \\text{ s}\"></span> to <span class=\"math\" data-latex=\"t = 0.50 \\text{ s}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Draw a labelled free-body diagram showing the forces acting on the cart at <span class=\"math\" data-latex=\"t = 0.30 \\text{ s}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the total impulse delivered to the cart during the <span class=\"math\" data-latex=\"0.60 \\text{ s}\"></span> interval. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Determine the speed of the cart at <span class=\"math\" data-latex=\"t = 0.60 \\text{ s}\"></span>. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

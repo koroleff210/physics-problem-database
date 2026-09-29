@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0dcf94cc7c6c4fde967265ea6a9f65d3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This would only be true if the internal resistance <span class=\"math\" data-latex=\"r\"></span> was zero, as the terminal potential difference <span class=\"math\" data-latex=\"V = \\epsilon - Ir\"></span> would equal <span class=\"math\" data-latex=\"\\epsilon\"></span> regardless of the current.</p>\n<p>B: Initially, the current is maximum: <span class=\"math\" data-latex=\"I_0 = \\frac{\\epsilon}{R + r}\"></span>. The terminal potential difference is <span class=\"math\" data-latex=\"V = \\epsilon - I_0r = \\epsilon - \\frac{\\epsilon r}{R + r} = \\frac{\\epsilon R}{R + r}\"></span>. As the capacitor charges, the current <span class=\"math\" data-latex=\"I\"></span> decreases toward zero, meaning <span class=\"math\" data-latex=\"Ir\"></span> decreases, and <span class=\"math\" data-latex=\"V\"></span> increases toward the emf <span class=\"math\" data-latex=\"\\epsilon\"></span>.</p>\n<p>C: This incorrectly suggests that the terminal potential difference starts at the emf and decreases, which would happen if the current were increasing over time.</p>\n<p>D: This describes the potential difference across the capacitor itself, not the terminal potential difference of the battery.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An uncharged capacitor is connected in series with an external resistor <span class=\"math\" data-latex=\"R\"></span> and a battery of electromotive force (emf) <span class=\"math\" data-latex=\"\\epsilon\"></span> and non-zero internal resistance <span class=\"math\" data-latex=\"r\"></span>. At time <span class=\"math\" data-latex=\"t = 0\"></span>, a switch in the circuit is closed.</p>\n<p>Which of the following describes the change in the terminal potential difference of the battery as the capacitor charges?</p><ol class=\"mcq-options\"><li data-label=\"A\">It remains constant at a value equal to <span class=\"math\" data-latex=\"\\epsilon\"></span>.</li><li data-label=\"B\">It increases from <span class=\"math\" data-latex=\"\\frac{\\epsilon R}{R + r}\"></span> towards <span class=\"math\" data-latex=\"\\epsilon\"></span>.</li><li data-label=\"C\">It decreases from <span class=\"math\" data-latex=\"\\epsilon\"></span> towards <span class=\"math\" data-latex=\"\\frac{\\epsilon R}{R + r}\"></span>.</li><li data-label=\"D\">It increases from <span class=\"math\" data-latex=\"0\"></span> towards <span class=\"math\" data-latex=\"\\epsilon\"></span>.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

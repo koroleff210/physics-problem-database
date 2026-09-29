@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_7ebc4a08132b41d485c8d7802aca8b89",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A horizontal force of <span class=\"math\" data-latex=\"100\\; \\textup{N}\"></span> is applied to a metal sphere of mass <span class=\"math\" data-latex=\"5.0\\; \\textup{kg}\"></span> and radius <span class=\"math\" data-latex=\"30\\; \\textup{cm}\"></span> to horizontally accelerate the sphere through a fluid. The instant when the acceleration of the sphere is <span class=\"math\" data-latex=\"8.0\\: \\textup{m\\,s}^{-2}\"></span>, its speed is <span class=\"math\" data-latex=\"25\\: \\textup{m\\,s}^{-1}\"></span>.</p>\n<p>What is the best estimate for the coefficient of viscosity of the liquid?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"200\\: \\textup{mPa\\,s}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"400\\: \\textup{mPa\\,s}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"700\\: \\textup{mPa\\,s}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"1300\\: \\textup{mPa\\,s}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

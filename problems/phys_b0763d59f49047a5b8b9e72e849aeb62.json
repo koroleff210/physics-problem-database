@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_b0763d59f49047a5b8b9e72e849aeb62",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>On the graph that shows how average binding energy per nucleon varies with nucleon number, the most stable elements can be found:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">around the minimum point of the graph.</li>\n<li data-label=\"B\">around the maximum point of the graph.</li>\n<li data-label=\"C\">near the horizontal axis intercept.</li>\n<li data-label=\"D\">near the vertical axis intercept.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

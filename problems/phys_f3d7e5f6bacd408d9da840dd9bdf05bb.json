@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3900235a9b8719dd824996914de8c77a9a1da5abe1e9214043c0d5fb12fcc0df.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3900235a9b8719dd824996914de8c77a9a1da5abe1e9214043c0d5fb12fcc0df"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_f3d7e5f6bacd408d9da840dd9bdf05bb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Four solid objects of the same mass are suspended from identical strings and allowed to oscillate with small amplitude. Which object will have the shortest period of oscillation?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\">Object A</li><li data-label=\"B\">Object B</li><li data-label=\"C\">Object C</li><li data-label=\"D\">Object D</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

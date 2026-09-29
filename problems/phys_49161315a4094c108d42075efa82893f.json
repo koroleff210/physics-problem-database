@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_49161315a4094c108d42075efa82893f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which aspect of thermal physics is best explained by the molecular kinetic model?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The equation of state of ideal gases</li><li data-label=\"B\">The difference between Celsius and Kelvin temperature</li><li data-label=\"C\">The value of the Avogadro constant</li><li data-label=\"D\">The existence of gaseous isotopes</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_21211d4576244ecaa94f76e370475581",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\Delta p=F\\Delta t\"></span><br/>[1 mark]</p>\n<p><span class=\"math\" data-latex=\"Mv=F\\Delta t\"></span></p>\n<p><span class=\"math\" data-latex=\"v=\\frac{F\\Delta t}{M}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\Delta L=F(h-R)\\Delta t\"></span></p>\n<p><span class=\"math\" data-latex=\"I\\omega=F(h-R)\\Delta t\"></span> [2 marks]</p>\n<p><span class=\"math\" data-latex=\"\\frac25MR^2\\omega=F(h-R)\\Delta t\"></span></p>\n<p><span class=\"math\" data-latex=\"\\omega=\\frac{5F(h-R)\\Delta t}{2MR^2}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"v=\\omega R\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\frac{F\\Delta t}{M}=\\frac{5F(h-R)\\Delta t}{2MR^2}R\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\frac{5(h-R)}{2R}=1\"></span></p>\n<p><span class=\"math\" data-latex=\"h=\\frac25R+R\"></span></p>\n<p><span class=\"math\" data-latex=\"h=\\frac75R\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A billiard ball of radius <span class=\"math\" data-latex=\"R\"></span> and mass <span class=\"math\" data-latex=\"M\"></span> is struck by a horizontal cue stick at a height <span class=\"math\" data-latex=\"h\"></span> above the billiard table. The moment of inertia for a sphere is given by <span class=\"math\" data-latex=\"I=\\frac{2}{5}MR^2\"></span>.<br/>The cue stick strikes the ball with a force <span class=\"math\" data-latex=\"F\"></span> during an interval <span class=\"math\" data-latex=\"\\Delta t\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Find an expression for the velocity <span class=\"math\" data-latex=\"v\"></span> of the ball after the strike. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Find an expression for the angular velocity <span class=\"math\" data-latex=\"\\omega\"></span> of the ball after the strike. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Find the value of <span class=\"math\" data-latex=\"h\"></span> for which the ball will roll without slipping. Express your answer in terms of <span class=\"math\" data-latex=\"R\"></span>. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

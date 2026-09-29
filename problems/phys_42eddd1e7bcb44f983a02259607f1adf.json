@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/529dc2fac2c5d410093c9f22ece49b51b0390a1db04e44fa0f959eb719d377f3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "529dc2fac2c5d410093c9f22ece49b51b0390a1db04e44fa0f959eb719d377f3"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_42eddd1e7bcb44f983a02259607f1adf",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is formed in a pipe open at one end and closed at the other. The length of the pipe is L and the speed of sound in the pipe is V.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>n is a positive integer.</p>\n<p>What expression is correct about the frequencies of the harmonics in the pipe?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{2n-1V}{2L}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2n-1V}{4L}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{nV}{2L}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{nV}{4L}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

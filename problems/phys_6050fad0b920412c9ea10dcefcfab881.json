@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_6050fad0b920412c9ea10dcefcfab881",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solar cell with a specific internal resistance is connected in series with a variable load resistor. The solar cell is placed under a light source of constant intensity. If the resistance of the variable load resistor is increased, which of the following correctly describes the resulting changes to the terminal potential difference of the solar cell and the total electrical power produced by the cell?</p><ol class=\"mcq-options\"><li data-label=\"A\">The terminal potential difference decreases and the total power produced increases.</li><li data-label=\"B\">The terminal potential difference increases and the total power produced decreases.</li><li data-label=\"C\">The terminal potential difference increases and the total power produced increases.</li><li data-label=\"D\">The terminal potential difference decreases and the total power produced decreases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/850f36d7ee9dd598ae20dc9392c0d3ba9f7228b2aa2a9407c4a7357f21e42137.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "850f36d7ee9dd598ae20dc9392c0d3ba9f7228b2aa2a9407c4a7357f21e42137"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_da56c1479af14e91bed52b34425615b8",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron moves with speed v in a region of a uniform magnetic field of strength <span class=\"math\" data-latex=\"B\"></span>. The path of the electron is a circle of radius R. The graph shows how R varies with v.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the gradient of the graph?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{m_{e}B}{e}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{eB}{m_{e}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{m_{e}}{eB}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{e}{m_{e}B}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

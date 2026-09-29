@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/49737d39406baff9a0fd69c6e8f819afafd428d1d872562abe2a8e81bb709fcc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "49737d39406baff9a0fd69c6e8f819afafd428d1d872562abe2a8e81bb709fcc"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_212cd60726c44e95801d327665d58586",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two parallel conducting plates are separated by 5.0 cm. The variation of electric potential with distance between the plates is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the electric field strength between the plates?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4.0 N C<sup>−1</sup></li><li data-label=\"B\">1.0 × 10<sup>3</sup> N C<sup>−1</sup></li><li data-label=\"C\">1.0 × 10<sup>5</sup> N C<sup>−1</sup></li><li data-label=\"D\">4.0 × 10<sup>5</sup> N C<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

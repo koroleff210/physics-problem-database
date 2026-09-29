@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source markscheme diagram 1",
+      "file": "assets/a754bc3f4b543de09ff3b98d35600629099e79124247c79b31e922ae501f9a32.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a754bc3f4b543de09ff3b98d35600629099e79124247c79b31e922ae501f9a32"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_b7c73b49505d45508b47f7a3903543a6",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State the trend: As the wavelength increases, the fringe spacing increases [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Bright fringes form where waves from both slits arrive in phase (constructive interference). [1 mark]<br/>- Dark fringes form where waves arrive out of phase by half a wavelength (destructive interference). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- All values correctly converted to metres: [1 mark]</p>\n<p><span class=\"math\" data-latex=\"4.50 \\times 10^{-7}, 5.00 \\times 10^{-7}, 5.50 \\times 10^{-7}, 6.00 \\times 10^{-7}, 6.50 \\times 10^{-7}, 7.00 \\times 10^{-7}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Axes labeled with correct units and linear scale. [1 mark]<br/>- Data points accurately plotted; line of best fit drawn through the origin. [1 mark]</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- The linear graph passing through the origin suggests that fringe spacing is directly proportional to wavelength [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- Determine the gradient: <span class=\"math\" data-latex=\"m = \\frac{\\Delta s}{\\Delta \\lambda} \\approx 5.0 \\times 10^{6} \\mathrm{~mm} / \\mathrm{m}\"></span> (or <span class=\"math\" data-latex=\"5000 \\mathrm{~m/m}\"></span>) [1 mark]<br/>- Calculate <span class=\"math\" data-latex=\"d\"></span> using <span class=\"math\" data-latex=\"d = \\frac{D \\times 1000}{\\text{gradient (mm/m)}}\"></span> or equivalent unit conversion:</p>\n<p><span class=\"math\" data-latex=\"d = \\frac{2.0 \\times 10^3}{5.0 \\times 10^{6}} = 4.0 \\times 10^{-4} \\mathrm{~m} \\quad (\\text{or } 0.4 \\mathrm{~mm})\"></span></p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"g\"><p><strong>g</strong></p><p>Award [2 marka] for one of the following limitations with explanation:<br/>- Fringes may be blurry or hard to distinguish due to diffraction or ambient light. [2 marka]<br/>- Measuring small distances with a ruler introduces significant percentage uncertainty. [2 marks]</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<p>A student investigates how the fringe spacing in a double-slit interference pattern depends on the wavelength of light used. The experimental setup keeps the slit separation <span class=\"math\" data-latex=\"d\"></span> and screen distance <span class=\"math\" data-latex=\"D\"></span> constant, while the student uses lasers of different wavelengths <span class=\"math\" data-latex=\"\\lambda\"></span>. The student measures the distance between adjacent bright fringes (fringe spacing <span class=\"math\" data-latex=\"s\"></span> ) for each wavelength.</p><table><thead><tr><th>Wavelength <span class=\"math\" data-latex=\"\\lambda(\\mathrm{nm})\"></span></th><th>Fringe spacing <span class=\"math\" data-latex=\"s(\\mathrm{~mm})\"></span></th></tr></thead><tbody><tr><td>450</td><td>2.25</td></tr><tr><td>500</td><td>2.50</td></tr><tr><td>550</td><td>2.75</td></tr><tr><td>600</td><td>3.00</td></tr><tr><td>650</td><td>3.25</td></tr><tr><td>700</td><td>3.50</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Describe the trend shown by the data. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain, using wave interference, why a pattern of bright and dark fringes is formed. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Convert the wavelength data from nanometres to metres and complete the table.</p>\n<table><thead><tr><th>Wavelength <span class=\"math\" data-latex=\"\\lambda(\\mathrm{m})\"></span></th><th>Fringe spacing <span class=\"math\" data-latex=\"s(\\mathrm{~mm})\"></span></th></tr></thead><tbody><tr><td></td><td>2.25</td></tr><tr><td></td><td>2.50</td></tr><tr><td></td><td>2.75</td></tr><tr><td></td><td>3.00</td></tr><tr><td></td><td>3.25</td></tr><tr><td></td><td>3.50</td></tr></tbody></table><p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Sketch a graph of fringe spacing <span class=\"math\" data-latex=\"s(\\mathrm{~mm})\"></span> against wavelength <span class=\"math\" data-latex=\"\\lambda(\\mathrm{m})\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Outline what the shape of the graph suggests about the relationship between fringe spacing and wavelength. [1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> The distance from the slits to the screen is <span class=\"math\" data-latex=\"D=2.0 \\mathrm{~m}\"></span>. Use the gradient of the graph to estimate the slit separation <span class=\"math\" data-latex=\"d\"></span>. Use the relationship <span class=\"math\" data-latex=\"s=\\frac{\\lambda D}{d}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"g\"><p><strong>g</strong> Suggest one limitation in this experiment that could affect the precision of the fringe spacing measurements. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

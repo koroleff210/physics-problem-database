@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/81f9f9b9ac70f4ea3b3d9e6d2999bb6e0886d12efa6c890e1b9d406f2704f838.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "81f9f9b9ac70f4ea3b3d9e6d2999bb6e0886d12efa6c890e1b9d406f2704f838"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_17822cacf1a4412a8db23e6427f802a8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This represents the kinetic energy of only the block with mass <span class=\"math\" data-latex=\"3M\"></span>.</p>\n<p>B: This represents the kinetic energy of only the block with mass <span class=\"math\" data-latex=\"M\"></span>.</p>\n<p>C: From conservation of momentum, the initial momentum is zero. Therefore, <span class=\"math\" data-latex=\"Mv = 3M v'\"></span>, where <span class=\"math\" data-latex=\"v'\"></span> is the speed of the larger block. This gives <span class=\"math\" data-latex=\"v' = \\frac{1}{3} v\"></span>. The total kinetic energy is <span class=\"math\" data-latex=\"E_{k} = \\frac{1}{2} M v^{2} + \\frac{1}{2} (3M) (\\frac{v}{3})^{2} = \\frac{1}{2} M v^{2} + \\frac{1}{6} M v^{2} = \\frac{2}{3} M v^{2}\"></span>.</p>\n<p>D: This assumes both blocks move at the same speed <span class=\"math\" data-latex=\"v\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks with masses <span class=\"math\" data-latex=\"M\"></span> and <span class=\"math\" data-latex=\"3M\"></span> are placed on a frictionless horizontal surface. A compressed spring is held between them and then released, as shown in the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Immediately after the blocks lose contact with the spring, the block of mass <span class=\"math\" data-latex=\"M\"></span> moves to the left with a speed <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>What is the total kinetic energy of the two blocks?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{6} M v^{2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{2} M v^{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{2}{3} M v^{2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2 M v^{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

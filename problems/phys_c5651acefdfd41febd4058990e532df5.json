@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7453271f61da1b46feeb886e61c607788ac56bb4cfda2a2c63ad7204ca9e5d80.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7453271f61da1b46feeb886e61c607788ac56bb4cfda2a2c63ad7204ca9e5d80"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/1aad6d1b5867c301854ae22f1125a3047b7435384de116b1c4974404d8979ebf.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1aad6d1b5867c301854ae22f1125a3047b7435384de116b1c4974404d8979ebf"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c5651acefdfd41febd4058990e532df5",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block X of weight 10 N is stacked on a block Y of weight 20 N. Block X is fixed to a wall with a light string. The coefficients of static friction between the blocks and between block Y and the ground are both 0.2.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the value of the minimum force F required to move block Y and what is the tension T in the string immediately before block Y begins to move?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

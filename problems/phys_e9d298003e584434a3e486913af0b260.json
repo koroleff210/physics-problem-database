@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/323999cb13523e7c0f56aff37bc8b1a9d68a4dbd2e519cd539930d64826649c2.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "323999cb13523e7c0f56aff37bc8b1a9d68a4dbd2e519cd539930d64826649c2"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e9d298003e584434a3e486913af0b260",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Horizontal arrow (<span class=\"math\" data-latex=\"v_x\"></span>) pointing to the right from point <span class=\"math\" data-latex=\"Q\"></span> [1 mark]<br/>- Vertical arrow (<span class=\"math\" data-latex=\"v_y\"></span>) pointing vertically downward from point <span class=\"math\" data-latex=\"Q\"></span> [1 mark]</p>\n<p>Note: Arrows must start at point Q. The length of the horizontal arrow should be approximately equal to the initial velocity vector if shown, and the vertical arrow should be pointing down.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use kinematic equation for vertical motion: <span class=\"math\" data-latex=\"H = \\dfrac{1}{2}gT^2\"></span> [1 mark]<br/>- Calculate <span class=\"math\" data-latex=\"T\"></span>: <span class=\"math\" data-latex=\"T = \\sqrt{\\dfrac{2 \\times 125}{10}} = 5.0\\text{ s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Horizontal velocity remains <span class=\"math\" data-latex=\"u\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- State the range equation: <span class=\"math\" data-latex=\"R = uT\"></span> [1 mark]<br/>- Substitute expression for time <span class=\"math\" data-latex=\"T = \\sqrt{\\dfrac{2H}{g}}\"></span> to get <span class=\"math\" data-latex=\"R = u \\sqrt{\\dfrac{2H}{g}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- In the absence of air resistance, there is no horizontal force acting on the package, so by Newton's first law, the horizontal velocity remains constant [1 mark]<br/>- The force of gravity (weight) acts vertically on the package, causing a constant vertical acceleration <span class=\"math\" data-latex=\"g\"></span>, which increases the vertical velocity over time [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A rescue airplane flies at a constant horizontal velocity <span class=\"math\" data-latex=\"u\"></span> at a height <span class=\"math\" data-latex=\"H\"></span> above a level plain. A relief package is released from the airplane at point <span class=\"math\" data-latex=\"P\"></span> and follows a parabolic trajectory, as shown in the diagram below.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>On the diagram, draw two arrows at point <span class=\"math\" data-latex=\"Q\"></span> representing the horizontal and vertical components of the package's velocity. Label these components <span class=\"math\" data-latex=\"v_x\"></span> and <span class=\"math\" data-latex=\"v_y\"></span> respectively.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The airplane is flying at a height <span class=\"math\" data-latex=\"H = 125\\text{ m}\"></span>. Calculate the time <span class=\"math\" data-latex=\"T\"></span> taken for the package to reach the ground. (Assume <span class=\"math\" data-latex=\"g = 10\\text{ m s}^{-2}\"></span> and air resistance is negligible).<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State the horizontal component of the package's velocity at the moment of impact in terms of <span class=\"math\" data-latex=\"u\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Show that the horizontal distance <span class=\"math\" data-latex=\"R\"></span> (range) travelled by the package from the point of release to the impact point is given by <span class=\"math\" data-latex=\"R = u \\sqrt{\\dfrac{2H}{g}}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain why the horizontal velocity of the package remains constant while its vertical velocity increases during the flight.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c906f490a5760dc9a2f5e42f2dacd49b601d6c04765c3711df09ab8432b14e7b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c906f490a5760dc9a2f5e42f2dacd49b601d6c04765c3711df09ab8432b14e7b"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c37e0076452e45ff94c204bedb4debd8",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p>Finding the wavelength of the radio waves:</p>\n<p><span class=\"math\" data-latex=\"3 \\times 10^{8} = (120 \\times 10^{6}) \\lambda\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda \\approx 2.5\"></span> m</p>\n<p>Path difference between the two waves that emerge from the slits:</p>\n<p><span class=\"math\" data-latex=\"48.75 - 32.50 = 16.25\"></span> m</p>\n<p><span class=\"math\" data-latex=\"\\frac{16.25}{2.5} = 6.5\"></span></p>\n<p>The path difference between the two waves is <span class=\"math\" data-latex=\"6.5 \\lambda\"></span>, so the two waves interfere destructively at W, hence minimum intensity is detected at this point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p>At W there is an intensity minimum and as the detector moves towards Z, there will be equally spaced maxima and minima.</p>\n<p>Since the path difference in the previous question part is <span class=\"math\" data-latex=\"6.5\"></span> wavelengths, there will be six maxima between W and Z.</p>\n<p>A maximum is detected at Z.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Radio waves of frequency <span class=\"math\" data-latex=\"120\"></span> MHz are incident on a double slit in vacuum. The distance between Slit A and W is <span class=\"math\" data-latex=\"48.75\"></span> m and the distance between Slit B and W is <span class=\"math\" data-latex=\"32.50\"></span> m.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Deduce that the intensity measured by a radio wave detector placed at W is a minimum.</p>\n<p>   [4]</p>\n<p>b. Predict how the detected intensity varies as the detector is moved from W to Z along the dashed line.</p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

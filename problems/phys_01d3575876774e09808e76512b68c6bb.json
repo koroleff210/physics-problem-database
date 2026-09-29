@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_01d3575876774e09808e76512b68c6bb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car is accelerating in a straight line. At a certain moment, the driving force of the car’s engine is <span class=\"math\" data-latex=\"1000\"></span> N and the air resistance acting on the car is <span class=\"math\" data-latex=\"200\"></span> N. What is the rate of change of momentum of the car at this moment?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1200\"></span> kg m s<span class=\"math\" data-latex=\"^{-2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"1000\"></span> kg m s<span class=\"math\" data-latex=\"^{-2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"800\"></span> kg m s<span class=\"math\" data-latex=\"^{-2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"200\"></span> kg m s<span class=\"math\" data-latex=\"^{-2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

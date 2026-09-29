@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_1a214abb6cee493fad7c13df3072b52f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object undergoes simple harmonic motion. The table shows the acceleration <span class=\"math\" data-latex=\"a\"></span> of the object for three different displacements <span class=\"math\" data-latex=\"x\"></span> from its equilibrium position.</p>\n<table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x\"></span> / cm</th><th>Acceleration <span class=\"math\" data-latex=\"a\"></span> / m s<span class=\"math\" data-latex=\"^{-2}\"></span></th></tr></thead><tbody><tr><td>2.0</td><td><span class=\"math\" data-latex=\"-0.50\"></span></td></tr><tr><td>4.0</td><td><span class=\"math\" data-latex=\"-1.00\"></span></td></tr><tr><td>6.0</td><td><span class=\"math\" data-latex=\"-1.50\"></span></td></tr></tbody></table>\n<p>What is the angular frequency of the object?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.50 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.0 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"25 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.25 \\text{ rad s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

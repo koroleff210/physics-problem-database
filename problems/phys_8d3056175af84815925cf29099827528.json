@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/93afa5cafbfc6beb5835b3bb7bbb1d5658519e87e2f6e7be9cf30981253d8e73.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "93afa5cafbfc6beb5835b3bb7bbb1d5658519e87e2f6e7be9cf30981253d8e73"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/9404e6cb427ff763833c2187930edcd6ff7f2645a0b61355e4e695a411eb2a3a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "9404e6cb427ff763833c2187930edcd6ff7f2645a0b61355e4e695a411eb2a3a"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_8d3056175af84815925cf29099827528",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>The fission products, so <span class=\"math\" data-latex=\"_{\\, \\; 56}^{144}\\textrm{Ba}\"></span> and <span class=\"math\" data-latex=\"_{36}^{89}\\textrm{Kr}\"></span>, are closer to the peak of the graph than <span class=\"math\" data-latex=\"_{\\; \\, 92}^{235}\\textrm{U}\"></span>, therefore have higher average binding energy per nucleon values.</p>\n<p>From this it follows that total binding energy on the right-hand side of the equation is larger than on the left-hand side of the equation, hence energy is released during this reaction.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p> </p>\n<p><span class=\"math\" data-latex=\"X = 3\"></span></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"2d\"><p><strong>2d</strong></p><p></p>\n<p>Calculating the energy released in this fission reaction:</p>\n<p><span class=\"math\" data-latex=\"\\Delta E = (144 \\times 8.27 + 89 \\times 8.62) - 235 \\times 7.59 \\approx 174\"></span> MeV</p>\n<p>Calculating <span class=\"math\" data-latex=\"\\Delta m\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\Delta m = \\frac{174}{931.5} \\approx 0.1868 \\: \\textup{u}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta m = 0.1868 \\times 1.661 \\times 10^{-27} \\approx 3.1 \\times 10^{-28}\\: \\textup{kg}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how average binding energy per nucleon varies with nucleon number for chemical elements.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   Label on the graph, using the letter S, the region of the most stable elements.</p>\n<p>  [1]</p>\n<p>Consider the fission reaction equation</p>\n<p><span class=\"math\" data-latex=\"_{0}^{1}\\textrm{n} + _{\\; \\, 92}^{235}\\textrm{U} \\: \\rightarrow \\:{}  _{\\, \\; 56}^{144}\\textrm{Ba} + _{36}^{89}\\textrm{Kr} + X\\,{} _{0}^{1}\\textrm{n}\"></span></p>\n<p>(b)   Outline, with reference to the graph above, why energy is released in this fission reaction.</p>\n<p>  [2]</p>\n<p>(c)   State the value of <span class=\"math\" data-latex=\"X\"></span>.</p>\n<p>[1]</p>\n<p>The mass difference between the reactants and the fission products is <span class=\"math\" data-latex=\"\\Delta m\"></span>. The binding energy per nucleon for uranium-235 is <span class=\"math\" data-latex=\"7.59\"></span> MeV, for barium-144 it is <span class=\"math\" data-latex=\"8.27\"></span> MeV, and for krypton-89 it is <span class=\"math\" data-latex=\"8.62\"></span> MeV.</p>\n<p>(d)   Determine, in kg, <span class=\"math\" data-latex=\"\\Delta m\"></span>.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

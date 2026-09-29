@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b89af3c4edda2b76e5037778a5e6c7e326e88d84d2fbc146b04d5a574f685683.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b89af3c4edda2b76e5037778a5e6c7e326e88d84d2fbc146b04d5a574f685683"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_7c168d653cb149e299d8badbb6ee87e7",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two small spheres each of mass 10 kg are 8.0 m apart and connected by a rod of negligible mass.</p>\n<p>This system rotates about an axis halfway along the rod and at right angles to it.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the moment of inertia of the system?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">160 kg m<sup>2</sup></li><li data-label=\"B\">320 kg m<sup>2</sup></li><li data-label=\"C\">640 kg m<sup>2</sup></li><li data-label=\"D\">1280 kg m<sup>2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

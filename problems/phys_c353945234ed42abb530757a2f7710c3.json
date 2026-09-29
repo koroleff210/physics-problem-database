@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_c353945234ed42abb530757a2f7710c3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Green light is incident on the surface of a metal plate and as a result, photoelectrons are emitted. </p>\n<p>What change might cause the emission of photoelectrons to stop?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Decreasing the work function of the metal plate.</li>\n<li data-label=\"B\">Decreasing the intensity of the incident light.</li>\n<li data-label=\"C\">Changing green light to red light.</li>\n<li data-label=\"D\">Changing green light to violet light.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

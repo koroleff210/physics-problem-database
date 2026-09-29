@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_13ea440a47724ff2a2d0a2884e019815",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"I = e\\sigma T^4 = 0.7 \\cdot 5.67 \\times 10^{-8} \\cdot 300^4 = 321,\\text{W m}^{-2}\"></span><br/>[1 mark] for correct expression<br/>[1 mark] for final answer</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>It is 70% of the black body intensity.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Dark surfaces (e.g., black soil, ocean) have high emissivity. [1 mark]<br/>Light surfaces (e.g., ice, clouds) have low emissivity. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The surface of the Earth emits infrared radiation at 300 K.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the intensity of radiation emitted by dry land (emissivity <span class=\"math\" data-latex=\"e = 0.7\"></span>).<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Compare this intensity to that of a black body at the same temperature.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe how surface type affects emissivity.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

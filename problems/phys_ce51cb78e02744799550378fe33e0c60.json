@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2a003e45222b51421d4c6b7e2db58a27cde18fcd44efa841525f6d3499b0cf91.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2a003e45222b51421d4c6b7e2db58a27cde18fcd44efa841525f6d3499b0cf91"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ce51cb78e02744799550378fe33e0c60",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave travels with a speed of 60 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The graph shows how <em>s</em>, the displacement of the medium in which the wave travels varies with <em>t</em>, time. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the wavelength of the wave?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2.0 m</li>\n<li data-label=\"B\">30 m</li>\n<li data-label=\"C\">120 m</li>\n<li data-label=\"D\">1800 m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

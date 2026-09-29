@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d1feb12513294017adc7606ebb45b52b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A functioning freezer, with its door open, is placed inside a thermally isolated room. </p>\n<p>What happens to the temperature of the room and to the entropy of the room?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Temperature of the room</strong></p>\n</td>\n<td>\n<p><strong>Entropy of the room</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Increases</p>\n</td>\n<td>\n<p>Increases</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Decreases</p>\n</td>\n<td>\n<p>Increases</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>Increases</p>\n</td>\n<td>\n<p>Decreases</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>Decreases</p>\n</td>\n<td>\n<p>Decreases</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

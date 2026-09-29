@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_42b17998eb9b43e0927bec093854e852",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Atoms of the same element with the same number of protons but different numbers of neutrons.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Protons = 17, Neutrons = 20, Electrons = 17.<br/>- The values are correct [1 mark]<br/>- The matching is correct [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Chemical properties depend on the electron configuration.<br/>[1 mark]<br/>- Both isotopes have the same number of electrons and same electron arrangement.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Chlorine exists naturally as two isotopes, <span class=\"math\" data-latex=\"^{35}_{17}\\text{Cl}\"></span> and <span class=\"math\" data-latex=\"^{37}_{17}\\text{Cl}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term “isotope”.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the number of protons, neutrons, and electrons in a neutral atom of <span class=\"math\" data-latex=\"^{37}_{17}\\text{Cl}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain why the two isotopes of chlorine have the same chemical properties.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

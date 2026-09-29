@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_1efaf264c3f74ecda8cb8c7473c8a60a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The critical angle for light passing from a medium into air is 30°.</p>\n<p>What is the approximate value for the speed of light in the medium?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.5 × 10<sup>8 </sup>m s<sup>−1</sup></li><li data-label=\"B\">1.5 × 10<sup>8 </sup>m s<sup>−1</sup></li><li data-label=\"C\">2.0 × 10<sup>8 </sup>m s<sup>−1</sup></li><li data-label=\"D\">2.6 × 10<sup>8 </sup>m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2",
+    "D.1",
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_90d0be489fd44e749a88afdb7c0135bd",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"19a\"><p><strong>19a</strong></p><p></p>\n<p>Orbiting electrons accelerate and radiate energy, so in the Rutherford model the orbital radius of electrons would decrease and they would eventually spiral into the nucleus.</p>\n<p>In the Bohr model electrons have quantized energy levels (fixed orbits) where they do not radiate energy.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19b\"><p><strong>19b</strong></p><p></p>\n<p>The centripetal force on an orbiting electron is provided by the electric force between the electron and the proton in the nucleus, therefore:</p>\n<p><span class=\"math\" data-latex=\"\\frac{mv^{2}}{R} = \\frac{k \\times e \\times e}{R^{2}}\"></span></p>\n<p>From here, <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{ke^{2}}{m_{e}R}}\"></span></p>\n<p>For an orbiting electron:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = E_{K} + E_{P} = \\frac{1}{2}mv^{2} + \\frac{k \\times e \\times (-e)}{R} = \\frac{1}{2}m_{e}\\left( \\sqrt{\\frac{ke^{2}}{m_{e}R}} \\right)^{2} - \\frac{ke^{2}}{R} = -\\frac{ke^{2}}{2R}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19c\"><p><strong>19c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E = \\frac{hc}{\\lambda}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{(6.63 \\times 10^{-34})(3 \\times 10^{8})}{122 \\times 10^{-9}} = \\frac{p}{2^{2}} - \\frac{p}{4^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"p \\approx 8.7 \\times 10^{-18}\"></span> J or <span class=\"math\" data-latex=\"54\"></span> eV</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In both the Rutherford model and the Bohr model for an atom, electrons orbits the nucleus in circular orbits. Bohr modified the Rutherford model by introducing quantized energy levels for the orbiting electrons.</p>\n<p>a. Outline the reason for this modification.</p>\n<p>   [2]</p>\n<p>In the Bohr model for hydrogen an electron orbits the nucleus in a circular orbit of radius <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>b. Show that the total energy of the electron is <span class=\"math\" data-latex=\"-\\frac{ke^{2}}{2R}\"></span>.</p>\n<p>   [3]</p>\n<p>The Bohr model for hydrogen can be extended to a singly ionized helium atom. In this model the energy of an electron can be expressed as <span class=\"math\" data-latex=\"E = \\frac{p}{n^{2}}\"></span> where <span class=\"math\" data-latex=\"p\"></span> is a constant and <span class=\"math\" data-latex=\"n\"></span> is an integer, representing the orbit of the electron. When an electron transitions between orbits <span class=\"math\" data-latex=\"n = 4\"></span> and <span class=\"math\" data-latex=\"n = 2\"></span>, the wavelength of the emitted photon is <span class=\"math\" data-latex=\"122\"></span> nm.</p>\n<p>c. Determine <span class=\"math\" data-latex=\"p\"></span>. Include an appropriate unit with your answer.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

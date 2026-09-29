@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3b5787a26d0ac60673595ac8e8f9f5cc45229bfaed401b722699fb50bf6c114e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b5787a26d0ac60673595ac8e8f9f5cc45229bfaed401b722699fb50bf6c114e"
+    }
+  ],
+  "classes": [
+    "C.3",
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_fa47311e01df44b181c720cd54498ab6",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a\"><p><strong>11a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{20}\"></span> or <span class=\"math\" data-latex=\"0.05\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{hc}{E}=\\frac{(6.63 \\times 10^{-34})(3 \\times 10^{8})}{2.12 \\times (1.6 \\times 10^{-19})} \\approx 5.86 \\times 10^{-7}\"></span> m</p>\n<p>From the diagram, <span class=\"math\" data-latex=\"\\theta = 1.2 \\times 10^{-4}\"></span> rad</p>\n<p><span class=\"math\" data-latex=\"b = \\frac{5.86 \\times 10^{-7}}{1.2 \\times 10^{-4}} \\approx 4.9 \\times 10^{-3}\"></span> m or <span class=\"math\" data-latex=\"4.9\"></span> mm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p></p>\n<p>The central maximum is white, with the colours of the visible region of the electromagnetic spectrum at the edges.</p>\n<p>Violet is the closest to the centre of the central maximum, because it has the shortest wavelength, therefore it is diffracted the least.</p>\n<p>Red is the farthest from the centre of the central maximum, because it has the longest wavelength, so it is diffracted the most.</p>\n<p>Secondary maxima are in the colours of the visible region of the electromagnetic spectrum from violet (closest to centre) to red (farthest from centre).</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A person is looking at a lightbulb that emits monochromatic yellow light. The diagram shows how the intensity of the light that reaches the person’s retina varies with the diffraction angle.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. State the ratio <span class=\"math\" data-latex=\"\\frac{intensity\\: of\\: 1st\\: secondary \\: maximum}{intensity\\: of\\: central\\: maximum}\"></span></p>\n<p>   [1]</p>\n<p>The energy of a photon in the light beam is <span class=\"math\" data-latex=\"2.12\"></span> eV.</p>\n<p>b. Find the diameter of the person’s pupil.</p>\n<p>   [3]</p>\n<p>The light source is changed so that it emits white light. The light is incident on a single slit.</p>\n<p>c. State and explain the diffraction pattern that forms on a screen behind the slit.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

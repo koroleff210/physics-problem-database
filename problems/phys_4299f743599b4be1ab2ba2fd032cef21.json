@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4299f743599b4be1ab2ba2fd032cef21",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An experiment is conducted to monitor the activity <span class=\"math\" data-latex=\"A\"></span> of a sample of a radioactive isotope over time. A student plots a graph of <span class=\"math\" data-latex=\"\\ln(A)\"></span> on the <span class=\"math\" data-latex=\"y\"></span>-axis against time <span class=\"math\" data-latex=\"t\"></span> in seconds on the <span class=\"math\" data-latex=\"x\"></span>-axis. The resulting line of best fit is linear and has a gradient of <span class=\"math\" data-latex=\"-0.0231 \\text{ s}^{-1}\"></span>.</p>\n<p>What is the half-life of this radioactive isotope?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"15 \\text{ s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"43 \\text{ s}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"30 \\text{ s}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"60 \\text{ s}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

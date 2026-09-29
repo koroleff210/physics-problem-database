@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_15394340ab34491e98fe4472baa1848b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed container contains <span class=\"math\" data-latex=\"n_{o}\"></span> oxygen <span class=\"math\" data-latex=\"\\left ( _{8}^{16}\\textrm{O} \\right )\"></span> atoms and <span class=\"math\" data-latex=\"n_{a}\"></span> argon <span class=\"math\" data-latex=\"\\left ( _{18}^{40}\\textrm{Ar} \\right )\"></span> atoms. The mass of the oxygen in the container is <span class=\"math\" data-latex=\"80\"></span> g and the mass of the argon in the container is <span class=\"math\" data-latex=\"120\"></span> g. What is the ratio <span class=\"math\" data-latex=\"\\frac{n_{o}}{n_{a}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{5}{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{5}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

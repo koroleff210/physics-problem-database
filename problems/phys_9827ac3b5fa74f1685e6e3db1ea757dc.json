@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/76250ec9a7884f900b26d77a0fc1a376e027e939c42a92b2f415d460663eda61.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "76250ec9a7884f900b26d77a0fc1a376e027e939c42a92b2f415d460663eda61"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9827ac3b5fa74f1685e6e3db1ea757dc",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph below shows the variation of stopping potential <span class=\"math\" data-latex=\"V_s\"></span> with the frequency <span class=\"math\" data-latex=\"f\"></span> of incident radiation for a metal surface used in a photoelectric cell.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The experiment is repeated using a different metal surface that has a lower work function. How will the new graph compare to the original?</p><ol class=\"mcq-options\"><li data-label=\"A\">The gradient will increase and the <span class=\"math\" data-latex=\"f\"></span>-intercept will move closer to the origin.</li><li data-label=\"B\">The gradient will decrease and the <span class=\"math\" data-latex=\"f\"></span>-intercept will move further from the origin.</li><li data-label=\"C\">The gradient will remain the same and the <span class=\"math\" data-latex=\"f\"></span>-intercept will move closer to the origin.</li><li data-label=\"D\">The gradient will remain the same and the <span class=\"math\" data-latex=\"f\"></span>-intercept will move further from the origin.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

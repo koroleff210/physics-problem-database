@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_7a8ffe1fd1aa4b418c38ab89f44fdaee",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a Compton scattering experiment, X-rays of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> are scattered by electrons in a target. The wavelength of the scattered X-rays is <span class=\"math\" data-latex=\"\\lambda'\"></span>. Which of the following correctly describes the relationship between <span class=\"math\" data-latex=\"\\lambda\"></span> and <span class=\"math\" data-latex=\"\\lambda'\"></span> and its significance for the nature of light?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\lambda' &lt; \\lambda\"></span>, which supports the wave model of light</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\lambda' = \\lambda\"></span>, which supports the classical theory of electromagnetism</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\lambda' &gt; \\lambda\"></span>, which supports the photon model of light</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\lambda' &gt; \\lambda\"></span>, which supports the de Broglie hypothesis for matter</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

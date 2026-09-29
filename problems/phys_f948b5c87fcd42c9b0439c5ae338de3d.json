@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4ad2f5f51f06ae828b282ab083dcf456310e249f2b9585dccf5c8b5ae954a4cb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4ad2f5f51f06ae828b282ab083dcf456310e249f2b9585dccf5c8b5ae954a4cb"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_f948b5c87fcd42c9b0439c5ae338de3d",
+  "level": "sl_hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A projectile is launched with an initial velocity <span class=\"math\" data-latex=\"v\"></span> at an angle <span class=\"math\" data-latex=\"\\theta\"></span> above the horizontal. The projectile lands at the same height from which it was released. Air resistance is negligible.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the time of flight of the projectile?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{v sin \\theta}{g}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2v sin \\theta}{g}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2v cos \\theta}{g}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2v sin \\theta cos \\theta}{g}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

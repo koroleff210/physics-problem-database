@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d3e6060a9d824e669f4d5fec1479df81",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes constant acceleration along a straight line. Its speed increases from <span class=\"math\" data-latex=\"u\"></span> to <span class=\"math\" data-latex=\"v\"></span> as it travels a distance <span class=\"math\" data-latex=\"s\"></span>. The particle then continues to travel a further distance <span class=\"math\" data-latex=\"s\"></span> at the same acceleration. Which of the following expressions represents the speed of the particle after it has travelled the total distance of <span class=\"math\" data-latex=\"2s\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2v - u\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt{v^2 + u^2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt{2v^2 - u^2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"v\\sqrt{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

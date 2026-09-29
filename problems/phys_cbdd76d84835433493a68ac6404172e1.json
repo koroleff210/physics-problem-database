@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_cbdd76d84835433493a68ac6404172e1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The measured count rate is the sum of the sample's activity and the background rate. Let B be the background rate and A₀ be the initial sample activity. The initial measured rate is A₀ + B = 64 Bq. After two half-lives, the sample's activity is A₀/4, and the measured rate is A₀/4 + B = 34 Bq. Solving these two simultaneous equations yields B = 24 Bq.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment, the count rate of a radioactive sample is measured to be 64 Bq. After two half-lives have passed, the count rate is measured to be 34 Bq. What is the background count rate in this experiment?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"10 Bq\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"24 Bq\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"30 Bq\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"40 Bq\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

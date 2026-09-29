@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_82216fdcc58d44cea672fb86c7c7083c",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"p=\\frac{nRT}{V}\"></span> seen <span class=\"math\" data-latex=\"=12 kPa\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"6.4\\times 10^{-2} kg\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"v=\\sqrt{\\frac{3PV}{M}}=450 m s^{-1}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>increased temperature means increased average KE and hence increased average translational speed ✓ This increases the momentum transfer at the walls for each collision / mv is greater per collision ✓ This increases the frequency of collisions at the walls / particles cover the distance between walls more quickly ✓  Ideas that <span class=\"math\" data-latex=\"{F}_{\\text{wall}} = \\frac{\\Delta p}{\\Delta t}\"></span> AND <span class=\"math\" data-latex=\"P=\\frac{F}{A}\"></span> (can be in words) so that force increases and pressure increases ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A sealed container of volume 0.35 m<sup>3</sup> holds 1.6 mol of a monoatomic gas that can be treated as ideal. The temperature of the gas is 320 K.</p>\n<p>One mole of the gas has a mass of 4.0 × 10<sup>−2</sup> kg.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the pressure of the gas in the container. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the mass of the gas in the container. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the average translational speed of the gas particles. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The temperature of the gas in the container is increased.</p>\n<p>Explain, using the kinetic theory, how this change leads to a change in pressure in the container.</p><p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

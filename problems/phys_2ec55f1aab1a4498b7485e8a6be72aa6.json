@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e0ab059b4b5d3eb6c198d84dd065683788d5cde38f78fa49fbd8775c6490fd76.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e0ab059b4b5d3eb6c198d84dd065683788d5cde38f78fa49fbd8775c6490fd76"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_2ec55f1aab1a4498b7485e8a6be72aa6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the force acting on an object varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>At <span class=\"math\" data-latex=\"t=0\"></span> the object is at rest and at <span class=\"math\" data-latex=\"t=15\"></span> s the speed of the object is <span class=\"math\" data-latex=\"25\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What is the mass of the object?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.0\"></span> kg</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2.0\"></span> kg</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1000\"></span> kg</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2000\"></span> kg</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

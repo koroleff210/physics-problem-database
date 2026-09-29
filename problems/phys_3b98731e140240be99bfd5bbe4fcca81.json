@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_3b98731e140240be99bfd5bbe4fcca81",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A tennis ball of mass <span class=\"math\" data-latex=\"6.0 \\times 10^{-2}\\text{ kg}\"></span> is moving horizontally at a speed of <span class=\"math\" data-latex=\"25\\text{ m s}^{-1}\"></span>. It is struck by a racket and moves off in the opposite direction at a speed of <span class=\"math\" data-latex=\"35\\text{ m s}^{-1}\"></span>. The ball is in contact with the racket for <span class=\"math\" data-latex=\"1.2 \\times 10^{-2}\\text{ s}\"></span>.</p>\n<p>What is the magnitude of the average resultant force exerted on the ball by the racket during the collision?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"175\\text{ N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"50\\text{ N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"300\\text{ N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"125\\text{ N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

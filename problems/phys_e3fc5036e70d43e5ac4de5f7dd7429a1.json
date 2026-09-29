@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_e3fc5036e70d43e5ac4de5f7dd7429a1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A gas undergoes a complete thermodynamic cycle. The internal energy of the gas before the cycle is <span class=\"math\" data-latex=\"E_{1}\"></span> and after the cycle it is <span class=\"math\" data-latex=\"E_{2}\"></span>. What is true about <span class=\"math\" data-latex=\"E_{1}\"></span> and <span class=\"math\" data-latex=\"E_{2}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The relationship between <span class=\"math\" data-latex=\"E_{1}\"></span> and <span class=\"math\" data-latex=\"E_{2}\"></span> can only be determined if we know the initial volume, pressure, and temperature of the gas.</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"E_{1} &gt; E_{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"E_{1} &lt; E_{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"E_{1} = E_{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

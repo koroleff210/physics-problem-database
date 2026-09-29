@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_bd7ebe42e40f4b59af60c46908668bc6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. Sharp spectral lines arise from discrete emission/absorption at specific energies, not continuous absorption over a range of energies.</p>\n<p>B: Incorrect. In atoms, electron energies are quantized (discrete), and the emitted/absorbed photon frequencies correspond to transitions between these discrete levels.</p>\n<p>C: Correct. Electrons occupy discrete (quantized) energy levels, so photons are emitted/absorbed only with energies <span class=\"math\" data-latex=\"E=hf\"></span> equal to differences between these levels, producing sharp lines.</p>\n<p>D: Incorrect. Nuclear energy-level transitions produce gamma-ray spectra and are not responsible for the typical atomic line spectra observed in the visible/UV/IR, which come from electronic energy-level transitions.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following explains why atomic spectra have sharp lines?</p><ol class=\"mcq-options\"><li data-label=\"A\">Continuous energy absorption</li><li data-label=\"B\">Electrons in atoms can have any energy but emit only at resonant frequencies</li><li data-label=\"C\">Quantized energy levels in the atom</li><li data-label=\"D\">Transitions between nuclear energy levels</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

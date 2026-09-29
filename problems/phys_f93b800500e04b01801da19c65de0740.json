@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_f93b800500e04b01801da19c65de0740",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The length of a pipe that is open at both ends is <span class=\"math\" data-latex=\"L\"></span>. What is the ratio <span class=\"math\" data-latex=\"\\frac{5th\\: harmonic\\: frequency}{3rd\\: harmonic\\: frequency}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{5}{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{5}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5}{9}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{9}{5}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

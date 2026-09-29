@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d016732b45d40c0f23e33acb4a8be57c0d0abe7533466298de336a4002330e6d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d016732b45d40c0f23e33acb4a8be57c0d0abe7533466298de336a4002330e6d"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/68e219a68303d0d6ee5f491e48659945efc118a82cf346ec81577033a29c50eb.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "68e219a68303d0d6ee5f491e48659945efc118a82cf346ec81577033a29c50eb"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/cecc993c74ecf0337d5bef9cfaeece61f32d176d455dc8be592d54d3ca048c7c.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "cecc993c74ecf0337d5bef9cfaeece61f32d176d455dc8be592d54d3ca048c7c"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "B.5",
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b26da524b6b24fcba8abefa2386861ac",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«<span class=\"math\" data-latex=\"V=\\frac{4.5}{0.25}=\"></span>» 18 «V» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"F=\\frac{8.99\\times 10^{9}\\times 68\\times 10^{-6}\\times 0.25\\times 10^{-6}}{0.48^{2}}\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"F=0.66\"></span> «N» ✓</p>\n<p>Award [2] marks for a bald correct answer.</p>\n<p>Allow symbolic k in substitutions for MP1.</p>\n<p>Do not allow ECF from incorrect or not squared distance.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Q moves to the right/away from P «along a straight line»</p>\n<p>OR</p>\n<p>Q is repelled from P ✓</p>\n<p><br/>with increasing speed/Q accelerates ✓</p>\n<p>acceleration decreases ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>arrow of any length as shown ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>«using components or Pythagoras to get» B = 21 «mT» ✓</p>\n<p>directed «horizontally» to the right ✓</p>\n<p>If no unit seen, assume mT.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A charged particle, P, of charge +68 μC is fixed in space. A second particle, Q, of charge +0.25 μC is held at a distance of 48 cm from P and is then released.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The diagram shows two parallel wires X and Y that carry equal currents into the page.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Point Q is equidistant from the two wires. The magnetic field at Q due to wire X alone is 15 mT.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The work done to move a particle of charge 0.25 μC from one point in an electric field to another is 4.5 μJ. Calculate the magnitude of the potential difference between the two points. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine the force on Q at the instant it is released. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Describe the motion of Q after release. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> On the diagram draw an arrow to show the direction of the magnetic field at Q due to wire X alone. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine the magnitude and direction of the resultant magnetic field at Q. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

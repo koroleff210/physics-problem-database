@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/43d93e0c3c70a490f43fd3e3aa7552ea16a0793ecce35077526c28ff7421e12e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "43d93e0c3c70a490f43fd3e3aa7552ea16a0793ecce35077526c28ff7421e12e"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_33e18e229a3f40f79039936a976cdf52",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The electromagnetic spectrum radiated by a black body at temperature T shows a peak at wavelength <span class=\"math\" data-latex=\"\\lambda\"></span><sub>p</sub>.</p>\n<p>What is the variation of <span class=\"math\" data-latex=\"\\lambda\"></span><sub>p</sub> with T?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

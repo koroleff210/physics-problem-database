@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_dade7c4801f44d60a4d912d02014f681",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"W = Q_{in} - Q_{out} = 2500 - 1500 = 1000\\ \\text{J}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"\\eta = \\frac{W}{Q_{in}} = \\frac{1000}{2500}\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"\\eta = 0.40 = 40\\%\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- <span class=\"math\" data-latex=\"\\eta_{\\text{Carnot}} = 1 - \\frac{T_C}{T_H} = 1 - \\frac{300}{600}\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"\\eta_{\\text{Carnot}} = 0.50 = 50\\%\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>No; the actual efficiency (40%) is less than the Carnot limit (50%), so the engine is not reversible.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A heat engine absorbs <span class=\"math\" data-latex=\"2500\\ \\text{J}\"></span> of thermal energy from a hot reservoir at <span class=\"math\" data-latex=\"600\\ \\text{K}\"></span>, and rejects <span class=\"math\" data-latex=\"1500\\ \\text{J}\"></span> of thermal energy to a cold reservoir at <span class=\"math\" data-latex=\"300\\ \\text{K}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the first law of thermodynamics.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the work output of the engine per cycle.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the efficiency <span class=\"math\" data-latex=\"\\eta\"></span> of this heat engine.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the maximum possible efficiency for a heat engine operating between these two temperatures.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Comment on whether this engine is reversible.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

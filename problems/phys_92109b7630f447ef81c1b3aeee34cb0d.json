@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_92109b7630f447ef81c1b3aeee34cb0d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The ratio of the diameter of an atom to the diameter of its nucleus is:</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">10<sup>1</sup></li><li data-label=\"B\">10<sup>3</sup></li><li data-label=\"C\">10<sup>5</sup></li><li data-label=\"D\">10<sup>7</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1aefe26e9a8741eaf8b159c6e9efd0fc2b0a7b6e762ec9019e25744170d9c9e6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1aefe26e9a8741eaf8b159c6e9efd0fc2b0a7b6e762ec9019e25744170d9c9e6"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a5bc9b9f907d4c949d7dc55db5337915",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two charges Q<sub>1</sub> and Q<sub>2</sub>, each equal to 2 nC, are separated by a distance 3 m in a vacuum. What is the electric force on Q<sub>2</sub> and the electric field due to Q<sub>1</sub> at the position of Q<sub>2</sub>?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

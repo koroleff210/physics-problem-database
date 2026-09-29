@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/aa0fc90afeb6a1300f9cb1e0747ab91ec0cc35be1ee702eb07f1280781ac4a9b.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "aa0fc90afeb6a1300f9cb1e0747ab91ec0cc35be1ee702eb07f1280781ac4a9b"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_5c76d03f8b4f43f29939e86a2f25e4d7",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The tuning fork produces sound waves that travel down the tube and reflect off the water surface (a fixed boundary). [1 mark]<br/>- The incident and reflected waves interfere (or superpose), and when the phase relationship is correct (resonance), a standing wave with a displacement node at the water and an antinode at the open end is formed. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"L = \\dfrac{\\lambda}{4}\"></span> or <span class=\"math\" data-latex=\"\\lambda = 4L\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"\\lambda = 4 \\times 0.165 = 0.66\\text{ m}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"v = f\\lambda = 512 \\times 0.66 = 338\\text{ m s}^{-1}\"></span> (accept <span class=\"math\" data-latex=\"337.92\\text{ m s}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- First resonance: Sketch showing a displacement node at the water surface and an antinode at the open end (fundamental). [1 mark]<br/>- Second resonance: Sketch showing a displacement node at the water surface, an antinode at the open end, and one additional node and antinode within the tube (third harmonic). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- The speed of sound <span class=\"math\" data-latex=\"v\"></span> in carbon dioxide is lower than in air. [1 mark]<br/>- Since the frequency <span class=\"math\" data-latex=\"f\"></span> of the tuning fork is constant, the wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> must decrease according to <span class=\"math\" data-latex=\"v = f\\lambda\"></span>. [1 mark]<br/>- Because the resonance condition <span class=\"math\" data-latex=\"L = \\dfrac{\\lambda}{4}\"></span> must still be met, the length <span class=\"math\" data-latex=\"L\"></span> of the air column must be decreased. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a resonance tube experiment, a tuning fork of frequency <span class=\"math\" data-latex=\"f = 512\\text{ Hz}\"></span> is held over the open end of a vertical tube. The bottom of the tube is submerged in water, creating a closed-open air column of length <span class=\"math\" data-latex=\"L\"></span>, as shown in the diagram.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>The water level is gradually lowered from the top until the first position of resonance is detected at <span class=\"math\" data-latex=\"L = 0.165\\text{ m}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain the formation of a standing wave within the air column when the tuning fork is vibrating at a resonant frequency.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the relationship between the air column length <span class=\"math\" data-latex=\"L\"></span> and the wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> for this first resonant position.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the speed of sound in the air inside the tube.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Sketch the displacement standing wave patterns for the first and second possible resonant positions as the water level is lowered.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>The air in the tube is replaced with carbon dioxide, in which the speed of sound is significantly lower. Predict and explain the change, if any, required to the length <span class=\"math\" data-latex=\"L\"></span> to maintain the first position of resonance for the same tuning fork.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

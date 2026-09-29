@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_c7065c8fb5a4441f912756a079fe6b30",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A single slit is illuminated by a source emitting two monochromatic wavelengths, <span class=\"math\" data-latex=\"0.64\\ \\mu\\text{m}\"></span> and <span class=\"math\" data-latex=\"0.48\\ \\mu\\text{m}\"></span>. The first intensity minimum for the <span class=\"math\" data-latex=\"0.64\\ \\mu\\text{m}\"></span> light is observed at an angle <span class=\"math\" data-latex=\"\\alpha\"></span> relative to the central maximum. At what angle will the first intensity minimum for the <span class=\"math\" data-latex=\"0.48\\ \\mu\\text{m}\"></span> light be observed?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.56\\alpha\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.12\\alpha\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.75\\alpha\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.33\\alpha\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

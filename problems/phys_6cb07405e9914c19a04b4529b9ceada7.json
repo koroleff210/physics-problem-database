@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b27601c4cf66307b500502e9a9147e1dddc54da7cd58fc586683f1c3cdd4bf35.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b27601c4cf66307b500502e9a9147e1dddc54da7cd58fc586683f1c3cdd4bf35"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_6cb07405e9914c19a04b4529b9ceada7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed glass container with dimensions <span class=\"math\" data-latex=\"L\"></span>, <span class=\"math\" data-latex=\"W\"></span>, and <span class=\"math\" data-latex=\"H\"></span> contains <span class=\"math\" data-latex=\"N\"></span> molecules of an ideal gas. The force acting on one of the container sides with area <span class=\"math\" data-latex=\"WH\"></span> is <span class=\"math\" data-latex=\"F\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the temperature of the gas?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{FWH}{k_{B}N}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{FWH}{NR}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{FL}{k_{B}N}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{FL}{NR}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

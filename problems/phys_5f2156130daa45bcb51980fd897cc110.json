@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_5f2156130daa45bcb51980fd897cc110",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\frac{1.24\\times 10^{-6}}{7.80\\times 10^{-11}}\"></span> «= 15.9 keV» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Energy of incident photon =«<span class=\"math\" data-latex=\"15.9\\times 10^{3}+500=\"></span>»<span class=\"math\" data-latex=\"16.4\\times 10^{3}\"></span> «eV» ✓  Wavelength of incident photon =«<span class=\"math\" data-latex=\"\\frac{1.24\\times 10^{-6}}{16.4\\times 10^{3}}=\"></span>»<span class=\"math\" data-latex=\"7.56\\times 10^{-11}\"></span> «m» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The wavelength of the X-rays changes ✓  According to the wave model, the wavelength of the incident and scattered X-rays should be the same ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"7.80-7.56\\times 10^{-11}=\\frac{1.24\\times 10^{-6}}{0.511\\times 10^{6}}1-cos \\theta\"></span> ✓ <span class=\"math\" data-latex=\"\\theta=89 ^{∘}\"></span> ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>In a Compton scattering experiment, an X-ray photon interacts with a free, stationary electron. The electron recoils with an energy of 500 eV. The wavelength of the scattered photon is <span class=\"math\" data-latex=\"7.80\\times 10^{-11}\"></span> m.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the energy of the scattered photon is about 16 keV. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the wavelength of the incident photon. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Outline why the results of the experiment are inconsistent with the wave model of electromagnetic radiation. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the scattering angle of the photon. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

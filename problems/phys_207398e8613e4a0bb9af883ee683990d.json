@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/289df575d7d4222c64bd1e4d3e837efd45553333e64904341334efa6d9d69123.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "289df575d7d4222c64bd1e4d3e837efd45553333e64904341334efa6d9d69123"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_207398e8613e4a0bb9af883ee683990d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows a cycle ABCDA of an ideal gas, where AB and CD are adiabatic.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The pressure of the gas at C is <span class=\"math\" data-latex=\"200\\:\\textup{kPa}\"></span>.</p>\n<p>What is the pressure of the gas at D?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"390\\:\\textup{kPa}\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"460\\:\\textup{kPa}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1200\\:\\textup{kPa}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2000\\:\\textup{kPa}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

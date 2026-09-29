@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5e1ce11b25425d307c8e2cff738889b5ad1be41ad5322f5ab5f5e1a5a37b2bbf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5e1ce11b25425d307c8e2cff738889b5ad1be41ad5322f5ab5f5e1a5a37b2bbf"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3b81d9d99db14b84995626c35361705e",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows atomic transitions E<sub>1</sub>, E<sub>2</sub> and E<sub>3</sub> when a particular atom changes its energy state. The wavelengths of the photons that correspond to these transitions are <span class=\"math\" data-latex=\"\\lambda_{1}\"></span>, <span class=\"math\" data-latex=\"\\lambda_{2}\"></span> and <span class=\"math\" data-latex=\"\\lambda_{3}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is correct for these wavelengths?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\lambda_{1}&gt;\\lambda_{2}&gt;\\lambda_{3}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\lambda_{1}=\\lambda_{2}+\\lambda_{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{\\lambda_{1}}=\\frac{1}{\\lambda_{2}+\\lambda_{3}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{\\lambda_{1}}=\\frac{1}{\\lambda_{2}}+\\frac{1}{\\lambda_{3}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/79a123e4e9cdc084196877067488d47b18ff5a4ef02004bcb044d1d2fe7936ab.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "79a123e4e9cdc084196877067488d47b18ff5a4ef02004bcb044d1d2fe7936ab"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b4e4eea6d57d4f8289d791e2b3b7c3a8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A projectile of mass <span class=\"math\" data-latex=\"m\"></span> is fired with initial speed <span class=\"math\" data-latex=\"v\"></span> at an angle <span class=\"math\" data-latex=\"\\beta\"></span> to the vertical. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the momentum of the projectile at point D? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"mvsin\\beta\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"mvcos\\beta\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"mv\"></span></li>\n<li data-label=\"D\">zero</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

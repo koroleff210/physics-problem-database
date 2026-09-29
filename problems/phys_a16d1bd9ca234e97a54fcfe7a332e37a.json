@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_a16d1bd9ca234e97a54fcfe7a332e37a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object moves in a circle of radius <em>R</em> at constant speed <em>v</em>. The centripetal acceleration of the object is <em>a</em>. </p>\n<p>What will be the acceleration of the object when the radius is halved  and the speed is doubled?</p>\n<p><em></em></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><em>a</em></li>\n<li data-label=\"B\">2<em>a</em></li>\n<li data-label=\"C\">4<em>a</em></li>\n<li data-label=\"D\">8<em>a</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

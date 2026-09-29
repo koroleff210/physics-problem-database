@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5",
+    "B.1",
+    "C.2",
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_9be0f131bc0a486da4c2166998d554e2",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>The wavelength detected from the cooling helium gas in the galaxy is longer than the wavelength detected from the cooling helium gas on Earth.</p>\n<p>This means that the emission spectrum is redshifted, so the galaxy is moving away from Earth.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{590.6 - 588.0}{588.0} \\approx \\frac{v}{3 \\times 10^{8}}\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 1.327 \\times 10^{6}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> <span class=\"math\" data-latex=\"\\approx 1330\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Calculated answer must be given to at least 4 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p>Calculating the wavelength emitted by the galaxy:</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\lambda - 541.55 \\times 10^{-9}}{\\lambda} \\approx \\frac{1750 \\times 10^{3}}{3.00 \\times 10^{8}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda \\approx 544.73 \\times 10^{-9}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{3.00 \\times 10^{8}}{544.73 \\times 10^{-9}} \\approx 5.507 \\times 10^{14}\"></span> Hz <span class=\"math\" data-latex=\"\\approx 551\"></span> THz</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment on Earth, light emitted by cooling helium gas from a distant galaxy is incident on a prism. The wavelength of one of the principal lines in the emission spectrum is <span class=\"math\" data-latex=\"590.6\"></span> nm. When the experiment is carried out using cooling helium gas on Earth, the wavelength of the corresponding principal line is <span class=\"math\" data-latex=\"588.0\"></span> nm.</p>\n<p>a. Deduce that the galaxy is moving away from Earth.</p>\n<p>   [2]</p>\n<p>b. Show that the relative speed between the galaxy and Earth is about <span class=\"math\" data-latex=\"1330\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>    [2]</p>\n<p>Another galaxy is moving towards Earth at a speed of <span class=\"math\" data-latex=\"1750\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span>. The frequency of the light emitted by the galaxy is <span class=\"math\" data-latex=\"f\"></span>. The wavelength of this light detected on Earth is <span class=\"math\" data-latex=\"541.55\"></span> nm. </p>\n<p>c. Determine, in THz, <span class=\"math\" data-latex=\"f\"></span>. Give your answer to an appropriate number of significant figures.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

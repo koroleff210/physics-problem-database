@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/70c0f331946bff5a1378404f8dfca8119ab9ac793f6bd4df6c418853c278637e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "70c0f331946bff5a1378404f8dfca8119ab9ac793f6bd4df6c418853c278637e"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_cbd376c380424cc8bcbceadd9fe32fdb",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A layer of mercury traps a volume of gas in a tube. The tube is placed in a water bath and slowly heated. When the temperature of the water is 300 K the height of gas h in the tube is 150 mm.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is h when the temperature of the water is 360 K?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">120 mm</li><li data-label=\"B\">180 mm</li><li data-label=\"C\">300 mm</li><li data-label=\"D\">360 mm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

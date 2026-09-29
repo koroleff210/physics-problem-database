@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4127446d5880ad380541bf390a0cf4bb0ae5a314837067146018bd4420cb59b3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4127446d5880ad380541bf390a0cf4bb0ae5a314837067146018bd4420cb59b3"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b8b68c005b9847a399b4acccae9acf21",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>More « long wave » surface radiation / radiation from Earth is absorbed by GHG/the atmosphere ✔ increased intensity/more radiation (re)directed back to Earth/ I<sub>2</sub> increased ✔</p>\n<p>Not ‘heat’</p>\n<p>The following data are given.</p>\n<p>I<sub>0</sub> = 240 W m<sup>−2</sup></p>\n<p>I<sub>2</sub> = 150 W m<sup>−2</sup></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>I<sub>1</sub> =«240+150»=390 «W m<sup>−2</sup>» ✔ T = <span class=\"math\" data-latex=\"\\sqrt[4]{\\frac{390}{5.67 \\times  10^{-8}}}\"></span>= 288 «K» ✔</p>\n<p>Award [2] for BCA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>In a simplified model of energy balance of the Earth:</p>\n<p>the surface of the Earth absorbs incoming solar radiation of average global intensity I<sub>0</sub></p>\n<p>the surface emits thermal radiation of average intensity I<sub>1</sub></p>\n<p>some of the radiation emitted by the surface is absorbed by the atmosphere and re-emitted towards the surface. The average intensity of this radiation is I<sub>2</sub>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain the effect of an increase in the concentration of greenhouse gases in the atmosphere on I<sub>2</sub>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the average temperature of the surface of the Earth according to this model. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

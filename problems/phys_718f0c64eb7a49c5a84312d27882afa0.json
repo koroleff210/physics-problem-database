@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/38093b53d61a459e38e16fc2abc0a09fdecf2a9c03217e5987b5eb0e91e05635.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "38093b53d61a459e38e16fc2abc0a09fdecf2a9c03217e5987b5eb0e91e05635"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_718f0c64eb7a49c5a84312d27882afa0",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\frac{G M}{{r}^{2}} = \\frac{6.67 \\times  {10}^{- 11} \\times  8.9 \\times  {10}^{22}}{{( 1.8 \\times  {10}^{6} )}^{2}} =  1.8\"></span> ✓ N kg<sup>−1  </sup>OR  m s<sup>−2</sup>  ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{1.9\\times 10^{27}}{4.9\\times 10^{8}}\"></span>  AND  <span class=\"math\" data-latex=\"\\frac{8.9\\times 10^{22}}{1.8\\times 10^{6}}\"></span> seen ✓ <span class=\"math\" data-latex=\"\\frac{1.9\\times 10^{27}\\times 1.8\\times 10^{6}}{4.9\\times 10^{8}\\times 8.9\\times 10^{22}}=78\"></span>  ✓ <br/>For MP1, potentials can be seen individually or as a ratio.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>«this is the escape speed for <span class=\"math\" data-latex=\"Io\"></span> alone but» gravitational potential / field of Jupiter must be taken into account  ✓ <br/>OWTTE</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"-GM_{Jupiter}\\frac{1}{1.88\\times 10^{9}}-\\frac{1}{1.06\\times 10^{9}}=5.21\\times 10^{7} J kg^{-1}\"></span>  ✓ « multiplies by 3600 kg to get » 1.9 × 10<sup>11 </sup>«J» ✓ <br/>Award [2] marks if factor of ½ used, taking into account orbital kinetic energies, leading to a final answer of 9.4 x 10<sup>10 </sup>«J». Allow ECF from MP1 Award [2] marks for a bald correct answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The table gives data for Jupiter and three of its moons, including the radius r of each object.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A spacecraft is to be sent from <span class=\"math\" data-latex=\"Io\"></span> to infinity.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate, for the surface of <span class=\"math\" data-latex=\"Io\"></span>, the gravitational field strength g<sub>Io</sub> due to the mass of <span class=\"math\" data-latex=\"Io\"></span>. State an appropriate unit for your answer. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the <span class=\"math\" data-latex=\"\\frac{\\textit{gravitational potential due to Jupiter at the orbit of Io}}{\\textit{gravitational potential due to Io at the surface of Io}}\"></span> is about 80. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Outline, using (b)(i), why it is not correct to use the equation <span class=\"math\" data-latex=\"\\sqrt{\\frac{2G\\times mass of Io}{\\textit{radius of Io}}}\"></span> to calculate the speed required for the spacecraft to reach infinity from the surface of <span class=\"math\" data-latex=\"Io\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> An engineer needs to move a space probe of mass 3600 kg from Ganymede to Callisto. Calculate the energy required to move the probe from the orbital radius of Ganymede to the orbital radius of Callisto. Ignore the mass of the moons in your calculation. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

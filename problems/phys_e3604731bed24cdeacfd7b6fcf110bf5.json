@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6505045ec33761224f72621013ef55f9a0b76242d7c716bfaf1a2137a37ef74b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6505045ec33761224f72621013ef55f9a0b76242d7c716bfaf1a2137a37ef74b"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e3604731bed24cdeacfd7b6fcf110bf5",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>the distance between the «centre of» planet and «the centre of the» star ✔</p>\n<p>Accept radius/radius of the planet around star.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>L = «m<span class=\"math\" data-latex=\"r\"></span><sup>2</sup> <span class=\"math\" data-latex=\"\\frac{v}{r}\"></span>=» m<span class=\"math\" data-latex=\"vr\"></span> ✔</p>\n<p>Correctly shown that since <span class=\"math\" data-latex=\"r\"></span><sub>A</sub> &lt; <span class=\"math\" data-latex=\"r\"></span><sub>B</sub> , <span class=\"math\" data-latex=\"v\"></span><sub>A</sub> &gt; <span class=\"math\" data-latex=\"v\"></span><sub>B</sub> ✔</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>« gravity is » an external force on the planet «so linear momentum is not conserved»<br/>OR<br/>linear speed is different at A and B  ✔ gravity acts towards the center and therefore does not create a net torque «so angular momentum is conserved» ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A planet orbits around a star in an elliptical orbit as shown below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At point A the planet is closest to the star and at point B it is furthest from the star.</p>\n<p>As the planet orbits the star it has a moment of inertia I = m<span class=\"math\" data-latex=\"r\"></span><sup>2</sup> where m is the mass of the planet.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State what <span class=\"math\" data-latex=\"r\"></span> represents in this situation. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show, using conservation of angular momentum, that the linear speed of the planet is greater at A than at B. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Suggest why, in this situation, the magnitude of the linear momentum of the planet is not conserved whereas the magnitude of its angular momentum is conserved. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

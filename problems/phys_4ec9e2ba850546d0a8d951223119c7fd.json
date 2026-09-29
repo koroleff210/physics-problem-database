@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_4ec9e2ba850546d0a8d951223119c7fd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A hypothetical fission reaction releases 3 neutrons per event. For a critical mass to be maintained, which condition must be satisfied?</p><ol class=\"mcq-options\"><li data-label=\"A\">All 3 neutrons must cause further fissions</li><li data-label=\"B\">At least 2 neutrons must escape the reactor</li><li data-label=\"C\">Exactly 1 neutron must initiate a new fission</li><li data-label=\"D\">The average number of secondary fissions must exceed 1</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

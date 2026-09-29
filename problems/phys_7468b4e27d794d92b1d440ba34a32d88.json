@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_7468b4e27d794d92b1d440ba34a32d88",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between points X and Y along a sound wave is <span class=\"math\" data-latex=\"230\"></span> cm. The wavelength of the wave is <span class=\"math\" data-latex=\"40\"></span> cm. What is the phase difference of X and Y?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\pi\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\pi}{4}\"></span></li>\n<li data-label=\"D\">zero</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

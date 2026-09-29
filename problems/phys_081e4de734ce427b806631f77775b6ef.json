@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_081e4de734ce427b806631f77775b6ef",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When a charged oil drop is placed in the electric field between two horizontal conducting plates it remains suspended between the plates. The charge on the oil drop is <span class=\"math\" data-latex=\"-Q\"></span>.</p>\n<p>Consider the following statements:</p>\n<p>I <span class=\"math\" data-latex=\"Q = ne\"></span> where <span class=\"math\" data-latex=\"n\"></span> is a positive integer.</p>\n<p>II. The direction of the electric field between the plates is downwards.</p>\n<p>III. If the distance between the plates is decreased, the oil drop will accelerate upwards.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

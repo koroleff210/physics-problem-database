@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_c880172275854f01a3a04ac0b0096c73",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>When two waves meet, the resultant displacement is the sum of their individual displacements.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p>The light waves from the two slits interfere (superpose).</p>\n<p>When they are a half wavelength/180<span class=\"math\" data-latex=\"^{o}\"></span>/<span class=\"math\" data-latex=\"\\pi\"></span> out of phase, minima form due to destructive interference.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{(2 \\times 0.20 \\times 10^{-3}) \\times (3.5 \\times 10^{-3})}{x}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda=\\frac{1.4 \\times 10^{-6}}{x}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1d\"><p><strong>1d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{3 \\times 10^{8}}{650 \\times 10^{12}}\\approx 4.62 \\times 10^{-7}\"></span> m</p>\n<p><em>x</em> = <span class=\"math\" data-latex=\"\\frac{1.4 \\times 10^{-6}}{4.62 \\times 10^{-7}} \\approx 3.03\"></span> m <span class=\"math\" data-latex=\"\\approx  3.0\"></span> m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1e\"><p><strong>1e</strong></p><p></p>\n<p>The wavelength of yellow light is longer than the wavelength of blue light.</p>\n<p>As a result, the separation between maxima in the interference pattern increases. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1f\"><p><strong>1f</strong></p><p></p>\n<p>The refractive index of vacuum is less than the refractive index of water, so distance between maxima increases OR the intensity of the pattern increases.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1g\"><p><strong>1g</strong></p><p></p>\n<p>(Description of single-slit diffraction pattern)</p>\n<p>There will be a bright central maximum and secondary maxima.</p>\n<p>The width of the central maximum is larger than the width of the secondary maxima.</p>\n<p>The intensity of the pattern will be lower than previously.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an underwater experiment, monochromatic blue light is incident on a double-slit. The slits are <span class=\"math\" data-latex=\"3.5\"></span> mm apart and the distance between the central maximum and the first minimum is <span class=\"math\" data-latex=\"0.20\"></span> mm. An interference pattern is observed on a screen at a distance <em>x</em> from the slits.</p>\n<p>a. State what is meant by the superposition of waves.</p>\n<p>  [1]</p>\n<p>b. Explain how minima are formed in the pattern.</p>\n<p>  [2]</p>\n<p>c. Express the wavelength of the incident light in terms of <em>x</em>.</p>\n<p>  [2]</p>\n<p>d. Hence find the value of <em>x</em>, given that the frequency of the incident light is <span class=\"math\" data-latex=\"650\"></span> THz.</p>\n<p>  [2]</p>\n<p>e. Outline the changes to the interference pattern when the blue light is replaced by yellow light.</p>\n<p>  [2]</p>\n<p>f. The experiment is now carried out in vacuum. State and explain <strong>one</strong> change to the appearance of the interference pattern.</p>\n<p>  [2]</p>\n<p>g. Describe how the pattern appears on the screen when one of the slits is covered.  </p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

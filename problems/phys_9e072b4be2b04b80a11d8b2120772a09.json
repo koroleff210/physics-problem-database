@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/76c7fe089e956f741d067d717aa6c46a7716b10fbb4a5d4fba7b6fb5c5250dda.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "76c7fe089e956f741d067d717aa6c46a7716b10fbb4a5d4fba7b6fb5c5250dda"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_9e072b4be2b04b80a11d8b2120772a09",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two square-shaped coils, X and Y are in a uniform magnetic field. The magnetic field strength is B and both coils have a side length of <em>a</em>. Coil X is rotated 180<span class=\"math\" data-latex=\"^{o}\"></span> about axis A and coil Y is rotated 180<span class=\"math\" data-latex=\"^{o}\"></span>anticlockwise in the plane of the paper. A rotation takes 500 ms. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the average induced <em>emf</em> in coil X and in coil Y?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Average induced </strong><strong><em>emf</em></strong><strong> in X</strong></p>\n</td>\n<td>\n<p><strong>Average induced </strong><strong><em>emf</em></strong><strong> in Y</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>4<em>Ba</em><span class=\"math\" data-latex=\"^{2}\"></span></td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>2<em>Ba</em><span class=\"math\" data-latex=\"^{2}\"></span></td>\n<td>2<em>Ba</em><span class=\"math\" data-latex=\"^{2}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Zero</td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>2<em>Ba</em><span class=\"math\" data-latex=\"^{2}\"></span></td>\n<td>Zero</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

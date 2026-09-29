@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c2121062f90849939ff2c1e69b0820055640f7e2860aee588690f16188ea4500.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c2121062f90849939ff2c1e69b0820055640f7e2860aee588690f16188ea4500"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_012370c88ea54100adeafe36a92cb34e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Sankey diagram shows the energy flow in a car.  </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which one of the following statements is <strong>incorrect</strong> for the diagram?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">More than 80% of the energy losses are in the form of heat loss.</li>\n<li data-label=\"B\">The efficiency of the engine is 25%.</li>\n<li data-label=\"C\">The ratio of <span class=\"math\" data-latex=\"\\frac{Useful  energy}{Heat  loss  in  engine}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n<li data-label=\"D\">Over half of the total energy is lost in the engine. </li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

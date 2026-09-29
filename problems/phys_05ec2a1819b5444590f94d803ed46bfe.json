@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_05ec2a1819b5444590f94d803ed46bfe",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a double-slit experiment using coherent sources, the slit separation is <span class=\"math\" data-latex=\"0.20\\ \\text{mm}\"></span> and the screen is <span class=\"math\" data-latex=\"2.0\\ \\text{m}\"></span> away. Monochromatic red light (<span class=\"math\" data-latex=\"\\lambda = 700\\ \\text{nm}\"></span>) is used. If the fifth-order bright fringe is barely visible at the edge of the screen, what is the maximum possible screen width?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"3.5\\ \\text{cm}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"7.0\\ \\text{cm}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"14.0\\ \\text{cm}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"28.0\\ \\text{cm}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

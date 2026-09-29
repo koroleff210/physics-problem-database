@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_d7453657bf734b74ae1bc8f1a48a2a3a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The temperature of an ideal gas in a closed container is <span class=\"math\" data-latex=\"200\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C. The gas is heated and its pressure increases by <span class=\"math\" data-latex=\"200\"></span> %. What is the best estimate for the new temperature of the gas?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"400\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"600\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"700\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"1100\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

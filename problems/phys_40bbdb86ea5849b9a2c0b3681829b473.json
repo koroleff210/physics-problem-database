@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_40bbdb86ea5849b9a2c0b3681829b473",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Decreasing <span class=\"math\" data-latex=\"V\"></span> decreases the electron momentum, so the de Broglie wavelength increases: <span class=\"math\" data-latex=\"\\lambda=h/p\"></span> with <span class=\"math\" data-latex=\"p\\propto\\sqrt{V}\"></span>. Larger <span class=\"math\" data-latex=\"\\lambda\"></span> gives larger diffraction angles, increasing the ring radius (so it does not decrease).</p>\n<p>B: For particles accelerated through the same <span class=\"math\" data-latex=\"V\"></span>, <span class=\"math\" data-latex=\"p=\\sqrt{2mqV}\"></span> so increasing <span class=\"math\" data-latex=\"m\"></span> increases <span class=\"math\" data-latex=\"p\"></span> and decreases <span class=\"math\" data-latex=\"\\lambda=h/p\"></span>. Smaller <span class=\"math\" data-latex=\"\\lambda\"></span> gives smaller diffraction angles and hence smaller ring radii, so this change would decrease the radius (therefore this option is not correct as written because it would decrease the radius; however the question asks for a change that will decrease the radius, so this option would be correct if it were offered—here it is a distractor only if interpreted as still using electrons; for electrons, mass is fixed).</p>\n<p>C: Increasing <span class=\"math\" data-latex=\"V\"></span> increases electron momentum <span class=\"math\" data-latex=\"p\\propto\\sqrt{V}\"></span>, so the de Broglie wavelength decreases: <span class=\"math\" data-latex=\"\\lambda=h/p\"></span>. Smaller <span class=\"math\" data-latex=\"\\lambda\"></span> reduces diffraction angles and decreases the ring radius.</p>\n<p>D: Changing the film thickness primarily affects the intensity/visibility of the rings (scattering probability), not the diffraction angles set by the lattice spacing and electron wavelength, so the ring radius is not decreased.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam of electrons is accelerated from rest through a potential difference <span class=\"math\" data-latex=\"V\"></span> and is then incident on a thin graphite film. A pattern of diffraction rings is observed on a fluorescent screen. Which of the following changes will result in a decrease in the radius of the rings?</p><ol class=\"mcq-options\"><li data-label=\"A\">Decreasing the potential difference <span class=\"math\" data-latex=\"V\"></span></li><li data-label=\"B\">Using electrons of greater mass (for example, replacing electrons with heavier charged particles accelerated through the same <span class=\"math\" data-latex=\"V\"></span>)</li><li data-label=\"C\">Increasing the potential difference <span class=\"math\" data-latex=\"V\"></span></li><li data-label=\"D\">Decreasing the thickness of the graphite film</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

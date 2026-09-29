@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_2ba136b3c16246cdbc1eb3b6b104d310",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Define nuclide: A specific type of nucleus characterized by its number of protons and neutrons. [1 mark]<br/>- State the number of protons: 92. [1 mark]<br/>- Calculate the number of neutrons: <span class=\"math\" data-latex=\"235 - 92 = 143\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the relationship: <span class=\"math\" data-latex=\"R = R_0 A^{1/3}\"></span>. [1 mark]<br/>- Identify <span class=\"math\" data-latex=\"R_0\"></span>: It represents the approximate radius of a single nucleon (or the radius of a hydrogen nucleus). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate the nuclear radius: <span class=\"math\" data-latex=\"R = 1.2 \\times 10^{-15} \\times (56)^{1/3} \\approx 4.59 \\times 10^{-15} \\text{ m}\"></span>. [1 mark]<br/>- Use the volume formula for a sphere: <span class=\"math\" data-latex=\"V = \\frac{4}{3}\\pi R^3\"></span>. [1 mark]<br/>- Final calculation: <span class=\"math\" data-latex=\"V \\approx 4.0 \\times 10^{-43} \\text{ m}^3\"></span> (Accept <span class=\"math\" data-latex=\"4.1 \\times 10^{-43} \\text{ m}^3\"></span>). [1 mark]</p>\n<p>Note: Allow ECF from the radius calculation to the volume calculation.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate the total mass of the nucleus: <span class=\"math\" data-latex=\"m = 56 \\times 1.67 \\times 10^{-27} = 9.35 \\times 10^{-26} \\text{ kg}\"></span>. [1 mark]<br/>- Calculate the density: <span class=\"math\" data-latex=\"\\rho = \\frac{m}{V} = \\frac{9.35 \\times 10^{-26}}{4.0 \\times 10^{-43}} \\approx 2.3 \\times 10^{17} \\text{ kg m}^{-3}\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- State that nuclear mass <span class=\"math\" data-latex=\"m\"></span> is directly proportional to the mass number <span class=\"math\" data-latex=\"A\"></span> (<span class=\"math\" data-latex=\"m \\propto A\"></span>). [1 mark]<br/>- Explain that since <span class=\"math\" data-latex=\"R \\propto A^{1/3}\"></span>, the volume <span class=\"math\" data-latex=\"V \\propto R^3\"></span> is also proportional to <span class=\"math\" data-latex=\"A\"></span>. Therefore, the ratio <span class=\"math\" data-latex=\"\\rho = \\frac{m}{V}\"></span> results in the <span class=\"math\" data-latex=\"A\"></span> terms canceling, leaving density constant. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about the properties and composition of the atomic nucleus, including the relationship between mass number and nuclear dimensions.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term *nuclide* and state the nucleon composition of the isotope <span class=\"math\" data-latex=\"{}_{92}^{235}\\text{U}\"></span>.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The radius <span class=\"math\" data-latex=\"R\"></span> of a nucleus depends on its mass number <span class=\"math\" data-latex=\"A\"></span>. State the mathematical relationship between <span class=\"math\" data-latex=\"R\"></span> and <span class=\"math\" data-latex=\"A\"></span>, and identify the physical significance of the constant of proportionality <span class=\"math\" data-latex=\"R_0\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the volume of a nucleus of Iron-56 (<span class=\"math\" data-latex=\"{}_{26}^{56}\\text{Fe}\"></span>), assuming it is a perfect sphere. Use <span class=\"math\" data-latex=\"R_0 = 1.2 \\times 10^{-15} \\text{ m}\"></span>.<p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the density of the Iron-56 nucleus. (Mass of a nucleon <span class=\"math\" data-latex=\"\\approx 1.67 \\times 10^{-27} \\text{ kg}\"></span>).<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain, without further calculation, why the density of a nucleus is expected to be independent of its mass number <span class=\"math\" data-latex=\"A\"></span>.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

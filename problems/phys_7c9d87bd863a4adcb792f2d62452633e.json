@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_7c9d87bd863a4adcb792f2d62452633e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object undergoes simple harmonic oscillations with frequency <span class=\"math\" data-latex=\"f\"></span> and amplitude <span class=\"math\" data-latex=\"A\"></span>. The magnitude of the maximum acceleration of the object is <span class=\"math\" data-latex=\"a\"></span>. The frequency of the oscillations is increased to <span class=\"math\" data-latex=\"3f\"></span> and the amplitude is halved.</p>\n<p>What is the magnitude of the new maximum acceleration of the object?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.5a\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.5a\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"6.0a\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9.0a\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

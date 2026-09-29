@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_3e9cfb900ef74a6faab8fd38ce75e1ac",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal cylinder of mass <span class=\"math\" data-latex=\"M\"></span> and specific heat capacity <span class=\"math\" data-latex=\"c\"></span> is heated to <span class=\"math\" data-latex=\"90^{\\circ}\\mathrm{C}\"></span>. It is then submerged in an insulated container of liquid with mass <span class=\"math\" data-latex=\"2M\"></span> and specific heat capacity <span class=\"math\" data-latex=\"2c\"></span>. The initial temperature of the liquid is <span class=\"math\" data-latex=\"15^{\\circ}\\mathrm{C}\"></span>. Assuming no energy is lost to the surroundings, what is the final equilibrium temperature of the system?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"75^{\\circ}\\mathrm{C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"30^{\\circ}\\mathrm{C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"40^{\\circ}\\mathrm{C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"52.5^{\\circ}\\mathrm{C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_50698310dcd94b4f9ed3fcaa445ad73f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A bicycle of mass <span class=\"math\" data-latex=\"M\"></span> comes to rest from speed <span class=\"math\" data-latex=\"v\"></span> using the back brake. The brake has a specific heat capacity of <span class=\"math\" data-latex=\"c\"></span> and a mass <span class=\"math\" data-latex=\"m\"></span>. Half of the kinetic energy is absorbed by the brake.</p>\n<p>What is the change in temperature of the brake?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Mv^{2}}{4mc}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{Mv^{2}}{2mc}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mv^{2}}{4Mc}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{mv^{2}}{2Mc}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

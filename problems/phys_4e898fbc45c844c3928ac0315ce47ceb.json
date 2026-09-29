@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_4e898fbc45c844c3928ac0315ce47ceb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker is placed at the open end of a tube that is closed at its other end. The frequency of the sound produced by the loudspeaker is increased gradually from a low value. The first resonance of the air column in the tube is observed at frequency <span class=\"math\" data-latex=\"f_1\"></span>. The next resonance is observed at frequency <span class=\"math\" data-latex=\"f_2\"></span>. What is the ratio <span class=\"math\" data-latex=\"\\frac{f_2}{f_1}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">1.5</li><li data-label=\"B\">2.0</li><li data-label=\"C\">3.0</li><li data-label=\"D\">4.0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

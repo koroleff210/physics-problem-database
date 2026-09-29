@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/879c9ff1dc66dea8bbf833a222905eb30d9a72c7e22c6f053532a80d4d70c948.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "879c9ff1dc66dea8bbf833a222905eb30d9a72c7e22c6f053532a80d4d70c948"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_7e95b6d607364866be0b75f65ef4b5e6",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALTERNATIVE 1 <span class=\"math\" data-latex=\"Δ U = \\frac{3}{2} R n Δ T = \\frac{3}{2} P Δ V\"></span> ✓ <span class=\"math\" data-latex=\"Q = \\frac{3}{2} P Δ V + P Δ V = \\frac{5}{2} P Δ V\"></span> ✓ <span class=\"math\" data-latex=\"Q=\\frac{5}{2}\\times 22\\times 10^{3}\\times 3.2-4.5\\times 10^{-2}=-7.15\\times 10^{2}≈-700 J\"></span> ✓   ALTERNATIVE 2 <span class=\"math\" data-latex=\"Q = \\frac{3}{2} R n Δ T + P Δ V = \\frac{3}{2} \\frac{P V}{T} Δ T + P Δ V\"></span> ✓ temperature at C: <span class=\"math\" data-latex=\"\\frac{560\\times 3.2}{4.5}=398 K\"></span> ✓ <span class=\"math\" data-latex=\"Q=\\frac{3}{2}\\times \\frac{1000}{560}\\times 398-560+22\\times 10^{3}\\times 3.2-4.5\\times 10^{-2}=-7.15\\times 10^{2} J\"></span> ✓ <br/>Do not penalize absence of minus sign Allow use of n = 0.21 mol</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"{Q}_{i n} =  Δ U + W = 0 + 480 =  840 \\, J\"></span> ✓ <br/>ALTERNATIVE 1 <span class=\"math\" data-latex=\"η=\\frac{W}{Q_{in}}=\\frac{Q_{in}-Q_{out}}{Q_{in}}\"></span> ✓ <span class=\"math\" data-latex=\"η=\\frac{840-715}{840}=0.149≈0.15\"></span> ✓   ALTERNATIVE 2 Net work done (125 ± 20) J by counting squares in loop ✓ <span class=\"math\" data-latex=\"η=\\frac{125}{840}=0.15±0.02\"></span> ✓<br/>Allow η = 0.17 if rounded 700 J is used Award [3] for a CNA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The graph shows the cycle of a heat engine operating with an ideal monatomic gas. It consists of three stages: an isothermal A → B, an isobaric B → C and an adiabatic C → A. The temperature at A is 560 K.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the thermal energy transferred from the gas along B → C is about 700 J. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The work done along A → B is 840 J. Calculate the efficiency of the engine. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

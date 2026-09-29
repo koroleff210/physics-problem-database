@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_57ea3f4c0b2b4d739693f921ee7376b6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charged metal rod is brought close to a conducting sphere without the two objects touching. The sphere is initially neutral. Then the sphere is connected to the ground through a copper cable and for a brief period of time there is a conventional current from the ground to the sphere.</p>\n<p>Consider the following statements:</p>\n<p>I. The rod is positively charged.</p>\n<p>II. After the copper cable is removed, the sphere is negatively charged. </p>\n<p>III. Electron flow in the copper cable is from the sphere to the ground. </p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

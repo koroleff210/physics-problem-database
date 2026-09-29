@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fd69e0f3520cbe9dcfa63cd7279e25bd2a827d7015a755f14b857cb2c83167eb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fd69e0f3520cbe9dcfa63cd7279e25bd2a827d7015a755f14b857cb2c83167eb"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3",
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_a0f72b4514a442ae953d4529d51c359a",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>h = 1.6 sin(25°) = 0.676 m;<br/><span class=\"math\" data-latex=\"E_{p}\"></span> = mgh = 1.3 × 9.81 × 0.676 = 8.63 J, which is approximately 9 J.</p>\n<p>Must show calculation leading to the value. Use of g=10 m/s^2 gives 8.8 J, which is also acceptable.</p></section><section class=\"markscheme-part\" data-label=\"b_i\"><p><strong><span class=\"math\" data-latex=\"b_{i}\"></span></strong></p><p><span class=\"math\" data-latex=\"E_{k}\"></span> = 1/2 mv^2 = 1/2 × 1.3 × (2.4)^2 = 3.74 J (accept 3.7 J).</p></section><section class=\"markscheme-part\" data-label=\"b_ii\"><p><strong><span class=\"math\" data-latex=\"b_{\\mathrm{ii}}\"></span></strong></p><p>Work done by friction = initial GPE - final KE = 8.63 J - 3.74 J = 4.89 J;<br/>Work done by friction = μ_k * N * d = μ_k * mgcos(25°) * 1.6;<br/>μ_k = 4.89 / (1.3 * 9.81 * cos(25°) * 1.6) = 0.264 ≈ 0.26</p>\n<p>Award [1] for calculating energy loss. Award [1] for equating to work done by friction and solving for μ_k. Allow ECF from (a) and (b)(i).</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Energy conservation: mgh = 1/2 mv^2 + 1/2 Iω^2;<br/>Substitution: mgh = 1/2 mv^2 + 1/2 (2/5 mR^2)(v/R)^2 = 7/10 mv^2;<br/>v = sqrt(10gh/7) = sqrt(10 * 9.81 * 0.676 / 7) = 3.08 m/s (≈ 3.1 m/s).</p>\n<p>Award [1] for energy conservation equation including rotational KE. Award [1] for correct substitution for I and ω. Award [1] for correct final answer. Allow ECF from (a).</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The ring has a larger moment of inertia (I=mR^2) than the sphere (I=2/5 mR^2). For the same potential energy drop, a larger fraction is converted to rotational kinetic energy, leaving less for translational kinetic energy, hence a lower speed.</p>\n<p>Answer must refer to the larger moment of inertia and the consequence for energy distribution.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Answer all questions. Answers must be written within the answer boxes provided.</p><p><strong>1.</strong> A box is at the top of a 1.6 m long ramp inclined 25° to the horizontal. The mass of the box is 1.3 kg.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show the gravitational potential energy at the top is about 9 J. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate kinetic energy when speed at bottom is 2.4 m s^-1. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine the coefficient of dynamic friction. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The box is replaced by a solid sphere rolling without slipping. Calculate linear speed at the bottom. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The sphere is replaced by a ring. Explain why the ring speed is lower. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

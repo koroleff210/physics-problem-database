@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d987f8be74b942ae953517353dbacb29",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following quantities does not affect the magnetic force on a moving charged particle?</p><ol class=\"mcq-options\"><li data-label=\"A\">Speed of the particle</li><li data-label=\"B\">Magnitude of the charge</li><li data-label=\"C\">Mass of the particle</li><li data-label=\"D\">Magnetic field strength</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

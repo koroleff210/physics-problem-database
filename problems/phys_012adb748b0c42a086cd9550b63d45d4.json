@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0044eac212a7603a4145ace1642e02680949ae8e951c8ea931a593574d459130.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0044eac212a7603a4145ace1642e02680949ae8e951c8ea931a593574d459130"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_012adb748b0c42a086cd9550b63d45d4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The initial electrostatic force F is proportional to the product of the charges, q1*q2 = 3*9 = 27. When the identical conducting spheres are brought into contact, the total charge of 12 mC is shared equally, resulting in 6 mC on each sphere. The new force is proportional to the new product of charges, 6*6 = 36. Therefore, the new force is (36/27)F.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical conducting spheres have charges 3 mC and 9 mC. The force between the spheres is F.</p>\n<p>The spheres are put into contact and then returned to their initial positions. What is the new magnitude of the force between the spheres?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"F/2\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"27F/36\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"F\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"36F/27\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

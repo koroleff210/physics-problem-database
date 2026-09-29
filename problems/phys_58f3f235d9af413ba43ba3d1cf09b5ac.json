@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/20001613f4dbd618a0709edb5494e4eee309f2d7e519124abe483c897e14f2c2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "20001613f4dbd618a0709edb5494e4eee309f2d7e519124abe483c897e14f2c2"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_58f3f235d9af413ba43ba3d1cf09b5ac",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical blocks, each of mass m and speed v, travel towards each other on a frictionless surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The blocks undergo a head-on collision. What is definitely true immediately after the collision?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The momentum of each block is zero.</li><li data-label=\"B\">The total momentum is zero.</li><li data-label=\"C\">The momentum of each block is 2mv.</li><li data-label=\"D\">The total momentum is 2mv.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

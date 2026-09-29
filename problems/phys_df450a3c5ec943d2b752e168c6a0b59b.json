@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_df450a3c5ec943d2b752e168c6a0b59b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A heat engine operates between two thermal reservoirs at temperatures <span class=\"math\" data-latex=\"T_H = 600\\ \\text{K}\"></span> and <span class=\"math\" data-latex=\"T_C = 300\\ \\text{K}\"></span>. The engine absorbs <span class=\"math\" data-latex=\"Q_H = 1200\\ \\text{J}\"></span> of energy from the hot reservoir in one cycle and does <span class=\"math\" data-latex=\"W = 400\\ \\text{J}\"></span> of useful work.</p>\n<p>Which of the following statements is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">The entropy change of the cold reservoir is <span class=\"math\" data-latex=\"+2.67\\ \\text{J K}^{-1}\"></span></li><li data-label=\"B\">The engine is operating at Carnot efficiency</li><li data-label=\"C\">The net entropy change of the universe is zero</li><li data-label=\"D\">The energy rejected to the cold reservoir is <span class=\"math\" data-latex=\"600\\ \\text{J}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

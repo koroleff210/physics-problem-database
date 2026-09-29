@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b3dc8f27d9400276ecdcbf3936569107ff38e0afd6119a55c9366d1252382d46.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b3dc8f27d9400276ecdcbf3936569107ff38e0afd6119a55c9366d1252382d46"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_f3b9eed61df94f2bbebb5e4c4359352e",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A microphone M on a moving train detects the sound from a stationary loudspeaker L placed on the track. The track is straight. <br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>L emits a sound of constant frequency. The frequency detected by M is continuously decreasing.</p>\n<p>The train is moving <br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">away from L at an increasing speed.</li><li data-label=\"B\">away from L at a constant speed.</li><li data-label=\"C\">towards L at a constant speed.</li><li data-label=\"D\">towards L at an increasing speed.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

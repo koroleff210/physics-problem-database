@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_806ff5affc15499eaa28f8b78ebbeca1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is initially confined to one half of an insulated container, with the other half being a vacuum. The partition separating the two halves is suddenly removed, and the gas expands freely to fill the entire volume. Which of the following correctly describes the resulting changes in the internal energy and the entropy of the gas?</p>\n<table><thead><tr><th></th><th>Internal energy</th><th>Entropy</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>remains constant</td><td>remains constant</td></tr><tr data-label=\"B\"><td>B.</td><td>decreases</td><td>increases</td></tr><tr data-label=\"C\"><td>C.</td><td>remains constant</td><td>increases</td></tr><tr data-label=\"D\"><td>D.</td><td>decreases</td><td>remains constant</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9e300fd0cf70c1249cbe6e1241fd91aceb9227cc5754782a9ff951511546bc1c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e300fd0cf70c1249cbe6e1241fd91aceb9227cc5754782a9ff951511546bc1c"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_6ff0e5b86b7240109db7f89cf0690672",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cart travels from rest along a horizontal surface with a constant acceleration. What is the variation of the kinetic energy E<sub>k</sub> of the cart with its distance s travelled? Air resistance is negligible.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

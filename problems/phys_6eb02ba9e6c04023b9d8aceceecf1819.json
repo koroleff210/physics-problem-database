@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_6eb02ba9e6c04023b9d8aceceecf1819",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed container holds a fixed mass of a gas that behaves ideally. The pressure of the gas is <span class=\"math\" data-latex=\"P\"></span> and its volume is <span class=\"math\" data-latex=\"V\"></span>. If the absolute temperature of the gas is tripled and the volume is increased to <span class=\"math\" data-latex=\"1.5V\"></span>, what is the new pressure of the gas?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5P\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.0P\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.5P\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.0P\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

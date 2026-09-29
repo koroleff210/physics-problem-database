@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_2da07ef764a242a2a4666962b0f0e171",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thermal panel radiates <span class=\"math\" data-latex=\"500\\ \\mathrm{W}\"></span> of power at <span class=\"math\" data-latex=\"T = 400\\ \\mathrm{K}\"></span> in a vacuum. Assuming the surface behaves like a black body, what is its area? (Stefan-Boltzmann constant <span class=\"math\" data-latex=\"\\sigma = 5.67 \\times 10^{-8}\\ \\mathrm{W\\ m^{-2}\\ K^{-4}}\"></span> )</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.12\\ \\mathrm{m^2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.22\\ \\mathrm{m^2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.34\\ \\mathrm{m^2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.44\\ \\mathrm{m^2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

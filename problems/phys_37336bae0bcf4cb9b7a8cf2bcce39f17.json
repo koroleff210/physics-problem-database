@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_37336bae0bcf4cb9b7a8cf2bcce39f17",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Projectile A is fired at angle <span class=\"math\" data-latex=\"\\theta\"></span> from a horizontal surface, where <span class=\"math\" data-latex=\"0 &lt; \\theta &lt;90^{\\circ}\"></span> and air resistance is negligible. The maximum height reached by the projectile is <span class=\"math\" data-latex=\"H\"></span> and the speed of the projectile at this maximum height is <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>Projectile B is fired from a horizontal surface at the same angle and at the same initial velocity as Projectile A. For Projectile B, air resistance is not negligible.</p>\n<p>What is correct about the maximum height reached by Projectile B and its speed at this maximum height?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Maximum height reached by Projectile B</strong></p>\n</td>\n<td>\n<p><strong>Speed of Projectile B at maximum height</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"H\"></span></td>\n<td><span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Less than <span class=\"math\" data-latex=\"H\"></span></td>\n<td><span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"H\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Less than <span class=\"math\" data-latex=\"H\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

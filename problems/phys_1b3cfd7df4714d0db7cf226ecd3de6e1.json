@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/54ffd6c338f8d5411af2a412ab4a2da3853e4cfaa386f5e59115b25b4376f90c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "54ffd6c338f8d5411af2a412ab4a2da3853e4cfaa386f5e59115b25b4376f90c"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_1b3cfd7df4714d0db7cf226ecd3de6e1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spherical objects, A and B, are fired with the same initial velocity at an angle  <span class=\"math\" data-latex=\"\\theta\"></span> to the horizontal as shown on the diagram. The objects have the same radius. The density of object A is larger than the density of object B. Air resistance is negligible. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is true about the height reached by A and B and the time that it takes for A and B to hit the ground?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Height reached by A and B</strong></p>\n</td>\n<td>\n<p><strong>Time taken to hit the ground by A and B</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Same</td>\n<td>Different</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Different</td>\n<td>Same</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Same</td>\n<td>Same</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Different</td>\n<td>Different</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

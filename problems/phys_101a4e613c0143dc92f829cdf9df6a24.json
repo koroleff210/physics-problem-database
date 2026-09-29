@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/88ef9103b4f39edb5ef4c38ed887513057ae099a3972e04a5a8b6ab04602bcac.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "88ef9103b4f39edb5ef4c38ed887513057ae099a3972e04a5a8b6ab04602bcac"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_101a4e613c0143dc92f829cdf9df6a24",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"18a\"><p><strong>18a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"-69.7 \\times 10^{6} = \\frac{(8.99 \\times 10^{9})(-3.57 \\times 10^{-3})}{0.76} + \\frac{(8.99 \\times 10^{9})Q_{2}}{0.76}\"></span></p>\n<p><span class=\"math\" data-latex=\"Q_{2} \\approx -2.322 \\times 10^{-3}\"></span> C <span class=\"math\" data-latex=\"\\approx -2.32\"></span> mC</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"18b\"><p><strong>18b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E_{p} = \\frac{kQq}{r} = \\frac{(8.99 \\times 10^{9})(-3.57 \\times 10^{-3})(-2.32 \\times 10^{-3})}{0.76} \\approx 9.80 \\times 10^{4}\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"18c\"><p><strong>18c</strong></p><p></p>\n<p>Since at R the electric potential is minimum, electric field strength at R is zero. Let's denote the distance between R and <span class=\"math\" data-latex=\"Q_{1}\"></span> as <span class=\"math\" data-latex=\"x\"></span>.</p>\n<p><span class=\"math\" data-latex=\"\\frac{kQ_{1}}{x^{2}} = \\frac{kQ_{2}}{(0.76-x)^{2}}\"></span></p>\n<p>Simplifying and substituting:</p>\n<p><span class=\"math\" data-latex=\"\\frac{-3.57 \\times 10^{-3}}{x^{2}} = \\frac{-2.32 \\times 10^{-3}}{(0.76-x)^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"x \\approx 0.421\"></span> m or <span class=\"math\" data-latex=\"42.1\"></span> cm</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two point charges, <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span>, are located at two vertices of an equilateral triangle. The third vertex of the triangle is P.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The following data are provided:</p>\n<p></p>\n<p>Side length of the triangle: <span class=\"math\" data-latex=\"76.0\"></span> cm</p>\n<p>Charge on <span class=\"math\" data-latex=\"Q_{1}\"></span>: <span class=\"math\" data-latex=\"-3.57\"></span> mC</p>\n<p>Electric potential at P: <span class=\"math\" data-latex=\"-69.7\"></span> MV.</p>\n<p></p>\n<p>a. Show that <span class=\"math\" data-latex=\"Q_{2}\"></span> is about <span class=\"math\" data-latex=\"-2.32\"></span> mC.</p>\n<p>   [2]</p>\n<p>b. Calculate the electric potential energy of <span class=\"math\" data-latex=\"Q_{1}\"></span>.</p>\n<p>   [1]</p>\n<p>Point R is located on the straight line joining <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span>. The magnitude of the electric potential at R is a minimum.</p>\n<p>c. Determine the distance between R and <span class=\"math\" data-latex=\"Q_{1}\"></span>.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

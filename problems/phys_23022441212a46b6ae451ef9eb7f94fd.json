@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_23022441212a46b6ae451ef9eb7f94fd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"2.0\"></span> kg is oscillating with simple harmonic motion (SHM). The distance between the two maximum displacement positions of the object is <span class=\"math\" data-latex=\"4.0\"></span> m. The kinetic energy of the object when it is at a distance of <span class=\"math\" data-latex=\"1.0\"></span> m from the equilibrium position is <span class=\"math\" data-latex=\"300\"></span> J. What is the angular frequency of the oscillations?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{20}\"></span> rad s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"5.0\"></span> rad s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"10\"></span> rad s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"20\"></span> rad s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

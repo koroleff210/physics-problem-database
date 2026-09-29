@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e60df3cc2674a4da6e55dc7f8b45137c7d62bf804961e57697a171df147d0d1d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e60df3cc2674a4da6e55dc7f8b45137c7d62bf804961e57697a171df147d0d1d"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d14dba75bda747658f654cb71c4b08d9",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p></p>\n<p>Light emitted by cooling helium gas is passed through a prism and observed on a screen.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p></p>\n<p>The wavelengths in the spectra correspond to photons with different energies that are emitted when an electron in the helium atom makes a transition from a higher to a lower energy level. Since there are only discrete wavelengths in the spectrum, the energy levels in the helium atom must also be discrete.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9c(i)\"><p><strong>9c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"2.1\"></span> eV = <span class=\"math\" data-latex=\"3.36 \\times 10^{-19}\"></span> J</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{3.36 \\times 10^{-19}}{6.63 \\times 10^{-34}} \\approx 5.1 \\times 10^{14}\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9c(ii)\"><p><strong>9c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{c}{f} = \\frac{3 \\times 10^{8}}{5.1 \\times 10^{14}} \\approx 5.88 \\times 10^{-7}\"></span> m</p>\n<p>Line representing 588 nm circled.</p>\n<p>(Calculations do not have to be shown to earn mark)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9d\"><p><strong>9d</strong></p><p>Publishing in a peer-reviewed journal guarantees that the work is valid and that readers have confidence in the work. </p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The following diagram shows some of the principal lines in the visible emission spectrum of atomic helium. The wavelength for each line is shown below the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p> </p>\n<p>a. Explain how this spectrum can be produced in an experiment.</p>\n<p>  [3]</p>\n<p>b. Outline how the existence of discrete atomic energy levels in the helium atom can be deduced from this spectrum.</p>\n<p>  [3]</p>\n<p>c. The energy of a photon emitted in the helium spectrum is 2.1 eV. </p>\n<p>i. Calculate the frequency of this photon.</p>\n<p> [2]</p>\n<p>ii. Circle the emission line on the diagram that represents the photons with this frequency.</p>\n<p>  [1]</p>\n<p>d. The results of new scientific experiments are often published in peer-reviewed scientific journals. Outline why this is common practice amongst scientists.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

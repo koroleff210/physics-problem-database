@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ec712366bda9c80cc1759ed38f41a671ffe681fb94332724d96de50696d1235c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ec712366bda9c80cc1759ed38f41a671ffe681fb94332724d96de50696d1235c"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_9f6e8505413b4f10a3dd98ad94c6dac0",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet has an albedo of 0.30. A simplified energy balance for the planet is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the intensity radiated by the surface of the planet?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">70 W m<sup>−2</sup></li><li data-label=\"B\">90 W m<sup>−2</sup></li><li data-label=\"C\">100 W m<sup>−2</sup></li><li data-label=\"D\">130 W m<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

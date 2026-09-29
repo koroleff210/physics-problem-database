@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eb676c897b0d3a3d54f6fabb3f07fca8aa47fe2e2b0a822231962d538c75cd46.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb676c897b0d3a3d54f6fabb3f07fca8aa47fe2e2b0a822231962d538c75cd46"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_7acf18432f7f45ee86b87a94f3329ccb",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Some transitions between the energy states of an atom are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which transition will emit a photon with the longest wavelength?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">E<sub>1</sub></li><li data-label=\"B\">E<sub>2</sub></li><li data-label=\"C\">E<sub>3</sub></li><li data-label=\"D\">E<sub>4</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

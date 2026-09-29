@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0d9b7389ea23a3e0359115db2b2f2ec35878d465b660b0acc1d2045a78b7be69.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0d9b7389ea23a3e0359115db2b2f2ec35878d465b660b0acc1d2045a78b7be69"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/17c678c0ae5492aef8d6372cb708cbee5ed4c7a026b20b6f06123c3e5c71ffa5.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "17c678c0ae5492aef8d6372cb708cbee5ed4c7a026b20b6f06123c3e5c71ffa5"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_b0bd99d44b2a4df9a35e1aff9114da96",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>photon energy is proportional to frequency ✔ «when f &lt; f<sub>0</sub> ,» photon energy is less than the work function/energy needed to release an electron «from the surface» ✔</p>\n<p>Need to see ‘is proportional to’, not ‘is related to’. Reference to E=hf is satisfactory for MP1</p>\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>electrons are repelled from/do not « have enough KE to » reach the collecting plate /attracted back to the photosurface ✔ maximum KE of an electron is less than the work/energy needed to transfer it to the collecting plate ✔ Stopping potential /reverse pd opposes electron flow/reduces I « to zero » to the photocathode. ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1 electrons are attracted to the collecting plate ✔ Every electron emitted from the surface reaches the collecting plate ✔   ALTERNATIVE 2 there is a maximum number of photoelectrons that can be emitted per second ✔ this number is limited by the intensity of incident radiation «not the applied voltage» ✔</p>\n<p>Select responses from one ALT only</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"h\"></span>f =«<span class=\"math\" data-latex=\"\\frac{hc}{\\lambda}\"></span> = <span class=\"math\" data-latex=\"\\frac{1.24 \\times  10^{-6}}{430 \\times  10^{-9}}\"></span>=»2.9 «eV» ✔</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>E<sub>K</sub> =0.9 «eV» ✔</p>\n<p>Φ = «<span class=\"math\" data-latex=\"h\"></span>f − E<sub>k </sub>= 2.0 «eV» ✔</p>\n<p>Look for 2.9−0.9 = 2.0 eV Award [2] for BCA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>In an experiment to investigate the photoelectric effect, a beam of monochromatic light is incident on a metal surface. When the frequency of light is less than a certain threshold frequency f<sub>0</sub>, no electrons are emitted from the surface.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline how this observation supports the photon model of light. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why I</p></section><section class=\"context\"><p>The collecting plate of the photoelectric cell is at a variable potential V relative to the metal surface.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p><p>The graph shows the variation of the current I in the ammeter with V, for light of wavelength 430 nm.</p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> is zero for large negative V. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> approaches a constant value for large positive V. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate, in eV</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> the energy of a photon of wavelength 430 nm. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> the work function of the metal surface. [2]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

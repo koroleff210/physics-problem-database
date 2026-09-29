@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bf9833b85d090688b369e620177dab527743ddd5f07460d5da3131fb37b33ee1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bf9833b85d090688b369e620177dab527743ddd5f07460d5da3131fb37b33ee1"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_61afefbb5c82471b991f829578b85812",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A dog walks along a horizontal, straight road. The speed of the dog, <em>v</em>, varies with time, <em>t </em>as shown on the graph below.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the acceleration of the dog at t = 8 s and what is the distance travelled by the dog during the final four seconds of its motion?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Acceleration at </strong><strong><em>t</em></strong><strong> = 8 s</strong></p>\n</td>\n<td>\n<p><strong>Distance travelled during final four seconds of motion</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>0.5 m s<span class=\"math\" data-latex=\"^{-2}\"></span></td>\n<td>4 m</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>2.0 m s<span class=\"math\" data-latex=\"^{-2}\"></span></td>\n<td>4 m</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>0.5 m s<span class=\"math\" data-latex=\"^{-2}\"></span></td>\n<td>16 m</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>2.0 m s<span class=\"math\" data-latex=\"^{-2}\"></span></td>\n<td>16 m</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

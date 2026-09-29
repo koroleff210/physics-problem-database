@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_8f3341f8d21c42edba19c0e9c387e96b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"m\"></span> strikes a vertical wall horizontally at speed <span class=\"math\" data-latex=\"U\"></span>. The object rebounds from the wall horizontally at speed <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p>What is the magnitude of the change in the momentum of the object?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"mV-U\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"mU-V\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"mU+V\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

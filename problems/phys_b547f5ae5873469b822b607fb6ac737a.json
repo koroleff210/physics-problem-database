@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b547f5ae5873469b822b607fb6ac737a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor of efficiency 75 % raises a mass of 120 kg at a constant speed of 0.50 m s<sup>−1</sup>. What is the power input to the motor?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">20 W</li><li data-label=\"B\">450 W</li><li data-label=\"C\">600 W</li><li data-label=\"D\">800 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

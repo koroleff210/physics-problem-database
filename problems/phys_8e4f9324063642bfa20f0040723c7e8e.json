@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_8e4f9324063642bfa20f0040723c7e8e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A power supply is rated at <span class=\"math\" data-latex=\"120\\ \\text{W}\"></span> and <span class=\"math\" data-latex=\"12\\ \\text{V}\"></span>. What is the maximum number of <span class=\"math\" data-latex=\"24\\ \\Omega\"></span> resistors that can be connected in parallel across this supply without exceeding its power rating?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"5\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"10\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"40\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

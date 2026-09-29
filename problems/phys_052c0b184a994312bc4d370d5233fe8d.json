@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_052c0b184a994312bc4d370d5233fe8d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere of mass <span class=\"math\" data-latex=\"500\"></span> g moves at constant speed in a circle of radius <span class=\"math\" data-latex=\"1.0\"></span> m. The sphere completes <span class=\"math\" data-latex=\"120\"></span> revolutions in a minute. What is the kinetic energy of the sphere?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"4 \\pi^{2}\"></span> J</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2 \\pi^{2}\"></span> J</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\pi^{2}\"></span> J</li>\n<li data-label=\"D\">zero</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_ff6ea5c0ddc64bc180fa4bdbd5a6b932",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nuclide of phosphorus is represented by the symbol <span class=\"math\" data-latex=\"^{31}_{15}\\text{P}\"></span>. Which of the following correctly identifies the number of protons, neutrons, and electrons in the ion <span class=\"math\" data-latex=\"^{31}_{15}\\text{P}^{3-}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">15 protons, 16 neutrons, 12 electrons</li><li data-label=\"B\">15 protons, 16 neutrons, 18 electrons</li><li data-label=\"C\">15 protons, 31 neutrons, 18 electrons</li><li data-label=\"D\">16 protons, 15 neutrons, 18 electrons</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

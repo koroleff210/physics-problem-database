@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_ce3fd4c3c085449284206144a8e36309",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beaker containing a sample of liquid water is heated at its boiling point until it has completely turned into steam. The process occurs at a constant atmospheric pressure. Which of the following correctly describes the change in the temperature of the substance and the change in its internal energy during this phase transition?</p>\n<table><thead><tr><th></th><th>Temperature</th><th>Internal energy</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>increases</td><td>increases</td></tr><tr data-label=\"B\"><td>B.</td><td>constant</td><td>increases</td></tr><tr data-label=\"C\"><td>C.</td><td>constant</td><td>constant</td></tr><tr data-label=\"D\"><td>D.</td><td>increases</td><td>constant</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

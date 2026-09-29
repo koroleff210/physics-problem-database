@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_443ac777cd2b403b89cd3157fd5c1b52",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following quantities is measured in amperes?</p><ol class=\"mcq-options\"><li data-label=\"A\">Charge</li><li data-label=\"B\">Current</li><li data-label=\"C\">Voltage</li><li data-label=\"D\">Resistance</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

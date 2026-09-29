@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_877f24a7d89044b39b8d06b3c537efe5",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Incoming solar radiation at the top of Earth’s atmosphere is spread over a surface area equal to the area of a disk with Earth’s radius. Why is this area used instead of Earth’s surface area?</p><ol class=\"mcq-options\"><li data-label=\"A\">The solar radiation only hits half of Earth at any given time.</li><li data-label=\"B\">The sunlight is parallel and only strikes a circular cross-section.</li><li data-label=\"C\">The atmosphere absorbs all incoming radiation.</li><li data-label=\"D\">Earth’s surface area is not well-defined.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

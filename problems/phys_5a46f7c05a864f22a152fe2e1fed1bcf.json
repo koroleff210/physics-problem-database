@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_5a46f7c05a864f22a152fe2e1fed1bcf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which law is equivalent to the law of conservation of energy?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Coulomb’s law</li><li data-label=\"B\">Ohm’s Law</li><li data-label=\"C\">Newton’s first law</li><li data-label=\"D\">Lenz’s law</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_018aca40f0934b8c9c8f61739233ea4f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rod of length <span class=\"math\" data-latex=\"L\"></span> and mass <span class=\"math\" data-latex=\"M\"></span> is pivoted at one end and released from rest in a horizontal position. What is its angular velocity when it reaches the vertical position?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\omega=\\sqrt{\\frac{3 g}{L}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\omega=\\sqrt{\\frac{ g}{L}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\omega=\\sqrt{\\frac{2 g}{L}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\omega=\\sqrt{\\frac{6 g}{L}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

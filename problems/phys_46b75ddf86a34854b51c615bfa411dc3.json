@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_46b75ddf86a34854b51c615bfa411dc3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A periodic wave travels from medium 1 into medium 2. In medium 2, its wavelength is observed to be <span class=\"math\" data-latex=\"0.80\"></span> times its wavelength in medium 1.</p>\n<p>Which of the following correctly identifies the ratio of the speeds <span class=\"math\" data-latex=\"\\frac{v_1}{v_2}\"></span> and the change in frequency of the wave as it enters medium 2?</p>\n<table><thead><tr><th></th><th>Ratio <span class=\"math\" data-latex=\"\\frac{v_1}{v_2}\"></span></th><th>Frequency</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td><span class=\"math\" data-latex=\"0.80\"></span></td><td>increases</td></tr><tr data-label=\"B\"><td>B</td><td><span class=\"math\" data-latex=\"1.25\"></span></td><td>decreases</td></tr><tr data-label=\"C\"><td>C</td><td><span class=\"math\" data-latex=\"1.25\"></span></td><td>remains the same</td></tr><tr data-label=\"D\"><td>D</td><td><span class=\"math\" data-latex=\"0.80\"></span></td><td>remains the same</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

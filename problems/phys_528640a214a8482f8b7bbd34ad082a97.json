@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9017228c70ea716e5eb1442eb3ec5cb35f6b31f9d5592344caabf7fa25b518d3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9017228c70ea716e5eb1442eb3ec5cb35f6b31f9d5592344caabf7fa25b518d3"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_528640a214a8482f8b7bbd34ad082a97",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Recognizes space-like interval and calculates magnitude √((4 km)² - (1 km)²) = √15 km ≈ 3.9 km.</p>\n<p>Accept 3.87 km. The value must be positive real.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>For simultaneity in frame O, Δt' = 0, which requires v/c = cΔt/Δx. ✓<br/>v = (1/4)c = 0.25c. ✓</p>\n<p>Award [1] for setting up the condition for simultaneity correctly.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>METHOD 1 (Invariant Interval)<br/>Uses (Δs)² = (cΔt)² - (Δx)² = (cΔt')² - (Δx')². ✓<br/>With Δt'=0, (Δx')² = (Δx)² - (cΔt)² = 15 km², so Δx' = √15 km ≈ 3.9 km. ✓</p>\n<p>METHOD 2 (Lorentz Transformation)<br/>Calculates γ = 1/√(1-0.25²) = 4/√15 AND uses Δx' = γ(Δx - vΔt). ✓<br/>Δx' = (4/√15)(4 - 0.25 × 1) = √15 km ≈ 3.9 km. ✓</p>\n<p>Accept 3.87 km. Award [1 max] for one correct step in either method.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Proper length is the distance between two points measured in their rest frame; the locations x=0 and x=4 are at rest in frame F.</p>\n<p>The key idea is that frame F is the rest frame for the spatial separation.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>5.</strong> Events A and B are shown in a space-time diagram drawn for a frame of reference F. Events A and B are 4 km apart, as measured in F.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the space-time interval between events A and B. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine relative speed v if events are simultaneous for observer O. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the distance between A and B measured by O. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Explain why 4 km is the proper length between A and B. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

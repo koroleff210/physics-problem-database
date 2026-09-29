@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4b90cccf1d294c3396061372816b4268",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following correctly describes energy transformation during SHM?</p><ol class=\"mcq-options\"><li data-label=\"A\">Kinetic energy remains constant</li><li data-label=\"B\">Potential energy is maximum at equilibrium</li><li data-label=\"C\">Total energy varies with time</li><li data-label=\"D\">Energy continuously transforms between kinetic and potential</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

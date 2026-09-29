@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_67568ea309af41dd811faa7732972c3b",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"7a\"><p><strong>7a</strong></p><p></p>\n<p><em>V</em> = <span class=\"math\" data-latex=\"\\frac{(0.82)(8.31)(285)}{2.7 \\times 10^{5}}\"></span></p>\n<p><em>V</em> <span class=\"math\" data-latex=\"\\approx\"></span> 0.00719 m<span class=\"math\" data-latex=\"^{3}\"></span> </p>\n<p>Answer must be given to 3 s. f. to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7b(i)\"><p><strong>7b(i)</strong></p><p></p>\n<p><em>m</em> = (0.82)(84 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-3}\"></span>) = 0.06888 kg</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7b(ii)\"><p><strong>7b(ii)</strong></p><p></p>\n<p>Energy supplied to gas by heater:</p>\n<p>(50)(2)(60)(0.18) = 1080 J</p>\n<p>(0.06888)(63)(<em>c</em>) = 1080</p>\n<p><em>c</em> = 248.9 <span class=\"math\" data-latex=\"\\approx\"></span> 250 J kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7b(iii)\"><p><strong>7b(iii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{3}{2} \\times 1.38 \\times 10^{-23} \\times 348 \\approx 7.2 \\times 10^{-21}\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7c\"><p><strong>7c</strong></p><p></p>\n<p>Temperature depends on the average kinetic energy of the krypton gas particles.</p>\n<p>Energy must be supplied to the piston in order for it to move.</p>\n<p>This energy is provided by the gas particles as they collide with the piston, which leads to a decrease in average kinetic energy, hence a decrease in temperature.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7d\"><p><strong>7d</strong></p><p></p>\n<p>Models are used to simulate real-life scenarios.</p>\n<p>Models are helpful when explaining complex concepts.</p>\n<p>Models are useful in the development of new theories. </p>\n<p>Models can help predict outcomes of experiments.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A cylinder, sealed by a freely moving piston, contains 0.820 mole of krypton gas at a temperature of 285 K. The pressure in the cylinder is 2.70 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{5}\"></span> Pa. Krypton behaves as an ideal gas for a wide range of pressures and temperatures. The molar mass of krypton is 84 g.</p>\n<p>a. Calculate the volume of the krypton gas. Give your answer to an appropriate number of significant figures.</p>\n<p>  [2]</p>\n<p>b. The piston is fixed and a 50 W heater is used to heat the cylinder for 2 minutes. The temperature of the krypton gas increases to 348 K. The efficiency of the heater is 18%.</p>\n<p>i. Find, in kilograms, the mass of the krypton gas in the cylinder.</p>\n<p>  [1]</p>\n<p>ii. Estimate the specific heat capacity of the krypton gas.</p>\n<p>  [3]</p>\n<p>iii. Calculate the average kinetic energy of the particles of the krypton gas.</p>\n<p>  [1]</p>\n<p>c. The piston is released, the krypton gas expands and cools to 285 K. Explain, with reference to the kinetic model of ideal gases, why the temperature of the krypton gas decreases as it expands.</p>\n<p>  [3]</p>\n<p>d. The kinetic model of ideal gases is an example of a scientific model. State a reason why such models are useful in science.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

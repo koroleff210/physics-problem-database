@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_c2aeef0181404d60ba5f4a4358fcc81f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A distant galaxy that is moving away from the Earth at a relative speed of <span class=\"math\" data-latex=\"0.4c\"></span> where <span class=\"math\" data-latex=\"c\"></span> is the speed of light in vacuum emits electromagnetic waves of wavelength <span class=\"math\" data-latex=\"500\"></span> nm. What is the wavelength of these waves as detected by an observer on Earth?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"200\"></span> nm</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"300\"></span> nm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"500\"></span> nm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"700\"></span> nm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

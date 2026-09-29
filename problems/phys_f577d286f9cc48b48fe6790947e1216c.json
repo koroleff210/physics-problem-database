@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fc1b5c777773e5901d0fc479b12748cabf30e521397305ed61fdf4ab123a0b19.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fc1b5c777773e5901d0fc479b12748cabf30e521397305ed61fdf4ab123a0b19"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_f577d286f9cc48b48fe6790947e1216c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Five resistors are connected to a cell with emf of 18 V and negligible internal resistance. The resistance of each resistor is shown on the diagram.</p>\n<p>What is the current in the <span class=\"math\" data-latex=\"2.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span> resistor?</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<ol class=\"mcq-options\">\n<li data-label=\"A\">1.0 A</li>\n<li data-label=\"B\">1.5 A</li>\n<li data-label=\"C\">2.0 A</li>\n<li data-label=\"D\">3.0 A</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

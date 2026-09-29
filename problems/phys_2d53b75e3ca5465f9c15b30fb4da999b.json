@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_2d53b75e3ca5465f9c15b30fb4da999b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Doppler effect:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Occurs for light waves only.</li>\n<li data-label=\"B\">Occurs for sound waves only.</li>\n<li data-label=\"C\">Occurs both for light waves and sound waves.</li>\n<li data-label=\"D\">Occurs neither for light nor for sound waves.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

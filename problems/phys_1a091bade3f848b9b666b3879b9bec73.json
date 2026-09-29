@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/66482ae138110a576cb827060807bb7e0a8ad936b4461397d1cb1a1a686fc3a7.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "66482ae138110a576cb827060807bb7e0a8ad936b4461397d1cb1a1a686fc3a7"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_1a091bade3f848b9b666b3879b9bec73",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Calculate the distance covered during the acceleration phase: <span class=\"math\" data-latex=\"s_{1} = \\frac{1}{2}at^{2} = 0.5 \\times 1.20 \\times 3.00^{2} = 5.40 \\, \\mathrm{m}\"></span> [1 mark]</p>\n<p>- Calculate the constant velocity reached: <span class=\"math\" data-latex=\"v = u + at = 0 + 1.20 \\times 3.00 = 3.60 \\, \\mathrm{m\\,s^{-1}}\"></span> [1 mark]</p>\n<p>- Calculate the distance covered during the constant velocity and deceleration phases:<br/>- Constant velocity phase: <span class=\"math\" data-latex=\"s_{2} = v \\times t = 3.60 \\times 10.0 = 36.0 \\, \\mathrm{m}\"></span><br/>- Deceleration phase: <span class=\"math\" data-latex=\"s_{3} = \\frac{(u+v)}{2}t = \\frac{(3.60 + 0)}{2} \\times 4.00 = 7.20 \\, \\mathrm{m}\"></span> [1 mark]</p>\n<p>- Determine the total distance: <span class=\"math\" data-latex=\"s_{total} = 5.40 + 36.0 + 7.20 = 48.6 \\, \\mathrm{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Horizontal line at <span class=\"math\" data-latex=\"a = +1.20 \\, \\mathrm{m\\,s^{-2}}\"></span> from <span class=\"math\" data-latex=\"t = 0\"></span> to <span class=\"math\" data-latex=\"t = 3.0 \\, \\mathrm{s}\"></span> [1 mark]</p>\n<p>- Horizontal line at <span class=\"math\" data-latex=\"a = 0\"></span> from <span class=\"math\" data-latex=\"t = 3.0 \\, \\mathrm{s}\"></span> to <span class=\"math\" data-latex=\"t = 13.0 \\, \\mathrm{s}\"></span> [1 mark]</p>\n<p>- Correct calculation of deceleration for the final stage: <span class=\"math\" data-latex=\"a = \\frac{\\Delta v}{\\Delta t} = \\frac{0 - 3.60}{4.00} = -0.90 \\, \\mathrm{m\\,s^{-2}}\"></span> [1 mark]</p>\n<p>- Horizontal line at <span class=\"math\" data-latex=\"a = -0.90 \\, \\mathrm{m\\,s^{-2}}\"></span> from <span class=\"math\" data-latex=\"t = 13.0 \\, \\mathrm{s}\"></span> to <span class=\"math\" data-latex=\"t = 17.0 \\, \\mathrm{s}\"></span> [1 mark]</p>\n<p>Note: Vertical lines connecting the segments are acceptable but not required. Numerical values must be clearly indicated on the y-axis.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A lift in a high-rise building starts from rest and moves upwards to the top floor. The motion consists of three distinct stages: first, it accelerates uniformly at <span class=\"math\" data-latex=\"1.20 \\, \\mathrm{m\\,s^{-2}}\"></span> for a duration of <span class=\"math\" data-latex=\"3.00 \\, \\mathrm{s}\"></span>; second, it travels at a constant velocity for <span class=\"math\" data-latex=\"10.0 \\, \\mathrm{s}\"></span>; third, it decelerates uniformly to rest in a final period of <span class=\"math\" data-latex=\"4.00 \\, \\mathrm{s}\"></span>. Air resistance and friction are negligible.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> By considering the kinematics of each stage of the motion, determine the total vertical distance traveled by the lift from the start until it reaches the top floor. [4]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The lift starts its motion at <span class=\"math\" data-latex=\"t = 0\"></span>. On the axes provided, draw a graph to show the variation with time <span class=\"math\" data-latex=\"t\"></span> of the acceleration <span class=\"math\" data-latex=\"a\"></span> of the lift from <span class=\"math\" data-latex=\"t = 0\"></span> until it reaches the top floor. Mark the calculated numerical values of the acceleration on the vertical axis.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

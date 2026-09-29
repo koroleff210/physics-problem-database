@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_d88e5cd8645d4f26b36f5de7e06fa3d0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is kicked at a <span class=\"math\" data-latex=\"30^{\\circ}\"></span> angle to the horizontal. Air resistance is not negligible.</p>\n<p>Three statements are:</p>\n<p>I. The horizontal velocity of the ball is constant.</p>\n<p>II. The vertical acceleration of the ball is constant.</p>\n<p>III. The trajectory of the ball is a parabola. </p>\n<p></p>\n<p>Which of these statements are incorrect?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

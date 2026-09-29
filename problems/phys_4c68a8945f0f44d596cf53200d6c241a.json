@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_4c68a8945f0f44d596cf53200d6c241a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pipe of length <span class=\"math\" data-latex=\"L\"></span> is closed at one end.</p>\n<p>What is the wavelength of the fifth-harmonic standing wave in this pipe?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{8L}{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5L}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4L}{5}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{5L}{8}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

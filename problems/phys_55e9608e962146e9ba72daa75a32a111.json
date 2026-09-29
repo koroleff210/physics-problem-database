@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_55e9608e962146e9ba72daa75a32a111",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Using <span class=\"math\" data-latex=\"d\\sin\\theta=n\\lambda\"></span> with <span class=\"math\" data-latex=\"d=\\frac{1}{400\\,\\text{mm}^{-1}}=2.50\\times10^{-6}\\,\\text{m}\"></span> gives <span class=\"math\" data-latex=\"\\lambda\\approx5.0\\times10^{-7}\\,\\text{m}=500\\,\\text{nm}\"></span>, not <span class=\"math\" data-latex=\"400\\,\\text{nm}\"></span>.</p>\n<p>B: Line spacing: <span class=\"math\" data-latex=\"400\"></span> lines per mm <span class=\"math\" data-latex=\"=4.00\\times10^5\\,\\text{m}^{-1}\"></span>, so <span class=\"math\" data-latex=\"d=\\frac{1}{4.00\\times10^5}=2.50\\times10^{-6}\\,\\text{m}\"></span>. Grating equation (normal incidence): <span class=\"math\" data-latex=\"d\\sin\\theta=n\\lambda\"></span>.<br/>For <span class=\"math\" data-latex=\"n=1\"></span>, <span class=\"math\" data-latex=\"\\theta=11.5^\\circ\"></span>: <span class=\"math\" data-latex=\"\\lambda=2.50\\times10^{-6}\\sin 11.5^\\circ\\approx2.50\\times10^{-6}(0.199)\\approx4.99\\times10^{-7}\\,\\text{m}=499\\,\\text{nm}\"></span>.<br/>Checks: <span class=\"math\" data-latex=\"n=2\"></span>, <span class=\"math\" data-latex=\"\\theta=23.6^\\circ\\Rightarrow\\lambda\\approx501\\,\\text{nm}\"></span>; <span class=\"math\" data-latex=\"n=3\"></span>, <span class=\"math\" data-latex=\"\\theta=36.9^\\circ\\Rightarrow\\lambda\\approx500\\,\\text{nm}\"></span>. Hence <span class=\"math\" data-latex=\"\\lambda\\approx500\\,\\text{nm}\"></span>.</p>\n<p>C: Correct use of <span class=\"math\" data-latex=\"d\\sin\\theta=n\\lambda\"></span> with <span class=\"math\" data-latex=\"d=2.50\\times10^{-6}\\,\\text{m}\"></span> gives <span class=\"math\" data-latex=\"\\lambda\\approx500\\,\\text{nm}\"></span>, not <span class=\"math\" data-latex=\"625\\,\\text{nm}\"></span>.</p>\n<p>D: Correct use of <span class=\"math\" data-latex=\"d\\sin\\theta=n\\lambda\"></span> with <span class=\"math\" data-latex=\"d=2.50\\times10^{-6}\\,\\text{m}\"></span> gives <span class=\"math\" data-latex=\"\\lambda\\approx500\\,\\text{nm}\"></span>, not <span class=\"math\" data-latex=\"750\\,\\text{nm}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam of monochromatic light is incident normally on a diffraction grating that has <span class=\"math\" data-latex=\"400\"></span> lines per mm. The table below shows the measured angular positions for the first three principal maxima relative to the central zero-order fringe.</p>\n<table><thead><tr><th>Order (<span class=\"math\" data-latex=\"n\"></span>)</th><th>Angular position (<span class=\"math\" data-latex=\"\\theta\"></span>)</th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"11.5^\\circ\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"23.6^\\circ\"></span></td></tr><tr><td>3</td><td><span class=\"math\" data-latex=\"36.9^\\circ\"></span></td></tr></tbody></table>\n<p>What is the wavelength of the light source (in nm)?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"400\\text{ nm}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"500\\text{ nm}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"625\\text{ nm}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"750\\text{ nm}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

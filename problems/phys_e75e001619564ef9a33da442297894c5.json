@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/49a6ee91fac54ffaed4ffc0f8d4e570492c525373cc336eb704302a19f1c70ce.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "49a6ee91fac54ffaed4ffc0f8d4e570492c525373cc336eb704302a19f1c70ce"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e75e001619564ef9a33da442297894c5",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ray of monochromatic light is incident on the parallel interfaces between three media. The speeds of light in the media are v<sub>1</sub>, v<sub>2</sub> and v<sub>3</sub>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is correct about the speeds of light in the media?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">v<sub>3</sub> &lt; v<sub>1</sub> &lt; v<sub>2</sub></li><li data-label=\"B\">v<sub>3</sub> &lt; v<sub>2</sub> &lt; v<sub>1</sub></li><li data-label=\"C\">v<sub>2</sub> &lt; v<sub>3</sub> &lt; v<sub>1</sub></li><li data-label=\"D\">v<sub>2</sub> &lt; v<sub>1</sub> &lt; v<sub>3</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

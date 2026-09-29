@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_ef2dfc734a0741e28f1213609d0aea74",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident normally on a diffraction grating of slit spacing <span class=\"math\" data-latex=\"\\frac{9}{2}\\lambda\"></span> .</p>\n<p>What is the total number of maxima that can be produced using this arrangement?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4</li><li data-label=\"B\">5</li><li data-label=\"C\">9</li><li data-label=\"D\">11</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_aa575d316ce34f6f9b1b14a2dce26715",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Gravitational field strength (<span class=\"math\" data-latex=\"g\"></span>) is a vector quantity. At the midpoint of two identical masses, the field vectors point in opposite directions and have equal magnitude (<span class=\"math\" data-latex=\"g = \\frac{GM}{(L/2)^2}\"></span>), so they cancel out to zero. Gravitational potential (<span class=\"math\" data-latex=\"V\"></span>) is a scalar quantity. The total potential is the sum of the potentials from each star: <span class=\"math\" data-latex=\"V_{total} = V_1 + V_2\"></span>. Since <span class=\"math\" data-latex=\"V = -\\frac{GM}{r}\"></span>, the sum of two negative scalars results in a non-zero, negative total potential.</p>\n<p>B: This incorrectly assumes that gravitational potential is a vector that cancels at the midpoint, or that potential must be zero where the field strength is zero.</p>\n<p>C: This incorrectly suggests that the field strength vectors do not cancel at the point of symmetry for two identical masses.</p>\n<p>D: This incorrectly treats field strength as a scalar and potential as a vector.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical isolated stars are separated by a distance <span class=\"math\" data-latex=\"L\"></span>. Point <span class=\"math\" data-latex=\"X\"></span> is the midpoint of the line joining the centers of the two stars.</p>\n<p>Which of the following correctly describes the net gravitational field strength and the total gravitational potential at point <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">The gravitational field strength is zero and the gravitational potential is negative.</li><li data-label=\"B\">The gravitational field strength is zero and the gravitational potential is zero.</li><li data-label=\"C\">The gravitational field strength is non-zero and the gravitational potential is negative.</li><li data-label=\"D\">The gravitational field strength is non-zero and the gravitational potential is zero.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

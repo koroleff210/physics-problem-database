@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2b74bbcd3d3347e998fbd3b94b111ce3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. A common error is applying the albedo fraction directly and then dividing again incorrectly (or confusing reflected with absorbed).</p>\n<p>B: Incorrect. This corresponds to applying the <span class=\"math\" data-latex=\"\\tfrac{1}{4}\"></span> geometric factor but not accounting for albedo (i.e. using <span class=\"math\" data-latex=\"\\tfrac{1600}{4}\"></span>).</p>\n<p>C: Correct. Average absorbed intensity <span class=\"math\" data-latex=\"=\\dfrac{S(1-\\alpha)}{4}=\\dfrac{1600\\times(1-0.20)}{4}=\\dfrac{1280}{4}=320\\,\\text{W m}^{-2}\"></span>. (Factor <span class=\"math\" data-latex=\"\\tfrac{1}{4}\"></span> accounts for averaging over the spherical surface area.)</p>\n<p>D: Incorrect. This is <span class=\"math\" data-latex=\"S(1-\\alpha)=1600\\times0.80\"></span>, which omits the <span class=\"math\" data-latex=\"\\tfrac{1}{4}\"></span> averaging over the planet’s surface.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The solar constant for a planet is <span class=\"math\" data-latex=\"1600 \\, \\text{W m}^{-2}\"></span> and its average albedo is <span class=\"math\" data-latex=\"0.20\"></span>. Assume the planet has no atmosphere so that the surface albedo equals the planetary albedo.</p>\n<p>What is the average intensity of solar radiation absorbed by the surface of the planet?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"80 \\, \\text{W m}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"400 \\, \\text{W m}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"320 \\, \\text{W m}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1280 \\, \\text{W m}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

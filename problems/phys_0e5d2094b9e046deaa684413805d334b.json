@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_0e5d2094b9e046deaa684413805d334b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"m\"></span> is being heated by a source of constant power <span class=\"math\" data-latex=\"P\"></span>.</p>\n<p>The rate of change of the temperature of the object is <span class=\"math\" data-latex=\"S\"></span>.</p>\n<p>What is the specific heat capacity of the object?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mS}{P}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{mP}{S}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{S}{mP}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{P}{mS}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

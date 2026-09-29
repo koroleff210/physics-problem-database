@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_2774aa6c85bb439abd1b3e043cecab2c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam of monochromatic light is incident on a metal plate and photoelectrons are emitted from the plate. What will lead to an increase in the momentum of the emitted photoelectrons?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Increasing the intensity of the incident light.</li>\n<li data-label=\"B\">Increasing the wavelength of the incident light.</li>\n<li data-label=\"C\">Increasing the frequency of the incident light.</li>\n<li data-label=\"D\">Increasing the work function of the metal plate.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

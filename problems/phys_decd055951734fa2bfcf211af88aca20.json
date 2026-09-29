@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/08374ad71dda8d2e37e42e171428b15417c151ff1297ca18e8ccaafe5fcb202d.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "08374ad71dda8d2e37e42e171428b15417c151ff1297ca18e8ccaafe5fcb202d"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_decd055951734fa2bfcf211af88aca20",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>B: - In a longitudinal wave, a compression occurs where particles are crowded together.<br/>- For position B, particles to the left (<span class=\"math\" data-latex=\"x &lt; B\"></span>) have a positive displacement (displaced toward B).<br/>- Particles to the right (<span class=\"math\" data-latex=\"x &gt; B\"></span>) have a negative displacement (displaced toward B).<br/>- Therefore, particles converge at B, making it a center of compression.</p>\n<p>D: - For position D, particles to the left (<span class=\"math\" data-latex=\"x &lt; D\"></span>) have a negative displacement (displaced away from D).<br/>- Particles to the right (<span class=\"math\" data-latex=\"x &gt; D\"></span>) have a positive displacement (displaced away from D).<br/>- This results in a rarefaction, not a compression.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with distance <span class=\"math\" data-latex=\"x\"></span> of the displacement <span class=\"math\" data-latex=\"s\"></span> of the particles in a longitudinal wave at a particular instant. A positive value of <span class=\"math\" data-latex=\"s\"></span> represents a displacement in the direction of energy transfer.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At which position is a center of compression formed?</p><ol class=\"mcq-options\"><li data-label=\"A\">A</li><li data-label=\"B\">B</li><li data-label=\"C\">C</li><li data-label=\"D\">D</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

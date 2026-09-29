@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/746457ca8e714ab42c4c3d24801489e18d0db606cdc300b7c2f243adb36f19ae.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "746457ca8e714ab42c4c3d24801489e18d0db606cdc300b7c2f243adb36f19ae"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/af573ca55dcb0ff88b894647247a1c2d06a626f67c270ed645cb0614328dbea9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "af573ca55dcb0ff88b894647247a1c2d06a626f67c270ed645cb0614328dbea9"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/08159e36f6ff9d0fe037d677d64c76cbbb03dc652ee39c27b939550b389257e2.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "08159e36f6ff9d0fe037d677d64c76cbbb03dc652ee39c27b939550b389257e2"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e52376e7a43a4721a9a995a1816b9396",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a(i)\"><p><strong>2a(i)</strong></p><p></p>\n<p>The gravitational potential energy of the person is converted into the kinetic energy of the person.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2a(ii)\"><p><strong>2a(ii)</strong></p><p></p>\n<p>The gravitational potential energy and the kinetic energy of the person are converted into the elastic potential energy of the rope.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}mv^{2} = mgh\"></span></p>\n<p><span class=\"math\" data-latex=\"v = \\sqrt{2(9.81)(30)} \\approx 24\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p>The total gravitational potential energy of the person is converted into the elastic potential energy of the rope.</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}k \\Delta x^{2} = mgh\"></span></p>\n<p><span class=\"math\" data-latex=\"k = \\frac{2(85)(9.81)(70)}{40^{2}} \\approx 73\"></span> N m<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2d\"><p><strong>2d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows a bungee jumping platform. An elastic rope is attached to the person who takes the jump. The person then jumps vertically downwards from point A. The length of the unstretched rope is <span class=\"math\" data-latex=\"30\"></span> m. When a person with a mass of <span class=\"math\" data-latex=\"85\"></span> kg takes the jump, the rope stretches out so that the minimum distance above the ground reached by the person is <span class=\"math\" data-latex=\"10\"></span> m before he begins to move vertically upwards. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Describe the energy changes that take place between</p>\n<p>i. point X and point Y.</p>\n<p>ii. point Y and point Z.</p>\n<p>   [2]</p>\n<p>b. Find the speed of the person at point Y.</p>\n<p>   [1]</p>\n<p>c. Calculate the elastic constant of the rope.</p>\n<p>  [2]</p>\n<p>d. Sketch how the elastic potential energy stored in the rope varies with the distance of the person above the ground.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

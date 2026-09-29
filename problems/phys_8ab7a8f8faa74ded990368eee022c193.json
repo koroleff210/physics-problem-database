@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/de2cff2750086503a3b8457e704bf07612b1ac7fc06f10d4d3ae07190a34263c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "de2cff2750086503a3b8457e704bf07612b1ac7fc06f10d4d3ae07190a34263c"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/11a33107b722d36d5b1dc7b763def849dd16847158226b5a0b1b7b091d7baf8b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11a33107b722d36d5b1dc7b763def849dd16847158226b5a0b1b7b091d7baf8b"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/a38fba9d432ff3ac26779781b61811fd1881db24236f79ba70d9587684811f61.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a38fba9d432ff3ac26779781b61811fd1881db24236f79ba70d9587684811f61"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/97cf9e557c8af2910f6777c937ba7528011c447aa55a99f77eac2517ba7c16f8.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "97cf9e557c8af2910f6777c937ba7528011c447aa55a99f77eac2517ba7c16f8"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/d0b05201fca16d0a87d1928d1160e925ded038e39a8508f1c677c27124788dfc.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d0b05201fca16d0a87d1928d1160e925ded038e39a8508f1c677c27124788dfc"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "C.1",
+    "C.4",
+    "D.2",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_8ab7a8f8faa74ded990368eee022c193",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"21a\"><p><strong>21a</strong></p><p></p>\n<p>Counterclockwise.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21b(i)\"><p><strong>21b(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"21b(ii)\"><p><strong>21b(ii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"21c(i)\"><p><strong>21c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\Phi = 6.2 \\times (0.12 \\times 0.06) \\times cos(0^{o}) \\approx 0.0446\"></span> Wb <span class=\"math\" data-latex=\"\\approx 45\"></span> mWb</p>\n<p>Calculated answer must be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"21c(ii)\"><p><strong>21c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"0.23 = \\frac{45 \\times 10^{-3}}{\\Delta t}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta t \\approx 0.20\"></span> s</p>\n<p>Since the coil enters the magnetic field twice and leaves the magnetic field twice during one period of oscillation, the total time that the coil is not entirely inside the magnetic field is <span class=\"math\" data-latex=\"0.80\"></span> s.</p>\n<p>Therefore, <span class=\"math\" data-latex=\"T = 3 + 0.8 = 3.8\"></span> s</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A rectangular coil is attached to two springs and is held at one of its maximum displacement positions as shown on the diagram. When the coil is released, it oscillates horizontally with simple harmonic motion (SHM) and passes through a uniform magnetic field of <span class=\"math\" data-latex=\"6.2\"></span> T. The direction of the magnetic field is into the page. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. State the direction of the induced current in the coil as it enters the magnetic field just after it is released.</p>\n<p>  [1]</p>\n<p>b. The period of oscillation for the coil is <span class=\"math\" data-latex=\"T\"></span> s. Sketch, on the diagram: </p>\n<p>i. how the magnetic flux in the coil varies with time during one period of oscillation.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>\n<p>ii. how the induced emf in the coil varies with time during one period of oscillation.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>  [3]</p>\n<p>c. The dimensions of the coil are <span class=\"math\" data-latex=\"12\"></span> cm by <span class=\"math\" data-latex=\"6.0\"></span> cm. </p>\n<p>i. Show that the magnetic flux through the coil as it passes through its equilibrium position is 45 mWb.</p>\n<p>  [2]</p>\n<p>ii. During one period of oscillation, the coil is entirely in the magnetic field for <span class=\"math\" data-latex=\"3\"></span> s. The induced emf in the coil is <span class=\"math\" data-latex=\"0.23\"></span> V. Find the value of <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p> [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

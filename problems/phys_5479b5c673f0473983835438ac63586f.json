@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_5479b5c673f0473983835438ac63586f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. At a node the amplitude is zero (it is maximum at an antinode).</p>\n<p>B: Incorrect. At a node the displacement is always zero so the element of string does not oscillate; its speed is not maximum.</p>\n<p>C: Correct. A node is a point of zero displacement at all times in a standing wave on a string.</p>\n<p>D: Incorrect. This is true at a node, but the question asks what is always true at a node; the standard defining statement is that displacement is always zero.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is formed on a string. What is always true at a node?</p><ol class=\"mcq-options\"><li data-label=\"A\">The amplitude is maximum</li><li data-label=\"B\">The string moves at maximum speed</li><li data-label=\"C\">The displacement is always zero</li><li data-label=\"D\">The amplitude is always zero</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

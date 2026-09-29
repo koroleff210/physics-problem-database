@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_1ec897eb1ddc4601a4118e9520dd8c4e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small positive charge is placed between two horizontal parallel plates that create a uniform electric field directed downward.</p>\n<p>Which of the following correctly describes the forces acting on the charge and its motion?</p><ol class=\"mcq-options\"><li data-label=\"A\">The charge experiences a force only due to gravity and remains stationary.</li><li data-label=\"B\">The charge experiences a force only due to the electric field and moves downward.</li><li data-label=\"C\">The charge experiences both gravitational and electric forces, and moves upward due to the sum of both forces.</li><li data-label=\"D\">The charge experiences both gravitational and electric forces, and moves downward due to the sum of both forces.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

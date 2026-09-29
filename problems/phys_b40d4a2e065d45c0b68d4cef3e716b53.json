@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b40d4a2e065d45c0b68d4cef3e716b53",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A single-slit is illuminated using monochromatic red light, a diffraction pattern is formed on a screen behind the slit and the width of the central maximum is measured to be <span class=\"math\" data-latex=\"x_{r}\"></span>. When the colour of the light is changed to violet the width of the central maximum is measured to be <span class=\"math\" data-latex=\"x_{v}\"></span>, and when the colour of the light is changed to yellow the width of the central maximum is measured to be <span class=\"math\" data-latex=\"x_{y}\"></span>. What is the correct relationship between <span class=\"math\" data-latex=\"x_{r}\"></span>, <span class=\"math\" data-latex=\"x_{v}\"></span>, and <span class=\"math\" data-latex=\"x_{y}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"x_{r}&lt;x_{y}&lt;x_{v}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"x_{v}&lt;x_{y}&lt;x_{r}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"x_{y}&lt;x_{r}&lt;x_{v}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"x_{v}&lt;x_{r}&lt;x_{y}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_9e9919149b3149e2b663eb7ec56edead",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What was a reason to postulate the existence of neutrinos?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Nuclear energy levels had a continuous spectrum.</li><li data-label=\"B\">The photon emission spectrum only contained specific wavelengths.</li><li data-label=\"C\">Some particles were indistinguishable from their antiparticle.</li><li data-label=\"D\">The energy of emitted beta particles had a continuous spectrum.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_a5c42ae688544bcfb84848eb384d1c7b",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Waves travelling in opposite directions superpose.<br/>[1 mark]<br/>This creates points of no motion and points of maximum oscillation.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Nodes: points of zero amplitude.<br/>[1 mark]<br/>Antinodes: points of maximum amplitude.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Three antinodes = 1.5 wavelengths → <span class=\"math\" data-latex=\"\\lambda = \\dfrac{1.2}{1.5} = 0.80,\\text{m}\"></span><br/>[1 mark] for Correct relationship.<br/>[1 mark] for Final answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two waves of the same amplitude and frequency travel in opposite directions along a string.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain how a standing wave is formed.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe the features of nodes and antinodes.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>A standing wave has three antinodes along a string of length 1.2 m. Calculate the wavelength.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_735d58d5b2d2418d90f017ff5303c897",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a single-slit diffraction pattern, what is observed between the bright fringes?</p><ol class=\"mcq-options\"><li data-label=\"A\">Completely dark regions</li><li data-label=\"B\">Constant brightness</li><li data-label=\"C\">Uniform spacing of equal intensity</li><li data-label=\"D\">Minima of reduced intensity</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

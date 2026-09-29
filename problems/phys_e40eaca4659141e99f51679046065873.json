@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_e40eaca4659141e99f51679046065873",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is true for an object in orbit around Earth?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is not affected by gravity</li><li data-label=\"B\">It moves in a straight line at constant speed</li><li data-label=\"C\">It accelerates toward the center of the Earth</li><li data-label=\"D\">It has zero mass</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

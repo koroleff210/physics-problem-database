@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/79949019676ae984415572f768661d4ca404f79ba7aa1390127fbf90abc1f313.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "79949019676ae984415572f768661d4ca404f79ba7aa1390127fbf90abc1f313"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_534df84fa4434825be3b18470a72eebf",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two long parallel wires P and Q are a distance <span class=\"math\" data-latex=\"d\"></span> apart. They each carry a current.</p>\n<p>A magnetic force per unit length <span class=\"math\" data-latex=\"F\"></span> acts on P due to Q.</p>\n<p>The distance between the wires is increased to <span class=\"math\" data-latex=\"2d\"></span> and the current in Q is decreased to <span class=\"math\" data-latex=\"\\frac{I}{2}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><br/>What is the magnetic force per unit length that acts on P due to Q after the changes?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{F}{8}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{F}{4}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{F}{2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"F\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_d67ee9fedaed44d88d20c6ef3aeda925",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: - Correctly identifies that the mass of a nucleus is equal to the total mass of its individual nucleons (constituents) minus the mass defect (<span class=\"math\" data-latex=\"\\Delta m\"></span>).<br/>- The mass defect is related to binding energy by <span class=\"math\" data-latex=\"E_B = \\Delta m c^2\"></span>, so <span class=\"math\" data-latex=\"\\Delta m = \\frac{E_B}{c^2}\"></span>.<br/>- Correctly identifies the number of protons as <span class=\"math\" data-latex=\"Z\"></span> and neutrons as <span class=\"math\" data-latex=\"A - Z\"></span>.</p>\n<p>B: - Incorrectly suggests that the mass of the nucleus is greater than the sum of its constituent parts. In reality, energy is released when a nucleus forms, meaning the resulting nucleus has less mass.</p>\n<p>C: - Incorrectly swaps the multipliers for proton mass and neutron mass (<span class=\"math\" data-latex=\"Z\"></span> is the number of protons, not <span class=\"math\" data-latex=\"A - Z\"></span>).</p>\n<p>D: - Incorrectly calculates the mass of the nucleus as the negative of the actual value, reversing the terms for mass defect.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus of an element <span class=\"math\" data-latex=\"X\"></span> is represented by the symbol <span class=\"math\" data-latex=\"{}_{Z}^{A}X\"></span> and has a total binding energy <span class=\"math\" data-latex=\"E_B\"></span>. Let <span class=\"math\" data-latex=\"m_p\"></span> be the rest mass of a free proton and <span class=\"math\" data-latex=\"m_n\"></span> be the rest mass of a free neutron.</p>\n<p>Which of the following expressions correctly determines the rest mass <span class=\"math\" data-latex=\"M_X\"></span> of the nucleus?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"M_X = Z m_p + (A - Z) m_n - \\frac{E_B}{c^2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"M_X = Z m_p + (A - Z) m_n + \\frac{E_B}{c^2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"M_X = (A - Z) m_p + Z m_n - \\frac{E_B}{c^2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"M_X = \\frac{E_B}{c^2} - [Z m_p + (A - Z) m_n]\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

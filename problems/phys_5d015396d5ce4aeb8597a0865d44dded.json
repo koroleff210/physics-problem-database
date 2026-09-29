@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_5d015396d5ce4aeb8597a0865d44dded",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What happens to the magnetic field around a wire if the current is reversed?</p><ol class=\"mcq-options\"><li data-label=\"A\">The field disappears</li><li data-label=\"B\">The field doubles in strength</li><li data-label=\"C\">The field changes direction</li><li data-label=\"D\">The field becomes uniform</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

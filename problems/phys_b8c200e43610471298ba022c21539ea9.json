@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_b8c200e43610471298ba022c21539ea9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is required for standing wave resonance to occur in a tube?</p>\n<p>I. Reflection of waves at boundaries</p>\n<p>II. Formation of nodes and antinodes</p>\n<p>III. Motion of air particles only in one direction</p><ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">II and III only</li><li data-label=\"C\">I and III only</li><li data-label=\"D\">I, II, and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

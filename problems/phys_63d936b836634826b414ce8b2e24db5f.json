@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/312d8a203213a4f0b588749a3198cf0e4d2a324230cd974d0601e3bea6aab4fd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "312d8a203213a4f0b588749a3198cf0e4d2a324230cd974d0601e3bea6aab4fd"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_63d936b836634826b414ce8b2e24db5f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A positive point charge of magnitude 1.0 μC and a point charge q are separated by a distance d.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>An electron is placed at a distance d from the +1.0 μC charge. The electric force on the electron is zero.</p>\n<p>What is q?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">−4.0 μC</li><li data-label=\"B\">−2.0 μC</li><li data-label=\"C\">2.0 μC</li><li data-label=\"D\">4.0 μC</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

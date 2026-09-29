@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_5d76b0ffb3df4e43822fb5796b68c898",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A power station generates <span class=\"math\" data-latex=\"250 kW\"></span> of power at a potential difference of <span class=\"math\" data-latex=\"25 kV\"></span>. The energy is transmitted through cables of total resistance <span class=\"math\" data-latex=\"4.0 Ω\"></span>.</p>\n<p>What is the power loss in the cables?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0.04 kW\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"0.4 kW\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"4 kW\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"40 kW\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

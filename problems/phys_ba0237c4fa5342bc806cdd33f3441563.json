@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/50eb70b216e03b7456b41615ad4395eb41388d9055631379864353772471132a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "50eb70b216e03b7456b41615ad4395eb41388d9055631379864353772471132a"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ba0237c4fa5342bc806cdd33f3441563",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two particles with charges <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span> are separated by a distance of <span class=\"math\" data-latex=\"5\"></span> m. Point P lies on the straight line joining <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span>, at a distance <span class=\"math\" data-latex=\"x\"></span> from <span class=\"math\" data-latex=\"Q_{1}\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The electric field at P is zero. What is <span class=\"math\" data-latex=\"\\frac{Q_{1}}{Q_{2}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{x}{5-x}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5-x}{x}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{x^{2}}{(5-x)^{2}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{(5-x)^{2}}{x^{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

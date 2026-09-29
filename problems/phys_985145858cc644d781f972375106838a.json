@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_985145858cc644d781f972375106838a",
+  "level": "sl_hl",
+  "marks": 16,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Star A has luminosity <span class=\"math\" data-latex=\"L\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>. Star B has luminosity <span class=\"math\" data-latex=\"8L\"></span> and radius <span class=\"math\" data-latex=\"\\frac{R}{4}\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\textup{surface temperature of star B}}{\\textup{surface temperature of star A}}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2\\sqrt[4]{8}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\sqrt[4]{2}}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

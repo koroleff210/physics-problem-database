@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ccc31d9c9162525b051eb5ee838ba122c2ffcf2f604af27ae92996e2bb49b411.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ccc31d9c9162525b051eb5ee838ba122c2ffcf2f604af27ae92996e2bb49b411"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_190f34486faa4b68adcc47fa430acc26",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A current-carrying wire is placed between two magnets. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the force acting on the wire at point M?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">To the left</li>\n<li data-label=\"B\">To the right</li>\n<li data-label=\"C\">Out of the page</li>\n<li data-label=\"D\">Into the page</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

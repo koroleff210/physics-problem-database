@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_f17914e57cac45cda956dda0dd28f81f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which one of the following statements about <span class=\"math\" data-latex=\"\\alpha\"></span>-particles, <span class=\"math\" data-latex=\"\\beta\"></span>-particles, and <span class=\"math\" data-latex=\"\\gamma\"></span> radiation is incorrect?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\beta\"></span>-particles are always emitted together with a neutrino.</li>\n<li data-label=\"B\">When <span class=\"math\" data-latex=\"\\beta\"></span>-particles travel a certain distance through air, fewer ions are produced than when <span class=\"math\" data-latex=\"\\gamma\"></span> radiation travels through the same distance in air.</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\alpha\"></span>-particles travel slower in vacuum than gamma radiation. </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\gamma\"></span> radiation is undeflected in a magnetic field.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

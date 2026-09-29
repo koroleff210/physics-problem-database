@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_74fd1253b4b44bee83af456c66c82bea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A space probe moves in a circular orbit around Earth. The kinetic energy of the probe is <span class=\"math\" data-latex=\"E\"></span>.</p>\n<p>The probe will reach the escape speed when its kinetic energy is increased at least to:</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{2}E\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"2E\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\\sqrt{2}E\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4E\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

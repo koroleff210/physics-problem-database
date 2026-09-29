@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_2f618708cb984f618db1102d1086925c",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The lowest energy level (<span class=\"math\" data-latex=\"n = 1\"></span>) of the atom.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>A set of discrete wavelengths of light emitted by excited atoms.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Energy levels are discrete / quantized. [1 mark]<br/>- Only specific transitions are allowed. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Ultraviolet radiation.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>When electrons in hydrogen atoms transition between energy levels, they emit light.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State what is meant by the ground state of the hydrogen atom.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Define the term emission spectrum.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest why the lines in the hydrogen spectrum are sharp and distinct.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Identify the type of electromagnetic radiation emitted when an electron transitions from <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=1\"></span>.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d987f5f8c03f4921af8158ea28e13d60",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What statement about alpha particles, beta particles and gamma radiation is true?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Gamma radiation always travels faster than beta particles in a vacuum.</li><li data-label=\"B\">In air, beta particles produce more ions per unit length travelled than alpha particles.</li><li data-label=\"C\">Alpha particles are always emitted when beta particles are emitted.</li><li data-label=\"D\">Alpha particles are deflected in the same direction as beta particles in a magnetic field.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

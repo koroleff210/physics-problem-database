@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1dae4cd76a3e47f8b0d2fed89748b8b9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spaceship leaves Earth on a return journey to a planet that is six light years away from Earth. The spaceship travels at a speed of <span class=\"math\" data-latex=\"0.60c\"></span>.</p>\n<p>What is the time taken for the journey in the reference frame of the spaceship?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"8.0\"></span> years</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"10\"></span> years</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"16\"></span> years</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"20\"></span> years</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

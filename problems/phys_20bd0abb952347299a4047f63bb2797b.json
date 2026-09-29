@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_20bd0abb952347299a4047f63bb2797b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of an aluminium-27 (<span class=\"math\" data-latex=\"^{27}_{13}\\text{Al}\"></span>) nucleus is <span class=\"math\" data-latex=\"3.6 \\text{ fm}\"></span>. Which of the following is the approximate radius of a polonium-216 (<span class=\"math\" data-latex=\"^{216}_{84}\\text{Po}\"></span>) nucleus?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"5.4 \\text{ fm}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"7.2 \\text{ fm}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"14.4 \\text{ fm}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"28.8 \\text{ fm}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

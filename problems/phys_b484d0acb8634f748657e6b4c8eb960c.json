@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_b484d0acb8634f748657e6b4c8eb960c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> is in orbit around the Earth at a radius <span class=\"math\" data-latex=\"2R\"></span>. Given that the mass of Earth is <span class=\"math\" data-latex=\"M\"></span>, how much energy is needed to transfer the satellite to an orbit of radius <span class=\"math\" data-latex=\"3R\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{2R}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{3R}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{6R}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{GMm}{12R}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

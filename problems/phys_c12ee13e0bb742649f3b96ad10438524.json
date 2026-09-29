@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c12ee13e0bb742649f3b96ad10438524",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"P = e\\sigma A T^4\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Emissivity is the ratio of power radiated per unit area by a body to that of a black body at the same temperature.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"e = \\dfrac{480}{800} = 0.60\"></span><br/>Expression. [1 mark]<br/>Final answer. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The energy radiated by a surface depends on temperature and emissivity.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the Stefan–Boltzmann law for a real surface.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Define the term “emissivity”.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>A black body emits radiation at 800 W/m². A grey surface at the same temperature emits 480 W/m². Calculate its emissivity.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

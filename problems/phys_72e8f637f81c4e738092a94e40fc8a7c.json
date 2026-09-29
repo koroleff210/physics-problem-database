@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_72e8f637f81c4e738092a94e40fc8a7c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car accelerates uniformly from rest to a velocity <span class=\"math\" data-latex=\"v\"></span> during time <span class=\"math\" data-latex=\"t_{1}\"></span>. It then continues at constant velocity <span class=\"math\" data-latex=\"v\"></span> from <span class=\"math\" data-latex=\"t_{1}\"></span> to time <span class=\"math\" data-latex=\"t_{2}\"></span>.</p>\n<p>What is the total distance covered by the car in <span class=\"math\" data-latex=\"t_{2}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"v t_{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}vt_{2}-t_{1}+v t_{1}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{2}vt_{2}+t_{1}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{2}v t_{1}+vt_{2}-t_{1}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

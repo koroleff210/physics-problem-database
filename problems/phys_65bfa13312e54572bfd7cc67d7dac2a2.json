@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_65bfa13312e54572bfd7cc67d7dac2a2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car of total mass <span class=\"math\" data-latex=\"M\"></span> is travelling with a constant speed <span class=\"math\" data-latex=\"v\"></span>. Each of the four wheels of the car has a mass <span class=\"math\" data-latex=\"m\"></span> and a radius <span class=\"math\" data-latex=\"R\"></span> and rolls without slipping.</p>\n<p>The moment of inertia of each wheel is <span class=\"math\" data-latex=\"I=\\frac{1}{2}mR^{2}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{sum of the rotational kinetic energy of all four wheels}}{\\textit{translational kinetic energy of the car}}\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{m}{2M}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{m}{M}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2m}{M}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4m}{M}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

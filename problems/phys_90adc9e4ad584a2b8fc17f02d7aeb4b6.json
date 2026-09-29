@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_90adc9e4ad584a2b8fc17f02d7aeb4b6",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <strong>Definition</strong>: The product of the average force and the time interval over which it acts (or the change in momentum) [1 mark]<br/>- <strong>Units</strong>: <span class=\"math\" data-latex=\"\\text{kg m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <strong>Identify momentum change</strong>: The wall exerts a force on the water to change its velocity/momentum (Newton’s second law) [1 mark]<br/>- <strong>Apply Newton's third law</strong>: The water exerts a force on the wall that is equal in magnitude and opposite in direction to the force the wall exerts on the water [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <strong>Calculate volume flow rate</strong>: <span class=\"math\" data-latex=\"\\text{Volume per second} = A \\times v = 4.2 \\times 10^{-4} \\times 15 = 0.0063\\ \\text{m}^3\\ \\text{s}^{-1}\"></span> [1 mark]<br/>- <strong>Calculate mass flow rate</strong>: <span class=\"math\" data-latex=\"\\text{Mass per second} = \\rho \\times (Av) = 1000 \\times 0.0063 = 6.3\\ \\text{kg s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- <strong>Calculate initial force</strong>: <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t} = \\frac{\\Delta m}{\\Delta t} \\times v = 6.3 \\times 15 = 94.5\\ \\text{N}\"></span> (or <span class=\"math\" data-latex=\"95\\ \\text{N}\"></span>) [1 mark]<br/>- <strong>Determine change in velocity for rebound</strong>: <span class=\"math\" data-latex=\"\\Delta v = v_{\\text{initial}} - v_{\\text{final}} = 15 - (-5.0) = 20\\ \\text{m s}^{-1}\"></span> [1 mark]<br/>- <strong>Calculate new force</strong>: <span class=\"math\" data-latex=\"F_{\\text{new}} = 6.3 \\times 20 = 126\\ \\text{N}\"></span> (or <span class=\"math\" data-latex=\"130\\ \\text{N}\"></span>) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A horizontal hose directs a steady stream of water toward a stationary vertical wall. The water strikes the wall perpendicularly and immediately flows downward, losing all its horizontal momentum.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the *impulse* of a force and state its SI base units.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Use Newton’s laws of motion to explain why the water exerts a horizontal force on the wall.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The water has a density of <span class=\"math\" data-latex=\"1000\\ \\text{kg m}^{-3}\"></span> and is ejected from the hose with a speed of <span class=\"math\" data-latex=\"15\\ \\text{m s}^{-1}\"></span>. The cross-sectional area of the water jet is <span class=\"math\" data-latex=\"4.2 \\times 10^{-4}\\ \\text{m}^2\"></span>. Show that the mass of water striking the wall each second is approximately <span class=\"math\" data-latex=\"6.3\\ \\text{kg s}^{-1}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the magnitude of the average horizontal force exerted by the water on the wall. Determine the new force on the wall if the water were to rebound horizontally from the wall with a speed of <span class=\"math\" data-latex=\"5.0\\ \\text{m s}^{-1}\"></span>.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_fb196a014c4a42b89187b918bd62092f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The escape speed from planet X is <span class=\"math\" data-latex=\"v_{esc}\"></span>. Planet Y has twice the density and half the radius of planet X.</p>\n<p>What is the speed required to escape the gravitational field of planet Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{v_{esc}}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{v_{esc}}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{v_{esc}\\sqrt{2}}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"v_{esc}\\sqrt{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

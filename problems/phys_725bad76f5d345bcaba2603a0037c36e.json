@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_725bad76f5d345bcaba2603a0037c36e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The albedo of the atmosphere above a small region on the Earth’s surface is 0.25. The solar constant is <span class=\"math\" data-latex=\"S\"></span>.</p>\n<p>What is the incoming intensity of solar radiation incident on this region when the Sun is directly overhead?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{3S}{16}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{S}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3S}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"S\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

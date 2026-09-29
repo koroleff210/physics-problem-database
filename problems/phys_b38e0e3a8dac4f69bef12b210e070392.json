@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8900237a30849dda10f6bed6d35ebd621b581c8962a0a2dc368a838b38ced2e0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8900237a30849dda10f6bed6d35ebd621b581c8962a0a2dc368a838b38ced2e0"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_b38e0e3a8dac4f69bef12b210e070392",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three identical resistors of 6 Ω are arranged as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the resistance between X and Y?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2 Ω</li><li data-label=\"B\">4 Ω</li><li data-label=\"C\">9 Ω</li><li data-label=\"D\">18 Ω</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

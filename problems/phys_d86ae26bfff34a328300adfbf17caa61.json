@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d86ae26bfff34a328300adfbf17caa61",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This would be the result if the student incorrectly assumed field strength is proportional to <span class=\"math\" data-latex=\"M/R\"></span> rather than <span class=\"math\" data-latex=\"M/R^2\"></span>, where <span class=\"math\" data-latex=\"8/2 = 4\"></span> would be the factor, but this option represents a simple cancelation which is incorrect.</p>\n<p>B: The gravitational field strength <span class=\"math\" data-latex=\"g\"></span> is proportional to <span class=\"math\" data-latex=\"\\frac{M}{R^2}\"></span>. For planet Y, the field strength <span class=\"math\" data-latex=\"g_Y \\propto \\frac{8M}{(2R)^2} = \\frac{8M}{4R^2} = 2 \\left( \\frac{M}{R^2} \\right)\"></span>. Therefore, <span class=\"math\" data-latex=\"g_Y = 2g\"></span>.</p>\n<p>C: This value arises if the student fails to square the radius in the denominator: <span class=\"math\" data-latex=\"\\frac{8M}{2R} = 4\\left(\\frac{M}{R}\\right)\"></span>.</p>\n<p>D: This value arises if the student considers only the change in mass and ignores the change in radius.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table provides data for two spherical planets, X and Y.</p>\n<table><thead><tr><th>Planet</th><th>Mass</th><th>Radius</th></tr></thead><tbody><tr><td>X</td><td><span class=\"math\" data-latex=\"M\"></span></td><td><span class=\"math\" data-latex=\"R\"></span></td></tr><tr><td>Y</td><td><span class=\"math\" data-latex=\"8M\"></span></td><td><span class=\"math\" data-latex=\"2R\"></span></td></tr></tbody></table>\n<p>The gravitational field strength at the surface of planet X is <span class=\"math\" data-latex=\"g\"></span>. What is the field strength on the surface of planet Y?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2g\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4g\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8g\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

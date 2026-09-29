@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_33506db5af9942ecb38091ca0e4074eb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The efficiency of a square-shaped solar panel of side length <span class=\"math\" data-latex=\"20\"></span> cm is <span class=\"math\" data-latex=\"40\"></span> %. The efficiency of a different square-shaped solar panel is <span class=\"math\" data-latex=\"30\"></span> %. What should be the side length of this second solar panel in order to have the same power output as the first solar panel, assuming that both solar panels are placed in the same location? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{40}{3}\"></span> cm</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{40}{\\sqrt{3}}\"></span> cm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{20}{3}\"></span> cm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{20}{\\sqrt{3}}\"></span> cm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

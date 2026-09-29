@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_e7e53d2ee6ce4f98bb2fda96dd10819e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three claims are made about the structure of the atom.</p>\n<p>I.    Most of the atom is empty space.<br/>II.   The positive charge of the atom is concentrated in a small volume.<br/>III.  The electrons have discrete energy levels.</p>\n<p>Which of these claims can be deduced from the Rutherford-Geiger-Marsden scattering experiment?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

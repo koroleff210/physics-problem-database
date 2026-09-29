@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/04fd28ff59c8a80ee85102d4dc273d7e17c479837a9fb373fa13685fbe436e84.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "04fd28ff59c8a80ee85102d4dc273d7e17c479837a9fb373fa13685fbe436e84"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8048059de1f148e5a63393cca61c3b77",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"600\"></span> nm is incident on a double slit and produces an interference pattern on a screen, located at a distance of <span class=\"math\" data-latex=\"2.0\"></span> m from the slits.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is true about the effect of single-slit diffraction on the pattern and what is the distance between the slits?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Effect of single-slit diffraction</strong></p>\n</td>\n<td>\n<p><strong>Distance between the slits</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Negligible</td>\n<td><span class=\"math\" data-latex=\"60 \\: \\mu\"></span>m</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Negligible</td>\n<td><span class=\"math\" data-latex=\"30 \\: \\mu\"></span>m</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Significant</td>\n<td><span class=\"math\" data-latex=\"60 \\: \\mu\"></span>m</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Significant</td>\n<td><span class=\"math\" data-latex=\"30 \\: \\mu\"></span>m</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

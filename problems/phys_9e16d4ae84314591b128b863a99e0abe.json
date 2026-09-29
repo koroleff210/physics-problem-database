@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_9e16d4ae84314591b128b863a99e0abe",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student quotes three equations related to atomic and nuclear physics:</p>\n<p>I.    <span class=\"math\" data-latex=\"E=\\frac{-13.6}{n^{2}}eV\"></span></p>\n<p>II.   <span class=\"math\" data-latex=\"N = {N}_{0} {\\text{e}}^{- λ t}\"></span></p>\n<p>III.  <span class=\"math\" data-latex=\"mvr=\\frac{nh}{2\\pi}\"></span></p>\n<p>Which equations refer to the Bohr model for hydrogen?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

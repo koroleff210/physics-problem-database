@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8d373b2d7390907543d183a0a8ea4bcd8de4bb159eb7c1036778d552379e401f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8d373b2d7390907543d183a0a8ea4bcd8de4bb159eb7c1036778d552379e401f"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f46c14e7cb744fa098622144b0de9031",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student carries out an experiment to find the speed of sound. She uses a tube that is initially filled with water to the top. A valve at the bottom of the tube can be opened to release water. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>As water is flowing out of the tube, the student blows air across the top of the tube. A maximum sound intensity is heard for the first time when the water is at level A and for the second time when the water is at level B.</p>\n<p>Which of the following are correct expressions for the wavelength of the sound? </p>\n<p>I. <span class=\"math\" data-latex=\"2b\"></span></p>\n<p>II. <span class=\"math\" data-latex=\"\\frac{4b}{3}\"></span>.</p>\n<p>III. <span class=\"math\" data-latex=\"4a\"></span>.</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

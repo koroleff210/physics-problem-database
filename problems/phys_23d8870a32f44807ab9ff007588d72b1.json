@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fc17d49b4990800496da9324224d9fecbbdfe22db5ee1551695217c0e186212a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fc17d49b4990800496da9324224d9fecbbdfe22db5ee1551695217c0e186212a"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/741f2e011cfb4cf863fe44ef24b70b6c682d774d340579fa07292408802c743a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "741f2e011cfb4cf863fe44ef24b70b6c682d774d340579fa07292408802c743a"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_23d8870a32f44807ab9ff007588d72b1",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a(i, ii, &amp;amp; iii)\"><p><strong>13a(i, ii, &amp;amp; iii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"13b(i)\"><p><strong>13b(i)</strong></p><p></p>\n<p>Net force <span class=\"math\" data-latex=\"= 2 \\times \\frac{(8.99 \\times 10^{9})(28 \\times 10^{-6})(56 \\times 10^{-6})}{0.5^{2}} \\times cos(45^\\circ) \\approx 80\"></span> N</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b(ii)\"><p><strong>13b(ii)</strong></p><p></p>\n<p>Electric field at P due to the negative charges:</p>\n<p><span class=\"math\" data-latex=\"2 \\times \\frac{(8.99 \\times 10^{9})(28 \\times 10^{-6})}{0.373^{2}} \\times cos\\left ( \\frac{143^{\\circ}}{2} \\right ) \\approx 1.15 \\times 10^{6}\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p> </p>\n<p>Electric field at P due to the positive charge:</p>\n<p><span class=\"math\" data-latex=\"\\frac{(8.99 \\times 10^{9})(56 \\times 10^{-6})}{0.236^{2}} \\approx 9.04 \\times 10^{6}\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p> </p>\n<p>Total electric field at P:</p>\n<p><span class=\"math\" data-latex=\"1.15 \\times 10^{6} + 9.04 \\times 10^{6} \\approx 10.2 \\times 10^{6}\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Three point charges are held at the vertices of a right-angled isosceles triangle. P is a point inside the triangle.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. On the diagram, draw an arrow to represent:</p>\n<p>i. the direction of the electric force on the <span class=\"math\" data-latex=\"+2Q\"></span> charge due to the <span class=\"math\" data-latex=\"-Q\"></span> charge that is held at vertex A. Label this arrow with the letter F.</p>\n<p>  [1]</p>\n<p>ii. the direction of the net electric force that acts on the <span class=\"math\" data-latex=\"+2Q\"></span> charge. Label this arrow with the letter T.</p>\n<p>   [1]</p>\n<p>iii. the direction of the electric field at point P. Label this arrow with the letter E.</p>\n<p>   [1]</p>\n<p>b. <span class=\"math\" data-latex=\"Q = 28 \\: \\mu\"></span>C.</p>\n<p>Calculate:</p>\n<p>i. the magnitude of the net force that acts on the <span class=\"math\" data-latex=\"+2Q\"></span> charge.</p>\n<p>   [2]</p>\n<p>ii. The magnitude of the electric field at point P.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

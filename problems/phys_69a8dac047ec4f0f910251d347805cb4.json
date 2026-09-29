@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_69a8dac047ec4f0f910251d347805cb4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A gas undergoes one cycle of a cyclic process.</p>\n<p>The net change in internal energy of the gas is</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">zero.</li><li data-label=\"B\">positive.</li><li data-label=\"C\">negative.</li><li data-label=\"D\">determined by the initial temperature of the gas.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

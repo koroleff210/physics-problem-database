@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/afaa67b2d61282d324abab064256638f7f28acc933ee1277bb4591b73dc05bc6.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "afaa67b2d61282d324abab064256638f7f28acc933ee1277bb4591b73dc05bc6"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_52d1d2d1f60242e1bed12df9146088d2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would be the power if the resistance had doubled. However, while doubling the length doubles the resistance, doubling the diameter increases the area by a factor of 4, reducing the resistance overall.</p>\n<p>B: This would be the power if the resistance were unchanged. However, doubling the length increases the resistance, while doubling the diameter increases the cross-sectional area by a factor of 4, so the resistance decreases overall rather than staying the same.</p>\n<p>C: This would occur if the changes in length and diameter left the resistance unchanged, but area is proportional to the square of the diameter (<span class=\"math\" data-latex=\"A \\propto d^2\"></span>), so the resistance does not remain the same.</p>\n<p>D: 1. The resistance of a conductor is given by <span class=\"math\" data-latex=\"R = \\rho \\frac{L}{A}\"></span>.<br/>2. The cross-sectional area <span class=\"math\" data-latex=\"A\"></span> is proportional to <span class=\"math\" data-latex=\"d^2\"></span>. Therefore, <span class=\"math\" data-latex=\"A = k d^2\"></span> for some constant <span class=\"math\" data-latex=\"k\"></span>.<br/>3. The resistance of the first conductor is <span class=\"math\" data-latex=\"R_1 = \\rho \\frac{L}{k d^2}\"></span>.<br/>4. The resistance of the second conductor is <span class=\"math\" data-latex=\"R_2 = \\rho \\frac{2L}{k (2d)^2} = \\rho \\frac{2L}{4 k d^2} = \\frac{1}{2} R_1\"></span>.<br/>5. The power dissipated is <span class=\"math\" data-latex=\"P = \\frac{V^2}{R}\"></span>. Since <span class=\"math\" data-latex=\"V\"></span> is constant, <span class=\"math\" data-latex=\"P\"></span> is inversely proportional to <span class=\"math\" data-latex=\"R\"></span>.<br/>6. Since <span class=\"math\" data-latex=\"R_2 = \\frac{1}{2} R_1\"></span>, the power <span class=\"math\" data-latex=\"P_2 = \\frac{V^2}{0.5 R_1} = 2 \\left( \\frac{V^2}{R_1} \\right) = 2P\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conductor of length <span class=\"math\" data-latex=\"L\"></span> and diameter <span class=\"math\" data-latex=\"d\"></span> is connected across a potential difference <span class=\"math\" data-latex=\"V\"></span> in Circuit 1. The power dissipated in this conductor is <span class=\"math\" data-latex=\"P\"></span>.</p>\n<p>A second conductor, made of the same material, has length <span class=\"math\" data-latex=\"2L\"></span> and diameter <span class=\"math\" data-latex=\"2d\"></span> and is connected across the same potential difference <span class=\"math\" data-latex=\"V\"></span> in Circuit 2.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the power dissipated in the second conductor?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5P\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"P\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2P\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4P\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

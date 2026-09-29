@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ee6513e84d5cf1f59f192d3c9cf9d3fe501264e9ab1ecc926a068033bd2792d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ee6513e84d5cf1f59f192d3c9cf9d3fe501264e9ab1ecc926a068033bd2792d"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_d4f757dc023b49dfbb57481236de0cca",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows two masses that are fixed in position. One has a mass of M and the other has a mass of 3M. The line through the masses is divided into three segments X, Y and Z.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The net gravitational field can be directed to the left in</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">only segment Z.</li><li data-label=\"B\">only segment X.</li><li data-label=\"C\">segments Z and Y.</li><li data-label=\"D\">segments X and Y.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_bb0f5c52566d4364a73c08fe2cb76da8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement is correct about Compton scattering of a photon by an electron?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The energy of the photon decreases.</li><li data-label=\"B\">The wavelength of the photon decreases.</li><li data-label=\"C\">The momentum of the photon is unchanged.</li><li data-label=\"D\">The combined momentum of the particles increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

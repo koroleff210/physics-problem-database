@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_c6490b79dd0b4adea5c4bfcd3e246c93",
+  "level": "sl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planets X and Y orbit the same star.</p>\n<p>The average distance between planet X and the star is five times greater than the average distance between planet Y and the star.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{orbital period of planet X}}{\\textit{orbital period of planet Y}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt[3]{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{5}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt[3]{5^{2}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{5^{3}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

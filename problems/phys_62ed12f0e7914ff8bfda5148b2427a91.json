@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_62ed12f0e7914ff8bfda5148b2427a91",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the main source of energy in stars?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Nuclear fusion</li>\n<li data-label=\"B\">Nuclear fission</li>\n<li data-label=\"C\">The burning of fossil fuels at high temperatures</li>\n<li data-label=\"D\">Radioactive decay</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

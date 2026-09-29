@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_7d69a69bedef4847841e24e29c7ddc1d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object X collides with a stationary object Y on a frictionless surface. The <span class=\"math\" data-latex=\"x\"></span>- and <span class=\"math\" data-latex=\"y\"></span>-components of the momentum of object X before and after the collision are recorded in the table below.</p>\n<table><thead><tr><th></th><th>Momentum before collision / <span class=\"math\" data-latex=\"\\text{kg m s}^{-1}\"></span></th><th>Momentum after collision / <span class=\"math\" data-latex=\"\\text{kg m s}^{-1}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"x\"></span>-component</td><td><span class=\"math\" data-latex=\"+12.0\"></span></td><td><span class=\"math\" data-latex=\"0.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"y\"></span>-component</td><td><span class=\"math\" data-latex=\"0.0\"></span></td><td><span class=\"math\" data-latex=\"+5.0\"></span></td></tr></tbody></table>\n<p>What is the magnitude of the momentum of object Y after the collision?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"7.0 \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"12.0 \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"13.0 \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"17.0 \\text{ kg m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

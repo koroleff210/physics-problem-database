@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e0b8576e7e674b8cb881563e8ac234c9",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An experiment requires a temperature of 310 K. What is this temperature on the Celsius scale?</p><ol class=\"mcq-options\"><li data-label=\"A\">27°C</li><li data-label=\"B\">37°C</li><li data-label=\"C\">100°C</li><li data-label=\"D\">310°C</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

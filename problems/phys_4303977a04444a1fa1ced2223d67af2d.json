@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4303977a04444a1fa1ced2223d67af2d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What holds electrons in orbit around the nucleus in the Bohr model?</p><ol class=\"mcq-options\"><li data-label=\"A\">Magnetic attraction</li><li data-label=\"B\">Strong nuclear force</li><li data-label=\"C\">Gravitational force</li><li data-label=\"D\">Electrostatic attraction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

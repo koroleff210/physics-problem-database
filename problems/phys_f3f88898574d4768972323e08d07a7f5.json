@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4519764f7c579b02c5570d8efd5931d85e1504a9a4fafc18c4e315031ec9e652.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4519764f7c579b02c5570d8efd5931d85e1504a9a4fafc18c4e315031ec9e652"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_f3f88898574d4768972323e08d07a7f5",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Conduction identified ✓ energy transfer through interaction of particles in liquid at atomic scale ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Convection identified ✓ energy transfer through movement of bodies of liquid at different densities ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>the solid cannot now move relative to material above it ✓ so conduction only ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The ends of a vertical column of water are maintained at different temperatures T<sub>t</sub> and T<sub>b</sub> both above the freezing point.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Energy transfer by radiation in this arrangement is negligible.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Discuss the mechanism that accounts for the greatest rate of energy transfer when:</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> T<sub>t</sub> &gt; T<sub>b</sub> [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> T<sub>b</sub> &gt; T<sub>t</sub> [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The liquid now freezes so that the vertical column is entirely of ice. Suggest how your answer to (a)(ii) will change. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

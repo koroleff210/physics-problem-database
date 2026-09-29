@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2c8c29e0b7af59594746ca9a98bcab0d1afd2636c40c1f2d184d318f3b27443b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c8c29e0b7af59594746ca9a98bcab0d1afd2636c40c1f2d184d318f3b27443b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d29f505143b0b33d68c04b8d29f60e53b969b8ad34f709a864de5dd8b6a41f0a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d29f505143b0b33d68c04b8d29f60e53b969b8ad34f709a864de5dd8b6a41f0a"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_8dc0b2129fec43de867463d44965aded",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In this question, all diagrams are drawn to scale.</p>\n<p>Part of the emission spectrum of an atom is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which set of energy levels can give rise to this part of the emission spectrum?<br/><br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

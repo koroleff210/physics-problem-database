@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_7e6eadaf44974be2ad90a3da8be482d8",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>γ = 4.5 ✓ time interval in Earth frame = 9.9 «μs» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1<br/>For Earth time of flight = 8.5 μs ✓ 8.5 μs &gt;&gt; 2.2 μs so muons should have decayed ✓ but 9.9 μs (time dilation) &gt; 8.5 μs so many muons survive OWTTE ✓<br/><br/>ALTERNATIVE 2  <br/>Without time dilation the distance travelled in Earth frame = 0.975 × <span class=\"math\" data-latex=\"c\"></span> × 2.2×10<sup>–6</sup> = 0.64 «km» ✓ With time dilation the distance travelled in Earth frame =  0.975 × <span class=\"math\" data-latex=\"c\"></span> × 9.9×10<sup>–6</sup> = 2.9 «km»  ✓ Without time dilation, most of the muons would have decayed before reaching the surface ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Muons are formed in the Earth’s atmosphere 2.5 km above the surface and then travel vertically downwards at a speed of 0.975c. The mean lifetime of a muon is 2.2 μs when measured in a frame in which the muon is at rest.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the mean lifetime of the muon for the reference frame of the Earth. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Muons are detected at the Earth’s surface.</p>\n<p>Explain, with supporting calculations, why this is evidence for time dilation.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_219bc45aeca940c89a6c8be2e5257965",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the SI unit for the gradient of the graph showing the variation with time <span class=\"math\" data-latex=\"t\"></span> of the magnetic flux linkage through a coil?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"T\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"Wb\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"Wb \\cdot s\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"V\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_428b445ed83d457abf06d5a1704d07fb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following gases is <strong>not</strong> considered a greenhouse gas?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Carbon dioxide (CO<span class=\"math\" data-latex=\"_{2}\"></span>)</li>\n<li data-label=\"B\">Methane (CH<span class=\"math\" data-latex=\"_{4}\"></span>)</li>\n<li data-label=\"C\">Oxygen (O<span class=\"math\" data-latex=\"_{2}\"></span>)</li>\n<li data-label=\"D\">Nitrous oxide (N<span class=\"math\" data-latex=\"_{2}\"></span>O)</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

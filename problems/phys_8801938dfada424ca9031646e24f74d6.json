@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_8801938dfada424ca9031646e24f74d6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A driver uses the brakes on a car to descend a hill at constant speed. What is correct about the internal energy of the brake discs?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The internal energy increases.</li><li data-label=\"B\">The internal energy decreases.</li><li data-label=\"C\">There is no change in the internal energy.</li><li data-label=\"D\">The internal energy is zero.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5404aa91e6394ebb99db776507d31f03",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A quantity of 2.00 mol of an ideal gas is maintained at a temperature of 127 ºC in a container of volume 0.083 m<sup>3</sup>. What is the pressure of the gas?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">8 kPa</li><li data-label=\"B\">25 kPa</li><li data-label=\"C\">40 kPa</li><li data-label=\"D\">80 kPa</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

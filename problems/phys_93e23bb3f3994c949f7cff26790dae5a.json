@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/932f3862afab6fe2994143161c7815c28f6c2c90fd03320f0feb95cac411a415.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "932f3862afab6fe2994143161c7815c28f6c2c90fd03320f0feb95cac411a415"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_93e23bb3f3994c949f7cff26790dae5a",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>State that the internal energy change (<span class=\"math\" data-latex=\"\\Delta U\"></span>) is the same for the same temperature change (<span class=\"math\" data-latex=\"\\Delta T\"></span>). [1 mark]</p>\n<p>Explain that at constant pressure, the gas expands and performs work (<span class=\"math\" data-latex=\"W\"></span>) on the surroundings, whereas at constant volume, no work is done (<span class=\"math\" data-latex=\"W = 0\"></span>). [1 mark]</p>\n<p>Conclude using the first law (<span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>) that the heat supplied (<span class=\"math\" data-latex=\"Q\"></span>) must be greater at constant pressure to account for both the change in internal energy and the work done. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\Delta S = \\frac{Q}{T}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Identify that an increase in volume increases the number of available positions (microstates) for the gas molecules. [1 mark]</p>\n<p>State that entropy <span class=\"math\" data-latex=\"S\"></span> is related to the number of microstates (<span class=\"math\" data-latex=\"\\Omega\"></span>) by <span class=\"math\" data-latex=\"S = k_B \\ln \\Omega\"></span>, so the entropy of the gas increases during expansion. [1 mark]</p>\n<p>Conclude that for an isolated system, the second law states that entropy never decreases; a spontaneous return to the original state would require an entropy decrease, making the process irreversible. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>isochoric (or constant volume) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>State that for an isothermal process involving an ideal gas, the change in internal energy <span class=\"math\" data-latex=\"\\Delta U\"></span> is zero. [1 mark]</p>\n<p>State that work is done on the gas by the surroundings (so <span class=\"math\" data-latex=\"W\"></span> is negative). [1 mark]</p>\n<p>Explain that because <span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>, thermal energy <span class=\"math\" data-latex=\"Q\"></span> must be transferred out of the gas to the surroundings. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about thermodynamics, entropy, and heat engine cycles.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> A fixed mass of an ideal gas is heated to increase its temperature by <span class=\"math\" data-latex=\"\\Delta T\"></span>. Explain why more thermal energy must be supplied to the gas if this change occurs at constant pressure rather than at constant volume. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the expression for the change in entropy (<span class=\"math\" data-latex=\"\\Delta S\"></span>) of a system when thermal energy <span class=\"math\" data-latex=\"Q\"></span> is transferred reversibly at a constant absolute temperature <span class=\"math\" data-latex=\"T\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> A thermally insulated container is divided into two compartments. One compartment contains an ideal gas, and the other is a vacuum. When the partition is removed, the gas undergoes a free expansion. Discuss, by reference to microstates and the second law of thermodynamics, why this process is irreversible. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The diagram below shows a cycle ABCDA for a fixed mass of an ideal gas.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Identify the name of the thermodynamic process represented by the segment from B to C.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> A gas undergoes an isothermal compression. Discuss, with reference to the first law of thermodynamics, the energy transfers between the gas and its surroundings during this process. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

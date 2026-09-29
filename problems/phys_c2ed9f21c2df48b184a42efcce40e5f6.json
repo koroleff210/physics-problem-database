@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c2ed9f21c2df48b184a42efcce40e5f6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A constant net force <span class=\"math\" data-latex=\"F\"></span> acts on a body of mass <span class=\"math\" data-latex=\"m\"></span> that is initially at rest. Which of the following is an expression for the kinetic energy of the body after a time <span class=\"math\" data-latex=\"t\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{F^2 t^2}{2m}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{F t^2}{2m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{F^2 t^2}{m}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{F^2 t}{2m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

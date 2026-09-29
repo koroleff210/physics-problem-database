@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7d53e0dcc7eb6b9da91087eb91d4ae22fc06f3aa9c38f07294b8032206c4d4ff.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7d53e0dcc7eb6b9da91087eb91d4ae22fc06f3aa9c38f07294b8032206c4d4ff"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "C.5",
+    "E.1",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_746bcf03ca534b4498eef539170d04e9",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>The outward «radiation/thermal» pressure/force is balanced by the «inward» gravitational pressure/force ✓ <br/>Need to see reference to gravitational force/pressure. Do not accept “gravity”.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Nuclei need to have sufficiently high speed/energy to overcome repulsive force ✓ Nuclei need to be sufficiently close for the strong nuclear force to cause attraction ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>The core of star A is at a much higher temperature than the surface ✓<br/><br/> Gas/plasma in the hot core becomes less dense and moves to the surface of the star OR Gas/plasma at the cool surface becomes more dense and moves toward the core ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"d=\\frac{1}{0.74}3.269.46\\times 10^{15}=4.2\\times 10^{16} m\"></span> ✓ <br/>Distance must be stated in metres.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"\\frac{L_{A}}{L_{⊙}}=\\frac{0.9R_{⊙}}{R_{⊙}}^{2}\\frac{5200}{5800}^{4}=0.52\"></span> ✓ <br/>Must see full substitution   OR   answer to 2 (or more) significant figures. Allow the reverse fraction, leading to 1.92.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>Use of <span class=\"math\" data-latex=\"b = \\frac{L}{4 π {d}^{2}}\"></span> ✓ <span class=\"math\" data-latex=\"{b}_{A} = \\frac{0.52 {L}_{⊙}}{4 π {( 4.16 \\times  {10}^{16} )}^{2}}\"></span> ✓ <span class=\"math\" data-latex=\"b_{A}=2.4\\times 10^{-35}L_{⊙} W m^{-2}\"></span> ✓ <br/>Allow ECF from b(i) in denominator and b(ii) in numerator. Allow ECF for MP3. Allow <span class=\"math\" data-latex=\"b_{A}=\\frac{L_{⊙}}{4.35\\times 10^{34}}\"></span> for MP3.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"\\lambda_{max}=\\frac{2.9\\times 10^{-3}}{5200}=5.58\\times 10^{-7} m\"></span>   OR   <span class=\"math\" data-latex=\"558 nm\"></span> ✓ <br/>Must see full substitution   OR   answer to 3 (or more) significant figures.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"c=f\\lambda\"></span>   OR   <span class=\"math\" data-latex=\"E=\\frac{hc}{\\lambda}\"></span> ✓ <span class=\"math\" data-latex=\"E=\\frac{6.63\\times 10^{-34}3\\times 10^{8}}{5.57\\times 10^{-7}}=3.6\\times 10^{-19} J\"></span>   OR   <span class=\"math\" data-latex=\"2.25 eV\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Star A is moving toward Earth ✓ Therefore the wavefronts are closer together «and the wavelength is reduced» ✓ <br/>MP1 must be correct to earn MP2 For MP2 we need to see the connection to wavefronts.</p></section><section class=\"markscheme-part\" data-label=\"c.iv\"><p><strong>c.iv</strong></p><p><span class=\"math\" data-latex=\"v=\\frac{\\Delta\\lambda}{\\lambda}c=\\frac{0.007}{100}\\times 3\\times 10^{8}=21 000\"></span> ✓ 21 km s<sup>–1</sup> ✓ <br/>Allow ECF for MP2. Do not award MP1 for use of the Doppler formulas for sound and mechanical waves.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Stellar gases absorb specific wavelengths of light ✓ «Absorption» spectrum is observed on Earth ✓ The observed spectral lines are compared to known chemical spectra ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Star A is a main sequence star.</p>\n<p>The data for Star A and the Sun are given in a table.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State how physical stability is maintained in main sequence stars. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Explain why nuclear fusion in the core of the star occurs when the temperature and density exceed threshold values. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Outline why regions of convection form in Star A. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate, in m, the distance to Star A from Earth. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show that the luminosity of Star A is about half that of the Sun. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Deduce the apparent brightness of Star A compared to the apparent brightness of the Sun. [3]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the peak wavelength emitted from Star A is about 560 nm. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Calculate the energy of a photon of light emitted at this peak wavelength. [2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> </p><p>The peak wavelength of the radiation from Star A is measured by an observer on Earth. The observed wavelength is 0.007% less than the value in (c)(i).</p>\n<p>Outline how this difference arises.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.iv\"><p><strong>c.iv</strong> Determine the speed, in km s<sup>–1</sup>, of Star A relative to Earth. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Describe how the light from stars is studied to determine their composition. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

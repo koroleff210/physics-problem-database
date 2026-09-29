@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_725407147a91475f870386afaab1f2df",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Recognition that distance is the area under the velocity–time graph OR use of <span class=\"math\" data-latex=\"s = \\frac{u+v}{2}t\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"s = \\frac{0 + 36.0}{2} \\times 6.0 = 108 \\, \\mathrm{m}\"></span> [1 mark]</p>\n<p>Note: Award [1 mark] max for <span class=\"math\" data-latex=\"216 \\, \\mathrm{m}\"></span> (omission of the <span class=\"math\" data-latex=\"1/2\"></span> factor).<br/>Note: Alternative method: use average velocity <span class=\"math\" data-latex=\"\\bar v = \\frac{0+36.0}{2} = 18.0\\,\\mathrm{m\\,s^{-1}}\"></span> then <span class=\"math\" data-latex=\"s=\\bar v t=18.0\\times 6.0=108\\,\\mathrm{m}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use of <span class=\"math\" data-latex=\"s = \\frac{u+v}{2}t\"></span> to find braking time: <span class=\"math\" data-latex=\"54 = \\frac{36.0 + 0}{2} \\times t_{\\mathrm{brake}}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"t_{\\mathrm{brake}} = 3.0 \\, \\mathrm{s}\"></span> [1 mark]<br/>- Total time <span class=\"math\" data-latex=\"= 6.0 + 3.0 = 9.0 \\, \\mathrm{s}\"></span> [1 mark]</p>\n<p>Note: Award [2 marks] max for a final answer of <span class=\"math\" data-latex=\"3.0 \\, \\mathrm{s}\"></span> (braking phase only).<br/>Note: Alternative method: <span class=\"math\" data-latex=\"v^{2}=u^{2}+2as\"></span> gives <span class=\"math\" data-latex=\"0=36.0^{2}+2a(54)\"></span> so <span class=\"math\" data-latex=\"a=-12\\,\\mathrm{m\\,s^{-2}}\"></span>, then <span class=\"math\" data-latex=\"t_{\\mathrm{brake}}=\\frac{v-u}{a}=\\frac{0-36.0}{-12}=3.0\\,\\mathrm{s}\"></span>, then add <span class=\"math\" data-latex=\"6.0\\,\\mathrm{s}\"></span>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A research vehicle is undergoing a performance test on a straight horizontal track. The velocity <span class=\"math\" data-latex=\"v\"></span> of the vehicle is recorded at regular intervals as it accelerates from rest. The following table shows the data collected during the first <span class=\"math\" data-latex=\"6.0\"></span> seconds of the motion:</p><table><thead><tr><th>Time <span class=\"math\" data-latex=\"t / \\mathrm{s}\"></span></th><th>Velocity <span class=\"math\" data-latex=\"v / \\mathrm{m\\,s^{-1}}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"0.0\"></span></td><td><span class=\"math\" data-latex=\"0.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"12.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"4.0\"></span></td><td><span class=\"math\" data-latex=\"24.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"6.0\"></span></td><td><span class=\"math\" data-latex=\"36.0\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the distance travelled by the vehicle during the first <span class=\"math\" data-latex=\"6.0\"></span> seconds of the test.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>At <span class=\"math\" data-latex=\"t = 6.0 \\, \\mathrm{s}\"></span>, the vehicle begins to decelerate uniformly. It travels a further <span class=\"math\" data-latex=\"54 \\, \\mathrm{m}\"></span> before coming to a complete stop. Determine the total time elapsed from <span class=\"math\" data-latex=\"t = 0\"></span> until the vehicle is stationary.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_8212c097be5e462daa32f24c0fa21fd4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrectly assumes there are five wavelengths between the first and fifth crest (<span class=\"math\" data-latex=\"12/5 = 2.4\\text{ cm}\"></span>).</p>\n<p>B: Correctly identifies four wavelengths between the first and fifth crest (<span class=\"math\" data-latex=\"\\lambda = 3\\text{ cm}\"></span>) and uses <span class=\"math\" data-latex=\"v = \\frac{\\lambda}{T} = \\frac{0.03}{0.002} = 15\\text{ m s}^{-1}\"></span>.</p>\n<p>C: Incorrectly uses the total distance as the wavelength (<span class=\"math\" data-latex=\"12/2 = 6\\text{ cm/ms} = 60\\text{ m/s}\"></span>).</p>\n<p>D: Incorrect power-of-ten conversion or calculation error.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave source vibrates with a period of <span class=\"math\" data-latex=\"2.0\\text{ ms}\"></span>. The distance between the first crest and the fifth crest of the resulting travelling wave is <span class=\"math\" data-latex=\"12\\text{ cm}\"></span>. What is the speed of the wave?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"12\\text{ m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"15\\text{ m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"60\\text{ m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"150\\text{ m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

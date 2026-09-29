@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9bc70462938edc277000b05e7331edadde6b44a493dd3b826882f70fe8723904.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9bc70462938edc277000b05e7331edadde6b44a493dd3b826882f70fe8723904"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/90e2606d02d95f94d66532c6afc151d62ae6451fa342ffbc168d81d8d8089801.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "90e2606d02d95f94d66532c6afc151d62ae6451fa342ffbc168d81d8d8089801"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_df94ddee89a6428a8181f30f5404c908",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a\"><p><strong>6a</strong></p><p></p>\n<p>Angle between the incident ray and the normal to the bottom of the ice layer: <span class=\"math\" data-latex=\"90^{\\circ} - 67^{\\circ} = 23^{\\circ}\"></span></p>\n<p>Calculating <span class=\"math\" data-latex=\"\\alpha\"></span>, the angle between the light ray in ice and the normal to the bottom of the ice layer:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1.3}{1.4} = \\frac{sin (23^{\\circ})}{sin \\alpha}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\alpha \\approx 24.88^{\\circ}\"></span></p>\n<p>Calculating <span class=\"math\" data-latex=\"\\theta\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{1.3} = \\frac{sin (24.88^{\\circ})}{sin \\theta}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\theta \\approx 33.16^{\\circ} \\approx 33^{\\circ}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b\"><p><strong>6b</strong></p><p></p>\n<p>Given that no light passes from the ice layer into water, <span class=\"math\" data-latex=\"\\beta\"></span> will be a maximum when the light ray passes along the ice-air boundary.</p>\n<p>Calculating <span class=\"math\" data-latex=\"\\alpha\"></span>, the angle between the light ray in ice and the normal to the top of the ice layer:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{1.3} = \\frac{sin \\alpha}{sin (90^{\\circ})}\"></span></p>\n<p><span class=\"math\" data-latex=\"sin \\alpha \\approx 0.76923\"></span></p>\n<p>Calculating <span class=\"math\" data-latex=\"\\gamma\"></span>, the angle between the incident ray and the normal to the bottom of the ice layer: </p>\n<p><span class=\"math\" data-latex=\"\\frac{1.3}{1.4} = \\frac{sin \\gamma}{sin \\alpha}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\gamma \\approx 45.6^{\\circ}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\beta = 90^{\\circ} - 45.6^{\\circ} = 44.4^{\\circ} \\approx 44^{\\circ}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6c\"><p><strong>6c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p>\n<p>The wavefronts in air should be approximately perpendicular to the light ray in air and they should be more spaced out than the wavefronts in the ice layer.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An underwater flashlight is shone towards a layer of ice that covers the surface of a lake. A light ray passes from the water to the ice layer and then to air above the surface of the lake. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The angle that the incident ray makes with the bottom of the ice layer is <span class=\"math\" data-latex=\"\\beta\"></span>. The angle between the light ray in air and the normal to the top of the ice layer is <span class=\"math\" data-latex=\"\\theta\"></span>. The refractive index of water is <span class=\"math\" data-latex=\"1.4\"></span> and the refractive index of ice is <span class=\"math\" data-latex=\"1.3\"></span>. </p>\n<p>a. Calculate <span class=\"math\" data-latex=\"\\theta\"></span> when <span class=\"math\" data-latex=\"\\beta = 67^{\\circ}\"></span>.</p>\n<p>   [3]</p>\n<p>b. Given that <span class=\"math\" data-latex=\"0 &lt; \\beta &lt; 90^{\\circ}\"></span>, find the maximum value of <span class=\"math\" data-latex=\"\\beta\"></span> so that no light passes from the ice layer into air. </p>\n<p>    [3]</p>\n<p>Three wavefronts, X, Y, and Z, are shown in the ice layer.</p>\n<p>c. On the diagram, draw lines to complete the three wavefronts in air.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

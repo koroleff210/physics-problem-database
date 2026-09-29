@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cad4f9b25302ae4495557fe8d667c18fe0705fef490d1c3c449879693fef41e1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cad4f9b25302ae4495557fe8d667c18fe0705fef490d1c3c449879693fef41e1"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d191dc8d5378c260043d4416024f26cc3193ce2ab294b4b45a811b9d056eca65.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d191dc8d5378c260043d4416024f26cc3193ce2ab294b4b45a811b9d056eca65"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/7e2b401334145eb1b3b5186ef5353da952bdd7c561b4dab29110431cc181ac8e.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7e2b401334145eb1b3b5186ef5353da952bdd7c561b4dab29110431cc181ac8e"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/c70bcb9b2236711ac1e98f75b9a05ecf184c8f0b8c73e83ea780786422df6412.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c70bcb9b2236711ac1e98f75b9a05ecf184c8f0b8c73e83ea780786422df6412"
+    }
+  ],
+  "classes": [
+    "A.4",
+    "B.3",
+    "B.4",
+    "E.3",
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_44fe5855e75e4698937b9c4b9a492d7c",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Mass-energy «of uranium» into kinetic energy of fission products ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Mass of uranium nucleus <span class=\"math\" data-latex=\"≈235u\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{energy}{mass}=\\frac{180\\times 10^{6}\\times 1.60\\times 10^{-19}}{235\\times 1.661\\times 10^{-27}}\"></span> ✓ <span class=\"math\" data-latex=\"7.4\\times 10^{13}\"></span> «J» ✓</p>\n\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>beta minus decay ✓ <span class=\"math\" data-latex=\"_{ }^{ }\"></span> has more neutrons / higher <span class=\"math\" data-latex=\"\\frac{N}{Z}\"></span> ratio than stable nuclides of similar A «and beta minus reduces <span class=\"math\" data-latex=\"\\frac{N}{Z}\"></span>» ✓</p>\n\n</section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"e^{25}=7.2\\times 10^{10}\"></span> «s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>Takes ln of both sides of <span class=\"math\" data-latex=\"A = {A}_{0} {e}^{- λ t}\"></span>, leading to <span class=\"math\" data-latex=\"l n \\, A = l n \\, {A}_{0} - λ t\"></span> ✓ «hence slope <span class=\"math\" data-latex=\"=-\\lambda\"></span>» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iv\"><p><strong>b.iv</strong></p><p>Slope =«−» <span class=\"math\" data-latex=\"2.5\\times 10^{-6}\"></span> «s<sup>−1</sup>» ✓ <span class=\"math\" data-latex=\"T_{\\frac{1}{2}}=\"></span>«<span class=\"math\" data-latex=\"\\frac{ln 2}{2.5\\times 10^{-6}\\times 60\\times 60\\times 24}=\"></span>» 3.2 «days» ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Collects thermal energy from the coolant and delivers it to the gas ✓ Prevents the «irradiated» coolant from leaving the reactor vessel ✓</p>\n\n\n</section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Correct read offs of pressure and volume at B ✓ <span class=\"math\" data-latex=\"8.0\\times 10^{6}\\times 1.6\\times 10^{-3}=1.0\\times 8.31\\times T\"></span> ✓ <span class=\"math\" data-latex=\"T=1500\"></span> «K»  ✓</p>\n\n</section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>From <span class=\"math\" data-latex=\"\\Delta S = \\frac{\\Delta Q}{T}\"></span>, the change in entropy is zero when <span class=\"math\" data-latex=\"\\Delta Q = 0\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iv\"><p><strong>c.iv</strong></p><p>Net work done  = «<span class=\"math\" data-latex=\"8.23+9.11-4.32-3.25\"></span>» 9.77 «kJ» ✓ Efficiency =«<span class=\"math\" data-latex=\"\\frac{9.77}{20.58}=\"></span>» 0.47 ✓</p>\n\n</section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Rotational KE is proportional to <span class=\"math\" data-latex=\"\\omega^{2}\"></span> ✓ Calculation of <span class=\"math\" data-latex=\"\\omega^{2}\"></span> for at least four points, e.g. {96.1, 76.7, 57.6, 38.4, 19.3}×10<sup>3</sup> Shows that the differences in equal time intervals are approximately the same, e.g. {19.4, 19.1, 19.2, 19.1, 19.3}×10<sup>3 </sup>✓   Allow a tolerance of ±1×10<sup>3 </sup>s<sup>−2</sup> from the values stated in MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A nuclear power station uses uranium-235 (<sup>235</sup><sub>92</sub>U) as fuel. One possible fission reaction of <sup>235</sup><sub>92</sub>U is</p>\n<p><sup>235</sup><sub>92</sub>U + <sup>1</sup><sub>0</sub>n → <sup>132</sup><sub>52</sub>Te + <sup>101</sup><sub>40</sub>Zr + 3 <sup>1</sup><sub>0</sub>n</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the principal energy change in nuclear fission. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> The energy released in the reaction is about 180 MeV. Estimate, in J, the energy released when 1 kg of <sup>235</sup><sub>92</sub>U undergoes fission. [3]</p></section><section class=\"context\"><p>One of the products of the reaction is a nucleus of tellurium-132 (<span class=\"math\" data-latex=\"_{ }^{ }\"></span>). The diagram shows the location of <span class=\"math\" data-latex=\"_{ }^{ }\"></span> in a table of nuclides in which the proton number of a nuclide is plotted against its neutron number. The nuclides shown in black are stable.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State and explain the decay mode of <sup>132</sup><sub>52</sub>Te. [2]</p></section><section class=\"context\"><p>A sample of pure <span class=\"math\" data-latex=\"_{ }^{ }\"></span> is extracted from some spent nuclear fuel from the reactor. The graph shows how the natural logarithm of the activity A of the sample varies with time t.</p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate, in s<sup>−1</sup>, the initial activity of the sample. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Show that the decay constant of a nuclide is given by −m, where m is the slope of the graph of lnA against t. [1]</p></section><section class=\"question-part\" data-label=\"b.iv\"><p><strong>b.iv</strong> Determine, in days, the half-life of <sup>132</sup><sub>52</sub>Te. [2]</p></section><section class=\"context\"><p>The nuclear power station uses high-pressure gas to power an electrical generator. The gas circulates between the heat exchanger and the turbine of the generator.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Outline the role of the heat exchanger in a nuclear power station. [1]</p></section><section class=\"context\"><p>The working gas of the turbine undergoes a cyclic change that can be modelled as the cycle ABCDA shown in the pressure-volume diagram.</p><p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p><p>The cycle consists of an isobaric expansion AB, adiabatic expansion BC, isobaric compression CD and adiabatic compression DA. The cycle is drawn for a quantity of 1.0 mol of monatomic ideal gas.</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Calculate the maximum temperature of the gas during the cycle. [3]</p></section><section class=\"context\"><p>The following data are given about the work W done by the gas and thermal energy Q transferred to the gas during each change:</p><div class=\"table-responsive\"><table><tbody><tr><td><p>Change</p></td><td><p>W / kJ</p></td><td><p>Q / kJ</p></td></tr><tr><td><p>AB</p></td><td><p>8.23</p></td><td><p>20.58</p></td></tr><tr><td><p>BC</p></td><td><p>9.11</p></td><td><p>0</p></td></tr><tr><td><p>CD</p></td><td><p>−4.32</p></td><td><p>−10.81</p></td></tr><tr><td><p>DA</p></td><td><p>−3.25</p></td><td><p>0</p></td></tr></tbody></table></div></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Outline why the entropy of the gas remains constant during changes BC and DA. [1]</p></section><section class=\"question-part\" data-label=\"c.iv\"><p><strong>c.iv</strong> Determine the efficiency of the cycle. [2]</p></section><section class=\"context\"><p>During a maintenance shutdown of the reactor, the gas supply to the turbine is cut off and the turbine gradually comes to rest. The diagram shows how the angular speed  of the turbine varies with time t.</p><p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Show that the rotational kinetic energy of the turbine decreases at a constant rate. [3]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

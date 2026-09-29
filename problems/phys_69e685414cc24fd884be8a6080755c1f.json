@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7f7111e1c9c8dd3486f4a9972313262df31fedf63230790c27559ced58694afe.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7f7111e1c9c8dd3486f4a9972313262df31fedf63230790c27559ced58694afe"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_69e685414cc24fd884be8a6080755c1f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two boxes with masses <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"M\"></span> travel towards each other in a straight line, collide and stick together. The initial speed of the blocks is <span class=\"math\" data-latex=\"v\"></span> and <span class=\"math\" data-latex=\"u\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>As a result of the collision, the total change of linear momentum of the objects is:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">zero</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"mv + Mu\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"mv - Mu\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"Mu - mv\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

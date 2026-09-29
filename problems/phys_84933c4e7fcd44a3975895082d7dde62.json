@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_84933c4e7fcd44a3975895082d7dde62",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A body of mass <span class=\"math\" data-latex=\"m\"></span> undergoes simple harmonic motion with a period <span class=\"math\" data-latex=\"T\"></span>. Which of the following expressions represents the magnitude of the restoring force <span class=\"math\" data-latex=\"F\"></span> acting on the body when its displacement from the equilibrium position is <span class=\"math\" data-latex=\"x\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{2 \\pi m x}{T^2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{4 \\pi^2 m x}{T^2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{4 \\pi^2 m x}{T}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{2 \\pi^2 m x}{T^2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

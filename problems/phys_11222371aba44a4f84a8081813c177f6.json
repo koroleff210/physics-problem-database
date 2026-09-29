@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_11222371aba44a4f84a8081813c177f6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rock of mass <span class=\"math\" data-latex=\"4.0\"></span> kg is thrown vertically downwards into a lake at an initial speed of <span class=\"math\" data-latex=\"10\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. After travelling <span class=\"math\" data-latex=\"50\"></span> m, the rock hits the bottom of the lake with a speed of <span class=\"math\" data-latex=\"30\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What is the kinetic energy lost by the rock because of the resistive friction force that arises due to the water in the lake?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"400\"></span> J</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"800\"></span> J</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4000\"></span> J</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8000\"></span> J</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

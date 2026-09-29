@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f7c0da7befee39a3a7c6ce647d1a01470a804f1419f97e2d5170ae15bac90388.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f7c0da7befee39a3a7c6ce647d1a01470a804f1419f97e2d5170ae15bac90388"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_a809c721c0f24a1cb13d2cf803df123f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block slides down a frictionless ramp from a vertical height of <span class=\"math\" data-latex=\"x\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The block arrives at the bottom of the ramp at speed <span class=\"math\" data-latex=\"v\"></span> and it eventually comes to rest on a rough horizontal surface after travelling through distance <span class=\"math\" data-latex=\"s\"></span>. The coefficient of dynamic friction between the block and the surface is <span class=\"math\" data-latex=\"\\mu\"></span>. What is <span class=\"math\" data-latex=\"s\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{x}{\\mu}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\mu}{x}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{v^{2}}{\\mu g}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2v^{2}}{\\mu g}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

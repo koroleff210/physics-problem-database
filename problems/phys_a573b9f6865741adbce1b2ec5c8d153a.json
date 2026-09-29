@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a573b9f6865741adbce1b2ec5c8d153a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The function of a moderator in a nuclear fission reactor is to slow down the fast neutrons produced by fission. This process, called thermalization, increases the probability that the neutrons will cause further fission events in fissile material like U-235. Control rods absorb neutrons to control the reaction rate, while the turbine and heat exchanger are part of the power generation system.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which part of a nuclear fission reactor is designed to reduce the kinetic energy of neutrons produced in the reaction?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Control rods</li>\n<li data-label=\"B\"> Moderators</li>\n<li data-label=\"C\"> Turbine</li>\n<li data-label=\"D\"> Heat exchanger</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

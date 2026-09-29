@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_bc58cd1d832143f7a273e5ca1613d110",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A possible nuclear fission reaction for uranium-235 is shown below.</p>\n<p><span class=\"math\" data-latex=\"{}_{0}^{1}\\text{n} + {}_{92}^{235}\\text{U} \\to {}_{56}^{141}\\text{Ba} + {}_{36}^{92}\\text{Kr} + 3 {}_{0}^{1}\\text{n}\"></span></p>\n<p>The table provides the masses for the particles involved in this reaction.</p>\n<table><thead><tr><th>Particle</th><th>Mass (<span class=\"math\" data-latex=\"u\"></span>)</th></tr></thead><tbody><tr><td>Uranium-235</td><td><span class=\"math\" data-latex=\"235.0439\"></span></td></tr><tr><td>Barium-141</td><td><span class=\"math\" data-latex=\"140.9144\"></span></td></tr><tr><td>Krypton-92</td><td><span class=\"math\" data-latex=\"91.9261\"></span></td></tr><tr><td>Neutron</td><td><span class=\"math\" data-latex=\"1.0087\"></span></td></tr></tbody></table>\n<p>What is the energy released in this reaction? (<span class=\"math\" data-latex=\"1 \\text{ u} = 931.5 \\text{ MeV c}^{-2}\"></span>)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"92 \\text{ MeV}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"141 \\text{ MeV}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"173 \\text{ MeV}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"235 \\text{ MeV}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

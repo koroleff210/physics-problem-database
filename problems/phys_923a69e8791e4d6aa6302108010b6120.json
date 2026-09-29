@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_923a69e8791e4d6aa6302108010b6120",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following surfaces would likely have the highest albedo?</p><ol class=\"mcq-options\"><li data-label=\"A\">A black asphalt road</li><li data-label=\"B\">A grassy field</li><li data-label=\"C\">Fresh snow</li><li data-label=\"D\">Ocean water</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

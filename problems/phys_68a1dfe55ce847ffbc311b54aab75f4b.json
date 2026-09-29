@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_68a1dfe55ce847ffbc311b54aab75f4b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A system absorbs 500 J of energy and does 200 J of work on its surroundings. What is the change in the internal energy of the system?</p><ol class=\"mcq-options\"><li data-label=\"A\">300 J</li><li data-label=\"B\">500 J</li><li data-label=\"C\">700 J</li><li data-label=\"D\">-300 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

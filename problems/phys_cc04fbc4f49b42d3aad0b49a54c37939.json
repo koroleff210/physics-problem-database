@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_cc04fbc4f49b42d3aad0b49a54c37939",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Current <span class=\"math\" data-latex=\"I\"></span> flows in a conducting wire.</p>\n<p>What expression correctly gives the number of electrons passing through a cross section of the wire in a time <span class=\"math\" data-latex=\"t\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"It\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{I}{t}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"Ite\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{It}{e}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

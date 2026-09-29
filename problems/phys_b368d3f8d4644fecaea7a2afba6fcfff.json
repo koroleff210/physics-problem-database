@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b368d3f8d4644fecaea7a2afba6fcfff",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A body performs simple harmonic motion (SHM). The table shows the acceleration <span class=\"math\" data-latex=\"a\"></span> of the body at two different displacements <span class=\"math\" data-latex=\"x\"></span> from its equilibrium position.</p>\n<table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x\"></span> / cm</th><th>Acceleration <span class=\"math\" data-latex=\"a\"></span> / <span class=\"math\" data-latex=\"\\text{cm s}^{-2}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"+2.0\"></span></td><td><span class=\"math\" data-latex=\"-8.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"-5.0\"></span></td><td><span class=\"math\" data-latex=\"q\"></span></td></tr></tbody></table>\n<p>What is the value of <span class=\"math\" data-latex=\"q\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"+1.25\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"+20.0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"-1.25\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"-20.0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

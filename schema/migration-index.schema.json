@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V4 migration index entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["source_canonical_id", "v4_id", "outcome", "recorded_at", "problem_sha256"],
+  "properties": {
+    "source_canonical_id": { "type": "string", "minLength": 1 },
+    "v4_id": { "type": "string", "pattern": "^phys_[0-9a-f]{32}$" },
+    "outcome": { "enum": ["created", "duplicate_mapped", "needs_review", "quarantined"] },
+    "recorded_at": { "type": "string", "format": "date-time" },
+    "problem_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+  }
+}

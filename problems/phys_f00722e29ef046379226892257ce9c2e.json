@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_f00722e29ef046379226892257ce9c2e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two radioactive samples, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, initially contain the same number of undecayed nuclei. The half-life of <span class=\"math\" data-latex=\"X\"></span> is four times the half-life of <span class=\"math\" data-latex=\"Y\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{initial activity of } X}{\\text{initial activity of } Y}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.50\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.25\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

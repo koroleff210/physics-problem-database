@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e7f6377a147c4048a398ebe316ffdd0f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a main sequence star is <span class=\"math\" data-latex=\"65\"></span> solar masses.</p>\n<p>What is a possible sequence for the evolution of this star?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Red giant → Planetary nebula → White dwarf</li>\n<li data-label=\"B\">Red giant → Supernova → Black hole</li>\n<li data-label=\"C\">Red supergiant → Planetary nebula → White dwarf</li>\n<li data-label=\"D\">Red supergiant → Supernova → Black hole</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

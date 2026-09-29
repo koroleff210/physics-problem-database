@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_0b77a745ef2a4357ab666bd03f5ca1e7",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"0 \\text{ m}\"></span> (or equilibrium position) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use of <span class=\"math\" data-latex=\"k = \\frac{F}{x}\"></span> with any pair of values from the table (e.g., <span class=\"math\" data-latex=\"\\frac{0.50}{0.02}\"></span> or <span class=\"math\" data-latex=\"\\frac{2.00}{0.08}\"></span>) [1 mark]<br/>- <span class=\"math\" data-latex=\"k = 25 \\text{ N m}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate angular frequency <span class=\"math\" data-latex=\"\\omega = \\sqrt{\\frac{k}{m}} = \\sqrt{\\frac{25}{0.25}} = 10 \\text{ rad s}^{-1}\"></span> [1 mark]<br/>- Calculate frequency <span class=\"math\" data-latex=\"f = \\frac{\\omega}{2\\pi} = \\frac{10}{2\\pi} \\approx 1.6 \\text{ Hz}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- <span class=\"math\" data-latex=\"E = \\frac{1}{2} k A^2 = 0.5 \\times 25 \\times (0.08)^2 = 0.080 \\text{ J}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A mass of <span class=\"math\" data-latex=\"0.25 \\text{ kg}\"></span> is attached to a horizontal spring on a frictionless surface. The mass is displaced and then released so that it undergoes simple harmonic motion. The following table shows the magnitude of the restoring force <span class=\"math\" data-latex=\"F\"></span> acting on the mass at various displacements <span class=\"math\" data-latex=\"x\"></span> from the equilibrium position.</p><table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x\"></span> / <span class=\"math\" data-latex=\"10^{-2} \\text{ m}\"></span></th><th>Restoring Force <span class=\"math\" data-latex=\"F\"></span> / <span class=\"math\" data-latex=\"\\text{N}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"0.50\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"4.0\"></span></td><td><span class=\"math\" data-latex=\"1.00\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"6.0\"></span></td><td><span class=\"math\" data-latex=\"1.50\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"8.0\"></span></td><td><span class=\"math\" data-latex=\"2.00\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the displacement of the mass at which the kinetic energy of the system is at a maximum.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Use the data in the table to determine the spring constant <span class=\"math\" data-latex=\"k\"></span> of the spring.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the frequency <span class=\"math\" data-latex=\"f\"></span> of the oscillations.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the total energy of the oscillations for an amplitude of <span class=\"math\" data-latex=\"8.0 \\text{ cm}\"></span>.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

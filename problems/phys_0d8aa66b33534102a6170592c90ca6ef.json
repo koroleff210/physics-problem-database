@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f2bb7b364e73b7d20e663f2e3b591c8ac895f264e476edf4126696f31c42024f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f2bb7b364e73b7d20e663f2e3b591c8ac895f264e476edf4126696f31c42024f"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0d8aa66b33534102a6170592c90ca6ef",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Ball 1 collides with an initially stationary ball 2 of the same mass. After the collision, the balls move with speeds <span class=\"math\" data-latex=\"v_{1}\"></span> and <span class=\"math\" data-latex=\"v_{2}\"></span>. Their velocities make angles <span class=\"math\" data-latex=\"\\theta_{1}\"></span> and <span class=\"math\" data-latex=\"\\theta_{2}\"></span> with the original direction of motion of ball 1.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{v_{1}}{v_{2}}\"></span></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{sin \\theta_{2}}{sin \\theta_{1}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{sin \\theta_{1}}{sin \\theta_{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{cos \\theta_{2}}{cos \\theta_{1}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{cos \\theta_{1}}{cos \\theta_{2}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_4d3622ccfa6645bbbcc44ef45aeccd67",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Apply the work-energy theorem or equations of motion:</p>\n<p><span class=\"math\" data-latex=\"v^2 = u^2 + 2as \\implies 8.0^2 = 0 + 2 \\times a \\times 1.6 \\implies a = 20 \\text{ m s}^{-2}\"></span></p>\n<p><strong>OR</strong></p>\n<p><span class=\"math\" data-latex=\"\\text{Work Done} = \\Delta E_k = \\frac{1}{2} \\times 0.50 \\times 8.0^2 = 16 \\text{ J}\"></span> [1 mark]</p>\n<p>Calculate force using <span class=\"math\" data-latex=\"F = ma\"></span> or <span class=\"math\" data-latex=\"F = \\frac{W}{s}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"F = 10 \\text{ N}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Substitute values into the momentum formula:</p>\n<p><span class=\"math\" data-latex=\"\\Delta p = m\\Delta v = 0.50 \\times 8.0\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"4.0 \\text{ kg m s}^{-1}\"></span> <strong>OR</strong> <span class=\"math\" data-latex=\"4.0 \\text{ N s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Calculate time taken or use average velocity:</p>\n<p><span class=\"math\" data-latex=\"t = \\frac{2s}{u+v} = \\frac{3.2}{8.0} = 0.40 \\text{ s}\"></span></p>\n<p><strong>OR</strong></p>\n<p><span class=\"math\" data-latex=\"v_{\\text{avg}} = 4.0 \\text{ m s}^{-1}\"></span> [1 mark]</p>\n<p>Calculate power using <span class=\"math\" data-latex=\"P = \\frac{W}{t}\"></span> or <span class=\"math\" data-latex=\"P = F v_{\\text{avg}}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"40 \\text{ W}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A laboratory pneumatic launcher is designed to project a small specimen for impact testing. The table below lists the performance data recorded during a test firing where the specimen is accelerated from rest through a horizontal, frictionless barrel.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><table><thead><tr><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Mass of specimen</td><td><span class=\"math\" data-latex=\"0.50 \\text{ kg}\"></span></td></tr><tr><td>Final launch speed</td><td><span class=\"math\" data-latex=\"8.0 \\text{ m s}^{-1}\"></span></td></tr><tr><td>Length of barrel</td><td><span class=\"math\" data-latex=\"1.6 \\text{ m}\"></span></td></tr></tbody></table><p>Determine the magnitude of the average force <span class=\"math\" data-latex=\"F\"></span> exerted on the specimen inside the launcher.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the total change in momentum of the specimen during the launch phase.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the average power delivered to the specimen while it is in the barrel.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_092c001d80434ae69b5473b9bc891ced",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A velocity selector consists of crossed electric and magnetic fields. A particle with unknown charge-to-mass ratio <span class=\"math\" data-latex=\"\\frac{q}{m}\"></span> passes through undeflected. If the electric field is doubled and the magnetic field is halved, what must happen to the particle's speed to maintain a straight-line path?</p><ol class=\"mcq-options\"><li data-label=\"A\">It must double</li><li data-label=\"B\">It must halve</li><li data-label=\"C\">It must remain unchanged</li><li data-label=\"D\">It must become four times greater</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

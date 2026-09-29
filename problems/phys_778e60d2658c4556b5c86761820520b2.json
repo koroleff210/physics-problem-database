@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_778e60d2658c4556b5c86761820520b2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Zuri is flying a spacecraft at speed <span class=\"math\" data-latex=\"v\"></span>. For this speed, the Lorentz factor is <span class=\"math\" data-latex=\"2.0\"></span>. The navigation lights on the spacecraft flash every <span class=\"math\" data-latex=\"5.0\\;\\textup{s}\"></span>. Ariadne watches the spacecraft fly by.</p>\n<p>What is the time that Ariadne observes between the flashes?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2.5\\;\\textup{s}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"3.0\\;\\textup{s}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"7.0\\;\\textup{s}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10\\;\\textup{s}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

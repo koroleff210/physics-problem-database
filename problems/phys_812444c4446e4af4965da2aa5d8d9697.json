@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_812444c4446e4af4965da2aa5d8d9697",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An athlete of mass <span class=\"math\" data-latex=\"M\"></span> jumps vertically upward, lifting their centre of mass a distance <span class=\"math\" data-latex=\"h\"></span> after losing contact with the ground.</p>\n<p>What is the impulse that acts on the athlete during contact with the ground?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"Mgh\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{M}{gh}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"M\\sqrt{2gh}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{M}{\\sqrt{2}}\\sqrt{gh}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

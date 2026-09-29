@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b8f346d9c2984c16b1f1b1549ed5895c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following particles will experience a magnetic force in a magnetic field?</p><ol class=\"mcq-options\"><li data-label=\"A\">A stationary neutron</li><li data-label=\"B\">A moving proton</li><li data-label=\"C\">A stationary proton</li><li data-label=\"D\">A neutral atom at rest</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_b4291cf5f9e44e4c80bdf5e57cb4e2d5",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Earth receives sunlight over a disc (area <span class=\"math\" data-latex=\"\\pi R^2\"></span>), but radiates over its sphere (area <span class=\"math\" data-latex=\"4\\pi R^2\"></span>). [1 mark]</p>\n<p>Average intensity = <span class=\"math\" data-latex=\"\\dfrac{S}{4}\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"I = \\dfrac{1370 \\cdot (1 - 0.3)}{4} = 239.75 \\approx 240\\,\\text{W m}^{-2}\"></span></p>\n<p>Correct expression. [1 mark]</p>\n<p>Correct answer. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Radiation received by the Earth depends on its geometry and reflection.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the solar constant must be divided by 4 to get the average incoming intensity. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The albedo of Earth is 0.3. Calculate the average absorbed intensity. Use <span class=\"math\" data-latex=\"S = 1370\\,\\text{W m}^{-2}\"></span>. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

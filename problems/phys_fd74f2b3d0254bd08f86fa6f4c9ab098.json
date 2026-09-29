@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2b1575dc3fc9c83c801ca29accc93343438f0c97e043087efce02fcd4108a690.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2b1575dc3fc9c83c801ca29accc93343438f0c97e043087efce02fcd4108a690"
+    }
+  ],
+  "classes": [
+    "D.1",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_fd74f2b3d0254bd08f86fa6f4c9ab098",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>potential greater at Y ✓   «from <span class=\"math\" data-latex=\"E = - \\frac{\\Delta {V}_{e}}{\\Delta r}\"></span>» the potential increases in the direction opposite to field strength «so from X to Y» OR opposite to the direction of the field lines, «so from X to Y» OR «from <span class=\"math\" data-latex=\"W = q \\Delta  {V}_{e}\"></span>» work done to move a positive charge from X to Y is positive «so the potential increases from X to Y» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>orbital radius <span class=\"math\" data-latex=\"=6.4\\times 10^{6}+5.0\\times 10^{5}\"></span> «<span class=\"math\" data-latex=\"=6.9\\times 10^{6}\"></span> m» ✓ <span class=\"math\" data-latex=\"KE=\\frac{1}{2}\\times 8.0\\times 10^{2}\\times \\frac{6.67\\times 10^{-11}\\times 6.0\\times 10^{24}}{6.9\\times 10^{6}}\"></span>  OR  <span class=\"math\" data-latex=\"2.3\\times 10^{10}\"></span> «J» ✓   Award [1] max for answers ignoring orbital height (KE = 2.5 × 10<sup>10</sup> J).</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>change in PE <span class=\"math\" data-latex=\"=6.67\\times 10^{-11}\\times 6.0\\times 10^{24}\\times 8.0\\times 10^{2}\\frac{1}{6.4\\times 10^{6}}-\\frac{1}{6.9\\times 10^{6}}=\"></span> «<span class=\"math\" data-latex=\"3.6\\times 10^{9}\"></span> J» ✓ energy needed = KE + ΔPE = <span class=\"math\" data-latex=\"2.7\\times 10^{10}\"></span> «J» ✓   Allow ECF from 8(b)(i).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A satellite is launched from the surface of Earth into a circular orbit.</p>\n<p>The following data are given.</p>\n<p>Mass of the satellite = 8.0 × 10<sup>2</sup> kg</p>\n<p>Height of the orbit above the surface of Earth = 5.0 × 10<sup>5</sup> m</p>\n<p>Mass of Earth = 6.0 × 10<sup>24</sup> kg</p>\n<p>Radius of Earth = 6.4 × 10<sup>6</sup> m</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The diagram shows field lines for an electrostatic field. X and Y are two points on the same field line.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Outline which of the two points has the larger electric potential.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the kinetic energy of the satellite in orbit is about 2 × 10<sup>10</sup> J. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine the minimum energy required to launch the satellite. Ignore the original kinetic energy of the satellite due to Earth’s rotation. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

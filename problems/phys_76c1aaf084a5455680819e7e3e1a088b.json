@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/edc4374efd14f51458d764330bb7130ed04dc8b398afb0e156d8e7e7ce51480c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "edc4374efd14f51458d764330bb7130ed04dc8b398afb0e156d8e7e7ce51480c"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_76c1aaf084a5455680819e7e3e1a088b",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Mention of interference / superposition ✓ Bright fringe occurs when light from the slits arrives in phase ✓ Dark fringe occurs when light from the slits arrives 180°/ <span class=\"math\" data-latex=\"\\pi\"></span> out of phase ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>s = <span class=\"math\" data-latex=\"\\frac{0.15}{8}\"></span>  OR = 0.0188 «m» ✓ use of <span class=\"math\" data-latex=\"\\lambda=\\frac{ds}{D}\"></span> ✓ 450 «nm» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Blue fringe is unchanged ✓ Red fringes are farther apart than blue ✓ By a factor of 1.5 ✓ At some point/s the fringes coincide/are purple ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Blue light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on a double slit. Light from the double slit falls on a screen. A student measures the distance between nine successive fringes on the screen to be 15 cm.</p>\n<p>The separation of the double slit is 60 µm; the double slit is 2.5 m from the screen.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain the pattern seen on the screen. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate, in nm, <span class=\"math\" data-latex=\"\\lambda\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The student changes the light source to one that emits two colours:<br/>• blue light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>, and<br/>• red light of wavelength 1.5<span class=\"math\" data-latex=\"\\lambda\"></span>.</p>\n<p>Predict the pattern that the student will see on the screen.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

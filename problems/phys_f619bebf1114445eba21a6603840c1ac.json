@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e8e8d17a8752b65f4df9ab994ea5634d3e4073bd2db42920d6f7298d13eebf59.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e8e8d17a8752b65f4df9ab994ea5634d3e4073bd2db42920d6f7298d13eebf59"
+    }
+  ],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_f619bebf1114445eba21a6603840c1ac",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a simple model of a nuclear reactor, four neutrons are emitted per fission on average.</p>\n<p>The average number of neutrons absorbed by the control rods is N<sub>c</sub> per fission.</p>\n<p>The average number of neutrons that are lost through the walls of the reactor is N<sub>1</sub> per fission.</p>\n<p>Any remaining neutrons induce further fissions.</p>\n<p>What are possible values for N<sub>c</sub> and N<sub>1</sub> for the reactor to maintain a steady reaction?<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

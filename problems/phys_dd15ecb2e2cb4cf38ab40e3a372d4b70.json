@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": null,
+  "id": "phys_dd15ecb2e2cb4cf38ab40e3a372d4b70",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1 - \\frac{v^2}{c^2}}} = \\frac{1}{\\sqrt{1 - 0.60^2}} = 1.25\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use the Lorentz transformation for time: <span class=\"math\" data-latex=\"\\Delta t' = \\gamma \\left( \\Delta t - \\frac{v\\Delta x}{c^2} \\right)\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\Delta t' = 1.25 \\left( 0 - \\frac{0.60 \\times 1500}{3.0 \\times 10^8} \\right) = -3.75 \\times 10^{-6}\\ \\text{s}\"></span> (magnitude <span class=\"math\" data-latex=\"3.75 \\times 10^{-6}\\ \\text{s}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use the Lorentz transformation for position: <span class=\"math\" data-latex=\"\\Delta x' = \\gamma (\\Delta x - v\\Delta t)\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\Delta x' = 1.25 (1500 - 0.60c \\times 0) = 1.25 \\times 1500 = 1875\\ \\text{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Show calculation for one or both frames: <span class=\"math\" data-latex=\"(c \\times 0)^2 - (1500)^2 = -2.25 \\times 10^6\\ \\text{m}^2\"></span> OR <span class=\"math\" data-latex=\"(3 \\times 10^8 \\times 3.75 \\times 10^{-6})^2 - (1875)^2 = -2.25 \\times 10^6\\ \\text{m}^2\"></span> [1 mark]<br/>- State that the spacetime interval is an invariant quantity, meaning it remains the same for all inertial observers regardless of their relative motion [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stationary observation post (frame <span class=\"math\" data-latex=\"S\"></span>) records two light-emitting events from two different beacons. Event 1 occurs at the origin (<span class=\"math\" data-latex=\"x_1 = 0, t_1 = 0\"></span>) and Event 2 occurs at <span class=\"math\" data-latex=\"x_2 = 1500\\ \\text{m}\"></span> and <span class=\"math\" data-latex=\"t_2 = 0\"></span>. A research vessel (frame <span class=\"math\" data-latex=\"S'\"></span>) travels along the <span class=\"math\" data-latex=\"x\"></span>-axis at a constant velocity of <span class=\"math\" data-latex=\"0.60c\"></span> relative to the observation post.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the Lorentz factor, <span class=\"math\" data-latex=\"\\gamma\"></span>, for the research vessel.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the time interval between Event 1 and Event 2 as measured by an observer on the research vessel.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the spatial distance between Event 1 and Event 2 according to the observer on the research vessel.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the spacetime interval <span class=\"math\" data-latex=\"\\Delta s^2 = (c\\Delta t)^2 - (\\Delta x)^2\"></span> for both frames and explain the physical significance of this result.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

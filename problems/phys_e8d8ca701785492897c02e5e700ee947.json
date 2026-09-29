@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e8d8ca701785492897c02e5e700ee947",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The work-energy theorem states that the work done by the net force on an object is equal to the change in its kinetic energy (<span class=\"math\" data-latex=\"W_{\\mathrm{net}}\"></span> = ΔK). The problem defines W as the work done by the net force. The initial kinetic energy is K. Therefore, W = <span class=\"math\" data-latex=\"K_{\\mathrm{final}}\"></span> - K, which rearranges to <span class=\"math\" data-latex=\"K_{\\mathrm{final}}\"></span> = K + W. The information about the change in gravitational potential energy, U, is extraneous as the work done by gravity is already accounted for within the net work W.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car moves up a hill with initial kinetic energy K. W is the work done on the car by the net force in reaching the top of the hill. The change in gravitational potential energy of the car is U. What is the kinetic energy of the car at the top of the hill?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"K\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"K - U\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"K + W\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"K + W - U\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

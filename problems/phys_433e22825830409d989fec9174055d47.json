@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/51d545620c91acdd8d9536f7453010618caddd03e5c913bab3aeb9b319b4493b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "51d545620c91acdd8d9536f7453010618caddd03e5c913bab3aeb9b319b4493b"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_433e22825830409d989fec9174055d47",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and R are parallel wires carrying the same current into the plane of the paper. P and R are equidistant from a point Q. The line PQ is perpendicular to the line RQ.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The magnetic field due to P at Q is <span class=\"math\" data-latex=\"X\"></span>. What is the magnitude of the resultant magnetic field at Q due to both wires?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{X}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"X\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"X\\sqrt{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2X\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

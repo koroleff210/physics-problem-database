@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_b3d47182e2934888818afbe4c550a3c2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The grating spacing of a diffraction grating is 3 <span class=\"math\" data-latex=\"\\mu\"></span>m. When it is illuminated with a parallel beam of monochromatic light, the angle between the zero order and the third order is 30<span class=\"math\" data-latex=\"^{o}\"></span>. </p>\n<p>Given that sin(30<span class=\"math\" data-latex=\"^{o}\"></span>) = 0.5, what is the wavelength of the light?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">700 nm</li>\n<li data-label=\"B\">600 nm</li>\n<li data-label=\"C\">500 nm</li>\n<li data-label=\"D\">400 nm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

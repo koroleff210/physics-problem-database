@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_52572dd478644fda878273a5567651fb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car of mass <span class=\"math\" data-latex=\"m\"></span> is traveling along a horizontal road at constant speed. The total resistive force acting on the car is <span class=\"math\" data-latex=\"F\"></span> and the power of the car’s engine is <span class=\"math\" data-latex=\"P\"></span>. What is the speed of the car?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"mP\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"FP\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{P}{m}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{P}{F}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

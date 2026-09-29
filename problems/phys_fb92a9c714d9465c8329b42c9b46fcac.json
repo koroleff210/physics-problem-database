@@ -1,0 +1,65 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/55f29376da24fd4abbe90416be2d2836221692aeee6e922bb2dc6dc18acb5172.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "55f29376da24fd4abbe90416be2d2836221692aeee6e922bb2dc6dc18acb5172"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/77d8e7528136cda6b0a5fdb63d3376dd8e61ea584e241eb85cfa2ffe8dab9ed7.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "77d8e7528136cda6b0a5fdb63d3376dd8e61ea584e241eb85cfa2ffe8dab9ed7"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/a8ae067915255af87d58039a494a79a704b27453ea57d75efa8779d248b47cff.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a8ae067915255af87d58039a494a79a704b27453ea57d75efa8779d248b47cff"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/bfb9bf43268bb4012c061a6da22e87105886da589a2c095183e2e41c29686489.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "bfb9bf43268bb4012c061a6da22e87105886da589a2c095183e2e41c29686489"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fb92a9c714d9465c8329b42c9b46fcac",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>oscillation in antiphase ✓ smaller amplitude than P ✓<br/></p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>wavelength <span class=\"math\" data-latex=\"=\\frac{2}{3}\\times 0.80=0.53\"></span> «m» ✓ speed <span class=\"math\" data-latex=\"=\\frac{0.53}{2.8\\times 10^{-3}}=190\"></span> «m s<sup>−1</sup>» ✓   Allow ECF from incorrect wavelength.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>kg m s<sup>−2</sup> OR m<sup>2</sup> s<sup>−2</sup> seen ✓ kg m<sup>−1</sup> ✓   Award [2] for a BCA.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>speed increases hence frequency increases ✓ by factor <span class=\"math\" data-latex=\"\\sqrt{2}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>travelling waves transfer energy OR standing waves don’t ✓ amplitude of oscillation varies along a standing wave OR is constant along a travelling wave ✓ standing waves have nodes / antinodes OR travelling waves don’t ✓ points in an internodal region have same phase in standing waves OR different phase in travelling waves ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>ALTERNATIVE 1 critical angle <span class=\"math\" data-latex=\"=13 ^{∘}\"></span> «from <span class=\"math\" data-latex=\"sin \\theta_{c}=\\frac{340}{1500}\"></span>» ✓ the angle of incidence is greater than <span class=\"math\" data-latex=\"\\theta_{c}\"></span> hence the sound can’t enter water ✓   ALTERNATIVE 2 <span class=\"math\" data-latex=\"sin \\theta_{r}=\\frac{1500}{340}sin 30 ^{∘}\"></span> ✓ sine value greater than one hence the sound can’t enter water ✓   Conclusion must be justified, award [0] for BCA.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A string of length 0.80 m is fixed at both ends. The diagram shows a standing wave formed on the string. P and Q are two particles on the string.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The variation with time t of the displacement of particle P is shown.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>It is suggested that the speed c of waves in the string is related to the tension force T in the string according to the equation T = ac<sup>2</sup>, where a is a constant.</p>\n<p>The standing wave on the string creates a travelling sound wave in the surrounding air.</p>\n<p>The sound wave is incident on a surface of water. The wave makes an angle of 30° with the normal to the surface.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw, on the axes, a graph to show the variation with t of the displacement of particle Q. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the speed of waves on the string. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine the fundamental SI unit for a. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The tension force on the string is doubled. Describe the effect, if any, of this change on the frequency of the standing wave. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Outline one difference between a standing wave and a travelling wave. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>The speed of sound in air is 340 m s<sup>−1</sup> and in water it is 1500 m s<sup>−1</sup>.</p>\n<p>Discuss whether the sound wave can enter the water.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

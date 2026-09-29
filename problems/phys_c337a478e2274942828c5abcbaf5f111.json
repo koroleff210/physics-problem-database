@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/325e9b4767e965a237d1fcbfac82ee66db7a6798a27e560c1ed9249c0cf12b20.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "325e9b4767e965a237d1fcbfac82ee66db7a6798a27e560c1ed9249c0cf12b20"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/7c169a63b13302f2e4aaa68995d97c7f83a5d5035f0ebc1810cb9c4d994cff74.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7c169a63b13302f2e4aaa68995d97c7f83a5d5035f0ebc1810cb9c4d994cff74"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_c337a478e2274942828c5abcbaf5f111",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>energy is not propagated by standing waves ✓</p>\n<p>amplitude constant for travelling waves OR amplitude varies with position for standing waves OR standing waves have nodes/antinodes ✓</p>\n<p>phase varies with position for travelling waves OR phase constant inter-node for standing waves ✓</p>\n<p>travelling waves can have any wavelength OR standing waves have discrete wavelengths ✓</p>\n<p><br/>OWTTE</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«sound» wave «travels down tube and» is reflected ✓</p>\n<p>incident and reflected wave superpose/combine/interfere ✓</p>\n<p><br/>OWTTE</p>\n<p>Do not award MP1 if the reflection is quoted at the walls/container</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>nodes shown at water surface AND <span class=\"math\" data-latex=\"\\frac{2}{3}\"></span>way up tube (by eye) ✓ <br/>Accept drawing of displacement diagram for correct harmonic without nodes specifically identified. Award [0] if waveform is shown below the water surface</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p><span class=\"math\" data-latex=\"\\lambda=0.74 m\"></span> ✓ <span class=\"math\" data-latex=\"f=\\frac{c}{\\lambda}=\\frac{320}{0.74}= 430 Hz\"></span> ✓ <br/>Allow ECF from MP1</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A vertical tube, open at both ends, is completely immersed in a container of water. A loudspeaker above the container connected to a signal generator emits sound. As the tube is raised the loudness of the sound heard reaches a maximum because a standing wave has formed in the tube.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Describe two ways in which standing waves differ from travelling waves. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Outline how a standing wave forms in the tube. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>The tube is raised until the loudness of the sound reaches a maximum for a second time.</p>\n<p>Draw, on the following diagram, the position of the nodes in the tube when the second maximum is heard.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Between the first and second positions of maximum loudness, the tube is raised through 0.37 m. The speed of sound in the air in the tube is 320 m s<sup>−1</sup>. Determine the frequency of the sound emitted by the loudspeaker. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/98219825be3b014d423f437d4e4c1d9707dec7a609ffdb364e6aa33de9090c12.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98219825be3b014d423f437d4e4c1d9707dec7a609ffdb364e6aa33de9090c12"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_05424e1d73d24cb78ebd75579a4237aa",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical containers X and Y each contain an ideal gas. X has N molecules of gas at an absolute temperature of T and Y has 3N molecules of gas at an absolute temperature of <span class=\"math\" data-latex=\"\\frac{T}{2}\"></span> What is the ratio of the pressures <span class=\"math\" data-latex=\"\\frac{P_{Y}}{P_{X}}\"></span>?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{6}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"6\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

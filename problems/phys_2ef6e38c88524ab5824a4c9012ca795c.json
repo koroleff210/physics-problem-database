@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/978a07a36f0a7e1783a92a9196290e4d03b5d7333bc665ccade179e45094f6a6.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "978a07a36f0a7e1783a92a9196290e4d03b5d7333bc665ccade179e45094f6a6"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_2ef6e38c88524ab5824a4c9012ca795c",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The observer hears a higher frequency than the actual frequency emitted by the speaker [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- As the source moves toward the observer, the wavefronts are compressed [1 mark]<br/>- This means the wavelength becomes shorter, increasing the number of wavefronts reaching the observer per second, and the perceived frequency increases [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The observer would hear a lower frequency than the emitted one [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- A racing car moving past a stationary observer [1 mark]<br/>- Sounds higher-pitched as it approaches and lower-pitched as it moves away [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows a stationary observer while a loudspeaker moves toward them, emitting a constant sound. The observer hears a change in the pitch of the sound due to the relative motion of the source.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State what happens to the frequency of the sound as heard by the observer.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Outline why this change in frequency occurs.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest what would be heard if the source were moving away from the observer instead.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Describe one real-life situation in which this Doppler effect can be experienced.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

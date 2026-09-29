@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7fd36d32e3b76b4081d3dccdde35d637818262d5243fbabe5234c9f92cb99d2b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7fd36d32e3b76b4081d3dccdde35d637818262d5243fbabe5234c9f92cb99d2b"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_bca9c5aa429d45c5a5645922415d82ac",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between point charges <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span> is two metres. <span class=\"math\" data-latex=\"Q_{1}\"></span> has a charge of 4<em>q</em> and <span class=\"math\" data-latex=\"Q_{2}\"></span> has a charge of 9<em>q</em>. Point P is located between <span class=\"math\" data-latex=\"Q_{1}\"></span> and <span class=\"math\" data-latex=\"Q_{2}\"></span> at a distance <em>x </em>from <span class=\"math\" data-latex=\"Q_{1}\"></span>. The electric potential is a minimum at point P.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is x?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{5}\"></span> m</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5}{4}\"></span> m</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span> m</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span> m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

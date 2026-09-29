@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/39f576a510e50dc23b129887705966c56198215dfbcae3826edb34d350199d78.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "39f576a510e50dc23b129887705966c56198215dfbcae3826edb34d350199d78"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_a881350d18c3431e9d0fdd493084c927",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"Q=\\frac{VR}{k}=\\frac{3.4\\times 10^{5}\\times 0.48}{8.99\\times 10^{9}}\"></span></p>\n<p>OR</p>\n<p><span class=\"math\" data-latex=\"Q=18.2\"></span> «μC» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>electrons leave the small sphere «making it positively charged» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"k\\frac{q_{1}}{48}=k\\frac{q_{2}}{24}⇒q_{1}=2q_{2}\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"q_{1}+q_{2}=18\"></span> ✓</p>\n<p>so <span class=\"math\" data-latex=\"q_{1}=12\"></span> «μC», <span class=\"math\" data-latex=\"q_{2}=6.0\"></span> «μC» ✓</p>\n<p>Award [3] marks for a bald correct answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A conducting sphere has radius 48 cm. The electric potential on the surface of the sphere is 3.4 × 10<sup>5</sup> V.</p>\n<p>The sphere is connected by a long conducting wire to a second conducting sphere of radius 24 cm. The second sphere is initially uncharged.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the charge on the surface of the sphere is +18 μC. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Describe, in terms of electron flow, how the smaller sphere becomes charged. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Predict the charge on each sphere. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

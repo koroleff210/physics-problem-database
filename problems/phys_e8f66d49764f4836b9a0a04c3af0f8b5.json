@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_e8f66d49764f4836b9a0a04c3af0f8b5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charged particle moves at speed <span class=\"math\" data-latex=\"v\"></span> in a uniform magnetic field <span class=\"math\" data-latex=\"B\"></span>, entering at an angle <span class=\"math\" data-latex=\"\\theta\"></span> to the field direction. What is the shape of its trajectory?</p><ol class=\"mcq-options\"><li data-label=\"A\">Circle</li><li data-label=\"B\">Helix</li><li data-label=\"C\">Parabola</li><li data-label=\"D\">Spiral with decreasing radius</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

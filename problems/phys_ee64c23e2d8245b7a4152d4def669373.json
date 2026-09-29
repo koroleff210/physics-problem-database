@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ee64c23e2d8245b7a4152d4def669373",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following correctly describes entropy?</p><ol class=\"mcq-options\"><li data-label=\"A\">A measure of the internal energy of a gas</li><li data-label=\"B\">A measure of the disorder or randomness in a system</li><li data-label=\"C\">A measure of the total heat added to a system</li><li data-label=\"D\">A measure of pressure over time</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

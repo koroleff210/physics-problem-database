@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_18f5919e36c44f4bb5b81750ad570290",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A light source of power P is observed from a distance <span class=\"math\" data-latex=\"d\"></span>. The power of the source is then halved.</p>\n<p>At what distance from the source will the intensity be the same as before?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{d}{\\sqrt{2}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{d}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{d}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{d}{8}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

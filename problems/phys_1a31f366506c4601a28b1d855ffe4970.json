@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a14f244807503ef970bcac6ab92fbd49e7a9771beb41661158d76d6ead3255a8.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a14f244807503ef970bcac6ab92fbd49e7a9771beb41661158d76d6ead3255a8"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_1a31f366506c4601a28b1d855ffe4970",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A graph illustrating the radioactive decay of a specific isotope is shown below. The graph plots the fraction of nuclei remaining (<span class=\"math\" data-latex=\"N/N_{0}\"></span>) against the time elapsed in days.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the probability that a nucleus has decayed by day <span class=\"math\" data-latex=\"15\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.125\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.500\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.750\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.875\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

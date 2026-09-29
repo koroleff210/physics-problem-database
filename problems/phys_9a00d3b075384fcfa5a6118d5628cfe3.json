@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_9a00d3b075384fcfa5a6118d5628cfe3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Star X has a surface temperature <span class=\"math\" data-latex=\"T\"></span>, luminosity <span class=\"math\" data-latex=\"L\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>The luminosity of star Y is <span class=\"math\" data-latex=\"4L\"></span> and the surface temperature is <span class=\"math\" data-latex=\"2T\"></span>.</p>\n<p>What is the radius of star Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{R}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{R}{\\sqrt{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2R\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4R\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0a0d61e5753d89a2442c66a9cda6269ea59ab84e0ffa5f10211922f62718fe70.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0a0d61e5753d89a2442c66a9cda6269ea59ab84e0ffa5f10211922f62718fe70"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_05f2b60b266d46269415751dc2b53df0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>At the highest point of the vertical circle, the net force towards the center is the sum of the tension (T) and the weight (mg). This net force provides the centripetal force, so T + mg = mv^2/l. The string remains taut as long as T ≥ 0. The minimum speed occurs at the limit where T = 0, which simplifies the equation to mg = mv^2/l. Solving for v gives v = sqrt(gl).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A child ties a stone to a string of length l and swings it in a vertical circle. The stone has speed v at the highest point on the circle.</p>\n<p>What is the minimum possible value of v for the string to remain taut?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"\\sqrt{gl}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"\\sqrt{2gl}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"g/l^2\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"l^2/g\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f72ca9fa096adca8f65100e4bdb0b8f9671097d2c909395e3d2a41d00a6863f8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f72ca9fa096adca8f65100e4bdb0b8f9671097d2c909395e3d2a41d00a6863f8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/8cc87ac5c0c6379182d1502ff0f935ba836807637718b624eaaabf8adcefebd1.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8cc87ac5c0c6379182d1502ff0f935ba836807637718b624eaaabf8adcefebd1"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_fa8a5407c9c947e2bbdab20b059d2608",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass 2.0 kg rests on a rough surface. A person pushes the object in a straight line with a force of 10 N through a distance d.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The resultant force acting on the object throughout d is 6.0 N.</p>\n<p>What is the value of the sliding coefficient of friction <span class=\"math\" data-latex=\"\\mu\"></span> between the surface and the object and what is the acceleration a of the object?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_4c90a73feace44c6826f7303829158ec",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Photons of a certain frequency incident on a metal surface cause the emission of electrons from the surface. The intensity of the light is constant and the frequency of photons is increased. What is the effect, if any, on the number of emitted electrons and the energy of emitted electrons?</p>\n<p>| |Number of emitted electrons | Energy of emitted electrons |<br/>| :--:|:--- | :--- |<br/>| A. | no change | no change |<br/>| B. | decrease | increase |<br/>| C. | decrease | no change |<br/>| D. | no change | increase |</p><ol class=\"mcq-options\"><li data-label=\"A\">A</li><li data-label=\"B\">B</li><li data-label=\"C\">C</li><li data-label=\"D\">D</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

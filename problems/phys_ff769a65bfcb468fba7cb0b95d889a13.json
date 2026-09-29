@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d57c01fd9f90ee3f171238ac445f733732f7879269497b34283016af1efcdbd5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d57c01fd9f90ee3f171238ac445f733732f7879269497b34283016af1efcdbd5"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_ff769a65bfcb468fba7cb0b95d889a13",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary mass of 1 kg is pulled along a frictionless 3 m inclined plane by a constant force of 6 N. At the top of the plane the mass has been displaced 1 m vertically.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the mass at the top of the incline?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3 m s<sup>−1</sup></li><li data-label=\"B\">4 m s<sup>−1</sup></li><li data-label=\"C\">6 m s<sup>−1</sup></li><li data-label=\"D\">18 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

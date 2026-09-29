@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_51de5cf3fe9e4aa4aab94fe65c64beea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of Sphere <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"R\"></span> and its density is <span class=\"math\" data-latex=\"\\rho\"></span>. The radius of Sphere <span class=\"math\" data-latex=\"B\"></span> is <span class=\"math\" data-latex=\"\\frac{R}{3}\"></span> and its density is <span class=\"math\" data-latex=\"9\\rho\"></span>. The moment of inertia of Sphere <span class=\"math\" data-latex=\"B\"></span> is <span class=\"math\" data-latex=\"I\"></span>.</p>\n<p>What is the moment of inertia for Sphere <span class=\"math\" data-latex=\"A\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{I}{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"I\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"3I\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"27I\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

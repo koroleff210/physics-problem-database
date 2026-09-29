@@ -1,0 +1,75 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/26de4fbf6e6e9b4d6cfe04f679a5c4c5614c9229d5961b3b3105178beb12aaac.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "26de4fbf6e6e9b4d6cfe04f679a5c4c5614c9229d5961b3b3105178beb12aaac"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/539752b612f481c848047bc3a1b0c27ccdfc56fb5d9237388e16089b69061573.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "539752b612f481c848047bc3a1b0c27ccdfc56fb5d9237388e16089b69061573"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/edec498d6b7d0980676c23f166dd32e0f3fea43ce9239a745ad5c90981cdb8e5.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "edec498d6b7d0980676c23f166dd32e0f3fea43ce9239a745ad5c90981cdb8e5"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/3b129632bf2ccdb917e0bbe5f8434a524a72728ba3d0258347a3a681f65aae7a.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b129632bf2ccdb917e0bbe5f8434a524a72728ba3d0258347a3a681f65aae7a"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/6a9483f5d04c1485845b7a2e341654f6172a690d882333194191df0cd7c2b99b.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "6a9483f5d04c1485845b7a2e341654f6172a690d882333194191df0cd7c2b99b"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.3",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_b26e5866e30049429bb5b329b81ee566",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>ALTERNATIVE 1 One mole contains <span class=\"math\" data-latex=\"6.02\\times 10^{23}\"></span> atoms and has mass <span class=\"math\" data-latex=\"63.5 g\"></span> ✓ Mass of one atom is <span class=\"math\" data-latex=\"\\frac{63.5\\times 10^{-3}}{6.02\\times 10^{23}}=1.055\\times 10^{-25}≈1.1\\times 10^{-25} kg\"></span> ✓   ALTERNATIVE 2 The atom has mass 63.5 u ✓ I.e. 63.5 × 1.661 × 10<sup>–27</sup> = 1.055 × 10<sup>–25</sup> ≈ 1.1 × 10<sup>–25</sup> kg ✓ <br/>Award full marks for a CNA Accept similar calculation for a mass of 0.4 kg (n = 6.3)</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Volume of copper<span class=\"math\" data-latex=\"=\\frac{0.0635}{8940}\"></span>✓ <span class=\"math\" data-latex=\"V=\\frac{0.0635}{8940\\times 6.02\\times 10^{23}}=1.2\\times 10^{-29} m^{3}\"></span>✓ <br/>Award full marks for a CNA Accept similar calculation for a mass of 0.4 kg</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Side of cube <span class=\"math\" data-latex=\"a=\\sqrt[3]{1.180\\times 10^{-29}}=2.277\\times 10^{-10}≈2\\times 10^{-10} m\"></span> ✓ <br/>Allow ECF from aii) Award the mark for the CNA</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Q «= mL = 0.400 × 206 × 10<sup>3</sup>» = 82.4 kJ ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Internal energy is greater in the liquid phase ✓ in liquid the intermolecular potential energy  is greater / the separation is greater / energy has been added ✓ kinetic energy is unchanged / temperature is the same / internal energy is the sum of kinetic and potential energies ✓</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>wave «created by the hammer» is reflected  / two «identical» waves in opposite directions ✓ the right and left waves superpose / add up / interfere ✓ <br/>Accept reference to constructive and destructive interference in MP2</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Antinodes at both ends, a node in the middle ✓ <br/>Accept only one wave or wave and envelope, either solid or broken lines.</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>Opposite line i.e. phase difference of π ✓ Smaller amplitude ✓  <br/>Labelling not necessary MP2 only scores if MP1 scores</p>\n<p><figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>The standing wave is longitudinal / sand moves horizontally / sand is pushed / vibrates OR there are nodes and antinodes ✓<br/><br/> «sand moves» away from antinodes / to nodes ✓</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>ALTERNATIVE 1 Wavelength in air is 2d (= 3.6 cm) ✓ Frequency of wave in copper is the same as that in the air in the tube ✓ <span class=\"math\" data-latex=\"\\frac{v_{Cu}}{2L}=\\frac{v_{air}}{2d}\"></span>✓ <span class=\"math\" data-latex=\"v_{Cu}=\\frac{L}{d}\\times v_{air}=\\frac{34}{1.8}\\times 330=6.2\\times 10^{3} m s^{-1}\"></span> ✓   ALTERNATIVE 2 Wavelength in air is 2d (= 3.6 cm) ✓ <span class=\"math\" data-latex=\"f=\\frac{330}{3.6\\times 10^{-2}}=9.167\\times 10^{3} Hz\"></span>✓ <span class=\"math\" data-latex=\"\\lambda_{Cu}=68 cm\"></span> ✓ <span class=\"math\" data-latex=\"v_{Cu}=9167\\times 0.68=6.2\\times 10^{3} m s^{-1}\"></span> ✓<br/>Award [4] for a CNA Allow ECF from wrong wavelengths</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A copper rod has mass 0.400 kg. The density of solid copper is 8.94 × 10<sup>3</sup> kg m<sup>−3</sup>. The molar mass (the mass of a mole) of copper is 63.5 g mol<sup>−1</sup>.</p>\n<p>Estimate</p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> the mass of a copper atom; [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> the volume corresponding to each atom, given by <span class=\"math\" data-latex=\"\\frac{\\textit{volume of copper}}{\\textit{number of copper atoms}}\"></span>;<br/> <br/><br/> [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> the average separation of two neighbouring copper atoms, assuming that the volume corresponding to each atom is a cube. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The specific latent heat of fusion of copper is 206 kJ kg<sup>−1</sup>. Calculate the energy needed to completely melt 0.400 kg of solid copper at its melting point. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Copper atoms in the solid and liquid phase coexist at the melting point. Comparing equal numbers of atoms in the solid and liquid phase at the melting point, state and explain which atoms have the greater internal energy. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>A copper rod is suspended at its centre, as shown. P and Q are the equilibrium positions of two copper atoms in the rod. When a hammer taps the left-hand end of the rod, the first harmonic sound standing wave is formed in the rod. The longitudinal standing wave in this rod is identical to a standing wave in a pipe with both ends open.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Explain, by reference to the principle of superposition, why a standing wave is set up in the pipe. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> </p><p>Draw, on the diagram, the standing wave in the rod. The width of the rod is shown larger to help with your drawing.<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> </p><p>The graph shows the variation with time of the displacement of the atom at P. Draw, on the same axes, the variation with time of the displacement of the atom at Q.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The copper rod is brought close to a glass tube that contains light sand. When the left-hand end of the rod is tapped with a hammer and the length of the tube is adjusted by moving the piston, a standing wave is established in the tube. Sand collects in piles as shown. The distance between the centres of two consecutive piles of sand is d.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> Outline why the sand collects in piles. [2]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> </p><p>The following data are available:<br/><br/></p>\n<p>d = 1.8 cm</p>\n<p>speed of sound in air = 330 m s<sup>−1</sup></p>\n<p>length of copper rod = 34 cm<br/><br/></p>\n<p>Determine the speed of sound in copper.</p><p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

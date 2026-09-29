@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_7d732228c9434faeb04289fe05c4847b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a pure sample of radioactive nuclide X is <span class=\"math\" data-latex=\"0.090\"></span> kg. The half-life of the nuclide is <span class=\"math\" data-latex=\"30\"></span> s and the initial activity of the sample is <span class=\"math\" data-latex=\"6000\"></span> Bq. The mass of a pure sample of the same nuclide is <span class=\"math\" data-latex=\"0.030\"></span> kg. What are the initial activity and the half-life of this sample?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Initial activity</strong></p>\n</td>\n<td>\n<p><strong>Half-life</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"2000\"></span> Bq</td>\n<td><span class=\"math\" data-latex=\"10\"></span> s</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"2000\"></span> Bq</td>\n<td><span class=\"math\" data-latex=\"30\"></span> s</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"6000\"></span> Bq</td>\n<td><span class=\"math\" data-latex=\"10\"></span> s</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"6000\"></span> Bq</td>\n<td><span class=\"math\" data-latex=\"30\"></span> s</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

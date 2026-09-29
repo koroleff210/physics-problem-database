@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f926b79330ca49d39796748e5f0d18c7",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Use of E<sub>max</sub> = <span class=\"math\" data-latex=\"\\frac{hc}{\\lambda}-ϕ⇒ϕ=\\frac{hc}{\\lambda}-\"></span> E<sub>max </sub>✓ <span class=\"math\" data-latex=\"ϕ=\"></span>«<span class=\"math\" data-latex=\"\\frac{hc}{\\lambda}\"></span> − E<sub>max</sub> = <span class=\"math\" data-latex=\"\\frac{6.63\\times 10^{-34}3\\times 10^{8}}{468\\times 10^{-9}1.6\\times 10^{-19}}\"></span> − 1.81» = 0.85625 <span class=\"math\" data-latex=\"≈\"></span> 0.86 «eV» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{hc}{\\lambda}=ϕ⇒\\lambda=\\frac{hc}{ϕ}\"></span> ✓ <span class=\"math\" data-latex=\"\\lambda=\"></span>«<span class=\"math\" data-latex=\"\\frac{6.63\\times 10^{-34}3\\times 10^{8}}{468\\times 10^{-9}1.6\\times 10^{-19}}\"></span> =» 1.45 × 10<sup>−6</sup> «m»✓ Allow ECF from a(i)</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>2e AND 82e seen OR 3.2 × 10<sup>−19</sup> «C» AND 1.312 × 10<sup>−17</sup> «C» seen ✓ d = <span class=\"math\" data-latex=\"\\frac{8.99\\times 10^{9}\\times 2e82e}{5.9\\times 10^{6}\\times e}\"></span> = 3.998 × 10<sup>−14</sup> ≈ 4 × 10<sup>−14</sup> «m» ✓ Must see either clear substitutions or answer to at least 4 s.f. for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>The closest approach is «significantly» larger than the radius of the nucleus / far away from the nucleus/OWTTE. ✓ «Therefore» the strong nuclear force will not act on the alpha particle.✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Photons of wavelength 468 nm are incident on a metallic surface. The maximum kinetic energy of the emitted electrons is 1.8 eV.</p>\n<p>Calculate</p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> the work function of the surface, in eV. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> the longest wavelength of a photon that will eject an electron from this surface. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> In an experiment, alpha particles of initial kinetic energy 5.9 MeV are directed at stationary nuclei of lead (<span class=\"math\" data-latex=\"_{ }^{ }\"></span>). Show that the distance of closest approach is about 4 × 10<sup>−14</sup> m. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The radius of a nucleus of <span class=\"math\" data-latex=\"_{ }^{ }\"></span> is 7.1 × 10<sup>−15 </sup>m. Explain why there will be no deviations from Rutherford scattering in the experiment in (b)(i). [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

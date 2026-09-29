@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a389ec6ccb43dc7c668059495ee087bde11bf342829533e744933c44c75b0c39.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a389ec6ccb43dc7c668059495ee087bde11bf342829533e744933c44c75b0c39"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/b534b8c847cae4df60f41a7d4429752330a9e02d020deda148800720c2435669.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b534b8c847cae4df60f41a7d4429752330a9e02d020deda148800720c2435669"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/4dae1b4f6ba5bee95e3ad65b90de0e53c02b28612b1baf56ae6148f4c0bfa3fd.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4dae1b4f6ba5bee95e3ad65b90de0e53c02b28612b1baf56ae6148f4c0bfa3fd"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/d62a6ef265a8d2f6350543c105446610774e5d904b54ccf2167b5eaba87a14b4.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d62a6ef265a8d2f6350543c105446610774e5d904b54ccf2167b5eaba87a14b4"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_277c6ecf74da4ba48b1a03cba74677c8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which graph best represents the relationship between the peak wavelength <span class=\"math\" data-latex=\"\\lambda_p\"></span> of radiation emitted by a black body and its absolute temperature <span class=\"math\" data-latex=\"T\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

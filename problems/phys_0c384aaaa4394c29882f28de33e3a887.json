@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_0c384aaaa4394c29882f28de33e3a887",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A vibrating string is fixed at both ends. The frequency of the second harmonic of a stationary wave generated on the string is 240 Hz.</p>\n<p>What is the frequency of the fifth harmonic? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">96 Hz</li><li data-label=\"B\">360 Hz</li><li data-label=\"C\">600 Hz</li><li data-label=\"D\">1200 Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

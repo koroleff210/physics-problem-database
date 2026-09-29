@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/edbe2ef6f3e0232c73964339ab16bac01f12fcca9627a922c921616c2cf6bf0d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "edbe2ef6f3e0232c73964339ab16bac01f12fcca9627a922c921616c2cf6bf0d"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_fc27890c1f9f4783ae7380676ea1682c",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car accelerates uniformly. The car passes point X at time t<sub>1</sub> with velocity v<sub>1</sub> and point Y at time t<sub>2</sub> with velocity v<sub>2</sub>. The distance XY is s.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The following expressions are proposed for the magnitude of its acceleration a:</p>\n<p>I.    <span class=\"math\" data-latex=\"a=\\frac{2s}{t_{2}-t_{1}^{2}}\"></span></p>\n<p>II.   <span class=\"math\" data-latex=\"a=\\frac{v_{2}^{2}-v_{1}^{2}}{2s}\"></span></p>\n<p>III.  <span class=\"math\" data-latex=\"a=\\frac{v_{2}-v_{1}}{t_{2}-t_{1}}\"></span></p>\n<p>Which is correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

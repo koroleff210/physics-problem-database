@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fdb72040926cf618c853e20073e55cdb6db67a4c2d7c754a10ad9b0996974fa9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fdb72040926cf618c853e20073e55cdb6db67a4c2d7c754a10ad9b0996974fa9"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba89fba2837346ad869d792ac04623d7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The magnetic force per unit length between two long parallel wires is proportional to the product of their currents (F/L ∝ I₁I₂). By Newton's third law, the forces on the two wires are equal in magnitude. When the current in wire Y (<span class=\"math\" data-latex=\"I_{Y}\"></span>) is increased while the current in wire X (<span class=\"math\" data-latex=\"I_{X}\"></span>) is constant, the product <span class=\"math\" data-latex=\"I_{X}\"></span> * <span class=\"math\" data-latex=\"I_{Y}\"></span> increases. Consequently, the magnitude of the force on both wire X and wire Y increases.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The same current is established in two long parallel wires, X and Y, as shown.</p>\n<p>The current in Y is increased. What happens to the magnetic force acting on each wire?</p>\n<table><thead><tr><th>Option</th><th>Force acting on X</th><th>Force acting on Y</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Remains the same</td><td>Remains the same</td></tr><tr data-label=\"B\"><td>B</td><td>Remains the same</td><td>Increases</td></tr><tr data-label=\"C\"><td>C</td><td>Increases</td><td>Remains the same</td></tr><tr data-label=\"D\"><td>D</td><td>Increases</td><td>Increases</td></tr></tbody></table>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

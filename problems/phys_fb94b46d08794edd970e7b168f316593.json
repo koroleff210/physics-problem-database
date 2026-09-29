@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_fb94b46d08794edd970e7b168f316593",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A boat is pulled across a lake by two horizontal ropes. One rope exerts a force of <span class=\"math\" data-latex=\"60\\text{ N}\"></span> toward the North and the other exerts a force of <span class=\"math\" data-latex=\"80\\text{ N}\"></span> toward the East. If the boat maintains a constant velocity, what is the magnitude of the total resistive force acting on the boat?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"20\\text{ N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"100\\text{ N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"140\\text{ N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4800\\text{ N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

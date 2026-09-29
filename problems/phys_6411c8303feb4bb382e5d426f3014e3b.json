@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c22298cd5e95f575b7d218bf2f1984ec27560658d01de6959b7e8b0fe5f0d57a.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c22298cd5e95f575b7d218bf2f1984ec27560658d01de6959b7e8b0fe5f0d57a"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_6411c8303feb4bb382e5d426f3014e3b",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- On block: tension (up) and weight <span class=\"math\" data-latex=\"Mg\"></span> (down) [1 mark]</p>\n<p>- On pulley: tension (down), weight <span class=\"math\" data-latex=\"mg\"></span> (down) and axle reaction force (up) [1 mark]</p>\n<p>Note: Accept any clearly labeled force arrows. Points of application must be reasonably correct.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><strong>ALTERNATIVE 1</strong><br/>- State translational equation for block: <span class=\"math\" data-latex=\"Mg - T = Ma\"></span> [1 mark]</p>\n<p>- State rotational equation for pulley: <span class=\"math\" data-latex=\"\\tau = TR\"></span> and <span class=\"math\" data-latex=\"\\tau = I\\alpha = \\frac{1}{2}mR^2\\alpha\"></span> [1 mark]</p>\n<p>- Use no-slip relationship: <span class=\"math\" data-latex=\"\\alpha = \\frac{a}{R}\"></span> to get <span class=\"math\" data-latex=\"T = \\frac{1}{2}ma\"></span> [1 mark]</p>\n<p>- Substitute and solve for acceleration: <span class=\"math\" data-latex=\"Mg - \\frac{1}{2}ma = Ma \\Rightarrow Mg = a(M + \\frac{m}{2}) \\Rightarrow a = \\frac{2Mg}{2M + m}\"></span> [1 mark]</p>\n<p><strong>ALTERNATIVE 2</strong><br/>- Use energy conservation: <span class=\"math\" data-latex=\"Mgh = \\frac{1}{2}Mv^2 + \\frac{1}{2}I\\omega^2\"></span> [1 mark]</p>\n<p>- Substitute <span class=\"math\" data-latex=\"v = \\omega R\"></span> and <span class=\"math\" data-latex=\"I = \\frac{1}{2}mR^2\"></span>: <span class=\"math\" data-latex=\"Mgh = \\frac{1}{2}Mv^2 + \\frac{1}{4}mv^2\"></span> [1 mark]</p>\n<p>- Differentiate with respect to time OR use <span class=\"math\" data-latex=\"v^2 = 2as\"></span>: <span class=\"math\" data-latex=\"Mgv = Mva + \\frac{1}{2}mva\"></span> [1 mark]</p>\n<p>- Reach final expression: <span class=\"math\" data-latex=\"a = \\frac{Mg}{M + m/2} = \\frac{2Mg}{2M + m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate linear acceleration: <span class=\"math\" data-latex=\"a = \\frac{2(3.2)(9.81)}{2(3.2) + 1.6} = 7.85\"></span> «m s<span class=\"math\" data-latex=\"^{-2}\"></span>» [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Identify relation for tension: <span class=\"math\" data-latex=\"T = \\frac{1}{2}ma\"></span> OR <span class=\"math\" data-latex=\"T = M(g - a)\"></span> [1 mark]</p>\n<p>- Substitute acceleration expression: <span class=\"math\" data-latex=\"T = \\frac{1}{2}m \\left( \\frac{2Mg}{2M + m} \\right) = \\frac{Mmg}{2M + m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Use kinematic equation: <span class=\"math\" data-latex=\"v^2 = 2ah\"></span> [1 mark]</p>\n<p>- Substitute expression for <span class=\"math\" data-latex=\"a\"></span>: <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{4Mgh}{2M + m}}\"></span> [1 mark]</p>\n<p>- Relate linear and angular velocity: <span class=\"math\" data-latex=\"\\omega = \\frac{v}{R}\"></span> to reach shown result [1 mark]</p>\n<p><strong>OR</strong></p>\n<p>- Use energy: <span class=\"math\" data-latex=\"Mgh = \\frac{1}{2}M(\\omega R)^2 + \\frac{1}{2}(\\frac{1}{2}mR^2)\\omega^2\"></span> [1 mark]</p>\n<p>- Factorize: <span class=\"math\" data-latex=\"Mgh = \\omega^2 R^2 \\left( \\frac{1}{2}M + \\frac{1}{4}m \\right) = \\omega^2 R^2 \\frac{2M + m}{4}\"></span> [1 mark]</p>\n<p>- Rearrange for <span class=\"math\" data-latex=\"\\omega\"></span>: <span class=\"math\" data-latex=\"\\omega = \\sqrt{\\frac{4Mgh}{R^2(2M+m)}}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A solid cylindrical pulley of mass <span class=\"math\" data-latex=\"m\"></span>, radius <span class=\"math\" data-latex=\"R\"></span> and moment of inertia <span class=\"math\" data-latex=\"\\frac{1}{2}mR^2\"></span> is free to rotate about a horizontal frictionless axle. A light, inextensible string is wrapped around the pulley and attached to a block of mass <span class=\"math\" data-latex=\"M\"></span> that hangs vertically. The block is released from rest, causing the pulley to rotate and the block to accelerate downwards.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>On the diagram, draw and label the forces acting on the falling block <span class=\"math\" data-latex=\"M\"></span> and the pulley.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Show that the linear acceleration <span class=\"math\" data-latex=\"a\"></span> of the falling block is given by the equation:</p>\n<p><span class=\"math\" data-latex=\"a = \\frac{2Mg}{2M + m}\"></span></p><p>[4]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the linear acceleration of the block when <span class=\"math\" data-latex=\"M = 3.2 \\text{ kg}\"></span> and <span class=\"math\" data-latex=\"m = 1.6 \\text{ kg}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Determine an expression for the tension <span class=\"math\" data-latex=\"T\"></span> in the string in terms of <span class=\"math\" data-latex=\"M, m\"></span> and <span class=\"math\" data-latex=\"g\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The block is released from rest. After falling a vertical distance <span class=\"math\" data-latex=\"h\"></span>, the pulley has an angular velocity <span class=\"math\" data-latex=\"\\omega\"></span>. Show that the angular velocity is given by:</p>\n<p><span class=\"math\" data-latex=\"\\omega = \\frac{1}{R} \\sqrt{\\frac{4Mgh}{2M + m}}\"></span></p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b2068f174fad45faaa2365fd51a926f1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sample of a pure radioactive nuclide initially contains <span class=\"math\" data-latex=\"N_{0}\"></span> atoms. The initial activity of the sample is <span class=\"math\" data-latex=\"A_{0}\"></span>.</p>\n<p>A second sample of the same nuclide initially contains <span class=\"math\" data-latex=\"2N_{0}\"></span> atoms.</p>\n<p>What is the activity of the second sample after three half lives?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{A_{0}}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{A_{0}}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{A_{0}}{6}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{A_{0}}{8}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

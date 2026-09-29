@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5941916aa22bd5e873f9d5435911f823058d00641528d13aaf63714cfb171f9b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5941916aa22bd5e873f9d5435911f823058d00641528d13aaf63714cfb171f9b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/8f3cd4dc39068765fe9606a93c248df89267fe0221fa87959dd5daaba863ad2e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8f3cd4dc39068765fe9606a93c248df89267fe0221fa87959dd5daaba863ad2e"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b0d7cab3dd0644e5b9b7d2da18f3b302",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>600 «counts per hr» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 Subtract their background rate to 3000 to get the initial count rate e.g. initial count rate 2400 counts per h ✓ Attempt to read t for <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>, <span class=\"math\" data-latex=\"\\frac{1}{4}\"></span> or <span class=\"math\" data-latex=\"\\frac{1}{8}\"></span> this initial count rate plus their background rate ✓ Half-life is 10 h ✓   ALTERNATIVE 2 Use of decay equation with A<sub>0</sub> = 3000 (their ai) and one point correctly read from graph ✓ calculate decay constant ✓ Use half life =<span class=\"math\" data-latex=\"\\frac{\\textit{ln 2}}{\\lambda}\"></span> to get <span class=\"math\" data-latex=\"T_{\\frac{1}{2}}\"></span> =10 h ✓ <br/>Allow ECF from ai) Allow ECF from MP1, i.e.max [2] for answer of about 14 h if background rate not used Accept 9 to 11 hours for MP3</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>The BE «per nucleon» is greater for <sup>204</sup><sub>82</sub>Pb ✓ Because <sup>204</sup><sub>82</sub>Pb is more stable/tightly bound than <sup>204</sup><sub>83</sub>Bi ✓ <br/>Award [1] if they recognize Pb as more stable but conclude incorrectly.</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>The alpha particles would be absorbed / have low penetration / short range ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Δm = 203.932254 – (203.928034 + 0.000549) = 3.671 × 10<sup>–3</sup> u ✓ Q = 3.671 × 10<sup>–3</sup> × 931.5 ≈ 3.42 MeV ✓ <br/>Allow ECF from MP1 Award [1] if electron mass is neglected and Q = 3.93 MeV or 6.30 × 10<sup>–13</sup> J Award [2] for a CNA Accept final answer in J (5.48 × 10<sup>–13</sup>)</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A pure radioactive sample of bismuth-204 <sup>204</sup><sub>83</sub>Bi is placed near a detector, which is connected to a counter.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>Bismuth-204 decays into lead <sup>204</sup><sub>82</sub>Pb by beta-plus decay according to the equation <sup>204</sup><sub>83</sub>Bi→<sup>204</sup><sub>82</sub>Pb+e<sup>+</sup>+ν. The graph shows the variation with time t of the count rate R.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the background count rate. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate the half-life of <sup>204</sup><sub>83</sub>Bi. [3]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> State and explain how the binding energy per nucleon of <sup>204</sup><sub>82</sub>Pb compares with that of <sup>204</sup><sub>83</sub>Bi. [2]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> The distance between the sample and the detector is 20 cm. State why this would be an inappropriate distance for a sample that decayed by alpha decay. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The following data are available for nuclear masses:</p>\n<p>bismuth = 203.932254 u</p>\n<p>lead = 203.928034 u</p>\n<p>Calculate the energy released in the decay of one nucleus of bismuth-204.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

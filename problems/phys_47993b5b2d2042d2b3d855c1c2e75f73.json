@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3804afb410acf4fc81c9914067ddc3a530d0c869e5e33687409233312ca2922d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3804afb410acf4fc81c9914067ddc3a530d0c869e5e33687409233312ca2922d"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_47993b5b2d2042d2b3d855c1c2e75f73",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thermodynamic cycle consisting of an adiabatic, isovolumetric and isothermal processes is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following correctly identifies the processes of the cycle?</p>\n<table><tbody><tr><td></td><td><p>Adiabatic</p></td><td><p>Isovolumetric</p></td><td><p>Isothermal</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>X→Y</p></td><td><p>Y→Z</p></td><td><p>Z→X</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>Z→X</p></td><td><p>X→Y</p></td><td><p>Y→Z</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>Z→X</p></td><td><p>Y→Z</p></td><td><p>X→Y</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>Y→Z</p></td><td><p>Z→X</p></td><td><p>X→Y</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

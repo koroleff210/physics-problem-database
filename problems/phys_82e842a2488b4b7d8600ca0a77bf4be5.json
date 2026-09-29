@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/708818d6df456b4584f5b563bac7ec921a3b265e425d778a9e82188148c5dab8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "708818d6df456b4584f5b563bac7ec921a3b265e425d778a9e82188148c5dab8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/7181355b2acbb523cb626f9e7abf1245664ff346301b3df86bd96fa43bf12c6c.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7181355b2acbb523cb626f9e7abf1245664ff346301b3df86bd96fa43bf12c6c"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_82e842a2488b4b7d8600ca0a77bf4be5",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rectangular coil of wire RSTU is connected to a battery and placed in a magnetic field Z directed to the right. Both the plane of the coil and the magnetic field direction are in the same plane.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is true about the magnetic force acting on the sides RS and ST?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e7046a4c459f40a4b4beb596c60589c8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary loudspeaker emits sound waves of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> and frequency <span class=\"math\" data-latex=\"f\"></span>. A person on a bicycle is moving away from the loudspeaker. </p>\n<p>What is true about the wavelength and the frequency of the sound wave as detected by the person?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td><strong>Detected wavelength</strong></td>\n<td><strong>Detected frequency</strong></td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Greater than <span class=\"math\" data-latex=\"\\lambda\"></span></td>\n<td>Lower than <span class=\"math\" data-latex=\"f\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Same as <span class=\"math\" data-latex=\"\\lambda\"></span></td>\n<td>Lower than <span class=\"math\" data-latex=\"f\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Greater than <span class=\"math\" data-latex=\"\\lambda\"></span></td>\n<td>Same as <span class=\"math\" data-latex=\"f\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Same as <span class=\"math\" data-latex=\"\\lambda\"></span></td>\n<td>Same as <span class=\"math\" data-latex=\"f\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f5ab42601c4c52877e2349c750a72a3212857cf517aa943eadf6ba6fc8ae5df8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f5ab42601c4c52877e2349c750a72a3212857cf517aa943eadf6ba6fc8ae5df8"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/c6dd5ca115641e17aa2eea225a83a413daf303b5bd66237f3fec12cc74e30a36.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c6dd5ca115641e17aa2eea225a83a413daf303b5bd66237f3fec12cc74e30a36"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_d1e460da42d14977b8a73ed626848fee",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a\"><p><strong>13a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"13b\"><p><strong>13b</strong></p><p></p>\n<p>The work done per unit charge when moving a positive test charge from infinity to the point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(i)\"><p><strong>13c(i)</strong></p><p></p>\n<p>The work done by the field on the particle is equal to the kinetic energy of the particle.</p>\n<p>Using <span class=\"math\" data-latex=\"W = q\\Delta V_{e}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"116 \\times 10^{-9} = (-13.8 \\times 10^{-9})(V_{Y} - (-5.30))\"></span></p>\n<p><span class=\"math\" data-latex=\"V_{Y} \\approx 3.11\"></span> V</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(ii)\"><p><strong>13c(ii)</strong></p><p></p>\n<p>Calculating the magnitude of the electric force on the particle:</p>\n<p><span class=\"math\" data-latex=\"F = Eq = (124)(13.8 \\times 10^{-9}) \\approx 1.711 \\times 10^{-6}\"></span> N</p>\n<p>Using <span class=\"math\" data-latex=\"W = Fs\"></span></p>\n<p><span class=\"math\" data-latex=\"116 \\times 10^{-9} = (1.711 \\times 10^{-6})s\"></span></p>\n<p><span class=\"math\" data-latex=\"s \\approx 0.0678\"></span> m or <span class=\"math\" data-latex=\"6.78\"></span> cm</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A particle of charge of <span class=\"math\" data-latex=\"-13.8\"></span> nC is placed at point P.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. On the diagram, draw the electric field lines and the electric equipotentials due to the charge on the particle.</p>\n<p>   [2]</p>\n<p>b. Outline what is meant by electric potential at a point.</p>\n<p>   [2]</p>\n<p>The particle is placed at point X inside a uniform electric field of strength <span class=\"math\" data-latex=\"124\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span>. When released, the particle moves to point Y. The kinetic energy of the particle at point Y is <span class=\"math\" data-latex=\"116\"></span> nJ. The electric potential at X is <span class=\"math\" data-latex=\"-5.30\"></span> V.</p>\n<p>c. Calculate the:</p>\n<p>i. electric potential at Y.</p>\n<p>ii . distance between X and Y.</p>\n<p>   [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

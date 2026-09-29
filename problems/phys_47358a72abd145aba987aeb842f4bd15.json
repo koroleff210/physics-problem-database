@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_47358a72abd145aba987aeb842f4bd15",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Why do greenhouse gases absorb infrared radiation more effectively than diatomic gases like N₂ and O₂?</p><ol class=\"mcq-options\"><li data-label=\"A\">They are heavier</li><li data-label=\"B\">They have molecular bonds that vibrate at infrared frequencies</li><li data-label=\"C\">They reflect infrared radiation</li><li data-label=\"D\">They are more abundant in the atmosphere</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

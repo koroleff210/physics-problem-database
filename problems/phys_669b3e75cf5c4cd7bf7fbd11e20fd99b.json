@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d49e16d140bce8adf106f11bba91de0738d7509a8b9f72cae68dc1f1d1aa7a91.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d49e16d140bce8adf106f11bba91de0738d7509a8b9f72cae68dc1f1d1aa7a91"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_669b3e75cf5c4cd7bf7fbd11e20fd99b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Currents flow in two wires <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span> as shown in the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which combination gives the correct field direction at <span class=\"math\" data-latex=\"B\"></span> and the force on <span class=\"math\" data-latex=\"B\"></span>, due to the current in <span class=\"math\" data-latex=\"A\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">into plane of paper, towards <span class=\"math\" data-latex=\"A\"></span></li><li data-label=\"B\">out of plane of paper, towards <span class=\"math\" data-latex=\"A\"></span></li><li data-label=\"C\">into plane of paper, away from <span class=\"math\" data-latex=\"A\"></span></li><li data-label=\"D\">out of plane of paper, away from <span class=\"math\" data-latex=\"A\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

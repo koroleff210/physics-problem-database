@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2",
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_8716d43b90cf41e2b08a3b171b1f6dcd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The intensity of electromagnetic radiation incident on a surface is <span class=\"math\" data-latex=\"I\"></span>. The wavelength of the radiation is doubled and the number of photons incident per unit time per unit area is doubled.</p>\n<p>What is the new intensity of radiation incident on the surface?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"I\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2I\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4I\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

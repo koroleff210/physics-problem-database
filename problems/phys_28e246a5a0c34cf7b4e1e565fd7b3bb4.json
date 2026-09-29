@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_28e246a5a0c34cf7b4e1e565fd7b3bb4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Under what temperature and density conditions does fusion take place in stars?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Temperature</strong></p>\n</td>\n<td>\n<p><strong>Density</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Low</p>\n</td>\n<td>\n<p>Low</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Low</p>\n</td>\n<td>\n<p>High</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>High</p>\n</td>\n<td>\n<p>Low</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>High</p>\n</td>\n<td>\n<p>High</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

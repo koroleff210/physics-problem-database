@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a53320f6590a0f44bf024eb071fde5bc1c391b664f588a6eeae5239762c167c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a53320f6590a0f44bf024eb071fde5bc1c391b664f588a6eeae5239762c167c5"
+    }
+  ],
+  "classes": [
+    "D.1",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_5646b306b16f40a3acd141419059ef11",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"16a\"><p><strong>16a</strong></p><p></p>\n<p>The particle will accelerate to the right, because when a mass is released in a gravitational field it moves from a higher to a lower potential.</p>\n<p>Since the particle is accelerating, the speed of the particle increases.</p>\n<p>The acceleration of the particle decreases, because the increasing distance between the equipotential surfaces shows us that gravitational field strength decreases as we move to the right.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16b\"><p><strong>16b</strong></p><p></p>\n<p>The kinetic energy of the particle is equal to the work done by the field on the particle.</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}mv^{2} = m \\Delta V_{g}\"></span></p>\n<p><span class=\"math\" data-latex=\"v = \\sqrt{2(20 \\times 10^{6})} \\approx 6.3 \\times 10^{3}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows five gravitational equipotential surfaces.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Particle Q is held on the zero potential line.</p>\n<p>a. Explain the motion of the particle when it is released. </p>\n<p>   [4]</p>\n<p>b. Determine the speed of the particle the moment when it reaches the equipotential surface where the magnitude of the gravitational potential is <span class=\"math\" data-latex=\"20\"></span> MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

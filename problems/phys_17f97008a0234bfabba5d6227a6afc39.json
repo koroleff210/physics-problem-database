@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/40fa929c4e463e018ef1ca9f7188bf939d93120106f00d6b53b167258bbcfdf2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "40fa929c4e463e018ef1ca9f7188bf939d93120106f00d6b53b167258bbcfdf2"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/eedaf736d417c275f7a61289fa2c882e15b53aeef18a5e0c3a3285417cde69fd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eedaf736d417c275f7a61289fa2c882e15b53aeef18a5e0c3a3285417cde69fd"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/cd0d17d35c4c89098874e69d3aa237521b1f48d39bd1e90367881c1d7d4a70bb.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cd0d17d35c4c89098874e69d3aa237521b1f48d39bd1e90367881c1d7d4a70bb"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/42af153c5130750dce631dc86bb93c9c326ffaefbbd5ed7bd8822a0e18a9b41c.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "42af153c5130750dce631dc86bb93c9c326ffaefbbd5ed7bd8822a0e18a9b41c"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_17f97008a0234bfabba5d6227a6afc39",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Conservation of «electric» charge ✔</p>\n<p>Do not accept ‘Kirchoff’s law’ as the sole answer.<br/>If conservation of charge and Kirchoff’s<br/>Law are stated award [1].<br/>If conservation of charge is listed along with other fundamental laws e.g. conservation of energy, award [0].</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>ALTERNATE 1<br/>Identification that the p.d across r is 0.300 V OR current in external R is <span class=\"math\" data-latex=\"\\frac{1.20}{5.00}\"></span>= 0.240 «A» ✔</p>\n<p>« <span class=\"math\" data-latex=\"V\"></span> = <span class=\"math\" data-latex=\"E\"></span> − <span class=\"math\" data-latex=\"Ir\"></span> ⇒ <span class=\"math\" data-latex=\"r\"></span> = <span class=\"math\" data-latex=\"\\frac{\\textit{E - V}}{I}\"></span> = <span class=\"math\" data-latex=\"\\frac{0.300}{0.240}\"></span> »= 1.25 «Ω» ✔   ALTERNATE 2</p>\n<p>Current is <span class=\"math\" data-latex=\"I\"></span> = <span class=\"math\" data-latex=\"\\frac{E}{\\textit{R +r}}\"></span> and so <span class=\"math\" data-latex=\"V\"></span> = <span class=\"math\" data-latex=\"E\"></span> <span class=\"math\" data-latex=\"-\\frac{Er}{\\textit{R +r}}\"></span> ✔</p>\n<p><span class=\"math\" data-latex=\"r\"></span> = 1.25 «Ω» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>V decreases ✔ Current increases, so pd across r increases ✔</p>\n<p>Do not award marks from a calculation.<br/>These points must be stated.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Vertically down arrow from the proton ✔</p>\n<p>If more than one arrow is included the velocity must be clearly labelled.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"evB=\\frac{m_{p}v^{2}}{R}\"></span> ✔ <span class=\"math\" data-latex=\"f = \\frac{1}{T} = \\frac{v}{2 π R}\"></span> ✔</p>\n<p>Algebra leading to required expression «<span class=\"math\" data-latex=\"= \\frac{e B}{2 π {m}_{p}}\"></span>»  ✔   Both q and e are acceptable for the charge.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The diagram shows a junction in a circuit.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The currents in the three wires are related by I<sub>1</sub> = I<sub>2</sub> + I<sub>3</sub>.</p>\n<p>State the fundamental law of Physics from which this relation is derived.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A cell of emf 1.50 V and internal resistance r is connected to a resistor of resistance 5.00 Ω and an ideal voltmeter V.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The reading of the voltmeter is 1.20 V.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine the internal resistance r of the cell. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>A second 5.00 Ω resistor is connected in parallel to the first resistor.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>State and explain the change, if any, in the voltmeter reading without further calculation.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A proton moves on a circular path in a region of uniform magnetic field of magnetic flux density B that is directed into the plane of the page.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> On the diagram, draw an arrow to indicate the velocity of the proton at the position shown. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Show that the frequency of revolution of the proton is given by <span class=\"math\" data-latex=\"f = \\frac{e B}{2 π {m}_{p}}\"></span>. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

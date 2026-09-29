@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 8,
+  "id": "phys_17e3b96271d24668b4fc27aa75600fb6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere in space absorbs radiation with intensity <span class=\"math\" data-latex=\"I\"></span> and emits as a black body. If the radius of the sphere is doubled, but the intensity and temperature remain the same, what happens to the net power output?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is halved</li><li data-label=\"B\">It stays the same</li><li data-label=\"C\">It increases by a factor of 2</li><li data-label=\"D\">It increases by a factor of 4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

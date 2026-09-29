@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_fdf253262db14d8da6d0cd7bd44edf8d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A black body at temperature T (kelvin) has a peak wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>. What is the peak wavelength when the temperature increases by 33 %?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\lambda}{3}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{4}\\lambda\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4}{3}\\lambda\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"3\\lambda\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

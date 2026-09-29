@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_6a1c067af8e043d7824415a2fbc2d664",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A circuit contains two resistors of <span class=\"math\" data-latex=\"4\\ \\Omega\"></span> and <span class=\"math\" data-latex=\"6\\ \\Omega\"></span> in series. What is the total resistance?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.4\\ \\Omega\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"10\\ \\Omega\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"12\\ \\Omega\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.67\\ \\Omega\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

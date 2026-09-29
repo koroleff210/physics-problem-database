@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3e80b662574477efed15e721dc2bb3014c5ca5f0b307c69a2044a61f8ad9f30e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e80b662574477efed15e721dc2bb3014c5ca5f0b307c69a2044a61f8ad9f30e"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_ee7dbb545c3646aea081f15bed18972a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A light ray passes from vacuum into a crystal. The ray is partially refracted and partially reflected at the boundary between the vacuum and the crystal. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the refractive index of the crystal?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{sin(35^{o})}{sin(55^{o})}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"tan(55^{o})\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"tan(35^{o})\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{sin(35^{o})}{cos(55^{o})}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

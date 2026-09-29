@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/016a9e9da391cc7fa8d90e923fceb6a41af0b2199a2b643505256997ecd4fc76.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "016a9e9da391cc7fa8d90e923fceb6a41af0b2199a2b643505256997ecd4fc76"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fcc53f4432984148b053d8ee8d69cda4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The diagram shows a standing wave in a pipe closed at one end. The pattern has an antinode at the open end and a node at the closed end. The specific pattern shown is Antinode-Node-Antinode-Node, which corresponds to a tube length L = 3λ/4. This is the third harmonic. The frequency is constant, so the wavelength is also constant. When the tube is shortened to find the next resonance, the length must decrease to the next possible resonant length. For a pipe closed at one end, only odd harmonics exist (n=1, 3, 5...). The next lower harmonic from n=3 is n=1, corresponding to L = λ/4. Therefore, the initial harmonic is the third and the final is the first.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker is directed into a tube that is closed at one end by a movable piston. A standing wave is formed. In this configuration, the tube generates a loud sound with a constant frequency. The tube is shortened by moving the piston to the left until another loud sound is heard.</p>\n<p>What was the initial harmonic and what is the final harmonic?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Initial harmonic: first; final harmonic: first</li>\n<li data-label=\"B\"> Initial harmonic: first; final harmonic: second</li>\n<li data-label=\"C\"> Initial harmonic: third; final harmonic: first</li>\n<li data-label=\"D\"> Initial harmonic: third; final harmonic: second</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

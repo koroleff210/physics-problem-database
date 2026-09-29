@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d83ebf8a8eede670d996b2d78f3d602cbf8c3f28359c5b47e9e745cb00978194.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d83ebf8a8eede670d996b2d78f3d602cbf8c3f28359c5b47e9e745cb00978194"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2c36fa4882b24ba99e196d71d28fa08f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A positively charged particle is moving towards a current-carrying wire as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the direction of the magnetic force acting on the charged particle?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">To the right</li><li data-label=\"B\">To the left</li><li data-label=\"C\">Into the page</li><li data-label=\"D\">Out of the page</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

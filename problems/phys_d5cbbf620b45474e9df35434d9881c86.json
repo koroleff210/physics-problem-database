@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_d5cbbf620b45474e9df35434d9881c86",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Using the ideal gas law <span class=\"math\" data-latex=\"PV = nRT\"></span> or the pressure law <span class=\"math\" data-latex=\"\\frac{P_1}{T_1} = \\frac{P_2}{T_2}\"></span> (since volume is constant from 1 to 2):</p>\n<p><span class=\"math\" data-latex=\"P_2 = P_1 \\times \\frac{T_2}{T_1} = 100 \\times 10^3 \\times \\frac{602}{301}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"P_2 = 200 \\times 10^3\\ \\text{Pa}\"></span> (or <span class=\"math\" data-latex=\"200\\ \\text{kPa}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>For a monatomic ideal gas, <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2} nR\\Delta T\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\Delta U = 1.5 \\times 0.20 \\times 8.31 \\times (602 - 301)\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\Delta U = 0.30 \\times 8.31 \\times 301 \\approx 750\\ \\text{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>For an isobaric process, <span class=\"math\" data-latex=\"W = P\\Delta V\"></span>:</p>\n<p><span class=\"math\" data-latex=\"W = 200 \\times 10^3 \\times (10.0 - 5.0) \\times 10^{-3}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"W = 200 \\times 10^3 \\times 5.0 \\times 10^{-3} = 1000\\ \\text{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>First, calculate the change in internal energy for <span class=\"math\" data-latex=\"2 \\rightarrow 3\"></span>:<br/><span class=\"math\" data-latex=\"\\Delta U_{23} = \\frac{3}{2} nR\\Delta T = 1.5 \\times 0.20 \\times 8.31 \\times (1204 - 602) \\approx 1500\\ \\text{J}\"></span> [1 mark]</p>\n<p>Using the first law <span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>:<br/><span class=\"math\" data-latex=\"Q = 1500 + 1000 = 2500\\ \\text{J}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample consisting of <span class=\"math\" data-latex=\"0.20\\ \\text{mol}\"></span> of a monatomic ideal gas undergoes a two-stage heating and expansion process. The states of the gas are recorded in the table below. The ideal gas constant <span class=\"math\" data-latex=\"R = 8.31\\ \\text{J\\,mol}^{-1}\\text{\\,K}^{-1}\"></span>.</p><table><thead><tr><th>State</th><th>Pressure (<span class=\"math\" data-latex=\"10^3\\ \\text{Pa}\"></span>)</th><th>Volume (<span class=\"math\" data-latex=\"10^{-3}\\ \\text{m}^3\"></span>)</th><th>Temperature (\\text{K})</th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"100\"></span></td><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"301\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"P_2\"></span></td><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"602\"></span></td></tr><tr><td>3</td><td><span class=\"math\" data-latex=\"200\"></span></td><td><span class=\"math\" data-latex=\"10.0\"></span></td><td><span class=\"math\" data-latex=\"1204\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Determine the pressure <span class=\"math\" data-latex=\"P_2\"></span> of the gas at state 2.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the change in internal energy (<span class=\"math\" data-latex=\"\\Delta U\"></span>) of the gas during the transition from state 1 to state 2.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the work done (<span class=\"math\" data-latex=\"W\"></span>) by the gas during the isobaric expansion from state 2 to state 3.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Using the first law of thermodynamics, determine the thermal energy (<span class=\"math\" data-latex=\"Q\"></span>) transferred to the gas during the process from state 2 to state 3.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

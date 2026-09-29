@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_b8f4b3f658934fca82e3b9211781e44b",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <strong>Calculate</strong> energy in joules using <span class=\"math\" data-latex=\"1\\,\\text{eV} = 1.60 \\times 10^{-19}\\,\\text{J}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"E = 80 \\times 10^3\\,\\text{eV} \\times 1.60 \\times 10^{-19}\\,\\text{J eV}^{-1} = 1.28 \\times 10^{-14}\\,\\text{J}\"></span> [1 mark]<br/>- <strong>Calculate</strong> initial wavelength: <span class=\"math\" data-latex=\"\\lambda_i = \\dfrac{hc}{E} = \\dfrac{6.63 \\times 10^{-34}\\,\\text{J s} \\times 3.00 \\times 10^8\\,\\text{m s}^{-1}}{1.28 \\times 10^{-14}\\,\\text{J}} = 1.55 \\times 10^{-11}\\,\\text{m}\"></span> [1 mark]<br/>- <strong>Use</strong> the Compton shift formula: <span class=\"math\" data-latex=\"\\Delta\\lambda = \\dfrac{h}{m_ec}(1 - \\cos\\theta)\"></span> with <span class=\"math\" data-latex=\"\\theta=60^\\circ\"></span><br/>- <strong>Calculate</strong> shift in wavelength: <span class=\"math\" data-latex=\"\\Delta\\lambda = 2.43 \\times 10^{-12}\\,\\text{m} \\times (1-0.5) = 1.21 \\times 10^{-12}\\,\\text{m}\"></span> [1 mark]</p>\n<p>Note: Allow use of <span class=\"math\" data-latex=\"\\lambda_C = \\dfrac{h}{m_ec} = 2.43 \\times 10^{-12}\\,\\text{m}\"></span>. Accept consistent rounding (e.g. <span class=\"math\" data-latex=\"1.24\\times 10^{-12}\\,\\text{m}\"></span>) and alternative values of constants from the data booklet.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <strong>Calculate</strong> final wavelength: <span class=\"math\" data-latex=\"\\lambda_f = \\lambda_i + \\Delta\\lambda = 1.55 \\times 10^{-11}\\,\\text{m} + 1.21 \\times 10^{-12}\\,\\text{m} = 1.67 \\times 10^{-11}\\,\\text{m}\"></span> [1 mark]<br/>- <strong>Calculate</strong> final energy: <span class=\"math\" data-latex=\"E_f = \\dfrac{hc}{\\lambda_f} = \\dfrac{6.63 \\times 10^{-34}\\,\\text{J s} \\times 3.00 \\times 10^8\\,\\text{m s}^{-1}}{1.67 \\times 10^{-11}\\,\\text{m}} = 1.19 \\times 10^{-14}\\,\\text{J}\"></span> [1 mark]</p>\n<p>Note: Accept answer in keV: <span class=\"math\" data-latex=\"E_f \\approx 74\\,\\text{keV}\"></span>. Accept method using <span class=\"math\" data-latex=\"E_f = \\dfrac{E}{1 + \\dfrac{E}{m_ec^2}(1-\\cos\\theta)}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <strong>Discuss</strong> validation: observation of wavelength increase that depends on scattering angle supports a photon–electron collision with conservation of energy and momentum (Compton effect), consistent with particle behaviour of light [1 mark]<br/>- <strong>Discuss</strong> implications: scattered photons are lower energy and change direction, affecting dose delivery (reduced beam penetration/energy at target) and contributing to unwanted dose to surrounding healthy tissue; motivates shielding/collimation and accounting for scatter in treatment planning [1 mark]</p>\n<p>Note: Allow other relevant therapy implications (e.g. attenuation, build-up region, scatter reduction methods) and other statements linking the effect to momentum transfer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In radiation therapy, X-ray photons interact with matter. An X-ray photon of energy 80 keV collides with a stationary electron and is scattered through an angle of <span class=\"math\" data-latex=\"{60^\\circ}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the initial wavelength of the photon and the shift in wavelength after the collision.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the energy of the scattered photon.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Discuss how this experiment validated the particle theory of light and its implications for radiation therapy.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

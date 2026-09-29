@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0239860a8f78382a949c32fde0a8ee9146da9bd27b4e274efee678f49f61b3c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0239860a8f78382a949c32fde0a8ee9146da9bd27b4e274efee678f49f61b3c5"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_3c5ec2c3700847259e79e6037124bb3d",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>momentum of molecules/particles changes at each collision with container/walls ✔<br/>so container/walls exert forces on molecules/particles ✔<br/>«by N3» molecules/particles exert a force on container/walls ✔<br/><br/> Award [1 max] for using ‘gas’ instead of ‘molecules/particles’.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>«An ideal gas» has point particles/elastic collisions/no forces between molecules/zero intermolecular PE/cannot change phase/obeys the ideal gas equation for all P &amp; T ✔<br/>Accept opposite statements for real gas.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1 pressure due to gas in left container <span class=\"math\" data-latex=\"3.0\\times 10^{4}\\times \\frac{0.20}{0.30}=2.0\\times 10^{4}\"></span> «<span class=\"math\" data-latex=\"Pa\"></span>» ✔ pressure due to gas in right container <span class=\"math\" data-latex=\"9.0\\times 10^{4}\\times \\frac{0.10}{0.30}=3.0\\times 10^{4}\"></span><sup> </sup>«<span class=\"math\" data-latex=\"Pa\"></span>» ✔ adding gives <span class=\"math\" data-latex=\"P=5.0\\times 10^{4}\"></span><sup> </sup>«<span class=\"math\" data-latex=\"Pa\"></span>» ✔ <br/>ALTERNATIVE 2 number of moles «in a container is» <span class=\"math\" data-latex=\"\\frac{3.0\\times 10^{4}\\times 0.20}{RT}\"></span> OR <span class=\"math\" data-latex=\"\\frac{9.0\\times 10^{4}\\times 0.10}{RT}\"></span>✔ <span class=\"math\" data-latex=\"P\\times 0.30=\\frac{3.0\\times 10^{4}\\times 0.20}{RT}+\\frac{9.0\\times 10^{4}\\times 0.10}{RT}RT\"></span> ✔ <span class=\"math\" data-latex=\"P=5.0\\times 10^{4}\"></span> «<span class=\"math\" data-latex=\"Pa\"></span>» ✔ <br/>ALTERNATIVE 3 Use of <span class=\"math\" data-latex=\"P_{1}V_{1}+P_{2}V_{2}=PV_{1}+V_{2}\"></span>✔ 3.0 × 10<sup>4</sup> × 0.2 + 9.0 × 10<sup>4 </sup>× 0.1 = <span class=\"math\" data-latex=\"P\"></span>(0.2 + 0.1) ✔ <span class=\"math\" data-latex=\"P=5.0\\times 10^{4}\"></span><sup> </sup>«<span class=\"math\" data-latex=\"Pa\"></span>» ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline, by reference to Newton’s third law, how a gas in a container exerts pressure on the container walls. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State one difference between an ideal gas and a real gas. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Two containers of volume 0.20 m<sup>3</sup> and 0.10 m<sup>3</sup> are filled with an ideal gas. The pressure in the larger container is 3.0 × 10<sup>4 </sup>Pa. The pressure in the smaller container is 9.0 × 10<sup>4 </sup>Pa. The temperature of the gas in both containers is the same. A thin tube with a valve joins the containers. The valve is initially closed.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The valve is opened so that gas can move from one container to the other. The temperature remains unchanged.</p>\n<p>Determine the new pressure of the gas.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

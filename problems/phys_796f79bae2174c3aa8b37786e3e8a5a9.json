@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_796f79bae2174c3aa8b37786e3e8a5a9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple pendulum undergoes simple harmonic motion. The gravitational potential energy of the pendulum is zero at the equilibrium position. How many times during one oscillation is the kinetic energy of the pendulum equal to its gravitational potential energy?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1</li><li data-label=\"B\">2</li><li data-label=\"C\">3</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

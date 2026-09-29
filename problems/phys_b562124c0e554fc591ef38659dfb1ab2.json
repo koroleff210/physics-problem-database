@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_b562124c0e554fc591ef38659dfb1ab2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A square loop of side <span class=\"math\" data-latex=\"0.10\\ \\mathrm{m}\"></span> is pulled horizontally at <span class=\"math\" data-latex=\"2.0\\ \\mathrm{m\\ s}^{-1}\"></span> through a region of magnetic field <span class=\"math\" data-latex=\"B = 0.50\\ \\mathrm{T}\"></span> directed into the page. The loop enters and exits the field region entirely. What is the magnitude of the induced emf while the loop is halfway in the field region (i.e. half inside, half outside)?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\\ \\mathrm{V}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.050\\ \\mathrm{V}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.10\\ \\mathrm{V}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.20\\ \\mathrm{V}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

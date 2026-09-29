@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/79efa0b34af2375d7f1e07098bfe53d0fe2002f9b516d873f93c927814c75395.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "79efa0b34af2375d7f1e07098bfe53d0fe2002f9b516d873f93c927814c75395"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_0134d49348e8419e89278e27c2e73126",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- High temperatures provide the nuclei with sufficient kinetic energy to overcome the electrostatic (Coulomb) repulsion between the positively charged protons [1 mark]<br/>- This allows the nuclei to reach a sufficiently small separation for the strong nuclear force to become dominant and bind the nuclei together [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identification of Antares temperature from the diagram (<span class=\"math\" data-latex=\"T = 3500\\text{ K}\"></span>) and use of Wien's displacement law: <span class=\"math\" data-latex=\"\\lambda_{\\text{max}} = \\frac{2.9 \\times 10^{-3}}{T}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\lambda_{\\text{max}} = \\frac{2.9 \\times 10^{-3}}{3500} = 8.3 \\times 10^{-7}\\text{ m}\"></span> (or <span class=\"math\" data-latex=\"830\\text{ nm}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- When hydrogen fusion ceases, the outward radiation pressure decreases, causing the core to contract under its own gravity [1 mark]<br/>- The resulting increase in core temperature triggers shell fusion (or helium fusion), which generates an outward pressure greater than the gravitational pull, causing the outer layers of the star to expand [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"\\frac{L}{L_{\\odot}} = \\left( \\frac{M}{M_{\\odot}} \\right)^{3.5} \\implies 3500 = \\left( \\frac{M}{M_{\\odot}} \\right)^{3.5}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"M = 3500^{\\frac{1}{3.5}} M_{\\odot} \\approx 10.3 M_{\\odot}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>It will not become a white dwarf because its mass is significantly greater than the Chandrasekhar limit (<span class=\"math\" data-latex=\"1.4 M_{\\odot}\"></span>) / it will likely undergo a supernova and become a neutron star or black hole [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about the classification and lifecycle of stars. The Hertzsprung-Russell (H-R) diagram below shows the relationship between luminosity (<span class=\"math\" data-latex=\"L\"></span>) and surface temperature (<span class=\"math\" data-latex=\"T\"></span>) for several groups of stars. The position of the Sun and the star Antares are indicated.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> A main sequence star like the Sun produces energy through the fusion of hydrogen into helium. Explain why extremely high temperatures are required in the stellar core for this process to occur. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Using the data provided in the H-R diagram, calculate the peak wavelength <span class=\"math\" data-latex=\"\\lambda_{\\text{max}}\"></span> of the radiation emitted by the star Antares. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe how the internal state of hydrostatic equilibrium changes when a main sequence star exhausts its hydrogen supply and begins its transition into a red giant. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>A distant main sequence star is found to have a luminosity <span class=\"math\" data-latex=\"L = 3.5 \\times 10^3 L_{\\odot}\"></span>, where <span class=\"math\" data-latex=\"L_{\\odot}\"></span> is the luminosity of the Sun.</p>\n<p>Using the mass-luminosity relationship <span class=\"math\" data-latex=\"L \\propto M^{3.5}\"></span>, estimate the mass of this star in terms of solar masses (<span class=\"math\" data-latex=\"M_{\\odot}\"></span>).</p><p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Discuss whether this star will likely end its life as a white dwarf. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

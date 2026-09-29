@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4acccf65b3cb492d8536dc83483f5442",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The probability of decay of a single nucleus per unit time [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify that the activity halves every 15 hours, so <span class=\"math\" data-latex=\"t_{1/2} = 15 \\text{ hours}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate the decay constant in reciprocal hours: <span class=\"math\" data-latex=\"\\lambda = \\frac{\\ln 2}{15} \\approx 0.0462 \\text{ h}^{-1}\"></span> [1 mark]<br/>- Calculate the probability <span class=\"math\" data-latex=\"P = 1 - e^{-\\lambda t} \\approx 1 - e^{-0.0462 \\times 1} \\approx 0.045\"></span> (or <span class=\"math\" data-latex=\"4.5\\%\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Convert half-life and activity to SI units: <span class=\"math\" data-latex=\"\\lambda = \\frac{\\ln 2}{15 \\times 3600} \\approx 1.28 \\times 10^{-5} \\text{ s}^{-1}\"></span> and <span class=\"math\" data-latex=\"A_0 = 4.8 \\times 10^5 \\text{ Bq}\"></span> [1 mark]<br/>- Use <span class=\"math\" data-latex=\"A = \\lambda N\"></span> to find <span class=\"math\" data-latex=\"N_0\"></span>: <span class=\"math\" data-latex=\"N_0 = \\frac{4.8 \\times 10^5}{1.28 \\times 10^{-5}} \\approx 3.75 \\times 10^{10}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Use moles = <span class=\"math\" data-latex=\"\\frac{N_0}{N_A}\"></span>: <span class=\"math\" data-latex=\"n = \\frac{3.75 \\times 10^{10}}{6.02 \\times 10^{23}} \\approx 6.23 \\times 10^{-14} \\text{ mol}\"></span> [1 mark]<br/>- Calculate mass = <span class=\"math\" data-latex=\"n \\times 24 \\text{ g mol}^{-1} \\approx 1.5 \\times 10^{-12} \\text{ g}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- State that radioactive decay is a random/stochastic process [1 mark]<br/>- Explain that for small time intervals or small numbers of decays, the statistical variations (fluctuations) become more apparent relative to the mean rate [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student monitors the decay of a sample of Sodium-24 (<span class=\"math\" data-latex=\"^{24}\\text{Na}\"></span>), a radioisotope used in medical diagnostics. The activity <span class=\"math\" data-latex=\"A\"></span> of the sample is recorded in a table over a period of time.</p><table><thead><tr><th>Time <span class=\"math\" data-latex=\"t\"></span> (hours)</th><th>Activity <span class=\"math\" data-latex=\"A\"></span> (kBq)</th></tr></thead><tbody><tr><td>0</td><td>480</td></tr><tr><td>15</td><td>240</td></tr><tr><td>30</td><td>120</td></tr><tr><td>45</td><td>60</td></tr></tbody></table><p>(Molar mass of Sodium-24 = <span class=\"math\" data-latex=\"24 \\text{ g mol}^{-1}\"></span>; Avogadro constant <span class=\"math\" data-latex=\"N_A = 6.02 \\times 10^{23} \\text{ mol}^{-1}\"></span>)</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the decay constant <span class=\"math\" data-latex=\"\\lambda\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the half-life of Sodium-24 based on the data provided in the table.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the probability that a specific Sodium-24 nucleus in the sample will decay during the first hour of the experiment.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the initial number of undecayed Sodium-24 nuclei, <span class=\"math\" data-latex=\"N_0\"></span>, in the sample at <span class=\"math\" data-latex=\"t = 0\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Determine the initial mass of the Sodium-24 present in the sample.<p>[2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> </p>Explain why the activity measured over a very short time interval (e.g., 1 second) might show significant fluctuations compared to the predicted values in the table.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

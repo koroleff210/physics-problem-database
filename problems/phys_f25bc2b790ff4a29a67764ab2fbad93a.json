@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_f25bc2b790ff4a29a67764ab2fbad93a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which graph best represents the relationship between gravitational field strength <span class=\"math\" data-latex=\"g\"></span> and distance <span class=\"math\" data-latex=\"r\"></span> from the center of a uniform spherical planet (for <span class=\"math\" data-latex=\"r &gt; R\"></span>, where <span class=\"math\" data-latex=\"R\"></span> is the planet's radius)?</p><ol class=\"mcq-options\"><li data-label=\"A\">A straight line increasing with <span class=\"math\" data-latex=\"r\"></span></li><li data-label=\"B\">A straight line decreasing with <span class=\"math\" data-latex=\"r\"></span></li><li data-label=\"C\">A curve decreasing with <span class=\"math\" data-latex=\"r^2\"></span></li><li data-label=\"D\">A curve increasing with <span class=\"math\" data-latex=\"r^2\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

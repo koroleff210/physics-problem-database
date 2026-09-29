@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5cee121e80e800cd257f5f0f23f2db7f5c7a175ff2ff23eeb1db12741a4672d6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5cee121e80e800cd257f5f0f23f2db7f5c7a175ff2ff23eeb1db12741a4672d6"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_6629043082874451bd77a65af28c7e8a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Boxes A and B are pushed along a surface by a <span class=\"math\" data-latex=\"20\"></span> N force. The mass of box A is <span class=\"math\" data-latex=\"1.5\"></span> kg and the mass of box B is <span class=\"math\" data-latex=\"0.50\"></span> kg. The boxes travel at constant speed. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the resultant force that acts on box B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"20\"></span> N</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"15\"></span> N</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"5.0\"></span> N</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

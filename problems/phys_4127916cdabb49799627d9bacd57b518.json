@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 1,
+  "id": "phys_4127916cdabb49799627d9bacd57b518",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following quantities is needed in order to calculate the orbital speed of a satellite about a planet?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The mass of the satellite</li>\n<li data-label=\"B\">The mass of the planet</li>\n<li data-label=\"C\">The distance of the satellite from the surface of the planet</li>\n<li data-label=\"D\">The radius of the planet</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

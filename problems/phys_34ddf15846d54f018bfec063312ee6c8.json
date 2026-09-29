@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9ac04e033eb7479ff9d8a9d000309cd1be7423f6e884c4e92b975213812fe0fb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9ac04e033eb7479ff9d8a9d000309cd1be7423f6e884c4e92b975213812fe0fb"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_34ddf15846d54f018bfec063312ee6c8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The emf of a cell is <span class=\"math\" data-latex=\"12\"></span> V and the internal resistance of a cell is <span class=\"math\" data-latex=\"1\\: \\Omega\"></span>. What is the ammeter reading in the circuit when three resistors, each of resistance <span class=\"math\" data-latex=\"2\\: \\Omega\"></span>, are connected to the cell as shown in the diagram?</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.5\"></span> A</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"3.0\"></span> A</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4.0\"></span> A</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"6.0\"></span> A</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

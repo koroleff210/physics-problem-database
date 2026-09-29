@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5e43e90d2b3e40ae9a471045e9a14abf",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two containers are filled with monatomic gas of equal mass at the same temperature. One container holds helium and the other neon.</p>\n<p>The mass of a neon atom is five times the mass of a helium atom.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{internal energy of the helium gas}}{\\textit{internal energy of the neon gas}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"1\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{5}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"5\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

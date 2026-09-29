@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_911a46b65b1d4ab5a2c77ae54f0b0699",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the Bohr model for hydrogen, the radius of the electron orbit in the n = 2 state is four times that of the radius in the n = 1 state.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{speed of the electron in the n = 2 state}}{\\textit{speed of the electron in the n =1 state}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\">2</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_bac2b3ed7fb845f8b4f97b743819d706",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A current-carrying copper wire experiences a force <span class=\"math\" data-latex=\"F\"></span> when placed in a magnetic field of strength <span class=\"math\" data-latex=\"B_{1}\"></span>. The length of the wire is <span class=\"math\" data-latex=\"L\"></span>, the current in the wire is <span class=\"math\" data-latex=\"I\"></span> and the angle between the direction of the current and the direction of the magnetic field is <span class=\"math\" data-latex=\"90^{\\circ}\"></span>. When a similar copper wire of length <span class=\"math\" data-latex=\"4L\"></span> carrying a current of <span class=\"math\" data-latex=\"2I\"></span> is placed in a different magnetic field with strength <span class=\"math\" data-latex=\"B_{2}\"></span>, it experiences a force <span class=\"math\" data-latex=\"\\frac{F}{2}\"></span>. The angle between the direction of the current and the direction of the magnetic field for this second wire is  also <span class=\"math\" data-latex=\"90^{\\circ}\"></span>. What is <span class=\"math\" data-latex=\"\\frac{B_{1}}{B_{2}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"4\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"8\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"16\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

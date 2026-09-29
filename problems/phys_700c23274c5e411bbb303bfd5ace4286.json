@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_700c23274c5e411bbb303bfd5ace4286",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A straight horizontal conductor of length <span class=\"math\" data-latex=\"L\"></span> is released from rest in a region containing a uniform horizontal magnetic field of flux density <span class=\"math\" data-latex=\"B\"></span>. The conductor remains horizontal and its length is perpendicular to the magnetic field lines throughout its motion. Air resistance is negligible.</p>\n<p>Which of the following expressions gives the magnitude of the induced electromotive force (emf) across the ends of the conductor after it has fallen a vertical distance <span class=\"math\" data-latex=\"h\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"B L g h\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"B L \\sqrt{2 g h}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2 B L g h\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"B L \\sqrt{g h}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

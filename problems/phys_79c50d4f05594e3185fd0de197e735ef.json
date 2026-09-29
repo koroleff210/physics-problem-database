@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/64d0423fe30f03b8a2cfe7b77ffa422b4950716f932ded8fd9f841a3683abd95.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "64d0423fe30f03b8a2cfe7b77ffa422b4950716f932ded8fd9f841a3683abd95"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/37e7637e5043810eb621ffc6afe61cc67d99c745c27b88dbd8ae5b2e1c9bac4b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "37e7637e5043810eb621ffc6afe61cc67d99c745c27b88dbd8ae5b2e1c9bac4b"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_79c50d4f05594e3185fd0de197e735ef",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The flux is increasing / there is an induced emf / current ✓ The induced current will be counter-clockwise / current is induced in a direction that creates a force that opposes the change ✓ A magnetic force to the left / opposing will act on the rod ✓ (bringing it to rest)</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«The current in the circuit will be clockwise so there will be a magnetic force accelerating the rod that then» moves to the right ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1 Since the induced emf BLv opposing the cell’s emf is proportional to speed ✓ It will eventually equal the emf of the cell resulting in zero current and hence zero net force on the rod ✓ <br/>ALTERNATIVE 2 «As in 8a,» there is a counter-clockwise induced current / a force to the left ✓ This current / force increases with v until resultant current / force is zero ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A conducting rod is placed on horizontal, conducting, frictionless rails.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A uniform magnetic field is directed into the plane of the page.</p>\n<p>The rod begins to move to the right after it is given a short push. Explain why the rod will quickly stop moving.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>In another experiment, the rod is at rest on the rails. A cell and a switch are inserted as shown.<br/><br/></p>\n<p><br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The switch is closed.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Suggest what happens to the rod. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Explain why the rod will eventually reach terminal speed. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

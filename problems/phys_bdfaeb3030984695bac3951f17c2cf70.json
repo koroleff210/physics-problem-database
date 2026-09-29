@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7880ece05437e0e0cb5eb251ebcef64ec8cd75a41306182fc56dd345a465f26e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7880ece05437e0e0cb5eb251ebcef64ec8cd75a41306182fc56dd345a465f26e"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_bdfaeb3030984695bac3951f17c2cf70",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light falls on a metallic surface whose threshold frequency is <span class=\"math\" data-latex=\"f_{0}\"></span>. The number of photons incident per second is constant. Which graph correctly shows how the current <span class=\"math\" data-latex=\"I\"></span> emitted from the surface depends on the frequency <span class=\"math\" data-latex=\"f\"></span> of the incident light?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

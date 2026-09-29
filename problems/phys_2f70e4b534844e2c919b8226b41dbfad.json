@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2f70e4b534844e2c919b8226b41dbfad",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>Energy density is defined as the amount of energy stored per unit volume. For a fuel with extractable energy E and volume V, the energy density is E/V. The quantity E/m, energy per unit mass, is known as specific energy.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An amount of energy E can be extracted from a mass m of fuel with volume V. What is the energy density of the fuel?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"E/m\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"E/V\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"Em/V\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"EV/m\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

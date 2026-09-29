@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a427bba04f3645e897adc480f96b1494",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A yo-yo of mass <span class=\"math\" data-latex=\"m\"></span> and radius <span class=\"math\" data-latex=\"r\"></span> is released from rest and allowed to fall vertically while unwinding. If its moment of inertia is <span class=\"math\" data-latex=\"I = \\frac{1}{2}mr^2\"></span>, what is the linear acceleration of its center of mass?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{g}{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{2g}{3}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{g}{3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

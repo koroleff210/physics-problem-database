@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8f782e9c0c9bb5f7b1a97be26fc86ab56c9911d038f2b0b4d86b7f707f809b53.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8f782e9c0c9bb5f7b1a97be26fc86ab56c9911d038f2b0b4d86b7f707f809b53"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_4bc46d58f8a845d385008ab9b5656a2c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton enters an area of perpendicularly oriented electric and magnetic fields with a horizontal velocity of <span class=\"math\" data-latex=\"v\"></span>. Magnetic field <span class=\"math\" data-latex=\"B\"></span> is pointing into the page and electric field <span class=\"math\" data-latex=\"E\"></span> is pointing vertically upwards. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the magnitude of the resultant force on the proton?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">zero</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"evB\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"e(vB - E)\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"e(vB + E)\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

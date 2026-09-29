@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d22b53f80cf164ef97469ea53966760be26a78f5db450a09c0e3e2fb7457176d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d22b53f80cf164ef97469ea53966760be26a78f5db450a09c0e3e2fb7457176d"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_5e350f2c35674a51855acc215a785c06",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rectangular conducting coil rotates at a constant angular velocity in a uniform magnetic field. The rotation axis of the coil is perpendicular to the field.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At one instant the plane of the coil is at an angle θ to the direction of the field.</p>\n<p>The magnitude of the emf induced in the coil is</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">never zero.</li><li data-label=\"B\">at a maximum when θ = 0° or 180°.</li><li data-label=\"C\">at a maximum when θ = 45° or 225°.</li><li data-label=\"D\">at a maximum when θ = 90° or 270°.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e2b20428936549dfafc408a89832790f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>White light is incident normally on separate diffraction gratings X and Y. Y has a greater number of lines per metre than X. Three statements about differences between X and Y are</p>\n<p>I.  adjacent slits in the gratings are further apart for X than for Y<br/>II.  the angle between red and blue light in a spectral order is greater in X than in Y<br/>III.  the total number of visible orders is greater for X than for Y.</p>\n<p>Which statements are correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

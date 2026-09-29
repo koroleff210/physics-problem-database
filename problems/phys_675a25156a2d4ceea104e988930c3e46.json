@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/46b967aa964d84f9b639047570ade61342c6de47023fec91a9166b4c8404d186.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "46b967aa964d84f9b639047570ade61342c6de47023fec91a9166b4c8404d186"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_675a25156a2d4ceea104e988930c3e46",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ray of light enters from air into a water droplet of radius <span class=\"math\" data-latex=\"r\"></span> at point S. S is a vertical distance <span class=\"math\" data-latex=\"h\"></span> from the centre of the droplet. The droplet has a refractive index <span class=\"math\" data-latex=\"n\"></span> and the angle of refraction is θ.</p>\n<p>What is sin θ?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{nh}{r}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{r}{nh}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{h}{nr}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{nr}{h}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

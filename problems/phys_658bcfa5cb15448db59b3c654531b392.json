@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 6,
+  "id": "phys_658bcfa5cb15448db59b3c654531b392",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\rho = \\frac{RA}{L}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Substitution: <span class=\"math\" data-latex=\"\\rho = \\frac{0.50 \\cdot 1.5 \\times 10^{-6}}{2.0}\"></span><br/>[1 mark]<br/>- Final answer: <span class=\"math\" data-latex=\"\\rho = 3.75 \\times 10^{-7}\\ \\Omega\\cdot\\text{m}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Increasing the temperature increases resistance<br/>[1 mark]<br/>- Because increased thermal vibrations of lattice ions cause more frequent collisions with electrons<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A metallic wire of length <span class=\"math\" data-latex=\"2.0\\ \\text{m}\"></span> and cross-sectional area <span class=\"math\" data-latex=\"1.5 \\times 10^{-6}\\ \\text{m}^2\"></span> has a resistance of <span class=\"math\" data-latex=\"0.50\\ \\Omega\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the equation that defines resistivity.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the resistivity of the material of the wire.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State one physical factor that would increase the resistance of the wire and explain why.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

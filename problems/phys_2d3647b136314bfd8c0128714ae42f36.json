@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/00b8e298e76d922b517c77595e342539dfb78c820a303538a6d71b09bd8e6485.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "00b8e298e76d922b517c77595e342539dfb78c820a303538a6d71b09bd8e6485"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_2d3647b136314bfd8c0128714ae42f36",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass M oscillates with a period <span class=\"math\" data-latex=\"T\"></span> when connected to a spring with spring stiffness constant k. A mass of 2M is connected to 2 identical springs, each with spring stiffness constant k.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the period of the system?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"T\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{T}{\\sqrt{2}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{T}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{T}{4}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

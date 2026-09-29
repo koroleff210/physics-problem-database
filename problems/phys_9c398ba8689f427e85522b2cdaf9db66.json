@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9c398ba8689f427e85522b2cdaf9db66",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two aluminum blocks, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are maintained in thermal equilibrium. Block <span class=\"math\" data-latex=\"X\"></span> has a mass of <span class=\"math\" data-latex=\"2.0 \\mathrm{~kg}\"></span> and block <span class=\"math\" data-latex=\"Y\"></span> has a mass of <span class=\"math\" data-latex=\"1.0 \\mathrm{~kg}\"></span>. Which of the following correctly compares the total internal energy and the average random kinetic energy of the molecules in the two blocks?</p><ol class=\"mcq-options\"><li data-label=\"A\">Block <span class=\"math\" data-latex=\"X\"></span> has a higher internal energy and a higher average molecular kinetic energy.</li><li data-label=\"B\">Block <span class=\"math\" data-latex=\"X\"></span> has a higher internal energy, but both blocks have the same average molecular kinetic energy.</li><li data-label=\"C\">Both blocks have the same internal energy and the same average molecular kinetic energy.</li><li data-label=\"D\">Both blocks have the same internal energy, but block <span class=\"math\" data-latex=\"X\"></span> has a higher average molecular kinetic energy.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

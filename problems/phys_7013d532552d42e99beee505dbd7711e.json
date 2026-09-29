@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9469bf5b5007f6f8cbcfa8683b14b651d7178d47e6109143558fc1a6ae96b6d4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9469bf5b5007f6f8cbcfa8683b14b651d7178d47e6109143558fc1a6ae96b6d4"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/085f8f64cea828e24ee93cf7ef8084790262bc5bfebf7e89514b8c69291f9fcd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "085f8f64cea828e24ee93cf7ef8084790262bc5bfebf7e89514b8c69291f9fcd"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_7013d532552d42e99beee505dbd7711e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the current-voltage (<span class=\"math\" data-latex=\"I-V\"></span>) characteristics for two resistors.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The resistors are connected to a cell of emf <span class=\"math\" data-latex=\"10\"></span> V.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>What is the ammeter reading?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.50\"></span> A</li>\n<li data-label=\"B\">1.5 A</li>\n<li data-label=\"C\">2.0 A</li>\n<li data-label=\"D\">3.5 A</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

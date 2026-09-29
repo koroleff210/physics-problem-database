@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_9b31a5aa41ef4c31a97d14f9c916e6b5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following wave behaviors is responsible for the separation of white light into its component wavelengths when passing through a diffraction grating?</p><ol class=\"mcq-options\"><li data-label=\"A\">Interference</li><li data-label=\"B\">Polarization</li><li data-label=\"C\">Reflection</li><li data-label=\"D\">Refraction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

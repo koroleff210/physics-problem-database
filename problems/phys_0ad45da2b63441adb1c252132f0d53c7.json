@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_0ad45da2b63441adb1c252132f0d53c7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a planet X is 300 times larger than the mass of the Earth and its radius is 10 times larger than the radius of the Earth. What is the gravitational field strength on the surface of planet X in terms of the gravitational field strength <span class=\"math\" data-latex=\"g\"></span> on the surface of Earth?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{g}{30}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{g}{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"3 g\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"30 g\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

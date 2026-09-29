@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4c83096532e5a88dc5f7206ee42f759da8399f880839acb0c34b48d75b906402.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4c83096532e5a88dc5f7206ee42f759da8399f880839acb0c34b48d75b906402"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_2f4233ab67d7485291dafb7ccf92d3c7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows three energy levels of an atom. When an electron transitions from a higher energy level to a lower one, a photon is emitted. The wavelengths of the photons emitted during the transitions <span class=\"math\" data-latex=\"n=3\"></span> to <span class=\"math\" data-latex=\"n=2\"></span> and <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=1\"></span> are <span class=\"math\" data-latex=\"\\lambda_{32}\"></span> and <span class=\"math\" data-latex=\"\\lambda_{21}\"></span>, respectively.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which expression gives the wavelength <span class=\"math\" data-latex=\"\\lambda_{31}\"></span> of the photon emitted during the transition from <span class=\"math\" data-latex=\"n=3\"></span> to <span class=\"math\" data-latex=\"n=1\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\lambda_{31} = \\lambda_{32} + \\lambda_{21}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\lambda_{31} = \\frac{\\lambda_{32} + \\lambda_{21}}{\\lambda_{32} \\lambda_{21}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\lambda_{31} = \\frac{\\lambda_{32} \\lambda_{21}}{\\lambda_{32} + \\lambda_{21}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\lambda_{31} = \\sqrt{\\lambda_{32} \\lambda_{21}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

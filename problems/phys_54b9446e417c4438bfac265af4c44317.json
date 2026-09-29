@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_54b9446e417c4438bfac265af4c44317",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A radioactive source has an activity of <span class=\"math\" data-latex=\"1600\\text{ Bq}\"></span>. After a period of <span class=\"math\" data-latex=\"18\\text{ hours}\"></span>, the activity is measured to be <span class=\"math\" data-latex=\"200\\text{ Bq}\"></span>. What is the half-life of the source?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"3\\text{ hours}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4\\text{ hours}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"6\\text{ hours}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9\\text{ hours}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

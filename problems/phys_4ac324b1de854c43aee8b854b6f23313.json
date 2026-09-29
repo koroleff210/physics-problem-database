@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4ac324b1de854c43aee8b854b6f23313",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A parallel beam of monochromatic laser light is incident normally on a diffraction grating. When a certain number of slits, <span class=\"math\" data-latex=\"N\"></span>, are illuminated, the central principal maximum observed on a distant screen has intensity <span class=\"math\" data-latex=\"I\"></span> and angular width <span class=\"math\" data-latex=\"W\"></span>. The beam is then widened so that <span class=\"math\" data-latex=\"2N\"></span> slits are illuminated, while the slit separation and wavelength remain unchanged. Which of the following correctly identifies the new intensity and the new angular width of the central principal maximum?</p><ol class=\"mcq-options\"><li data-label=\"A\">Intensity <span class=\"math\" data-latex=\"2I\"></span> and angular width <span class=\"math\" data-latex=\"W\"></span></li><li data-label=\"B\">Intensity <span class=\"math\" data-latex=\"2I\"></span> and angular width <span class=\"math\" data-latex=\"\\frac{W}{2}\"></span></li><li data-label=\"C\">Intensity <span class=\"math\" data-latex=\"4I\"></span> and angular width <span class=\"math\" data-latex=\"W\"></span></li><li data-label=\"D\">Intensity <span class=\"math\" data-latex=\"4I\"></span> and angular width <span class=\"math\" data-latex=\"\\frac{W}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

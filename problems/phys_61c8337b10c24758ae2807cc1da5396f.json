@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_61c8337b10c24758ae2807cc1da5396f",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Coulomb’s Law: <span class=\"math\" data-latex=\"F = k\\frac{|q_1 q_2|}{r^2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"F = \\frac{8.99 \\times 10^9 \\cdot 2.0 \\times 10^{-6} \\cdot 3.0 \\times 10^{-6}}{(0.50)^2} = 0.216\\ \\text{N}\"></span><br/>- Correct formula and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The force is attractive because the charges have opposite signs. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two point charges, <span class=\"math\" data-latex=\"+2.0\\ \\mu\\text{C}\"></span> and <span class=\"math\" data-latex=\"-3.0\\ \\mu\\text{C}\"></span>, are separated by a distance of <span class=\"math\" data-latex=\"0.50\\ \\text{m}\"></span> in vacuum.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the law that describes the force between two point charges.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnitude of the electrostatic force between the charges. (<span class=\"math\" data-latex=\"k = 8.99 \\times 10^9\\ \\text{N m}^2\\text{C}^{-2}\"></span>)<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State whether the force is attractive or repulsive and justify your answer.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_8d4ed4b5f2184d7c9660194350946423",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below shows the position <span class=\"math\" data-latex=\"x\"></span> of an object moving with constant acceleration along a straight line at specific time intervals <span class=\"math\" data-latex=\"t\"></span>.</p>\n<table><thead><tr><th>Time <span class=\"math\" data-latex=\"t / \\text{s}\"></span></th><th>Position <span class=\"math\" data-latex=\"x / \\text{m}\"></span></th></tr></thead><tbody><tr><td>0.0</td><td>2.0</td></tr><tr><td>1.0</td><td>5.0</td></tr><tr><td>2.0</td><td>12.0</td></tr><tr><td>3.0</td><td>23.0</td></tr></tbody></table>\n<p>What is the magnitude of the acceleration of the object?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.0 \\text{ m s}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"7.0 \\text{ m s}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_031cac39425d49c69c81a265824b66f1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of frequency <span class=\"math\" data-latex=\"f\"></span> is incident on a metallic surface of work function W. Photoelectrons with a maximum kinetic energy E<sub>max</sub> are emitted. The frequency of the incident light is changed to 2<span class=\"math\" data-latex=\"f\"></span>.</p>\n<p>What is true about the maximum kinetic energy and the work function?</p>\n<table><tbody><tr><td></td><td><p>Maximum kinetic energy</p></td><td><p>Work function</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>less than 2E<sub>max</sub></p></td><td><p>unchanged</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>less than 2E<sub>max</sub></p></td><td><p>greater than W</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>greater than 2E<sub>max</sub></p></td><td><p>unchanged</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>greater than 2E<sub>max</sub></p></td><td><p>greater than W</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

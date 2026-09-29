@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 8,
+  "id": "phys_11a237cb7e7b4dd8b4eb96ec9a46a3a8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>A: Incorrect. This is far below the equilibrium temperature obtained from <span class=\"math\" data-latex=\"\\varepsilon\\sigma T^4=(1-\\alpha)S\"></span>.</p>\n<p>B: Incorrect. This is far below the equilibrium temperature obtained from <span class=\"math\" data-latex=\"\\varepsilon\\sigma T^4=(1-\\alpha)S\"></span>.</p>\n<p>C: Incorrect. This is far below the equilibrium temperature obtained from <span class=\"math\" data-latex=\"\\varepsilon\\sigma T^4=(1-\\alpha)S\"></span>.</p>\n<p>D: Correct. Absorbed flux: <span class=\"math\" data-latex=\"F_{\\text{abs}}=(1-\\alpha)S=0.80\\times1500=1200\\ \\mathrm{W\\,m^{-2}}\"></span>. Equate to emitted flux: <span class=\"math\" data-latex=\"F_{\\text{emit}}=\\varepsilon\\sigma T^4=0.6(5.67\\times10^{-8})T^4\"></span>. So <span class=\"math\" data-latex=\"T^4=\\dfrac{1200}{0.6\\times5.67\\times10^{-8}}\\approx3.53\\times10^{10}\"></span> and <span class=\"math\" data-latex=\"T\\approx(3.53\\times10^{10})^{1/4}\\approx4.33\\times10^2\\ \\mathrm{K}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet receives solar radiation at a rate of <span class=\"math\" data-latex=\"1500\\ \\mathrm{W\\,m^{-2}}\"></span> and has an albedo of <span class=\"math\" data-latex=\"0.20\"></span>. If the emissivity of the surface is <span class=\"math\" data-latex=\"0.6\"></span>, what is the approximate equilibrium temperature of the planet?</p>\n<p>(<span class=\"math\" data-latex=\"\\sigma = 5.67 \\times 10^{-8}\\ \\mathrm{W\\,m^{-2}\\,K^{-4}}\"></span>)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"240\\ \\mathrm{K}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"263\\ \\mathrm{K}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"278\\ \\mathrm{K}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"433\\ \\mathrm{K}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

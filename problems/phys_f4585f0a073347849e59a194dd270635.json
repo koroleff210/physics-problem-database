@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b813f30f0321db5e9f1e537e3417c8d25af0661cd751ed98f90896dc9eb1a662.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b813f30f0321db5e9f1e537e3417c8d25af0661cd751ed98f90896dc9eb1a662"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_f4585f0a073347849e59a194dd270635",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A constant force <span class=\"math\" data-latex=\"F\"></span> is applied to a rod at point <span class=\"math\" data-latex=\"B\"></span> and as a result, the rod rotates about point <span class=\"math\" data-latex=\"A\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The length of the rod is <span class=\"math\" data-latex=\"50\\; \\textup{cm}\"></span> and the angle between <span class=\"math\" data-latex=\"F\"></span> and the rod is <span class=\"math\" data-latex=\"30^{\\circ}\"></span>. The net torque about point <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"25\\; \\textup{N\\,m}\"></span>.</p>\n<p>What is the magnitude of <span class=\"math\" data-latex=\"F\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"25\\; \\textup{N}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"50\\; \\textup{N}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"100\\; \\textup{N}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"200\\; \\textup{N}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,73 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/be191289875c69438327b79e5cb508ca652553acda155ac43e54ac88b8ff0c76.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "be191289875c69438327b79e5cb508ca652553acda155ac43e54ac88b8ff0c76"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/60884d7d969e877f62461efe1d4518cababa43728f1307f3d683bd28c1fa9125.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "60884d7d969e877f62461efe1d4518cababa43728f1307f3d683bd28c1fa9125"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/e6e921b3a06e629c778aee85a9cc58f59fabb40b6b3cfb1b85aa1cdcf8e97232.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e6e921b3a06e629c778aee85a9cc58f59fabb40b6b3cfb1b85aa1cdcf8e97232"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/624ab25abe78d4c7712e938606f409228a06db4cd7d28fc399b51ea9826393a7.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "624ab25abe78d4c7712e938606f409228a06db4cd7d28fc399b51ea9826393a7"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/dec2bc70695216d55178080719628845ef3ae6d19ce7f45edff2d1c66598c3ce.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "dec2bc70695216d55178080719628845ef3ae6d19ce7f45edff2d1c66598c3ce"
+    }
+  ],
+  "classes": [
+    "D.3",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_7ce5be1077cd4047a360385db0b0938c",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Use of F = BIL OR F/L = BI ✓ = 1.0 «N m<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Arrow drawn perpendicular (by eye) as shown.  ✓   Arrow can be drawn anywhere along the wire.</p>\n<p><figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{F}{L}=\\frac{\\mu _{0}}{2\\pi}\\frac{I_{R} I_{Z}}{r}\"></span> AND <span class=\"math\" data-latex=\"\\frac{F}{L}=B_{R} I_{Z}\"></span> ✓ Combine to give the result ✓   Must see subscripts on both I and B for full marks. Award [1 max] for correct derivations with incomplete subscripts.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>kg m s<sup>−2 </sup>A<sup>−2</sup> ✓   Allow fractional answers such as: <span class=\"math\" data-latex=\"\\frac{kg m}{s^{2} A^{2}}\"></span></p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>the magnetic field produced by the wire/I<sub>R</sub> is constant. ✓ therefore the «magnetic» flux/field through the coil is constant. ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"\\Delta  B = \\frac{{\\mu }_{0}}{2 \\pi } ( \\frac{10 - 2}{0.1} )\"></span> OR <span class=\"math\" data-latex=\"2\\times 10^{-5}-4\\times 10^{-6}=1.6\\times 10^{-5}\"></span>«<span class=\"math\" data-latex=\"T\"></span>» ✓ <span class=\"math\" data-latex=\"\\Delta  \\phi  = A \\Delta  B = ( \\pi  ) ( {0.02}^{2} ) ( ( 2 \\times  {10}^{- 5} ) - ( 4 \\times  {10}^{- 6} ) ) = 2.5 \\times  {10}^{- 8} - 5.03 \\times  {10}^{- 9}\"></span> = 2.01 × 10<sup>−8</sup> «Wb» ✓ <span class=\"math\" data-latex=\"\\mathcal{E}  = \\frac{n \\Delta  \\phi }{\\Delta  t} = \\frac{( 20 ) ( 2.01 \\times  {10}^{- 8} )}{0.5} = 8.0 \\times  {10}^{- 7}\"></span>«<span class=\"math\" data-latex=\"V\"></span>» ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Anticlockwise/counter clockwise/CCW ✓ magnetic field from the wire is «increasing» into the page OR induced field must be out of the page ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>sine graph with half the period, i.e. one large square/5 small squares (by eye) ✓ and twice the amplitude, i.e. four small squares (by eye) ✓</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>use of qvB = mv<sup>2</sup>/r OR <span class=\"math\" data-latex=\"r=\\frac{mv}{qB}\"></span> ✓ <span class=\"math\" data-latex=\"1.6\\times 10^{-19}\\times 4.0\\times 10^{-6}=\\frac{9.11\\times 10^{-31}\\times 9\\times 10^{5}}{r}\"></span> OR <span class=\"math\" data-latex=\"r=\\frac{9.11\\times 10^{-31}9\\times 10^{5}}{1.6\\times 10^{-19}4\\times 10^{-6}}\"></span> ✓ r = 1.28 OR 1.3 «m» ✓</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>Force/Field decreases as electron moves away from the wire ✓ Hence radius increases. ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A rod, R, lies perpendicular to a uniform magnetic field B of strength 0.50 T directed into the plane of the page. R is connected to a circuit and the electric current I<sub>R</sub> is 2.0 A.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate the magnitude of the force per unit length on R. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> </p><p>Identify on the diagram the direction of the force on R.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>B is removed and a wire Z, carrying a current I<sub>Z</sub>, is placed parallel to R.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> </p><p>Show that the magnetic field strength B<sub>R</sub> due to R at a point on Z is</p>\n<p><span class=\"math\" data-latex=\"B_{R}=\\frac{\\mu _{0}}{2\\pi}\\frac{I_{R}}{r}\"></span></p>\n<p>where r is the distance between R and Z.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Derive the units of <span class=\"math\" data-latex=\"\\mu _{0}\"></span> in SI fundamental units. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A small coil of wire of radius 2.0 cm and 20 turns is now located with its centre 10.0 cm from R. The current in R is kept constant at 2.0 A.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Explain why there is no current induced in the coil. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>The current in R increases at a constant rate from 2.0 A to 10.0 A in 0.5 seconds.</p>\n<p>Calculate the emf induced in the coil.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Deduce the direction of the current induced in (c)(ii). [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The coil is made to rotate such that an emf is induced. The graph shows the variation with time of the emf induced in the coil.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p>\n<p>The frequency of rotation is doubled. Draw on the graph the variation with time of the new emf induced.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> An electron is moving at constant velocity v = 9.0 × 10<sup>5</sup> m s<sup>−1</sup> parallel to a rod T, at a perpendicular distance d. T is connected to a cell via a switch. When the switch is closed the electron’s path curves with initial radius r. The magnetic field strength at the position of the electron at d is 4.0 × 10<sup>−6 </sup>T.</p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> Calculate the initial radius of the electron’s path. [3]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> Explain the subsequent change in the radius of the electron’s path. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

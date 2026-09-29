@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_dd76c73bf7c141d4969c1193ad4833cc",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rigid vessel contains a fixed mass of an ideal gas at a temperature of <span class=\"math\" data-latex=\"25\\text{ }^\\circ\\text{C}\"></span>. At what temperature will the pressure of the gas be twice its original value?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"50\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"323\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"298\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"596\\text{ }^\\circ\\text{C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

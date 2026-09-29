@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_a5b7e1918d544dd98270836b1dfb26d0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A diffraction grating has <span class=\"math\" data-latex=\"M\"></span> number of lines per unit length. When monochromatic light of wavelength 600 nm is incident on the grating, the third-order maximum is observed at an angle <span class=\"math\" data-latex=\"\\theta\"></span> to the straight-through direction. </p>\n<p>What is <span class=\"math\" data-latex=\"\\sin \\theta\"></span>?</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2.0 \\times 10^{-7} \\times M^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2.0 \\times 10^{-7} \\times M\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1.8 \\times 10^{-6} \\times M^{-1}\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"1.8 \\times 10^{-6} \\times M\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

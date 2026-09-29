@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1083f2da52176f3628c8545c429726ff3da3f992829c33b95b02178ef6f5700f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1083f2da52176f3628c8545c429726ff3da3f992829c33b95b02178ef6f5700f"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_79356a5e46954b67a3ab1dc4d00be207",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>use of inverse of gradient of ct’ axis ✔ v = 0.6c ✔</p>\n<p>Award [2] for a BCA</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>draws axis x’ through B and D ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>A and D ✔</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>line shown parallel to x’  ✔ through C ✔</p>\n<p>Accept answer C without working for MP2</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>shows 45° lines from A and D ✔ that meet on the ct’ axis ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Four events, A, B, C and D are plotted on the spacetime diagram. The ct – x axes are drawn in the reference frame of observer P. Observer Q is moving with respect to P. The ct′ axis for observer Q and the path of a beam of light L are shown. The scale on both axes is the same.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Determine the speed of observer Q with respect to observer P. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Draw and label the x′ axis for observer Q. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> List the events that occur simultaneously, according to observer P. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Identify, by annotating the diagram, which event occurs first according to Q. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Explain, using the diagram, why light from events A and D is received simultaneously by observer Q. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

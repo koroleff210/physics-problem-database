@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3e4e761847d93628a56521467fd782fe910ef2a6a60b0d270482edf7755ac25c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e4e761847d93628a56521467fd782fe910ef2a6a60b0d270482edf7755ac25c"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_da667cfd0a9b4f61b4fad4e40714cdd0",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave of period 10 ms travels through a medium. The graph shows the variation of particle displacement with distance for the wave.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average speed of a particle in the medium during one cycle?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4.0 m s<sup>−1</sup></li><li data-label=\"B\">8.0 m s<sup>−1</sup></li><li data-label=\"C\">16 m s<sup>−1</sup></li><li data-label=\"D\">20 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

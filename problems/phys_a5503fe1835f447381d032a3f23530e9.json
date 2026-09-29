@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b71dd580ae696ac0cb032be90fb716516af2b66db1d2a3f663007dbcc5743e88.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b71dd580ae696ac0cb032be90fb716516af2b66db1d2a3f663007dbcc5743e88"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_a5503fe1835f447381d032a3f23530e9",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>photon transfers «all» energy to electron ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>photon energy is less than both work functions<br/>OR<br/>photon energy is insufficient «to remove an electron» ✓</p>\n<p><br/>Answer must be in terms of photon energy.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Identifies P work function lower than Q work function ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>changing/doubling intensity «changes/doubles number of photons arriving but» does not change energy of photon ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"5.1\\times 10^{-19}=1.1\\times 10^{-18}-ϕ\"></span> ✓ work function <span class=\"math\" data-latex=\"= \\frac{11.0-5.1\\times 10^{-19}}{1.6\\times 10^{-19}}=  3.7 eV\"></span>  ✓ <br/>Award [2] marks for a bald correct answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>In an experiment to demonstrate the photoelectric effect, monochromatic electromagnetic radiation from source A is incident on the surfaces of metal P and metal Q. Observations of the emission of electrons from P and Q are made.</p>\n<p>The experiment is then repeated with two other sources of electromagnetic radiation: B and C. The table gives the results for the experiment and the wavelengths of the radiation sources.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Outline the cause of the electron emission for radiation A. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Outline why electrons are never emitted for radiation C. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Outline why radiation B gives different results. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why there is no effect on the table of results when the intensity of source B is doubled. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Photons with energy 1.1 × 10<sup>−18 </sup>J are incident on a third metal surface. The maximum energy of electrons emitted from the surface of the metal is 5.1 × 10<sup>−19 </sup>J.</p>\n<p>Calculate, in eV, the work function of the metal.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

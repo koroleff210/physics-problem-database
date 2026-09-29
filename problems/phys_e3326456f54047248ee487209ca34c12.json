@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e3326456f54047248ee487209ca34c12",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student performs an experiment to determine the acceleration of a cart that starts from rest and moves along a straight horizontal track. The position <span class=\"math\" data-latex=\"x\"></span> of the cart is measured at regular time intervals <span class=\"math\" data-latex=\"t\"></span>. The results are recorded in the table below.</p>\n<table><thead><tr><th>Time <span class=\"math\" data-latex=\"t\"></span> / s</th><th>Position <span class=\"math\" data-latex=\"x\"></span> / cm</th></tr></thead><tbody><tr><td>0.0</td><td>0.0</td></tr><tr><td>0.5</td><td>5.0</td></tr><tr><td>1.0</td><td>20.0</td></tr><tr><td>1.5</td><td>45.0</td></tr><tr><td>2.0</td><td>80.0</td></tr></tbody></table>\n<p>What is the magnitude of the acceleration of the cart?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10 \\text{ cm s}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"20 \\text{ cm s}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"40 \\text{ cm s}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"80 \\text{ cm s}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

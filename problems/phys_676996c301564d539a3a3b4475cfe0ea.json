@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d441a1e98b3161e21bb437db5a3b948bb545c0609a1149cf598ab84638d15e39.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d441a1e98b3161e21bb437db5a3b948bb545c0609a1149cf598ab84638d15e39"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/848840cbedc16f9aade3e535e21e14904314927fcd5aaf7ccf238b5a29919fcb.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "848840cbedc16f9aade3e535e21e14904314927fcd5aaf7ccf238b5a29919fcb"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_676996c301564d539a3a3b4475cfe0ea",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charge Q is at a point between two electric charges Q<sub>1</sub> and Q<sub>2</sub>. The net electric force on Q is zero. Charge Q<sub>1</sub> is further from Q than charge Q<sub>2</sub>.</p>\n<p>What is true about the signs of the charges Q<sub>1</sub> and Q<sub>2</sub> and their magnitudes?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

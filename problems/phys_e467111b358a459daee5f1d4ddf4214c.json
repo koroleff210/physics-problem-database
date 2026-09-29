@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_e467111b358a459daee5f1d4ddf4214c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two point charges are separated by a distance <span class=\"math\" data-latex=\"d\"></span>. The force acting between the charges is <span class=\"math\" data-latex=\"F\"></span>. The distance between the point charges is changed so that the force acting between them becomes <span class=\"math\" data-latex=\"4F\"></span>. What is the new distance between the charges?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{d}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{d}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2d\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4d\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

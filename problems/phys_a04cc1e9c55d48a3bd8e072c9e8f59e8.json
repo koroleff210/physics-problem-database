@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_a04cc1e9c55d48a3bd8e072c9e8f59e8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An alpha particle is fired head-on at a stationary nucleus. The relationship between the initial kinetic energy of the alpha particle, the charge of the target nucleus, and the distance of closest approach is shown in the table below.</p>\n<table><thead><tr><th>Kinetic energy of alpha particle</th><th>Charge of target nucleus</th><th>Distance of closest approach</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"E_k\"></span></td><td><span class=\"math\" data-latex=\"Q\"></span></td><td><span class=\"math\" data-latex=\"R\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"0.5 E_k\"></span></td><td><span class=\"math\" data-latex=\"2Q\"></span></td><td><span class=\"math\" data-latex=\"x\"></span></td></tr></tbody></table>\n<p>What is the value of <span class=\"math\" data-latex=\"x\"></span> in terms of <span class=\"math\" data-latex=\"R\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"R\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2R\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4R\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"R/4\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

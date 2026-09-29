@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3bf0d9806ee975df62923292201b95479f7c276db23198c57b4d705466b507f8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3bf0d9806ee975df62923292201b95479f7c276db23198c57b4d705466b507f8"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_6ca6dae8ee884beb8b13fa5ba59a9e1f",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/><br/>the intensity of the maxima is not the same/intensity appears modulated by single slit diffraction pattern/there are secondary maxima and minima ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>diffraction minimum at 0.05 rad ✔<br/><span class=\"math\" data-latex=\"b=\"></span>«<span class=\"math\" data-latex=\"\\frac{\\lambda}{ϑ}=\\frac{6.0\\times 10^{-7}}{0.05}=\"></span>» <span class=\"math\" data-latex=\"1.2\\times 10^{-5}\"></span> «m»✔   Allow ECF from MP1. Award [0] for use of  <span class=\"math\" data-latex=\"n\\lambda=d sin ϑ\"></span></p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>diffraction occurs/light diffracts «at each slit» ✔<br/>light arrives «from each slit» at central max in phase/path difference to central max is zero ✔<br/>constructive superposition/interference takes place ✔ <br/>For MP2 do not allow general statements of phase/path difference e.g. 2π or integer number of wavelengths. Question asks about central maximum.</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>amplitude « at θ = 0 » is the sum from the 2 slits/double that from a single slit ✔<br/>intensity is proportional to the square of the amplitude<br/>OR<br/>Intensity is proportional to (number of slits)<sup>2</sup> ✔<br/><br/> Accept an equation for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/><br/> ALTERNATIVE 1<br/>smallest wavelength that can be resolved is<br/><span class=\"math\" data-latex=\"\\Delta\\lambda=\"></span>«<span class=\"math\" data-latex=\"\\frac{\\lambda}{mN}=\\frac{589.3}{2\\times 400}\"></span>» <span class=\"math\" data-latex=\"0.737\"></span> «nm»✔<br/>so the 2 lines cannot be resolved since 0.6 &lt; 0.737 ✔<br/><br/> ALTERNATIVE 2<br/>«Required resolvance <span class=\"math\" data-latex=\"=\\frac{\\lambda}{\\Delta\\lambda}=\"></span>» <span class=\"math\" data-latex=\"\\frac{589.3}{0.6}\"></span> «<span class=\"math\" data-latex=\"=982\"></span>» AND «Grating resolvance <span class=\"math\" data-latex=\"=mN =\"></span>» <span class=\"math\" data-latex=\"2\\times 200 =\"></span> «<span class=\"math\" data-latex=\"800\"></span>» ✔<br/>so the 2 lines cannot be resolved since 800 &lt; 982 ✔ <br/>Allow working based on resolvance. Accept calculations leading to comparison of <span class=\"math\" data-latex=\"N\"></span> = 490 and 400. Accept calculations leading to comparison of <span class=\"math\" data-latex=\"m\"></span> = 2.46 and 2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Light of wavelength 6.0 × 10<sup>−7 </sup>m is incident on two parallel slits.</p>\n<p>The graph shows the variation with diffraction angle θ of the intensity <span class=\"math\" data-latex=\"I\"></span> of light observed on a screen far from the slits. <span class=\"math\" data-latex=\"I_{0}\"></span> is the intensity of light on the screen due to one slit only.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Identify a feature of this graph that suggests that the slit width is not negligible. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate the slit width. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Outline how the central maximum is formed. [3]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> Explain why the intensity of the central maximum is equal to <span class=\"math\" data-latex=\"4I_{0}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The spectrum of sodium contains two lines at wavelengths 589.0 nm and 589.6 nm.</p>\n<p>400 slits of a diffraction grating are illuminated. Determine whether these lines are resolved in the second order.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

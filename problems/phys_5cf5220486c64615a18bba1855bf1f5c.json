@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_5cf5220486c64615a18bba1855bf1f5c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which is correct for a black-body radiator?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The power it emits from a unit surface area depends on the temperature only.</li><li data-label=\"B\">It has an albedo of 1.</li><li data-label=\"C\">It emits monochromatic radiation whose wavelength depends on the temperature only.</li><li data-label=\"D\">It emits radiation of equal intensity at all wavelengths.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

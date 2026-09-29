@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f6274aee50fb7ad6a5efc7062f3461461d6917239421f8ddabd03369d425622b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f6274aee50fb7ad6a5efc7062f3461461d6917239421f8ddabd03369d425622b"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_44a941a1f0634aeaa7286472dc06797f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks of the same cross-sectional area are joined as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The left end of the first block is held at a constant temperature of <span class=\"math\" data-latex=\"800\\: \\textup{K}\"></span> and the right end of the second block is held at a constant temperature of <span class=\"math\" data-latex=\"T\"></span>. The temperature at the point where the blocks are joined is <span class=\"math\" data-latex=\"500\\: \\textup{K}\"></span>. The first block has a length of <span class=\"math\" data-latex=\"2L\"></span> and a conductivity of <span class=\"math\" data-latex=\"5k\"></span>. The second block has a length of <span class=\"math\" data-latex=\"L\"></span> and a conductivity of <span class=\"math\" data-latex=\"3k\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"T\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"150\\: \\textup{K}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"250\\: \\textup{K}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"300\\: \\textup{K}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"400\\: \\textup{K}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

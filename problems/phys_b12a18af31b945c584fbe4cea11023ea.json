@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_b12a18af31b945c584fbe4cea11023ea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monochromatic beam of light is incident normally on a diffraction grating. The wavelength of the light is <span class=\"math\" data-latex=\"500\\ \\text{nm}\"></span> and the grating has 500 lines <span class=\"math\" data-latex=\"\\text{mm}^{-1}\"></span>. What is the angular position of the second-order maximum?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"14.5^\\circ\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"24.0^\\circ\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"30.0^\\circ\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"45.6^\\circ\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

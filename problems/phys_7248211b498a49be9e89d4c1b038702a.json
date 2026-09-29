@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_7248211b498a49be9e89d4c1b038702a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The maximum acceleration of an object that oscillates with simple harmonic motion (SHM) is <span class=\"math\" data-latex=\"20\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>. The distance between the two maximum displacement positions of the object is <span class=\"math\" data-latex=\"20\"></span> m. What is the magnitude of the object's velocity when it is halfway between the maximum displacement and the equilibrium positions?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{150}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{300}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{600}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{1200}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

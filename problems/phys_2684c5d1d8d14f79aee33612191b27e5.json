@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/818eef7b8eb5c3bf441eaae08ecaf471f8368d8ff9ae9cb0d199fb427f34b5a2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "818eef7b8eb5c3bf441eaae08ecaf471f8368d8ff9ae9cb0d199fb427f34b5a2"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_2684c5d1d8d14f79aee33612191b27e5",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The centre of the Earth and the Moon are a distance <span class=\"math\" data-latex=\"D\"></span> apart. There is a point X between them where their gravitational fields cancel out. The distance from the centre of the Earth to X is <span class=\"math\" data-latex=\"d\"></span>. The mass of the Earth is <span class=\"math\" data-latex=\"M_{E}\"></span> and the mass of the Moon is <span class=\"math\" data-latex=\"M_{M}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is correct at X?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{M_{E}}{d}=\\frac{M_{M}}{D-d}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{M_{E}}{D-d}=\\frac{M_{M}}{d}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{M_{E}}{d^{2}}=\\frac{M_{M}}{D-d^{2}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{M_{E}}{d^{2}}=\\frac{M_{M}}{D^{2}-d^{2}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

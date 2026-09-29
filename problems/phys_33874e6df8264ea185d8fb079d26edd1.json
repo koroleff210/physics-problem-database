@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/969c39b06d385b7a345762426969d1d21cf2300a95a623c4e1d222241961122d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "969c39b06d385b7a345762426969d1d21cf2300a95a623c4e1d222241961122d"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_33874e6df8264ea185d8fb079d26edd1",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A quantity of an ideal gas is at a temperature T in a cylinder with a movable piston that traps a length L of the gas. The piston is moved so that the length of the trapped gas is reduced to <span class=\"math\" data-latex=\"\\frac{5L}{6}\"></span> and the pressure of the gas doubles.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the temperature of the gas at the end of the change?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{5}{12}T\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{5}T\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5}{3}T\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{12}{5}T\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

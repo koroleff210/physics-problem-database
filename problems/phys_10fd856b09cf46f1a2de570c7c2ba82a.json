@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_10fd856b09cf46f1a2de570c7c2ba82a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A truck takes half an hour to drive up on a mountain road. The rate at which the truck gains gravitational potential energy is <span class=\"math\" data-latex=\"10\"></span> kW and the vertical height gained by the truck is <span class=\"math\" data-latex=\"360\"></span> m. What is the best estimate for the mass of the truck?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"500\"></span> kg</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2000\"></span> kg</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"5000\"></span> kg</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"20000\"></span> kg</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

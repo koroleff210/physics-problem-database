@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_9f9048611e154a02bfffcb74621dc00b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object with mass <span class=\"math\" data-latex=\"m\"></span> falls through the air with a terminal speed <span class=\"math\" data-latex=\"v\"></span> for a short time <span class=\"math\" data-latex=\"t\"></span>.</p>\n<p>What is the work done on the air by the falling object during this time? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"mgvt\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"mgt\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mgv}{t}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{mv}{t}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

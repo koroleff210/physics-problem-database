@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4",
+    "C.2",
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_8caa93e7ac594c5ba722569a10c53be7",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"7a\"><p><strong>7a</strong></p><p>Using the formula <span class=\"math\" data-latex=\"v = \\frac{2\\pi r}{T}\"></span> we get:</p>\n<p><span class=\"math\" data-latex=\"v = \\frac{2\\pi (8.2 \\times 10^{11})}{18.9 \\times 24 \\times 60 \\times 60} \\approx 3.16 \\times 10^{6}\\:\\textup{m\\,s}^{-1} \\approx 3 \\times 10^{6}\\: \\textup{m\\,s}^{-1}\"></span></p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"7b\"><p><strong>7b</strong></p><p>There is relative motion between the edges of the star and Earth, so due to the Doppler effect, the detected wavelength will be different from the emitted wavelength.</p>\n<p>For the edge that is moving towards Earth the detected wavelength is shorter than the emitted wavelength (it is blue-shifted).</p>\n<p>For the edge that is moving away from Earth the detected wavelength is longer than the emitted wavelength (it is red-shifted).</p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"7c\"><p><strong>7c</strong></p><p>Using the formula <span class=\"math\" data-latex=\"\\frac{\\Delta \\lambda}{\\lambda} \\approx \\frac{v}{c}\"></span> we get:</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\Delta \\lambda}{580 \\times 10^{-9}} \\approx \\frac{3 \\times 10^{6}}{3 \\times 10^{8}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta \\lambda = 580 \\times 10^{-11}\\:\\textup{m}\"></span></p>\n<p>For the edge that is rotating away from Earth the detected wavelength is longer than the emitted wavelength, so it is:</p>\n<p><span class=\"math\" data-latex=\"\\lambda_{D} = 580 \\times 10^{-9} + 580 \\times 10^{-11} = 585.8 \\times 10^{-9}\\:\\textup{m}\"></span></p>\n<p>Substituting into <span class=\"math\" data-latex=\"v = f \\lambda\"></span>:</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{3 \\times 10^{8}}{585.8 \\times 10^{-9}} \\approx 5.1 \\times 10^{14}\\:\\textup{Hz}\"></span></p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"7d\"><p><strong>7d</strong></p><p>The Doppler effect formula for electromagnetic waves can only be used when the relative speed between the source and the observer is much smaller than the speed of light in vacuum (generally, less <span class=\"math\" data-latex=\"0.1c\"></span>).</p>\n<p>As the speed <span class=\"math\" data-latex=\"2.4 \\times 10^{5}\\: \\textup{km\\,s}^{-1}\"></span> is <span class=\"math\" data-latex=\"0.8c\"></span>, the student’s prediction will not be accurate.</p>\n<p>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The rotational period of a distant star is <span class=\"math\" data-latex=\"18.9\\:\\textup{days}\"></span>. </p>\n<p>(a)   Given that the radius of the star is <span class=\"math\" data-latex=\"8.2 \\times 10^{8}\\: \\textup{km}\"></span>, show that the edge of the star rotates at a speed of approximately <span class=\"math\" data-latex=\"3 \\times 10^{6}\\: \\textup{m\\,s}^{-1}\"></span>.</p>\n<p>    [2]</p>\n<p>The star emits light of wavelength <span class=\"math\" data-latex=\"580\\:\\textup{nm}\"></span>. As the star rotates, one of its edges is moving away from Earth while its other edge is moving towards Earth. </p>\n<p>(b)   State and explain how the wavelength detected on Earth from the two edges is affected by the rotation of the star.</p>\n<p>  [3]</p>\n<p>(c)   An observer on Earth measures the frequency of the light that is emitted by the edge rotating away from Earth.  Determine the frequency of the light as measured on Earth that is emitted by the edge that is rotating away from Earth.</p>\n<p>  [3]</p>\n<p>A distant galaxy is moving away from Earth at a speed of <span class=\"math\" data-latex=\"2.4 \\times 10^{5}\\: \\textup{km\\,s}^{-1}\"></span>. The galaxy emits monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>. A student uses the Doppler effect formula for electromagnetic waves to predict the wavelength of the light as measured on Earth.</p>\n<p>(d)   Outline whether or not the student’s prediction will be accurate.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

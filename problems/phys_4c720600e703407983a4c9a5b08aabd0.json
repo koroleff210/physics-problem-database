@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_4c720600e703407983a4c9a5b08aabd0",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>When two waves meet and combine to form a larger amplitude.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Constructive interference occurs when the path difference is an integer multiple of the wavelength. [1 mark]</p>\n<p><span class=\"math\" data-latex=\"\\\\Delta x = n\\\\lambda\"></span>, where <span class=\"math\" data-latex=\"n\"></span> is an integer. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Very low amplitude or silence. [1 mark]</p>\n<p>Due to waves being out of phase and cancelling each other. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two speakers emit sound waves of the same frequency and are placed a fixed distance apart.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define constructive interference. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain the condition for constructive interference in terms of path difference. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe what a person hears when standing at a point of destructive interference. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

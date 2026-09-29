@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_46a946d0b35f4c328d6ae5033597154a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A photon of wavelength <span class=\"math\" data-latex=\"\\lambda_{0}\"></span> scatters off an electron at rest. The shift in photon wavelength is <span class=\"math\" data-latex=\"\\Delta\\lambda\"></span>. What is the kinetic energy of the scattered electron?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{hc}{\\Delta\\lambda}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{hc}{\\lambda_{0}+\\Delta\\lambda}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{hc}{\\lambda_{0}}-\\frac{hc}{\\Delta\\lambda}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{hc}{\\lambda_{0}}-\\frac{hc}{\\lambda_{0}+\\Delta\\lambda}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

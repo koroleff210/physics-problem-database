@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5",
+    "C.2",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_55b650d1daeb4caea63d7bf3e852c6d4",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"18a\"><p><strong>18a</strong></p><p></p>\n<p>The bright and dark rings on the screen represent maxima and minima.</p>\n<p>These maxima and minima are formed as a result of constructive/destructive interference.</p>\n<p>Since interference is a wave phenomenon, the experiment demonstrates the wave nature of electrons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"18b\"><p><strong>18b</strong></p><p></p>\n<p>Kinetic energy of electrons = Work done on the electrons by the electric field</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}m_{e}v^{2} = eV\"></span></p>\n<p>There are different ways to combine this equation with the equation for the de Broglie wavelength. An example is:</p>\n<p>Multiplying both sides by <span class=\"math\" data-latex=\"2m_{e}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"(m_{e}v)^{2} = 2em_{e}V\"></span></p>\n<p><span class=\"math\" data-latex=\"m_{e}v = p = \\sqrt{2em_{e}V}\"></span></p>\n<p>Substituting into the equation for the de Broglie wavelength:</p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{h}{\\sqrt{2em_{e}V}}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"18c(i)\"><p><strong>18c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{6.63 \\times 10^{-34}}{\\sqrt{2 \\times (1.60 \\times 10^{-19}) \\times (9.11 \\times 10^{-31}) \\times (4.3 \\times 10^{3})}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda \\approx 1.87 \\times 10^{-11}\"></span> m <span class=\"math\" data-latex=\"\\approx 1.9 \\times 10^{-11}\"></span> m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"18c(ii)\"><p><strong>18c(ii)</strong></p><p></p>\n<p>Using <span class=\"math\" data-latex=\"\\lambda = \\frac{h}{mv}\"></span></p>\n<p><span class=\"math\" data-latex=\"v = \\frac{6.63 \\times 10^{-34}}{(1.9 \\times 10^{-11}) \\times (9.11 \\times 10^{-31})} \\approx 3.83 \\times 10^{7}\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"X = \\frac{3.83 \\times 10^{7}}{3 \\times 10^{8}} \\times 100\"></span>% <span class=\"math\" data-latex=\"\\approx 13\"></span>%</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment electrons are passed through a thin slice of crystal. A series of bright and dark rings are observed on a screen behind the crystal.</p>\n<p></p>\n<p>a. Outline how this experiment demonstrates the wave nature of electrons. </p>\n<p>  [3]</p>\n<p>b. The electrons are accelerated through a potential difference of <span class=\"math\" data-latex=\"V\"></span>. The de Broglie wavelength of the electrons is given by the equation <span class=\"math\" data-latex=\"\\lambda = \\frac{h}{p}\"></span>. Show that <span class=\"math\" data-latex=\"\\lambda = \\frac{h}{\\sqrt{2em_{e}V}}\"></span></p>\n<p>  [3]</p>\n<p>c. When <span class=\"math\" data-latex=\"V = 4.3\"></span> kV, the electrons are accelerated to <span class=\"math\" data-latex=\"X\"></span>% of the speed of light in vacuum. </p>\n<p>i. Find the de Broglie wavelength of the electrons.</p>\n<p>  [1]</p>\n<p>ii. Find the value of <span class=\"math\" data-latex=\"X\"></span>.</p>\n<p>  [2]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

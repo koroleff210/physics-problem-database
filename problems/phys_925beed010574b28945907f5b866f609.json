@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d654bc688747528dc20389365ae1db123be109fc364e53dcf2ff1c0e0d290923.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d654bc688747528dc20389365ae1db123be109fc364e53dcf2ff1c0e0d290923"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "B.5",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_925beed010574b28945907f5b866f609",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p></p>\n<p>To the left.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"m = V \\rho = \\pi r^{2} L \\rho\"></span></p>\n<p><span class=\"math\" data-latex=\"mg = 4BIL\"></span></p>\n<p><span class=\"math\" data-latex=\"\\pi r^{2} L \\rho g = 4BIL\"></span></p>\n<p><span class=\"math\" data-latex=\"r = \\sqrt{\\frac{4BI}{\\rho \\pi g}} = \\sqrt{\\frac{(4)(3.8) \\left ( 7 \\times 10^{14} \\times 1.6 \\times 10^{-19}\\right )}{(8960) (\\pi)(9.81)}} \\approx 7.9 \\times 10^{-5}\"></span> m</p>\n<p>So the diameter is about <span class=\"math\" data-latex=\"2 \\times 10^{-4}\"></span> m or <span class=\"math\" data-latex=\"0.2\"></span> mm</p>\n<p>Final answer must be given to 1 significant figure.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A current-carrying copper wire is placed into a uniform magnetic field. The direction of the current in the wire is out of the page and the direction of the magnetic field is vertically upwards.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. State the direction of the electromagnetic force on the wire.</p>\n<p>   [1]</p>\n<p>The following data is given:</p>\n<p></p>\n<p>Strength of the magnetic field: <span class=\"math\" data-latex=\"3.8\"></span> T</p>\n<p>Number of electrons passing through the wire’s cross-sectional area per second: <span class=\"math\" data-latex=\"7 \\times 10^{14}\"></span></p>\n<p>Density of copper: <span class=\"math\" data-latex=\"8.96\"></span> g cm<span class=\"math\" data-latex=\"^{-3}\"></span></p>\n<p></p>\n<p>The weight of the wire is four times the electromagnetic force that acts on the wire.</p>\n<p>b. Find the diameter of the wire. Give your answer to an appropriate number of significant figures.</p>\n<p>    [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

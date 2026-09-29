@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d6364bdf68ca43a1826a8a7d0ac3db7b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following describes the phase difference between two adjacent antinodes in a standing wave?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\dfrac{\\pi}{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\pi\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2\\pi\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_3b5236eee2864e5b840c444b1172e6e6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed container holds a fixed mass of ideal gas A. The density of  gas A is <span class=\"math\" data-latex=\"\\rho\"></span> and the rms speed of its molecules is <span class=\"math\" data-latex=\"v\"></span>. An identical sealed container holds a fixed mass of ideal gas B. The density of gas B is <span class=\"math\" data-latex=\"3\\rho\"></span> and the rms speed of its molecules is <span class=\"math\" data-latex=\"\\frac{v}{2}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textup{internal energy of gas A}}{\\textup{internal energy of gas B}}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

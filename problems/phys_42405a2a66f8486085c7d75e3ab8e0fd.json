@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_42405a2a66f8486085c7d75e3ab8e0fd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A probe of mass <span class=\"math\" data-latex=\"m\"></span> is moved from the surface of a planet of radius <span class=\"math\" data-latex=\"R\"></span> to a position at a distance <span class=\"math\" data-latex=\"3R\"></span> from the center of the planet. The gravitational field strength at the surface of the planet is <span class=\"math\" data-latex=\"g\"></span>. What is the increase in the gravitational potential energy of the probe?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{3}mgR\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{2}{3}mgR\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2mgR\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3mgR\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": null,
+  "id": "phys_35f7b89658cb46e3840d484c06b9442d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In reference frame <span class=\"math\" data-latex=\"S\"></span>, two lightning strikes occur at the same spatial location and are separated by a time interval of <span class=\"math\" data-latex=\"3.0 \\times 10^{-6} \\, \\text{s}\"></span>. An observer in reference frame <span class=\"math\" data-latex=\"S^{\\prime}\"></span>, which is moving at a constant velocity relative to <span class=\"math\" data-latex=\"S\"></span>, measures the time interval between these same two strikes to be <span class=\"math\" data-latex=\"5.0 \\times 10^{-6} \\, \\text{s}\"></span>.</p>\n<p>What is the spatial distance between the two lightning strikes as measured in frame <span class=\"math\" data-latex=\"S^{\\prime}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"6.0 \\times 10^{2} \\, \\text{m}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.2 \\times 10^{3} \\, \\text{m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.5 \\times 10^{3} \\, \\text{m}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.8 \\times 10^{3} \\, \\text{m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

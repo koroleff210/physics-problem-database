@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_02437f118a3a4510866bb2e4b19ee4d7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A neutron is absorbed by a nucleus of uranium-235<sup>235</sup><sub>92</sub>U. One possible outcome is the production of two nuclides, barium-144<sup>144</sup><sub>56</sub>Ba and krypton-89<sup>89</sup><sub>36</sub>Kr.</p>\n<p>How many neutrons are released in this reaction?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0</li><li data-label=\"B\">1</li><li data-label=\"C\">2</li><li data-label=\"D\">3</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

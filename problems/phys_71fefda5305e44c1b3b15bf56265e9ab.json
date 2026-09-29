@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ee273692b12362c59cd4890024295b03a4ef0bfc217e8905196ccb631d9019bd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ee273692b12362c59cd4890024295b03a4ef0bfc217e8905196ccb631d9019bd"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_71fefda5305e44c1b3b15bf56265e9ab",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The wave generators at points A and B create waves that have a wavelength of <span class=\"math\" data-latex=\"6\"></span> cm. When only one of the generators is operating, the amplitude of the generated wave at point C is <span class=\"math\" data-latex=\"2\"></span> cm.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the amplitude of the resulting wave at point C when the two generators operate in phase?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">zero</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2\"></span> cm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4\"></span> cm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8\"></span> cm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

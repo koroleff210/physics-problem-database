@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_521108628e6949cf8534765f5d6158dd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>A: This distractor is based on the incorrect linear subtraction of the displacement ratio from the maximum value, assuming <span class=\"math\" data-latex=\"v = v_0(1 - 0.6)\"></span>. In SHM, the relationship between speed and displacement is non-linear and governed by the conservation of energy or trig identities.</p>\n<p>B: This distractor arises when the student correctly identifies the term <span class=\"math\" data-latex=\"1 - (x/x_0)^2\"></span> from the velocity equation <span class=\"math\" data-latex=\"v = v_0\\sqrt{1 - (x/x_0)^2}\"></span> but fails to take the square root of <span class=\"math\" data-latex=\"0.64\"></span> at the final step.</p>\n<p>C: This distractor assumes a direct proportionality between speed and displacement (<span class=\"math\" data-latex=\"v \\propto x\"></span>), or simply replicates the value provided for the displacement ratio without applying the kinematic equations of SHM.</p>\n<p>D: The relationship between speed <span class=\"math\" data-latex=\"v\"></span> and displacement <span class=\"math\" data-latex=\"x\"></span> in simple harmonic motion is given by <span class=\"math\" data-latex=\"v = \\omega \\sqrt{x_0^2 - x^2}\"></span>.<br/>- The maximum speed <span class=\"math\" data-latex=\"v_0\"></span> occurs at the equilibrium position (<span class=\"math\" data-latex=\"x = 0\"></span>), which gives <span class=\"math\" data-latex=\"v_0 = \\omega x_0\"></span>.<br/>- By substituting the given displacement <span class=\"math\" data-latex=\"x = 0.6x_0\"></span> into the equation: <span class=\"math\" data-latex=\"v = \\omega \\sqrt{x_0^2 - (0.6x_0)^2}\"></span><br/>- <span class=\"math\" data-latex=\"v = \\omega \\sqrt{x_0^2 - 0.36x_0^2} = \\omega \\sqrt{0.64x_0^2}\"></span><br/>- <span class=\"math\" data-latex=\"v = 0.8\\omega x_0\"></span><br/>- Since <span class=\"math\" data-latex=\"v_0 = \\omega x_0\"></span>, the speed is <span class=\"math\" data-latex=\"0.80 v_0\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle executes simple harmonic motion (SHM) with an amplitude of <span class=\"math\" data-latex=\"x_0\"></span> and a maximum speed of <span class=\"math\" data-latex=\"v_0\"></span>. What is the speed of the particle at the instant its displacement from the equilibrium position is <span class=\"math\" data-latex=\"0.6x_0\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.40 v_0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.64 v_0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.60 v_0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.80 v_0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

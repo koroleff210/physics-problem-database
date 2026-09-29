@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_393f3a0c09f84f8196887143a50a5f1a",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"0.90\\times 4.0\\times 10^{-2}\\times \\frac{60-20}{0.003}\"></span> ✓ 480 «W» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The temperature gradient decreases as the water cools down ✓ The rate of energy transfer is proportional to the temperature gradient ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"480 = 4200 \\times  0.50 \\times  \\frac{\\Delta T}{\\Delta t}\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{\\Delta T}{\\Delta t} = 0.23\"></span> «K s<sup>−1</sup>» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A sealed bottle contains 0.50 kg of water at an initial temperature of 60 °C. The bottle is made of glass of thickness 3.0 mm and thermal conductivity 0.90 W m<sup>−1</sup> K<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The temperature of the air outside of the bottle is 20 °C. The surface area of the bottle is 4.0 × 10<sup>−2</sup> m<sup>2</sup>. Calculate the initial rate of thermal energy transfer by conduction through the bottle. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why the rate calculated in part (a) is decreasing. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Estimate the initial rate of the change of the temperature of the water in the bottle. State your answer in K s<sup>−1</sup>. The specific heat capacity of water is 4200 J kg<sup>−1</sup> K<sup>−1</sup>. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0e65bd4a54ce17b7206904237d15b6f27927b25ffd29131158ee099e6ff9f671.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0e65bd4a54ce17b7206904237d15b6f27927b25ffd29131158ee099e6ff9f671"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_cfd553fd73334ce9945d31948af76a7e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>On the following spacetime diagram, <span class=\"math\" data-latex=\"ct'\"></span> is the world line of a spacecraft and <span class=\"math\" data-latex=\"x'\"></span> is the space axis of its reference frame. Two photons, A and B, are emitted towards the spacecraft. The emission and the world line of each photon is shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The photons arrive at the spacecraft simultaneously.</p>\n<p>Which of the following statements is correct in the reference frame of the spacecraft?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The distance travelled by photon A is the same as the distance travelled by photon B.</li>\n<li data-label=\"B\">The distance travelled by photon A is less than the distance travelled by photon B.</li>\n<li data-label=\"C\">It takes less time for photon A than for photon B to arrive at the spacecraft.</li>\n<li data-label=\"D\">The speed of photon A is greater than the speed of photon B.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

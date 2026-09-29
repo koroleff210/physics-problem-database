@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4c44f646546140df850a2a9b0f064b60",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which subatomic particle determines the atomic number of an element?</p><ol class=\"mcq-options\"><li data-label=\"A\">Neutron</li><li data-label=\"B\">Electron</li><li data-label=\"C\">Proton</li><li data-label=\"D\">Positron</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

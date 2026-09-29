@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_d4d97896a1f145749c896312a74c3805",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about the electromagnetic spectrum are:</p>\n<p>I. Electromagnetic waves are transverse waves.</p>\n<p>II. Radiation with a longer wavelength has greater penetration.</p>\n<p>III. Radiation with a higher frequency has greater ionizing power.</p>\n<p>Which of the above statements are true?</p><ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II, and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

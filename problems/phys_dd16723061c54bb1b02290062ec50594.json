@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d85e41ed16716263a6e06c78427e6c41d2dc829ee3017735c35b7b76055b7c01.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d85e41ed16716263a6e06c78427e6c41d2dc829ee3017735c35b7b76055b7c01"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_dd16723061c54bb1b02290062ec50594",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Hertzsprung–Russell diagram shows three stars X, Y and Z.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>Which of the following lists the stars in the order of their evolutionary stage?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">X, Y, Z</li><li data-label=\"B\">Z, Y, X</li><li data-label=\"C\">Y, X, Z</li><li data-label=\"D\">Y, Z, X</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

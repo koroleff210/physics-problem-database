@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a15b7d2ba764468c8069ea2f14bc29c5",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>average intensity at Ceres orbit<br/><span class=\"math\" data-latex=\"= ( \\frac{3.8 \\times  {10}^{26}}{4 \\times  π \\times  {( 4.4 \\times  {10}^{11} )}^{2}} )  = 156 \\, W \\, {m}^{- 2}\"></span> ✔<br/>average incident intensity <span class=\"math\" data-latex=\"=\\frac{156}{4}=≪39≫\"></span> ✔<br/>temperature <span class=\"math\" data-latex=\"=\\frac{39}{5.67\\times 10^{-8}}^{\\frac{1}{4}}=160 ≪K≫\"></span> ✔ Allow ECF from MP1 and MP2</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>«kinetic» energy of decay products is converted to/transferred as thermal energy ✔<br/>«primarily» by conduction ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>gases have no/weaker intermolecular forces/bonds &lt;&lt;than for solids&gt;&gt; ✔<br/>gases larger intermolecular distances &lt;&lt;than for solids&gt;&gt; ✔<br/>molecules in gases move freely &lt;&lt;but in solids do not&gt;&gt; ✔ &lt;&lt;same temperature so&gt;&gt; same Ek ✔ Accept reverse arguments</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>235 K used ✔ <span class=\"math\" data-latex=\"\\frac{160\\times 8.31\\times 235}{8.9}\"></span> seen ✔ 3.5<span class=\"math\" data-latex=\"\\times\"></span>10<sup>4</sup> &lt;&lt;m<sup>3</sup>&gt;&gt; ✔ Award [3] for BCA<br/>Award [2] for 5.7<span class=\"math\" data-latex=\"\\times\"></span>10<sup>3</sup> &lt;&lt;m<sup>3</sup>&gt;&gt; (for use of T in Celsius)</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Ceres is a dwarf planet in the asteroid belt. The following data are available.</p>\n<table><tbody><tr><td><p>Mean distance of Ceres from the Sun</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 4.4<span class=\"math\" data-latex=\"\\times\"></span>10<sup>11</sup> m</p></td></tr><tr><td><p>Mean power output of the Sun</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 3.8<span class=\"math\" data-latex=\"\\times\"></span>10<sup>26</sup> W</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Determine the mean temperature of Ceres assuming that it acts as a black-body radiator. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Ceres has a solid rocky core covered with solid ice. The mean temperature is higher than your answer in (a)(i) because radioactive nuclei in the centre of Ceres are decaying. Outline how the energy from the radioactive decay reaches the surface. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> At the mean temperature of Ceres water undergoes a phase change directly from solid to gas.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Compare the molecular conditions of the solid phase and the gas phase at the same temperature. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> About 160 mol of water are released from the surface of Ceres every second. The maximum surface temperature of Ceres is <span class=\"math\" data-latex=\"-\"></span>38 °C. The pressure of the gas immediately after release is 8.9 Pa. Determine the volume of water vapour released every second from the surface of Ceres. Assume that the conditions are maintained when the gas is released. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

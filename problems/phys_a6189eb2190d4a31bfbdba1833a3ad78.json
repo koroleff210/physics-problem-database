@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_a6189eb2190d4a31bfbdba1833a3ad78",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A 5 kg object is moving with a constant velocity of 4 m/s along a frictionless surface. What is the net work done on the object?</p><ol class=\"mcq-options\"><li data-label=\"A\">0 J</li><li data-label=\"B\">20 J</li><li data-label=\"C\">40 J</li><li data-label=\"D\">80 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

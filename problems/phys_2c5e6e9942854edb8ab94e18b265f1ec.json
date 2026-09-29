@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_2c5e6e9942854edb8ab94e18b265f1ec",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Substitute values into the Doppler formula for a moving observer: <span class=\"math\" data-latex=\"f^{\\prime} = 40.0 \\left(\\frac{1530 + 15.0}{1530}\\right)\"></span> [1 mark]<br/>- Calculate the detected frequency: <span class=\"math\" data-latex=\"f^{\\prime} = 40.4 \\mathrm{~kHz}\"></span> [1 mark]</p>\n<p>Note: Accept <span class=\"math\" data-latex=\"40392 \\mathrm{~Hz}\"></span> or <span class=\"math\" data-latex=\"40.39 \\mathrm{~kHz}\"></span>. Award full marks for correct answer without working.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Set up the equation for an observer moving away from a stationary source: <span class=\"math\" data-latex=\"39.2 = 40.0 \\left(\\frac{1530 - v_{obs}}{1530}\\right)\"></span> [1 mark]<br/>- Solve for the submarine speed: <span class=\"math\" data-latex=\"v_{obs} = 1530 - \\left(\\frac{39.2}{40.0} \\times 1530\\right) = 30.6 \\mathrm{~m} / \\mathrm{s}\"></span> [1 mark]</p>\n<p>Note: Award full marks for correct answer without working.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State that the wavelength in the seawater remains constant / is not affected by the submarine's motion. [1 mark]<br/>- Explain that because the source of the sound is stationary relative to the medium, the distance between successive wavefronts depends only on the source frequency and the speed of sound in the water (<span class=\"math\" data-latex=\"\\lambda = \\frac{v}{f}\"></span>). [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stationary sonar beacon anchored to the seafloor emits a continuous ultrasonic signal at a frequency of <span class=\"math\" data-latex=\"40.0 \\mathrm{~kHz}\"></span>. A submarine navigates in the vicinity of the beacon through seawater, where the speed of sound is <span class=\"math\" data-latex=\"1530 \\mathrm{~m} / \\mathrm{s}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Determine the frequency detected by the submarine's sensors while it is moving directly toward the beacon at a constant speed of <span class=\"math\" data-latex=\"15.0 \\mathrm{~m} / \\mathrm{s}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The submarine passes the beacon and begins to move directly away. It adjusts its speed until the detected frequency of the signal is <span class=\"math\" data-latex=\"39.2 \\mathrm{~kHz}\"></span>. Calculate the new speed of the submarine.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain whether the movement of the submarine affects the wavelength of the sound waves in the seawater compared to the wavelength originally emitted by the stationary beacon.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

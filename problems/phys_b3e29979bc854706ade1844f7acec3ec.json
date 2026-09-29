@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/196c16f5480298bef5284bf518a9aef86f022a9889256adcdb7f179337e8ee74.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "196c16f5480298bef5284bf518a9aef86f022a9889256adcdb7f179337e8ee74"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b3e29979bc854706ade1844f7acec3ec",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>the angle of refraction ought to be greater than the angle of incidence OR the ray should refract away from the normal ✔<br/>because ray goes from high refractive index/&lt;&lt;optically&gt;&gt; more dense/slower medium to low refractive index/optically less dense/faster medium ✔ Do not allow use of e.g n<sub>1</sub> unless medium one is described e.g. n<sub>air</sub></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>there should be a &lt;&lt;transmitted&gt;&gt; ray in the oil OR total internal reflection is not possible ✔ because ray goes from low refractive index/&lt;&lt;optically&gt;&gt; less dense/faster medium to high refractive index/&lt;&lt;optically&gt;&gt; more dense/slower medium ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of Snell’s Law <span class=\"math\" data-latex=\"\\frac{\\textit{sin i}}{\\textit{sin r}}=\\frac{1.60}{1}\"></span> ✔<br/><span class=\"math\" data-latex=\"i=sin^{-1} 1.60\\times sin 32 ^{∘}=58  ^{∘}\"></span> ✔ ‘Use of’ requires a substitution NOT just a statement of a formula<br/>Accept 1.0 rad (unit must be included to show a deliberate attempt to use rad rather than a calculator mistake)</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"\\frac{\\textit{sin i}}{\\textit{sin r}}=\\frac{1.33}{1.60}\"></span> and <span class=\"math\" data-latex=\"sin r=1\"></span> ✔<br/><span class=\"math\" data-latex=\"i=sin^{-1} 0.831=56 ^{∘}\"></span> ✔ Accept 0.98 rad (unit required)</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>Oscillations « of electric field vector » in one/same plane ✔ Do not allow oscillations in one direction</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Rotation/change of alignment of polarizing filter ✔<br/>changes intensity ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Monochromatic light enters the base of a plastic beaker that contains water with an oil layer floating on it. A student draws a diagram to show the directions the light takes as it passes through the layers. The student’s diagram has one error at position A and one error at position B. The refractive indices of the materials are shown on the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The light is refracted at an angle of 32<span class=\"math\" data-latex=\"^{∘}\"></span> when it enters the plastic layer as shown.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State, with a reason, the error in the student’s diagram for</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> light crossing the plastic–water interface (position A). [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> light at the water–oil interface (position B). [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the angle of incidence at the air–plastic interface. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the critical angle for the plastic–water interface. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The student hypothesizes that the partially-reflected ray of light from the bottom surface of the plastic is polarized.</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Outline what is meant by polarization. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Explain how the hypothesis can be tested experimentally. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

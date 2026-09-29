@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c160322ac4d6406ea312dc8e44071668",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass 2.0 kg accelerates from a speed of 15 m s<sup>−1</sup> to a speed of 20 m s<sup>−1</sup> without changing its direction.</p>\n<p>What impulse acts on the block?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.5 N s</li><li data-label=\"B\">5.0 N s</li><li data-label=\"C\">10 N s</li><li data-label=\"D\">17.5 N s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

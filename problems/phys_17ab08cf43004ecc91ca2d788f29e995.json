@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_17ab08cf43004ecc91ca2d788f29e995",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A researcher monitors the activity of a radioactive isotope used in medical imaging. The activity of the isotope is measured at regular intervals and recorded in the table below:</p>\n<table><thead><tr><th>Time (days)</th><th>Activity (MBq)</th></tr></thead><tbody><tr><td>0</td><td>160</td></tr><tr><td>8</td><td>40</td></tr><tr><td>16</td><td>10</td></tr></tbody></table>\n<p>What is the expected activity of the sample after a total of 20 days has elapsed?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.5\\text{ MBq}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.0\\text{ MBq}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"7.5\\text{ MBq}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"10.0\\text{ MBq}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

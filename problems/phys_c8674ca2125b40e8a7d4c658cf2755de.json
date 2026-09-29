@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_c8674ca2125b40e8a7d4c658cf2755de",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pump is used to lift a mass <span class=\"math\" data-latex=\"m\"></span> of water from a well to a storage tank at a vertical height <span class=\"math\" data-latex=\"h\"></span> in a time interval <span class=\"math\" data-latex=\"t\"></span>. The water is discharged into the tank through a nozzle at a constant speed <span class=\"math\" data-latex=\"v\"></span>. Which expression represents the minimum average power delivered to the water by the pump?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{mgh}{t}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{mv^2}{2t}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{m}{t} \\left( gh + \\frac{1}{2}v^2 \\right)\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{m}{t} (gh + v^2)\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

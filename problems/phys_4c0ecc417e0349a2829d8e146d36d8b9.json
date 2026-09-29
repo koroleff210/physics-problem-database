@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4c0ecc417e0349a2829d8e146d36d8b9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement best explains the instability of nuclei with high nucleon numbers from the perspective of fundamental interactions?</p><ol class=\"mcq-options\"><li data-label=\"A\">The attractive strong nuclear force is short-ranged and saturates, while the repulsive electrostatic force acts over the entire diameter of the nucleus.</li><li data-label=\"B\">The weak nuclear force becomes the dominant interaction in large nuclei, causing them to transform through alpha and beta emission.</li><li data-label=\"C\">As the nucleus grows, the average distance between nucleons increases to the point where the strong nuclear force becomes purely repulsive.</li><li data-label=\"D\">Large nuclei have a lower neutron-to-proton ratio, which reduces the total binding energy available to oppose the gravitational collapse of the nucleus.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

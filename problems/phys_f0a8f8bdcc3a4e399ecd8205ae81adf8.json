@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_f0a8f8bdcc3a4e399ecd8205ae81adf8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A remote-controlled drone completes a journey along a straight horizontal path in three distinct stages. Data for each stage of the motion is provided in the table below.</p>\n<table><thead><tr><th>Stage</th><th>Distance travelled / m</th><th>Constant speed / <span class=\"math\" data-latex=\"\\text{m s}^{-1}\"></span></th></tr></thead><tbody><tr><td>1</td><td>240</td><td>12.0</td></tr><tr><td>2</td><td>0</td><td>0.0</td></tr><tr><td>3</td><td>360</td><td>15.0</td></tr></tbody></table>\n<p>Stage 2 (hovering) lasts for exactly 10.0 seconds. What is the average speed of the drone for the entire journey?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"9.0\\text{ m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"13.5\\text{ m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"11.1\\text{ m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"13.6\\text{ m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

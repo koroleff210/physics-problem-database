@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e5819746aa707ced9482889f6955c42408106b6ddbfca709b883159fc3c07eda.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e5819746aa707ced9482889f6955c42408106b6ddbfca709b883159fc3c07eda"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/e5819746aa707ced9482889f6955c42408106b6ddbfca709b883159fc3c07eda.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e5819746aa707ced9482889f6955c42408106b6ddbfca709b883159fc3c07eda"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_878081eccda94ed1a2c10a13f7ef8fb5",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a(i)\"><p><strong>11a(i)</strong></p><p></p>\n<p>29000 = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span><em>a</em>(52)<span class=\"math\" data-latex=\"^{2}\"></span></p>\n<p><em>a</em> = 21.4 m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p><em>a</em> <span class=\"math\" data-latex=\"\\approx\"></span> 21 m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p>Calculated answer should be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11a(ii)\"><p><strong>11a(ii)</strong></p><p><em></em></p>\n<p><em>v</em> = (21.4)(52) = 1112.8 m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><em>p</em> = (5.0 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{4}\"></span> + 9.7 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{3}\"></span>)(1112.8) = </p>\n<p>6.64 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{7}\"></span> kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p>\n<p>Notes: Thrust must be longer than the sum of the two other forces.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c(i)\"><p><strong>11c(i)</strong></p><p><em></em></p>\n<p><em>F</em> = (5 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{4}\"></span> + 9.7 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{3}\"></span>)(21.4)</p>\n<p><em>F</em> = 1277580 N </p>\n<p><em>F</em> <span class=\"math\" data-latex=\"\\approx\"></span> 1.3 MN</p>\n<p>Calculated answer should be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c(ii)\"><p><strong>11c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{net}\"></span> = <span class=\"math\" data-latex=\"F_{engine}\"></span> - <span class=\"math\" data-latex=\"F_{grav}\"></span> - <span class=\"math\" data-latex=\"F_{air}\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{air}\"></span> = 2.1 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{6}\"></span> - 1.3 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{6}\"></span> - (5 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{4}\"></span> + 9.7 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{3}\"></span>)(9.81)</p>\n<p><span class=\"math\" data-latex=\"F_{air}\"></span> = 214343 N <span class=\"math\" data-latex=\"\\approx\"></span> 2.1 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{5}\"></span> N</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A rocket, carrying a space telescope, is launched vertically upwards from the surface of the Earth. Assume that acceleration is constant. The mass of the rocket is 5.0 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{4}\"></span> kg and the mass of the space telescope is 9.7 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{3}\"></span> kg.</p>\n<p></p>\n<p>a. During the first stage of the launch the rocket reaches a height of 29 km in 52 seconds. </p>\n<p>i. Show that the acceleration of the rocket during the first stage of the launch is 21 m s<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>  [2]</p>\n<p>ii. Calculate the momentum of the rocket at the end of the first stage.</p>\n<p>  [2]</p>\n<p>b.  Draw a fully-labelled free-body diagram to represent the forces acting on the rocket at the moment when it reaches a height of 2 km.</p>\n<p>  [2]</p>\n<p> c.</p>\n<p>i. Show that the average net force acting on the rocket during the first stage of its motion is approximately 1.3 MN.</p>\n<p>  [2]</p>\n<p>ii. The force produced by the engine of the rocket is 2.1 MN. Calculate the average force produced by the air resistance on the rocket.</p>\n<p>  [3]</p>\n<p></p>\n\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

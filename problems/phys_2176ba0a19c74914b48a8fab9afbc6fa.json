@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c8628dc5cf3d4e5c6e37636dfae55309899cf354b5a1d0e25245c6ac5758d102.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c8628dc5cf3d4e5c6e37636dfae55309899cf354b5a1d0e25245c6ac5758d102"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_2176ba0a19c74914b48a8fab9afbc6fa",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball attached to a string is made to rotate with constant speed along a horizontal circle. The string is attached to the ceiling and makes an angle of θ ° with the vertical. The tension in the string is T.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is correct about the horizontal component and vertical component of the net force on the ball?</p>\n<table><tbody><tr><td></td><td><p>Horizontal component</p></td><td><p>Vertical component</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p><span class=\"math\" data-latex=\"Tcos \\theta\"></span></p></td><td><p><span class=\"math\" data-latex=\"T sin \\theta\"></span></p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p><span class=\"math\" data-latex=\"T sin \\theta\"></span></p></td><td><p><span class=\"math\" data-latex=\"Tcos \\theta\"></span></p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p><span class=\"math\" data-latex=\"Tcos \\theta\"></span></p></td><td><p>0</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p><span class=\"math\" data-latex=\"T sin \\theta\"></span></p></td><td><p>0</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

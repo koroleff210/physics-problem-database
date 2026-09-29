@@ -1,0 +1,48 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/88cc1b661ab85bbf76fdeded0b3ac6b2c0aa49df2d73aa1d61b270adc2b04c2f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "88cc1b661ab85bbf76fdeded0b3ac6b2c0aa49df2d73aa1d61b270adc2b04c2f"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/3a26d312e15e411e5172197c5243ecef3597e01cd892f491c395a47909b82810.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3a26d312e15e411e5172197c5243ecef3597e01cd892f491c395a47909b82810"
+    }
+  ],
+  "classes": [
+    "B.2",
+    "E.1",
+    "E.3",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_2975b76bfee9486a9d1c95938381e7de",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The intensity «of solar radiation» received by the Earth ✓   Accept ‘power per unit area’ for intensity.</p>\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«Absorption by GHG molecules of» radiation whose energy matches the energy difference between molecular levels OR «Absorption of radiation that causes» resonance of the GHG molecule ✓ Followed by emission «from GHG molecules» in random/all directions ✓   For MP2 do not accept towards the surface as that is in the stem of the question.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Average incoming intensity <span class=\"math\" data-latex=\"=\\frac{S}{4}\"></span>«<span class=\"math\" data-latex=\"=340 W m^{-2}\"></span>» ✓ Absorbed intensity <span class=\"math\" data-latex=\"=1-0.30\\times 340\"></span> or <span class=\"math\" data-latex=\"238 W m^{-2}\"></span> ✓   The steps in the calculation must be shown.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>Emitted intensity = «5.67 × 10<sup>−8</sup> × 0.90 × 288<sup>4</sup> =» 351 W m<sup>−2</sup> ✓ Intensity leaving Earth =238 W m<sup>−2</sup> ✓ Re-radiated intensity = «351 − 238 = » 113 W m<sup>−2</sup> ✓   Ignore units as they are not required for the answer. The steps in the calculation must be checked. Accept outgoing intensity = 240 W m<sup>−2</sup> for MP2.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Recognition that <span class=\"math\" data-latex=\"r=1.5\\times 10^{11}m\"></span> AND <span class=\"math\" data-latex=\"S=1.36\\times 10^{3}W m^{-2}\"></span> ✓ <span class=\"math\" data-latex=\"4 π {( 1.5 \\times  {10}^{11} )}^{2} \\times  1.36 \\times  {10}^{3}\"></span> or <span class=\"math\" data-latex=\"3.8\\times 10^{26} W\"></span> ✓   Unit is not required. The values of r and S must be seen to award MP1. Allow ECF from use of <span class=\"math\" data-latex=\"S=1.4\\times 10^{3}W m^{-2}\"></span></p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>ALTERNATIVE 1 Δm=4 × 1.007276 + 2 × 0.000549 − 4.001506«=0.028696 u» ✓ «0.028696 × 931.5 = »26.7 MeV ✓ ALTERNATIVE 2 Δm=4 × 938 + 2 × 0.511 − 4.001506 × 931.5 « = 25.6 MeV c<sup>−2</sup>» ✓ 25.6 MeV ✓   Marks can only be awarded from one Alternative Unit is not required. Particle masses in u and MeV c<sup>−2</sup> lead to differently rounded answers, working must be checked. Award [1] max if electrons are omitted. This leads to ALT 1 25.7 «MeV», ALT 2 24.6 «MeV» Award ECF if incorrect number of particles used e.g. 1 electron rather than 2.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>«Photons emitted» in fusion give rise to outward/ thermal/radiation pressure ✓ Which prevents the Sun from collapsing due to «inward» gravitational forces ✓   For MP1, outward/thermal/ radiation pressure must be linked to fusion reactions</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>Any mention of absorption or emission spectrum «of the Sun» ✓ Observed lines/wavelengths/frequencies match those of helium OR Helium lines/wavelengths/frequencies are present «in the spectrum» ✓   Allow solar spectrum</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>«red» supergiant ✓   Do not allow ‘red giant’.</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>The Sun only fuses hydrogen «to helium» OR Antares allows heavier elements «than hydrogen» to be fused OR Antares has fusion up to iron ✓ Fusion in Antares occurs at a greater rate «because of greater mass/later evolutionary stage» OR Fusion in Antares requires a higher «core» temperature/density «because of greater mass/later evolutionary stage» ✓ Antares has regions/shells where different elements are fused «due to its late evolutionary stage» ✓   MP1 is about what is fusing to what Do not allow ECF from white dwarf for MP1 MP2 is about fusion rate/conditions for fusion MP3 is about where fusion occurs</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State what is meant by the solar constant. [1]</p></section><section class=\"context\"><p>The diagram shows a simplified energy-balance model for the Earth surface–atmosphere system.</p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p><p>The following data are given:</p><table><tbody><tr><td></td><td><p>Average albedo of Earth</p></td><td><p>= 0.30</p></td></tr><tr><td></td><td><p>Average global temperature of the surface</p></td><td><p>= 288 K</p></td></tr><tr><td></td><td><p>Average Earth–Sun distance</p></td><td><p>= 1.5×10<sup>11</sup> m</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Outline the physical mechanism by which some of the radiation emitted by the surface is absorbed by greenhouse gases in the atmosphere and re-radiated towards the surface. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show that the average global intensity of radiation absorbed by the surface is about 240 W m<sup>−2</sup>. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Determine the average intensity re-radiated by the atmosphere towards the surface. Assume that the emissivity of the surface is 0.90. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Show, with reference to the solar constant, that the total power radiated by the Sun is about 4 × 10<sup>26</sup> W. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The primary energy source of the Sun is the proton–proton (p–p) chain of fusion reactions. Four protons and two electrons produce a helium nucleus together with neutrinos and gamma photons. The overall reaction is:</p>\n<p><span class=\"math\" data-latex=\"4 _{ }^{ }+2 _{-1}^{ }→ _{ }^{ }+2_{0}^{0}v_{e}+4\\gamma\"></span></p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> The mass of the helium nucleus is 4.001506 u. Calculate, in MeV, the energy released in the reaction. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Outline the role of fusion reactions in maintaining a stable radius of the Sun. [2]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> Outline how the presence of helium in the Sun can be confirmed empirically. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The positions of the Sun and the star Antares are shown in the Hertzsprung-Russell (HR) diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> State the star type of Antares. [1]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> Discuss how nuclear fusion processes in Antares are different from those in the Sun. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

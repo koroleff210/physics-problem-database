@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7dd8ee87e3b2a1d709526052e8c9dd407598e6a01d0552e840db6ae82a524cce.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7dd8ee87e3b2a1d709526052e8c9dd407598e6a01d0552e840db6ae82a524cce"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_64b13507d4514639a2d58808b1cb7a09",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A book of mass m lies on top of a table of mass M that rolls freely along the ground. The coefficient of friction between the book and the table is <span class=\"math\" data-latex=\"\\mu\"></span>. A person is pushing the rolling table.</p>\n<p>What is the maximum acceleration of the table so that the book does not slide backwards relative to the table?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{g}{\\mu }\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\mu g\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mg}{M \\mu}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{m}{M}\\mu g\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

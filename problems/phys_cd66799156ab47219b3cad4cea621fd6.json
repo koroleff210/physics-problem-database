@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_cd66799156ab47219b3cad4cea621fd6",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The total displacement is the vector sum of individual displacements.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The pulses temporarily combine to form a resultant wave. [1 mark]</p>\n<p>Then continue unaffected in their original directions. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Each pulse continues with its original shape and speed.</p>\n<p>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two wave pulses travel towards each other along a rope.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State what is meant by the principle of superposition. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe what happens when the two pulses meet. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State what occurs after the pulses have overlapped. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

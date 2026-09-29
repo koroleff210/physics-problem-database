@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/089631f1d8b01f8eadcade3dc70cde12fe9bf3dcbe88f4953119a9173f5c3331.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "089631f1d8b01f8eadcade3dc70cde12fe9bf3dcbe88f4953119a9173f5c3331"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_772508fd866f4af2a5bf487f854e4695",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{180-10}{0.005}=3.4\\times 10^{4}\"></span> ✓ K m<sup>−1</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>45 × 0.15 × 3.4 × 10<sup>4</sup> = 230 «kW» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The answer is unrealistically large / impossible to sustain ✓ Due to much lower actual power, a lower temperature gradient through the base of the pot is quickly established ✓ The surface of the hot plate becomes colder from contact with pot<br/>OR<br/>there is a temperature gradient also through the hot plate ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>By means of convection currents ✓ That arise due to density difference between hot and cold water ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A steel pot containing water is placed on an electric hot plate that is preheated to a temperature of 180 °C. The initial temperature of the water in the pot is 10 °C.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The base of the pot has a surface area of 0.15 m<sup>2</sup> and a thickness of 5.0 mm. The coefficient of thermal conductivity of the material of the pot is 45 W m<sup>−1</sup> K<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate:</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> the initial temperature gradient through the base of the pot. State an appropriate unit for your answer. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> the initial rate, in kW, of thermal energy transfer by conduction through the base of the pot. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The electrical power rating of the hot plate is 1 kW. Comment, with reference to this value, on your answer in (a)(ii). [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe how thermal energy is distributed throughout the volume of the water in the pot. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

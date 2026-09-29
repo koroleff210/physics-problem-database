@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b4adf46e16cbb309e5da05991f10d1f160285113fb7538c75b42be26ce383b41.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b4adf46e16cbb309e5da05991f10d1f160285113fb7538c75b42be26ce383b41"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_553fcc355ca14c1bb026686864dcb4d6",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>uses any two pairs of points to show that pV = constant<br/>OR<br/>a statement that any 2 pairs of values of pV « from graph » always = 12 ✔   because pV does not change, air behaves ideally ✔</p>\n<p>Look for 1×12, 4×3 or any combination leading to 12 J for MP1 DO NOT award MP1 or 2 for ‘the graph shows that pV is constant’, or similar with no numerical support</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of pV=nRT. ✔ 321 (320.89) « K » ✔</p>\n<p>Look for substitution: 1x12, 4x3 or any combination leading to pV =12 J Award [2] for BCA</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«absolute» temperature is proportional to/related to the KE of the molecules. ✔ pressure is related to the «average» rate of momentum transfer due to the collisions of the molecules with the container<br/>OR<br/>average force molecules exert per unit area.<br/>OR<br/>pressure is the result of molecular force on /collisions with the container walls. ✔ Higher pressure is the result of higher KE of molecules « in constant random motion » or vice versa ✔</p>\n<p>OK to use atoms/molecules/particles</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A fixed quantity of 4.5 × 10<sup>−3</sup> mol of air is compressed at a constant temperature. The graph shows the variation of pressure p with volume V of the air.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Suggest whether the air behaves as an ideal gas during this change. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the temperature of the air. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Outline how the kinetic theory of gases relates observable properties of a gas to the motion of the molecules. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

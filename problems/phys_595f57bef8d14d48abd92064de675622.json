@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/073d1a624064b2df03f63d2139468b4227bc0acedc3efee205bb7de7d0763964.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "073d1a624064b2df03f63d2139468b4227bc0acedc3efee205bb7de7d0763964"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/74758175dece47bc2c9d74d76f1d87ac596b1ed3e6acd9e12a500950bf56df19.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "74758175dece47bc2c9d74d76f1d87ac596b1ed3e6acd9e12a500950bf56df19"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_595f57bef8d14d48abd92064de675622",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- To ensure that the volume of the gas remains constant during the experiment [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use of gradient calculation from graph (e.g., <span class=\"math\" data-latex=\"\\frac{200 \\times 10^3 \\text{ Pa} - 100 \\times 10^3 \\text{ Pa}}{400 \\text{ K} - 200 \\text{ K}}\"></span>) [1 mark]<br/>- Value of <span class=\"math\" data-latex=\"m = 500\"></span> (accept <span class=\"math\" data-latex=\"480\"></span> to <span class=\"math\" data-latex=\"520\"></span>) [1 mark]<br/>- Units: <span class=\"math\" data-latex=\"\\text{Pa K}^{-1}\"></span> or <span class=\"math\" data-latex=\"\\text{kg m}^{-1} \\text{ s}^{-2} \\text{ K}^{-1}\"></span> (accept <span class=\"math\" data-latex=\"\\text{N m}^{-2} \\text{ K}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Increased temperature increases the average kinetic energy (and speed) of the gas molecules [1 mark]<br/>- Molecules collide with the walls of the canister more frequently and with a greater change in momentum/force per collision [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Correct substitution into <span class=\"math\" data-latex=\"n = \\frac{m V}{R}\"></span> or <span class=\"math\" data-latex=\"n = \\frac{PV}{RT}\"></span> using a data point from the graph (e.g., <span class=\"math\" data-latex=\"n = \\frac{500 \\times 4.00 \\times 10^{-4}}{8.31}\"></span>) [1 mark]<br/>- Final answer: <span class=\"math\" data-latex=\"0.024\"></span> mol (accept <span class=\"math\" data-latex=\"0.023\"></span> to <span class=\"math\" data-latex=\"0.025\"></span> mol) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Intermolecular forces (attractive forces) become significant as molecules move slower [1 mark]<br/>- The volume occupied by the molecules themselves is no longer negligible compared to the total volume of the container [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The experimental setup shown below was designed to investigate the relationship between the pressure <span class=\"math\" data-latex=\"P\"></span> and the absolute temperature <span class=\"math\" data-latex=\"T\"></span> of a fixed mass of argon gas.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>The argon gas is contained within a rigid metal canister submerged in a water bath, which is heated slowly using an electric hot plate.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why it is essential for the canister to be rigid and for the connection tube to have a very small volume in this experiment. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The data collected was used to plot a graph of pressure <span class=\"math\" data-latex=\"P\"></span> against absolute temperature <span class=\"math\" data-latex=\"T\"></span>. The line of best fit for the data is shown below.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The relationship is given by the equation <span class=\"math\" data-latex=\"P = m T\"></span>. Determine the value of the gradient <span class=\"math\" data-latex=\"m\"></span> and state its units in SI base-derived form.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Using the kinetic model of an ideal gas, explain why the pressure of the gas increases as the water bath is heated. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The volume of the canister is <span class=\"math\" data-latex=\"4.00 \\times 10^{-4}\"></span> <span class=\"math\" data-latex=\"\\mathrm{m}^3\"></span>. Estimate the number of moles of argon gas present in the canister. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> At very low temperatures, the linear relationship shown in the graph no longer holds. Suggest two reasons why the ideal gas law fails to accurately predict gas behavior as the temperature approaches the boiling point of argon. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

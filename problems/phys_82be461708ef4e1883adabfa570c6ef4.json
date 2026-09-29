@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d06cd99968f693432a42e2ff25a83b2a872936dcfa512fe10311dc6109074e77.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d06cd99968f693432a42e2ff25a83b2a872936dcfa512fe10311dc6109074e77"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_82be461708ef4e1883adabfa570c6ef4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Energy is supplied at a constant rate to a fixed mass of a substance. The graph shows the variation of the temperature of the substance with time.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement about the substance is correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Specific latent heat of vaporization<span class=\"math\" data-latex=\"&gt;\"></span>specific latent heat of fusion</li><li data-label=\"B\">Specific latent heat of fusion<span class=\"math\" data-latex=\"&gt;\"></span>specific latent heat of vaporization</li><li data-label=\"C\">Specific heat capacity of solid<span class=\"math\" data-latex=\"&gt;\"></span>specific heat capacity of liquid</li><li data-label=\"D\">Specific heat capacity of vapour<span class=\"math\" data-latex=\"&gt;\"></span>specific heat capacity of liquid</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

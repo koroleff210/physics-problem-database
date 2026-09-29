@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_196b27fb2c82435fa13f415c348982d8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car has an initial speed of 16 m s<sup>−1</sup>. It decelerates at 4.0 m s<sup>−2</sup> until it stops.</p>\n<p>What is the distance travelled by the car?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4 m</li><li data-label=\"B\">16 m</li><li data-label=\"C\">32 m</li><li data-label=\"D\">64 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

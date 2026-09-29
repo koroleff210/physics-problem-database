@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2f2d65f1825c8da9d89b8f43aa649a7fbc86dab31fa5320c24cde995bec6ffbf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2f2d65f1825c8da9d89b8f43aa649a7fbc86dab31fa5320c24cde995bec6ffbf"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_641c5ba151ab431787cde38557ae0960",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Reads change in temperature to be 45 − 31 OR 14 °C ✓<br/>Q = 0.082 × 1.6 × 10<sup>3</sup> × 14 = 1.84 × 10<sup>3</sup> «J» ✓ P = <span class=\"math\" data-latex=\"\\frac{1.84\\times 10^{3}}{2.0\\times 60}\"></span> = 15.3 <span class=\"math\" data-latex=\"≈\"></span> 15 «W»✓   Must see either full substitution OR answer to at least 3 s.f. in MP3</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Q = 15.3 × 4.0 × 60 = 3.67 × 10<sup>3</sup> «J» ✓ L = <span class=\"math\" data-latex=\"\\frac{3.67\\times 10^{3}}{0.082}\"></span> = 4.5 × 10<sup>4</sup> «J kg<sup>−1</sup>» ✓   Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Internal energy is greater at t = 6 min OR internal energy is lower at t = 2 min OR internal energy increases «as energy is added to the system» ✓ Because kinetic energy «of the molecules» is the same AND potential energy «of the molecules» has increased / OWTTE ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A solid piece of chocolate of mass 82 g is placed in a pan over fire. Thermal energy is transferred to the chocolate at a constant rate. The graph shows the variation with time t, of the temperature T of the chocolate. At 6.0 minutes all the chocolate has melted.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The specific heat capacity of solid chocolate is 1.6 × 10<sup>3</sup> J kg<sup>−1</sup> K<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the average rate at which thermal energy is transferred into the chocolate is about 15 W. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Estimate the specific latent heat of fusion of chocolate. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Compare the internal energy of the chocolate at t = 2 minutes with that at t = 6 minutes. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_a1cfee8e5c554bf3a89a19a8a621ddbd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Photon energy equals the magnitude of the energy-level difference, <span class=\"math\" data-latex=\"E_\\gamma=|E_f-E_i|\"></span>. This transition has a smaller <span class=\"math\" data-latex=\"\\Delta E\"></span> than transitions to <span class=\"math\" data-latex=\"n=1\"></span>.</p>\n<p>B: For hydrogen, <span class=\"math\" data-latex=\"E_n=-13.6\\,\\text{eV}/n^2\"></span>, so <span class=\"math\" data-latex=\"\\Delta E=13.6\\,(1/1^2-1/4^2)=13.6\\,(1-1/16)=12.75\\,\\text{eV}\"></span>, the largest among the options.</p>\n<p>C: Photon energy equals the magnitude of the energy-level difference, <span class=\"math\" data-latex=\"E_\\gamma=|E_f-E_i|\"></span>. This transition is between higher <span class=\"math\" data-latex=\"n\"></span> levels, giving a relatively small <span class=\"math\" data-latex=\"\\Delta E\"></span>.</p>\n<p>D: <span class=\"math\" data-latex=\"\\Delta E=13.6\\,(1/1^2-1/2^2)=13.6\\,(1-1/4)=10.2\\,\\text{eV}\"></span>, which is less than the <span class=\"math\" data-latex=\"n=4\"></span> to <span class=\"math\" data-latex=\"n=1\"></span> transition.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following transitions in hydrogen will emit the photon with the greatest energy?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"n=3\"></span> to <span class=\"math\" data-latex=\"n=2\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"n=4\"></span> to <span class=\"math\" data-latex=\"n=1\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"n=5\"></span> to <span class=\"math\" data-latex=\"n=3\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=1\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

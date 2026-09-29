@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f70a994585e186b448f69956f66191d13e973233e78a79d56ce31a04aad2d161.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f70a994585e186b448f69956f66191d13e973233e78a79d56ce31a04aad2d161"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e07df4a44464aebac529fa1464bc581",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two satellites are in circular orbits around the Earth. Both satellites have the same mass and satellite X is closer to Earth than satellite Y.</p>\n<p>What is correct for the orbital periods of X and Y and the total energies of X and Y?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

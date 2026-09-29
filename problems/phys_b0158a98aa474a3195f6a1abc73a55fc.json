@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/109f96f6f960781cd2138cb5f799ce3601d80f7d064c681eaf11cc3040bdfec0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "109f96f6f960781cd2138cb5f799ce3601d80f7d064c681eaf11cc3040bdfec0"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b0158a98aa474a3195f6a1abc73a55fc",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A space probe moves in a gravitational field. No other forces than the gravitational force act on the probe. At one instant, the probe is at point P. The diagram shows the path of the probe and the gravitational field line through P.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the direction of the acceleration of the probe at P?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Tangent to the path of the probe</li><li data-label=\"B\">Perpendicular to the path of the probe</li><li data-label=\"C\">Tangent to the gravitational field line through P</li><li data-label=\"D\">Perpendicular to the gravitational field line through P</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

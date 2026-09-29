@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1993cb4535724bd0aaa1c3a8d87867f6",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"v_{esc}=\\sqrt{\\frac{2GM}{r}}\"></span> AND <span class=\"math\" data-latex=\"g=\\frac{GM}{r^{2}}\"></span> seen ✓  <span class=\"math\" data-latex=\"v_{esc}=\\sqrt{\\frac{2gr^{2}}{r}}\"></span> ✓ Leading to <span class=\"math\" data-latex=\"v_{esc}=\\sqrt{2gr}\"></span> ✓ 1.2 km s<sup>−1 </sup>✓<sup> </sup></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Object at equator has the maximum linear/tangential speed possible ✓  It therefore has maximum kinetic energy before takeoff (and this is not required from the fuel) ✓  Idea that the object is already moving in direction of planet before takeoff ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The radius of the dwarf planet Pluto is 1.19 x 10<sup>6</sup> m. The acceleration due to gravity at its surface is 0.617 m s<sup>−2</sup>.</p>\n<p>Determine the escape speed for an object at the surface of Pluto.</p><p>[4]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Pluto rotates about an axis through its centre. Its rotation is in the opposite sense to that of the Earth, i.e. from east to west.</p>\n<p>Explain the advantage of an object launching from the equator of Pluto and travelling to the west.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

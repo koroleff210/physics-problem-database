@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_e52c9f1e38024535afd7bf93bd731f74",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider the following statements about the use of nuclear fission in electricity production:</p>\n<p></p>\n<p>I. Products that are produced in the fuel rods of a nuclear fission reactor have very long half-lives and as a result, produce extremely high amounts of heat and must be continuously cooled after disposal. </p>\n<p>II. Control rods are introduced into the moderator of the reactor in order to absorb excess neutrons. </p>\n<p>III. Cleaning materials and protective clothing used in nuclear power plants are not highly radioactive and can be disposed of as regular trash after a relatively short storage period.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

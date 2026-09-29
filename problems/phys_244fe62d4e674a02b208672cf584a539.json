@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_244fe62d4e674a02b208672cf584a539",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Gravitational field strength at a point is defined as:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{GM}{r^{2}}\"></span> where <span class=\"math\" data-latex=\"M\"></span> is the mass of a planet or star and <span class=\"math\" data-latex=\"r\"></span> is the distance between the point and the centre of the planet or star.</li>\n<li data-label=\"B\">The vector sum of the different gravitational forces experienced by a point mass at the given point.</li>\n<li data-label=\"C\">The gravitational force per unit mass experienced by a point mass at the given point.</li>\n<li data-label=\"D\">The mass per unit weight at the point.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

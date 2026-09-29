@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_e5f9884dddbb4bfe87566547bdf6ea08",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a main sequence star is <span class=\"math\" data-latex=\"18M_{\\odot}\"></span> and its stellar parallax is <span class=\"math\" data-latex=\"0.05\\: \\textup{arc-second}\"></span>.</p>\n<p>What is one of the stages during the life cycle of this star and what is the best estimate for the distance of the star from Earth?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>One of the stages during life cycle of the star</strong></p>\n</td>\n<td>\n<p><strong>Distance of the star from Earth</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Supernova</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"6 \\times 10^{14}\\: \\textup{km}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Supernova</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"2 \\times 10^{14}\\: \\textup{km}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>Planetary nebula</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"6 \\times 10^{14}\\: \\textup{km}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>Planetary nebula</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"2 \\times 10^{14}\\: \\textup{km}\"></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

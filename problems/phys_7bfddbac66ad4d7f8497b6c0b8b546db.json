@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_7bfddbac66ad4d7f8497b6c0b8b546db",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Elastic/Spring potential «energy» to kinetic «energy» OR Elastic/Spring potential «energy» decreases AND kinetic «energy» increases. ✓ <br/>Must see elastic/spring potential energy specifically (and not just potential energy). Allow appropriate abbreviations (E<sub>K</sub>, E<sub>H</sub> or E<sub>E</sub>) for energy names.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Kinetic «energy» to elastic/spring potential «energy» OR Kinetic «energy» decreases AND elastic/spring potential «energy» increases. ✓ <br/>Must see elastic/spring potential energy specifically (and not just potential energy) Allow appropriate abbreviations (E<sub>K</sub>, E<sub>H</sub> or E<sub>E</sub>) for energy names.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of <span class=\"math\" data-latex=\"f=\\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}\"></span> ✓<br/><br/> ratio<span class=\"math\" data-latex=\"=\\sqrt{3}\"></span> OR <span class=\"math\" data-latex=\"1.7\"></span> ✓ <br/>Allow for use of <span class=\"math\" data-latex=\"f=\\frac{1}{T}\"></span> solutions in MP1. Award [2] for CNA.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«the spring» obeys Hooke’s Law/has a fixed spring constant OR the force «exerted by the spring» must be proportional to the displacement ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A student investigates simple harmonic motion with a mass–spring system that oscillates horizontally on a frictionless surface. In a first trial, the spring is compressed and the mass is released from rest at time <span class=\"math\" data-latex=\"t = 0\"></span>. The mass oscillates with a period <span class=\"math\" data-latex=\"T\"></span>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the energy changes that take place:</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> between <span class=\"math\" data-latex=\"t=0\"></span> and <span class=\"math\" data-latex=\"t=\\frac{T}{4}\"></span>; [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> between <span class=\"math\" data-latex=\"t=\\frac{T}{4}\"></span> and <span class=\"math\" data-latex=\"t=\\frac{T}{2}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>In a second trial, the mass is tripled without changing the spring.</p>\n<p>Determine the ratio <span class=\"math\" data-latex=\"\\frac{\\textit{frequency of oscillation in the first trial}}{\\textit{frequency of oscillation in the second trial}}\"></span>.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe what property the spring must have for the motion of the system to be simple harmonic. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3",
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_1a0ba45a7b5049eda87f34e97cb5268b",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Nodes appear stationary under strobe light<br/>[1 mark]<br/>- Antinodes oscillate with maximum amplitude<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Wave speed increases with increased tension<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Standing wave results from superposition of two identical waves moving in opposite directions<br/>[1 mark]<br/>- Interference produces a pattern of nodes and antinodes that appears stationary<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Wave speed <span class=\"math\" data-latex=\"v = f\\lambda\"></span>, and for fixed <span class=\"math\" data-latex=\"n\"></span>, <span class=\"math\" data-latex=\"\\lambda\"></span> is constant<br/>[1 mark]<br/>- So <span class=\"math\" data-latex=\"f\"></span> increases when wave speed increases<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Statement is incorrect: antinodes are formed by constructive interference<br/>[1 mark]<br/>- Destructive interference occurs at nodes, where the displacements cancel<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A standing wave is formed on a stretched string fixed at both ends. The wave is illuminated with a strobe light so its oscillations can be observed in slow motion.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Describe how the positions of nodes and antinodes are identified in the stroboscopic view.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State what happens to the wave speed on the string when the tension is increased.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain, using the principle of superposition, how a standing wave is formed on the string.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the effect of increasing the wave speed on the frequency of the standing wave if the harmonic number remains constant.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>A student incorrectly claims that antinodes are points of destructive interference.\nComment on this statement and provide the correct explanation.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

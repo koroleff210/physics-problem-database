@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_0af8998e4906401086905e3695245084",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ship is moving away from a vertical building at a speed of <span class=\"math\" data-latex=\"10\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> and sounds its whistle with frequency <span class=\"math\" data-latex=\"f\"></span>. The sound from the whistle is reflected from the building back towards the ship. The speed of sound in air is <span class=\"math\" data-latex=\"340\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What is the frequency of the whistle as observed on the ship after the reflection from the building?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{33f}{34}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{34f}{33}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{33f}{35}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{35f}{33}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ef48b92429914c8a988e64bbc24f1af1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The length of a pipe that is open at both ends is <span class=\"math\" data-latex=\"2.0\"></span> m. The speed of sound in the pipe is <span class=\"math\" data-latex=\"320\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What are the frequencies of the second and the third harmonics in the pipe?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"80\"></span> Hz and <span class=\"math\" data-latex=\"160\"></span> Hz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"160\"></span> Hz and <span class=\"math\" data-latex=\"240\"></span> Hz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"240\"></span> Hz and <span class=\"math\" data-latex=\"320\"></span> Hz</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"160\"></span> Hz and <span class=\"math\" data-latex=\"320\"></span> Hz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_9c917e020b7740b8ba85620c294bdaf4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An equal mass of water and ice is mixed in a container and the container is sealed, so that it is thermally isolated from its surroundings. The ice is at a temperature of 0 <span class=\"math\" data-latex=\"^{o}\"></span>C and the water is at a temperature of 100 <span class=\"math\" data-latex=\"^{o}\"></span>C. The ice melts entirely. </p>\n<p>Which of the following statements is correct about the system?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The final temperature of the system will be 50 <span class=\"math\" data-latex=\"^{o}\"></span>C.</li>\n<li data-label=\"B\">The final temperature of the system will be less than 50 <span class=\"math\" data-latex=\"^{o}\"></span>C.</li>\n<li data-label=\"C\">The final temperature of the system will be more than 50 <span class=\"math\" data-latex=\"^{o}\"></span>C.</li>\n<li data-label=\"D\">The total internal energy of the system increases.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

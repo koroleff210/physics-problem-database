@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e08ee1971599af446d91867bf440edf3b7742ed591c31794b2d49bc8511cb030.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e08ee1971599af446d91867bf440edf3b7742ed591c31794b2d49bc8511cb030"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_0efb6dcbda96414a8310cc36e76bbba0",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>correct use of rotational kinetic energy formula for one angular speed ✓ <span class=\"math\" data-latex=\"\\frac{1}{2}\\times \\frac{0.072\\times 8400^{2}-3600^{2}}{9.6}\"></span> OR 216 «kW» ✓<br/><br/>Award [1 max] if (8400 − 3600)<sup>2</sup> seen.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 <span class=\"math\" data-latex=\"Γ=\\frac{power}{\\textit{average rotational speed}}=\\frac{2.16\\times 10^{5}}{\\frac{8400+3600}{2}}\"></span> ✓ 36 «<span class=\"math\" data-latex=\"N m\"></span>» ✓ ALTERNATIVE 2 <span class=\"math\" data-latex=\"Angular acceleration=-\\frac{8400-3600}{9.6}=500\"></span>«<span class=\"math\" data-latex=\"rad s^{-2}\"></span>» ✓ <span class=\"math\" data-latex=\"Γ=I\\alpha=500\\times 0.072=36\"></span> «<span class=\"math\" data-latex=\"N m\"></span>» ✓<br/><br/>Allow ECF from a) i).</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p><span class=\"math\" data-latex=\"Γ θ = Δ E\"></span></p>\n<p><span class=\"math\" data-latex=\"or\"></span></p>\n<p>Use of <span class=\"math\" data-latex=\"\\theta=\\omega_{ave}\\times t\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"or\"></span></p>\n<p><span class=\"math\" data-latex=\"θ = ω t - \\frac{1}{2} α {t}^{2}\"></span></p>\n<p>Correct conversion into revolutions «r<span class=\"math\" data-latex=\"\\frac{57600}{2\\pi}=9170\"></span> rev» ✓<br/><br/>Allow ECF from a i) and ii). Award MP2 for any correct conversion of an angle in radians to number of revolutions.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>increase moment of inertia / density / mass of cylinder ✓ increase radius / depth of cylinder / mass distribution further from centre ✓ use greater angular velocity / torque applied ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A flywheel is a rotating cylinder used to store rotational kinetic energy. Energy can be transferred from the flywheel as it slows down.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A flywheel used to store energy has a moment of inertia of 0.072 kg m<sup>2</sup> and a maximum angular speed of 8400 rad s<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The rotational speed of the flywheel is reduced uniformly from the maximum speed to 3600 rad s<sup>−1</sup> in a time of 9.6 s.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that an average power of about 200 kW is transferred from the flywheel as its speed is reduced. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the torque acting on the flywheel as it decelerates. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Calculate the number of revolutions that the flywheel makes as it slows down. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>An engineer changes the flywheel design to increase the maximum energy that it can store.</p>\n<p>Identify two factors that the engineer can change to do this.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

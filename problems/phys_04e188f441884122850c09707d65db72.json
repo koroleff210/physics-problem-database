@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/804a2d6cd172e412b3a3d3022cd823afc7b54f3eec44046c964a9bac092d3b82.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "804a2d6cd172e412b3a3d3022cd823afc7b54f3eec44046c964a9bac092d3b82"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_04e188f441884122850c09707d65db72",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The principle of conservation of charge requires that for a steady current in a single, unbranched conductor, the current must be the same at all points. Therefore, the current in section X is equal to the current in section Y (<span class=\"math\" data-latex=\"I_{X}\"></span> = <span class=\"math\" data-latex=\"I_{Y}\"></span>). The ratio <span class=\"math\" data-latex=\"I_{Y}\"></span> / <span class=\"math\" data-latex=\"I_{X}\"></span> is thus 1. The different radii affect the current density and electron drift speed, but not the total current.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A current-carrying wire has two sections with different radii.</p>\n<p>The radius of the wire in section X is twice that in section Y. The current in X is <span class=\"math\" data-latex=\"I_{X}\"></span>, and the current in Y is <span class=\"math\" data-latex=\"I_{Y}\"></span>. What is <span class=\"math\" data-latex=\"I_{Y}\"></span> / <span class=\"math\" data-latex=\"I_{X}\"></span>?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"1/2\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"1\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"4\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

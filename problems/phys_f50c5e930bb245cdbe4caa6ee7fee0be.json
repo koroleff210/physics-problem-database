@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f50c5e930bb245cdbe4caa6ee7fee0be",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The half-life of a radioactive substance is 5 hours. At time t = 20 hours N nuclei are present in the sample.</p>\n<p>What was the number of radioactive nuclei that were present at time t = 5 hours?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3 N</li><li data-label=\"B\">4 N</li><li data-label=\"C\">8 N</li><li data-label=\"D\">9 N</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

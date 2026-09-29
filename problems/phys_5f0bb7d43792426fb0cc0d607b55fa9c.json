@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fed0e1b0339f9b39661c8d59ec5e6bb8c5b26966a277312b9d1b9339f75cbb17.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fed0e1b0339f9b39661c8d59ec5e6bb8c5b26966a277312b9d1b9339f75cbb17"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_5f0bb7d43792426fb0cc0d607b55fa9c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows electric field lines between two points, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, with a small positive charge <span class=\"math\" data-latex=\"A\"></span> placed near the center.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement correctly describes the electric force acting on charge <span class=\"math\" data-latex=\"A\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">The force on <span class=\"math\" data-latex=\"A\"></span> is zero because it is at the center of the field.</li><li data-label=\"B\">The force on <span class=\"math\" data-latex=\"A\"></span> is towards the top of the diagram, where the field lines diverge.</li><li data-label=\"C\">The force on <span class=\"math\" data-latex=\"A\"></span> is towards the bottom of the diagram, where the field lines converge.</li><li data-label=\"D\">The force on <span class=\"math\" data-latex=\"A\"></span> is from left to right, in the direction of the electric field lines.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

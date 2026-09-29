@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_94e46bfa79794450bc58f442cbdc2783",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"17a\"><p><strong>17a</strong></p><p></p>\n<p>Total energy = kinetic energy + gravitational potential energy </p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}mv^{2} + \\left ( -\\frac{GMm}{R} \\right )\"></span></p>\n<p>Using the orbital speed formula for the speed in the equation above:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}m\\left ( \\sqrt{\\frac{GM}{R}} \\right )^{2} + \\left ( -\\frac{GMm}{R} \\right ) = -\\frac{GMm}{2R}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17b\"><p><strong>17b</strong></p><p></p>\n<p>The kinetic energy of the asteroid when it strikes the surface of the moon is equal to the loss in gravitational potential energy.</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}mv^{2} = \\frac{GMm}{r}\"></span></p>\n<p>Canceling <span class=\"math\" data-latex=\"m\"></span> from both sides and substituting:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}v^{2} = \\frac{(6.67 \\times 10^{-11})(3.8 \\times 10^{23})}{2400 \\times 10^{3}}\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 4600\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17c\"><p><strong>17c</strong></p><p></p>\n<p>Since the speed of the moon decreases, its kinetic energy also decreases.</p>\n<p>As a result, the total energy of the moon decreases and the orbital radius becomes smaller.</p>\n<p>This decrease in the orbital radius eventually leads to an increase in orbital speed and a lower total energy.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A moon is in a circular orbit around a planet. The mass of the moon is <span class=\"math\" data-latex=\"m\"></span>, the mass of the planet is <span class=\"math\" data-latex=\"M\"></span> and the distance between the centre of the moon and the centre of the planet is <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>a. Show that the total energy of the moon is <span class=\"math\" data-latex=\"-\\frac{GMm}{2R}\"></span>.</p>\n<p>   [2]</p>\n<p>An asteroid begins to fall towards the moon from a very large distance at negligible initial speed. The mass of the moon is <span class=\"math\" data-latex=\"3.8 \\times 10^{23}\"></span> kg and the radius of the moon is <span class=\"math\" data-latex=\"2400\"></span> km.</p>\n<p>b. Determine the speed of the asteroid when it hits the surface of the moon.</p>\n<p>   [2]</p>\n<p>When the asteroid strikes the moon, the speed of the moon suddenly decreases.</p>\n<p>c. Outline how the orbit of the moon changes as a result of the asteroid strike. </p>\n<p>    [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

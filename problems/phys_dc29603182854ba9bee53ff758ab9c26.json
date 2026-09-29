@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/09869e8506a9dec8b50082ce22b3c33ae9fc85aef2e7f1e4d55ae65579d77724.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "09869e8506a9dec8b50082ce22b3c33ae9fc85aef2e7f1e4d55ae65579d77724"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_dc29603182854ba9bee53ff758ab9c26",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An elevator containing a load accelerates downward at <span class=\"math\" data-latex=\"2\\ \\text{m s}^{-2}\"></span>. If the mass of the load is <span class=\"math\" data-latex=\"m\"></span>, what is the magnitude of the normal force acting on the load?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"mg\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"m(g - 2)\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"m(g + 2)\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2m\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

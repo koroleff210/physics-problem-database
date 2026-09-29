@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_b65f06c459aa4522bc1809c5aa81a02c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A current-carrying wire of length <span class=\"math\" data-latex=\"L\"></span> and radius <span class=\"math\" data-latex=\"r\"></span> is suspended in a magnetic field of strength <span class=\"math\" data-latex=\"B\"></span>. The density of metal in the wire is <span class=\"math\" data-latex=\"\\rho\"></span> and the potential difference across the wire is <span class=\"math\" data-latex=\"\\varepsilon\"></span>. If the wire is stationary, what is the resistivity of the wire?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{\\varepsilon BL}{\\pi r^2\\rho g}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{\\varepsilon BL}{\\pi^2r^4\\rho g}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{\\varepsilon B}{\\rho gL}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{\\varepsilon B}{\\rho gL^2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

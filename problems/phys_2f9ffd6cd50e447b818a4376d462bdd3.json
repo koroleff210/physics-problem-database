@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2f9ffd6cd50e447b818a4376d462bdd3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. The maximum kinetic energy depends on photon energy (frequency) via <span class=\"math\" data-latex=\"K_{\\max}=hf-\\phi\"></span>, not on intensity.</p>\n<p>B: Incorrect. Increasing wavelength decreases frequency and photon energy <span class=\"math\" data-latex=\"E=hc/\\lambda\"></span>, so <span class=\"math\" data-latex=\"K_{\\max}\"></span> decreases (and emission may stop beyond a threshold wavelength).</p>\n<p>C: Correct. For a given frequency above threshold, <span class=\"math\" data-latex=\"K_{\\max}=hf-\\phi\"></span>; changing intensity changes the number of emitted electrons, not their maximum kinetic energy.</p>\n<p>D: Incorrect. The number of photons per second (related to intensity) affects the emission rate/current, but <span class=\"math\" data-latex=\"K_{\\max}\"></span> depends on photon energy (frequency), not only photon rate.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the photoelectric effect, the maximum kinetic energy of the emitted photoelectrons</p><ol class=\"mcq-options\"><li data-label=\"A\">is proportional to the intensity of the incident radiation.</li><li data-label=\"B\">increases as the wavelength of the incident radiation increases.</li><li data-label=\"C\">is independent of the intensity of the incident radiation.</li><li data-label=\"D\">depends only on the number of photons striking the surface per second.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_7b511628e2f242b6b468e48239de6f6f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A travelling wave has a frequency of <span class=\"math\" data-latex=\"500 Hz\"></span>. The closest distance between two points on the wave that have a phase difference of <span class=\"math\" data-latex=\"60 ^{∘}\\frac{\\pi}{3}rad\"></span> is <span class=\"math\" data-latex=\"0.050 m\"></span>. What is the speed of the wave?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"25 m s^{-1}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"75 m s^{-1}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"150 m s^{-1}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"300 m s^{-1}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

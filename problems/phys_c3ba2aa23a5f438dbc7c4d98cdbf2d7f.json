@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e7d0def31c1d0fbdea6ea44b1c6bfe415d6b15a2246349a3eab367de92ce63fa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e7d0def31c1d0fbdea6ea44b1c6bfe415d6b15a2246349a3eab367de92ce63fa"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/1345cf91408f973c3dfce3ac2c10934f924ba6b1012e30664d4ebc70e74b5ef3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1345cf91408f973c3dfce3ac2c10934f924ba6b1012e30664d4ebc70e74b5ef3"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/e55006af846d740363d53918e531f95e591bb97d7b690fe4892dbabf0060afed.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e55006af846d740363d53918e531f95e591bb97d7b690fe4892dbabf0060afed"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_c3ba2aa23a5f438dbc7c4d98cdbf2d7f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conductor is placed in a uniform magnetic field perpendicular to the plane of the paper. A force F acts on the conductor when there is a current in the conductor as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The conductor is rotated 30° about the axis of the magnetic field.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>What is the direction of the magnetic field and what is the magnitude of the force on the conductor after the rotation?</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

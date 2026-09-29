@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_7140f586663c431fbf25892dfef3ab01",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes the process occurring at the particulate level when a greenhouse gas absorbs radiation from the Earth's surface?</p><ol class=\"mcq-options\"><li data-label=\"A\">The molecule reflects long-wave radiation like a mirror, sending it back towards the ground.</li><li data-label=\"B\">The molecule absorbs long-wave radiation, which increases the vibrational energy of its bonds.</li><li data-label=\"C\">The molecule absorbs short-wave radiation, causing electrons to move to higher energy levels.</li><li data-label=\"D\">The molecule undergoes an exothermic chemical reaction when it collides with a photon.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_b155b3d4ab3247cb9d12e0d984636108",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student is using a single-use battery to power a digital thermometer. Which row correctly identifies the energy conversion occurring within the battery during use and the classification of this type of cell?</p>\n<table><thead><tr><th></th><th>Energy conversion</th><th>Cell classification</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>Electrical to chemical</td><td>Primary</td></tr><tr data-label=\"B\"><td>B.</td><td>Chemical to electrical</td><td>Primary</td></tr><tr data-label=\"C\"><td>C.</td><td>Electrical to chemical</td><td>Secondary</td></tr><tr data-label=\"D\"><td>D.</td><td>Chemical to electrical</td><td>Secondary</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

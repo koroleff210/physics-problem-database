@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/47262036def5fa4806fd945b9302dffcc0139211c701d695dd4d0a86f62bbc35.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "47262036def5fa4806fd945b9302dffcc0139211c701d695dd4d0a86f62bbc35"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_c18ac9664e07478d855279680b7fa4b2",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave is travelling on a string. The graphs show the variation of the displacement of the string with distance and the variation of the displacement of a particle on the string with time.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the wave?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.0 cm s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"B\">2.5 cm s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"C\">8.0 cm s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"D\">10 cm s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

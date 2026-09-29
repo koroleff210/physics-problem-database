@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_fa1e8d0f64a143ae8c5eab9b463cd720",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is set up in a pipe with one closed end. One harmonic of the standing wave has a frequency 180 Hz. The next harmonic has a frequency of 300 Hz. What is the frequency of the first harmonic of the standing wave?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">30 Hz</li><li data-label=\"B\">60 Hz</li><li data-label=\"C\">90 Hz</li><li data-label=\"D\">120 Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

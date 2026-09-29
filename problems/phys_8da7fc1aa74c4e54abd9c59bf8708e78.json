@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_8da7fc1aa74c4e54abd9c59bf8708e78",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A magnet is dropped through two identical copper loops. One is at the top of a tall vacuum chamber; the other is at the bottom where the magnet has a higher speed. Which loop produces the greater peak induced emf?</p><ol class=\"mcq-options\"><li data-label=\"A\">Top loop, because flux change begins there</li><li data-label=\"B\">Bottom loop, because flux changes faster</li><li data-label=\"C\">Both loops produce equal emf</li><li data-label=\"D\">Neither loop induces any emf in vacuum</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

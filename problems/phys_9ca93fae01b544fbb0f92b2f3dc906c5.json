@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_9ca93fae01b544fbb0f92b2f3dc906c5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: For larger nucleon number, the approximately constant binding energy per nucleon indicates each nucleon only binds strongly with nearby nucleons, consistent with the strong nuclear force being short-range (it saturates).</p>\n<p>B: The binding-energy-per-nucleon trend does not provide evidence for quark substructure; quarks are inferred from particle-scattering/particle-physics evidence, not from this nuclear binding-energy plateau.</p>\n<p>C: Many nuclides with more than <span class=\"math\" data-latex=\"62\"></span> nucleons are stable. The plateau indicates similar average binding per nucleon, not that all such nuclides are unstable.</p>\n<p>D: Nuclear energy levels are inferred from discrete gamma-ray emission/absorption spectra. A binding-energy-per-nucleon plateau does not directly establish the existence of quantized nuclear levels.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A graph of binding energy per nucleon against nucleon number shows it is approximately constant for nuclides with more than <span class=\"math\" data-latex=\"62\"></span> nucleons. What can be determined from this finding?</p><ol class=\"mcq-options\"><li data-label=\"A\">That the strong nuclear force has a very short range</li><li data-label=\"B\">That protons and neutrons are composed of quarks</li><li data-label=\"C\">That nuclides with more than <span class=\"math\" data-latex=\"62\"></span> nucleons are unstable</li><li data-label=\"D\">The existence of nuclear energy levels</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

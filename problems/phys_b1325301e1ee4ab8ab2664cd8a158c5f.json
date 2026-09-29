@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b1325301e1ee4ab8ab2664cd8a158c5f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which surface has the highest emissivity?</p><ol class=\"mcq-options\"><li data-label=\"A\">A shiny silver metal</li><li data-label=\"B\">A polished mirror</li><li data-label=\"C\">A black matte surface</li><li data-label=\"D\">A transparent glass</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

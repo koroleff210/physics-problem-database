@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6e486d0a7dc2a93e1b70a663245d68c54d3d0d07c94452d7a130bbc61fc2d45f.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6e486d0a7dc2a93e1b70a663245d68c54d3d0d07c94452d7a130bbc61fc2d45f"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_f4e9d167c18541c6b41847e8efc0e78f",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Impulse = area under the force-time graph [1 mark]</p>\n<p><span class=\"math\" data-latex=\"I = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 0.40 \\times 30 = 6.0\\ \\text{N s}\"></span> (or <span class=\"math\" data-latex=\"\\text{kg m s}^{-1}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Impulse = <span class=\"math\" data-latex=\"\\Delta p = m(v - u)\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"6.0 = 1.5 \\times (v - 0) \\implies v = 4.0\\ \\text{m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"p = 6.0\\ \\text{kg m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Since impulse (change in momentum) is the area under the force-time graph, increasing the time base requires a lower peak force to maintain the same total area [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"1.5\\ \\text{kg}\"></span> is initially at rest on a horizontal, frictionless surface. A horizontal force is applied to the block. The variation of this force with time is shown in the graph below.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Using the graph, determine the impulse delivered to the block between <span class=\"math\" data-latex=\"t = 0\"></span> and <span class=\"math\" data-latex=\"t = 0.40\\ \\text{s}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the speed of the block at <span class=\"math\" data-latex=\"t = 0.40\\ \\text{s}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State the magnitude of the final momentum of the block. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Explain, with reference to the impulse-momentum theorem, why increasing the time of an impact decreases the maximum force exerted for a fixed change in momentum. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

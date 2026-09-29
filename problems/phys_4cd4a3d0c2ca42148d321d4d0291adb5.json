@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8e55f5279aead87677e937e0cf863902f4fc08e4569d71dc90cc7bf99371bb43.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8e55f5279aead87677e937e0cf863902f4fc08e4569d71dc90cc7bf99371bb43"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_4cd4a3d0c2ca42148d321d4d0291adb5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rod of mass <span class=\"math\" data-latex=\"6.0\\; \\textup{kg}\"></span> and length <span class=\"math\" data-latex=\"2.0\\; \\textup{m}\"></span>, initially at rest, is rotated by a constant force <span class=\"math\" data-latex=\"F\"></span> about its centre.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>After <span class=\"math\" data-latex=\"20\"></span> seconds, the angular momentum of the rod is <span class=\"math\" data-latex=\"10\\; \\textup{kg\\,m}^{2} \\textup{\\,s}^{-1}\"></span>. The moment of inertia for the rod is <span class=\"math\" data-latex=\"I = \\frac{1}{12}mL^{2}\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"L\"></span> is the length of the rod.</p>\n<p>What is the best estimate for the number of full revolutions completed by the rod?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"8\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"16\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"50\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"100\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

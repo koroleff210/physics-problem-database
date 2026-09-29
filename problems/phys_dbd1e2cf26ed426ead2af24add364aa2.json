@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_dbd1e2cf26ed426ead2af24add364aa2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron is accelerated from rest through a potential difference V.</p>\n<p>What is the maximum speed of the electron?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2eV}{m_{e}}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{eV}{m_{e}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2eV}{m_{e}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2V}{m_{e}}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

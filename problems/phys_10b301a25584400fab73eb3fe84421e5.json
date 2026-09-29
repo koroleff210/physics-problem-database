@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_10b301a25584400fab73eb3fe84421e5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solid sphere of mass <span class=\"math\" data-latex=\"2.0\\; \\textup{kg}\"></span> and radius <span class=\"math\" data-latex=\"1.0\\; \\textup{m}\"></span>, initially at rest, takes <span class=\"math\" data-latex=\"40\"></span> seconds to roll down a ramp without slipping. The angular acceleration of the sphere is <span class=\"math\" data-latex=\"0.25\\; \\textup{rad\\,s}^{-1}\"></span>. The moment of inertia for a solid sphere is <span class=\"math\" data-latex=\"I = \\frac{2}{5}mr^{2}\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"r\"></span> is the radius of the sphere.</p>\n<p>What is the total kinetic energy of the sphere when it reaches the bottom of the ramp?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"80\\; \\textup{J}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"100\\; \\textup{J}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"140\\; \\textup{J}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"200\\; \\textup{J}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

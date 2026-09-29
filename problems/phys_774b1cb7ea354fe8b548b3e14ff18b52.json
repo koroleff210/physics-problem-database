@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_774b1cb7ea354fe8b548b3e14ff18b52",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two aluminium cubes, A and B, are brought into contact with each other. The side length of cube A is 5 cm and its temperature is 10 <span class=\"math\" data-latex=\"^{o}\"></span>C. The side length of cube B is 10 cm and its temperature is 190 <span class=\"math\" data-latex=\"^{o}\"></span>C. Energy transfer only takes place between the blocks. </p>\n<p>What is the final temperature of the two blocks?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">100 <span class=\"math\" data-latex=\"^{o}\"></span>C</li>\n<li data-label=\"B\">130 <span class=\"math\" data-latex=\"^{o}\"></span>C</li>\n<li data-label=\"C\">154 <span class=\"math\" data-latex=\"^{o}\"></span>C</li>\n<li data-label=\"D\">170 <span class=\"math\" data-latex=\"^{o}\"></span>C</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

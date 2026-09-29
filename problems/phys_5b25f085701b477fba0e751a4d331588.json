@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_5b25f085701b477fba0e751a4d331588",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The average background activity at a certain location is <span class=\"math\" data-latex=\"60\"></span> Bq. When a sample of a radioactive nuclide is placed at this location, a detector measures an activity of <span class=\"math\" data-latex=\"700\"></span> Bq. The half-life of the nuclide is <span class=\"math\" data-latex=\"20\"></span> minutes. What activity does the detector measure after two hours?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"60\"></span> Bq</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"70\"></span> Bq</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"80\"></span> Bq</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"100\"></span> Bq</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

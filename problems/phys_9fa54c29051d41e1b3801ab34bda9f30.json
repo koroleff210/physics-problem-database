@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_9fa54c29051d41e1b3801ab34bda9f30",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The total energy in simple harmonic motion is given by E = (1/2) * m * ω^2 * <span class=\"math\" data-latex=\"x_{0}\"></span>^2. The angular frequency ω can be found from the period T using ω = 2π/T. Substituting the given values (m=1.0 kg, T=2.0 s, E=72 J) yields an amplitude <span class=\"math\" data-latex=\"x_{0}\"></span> = 12/π ≈ 3.8 m.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"1.0\\,\\mathrm{kg}\"></span> mass undergoes undamped simple harmonic motion with a period of <span class=\"math\" data-latex=\"2.0\\,\\mathrm{s}\"></span>. The total energy is <span class=\"math\" data-latex=\"72\\,\\mathrm{J}\"></span>.</p>\n<p>What is the amplitude?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"15\\,\\mathrm{m}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"12\\,\\mathrm{m}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"7.6\\,\\mathrm{m}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"3.8\\,\\mathrm{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

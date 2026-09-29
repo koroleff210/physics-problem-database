@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_9edfffa6b8124d68a8b6870115b44356",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The period of the oscillation. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"f = \\frac{1}{T} = \\frac{1}{0.80} = 1.25\\ \\text{Hz}\"></span><br/>- Correct formula [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"\\omega = 2\\pi f\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A mass on a spring oscillates vertically with simple harmonic motion. The time for one complete oscillation is <span class=\"math\" data-latex=\"0.80\\ \\text{s}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the quantity represented by the time for one complete oscillation. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the frequency of the oscillation. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State the relationship between the frequency and the angular frequency. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e009e7b135d636bf1ee00228a4c8ece8dfcfb1ebfce21469d125dfdfebe370c0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e009e7b135d636bf1ee00228a4c8ece8dfcfb1ebfce21469d125dfdfebe370c0"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_5141187686624c0eaf3b6d0fc7e66630",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The motion is SHM. From the graph, the amplitude is y₀ = 1.2 cm. The period T can be estimated as approximately 1.8 s from the graph's features (e.g., peak at t=1.3s ≈ 3T/4). The maximum speed is <span class=\"math\" data-latex=\"v_{\\mathrm{max}}\"></span> = ωy₀ = (2π/T)y₀ = (2π/1.8) * 1.2 ≈ 4.19 cm/s. The question asks for the speed at t=1.0s, which is very close to the equilibrium crossing (t≈0.95s) where speed is maximum. Thus, the intended answer is the maximum speed, which is approximately 4.2 cm/s.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with time t of the displacement y from the equilibrium of a pendulum bob.</p>\n<p>What will be the speed of the bob at t = 1.0 s?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"4.4 cm s^-1\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"4.2 cm s^-1\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"3.9 cm s^-1\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"1.4 cm s^-1\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

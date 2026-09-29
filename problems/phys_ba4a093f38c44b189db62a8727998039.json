@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/16dab15cb3a936ff75d004ee314bbd0e3a26f4d37e48e6f4df7159f18809ea6f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "16dab15cb3a936ff75d004ee314bbd0e3a26f4d37e48e6f4df7159f18809ea6f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/9dca50427464e2c0b96b26ed4cee9cd33089f4ec9662737803ad241668e2a8fd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9dca50427464e2c0b96b26ed4cee9cd33089f4ec9662737803ad241668e2a8fd"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba4a093f38c44b189db62a8727998039",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In two different experiments, white light is passed through a single slit and then is either refracted through a prism or diffracted with a diffraction grating. The prism produces a band of colours from M to N. The diffraction grating produces a first order spectrum P to Q.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are the colours observed at M and P?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_811e48b1b2164742b7c4ba12b27441a8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The background count in a laboratory is 20 counts per second. The initial observed count rate of a pure sample of nitrogen-13 in this laboratory is 180 counts per second. The half-life of nitrogen-13 is 10 minutes. What is the expected count rate of the sample after 30 minutes?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">20 counts per second</li><li data-label=\"B\">23 counts per second</li><li data-label=\"C\">40 counts per second</li><li data-label=\"D\">60 counts per second</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

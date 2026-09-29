@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_9e78ca6b00564f9c9aaa2a163a504844",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton and an alpha particle are accelerated by the same electric potential difference. The kinetic energy of the proton is E and its de Broglie wavelength is λ. What is the kinetic energy and the de Broglie wavelength of the alpha particle?</p>\n<table><tbody><tr><td></td><td><p>Kinetic energy of alpha particle</p></td><td><p>De Broglie wavelength of alpha particle</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>E</p></td><td><p>less than λ</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>E</p></td><td><p>greater than λ</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>greater than E</p></td><td><p>less than λ</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>greater than E</p></td><td><p>greater than λ</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

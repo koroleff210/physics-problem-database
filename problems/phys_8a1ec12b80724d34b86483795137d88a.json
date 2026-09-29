@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_8a1ec12b80724d34b86483795137d88a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: For no deflection, the electric and magnetic forces balance: <span class=\"math\" data-latex=\"qE=qvB\\Rightarrow v=\\frac{E}{B}\"></span>. The product <span class=\"math\" data-latex=\"EB\"></span> does not give units of speed.</p>\n<p>B: Undeflected motion requires the forces to balance: <span class=\"math\" data-latex=\"F_E=qE\"></span> and <span class=\"math\" data-latex=\"F_B=qvB\"></span>. Setting <span class=\"math\" data-latex=\"qE=qvB\"></span> gives <span class=\"math\" data-latex=\"v=\\frac{E}{B}\"></span>.</p>\n<p>C: This is the inverted ratio. From <span class=\"math\" data-latex=\"qE=qvB\"></span>, the speed is <span class=\"math\" data-latex=\"v=\\frac{E}{B}\"></span>, not <span class=\"math\" data-latex=\"\\frac{B}{E}\"></span>.</p>\n<p>D: A common incorrect factor. Balancing forces gives <span class=\"math\" data-latex=\"qE=qvB\\Rightarrow v=\\frac{E}{B}\"></span> (no factor of 2).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton moves into a region with a uniform electric field <span class=\"math\" data-latex=\"\\vec{E}\"></span> and magnetic field <span class=\"math\" data-latex=\"\\vec{B}\"></span>, both perpendicular to each other. If the proton's velocity is such that it moves undeflected, what is the condition on its velocity?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"v = EB\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"v = \\dfrac{E}{B}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"v = \\dfrac{B}{E}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"v = \\dfrac{2E}{B}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

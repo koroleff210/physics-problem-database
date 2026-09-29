@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_b3ee661747bd4c1fb22358be66675307",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star has surface area <span class=\"math\" data-latex=\"A\"></span>, radius <span class=\"math\" data-latex=\"R\"></span>, surface temperature <span class=\"math\" data-latex=\"T\"></span>, and apparent brightness <span class=\"math\" data-latex=\"b\"></span>.</p>\n<p>Which of the following statements is not correct about the luminosity <span class=\"math\" data-latex=\"L\"></span> of the star?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"L\\: \\alpha\\, T^{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"L\\: \\alpha\\, A\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"L\\: \\alpha\\, b\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"L\\: \\alpha\\, R\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/97fcefb6ea57f657271cc00f012029d46c3cddbd1d659891ec4612e6305c648f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "97fcefb6ea57f657271cc00f012029d46c3cddbd1d659891ec4612e6305c648f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c87329ea59f2c1309118bceb6dd5b7461bdc8ffc122c74c2beafa2b7766e0196.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c87329ea59f2c1309118bceb6dd5b7461bdc8ffc122c74c2beafa2b7766e0196"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5e8b5aef4c4e486d97635399dd47a2be",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is sealed in a cylinder with a sliding piston. When the piston is a length L from the bottom of the cylinder the total force of the gas particles on the piston is F<sub>total</sub> and the average force each individual particle imparts on the piston per collision is F<sub>particle</sub>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The piston length is slowly reduced to <span class=\"math\" data-latex=\"\\frac{L}{2}\"></span> such that the temperature of the gas remains constant.</p>\n<p>What is true about the change in F<sub>total</sub> and the change in F<sub>particle</sub>?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

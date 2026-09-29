@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e79b3db4994ed3531d9dd793f96161aa2b00c404b072685ffde1a275f6bba8ed.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e79b3db4994ed3531d9dd793f96161aa2b00c404b072685ffde1a275f6bba8ed"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_1245d7355d4a41afbe21740eb378f3c8",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is released from rest and slides down a frictionless ramp. The object then leaves the ramp and slides along a rough horizontal surface. The object stops in a distance <span class=\"math\" data-latex=\"s\"></span> along the ramp. <br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The coefficient of dynamic friction between the object and the rough horizontal surface is <span class=\"math\" data-latex=\"μ\"></span>.</p>\n<p>What is the height of the ramp? <br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"μgs\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{s}{2gμ}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{s}{μ}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"μs\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

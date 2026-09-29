@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_67c613ab4347433b992b6c7ee7c9c4c0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following statements best describes gravitational field lines?</p><ol class=\"mcq-options\"><li data-label=\"A\">Gravitational field lines are closed loops around a mass.</li><li data-label=\"B\">Gravitational field lines point radially outward from a mass.</li><li data-label=\"C\">Gravitational field lines are parallel and evenly spaced near a mass.</li><li data-label=\"D\">Gravitational field lines point radially inward towards a mass.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

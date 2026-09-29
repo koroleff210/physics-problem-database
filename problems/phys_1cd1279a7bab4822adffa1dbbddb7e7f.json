@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_1cd1279a7bab4822adffa1dbbddb7e7f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two skiers of different weights wearing identical skis are sliding along a horizontal surface. Both come to rest as a result of the frictional force between the surface and the skis. The initial speed of both skiers is <span class=\"math\" data-latex=\"10\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. What is true about the acceleration of the skiers and the frictional force that acts on the skis?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Acceleration</strong></p>\n</td>\n<td>\n<p><strong>Frictional force</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Equal</td>\n<td>Different</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Different</td>\n<td>Equal</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Equal</td>\n<td>Equal</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Different</td>\n<td>Different</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/aeb5e790aec8f7f65b47d580f72dc8049b3e090dddde0aa88bf0a9c524913233.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "aeb5e790aec8f7f65b47d580f72dc8049b3e090dddde0aa88bf0a9c524913233"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_cc89f4276c61407e8b610f0858e52b0b",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two charged parallel plates have electric potentials of 10 V and 20 V.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A particle with charge +2.0 μC is moved from the 10 V plate to the 20 V plate. What is the change in the electric potential energy of the particle?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">−20 μJ</li><li data-label=\"B\">−10 μJ</li><li data-label=\"C\">10 μJ</li><li data-label=\"D\">20 μJ</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

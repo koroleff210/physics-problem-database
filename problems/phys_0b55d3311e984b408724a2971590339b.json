@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_0b55d3311e984b408724a2971590339b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conductor has a resistance of 1.0 kΩ. The length of the conductor is 20 km and the cross‑sectional area is 1.0<sup> </sup>mm<sup>2</sup>.</p>\n<p>What is the resistivity of this conductor?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.0 × 10<sup>−5 </sup>Ω<sup> </sup>m</li><li data-label=\"B\">5.0 × 10<sup>−5 </sup>Ω<sup> </sup>m</li><li data-label=\"C\">2.0 × 10<sup>−8 </sup>Ω<sup> </sup>m</li><li data-label=\"D\">5.0 × 10<sup>−8 </sup>Ω<sup> </sup>m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

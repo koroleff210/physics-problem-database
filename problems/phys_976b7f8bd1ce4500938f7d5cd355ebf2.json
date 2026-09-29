@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_976b7f8bd1ce4500938f7d5cd355ebf2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An atom of hydrogen (<sup>1</sup><sub>1</sub>H) and an atom of helium (<sup>4</sup><sub>2</sub>He) are moving with the same kinetic energy.</p>\n<p>The de Broglie wavelength of the hydrogen atom is <span class=\"math\" data-latex=\"\\lambda_{H}\"></span> and the de Broglie wavelength of the helium atom is <span class=\"math\" data-latex=\"\\lambda_{He}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\lambda_{H}}{\\lambda_{He}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"1\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

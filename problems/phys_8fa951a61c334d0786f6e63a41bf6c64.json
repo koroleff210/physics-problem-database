@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/36d2e66871a58c3010c5d337dd83ce1d546162f0cef70eb1566d1abfd9bc7a41.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "36d2e66871a58c3010c5d337dd83ce1d546162f0cef70eb1566d1abfd9bc7a41"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_8fa951a61c334d0786f6e63a41bf6c64",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: At <span class=\"math\" data-latex=\"X\"></span>, the field due to <span class=\"math\" data-latex=\"A\"></span> points towards <span class=\"math\" data-latex=\"A\"></span> (left) with magnitude <span class=\"math\" data-latex=\"g_A=\\frac{G(3m)}{(2d)^2}=\\frac{3}{4}\\frac{Gm}{d^2}\"></span>, but the field due to <span class=\"math\" data-latex=\"B\"></span> is larger, so the net field is not towards <span class=\"math\" data-latex=\"A\"></span>.</p>\n<p>B: Field at <span class=\"math\" data-latex=\"X\"></span> due to <span class=\"math\" data-latex=\"A\"></span>: <span class=\"math\" data-latex=\"g_A=\\frac{G(3m)}{(2d)^2}=\\frac{3}{4}\\frac{Gm}{d^2}\"></span> to the left (towards <span class=\"math\" data-latex=\"A\"></span>). Field at <span class=\"math\" data-latex=\"X\"></span> due to <span class=\"math\" data-latex=\"B\"></span>: <span class=\"math\" data-latex=\"g_B=\\frac{Gm}{d^2}\"></span> to the right (towards <span class=\"math\" data-latex=\"B\"></span>). Since <span class=\"math\" data-latex=\"g_B&gt;g_A\"></span>, net field is to the right, i.e. towards mass <span class=\"math\" data-latex=\"B\"></span>.</p>\n<p>C: Cancellation would require <span class=\"math\" data-latex=\"\\frac{G(3m)}{(2d)^2}=\\frac{Gm}{d^2}\"></span>, but <span class=\"math\" data-latex=\"\\frac{3}{4}\\frac{Gm}{d^2}\\neq 1\\cdot\\frac{Gm}{d^2}\"></span>, so the net field is not zero.</p>\n<p>D: The gravitational fields from point masses act along the line joining each mass to <span class=\"math\" data-latex=\"X\"></span>; here all points lie on the same line, so the resultant must also lie along that line, not perpendicular to it.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two point masses, <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span>, have masses <span class=\"math\" data-latex=\"3m\"></span> and <span class=\"math\" data-latex=\"m\"></span> respectively, and are separated by a distance of <span class=\"math\" data-latex=\"3d\"></span>. The distance from <span class=\"math\" data-latex=\"X\"></span> to mass <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"2d\"></span> and the distance from <span class=\"math\" data-latex=\"X\"></span> to mass <span class=\"math\" data-latex=\"B\"></span> is <span class=\"math\" data-latex=\"d\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the direction of the net gravitational field at point <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">Towards mass <span class=\"math\" data-latex=\"A\"></span></li><li data-label=\"B\">Towards mass <span class=\"math\" data-latex=\"B\"></span></li><li data-label=\"C\">Zero; the gravitational field cancels at <span class=\"math\" data-latex=\"X\"></span></li><li data-label=\"D\">Perpendicular to the line joining <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

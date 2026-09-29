@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d8bf96c65e6548a3a469bc1f6649c724",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Uses <span class=\"math\" data-latex=\"a=\\Delta v/\\Delta t\"></span>. [1 mark]</p>\n<p><span class=\"math\" data-latex=\"a=(10.0-0.0)/(10-0)=1.0\\ \\text{m s}^{-2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Recognizes distance as area under <span class=\"math\" data-latex=\"v\"></span>–<span class=\"math\" data-latex=\"t\"></span> graph over <span class=\"math\" data-latex=\"0\"></span> to <span class=\"math\" data-latex=\"10\"></span> s. [1 mark]</p>\n<p>Uses triangle area (or trapezium rule) with base <span class=\"math\" data-latex=\"10\"></span> s and height <span class=\"math\" data-latex=\"10\"></span> m s⁻¹ [1 mark]</p>\n<p><span class=\"math\" data-latex=\"s=\\tfrac{1}{2}\\times 10\\times 10=50\\ \\text{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Uses <span class=\"math\" data-latex=\"v=u+at\"></span> with <span class=\"math\" data-latex=\"v=0\"></span>, <span class=\"math\" data-latex=\"u=10\"></span> m s⁻¹, <span class=\"math\" data-latex=\"a=-2.0\"></span> m s⁻² [1 mark]</p>\n<p><span class=\"math\" data-latex=\"0=10+(-2.0)t\\Rightarrow t=5.0\\ \\text{s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Uses a kinematics relation such as <span class=\"math\" data-latex=\"v^2=u^2+2as\"></span> (or area under <span class=\"math\" data-latex=\"v\"></span>–<span class=\"math\" data-latex=\"t\"></span> during braking) [1 mark]</p>\n<p><span class=\"math\" data-latex=\"0^2=10^2+2(-2.0)s\\Rightarrow s=25\\ \\text{m}\"></span> (equivalently, average speed <span class=\"math\" data-latex=\"=5\"></span> m s⁻¹ for <span class=\"math\" data-latex=\"5\"></span> s, so <span class=\"math\" data-latex=\"s=25\"></span> m) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A cyclist starts from rest and rides in a straight line along a flat road. The cyclist’s speed <span class=\"math\" data-latex=\"v\"></span> is measured at regular time intervals. The data are shown in the table.</p><table><thead><tr><th><span class=\"math\" data-latex=\"t\"></span> / s</th><th>0</th><th>2</th><th>4</th><th>6</th><th>8</th><th>10</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"v\"></span> / m s⁻¹</td><td>0.0</td><td>2.0</td><td>4.0</td><td>6.0</td><td>8.0</td><td>10.0</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the acceleration of the cyclist during the first <span class=\"math\" data-latex=\"10\"></span> s.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the distance travelled by the cyclist in the first <span class=\"math\" data-latex=\"10\"></span> s.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>At <span class=\"math\" data-latex=\"t=10\"></span> s the cyclist stops pedalling and slows down with a constant acceleration of <span class=\"math\" data-latex=\"-2.0\\ \\text{m s}^{-2}\"></span>. Calculate the additional time taken for the cyclist to come to rest.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the additional distance travelled by the cyclist while slowing down from <span class=\"math\" data-latex=\"10\\ \\text{m s}^{-1}\"></span> to rest.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

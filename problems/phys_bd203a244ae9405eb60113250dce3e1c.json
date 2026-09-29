@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/48aa8d06a45db80f8292a740f4b5888a5a7a6fa4c2ca648366d0e3885b16f2e9.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "48aa8d06a45db80f8292a740f4b5888a5a7a6fa4c2ca648366d0e3885b16f2e9"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_bd203a244ae9405eb60113250dce3e1c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A microprocessor is attached to a metal heat sink to prevent overheating. The diagram below shows two interfaces where thermal energy is transferred.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which row correctly identifies the primary mechanisms of thermal energy transfer at interface <strong>1</strong> and interface <strong>2</strong>?</p>\n<table><thead><tr><th></th><th>Interface 1</th><th>Interface 2</th></tr></thead><tbody><tr data-label=\"A\"><td><strong>A</strong></td><td>Conduction</td><td>Convection</td></tr><tr data-label=\"B\"><td><strong>B</strong></td><td>Conduction</td><td>Radiation</td></tr><tr data-label=\"C\"><td><strong>C</strong></td><td>Convection</td><td>Conduction</td></tr><tr data-label=\"D\"><td><strong>D</strong></td><td>Radiation</td><td>Convection</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

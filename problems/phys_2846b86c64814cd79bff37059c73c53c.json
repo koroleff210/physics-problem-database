@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7bce25ca93de5dcc3864ee79faca37016bc8f93c460f04708da7761fc28d9e16.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7bce25ca93de5dcc3864ee79faca37016bc8f93c460f04708da7761fc28d9e16"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_2846b86c64814cd79bff37059c73c53c",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The energy balance model of a planet’s climate is shown. The reflected and radiated intensities are given in terms of the incident incoming intensity I.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the radiated intensity from the surface of the planet?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.40 I</li><li data-label=\"B\">0.50 I</li><li data-label=\"C\">0.70 I</li><li data-label=\"D\">1.10 I</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

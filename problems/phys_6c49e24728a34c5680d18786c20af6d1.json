@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_6c49e24728a34c5680d18786c20af6d1",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Kinetic energy of fission products.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Energy is transferred to coolant.<br/>[1 mark]<br/>- Coolant heats water to produce steam that drives turbines.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Mechanical energy to electrical energy.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>To protect from harmful ionizing radiation.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A nuclear reactor transfers thermal energy to a steam turbine.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the type of energy produced directly in fission.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe how thermal energy is extracted from the reactor.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State the final energy transformation in an electrical generator.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain why shielding is necessary around the reactor.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e674b8ec93b43e797b8d4bf26f7e3fb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and Q are two moons of equal densities orbiting a planet. The orbital radius of P is twice the orbital radius of Q. The volume of P is half that of Q. The force exerted by the planet on P is F. What is the force exerted by the planet on Q?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">F</li><li data-label=\"B\">2F</li><li data-label=\"C\">4F</li><li data-label=\"D\">8F</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

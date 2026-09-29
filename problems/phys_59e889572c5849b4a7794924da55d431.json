@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/edf321ddac3c7cc0c10b44b5fc9b3db91d4eede526aaf2283a8ac8c263ee9439.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "edf321ddac3c7cc0c10b44b5fc9b3db91d4eede526aaf2283a8ac8c263ee9439"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_59e889572c5849b4a7794924da55d431",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A resistor with resistance <span class=\"math\" data-latex=\"5.0\\: \\Omega\"></span> is connected to a cell of emf <span class=\"math\" data-latex=\"12\"></span> V. The internal resistance of the cell is <span class=\"math\" data-latex=\"1.0\\: \\Omega\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the voltmeter reading?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"2.0\"></span> V</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6.0\"></span> V</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"10\"></span> V</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"12\"></span> V</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f8cf6f2535bc4925c8320f31f4244355b436758584f9c583c32e911bc4006304.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f8cf6f2535bc4925c8320f31f4244355b436758584f9c583c32e911bc4006304"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e6499a0519694562b2b5b6abccfa4a7b",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light with photons of energy 8.0 × 10<sup>−20 </sup>J are incident on a metal surface in a photoelectric experiment.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The work function of the metal surface is 4.8 × 10<sup>−20 </sup>J . What minimum voltage is required for the ammeter reading to fall to zero?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.2 V</li><li data-label=\"B\">0.3 V</li><li data-label=\"C\">0.5 V</li><li data-label=\"D\">0.8 V</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

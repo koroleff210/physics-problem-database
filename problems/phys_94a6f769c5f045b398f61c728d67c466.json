@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4cbe409e1db17852831e3e4ad4fcbea21dc6e5dcb512d7ff9f0acb0e65db4233.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4cbe409e1db17852831e3e4ad4fcbea21dc6e5dcb512d7ff9f0acb0e65db4233"
+    }
+  ],
+  "classes": [
+    "D.1",
+    "D.2",
+    "D.3",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_94a6f769c5f045b398f61c728d67c466",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"I=\\frac{F}{BL}=\\frac{0.084}{1.20.6}=0.12 A\"></span> ✓ <br/>Must see full substitution OR answer to 2 (or more) significant figures.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Down the page ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Current «in the rod» creates a magnetic field OR Reference to a hand rule ✓<br/>The magnetic field is into the page on the right side of the wire OR out of the page on the left side of the wire ✓<br/>Therefore the net field is larger/stronger on the right side of the wire OR the net field is smaller/weaker on the left side of the wire. ✓ <br/>Allow a drawing of the wire’s magnetic field on the given diagram for MP2</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>ALTERNATIVE 1 The loop is enclosing a larger area of flux density as the rod moves to the right ✓ So the force induced to the left will oppose this change ✓   ALTERNATIVE 2<br/> An external source of energy must be exerting the force on the rod to the right ✓ This force induces electrical energy that must as a result oppose the change that created it ✓   ALTERNATIVE 3 As a result of the motion the magnetic flux increases ✓ The induced current must oppose this so be anticlockwise/up the metal rod ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of <span class=\"math\" data-latex=\"I_{1}=I_{2}=0.117\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{F}{L} = {μ}_{0} \\frac{{I}^{2}}{2 π r} = 4 π \\times  {10}^{- 7} \\frac{{0.117}^{2}}{2 π ( 0.6 )} = 4.6 \\times  {10}^{- 9}\"></span> ✓ <span class=\"math\" data-latex=\"kg s^{-2}\"></span> ✓ <br/>Allow ECF from 4a(i). MP3 should be awarded for correct units regardless of value.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A metal rod is pulled along two horizontal conducting rails X and Y so that it rolls to the right at a constant speed. The two rails are connected by a straight conducting wire of Length L = 0.60 m. The system is in a region of uniform magnetic field of magnitude B = 1.2 T directed into the page.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> As a result of the motion, the metal rod experiences a magnetic force of 0.084 N.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the current in the metal rod is about 0.1 A. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State the direction of the magnetic force on an electron in the metal rod. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> The magnitude of the magnetic field on the right-hand side of the rod is different from that on the left-hand side. Explain why. [3]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> Outline how Lenz’s law applies to this system. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine, using your answer from (a)(i), the force per unit length between rails X and Y. State the fundamental SI units for your answer. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

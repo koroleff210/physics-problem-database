@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5a6949b51b5b40f7a3ac78472bf0bf94",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An engine provides a thrust force <span class=\"math\" data-latex=\"F\"></span> to move a vehicle at constant velocity <span class=\"math\" data-latex=\"v\"></span>. The engine has an efficiency <span class=\"math\" data-latex=\"e\"></span> and consumes fuel with an energy density <span class=\"math\" data-latex=\"η\"></span>.</p>\n<p>Which expression gives the rate at which the volume of fuel is being consumed by the engine?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Fv}{eη}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{Fvη}{e}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{eFv}{η}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{eη}{Fv}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

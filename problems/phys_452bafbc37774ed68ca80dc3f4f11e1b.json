@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e46b9f1e41016b70765af7c3940fee7efb59ec58c61ac7efa3af30acf00d7b81.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e46b9f1e41016b70765af7c3940fee7efb59ec58c61ac7efa3af30acf00d7b81"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_452bafbc37774ed68ca80dc3f4f11e1b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks with masses <span class=\"math\" data-latex=\"m_1\"></span> and <span class=\"math\" data-latex=\"m_2\"></span> are connected by a light string and placed on a frictionless horizontal surface. A horizontal force of magnitude <span class=\"math\" data-latex=\"F\"></span> is applied to the block of mass <span class=\"math\" data-latex=\"m_2\"></span> as shown in the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the tension <span class=\"math\" data-latex=\"T\"></span> in the string?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"T = F\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"T = \\frac{m_1}{m_1 + m_2}F\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"T = \\frac{m_2}{m_1 + m_2}F\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"T = \\frac{m_1 + m_2}{m_2}F\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3",
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_7bfa210152be43579bf576ea5e229395",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALTERNATIVE 1 Recognition that at maximum displacement, <span class=\"math\" data-latex=\"E_{T}=E_{E}\"></span> ✓ <span class=\"math\" data-latex=\"{E}_{E} = \\frac{1}{2} \\, k Δ {x}^{2}\"></span>; since <span class=\"math\" data-latex=\"Δ x = {x}_{0}\"></span>, <span class=\"math\" data-latex=\"E_{T}=\\frac{1}{2}kx_{0}^{2}\"></span> ✓   ALTERNATIVE 2 <span class=\"math\" data-latex=\"\\omega=\\frac{2\\pi}{T}=\\frac{2\\pi}{2\\pi\\sqrt{\\frac{m}{k}}}=\\sqrt{\\frac{k}{m}}\"></span> ✓ <span class=\"math\" data-latex=\"E_{T}=\\frac{1}{2}m\\omega^{2}x_{0}^{2}=\\frac{1}{2}m\\sqrt{\\frac{k}{m}}^{2}x_{0}^{2}\"></span> ✓   ALTERNATIVE 3 <span class=\"math\" data-latex=\"F=ma\"></span>; <span class=\"math\" data-latex=\"kx_{0}=m\\omega^{2}x_{0}\"></span> to give <span class=\"math\" data-latex=\"k=m\\omega^{2}\"></span> ✓ <span class=\"math\" data-latex=\"E_{T}=\\frac{1}{2}m\\omega^{2}x_{0}^{2}=\\frac{1}{2}kx_{0}^{2}\"></span> ✓</p>\n<p>In a first trial, the spring is compressed by 0.15 m, and the mass is released from rest.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"E=\\frac{1}{2}kx_{0}^{2}=0.524.50.15^{2}=0.2756=0.28 J\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of <span class=\"math\" data-latex=\"{v}_{m a x} = ω {x}_{0}\"></span>   OR   <span class=\"math\" data-latex=\"v_{max}=\\sqrt{\\frac{k}{m}}x_{0}\"></span>   OR   <span class=\"math\" data-latex=\"KE_{max}=\\frac{1}{2}mv_{max}^{2}\"></span> ✓ <span class=\"math\" data-latex=\"1.4\"></span>   OR   <span class=\"math\" data-latex=\"\\sqrt{2}\"></span> ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A mass–spring system oscillates on a frictionless horizontal surface with simple harmonic motion. The mass <span class=\"math\" data-latex=\"m\"></span> oscillates with angular frequency <span class=\"math\" data-latex=\"\\omega\"></span>.</p>\n<p>The total energy is <span class=\"math\" data-latex=\"E_{T}=\\frac{1}{2}m\\omega^{2}x_{0}^{2}\"></span>, where <span class=\"math\" data-latex=\"x_{0}\"></span> is the maximum displacement.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that <span class=\"math\" data-latex=\"E_{T}\"></span> can be written as <span class=\"math\" data-latex=\"E_{T}=\\frac{1}{2}kx_{0}^{2}\"></span>, where <span class=\"math\" data-latex=\"k\"></span> is the spring constant. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Calculate the maximum elastic potential energy of this system.</p>\n<p><span class=\"math\" data-latex=\"k=24.5 N m^{-1}\"></span></p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>In a second trial, the mass is doubled, and the spring is compressed by the same amount as before.</p>\n<p>Determine <span class=\"math\" data-latex=\"\\frac{\\textit{maximum speed of the mass in the first trial}}{\\textit{maximum speed of the mass in the second trial}}\"></span>.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

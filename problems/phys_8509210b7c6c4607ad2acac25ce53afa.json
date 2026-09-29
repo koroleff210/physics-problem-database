@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_8509210b7c6c4607ad2acac25ce53afa",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric field of strength <span class=\"math\" data-latex=\"E\"></span> exerts a force <span class=\"math\" data-latex=\"F\"></span> on a charge <span class=\"math\" data-latex=\"q\"></span>. What happens to the force if the field strength is halved and the charge is doubled?</p><ol class=\"mcq-options\"><li data-label=\"A\">The force is quartered</li><li data-label=\"B\">The force is halved</li><li data-label=\"C\">The force remains the same</li><li data-label=\"D\">The force is doubled</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

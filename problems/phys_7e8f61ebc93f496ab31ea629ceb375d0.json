@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/65727e6047d0bf0e0a8ff2e8e93ae4b3c1a910ec750cf99701db8bbe103154c8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "65727e6047d0bf0e0a8ff2e8e93ae4b3c1a910ec750cf99701db8bbe103154c8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/a0c4de0372e9552b2caca6a9cff55eb648086fadef5bfd6c5e766ef6d651469b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a0c4de0372e9552b2caca6a9cff55eb648086fadef5bfd6c5e766ef6d651469b"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/922c1d2eabbde308b1f8ba1a5fb04d6b3942a0dfcb08bb0eaa661fbc5b40037c.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "922c1d2eabbde308b1f8ba1a5fb04d6b3942a0dfcb08bb0eaa661fbc5b40037c"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/dfcd0b13e59d448ad45efdb16ef83f62d9a8ffa8c9ffb5d81ca5694c8b7c40c0.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "dfcd0b13e59d448ad45efdb16ef83f62d9a8ffa8c9ffb5d81ca5694c8b7c40c0"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e8f61ebc93f496ab31ea629ceb375d0",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a\"><p><strong>15a</strong></p><p></p>\n<p>The magnetic field inside the coil due to the bar magnet  is pointing to the left.</p>\n<p>As the magnet moves towards the coil, this magnetic field is increasing. </p>\n<p>According to Lenz's law, the current in the coil must be such as to oppose this change, so the magnetic field that arises due to the current in the coil must be pointing to the right inside the coil.</p>\n<p>Using the right-hand corkscrew rule, the current between A and B is downwards (so from B to A).</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15b\"><p><strong>15b</strong></p><p></p>\n<p>To the right.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c\"><p><strong>15c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A bar magnet is moving horizontally at constant speed towards a square-shaped conducting coil. The surface area of the coil is vertical. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>At <span class=\"math\" data-latex=\"t = 0\"></span> the magnet is in the position shown on the diagram. At <span class=\"math\" data-latex=\"t = 0\"></span> charge begins to flow in the coil.</p>\n<p>a. Deduce the direction of the current between point A and point B on the coil at <span class=\"math\" data-latex=\"t = 0\"></span>.</p>\n<p>   [3]</p>\n<p>b. State the direction of the electromagnetic force on the magnet at <span class=\"math\" data-latex=\"t = 0\"></span>.</p>\n<p>   [1]</p>\n<p>The magnet passes through the coil at constant speed and at <span class=\"math\" data-latex=\"t = T\"></span> the magnet is in the position shown below.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>At <span class=\"math\" data-latex=\"t = T\"></span> charge stops flowing in the coil.</p>\n<p>c. On the diagram, sketch how the induced emf in the coil varies with time between <span class=\"math\" data-latex=\"t = 0\"></span> and <span class=\"math\" data-latex=\"t = T\"></span>.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e79229f391140b3b3fa83e24b4da140",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When the rate of change of flux in a coil is X, the maximum induced emf in the coil is <span class=\"math\" data-latex=\"\\varepsilon\"></span>. What is the induced emf in the coil when the time taken for the coil to complete one full turn is doubled and the number of turns in the coil is reduced by 50%?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\varepsilon}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\varepsilon}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\varepsilon\"></span> </li>\n<li data-label=\"D\">2<span class=\"math\" data-latex=\"\\varepsilon\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

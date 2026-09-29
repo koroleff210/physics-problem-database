@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_5e357886256746bfa14808b989552540",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spacetime diagram has the same scale on both axes. Three statements about a photon that travels in vacuum and starts at the origin of the spacetime diagram are</p>\n<p>I. The angle between the worldline of the photon and both axes is <span class=\"math\" data-latex=\"\\frac{\\pi}{4}\"></span>.</p>\n<p>II. The worldline of the photon is a straight line.</p>\n<p>III. The speed of the photon as measured by a stationary observer in the reference frame of the spacetime diagram depends on the speed of the reference frame.</p>\n<p>Which of the statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

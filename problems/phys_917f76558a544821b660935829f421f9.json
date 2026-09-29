@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9ffe1b87f36256622dea47df9f07b0c01d28382bd0427cdeda7a62ab8b05d62c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9ffe1b87f36256622dea47df9f07b0c01d28382bd0427cdeda7a62ab8b05d62c"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_917f76558a544821b660935829f421f9",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows wavefronts of light incident on an air–glass boundary.</p>\n<p>The angle between the incident wavefront and the normal, N, is <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following gives the correct expression for the refractive index of the glass, where <span class=\"math\" data-latex=\"r\"></span> is the angle of refraction?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{sin \\theta}{\\textit{sin r}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{sin 90-\\theta}{\\textit{sin r}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\textit{sin r}}{sin \\theta}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{\\textit{sin r}}{sin 90-\\theta}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

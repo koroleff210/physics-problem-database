@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c2f67961c03f148b0b6493eb41ecbc7fe7d7b7f540a2c001cd8ebbc48c8fa8f4.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c2f67961c03f148b0b6493eb41ecbc7fe7d7b7f540a2c001cd8ebbc48c8fa8f4"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_877b335c14384e82bee955bf71900990",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the net force <span class=\"math\" data-latex=\"F\"></span> acting on a 0.50 kg object varies with time <span class=\"math\" data-latex=\"t\"></span> over a 5.0 ms interval.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the total change in momentum of the object during this interval?</p><ol class=\"mcq-options\"><li data-label=\"A\">2.0 kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></li><li data-label=\"B\">4.0 kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></li><li data-label=\"C\">2000 kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></li><li data-label=\"D\">4000 kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

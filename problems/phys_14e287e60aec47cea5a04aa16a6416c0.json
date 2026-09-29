@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_14e287e60aec47cea5a04aa16a6416c0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following electromagnetic waves are incident on a single slit.</p>\n<p>Which one of them is diffracted the least?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Green light</li>\n<li data-label=\"B\">Radio waves</li>\n<li data-label=\"C\">Blue light</li>\n<li data-label=\"D\">Gamma rays</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3bf64bc967aadb9755e9c206c1d23fcb0d258ef90577b1a02e33b9b693f5411e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3bf64bc967aadb9755e9c206c1d23fcb0d258ef90577b1a02e33b9b693f5411e"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_43be1d98d6c146e5838a925df7479dc4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball of mass 1.5 kg strikes a force sensor and bounces. The ball experiences a change in velocity of 10 m s<sup>−1</sup>. The graph shows the variation with time t of the force F recorded by the sensor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is ΔT?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.15 s</li><li data-label=\"B\">0.30 s</li><li data-label=\"C\">0.60 s</li><li data-label=\"D\">3.0 s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

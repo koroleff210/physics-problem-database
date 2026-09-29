@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_fbed510bad3945d8a9368e949ea520e1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p><span class=\"math\" data-latex=\"N\"></span> molecules of an ideal gas are contained in a container that is sealed with a movable piston. Initially, the volume of the gas is <span class=\"math\" data-latex=\"100\"></span> cm<span class=\"math\" data-latex=\"^{3}\"></span>. When the piston is moved, the average kinetic energy of the gas molecules is reduced by <span class=\"math\" data-latex=\"50\"></span> %, while the pressure in the container does not change. What is the new volume of the gas?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"25\"></span> cm<span class=\"math\" data-latex=\"^{3}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"50\"></span> cm<span class=\"math\" data-latex=\"^{3}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"200\"></span> cm<span class=\"math\" data-latex=\"^{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"400\"></span> cm<span class=\"math\" data-latex=\"^{3}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

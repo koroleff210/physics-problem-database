@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8cbb902e2eb9d48c87d2d0e50acddbc8b32118484fd6bba2ea5727695b17396d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8cbb902e2eb9d48c87d2d0e50acddbc8b32118484fd6bba2ea5727695b17396d"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_58c15ba2e8a64e55ba2bfcbd7b3b072e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The energy dissipated is equal to the work done by the braking force, which by the work-energy theorem equals the change in the car's kinetic energy. The work done is W = ∫ F dx = m ∫ a dx. The integral ∫ a dx is the area under the acceleration-distance graph from d=0 to d=40 m. This area is calculated to be -80 m²/s². The work done is W = 1500 kg × (-80 m²/s²) = -120 kJ. The energy dissipated is the magnitude of this work, 120 kJ.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation of the acceleration with distance of a car of mass <span class=\"math\" data-latex=\"1500\\,\\mathrm{kg}\"></span> slowing down to a stop at <span class=\"math\" data-latex=\"d=40\\,\\mathrm{m}\"></span>.</p>\n<p>What energy is dissipated during the process?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"80\\,\\mathrm{J}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"100\\,\\mathrm{J}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"120\\,\\mathrm{kJ}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"150\\,\\mathrm{kJ}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e90a530fad940f3b0920431d35c8d39",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an adiabatic process, work done by the gas causes which of the following?</p><ol class=\"mcq-options\"><li data-label=\"A\">No change in temperature</li><li data-label=\"B\">A decrease in internal energy</li><li data-label=\"C\">An increase in entropy</li><li data-label=\"D\">No change in volume</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

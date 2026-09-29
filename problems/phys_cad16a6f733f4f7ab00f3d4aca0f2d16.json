@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_cad16a6f733f4f7ab00f3d4aca0f2d16",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The kinetic energy of a body is determined from measurements of its momentum p and its mass m.</p>\n<p>The percentage uncertainties in the measurements are:</p>\n<table><tbody><tr><td><p>p</p></td><td><p>± 3 %</p></td></tr><tr><td><p>m</p></td><td><p>± 4 %</p></td></tr></tbody></table>\n<p>What is the percentage uncertainty in the kinetic energy?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">7 %</li><li data-label=\"B\">10 %</li><li data-label=\"C\">13 %</li><li data-label=\"D\">14 %</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

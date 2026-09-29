@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_81b8e3f32d9341f583a6054f27f5f0cf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following quantities is not always zero at the equilibrium position during SHM?</p><ol class=\"mcq-options\"><li data-label=\"A\">Displacement</li><li data-label=\"B\">Acceleration</li><li data-label=\"C\">Restoring force</li><li data-label=\"D\">Velocity</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

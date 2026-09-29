@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/894094e55c087f14892d9b72bc6c0beccfb11eb92a713e19b84f107efe3e9e8a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "894094e55c087f14892d9b72bc6c0beccfb11eb92a713e19b84f107efe3e9e8a"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_531b39138368401982ed7d8d73239b07",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>At least one circle centred on centre of wire A<br/>AND<br/> indication of clockwise direction ✓    More than 2 circles with increasing separation between circles from centre outwards (by eye) ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>B lies in magnetic field of A OWTTE ✓ Explained use of appropriate rule together with drawn indication of rule operating in this case ✓  To show that force on B is to left and in plane of paper ✓ <br/>OR<br/> Magnetic field lines of B merge with those of A to give combined field line pattern ✓  Sketch of combined pattern to show null point somewhere on line between wires. ✓  Wires will move to reduce stored energy and this is achieved by moving together so force on B is to left ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\frac{F}{l}=\\frac{2\\times 10^{-7}I_{A}I_{B}}{r}=\\frac{2\\times 10^{-7}\\times 12^{2}}{0.25}\"></span> ✓ <span class=\"math\" data-latex=\"8.6\\times 10^{-4} N\"></span> ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two parallel wires A and B both carry an electrical current into the page.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw the magnetic field lines due to A. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State and explain, using your diagram, why a force acts on B due to A in the plane of the paper. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Both wires are 7.5 m long and are 0.25 m apart. The current in both wires is 12 A. Determine the force that acts on one wire due to the other. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

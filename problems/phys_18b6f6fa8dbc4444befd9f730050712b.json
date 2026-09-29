@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bdac80d8f696c7edf64366a0793a73ccdd39a02203dd928b1f66ed216a3c2707.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bdac80d8f696c7edf64366a0793a73ccdd39a02203dd928b1f66ed216a3c2707"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_18b6f6fa8dbc4444befd9f730050712b",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"{v}_{2} =  \\sqrt{( 2 g Δ h + {{v}_{1}}^{2} )} =  \\sqrt{2 \\times  9.8 \\times  0.20 + {1.2}^{2}}\"></span> ✔ 2.3 «m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup>» ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>the continuity equation applies / Av <span class=\"math\" data-latex=\"=\"></span> constant ✔<br/>v increases ✔<br/>so area must decrease ✔<br/>«so diameter decreases»</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram shows water coming out of a tap (faucet).</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Water leaves the tap at an initial speed of 1.2 m s<sup>−1</sup>. Calculate the speed of the water when it has fallen 0.20 m. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why the diameter of the water stream decreases. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

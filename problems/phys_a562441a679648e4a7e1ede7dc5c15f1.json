@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_a562441a679648e4a7e1ede7dc5c15f1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The performance data for a vertical electric winch is shown in the table below.</p>\n<table><thead><tr><th>Parameter</th><th>Magnitude</th></tr></thead><tbody><tr><td>Average power input</td><td><span class=\"math\" data-latex=\"2.5\\text{ kW}\"></span></td></tr><tr><td>Mass of load lifted</td><td><span class=\"math\" data-latex=\"150\\text{ kg}\"></span></td></tr><tr><td>Constant vertical speed</td><td><span class=\"math\" data-latex=\"1.2\\text{ m s}^{-1}\"></span></td></tr></tbody></table>\n<p>What is the estimated efficiency of the winch system during this lift?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"7.2\\%\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"71\\%\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"85\\%\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.3\\%\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

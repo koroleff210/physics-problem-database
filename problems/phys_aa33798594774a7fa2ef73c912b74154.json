@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_aa33798594774a7fa2ef73c912b74154",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two isolated point masses, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, are separated by a distance <span class=\"math\" data-latex=\"L\"></span>. The mass of <span class=\"math\" data-latex=\"Q\"></span> is <span class=\"math\" data-latex=\"9\"></span> times the mass of <span class=\"math\" data-latex=\"P\"></span>. At what distance from <span class=\"math\" data-latex=\"P\"></span>, along the line joining the two masses, is the resultant gravitational field strength zero?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.10L\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.33L\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.25L\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.75L\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

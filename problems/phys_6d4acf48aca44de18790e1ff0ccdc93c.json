@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_6d4acf48aca44de18790e1ff0ccdc93c",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"19a\"><p><strong>19a</strong></p><p></p>\n<p>The pipe emits wavefronts at regular intervals. </p>\n<p>Since the observer is moving away from the pipe, she will cross these wavefronts less frequently compared to when being stationary.</p>\n<p>This means that the frequency detected by the observer will be smaller than the frequency emitted by the pipe.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19b(i)\"><p><strong>19b(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{f'}{f} = 0.9874\"></span></p>\n<p>Converting speed of observer into m s<span class=\"math\" data-latex=\"^{-1}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\frac{15.5}{3.6} \\approx 4.31\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Using equation for moving observer:</p>\n<p><span class=\"math\" data-latex=\"0.9874 = \\frac{v-4.31}{v}\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 342.1 \\approx 342\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Calculated answer must be given to at least 4 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19b(ii)\"><p><strong>19b(ii)</strong></p><p></p>\n<p>Finding the wavelength:</p>\n<p><span class=\"math\" data-latex=\"\\lambda = 4 \\times 0.72 = 2.88\"></span> m</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{342}{2.88} \\approx 120\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"19c\"><p><strong>19c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"T = \\left ( \\frac{342}{331} \\right )^{2} \\times 273 \\approx 291\"></span> K <span class=\"math\" data-latex=\"= 18\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A pipe is fixed to the top of a building. A standing sound wave is formed in the pipe. A person on a bike is moving away from the pipe at a speed of <span class=\"math\" data-latex=\"15.5\"></span> km h<span class=\"math\" data-latex=\"^{-1}\"></span>. </p>\n<p>a. Outline the difference between the frequency emitted by the pipe and the frequency detected by the person. </p>\n<p>  [3]</p>\n<p>b. There is a <span class=\"math\" data-latex=\"1.26\"></span> % change in the magnitude of the emitted frequency compared to the magnitude of the detected frequency. </p>\n<p>i. Show that the speed of the sound wave is 342 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [4]</p>\n<p>ii. The distance between an adjacent node and antinode of the sound wave is 72 cm. Calculate the frequency of the sound wave.</p>\n<p>  [2]</p>\n<p>c. The speed of sound is related to the temperature of the medium it travels in by the equation <span class=\"math\" data-latex=\"v = 331 \\sqrt{\\frac{T}{273}}\"></span> where <span class=\"math\" data-latex=\"v\"></span> is the speed of sound and <span class=\"math\" data-latex=\"T\"></span> is the temperature of the medium in Kelvin. Find the temperature of the air at the location of the pipe. Give your answer in <span class=\"math\" data-latex=\"^{o}\"></span>C.</p>\n<p>  [2]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

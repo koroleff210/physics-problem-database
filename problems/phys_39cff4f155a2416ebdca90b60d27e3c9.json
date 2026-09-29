@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_39cff4f155a2416ebdca90b60d27e3c9",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Fission: large nucleus splits, fusion: light nuclei combine.<br/>[1 mark]<br/>- Fusion releases more energy per nucleon.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Fusion requires very high temperatures and pressures.<br/>[1 mark]<br/>- These conditions are difficult and expensive to maintain on Earth.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Fusion produces no long-lived radioactive waste.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Fission and fusion are two nuclear energy sources.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Compare fission and fusion in terms of nuclei involved and energy per nucleon.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain why fission is used in reactors and not fusion.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest one advantage of fusion over fission.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

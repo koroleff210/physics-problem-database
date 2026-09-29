@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_a98d9aed0fa34ff3bcf433cbe54d5fdd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student uses a tuning fork and a pipe closed at one end to investigate resonance. The shortest pipe length at which a loud resonance is heard is <span class=\"math\" data-latex=\"21\\ \\text{cm}\"></span>. Assuming end correction is negligible, what is the wavelength of the sound?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.21\\ \\text{m}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.42\\ \\text{m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.84\\ \\text{m}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.68\\ \\text{m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_9ab428b7e6f14cd8a171bab3dc0a5467",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The time taken for half of the radioactive nuclei in a sample to decay [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use <span class=\"math\" data-latex=\"\\lambda = \\frac{\\ln 2}{T_{1/2}}\"></span> [1 mark]</p>\n<p>- <span class=\"math\" data-latex=\"\\lambda = \\frac{0.693}{600\\ \\text{s}} \\approx 1.16 \\times 10^{-3}\\ \\text{s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- After 30 minutes = 3 half-lives → <span class=\"math\" data-latex=\"N = N_0 \\left( \\frac{1}{2} \\right)^3 = \\frac{1}{8}\"></span> [1 mark]</p>\n<p>- Fraction remaining = 0.125 [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Alpha particles have a large mass and charge, leading to strong interactions with matter and short range [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A radioactive isotope emits alpha particles during its decay. The isotope has a half-life of 10 minutes.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State what is meant by the term half-life.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the decay constant of this isotope.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the fraction of nuclei remaining after 30 minutes.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest why alpha particles are less penetrating than beta or gamma radiation.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

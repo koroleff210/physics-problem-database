@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_e4c87513881444fbbea11dd1a2c6ca2e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the escape speed from the surface of a planet of radius <span class=\"math\" data-latex=\"r\"></span> that has an acceleration of gravity <span class=\"math\" data-latex=\"g\"></span> at its surface?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{g}{r}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{gr}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2g}{r}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{2gr}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

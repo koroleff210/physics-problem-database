@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d0bec6bd64844ef1ad3e137e4c1c469b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An engine is exerting a horizontal force <span class=\"math\" data-latex=\"F\"></span> on an object that is moving along a horizontal surface at a constant velocity <span class=\"math\" data-latex=\"v\"></span>. The mass of the object is <span class=\"math\" data-latex=\"m\"></span> and the coefficient of dynamic friction between the object and the surface is <span class=\"math\" data-latex=\"μ\"></span>.</p>\n<p>What is the power of the engine?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Fv}{μ}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"μFv\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mgv}{μ}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"μmgv\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

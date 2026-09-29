@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f927637e649afe74d11f9f41a7f572616187fb94e2e05976e880631357978df6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f927637e649afe74d11f9f41a7f572616187fb94e2e05976e880631357978df6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/3b8d25fd2d9edf8ad6c949ad1c7941a912bdd13b7f02c0e78f1b3689a7720b52.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3b8d25fd2d9edf8ad6c949ad1c7941a912bdd13b7f02c0e78f1b3689a7720b52"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/a8ff0494e46438bdf03889f13bdbd56bd53c303849d966ce8259732dbffe4e50.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a8ff0494e46438bdf03889f13bdbd56bd53c303849d966ce8259732dbffe4e50"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e37514653494496a88c10c7f153ab608",
+  "level": "sl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Tension upwards, weight downwards ✓<br/>Tension is clearly longer than weight ✓   Look for:</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>v = <span class=\"math\" data-latex=\"\\sqrt{2\\times 9.81\\times 0.95}\"></span>  OR  = 4.32 «m s<sup>−1</sup>» ✓   Must see either full substitution or answer to at least 3 s.f.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>T − mg = F<sub>net</sub>  OR  T − mg = <span class=\"math\" data-latex=\"\\frac{mv^{2}}{r}\"></span> ✓ T «= 0.800 × 9.81 + <span class=\"math\" data-latex=\"\\frac{0.800\\times 4.317^{2}}{0.95}\"></span>» = 23.5 «N» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Use of conservation of momentum. ✓<br/>Rebound speed = 2.16 «m s<sup>−1</sup>» ✓<br/>Calculation of initial KE = «<span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 0.800 × 4.317<sup>2</sup>» = 7.46 « J » ✓<br/>Calculation of final KE = «<span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 0.800  × 2.16<sup>2</sup> + <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 2.40 × 2.16<sup>2</sup>» = 7.46 «J» ✓<br/>«hence elastic»</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1<br/>Rebound speed is halved so energy less by a factor of 4 ✓<br/>Hence height is <span class=\"math\" data-latex=\"\\frac{95}{4}\"></span> =23.8 «cm» ✓ ALTERNATIVE 2<br/>Use of conservation of energy / <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 0.800 × 2.16<sup>2</sup> = 0.800 × 9.8 × h<br/>OR Use of proper kinematics equation (e.g. 0 = 2.16<sup>2</sup> − 2 × 9.8 × h) ✓ h = 23.8 «cm» ✓ <br/>Allow ECF from b(i)</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1<br/>Frictional force is f«= 0.400 × 2.40 × 9.81» = 9.42 «N» ✓<br/>9.42 × d = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 2.40 × 2.16<sup>2</sup>  OR  d = <span class=\"math\" data-latex=\"\\frac{5.5987}{9.42}\"></span>✓<br/>d = 0.594 «m» ✓   ALTERNATIVE 2<br/>a = «<span class=\"math\" data-latex=\"\\frac{f}{m}\"></span> = µg = 0.4 × 9.81 =» 3.924 «m s<sup>−2</sup>» ✓ Proper use of kinematics equation(s) to determine ✓ d = 0.594 «m» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A ball of mass 0.800 kg is attached to a string. The distance to the centre of the mass of the ball from the point of support is 95.0 cm. The ball is released from rest when the string is horizontal. When the string becomes vertical the ball collides with a block of mass 2.40 kg that is at rest on a horizontal surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Just before the collision of the ball with the block,</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> </p><p>draw a free-body diagram for the ball.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> show that the speed of the ball is about 4.3 m s<sup>−1</sup>. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> determine the tension in the string. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> After the collision, the ball rebounds and the block moves with speed 2.16 m s<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the collision is elastic. [4]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the maximum height risen by the centre of the ball. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The coefficient of dynamic friction between the block and the rough surface is 0.400.</p>\n<p>Estimate the distance travelled by the block on the rough surface until it stops.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

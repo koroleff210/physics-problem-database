@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_ac3174ea033240c08051a19ef6c8ef08",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. At the midpoint the distances to Earth and Moon are equal, but <span class=\"math\" data-latex=\"M_{\\text{Earth}} \\gg M_{\\text{Moon}}\"></span>, so <span class=\"math\" data-latex=\"g_{\\text{Earth}} &gt; g_{\\text{Moon}}\"></span> and the fields do not cancel.</p>\n<p>B: Incorrect. At the midpoint <span class=\"math\" data-latex=\"g=\\frac{GM}{r^2}\"></span> for each body with the same <span class=\"math\" data-latex=\"r\"></span>, so the larger mass (Earth) produces the larger field; the net field points toward Earth, not the Moon.</p>\n<p>C: Correct. At the midpoint the distances to Earth and Moon are equal, so <span class=\"math\" data-latex=\"g_{\\text{Earth}}=\\frac{GM_{\\text{Earth}}}{r^2}\"></span> and <span class=\"math\" data-latex=\"g_{\\text{Moon}}=\\frac{GM_{\\text{Moon}}}{r^2}\"></span>. Since <span class=\"math\" data-latex=\"M_{\\text{Earth}} &gt; M_{\\text{Moon}}\"></span>, <span class=\"math\" data-latex=\"g_{\\text{Earth}} &gt; g_{\\text{Moon}}\"></span> and the net gravitational field points toward Earth.</p>\n<p>D: Incorrect. The gravitational field is well-defined at points away from the centres of the masses; the net field is the vector sum of the fields due to Earth and the Moon.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An astronaut is halfway between Earth and the Moon along the line connecting their centers. (Earth’s mass is greater than the Moon’s.) Which of the following statements is true about the net gravitational field at that point?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is zero because the gravitational fields are equal and opposite</li><li data-label=\"B\">It points toward the Moon because the Moon’s gravitational field is stronger at that point</li><li data-label=\"C\">It points toward Earth because Earth is more massive</li><li data-label=\"D\">It is undefined</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_fc3a2a9aa553477ea2e24debef61ec1f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When a battery is discharging, it converts:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">electrical energy to potential energy.</li>\n<li data-label=\"B\">potential energy to electrical energy.</li>\n<li data-label=\"C\">electrical energy to chemical energy.</li>\n<li data-label=\"D\">chemical energy to electrical energy.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

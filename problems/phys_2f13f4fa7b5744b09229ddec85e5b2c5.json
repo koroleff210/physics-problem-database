@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_2f13f4fa7b5744b09229ddec85e5b2c5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass is oscillating with simple harmonic motion. At time t, the acceleration is at a positive maximum.</p>\n<p>What are the displacement and velocity of the mass at time t?</p>\n<table><tbody><tr><td></td><td><p>Displacement</p></td><td><p>Velocity</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>positive maximum</p></td><td><p>zero</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>negative maximum</p></td><td><p>zero</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>positive maximum</p></td><td><p>negative maximum</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>negative maximum</p></td><td><p>negative maximum</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

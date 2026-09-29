@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8d306b2fcb97f2d6b3a4823048cb855fd2ecc67b00a0e91572cc706ea1db0663.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8d306b2fcb97f2d6b3a4823048cb855fd2ecc67b00a0e91572cc706ea1db0663"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_6b9d40b9cc834e588c2aa3be80176f45",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>Equipotential lines for an isolated point charge are loci of constant potential, which means constant distance from the charge. In 2D, these are circles centered on the charge. Diagrams I and III show circles, which are correct. Diagram II shows an ellipse, where the distance from the center is not constant, so it is not an equipotential line.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagrams show three regions around isolated point charges. In diagram I and II the charge is positive. In diagram III the charge is negative.</p>\n<p>In which diagrams does the region show an equipotential line?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> I and II only</li>\n<li data-label=\"B\"> I and III only</li>\n<li data-label=\"C\"> II and III only</li>\n<li data-label=\"D\"> I, II, and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

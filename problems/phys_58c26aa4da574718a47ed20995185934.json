@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/68117ac2da4bfbe1c619e9f2a3780746c7e57013cca6e22ce1c89342303a8383.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "68117ac2da4bfbe1c619e9f2a3780746c7e57013cca6e22ce1c89342303a8383"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_58c26aa4da574718a47ed20995185934",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following diagram shows orbits A and B for a satellite around a planet.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following statements is correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The speed of the satellite decreases when it moves from orbit A to orbit B.</li>\n<li data-label=\"B\">The total energy of the satellite is smaller in orbit A than in orbit B.</li>\n<li data-label=\"C\">The gravitational potential energy of the satellite is larger in orbit A than in orbit B.</li>\n<li data-label=\"D\">The gravitational potential energy of the satellite is zero when it is stationary on the surface of the planet.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

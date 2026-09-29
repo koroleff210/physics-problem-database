@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_97fb28c5007f49119f6bd559209f7f88",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The average value of the solar constant is <span class=\"math\" data-latex=\"1.36 \\times 10^{3}\"></span> W m<span class=\"math\" data-latex=\"^{-2}\"></span>. Which of the following is a correct reason for using an average value for this constant?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The orbit of the Earth around the Sun is circular. </li>\n<li data-label=\"B\">The albedo of the Earth is different at different locations. </li>\n<li data-label=\"C\">The atmosphere of the Earth is more dense closer to the surface of the Earth.</li>\n<li data-label=\"D\">The Sun has an <span class=\"math\" data-latex=\"11\"></span> year cycle during which its power output varies.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

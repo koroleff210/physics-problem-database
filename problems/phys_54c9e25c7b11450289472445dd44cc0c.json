@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c6922a003b2651b7b8eb36817e115eb050a61cc1494bd66d616cf79cfea51fcc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c6922a003b2651b7b8eb36817e115eb050a61cc1494bd66d616cf79cfea51fcc"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/3c64e6f23b0b64a2677f7f18ef3bac97db44614a83aa2f3a99cd8db8ee5da9a8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "3c64e6f23b0b64a2677f7f18ef3bac97db44614a83aa2f3a99cd8db8ee5da9a8"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_54c9e25c7b11450289472445dd44cc0c",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a\"><p><strong>15a</strong></p><p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p></section><section class=\"markscheme-part\" data-label=\"15b\"><p><strong>15b</strong></p><p>The net force on the disc is equal to the component of the weight that is parallel to the ramp minus the frictional force, so we can write that:</p>\n<p><span class=\"math\" data-latex=\"Ma = Mg \\sin \\theta - F_{\\textup{f}}\"></span></p>\n<p>The frictional force provides the torque on the disc, so using the two torque formulae we get that:</p>\n<p><span class=\"math\" data-latex=\"F_{\\textup{f}}R = I \\alpha\"></span></p>\n<p>Then using the moment of inertia formula for the disc, we can simplify:</p>\n<p><span class=\"math\" data-latex=\"F_{\\textup{f}}R = \\frac{MR^{2}\\alpha}{2} \\Rightarrow F_{\\textup{f}} = \\frac{MR\\alpha}{2}\"></span></p>\n<p>Using the formula <span class=\"math\" data-latex=\"a = \\alpha R\"></span> for the linear acceleration of the disc, we can simplify further to get:</p>\n<p><span class=\"math\" data-latex=\"F_{\\textup{f}} = \\frac{Ma}{2}\"></span></p>\n<p>Substituting back into the first equation gives us that:</p>\n<p><span class=\"math\" data-latex=\"Ma = Mg \\sin \\theta - \\frac{Ma}{2}\"></span></p>\n<p>Finally, cancelling <span class=\"math\" data-latex=\"M\"></span> and rearranging, we get that:</p>\n<p><span class=\"math\" data-latex=\"a = \\frac{2g \\sin\\theta}{3}\"></span></p></section><section class=\"markscheme-part\" data-label=\"15c(i)\"><p><strong>15c(i)</strong></p><p><span class=\"math\" data-latex=\"\\alpha = \\frac{a}{r} = \\frac{2g \\sin\\theta}{3r} = \\frac{2(9.81) \\sin35^{\\circ}}{3(1.7)}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\alpha \\approx 2.2 \\; \\textup{rad}\\, \\textup{s}^{-2}\"></span></p></section><section class=\"markscheme-part\" data-label=\"15c(ii)\"><p><strong>15c(ii)</strong></p><p>Substituting into the equation <span class=\"math\" data-latex=\"\\omega_{f} = \\omega_{i} + \\alpha t\"></span>, we get:</p>\n<p><span class=\"math\" data-latex=\"\\omega_{f} = 0 + (2.2)(8)\"></span></p>\n<p><span class=\"math\" data-latex=\"\\omega_{f} \\approx 17.6 \\approx 18 \\; \\textup{rad}\\, \\textup{s}^{-1}\"></span></p></section><section class=\"markscheme-part\" data-label=\"15c(iii)\"><p><strong>15c(iii)</strong></p><p>The total kinetic energy is the sum of the translational kinetic energy and the rotational kinetic energy, therefore we get that:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}Mv^{2} + \\frac{1}{2}I\\omega^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}Mv^{2} + \\frac{1}{2}\\left ( \\frac{1}{2}MR^{2} \\right )\\omega^{2}\"></span></p>\n<p>Using the linear speed equation <span class=\"math\" data-latex=\"v = \\omega r\"></span> to substitute, we get that:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{3}{4}M\\omega^{2}R^{2} = \\frac{3}{4}(7.9)(18)^{2}(1.7)^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{total}} \\approx 5548 \\approx 5500\\; \\textup{J}\"></span></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A circular disc of mass <span class=\"math\" data-latex=\"M\"></span>, radius <span class=\"math\" data-latex=\"R\"></span>, and moment of inertia <span class=\"math\" data-latex=\"\\frac{MR^{2}}{2}\"></span> is held at rest on a ramp. The angle between the ramp and the horizontal ground is <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When released, the disc rolls down the ramp without slipping. </p>\n<p>(a)   Draw and label the forces that act on the disc as it is rolling down the ramp. </p>\n<p>  [2]</p>\n<p>(b)   Show that the linear acceleration of the disc is <span class=\"math\" data-latex=\"\\frac{2g \\sin\\theta}{3}\"></span>.</p>\n<p>  [4]</p>\n<p>(c)   Eight seconds after the disc is released, it reaches the bottom of the ramp and keeps rolling without slipping on a horizontal surface. For this specific case, assume that <span class=\"math\" data-latex=\"R = 1.7\\; \\textup{m}\"></span>, <span class=\"math\" data-latex=\"M = 7.9\\; \\textup{kg}\"></span>, and <span class=\"math\" data-latex=\"\\theta = 35^{\\circ}\"></span>.</p>\n<p>(i)   Find the angular acceleration of the disc during the first <span class=\"math\" data-latex=\"8.0\"></span> seconds of its motion.</p>\n<p>  [1]</p>\n<p>(ii)   Find the angular velocity of the disc at the bottom of the ramp.</p>\n<p>  [1]</p>\n<p>(iii)   Calculate the total kinetic energy of the disc at the bottom of the ramp. </p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_61d371e0e45c4d6997d80211dafd0df3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Isotope <span class=\"math\" data-latex=\"_{3}^{6}\"></span>X has a rest mass of <span class=\"math\" data-latex=\"a\"></span>. What is the magnitude of the average binding energy per nucleon for <span class=\"math\" data-latex=\"_{3}^{6}\"></span>X?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{(a - (3m_{p} + 3m_{n}))c^{2}}{6}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{((3m_{p} + 3m_{n}) - a)c^{2}}{6}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{(a - (3m_{p} + 3m_{n}))c^{2}}{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{((3m_{p} + 3m_{n}) - a)c^{2}}{3}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

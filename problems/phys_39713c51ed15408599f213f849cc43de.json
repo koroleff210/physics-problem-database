@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_39713c51ed15408599f213f849cc43de",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Neutrons released by one fission reaction cause further fissions.<br/>[1 mark]<br/>- Leading to a self-sustaining series of reactions.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Moderators slow down fast neutrons.<br/>[1 mark]<br/>- Slow neutrons are more likely to cause fission in U-235.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Absorb excess neutrons to regulate the reaction.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A reactor core operates using a sustained fission chain reaction.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain the term “chain reaction” in nuclear fission.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe how a moderator helps sustain the chain reaction.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State the purpose of control rods in the reactor.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

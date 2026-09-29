@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_efacdf2f94f04fbf8c4bf30a47e30d1e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed container contains a mixture of neon gas and argon gas in thermal equilibrium. The molar mass of argon is greater than the molar mass of neon. Which of the following correctly compares the average kinetic energy and the root-mean-square (rms) speed of the neon atoms to the argon atoms?</p><ol class=\"mcq-options\"><li data-label=\"A\">The average kinetic energy is the same for both types of atom, but the neon atoms have a higher rms speed.</li><li data-label=\"B\">The average kinetic energy is the same for both types of atom, but the argon atoms have a higher rms speed.</li><li data-label=\"C\">The neon atoms have a higher average kinetic energy and a higher rms speed than the argon atoms.</li><li data-label=\"D\">The argon atoms have a higher average kinetic energy and a higher rms speed than the neon atoms.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_802b064206cf45bbacdf4a961ed45c57",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"m\"></span> is launched from the surface of the Earth. The Earth has a mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"r\"></span>. The acceleration due to gravity at the surface of the Earth is <span class=\"math\" data-latex=\"g\"></span>. What is the escape speed of the object from the surface of the Earth?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{gr}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{2gr}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{2Mgr}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{2mgr}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

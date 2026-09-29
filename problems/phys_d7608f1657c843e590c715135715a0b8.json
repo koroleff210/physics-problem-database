@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_d7608f1657c843e590c715135715a0b8",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Neutrinos are neutral, nearly massless subatomic particles that interact via the weak nuclear force<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Neutrinos are produced during weak interactions in fusion reactions (e.g., proton-proton chain)<br/>[1 mark]<br/>- They carry away energy and help conserve energy and momentum in the reaction<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Neutrinos interact very weakly with matter, allowing them to pass through the Sun’s dense core<br/>[1 mark]<br/>- Photons undergo multiple scattering events, taking much longer to reach the surface<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Detected neutrino flux matches predicted fusion output from solar models<br/>[1 mark]<br/>- Confirms that fusion is the main energy source of the Sun<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Challenge: Neutrinos are difficult to detect because of extremely low interaction probability<br/>[1 mark]<br/>- Solution: Use large underground detectors (e.g., water Cherenkov detectors) to reduce background and improve sensitivity<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In the core of stars like the Sun, fusion reactions produce large quantities of energy and also release subatomic particles called neutrinos.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State what neutrinos are.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe the role of neutrinos in nuclear fusion reactions occurring in stars.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest why neutrinos are able to escape the core of the Sun while photons take thousands of years.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain how detecting solar neutrinos on Earth supports our understanding of fusion in the Sun.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Discuss one challenge and one solution associated with neutrino detection on Earth.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/83ab8fa9ab1f869131ed8605ef7643a0cb5dbd22d6ec607a2af50ea254426c61.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "83ab8fa9ab1f869131ed8605ef7643a0cb5dbd22d6ec607a2af50ea254426c61"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_11d3f5764c3a4963b397e3f89f339a8d",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>When ideally lagged, no energy transfer can occur through the sides of the bar. ✓   All the power input/ energy input per second at one end will emerge at the other end. ✓    When unlagged, energy transfer occurs from the sides of the bar and the power /energy input per second at input &gt; the energy output per second at the other end. ✓   Max 1 if answer does not refer to rate of energy transfer in MP2 and MP3.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>idea that <span class=\"math\" data-latex=\"\\frac{dQ}{dt}\"></span> is same in both bars because lagged ✓ work to show that <span class=\"math\" data-latex=\"90-\\theta=2\\theta-45\"></span><br/>OR<br/>Temperature difference across XY is twice temperature difference across YZ ✓ solves to show that <span class=\"math\" data-latex=\"\\theta=60 ^{∘}C\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>repeats calculation to show that θ = 75 °C ✓ temperature difference across YZ is still 15 K which gives the same rate of energy transfer (but in opposite direction) ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A rod is formed from two metal rods XY and YZ of identical dimensions. End X and end Z are at different temperatures.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The side of the rod can be unlagged or ideally lagged. Explain the difference in energy transfer for these two cases. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Rod XYZ is ideally lagged. The thermal conductivity of XY is k and the thermal conductivity of YZ is 2k. End X is at 90 °C and end Z is at 45 °C</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the temperature at Y. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The temperatures are now reversed so that X is at 45 °C and Z is at 90 °C. Show that the rate of energy transfer is unchanged. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

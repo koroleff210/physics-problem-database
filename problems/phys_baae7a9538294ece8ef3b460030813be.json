@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_baae7a9538294ece8ef3b460030813be",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is a possible unit of electrical resistance?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">W A<sup>−2</sup></li><li data-label=\"B\">A V<sup>−1</sup><sup> </sup></li><li data-label=\"C\">V W<sup>−2</sup></li><li data-label=\"D\">W V<sup>−2</sup><sup> </sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

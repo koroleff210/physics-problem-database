@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3f7b216192424e73a9c6c38a623082e4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite orbits planet <span class=\"math\" data-latex=\"X\"></span> with a speed <span class=\"math\" data-latex=\"v_{X}\"></span> at a distance <span class=\"math\" data-latex=\"r\"></span> from the centre of planet <span class=\"math\" data-latex=\"X\"></span>. Another satellite orbits planet <span class=\"math\" data-latex=\"Y\"></span> at a speed of <span class=\"math\" data-latex=\"v_{y}\"></span> at a distance <span class=\"math\" data-latex=\"r\"></span> from the centre of planet <span class=\"math\" data-latex=\"Y\"></span>. The mass of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"M\"></span> and the mass of planet <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"4M\"></span>. What is the ratio of <span class=\"math\" data-latex=\"\\frac{v_{X}}{v_{y}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.25</li><li data-label=\"B\">0.5</li><li data-label=\"C\">2.0</li><li data-label=\"D\">4.0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

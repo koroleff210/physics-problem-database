@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_26cb767a362848f1b98d9302b1be9591",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two planets, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are modeled as uniform spheres. Planet <span class=\"math\" data-latex=\"X\"></span> has mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>. Planet <span class=\"math\" data-latex=\"Y\"></span> has mass <span class=\"math\" data-latex=\"8M\"></span> and radius <span class=\"math\" data-latex=\"2R\"></span>. If the gravitational field strength at the surface of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"g\"></span>, the gravitational field strength at the surface of planet <span class=\"math\" data-latex=\"Y\"></span> is</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4g\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"8g\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"16g\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9677d9a7403d848e7f6e7da5b55d704cb2008f9e7d06a82e3d60ba494a414543.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9677d9a7403d848e7f6e7da5b55d704cb2008f9e7d06a82e3d60ba494a414543"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.5",
+    "D.2",
+    "D.3",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_9d2b93b0e5004d1e8e35c1076a0cb7ce",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"17a\"><p><strong>17a</strong></p><p></p>\n<p>Lenz's law states that the direction of the induced current is such as to oppose the change that created the current. </p>\n<p>Since the rod is falling vertically downwards, the direction of the electromagnetic force on the rod must be upwards.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17b\"><p><strong>17b</strong></p><p></p>\n<p>Using Fleming's right-hand rule for induction effects:</p>\n<p>Thumb (motion of the conductor): downwards</p>\n<p>Index finger (direction of the magnetic field): into the page</p>\n<p>Middle finger (direction of conventional current): to the right</p>\n<p>Therefore the direction of electron flow in the rod is to the left.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17c\"><p><strong>17c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"31.6 = (8.30)(2.64)L\"></span></p>\n<p><span class=\"math\" data-latex=\"L \\approx 1.44\"></span> m</p>\n<p>Since the rod is falling at constant speed, the gravitational force that acts on the rod is equal to the electromagnetic force that acts on the rod.</p>\n<p><span class=\"math\" data-latex=\"mg = BIL\"></span></p>\n<p><span class=\"math\" data-latex=\"m = \\rho V\"></span>, so substituting we get:</p>\n<p><span class=\"math\" data-latex=\"(8960)(1.12 \\times 10^{-3})(9.81) = (8.30)(1.44)I\"></span></p>\n<p><span class=\"math\" data-latex=\"I \\approx 8.24\"></span> A</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A horizontal copper rod is falling vertically downwards through a magnetic field at constant speed. The direction of the field is into the page. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Deduce, with reference to Lenz's law, the direction of the electromagnetic force on the rod.</p>\n<p>   [2]</p>\n<p>b. State and explain the direction of electron flow in the rod.</p>\n<p>   [2]</p>\n<p>The following data are provided:</p>\n<p></p>\n<p>Magnetic field strength: <span class=\"math\" data-latex=\"8.30\"></span> T</p>\n<p>Speed of the rod: <span class=\"math\" data-latex=\"2.64\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Volume of the rod: <span class=\"math\" data-latex=\"1.12 \\times 10^{-3}\"></span> m<span class=\"math\" data-latex=\"^{3}\"></span></p>\n<p>Density of copper: <span class=\"math\" data-latex=\"8960\"></span> kg m<span class=\"math\" data-latex=\"^{-3}\"></span></p>\n<p>Induced emf in the rod: <span class=\"math\" data-latex=\"31.6\"></span> V</p>\n<p></p>\n<p>c. Determine the magnitude of the induced current in the rod.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2512c663371795d093aea0eea068a54079c25faf8fe1f3e783bc0368c0652512.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2512c663371795d093aea0eea068a54079c25faf8fe1f3e783bc0368c0652512"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_bd31636125b14ebcac0770a3599b1c2f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Electrons flow towards the left in a long, horizontal wire. A proton, near the wire, is moving downwards.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The magnetic force on the proton is</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">to the left.</li>\n<li data-label=\"B\">to the right.</li>\n<li data-label=\"C\">upwards.</li>\n<li data-label=\"D\">downwards.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

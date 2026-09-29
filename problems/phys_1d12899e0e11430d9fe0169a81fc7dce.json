@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_1d12899e0e11430d9fe0169a81fc7dce",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solar panel transfers energy at a rate of 2.4 kW to a liquid passing through it. The liquid has a specific heat capacity 4000 J kg<sup>−1</sup> K<sup>−1</sup>. The temperature of the liquid increases by 6.0 K when it flows through the solar panel.</p>\n<p>What is the flow rate of the liquid through the panel?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.1 g s<sup>−1</sup></li><li data-label=\"B\">0.1 kg s<sup>−1</sup></li><li data-label=\"C\">10 kg s<sup>−1</sup></li><li data-label=\"D\">100 kg s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

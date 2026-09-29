@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/519bd08cb946a7eb5d63f08052b7762677a2c0cdb5b4e1a05e2e7e26c35b9587.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "519bd08cb946a7eb5d63f08052b7762677a2c0cdb5b4e1a05e2e7e26c35b9587"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/cfceac5e30d1b841fe1655e44facb2a62a52ca09e7c92ff9ac92885369aff1ef.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cfceac5e30d1b841fe1655e44facb2a62a52ca09e7c92ff9ac92885369aff1ef"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/1cb9e7b7afdf296fdb4d47e71d78aea35f57c9b745e63fbdfc1890b359e6990d.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1cb9e7b7afdf296fdb4d47e71d78aea35f57c9b745e63fbdfc1890b359e6990d"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.5",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba50580bd05e4f22a22685c43c1f2f2a",
+  "level": "sl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>I = «<span class=\"math\" data-latex=\"\\sqrt{\\frac{P}{R}}\"></span> =» 1.9 «A» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>ALTERNATIVE 1 (Calculation of length)<br/>Read off from graph [2.8 − 3.2 × 10<sup>−5</sup> Ω m]✓<br/>Use of <span class=\"math\" data-latex=\"I=\\frac{RA}{\\rho}\"></span>✓<br/>l = 1.3 − 1.4 «m» ✓ ALTERNATIVE 2 (Calculation of area)<br/>Read off from graph [2.8 − 3.2 × 10<sup>−5</sup> Ω m]✓<br/>Use of <span class=\"math\" data-latex=\"A=\\rho\\frac{I}{R}\"></span>✓ A = 8.3 − 9.5 × 10<sup>−6</sup> «m<sup>2</sup>» ✓ ALTERNATIVE 3 (Calculation of resistance)<br/>Read off from graph [2.8 − 3.2 × 10<sup>−5</sup> Ω m]✓<br/>Use of <span class=\"math\" data-latex=\"R=\\rho\\frac{I}{A}\"></span>✓ R = 3.6 − 4.2 «Ω» ✓ ALTERNATIVE 4 (Calculation of resistivity)<br/>Use of <span class=\"math\" data-latex=\"\\rho=\\frac{RA}{I}\"></span>✓ <span class=\"math\" data-latex=\"\\rho\"></span> = 3.2 × 10<sup>−5</sup> «Ω m» ✓ Read off from graph 260 – 280 K ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>«Resistivity and hence» resistance will decrease ✓ «Pd across pad will not change because internal resistance is negligible»<br/>Current will increase ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>«The force is» away from PQ/repulsive/to the right ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>The magnetic fields «due to currents in PQ and TU» are in opposite directions<br/>OR<br/>There are two «repulsive» forces in opposite directions ✓ Net force is zero ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Air is a poor «thermal» conductor ✓ Lack of convection due to air not being able to move in material ✓ Appropriate statement about energy transfer between the pet, the resistor and surroundings ✓ The rate of thermal energy transfer to the top surface is greater than the bottom «due to thinner material» ✓   Accept air is a good insulator</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An electrically heated pad is designed to keep a pet warm.</p>\n<p>The pad is heated using a resistor that is placed inside the pad. The dimensions of the resistor are shown on the diagram. The resistor has a resistance of 4.2 Ω and a total length of 1.25 m.</p>\n<p>diagram not to scale</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>When there is a current in the resistor, the temperature in the pad changes from a room temperature of 20 °C to its operating temperature at 35 °C.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The designers state that the energy transferred by the resistor every second is 15 J.</p>\n<p>Calculate the current in the resistor.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The designers wish to make the resistor from carbon fibre.</p>\n<p>The graph shows the variation with temperature, in Kelvin, of the resistivity of carbon fibre.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> </p><p>The resistor has a cross-sectional area of 9.6 × 10<sup>−6</sup> m<sup>2</sup>.</p>\n<p>Show that a resistor made from carbon fibre will be suitable for the pad.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>The power supply to the pad has a negligible internal resistance.</p>\n<p>State and explain the variation in current in the resistor as the temperature of the pad increases.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>When there is a current in the resistor, magnetic forces act between the resistor strips.</p>\n<p>For the part of the resistor labelled RS,</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> outline the magnetic force acting on it due to the current in PQ. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> state and explain the net magnetic force acting on it due to the currents in PQ and TU. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The design of the pad encloses the resistor in a material that traps air. The design also places the resistor close to the top surface of the pad.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>Explain, with reference to thermal energy transfer, why the pad is designed in this way.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

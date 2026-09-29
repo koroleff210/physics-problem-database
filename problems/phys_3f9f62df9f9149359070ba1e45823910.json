@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5197c05c0e55baf465d80aa2116958a8a6b556ef0128549c1c253202ade58a77.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5197c05c0e55baf465d80aa2116958a8a6b556ef0128549c1c253202ade58a77"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_3f9f62df9f9149359070ba1e45823910",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In two experiments X and Y measurements were made of the kinetic energies E<sub>k</sub> of photoelectrons emitted when light is incident on two different metal surfaces.</p>\n<p>The graph shows the variation of E<sub>k</sub> with frequency <span class=\"math\" data-latex=\"f\"></span> of the incident photons for both surfaces.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>It can be deduced that in experiment Y…<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the surface has a smaller work function than the surface in experiment X.</li><li data-label=\"B\">the surface has a larger work function than the surface in experiment X.</li><li data-label=\"C\">the intensity of the incident light is less than in experiment X.</li><li data-label=\"D\">the intensity of the incident light is more than in experiment X.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

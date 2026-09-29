@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_89bf532a44c04f80ad00a785efa452db",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The initial activity of a radioactive sample is 160 Bq and the background activity at this location is 25% of the initial activity of the sample. The half-life of the radioactive nuclide is 7 hours.</p>\n<p>What is the activity detected at the location of the sample after 21 hours?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">25 Bq</li>\n<li data-label=\"B\">40 Bq</li>\n<li data-label=\"C\">60 Bq</li>\n<li data-label=\"D\">80 Bq</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

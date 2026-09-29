@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/96a95efe9291c842ea14152427ab506c51270cc70a2041121bdcad70db9b0785.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "96a95efe9291c842ea14152427ab506c51270cc70a2041121bdcad70db9b0785"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_82ec32979ef34cf6b6414dc2bde336af",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A turntable of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> spins freely about the vertical axis at an initial angular velocity <span class=\"math\" data-latex=\"\\omega\"></span>. The moment of inertia of the turntable about the axis of rotation is <span class=\"math\" data-latex=\"\\frac{1}{2}MR^{2}\"></span>. A small body of mass <span class=\"math\" data-latex=\"m\"></span> is dropped close to the edge of the turntable with a negligible initial velocity.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The body comes to rest relative to the turntable. What is the final angular velocity of the turntable?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{M}{M+2m}\\omega\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{M}{M+m}\\omega\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{M}{2M+m}\\omega\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2M}{M+m}\\omega\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

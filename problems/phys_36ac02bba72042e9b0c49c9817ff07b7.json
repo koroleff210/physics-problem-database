@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2",
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_36ac02bba72042e9b0c49c9817ff07b7",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>Converting the distance between Earth and Wolf 359 into parsecs:</p>\n<p><span class=\"math\" data-latex=\"\\frac{7.44 \\times 10^{13}\\times 10^{3}}{9.46 \\times 10^{15} \\times 3.26} \\approx 2.41\\:\\textup{pc}\"></span></p>\n<p>Calculating the parallax angle:</p>\n<p><span class=\"math\" data-latex=\"p = \\frac{1}{2.41} \\approx 0.415\\: \\textup{arc-second}\"></span></p></section><section class=\"markscheme-part\" data-label=\"1b(i)\"><p><strong>1b(i)</strong></p><p></p>\n<p>Calculating the luminosity using the formula <span class=\"math\" data-latex=\"b = \\frac{L}{4 \\pi d^2}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"L = 4\\pi \\times (5.66 \\times 10^{-12}) \\times \\left (7.44 \\times 10^{13} \\times 10^{3}  \\right )^{2} \\approx 3.94 \\times 10^{23} \\approx 4 \\times 10^{23}\\:\\textup{W}\"></span></p></section><section class=\"markscheme-part\" data-label=\"1b(ii)\"><p><strong>1b(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"T = \\frac{2.9 \\times 10^{-3}}{1.04 \\times 10^{-6}} \\approx 2788 \\approx 2800\\:\\textup{K}\"></span></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p>To estimate the radius, we will use the luminosity formula <span class=\"math\" data-latex=\"L = \\sigma A T^{4}\"></span>, where <span class=\"math\" data-latex=\"A = 4 \\pi R^{2}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"R = \\sqrt{\\frac{L}{4 \\pi \\sigma T^{4}}} = \\sqrt{\\frac{4 \\times 10^{23}}{4 \\pi \\times (5.67 \\times 10^{-8}) \\times (2800)^{4}}} \\approx 9.6 \\times 10^{7}\\: \\textup{m}\"></span></p></section><section class=\"markscheme-part\" data-label=\"1d\"><p><strong>1d</strong></p><p></p>\n<p>Distances in astrophysics are very large, so using SI units to express these distances would require the use of large powers of ten.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The red dwarf star, Wolf 359, is located at a distance of <span class=\"math\" data-latex=\"7.44 \\times 10^{13}\\:\\textup{km}\"></span> from Earth.</p>\n<p>(a)   Calculate, in arc-seconds, the parallax angle of Wolf 359.</p>\n<p>  [2]</p>\n<p>The apparent brightness of Wolf 359 is <span class=\"math\" data-latex=\"5.66 \\times 10^{-12}\\:\\textup{W\\,m}^{-2}\"></span> and the peak wavelength of the black body spectrum of Wolf 359 is <span class=\"math\" data-latex=\"1.04\\:\\mu \\textup{m}\"></span>.</p>\n<p>(b)   Show that</p>\n<p>(i)   the luminosity of Wolf 359 is approximately <span class=\"math\" data-latex=\"4 \\times 10^{23}\\:\\textup{W}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   the surface temperature of Wolf 359 is approximately <span class=\"math\" data-latex=\"2800\\:\\textup{K}\"></span>.</p>\n<p>  [1]</p>\n<p>(c)   Estimate the radius of Wolf 359.</p>\n<p>  [2]</p>\n<p>(d)   Outline why in astrophysics distances are often expressed in non-SI units.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

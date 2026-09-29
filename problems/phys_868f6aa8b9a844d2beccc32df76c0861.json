@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/44cef67bbe03c45f7ae8496493daa7ff55acbe49bd19194cf7229dbcb8f8258b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "44cef67bbe03c45f7ae8496493daa7ff55acbe49bd19194cf7229dbcb8f8258b"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_868f6aa8b9a844d2beccc32df76c0861",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet orbits the Sun in an elliptical orbit moving in the direction shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At the position shown, which quantity is decreasing for the planet?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Acceleration</li><li data-label=\"B\">Angular momentum</li><li data-label=\"C\">Kinetic energy</li><li data-label=\"D\">Gravitational potential energy</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

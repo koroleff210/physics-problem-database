@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_7dba5f831a9c4eb29c897bc1c6c6dafb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star of luminosity <span class=\"math\" data-latex=\"L\"></span> collapses, halving its radius but doubling its temperature. What is its new luminosity in terms of <span class=\"math\" data-latex=\"L\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac12L\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"L\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4L\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8L\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

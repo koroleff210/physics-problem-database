@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0494f91782f91f295c3f1b8f075075d51ef87cba610a16d9a8f0c7d7c776e5fc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0494f91782f91f295c3f1b8f075075d51ef87cba610a16d9a8f0c7d7c776e5fc"
+    }
+  ],
+  "classes": [
+    "D.1",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_5c9f35619fbb49eea3dd94e7c618fb90",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a\"><p><strong>5a</strong></p><p></p>\n<p>The attractive (gravitational) force between two point masses is proportional to the product of their masses and inversely proportional to the square of the distance between the masses.</p>\n<p>(If formula is given, variables must be clearly defined)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b\"><p><strong>5b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"g = \\frac{(6.67 \\times 10^{-11}) \\times (3.8 \\times 10^{31})}{(6.8 \\times 10^{12})^{2}} \\approx 5.5 \\times 10^{-5}\"></span> N kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c\"><p><strong>5c</strong></p><p></p>\n<p>Combined gravitational field strength due to Stars B and C:</p>\n<p><span class=\"math\" data-latex=\"2 \\times 5.5 \\times 10^{-5} \\times cos28^{o} \\approx 9.7 \\times 10^{-5}\"></span> N kg<span class=\"math\" data-latex=\"^{-1}\"></span>, downwards.</p>\n<p>Gravitational field strength due to star A:</p>\n<p> <span class=\"math\" data-latex=\"\\frac{(6.67 \\times 10^{-11}) \\times (3.8 \\times 10^{31})}{(7.5 \\times 10^{12})^{2}} \\approx 4.5 \\times 10^{-5}\"></span> N kg<span class=\"math\" data-latex=\"^{-1}\"></span>, upwards.</p>\n<p>Resultant gravitational field strength at the position of the planet:</p>\n<p><span class=\"math\" data-latex=\"9.7 \\times 10^{-5} - 4.5 \\times 10^{-5} = 5.2 \\times 10^{-5}\"></span> N kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Direction: downwards.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows the position of three stars and a planet and the distances between the stars and the planet. The mass of each star is <span class=\"math\" data-latex=\"3.8 \\times 10^{31}\"></span> kg. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline Newton's universal law of gravitation.</p>\n<p>  [2]</p>\n<p>b. Find the gravitational field strength at the position of the planet due to Star B. Include an appropriate unit with your answer.</p>\n<p>  [2]</p>\n<p>c. Find the magnitude and the direction of the resultant gravitational field strength at the position of the planet.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

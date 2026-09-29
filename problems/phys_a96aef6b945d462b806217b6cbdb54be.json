@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_a96aef6b945d462b806217b6cbdb54be",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small source of thermal radiation has an absolute temperature <span class=\"math\" data-latex=\"T\"></span>. At a distance <span class=\"math\" data-latex=\"r\"></span> from the source, the intensity of the radiation measured is <span class=\"math\" data-latex=\"I\"></span>. The temperature of the source is increased to <span class=\"math\" data-latex=\"2T\"></span> and the intensity is measured at a distance <span class=\"math\" data-latex=\"2r\"></span> from the source. What is the new intensity measured?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"I\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4I\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"8I\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"16I\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

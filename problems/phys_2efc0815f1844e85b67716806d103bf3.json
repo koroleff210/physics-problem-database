@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_2efc0815f1844e85b67716806d103bf3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A bucket of negligible mass contains <span class=\"math\" data-latex=\"10\"></span> litres of water, initially at a temperature of <span class=\"math\" data-latex=\"20\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C. A metal ball of mass <span class=\"math\" data-latex=\"5.0\"></span> kg, initially at a temperature of <span class=\"math\" data-latex=\"220\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C is dropped into the water. The specific heat capacity of the water is twice the specific heat capacity of the metal ball. The density of the water is <span class=\"math\" data-latex=\"1000\"></span> kg m<span class=\"math\" data-latex=\"^{-3}\"></span>. What is the final temperature of the mixture?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"40\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"60\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"80\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"100\"></span> <span class=\"math\" data-latex=\"^{\\circ}\"></span>C</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

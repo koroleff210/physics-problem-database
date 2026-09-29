@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d4f7aa100b671f6cd8f4d206069da2b284e5e8e151127ec01e38376d7da4590e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d4f7aa100b671f6cd8f4d206069da2b284e5e8e151127ec01e38376d7da4590e"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/1fe9e172d927748f9149b109e4402a99dea22469b1c0217de12a7d763bed20b3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1fe9e172d927748f9149b109e4402a99dea22469b1c0217de12a7d763bed20b3"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_ff64bfef975e46f197424ba06a310656",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spheres M and N are far from any other mass. The mass of sphere M is greater than the mass of sphere N.</p>\n<p>A distance <span class=\"math\" data-latex=\"x\"></span> is measured from the surface of M along the line between the centres of M and N. The variation with <span class=\"math\" data-latex=\"x\"></span> of the gravitational field strength g is determined.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the variation of g with <span class=\"math\" data-latex=\"x\"></span>?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

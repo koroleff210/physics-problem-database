@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_f27ecedacdd24b908d9be2c65ee33b4b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two particles, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are in uniform circular motion. Particle <span class=\"math\" data-latex=\"X\"></span> moves in a circle of radius <span class=\"math\" data-latex=\"r\"></span> with a period <span class=\"math\" data-latex=\"T\"></span>. Particle <span class=\"math\" data-latex=\"Y\"></span> moves in a circle of radius <span class=\"math\" data-latex=\"2r\"></span> with a period <span class=\"math\" data-latex=\"3T\"></span>. What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{centripetal acceleration of } X}{\\text{centripetal acceleration of } Y}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.22\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.5\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"18\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.5\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

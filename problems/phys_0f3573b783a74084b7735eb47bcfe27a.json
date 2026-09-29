@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_0f3573b783a74084b7735eb47bcfe27a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass–spring system oscillates vertically with a period of <span class=\"math\" data-latex=\"T\"></span> at the surface of the Earth. The gravitational field strength at the surface of Mars is <span class=\"math\" data-latex=\"0.3 g\"></span>. What is the period of the same mass–spring system on the surface of Mars?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0.9T\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"0.3T\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"T\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"3T\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

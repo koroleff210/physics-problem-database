@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3a5ca8579507ac41e6bac2ef003efa34a3577ee5f9835afbc7351f2b34c4ecf3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3a5ca8579507ac41e6bac2ef003efa34a3577ee5f9835afbc7351f2b34c4ecf3"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/fbbe1a82e8a22c8adb0b6f17541bbd4ffc7a78bc33ea398bcf102e2e35cb2233.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fbbe1a82e8a22c8adb0b6f17541bbd4ffc7a78bc33ea398bcf102e2e35cb2233"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_86d4899078bc4c6194d9be773886518f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The equilibrium positions of six particles in a medium are separated by a distance of 2 cm as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The positions of these particles, when a longitudinal wave is transmitted through the medium, are now shown.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>What is the wavelength of the wave?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2 cm</li><li data-label=\"B\">4 cm</li><li data-label=\"C\">6 cm</li><li data-label=\"D\">8 cm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

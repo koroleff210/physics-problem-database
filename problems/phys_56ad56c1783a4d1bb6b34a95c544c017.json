@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_56ad56c1783a4d1bb6b34a95c544c017",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about the Doppler effect formula for electromagnetic waves are:</p>\n<p>I. It can be used when a galaxy is moving away from Earth..</p>\n<p>II. It can be used when a galaxy is moving towards Earth.</p>\n<p>III. It can be used when the relative speed between the source and the observer is <span class=\"math\" data-latex=\"2.7 \\times 10^{5}\\: \\textup{km\\,s}^{-1}\"></span>.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f0a3f5b0809804e1c172040d95143e4535e6c80ce697e3306d82c03dcd227ee8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f0a3f5b0809804e1c172040d95143e4535e6c80ce697e3306d82c03dcd227ee8"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_dee280a7d9f24c2892962fc077ffe08c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Five resistors, each of resistance <span class=\"math\" data-latex=\"1.0\\: \\Omega\"></span>, are connected as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the resistance between points A and B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.38\\: \\Omega\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.63\\: \\Omega\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1.6\\: \\Omega\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2.7\\: \\Omega\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

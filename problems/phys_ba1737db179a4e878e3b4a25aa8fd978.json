@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_ba1737db179a4e878e3b4a25aa8fd978",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the power radiated by a point source of light, the intensity detected at a certain location, and the distance between the source and the detector.</p>\n<table><thead><tr><th>Power</th><th>Intensity</th><th>Distance</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"P\"></span></td><td><span class=\"math\" data-latex=\"I\"></span></td><td><span class=\"math\" data-latex=\"d\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"3P\"></span></td><td><span class=\"math\" data-latex=\"0.5I\"></span></td><td><span class=\"math\" data-latex=\"x\"></span></td></tr></tbody></table>\n<p>What is the value of the distance <span class=\"math\" data-latex=\"x\"></span> in terms of <span class=\"math\" data-latex=\"d\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\sqrt{6}d\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"6d\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt{1.5}d\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.5d\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

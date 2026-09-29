@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_f01c9ec1881740d99e37ae7229f2cd6d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement is correct about the entropy of a non-isolated system?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">It always increases</li><li data-label=\"B\">It always decreases</li><li data-label=\"C\">It can only increase if the entropy of the surroundings decreases</li><li data-label=\"D\">It can only decrease if the entropy of the surroundings increases</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

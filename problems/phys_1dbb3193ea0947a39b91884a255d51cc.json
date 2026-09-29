@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_1dbb3193ea0947a39b91884a255d51cc",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planets <span class=\"math\" data-latex=\"E\"></span> and <span class=\"math\" data-latex=\"F\"></span> orbit the same star. The average distance between planet <span class=\"math\" data-latex=\"E\"></span> and the star is 3 times greater than the distance between planet <span class=\"math\" data-latex=\"F\"></span> and the star.</p>\n<p>What is the ratio of the orbital period of planet <span class=\"math\" data-latex=\"E\"></span> to the orbital period of planet <span class=\"math\" data-latex=\"F\"></span> ?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\sqrt[3]{3}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt[3]{9}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt[]{27}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\sqrt{3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

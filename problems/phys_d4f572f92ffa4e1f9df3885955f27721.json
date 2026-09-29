@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d4f572f92ffa4e1f9df3885955f27721",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of wavelength 400 nm is incident normally on a diffraction grating. The slit separation of the diffraction grating is 1.0 μm.</p>\n<p>What is the greatest number of maxima that can be observed?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">3</li><li data-label=\"C\">5</li><li data-label=\"D\">7</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

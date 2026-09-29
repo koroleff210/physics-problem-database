@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4859ab977e9484dc4da3323c70465c77ff0bd360a1a67cc18420274da000e8d2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4859ab977e9484dc4da3323c70465c77ff0bd360a1a67cc18420274da000e8d2"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_f5242e3cc4ad45328570c365a2ccd22d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The process Z→X is isovolumetric. For the cycle to be consistent, X→Y must be an isothermal expansion and Y→Z must be an adiabatic compression. During the adiabatic compression Y→Z, work is done on the gas, so the work done by the gas is negative. Since the process is adiabatic (Q=0), the change in internal energy is ΔU = -W, which is positive. Alternatively, temperature increases during adiabatic compression, so internal energy increases.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Cycle XYZX is composed of an isothermal, an adiabatic and an isovolumetric process.</p>\n<p>What can be said about the change in internal energy and the sign of the work done in process YZ?</p>\n<table><thead><tr><th>Option</th><th>Change in internal energy</th><th>Sign of work done</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Positive</td><td>Negative</td></tr><tr data-label=\"B\"><td>B</td><td>Positive</td><td>Positive</td></tr><tr data-label=\"C\"><td>C</td><td>Negative</td><td>Negative</td></tr><tr data-label=\"D\"><td>D</td><td>Negative</td><td>Positive</td></tr></tbody></table>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_e2ba39af538f4764ab2a849b4436143f",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Path difference = <span class=\"math\" data-latex=\"n\\lambda\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Constant phase difference and same frequency.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The difference in distance traveled by two waves to a point.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Distance between adjacent bright or dark fringes, <span class=\"math\" data-latex=\"s = \\dfrac{\\lambda D}{d}\"></span><br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a double-slit experiment, a coherent laser source illuminates two slits.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the condition for constructive interference.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the meaning of “coherent” sources.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>State what is meant by path difference.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Define fringe spacing and give its equation.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

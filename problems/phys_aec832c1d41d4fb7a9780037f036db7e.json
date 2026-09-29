@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ed0f7dc485449e549d35a2fc8adcf76727f5774deceb9b7d4a8fdc8eb142bd61.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ed0f7dc485449e549d35a2fc8adcf76727f5774deceb9b7d4a8fdc8eb142bd61"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_aec832c1d41d4fb7a9780037f036db7e",
+  "level": "sl_hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Identify that energy stored is the area under the force-compression graph: <span class=\"math\" data-latex=\"E_p = \\frac{1}{2} Fx\"></span> [1 mark]<br/>- Substitute values from the graph: <span class=\"math\" data-latex=\"E_p = \\frac{1}{2} \\times 54 \\times 0.12 = 3.24 \\text{ J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Calculate the kinetic energy of the ball: <span class=\"math\" data-latex=\"E_k = \\frac{1}{2}mv^2 = 0.5 \\times 0.040 \\times 11^2 = 2.42 \\text{ J}\"></span> [1 mark]<br/>- Calculate the efficiency: <span class=\"math\" data-latex=\"\\eta = \\frac{E_{\\text{out}}}{E_{\\text{in}}} = \\frac{2.42}{3.24} \\approx 0.747\"></span> or <span class=\"math\" data-latex=\"74.7\\%\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph below shows the variation of the force <span class=\"math\" data-latex=\"F\"></span> applied to a spring in a ball launcher with its compression <span class=\"math\" data-latex=\"x\"></span>. A ball of mass <span class=\"math\" data-latex=\"40 \\text{ g}\"></span> is placed in the launcher.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Using the graph, determine the elastic potential energy stored in the spring when it is compressed by <span class=\"math\" data-latex=\"0.12 \\text{ m}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The launcher is fired. On leaving the launcher, the ball has a speed of <span class=\"math\" data-latex=\"11 \\text{ m\\,s}^{-1}\"></span>. Calculate the efficiency of the launcher in transferring energy to the ball.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

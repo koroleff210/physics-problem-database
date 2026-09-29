@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/59c1ef8189a327478a4b3d4a210e585cb8401ffe9f1533222f00621d373d6702.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "59c1ef8189a327478a4b3d4a210e585cb8401ffe9f1533222f00621d373d6702"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c52c533b283b4e7a90737ad452b90679",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: The impulse is equal to the area under the force–time graph.<br/>- Impulse <span class=\"math\" data-latex=\"= \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 0.40\\text{ s} \\times 40\\text{ N} = 8.0\\text{ N s}\"></span>.<br/>- From the impulse–momentum theorem, <span class=\"math\" data-latex=\"J = \\Delta p = m\\Delta v\"></span>.<br/>- <span class=\"math\" data-latex=\"8.0\\text{ N s} = 2.0\\text{ kg} \\times (v - 0) \\implies v = 4.0\\text{ m s}^{-1}\"></span>.</p>\n<p>B: This value arises if the factor of <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> is omitted when calculating the triangular area (Impulse <span class=\"math\" data-latex=\"= 16\\text{ N s}\"></span>, <span class=\"math\" data-latex=\"v = 16 / 2 = 8\"></span>).</p>\n<p>C: This value arises if the area is calculated as <span class=\"math\" data-latex=\"0.40 \\times 40\"></span> and the mass of the object is ignored.</p>\n<p>D: This value arises if the student simply divides the peak force by the mass (<span class=\"math\" data-latex=\"\\frac{40}{2.0}\"></span>), ignoring the time variation.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A net force <span class=\"math\" data-latex=\"F\"></span> acts on an object of mass <span class=\"math\" data-latex=\"2.0\\text{ kg}\"></span> which is initially at rest. The variation with time <span class=\"math\" data-latex=\"t\"></span> of the force <span class=\"math\" data-latex=\"F\"></span> is shown in the graph.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object at <span class=\"math\" data-latex=\"t = 0.40\\text{ s}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"8.0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"16\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"20\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

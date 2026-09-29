@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1a2351605a677da294730a3c8148244f7c980dfa62f2a0b5855eb29fb36b8844.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1a2351605a677da294730a3c8148244f7c980dfa62f2a0b5855eb29fb36b8844"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/b9027ad19c2af26e136f4bc42a760b1109eb71e66f926dbb74a7e97d2e1ed2ef.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "b9027ad19c2af26e136f4bc42a760b1109eb71e66f926dbb74a7e97d2e1ed2ef"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_4f8946c70e3848ed9d85584c071dc377",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Work using g ∝ <span class=\"math\" data-latex=\"\\frac{m}{r^{2}}\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{g_{M}}{g_{P}}=\\frac{m_{M}}{m_{P}}\\frac{r_{P}}{r_{M}}^{2}\"></span> = 0.75 ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>g = 0 ✓ As g «= <span class=\"math\" data-latex=\"- \\frac{Δ {V}_{g}}{Δ r}\"></span> which» is the gradient of the graph OR<br/>As the force of attraction/field strength of P and M are equal ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>The gravitational field is attractive so that energy is required «to move away from P» ✓ the gravitational potential is defined as 0 at <span class=\"math\" data-latex=\"∞\"></span>, (the potential must be negative) ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>V<sub>P</sub> = <span class=\"math\" data-latex=\"-\\frac{GM}{R_{P}}\"></span> AND  g<sub>P</sub> = <span class=\"math\" data-latex=\"\\frac{GM}{R_{P}^{2}}\"></span> (at surface) ✓ Suitable working and cancellation of G and M seen ✓ V<sub>P</sub> = −g<sub>P </sub>R<sub>P</sub> Must see negative sign</p></section><section class=\"markscheme-part\" data-label=\"b.iv\"><p><strong>b.iv</strong></p><p>«<span class=\"math\" data-latex=\"\\frac{V_{M}}{V_{P}}\"></span> = <span class=\"math\" data-latex=\"\\frac{g_{M}R_{M}}{g_{P}R_{P}}\"></span> = 0.75 × 0.27» = 0.20 ✓ V<sub>M</sub> = «−6.4 × 10<sup>7</sup> × 0.2 =» «−»1.3 × 10<sup>7</sup> «J kg<sup>−1</sup>»✓</p></section><section class=\"markscheme-part\" data-label=\"b.v\"><p><strong>b.v</strong></p><p>Line always negative, of suitable shape and end point below −8 and above −20 unless awarding ECF from b(iv) ✓</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A moon M orbits a planet P. The gravitational field strength at the surface of P due to P is g<sub>P</sub>.<br/>The gravitational field strength at the surface of M due to M is g<sub>M</sub>.</p>\n<p>For M and P: <span class=\"math\" data-latex=\"\\frac{\\textit{radius of M}}{\\textit{radius of P}}\"></span> = 0.27 and <span class=\"math\" data-latex=\"\\frac{\\textit{mass of M}}{\\textit{mass of P}}\"></span> = 0.055</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine <span class=\"math\" data-latex=\"\\frac{g_{M}}{g_{P}}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Point O lies on the line joining the centre of M to the centre of P.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation of gravitational potential V with distance <span class=\"math\" data-latex=\"x\"></span> from the surface of P to O.</p>\n<p>The gradient of the graph is zero at point O.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State and explain the magnitude of the resultant gravitational field strength at O. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Outline why the graph between P and O is negative. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Show that the gravitational potential V<sub>P</sub> at the surface of P due to the mass of P is given by V<sub>P</sub> = −g<sub>P </sub>R<sub>P</sub> where R<sub>P</sub> is the radius of the planet. [2]</p></section><section class=\"question-part\" data-label=\"b.iv\"><p><strong>b.iv</strong> </p><p>The gravitational potential due to the mass of M at the surface of P can be assumed to be negligible.</p>\n<p>Estimate, using the graph, the gravitational potential at the surface of M due to the mass of M.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.v\"><p><strong>b.v</strong> Draw on the axes the variation of gravitational potential between O and M. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

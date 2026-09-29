@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c24fb43f3e1fec70ba0945d0a7894e5ee171a539448ceba2814fddf7a91bb5c8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c24fb43f3e1fec70ba0945d0a7894e5ee171a539448ceba2814fddf7a91bb5c8"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_b61a5aae22e14be79fdbf30b020072e2",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A disc of mass M and radius R is on a horizontal frictionless table. Two equal and opposite forces, each of magnitude F, act on the disc. The moment of inertia of the disc about its axis is <span class=\"math\" data-latex=\"\\frac{1}{2}MR^{2}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the angular acceleration of the disc?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0</li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{F}{MR}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2F}{MR}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4F}{MR}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

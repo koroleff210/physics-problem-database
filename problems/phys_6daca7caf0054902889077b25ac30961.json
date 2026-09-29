@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8c365f9f7987fa21d82751885007e26f871f2c2a22eb9f35505eb00b90f2587f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8c365f9f7987fa21d82751885007e26f871f2c2a22eb9f35505eb00b90f2587f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/f822b4ae6e2c819f1b0d18ce926fdcdc1a4219874b5fa18c1044c151e1ec7c68.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f822b4ae6e2c819f1b0d18ce926fdcdc1a4219874b5fa18c1044c151e1ec7c68"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_6daca7caf0054902889077b25ac30961",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two very long parallel plates, X and Y, have equal and opposite charges. The potential on X is V<sub>X</sub> and that on Y is V<sub>Y</sub> where V<sub>X</sub><span class=\"math\" data-latex=\"&gt;\"></span>V<sub>Y</sub> . A point particle of positive charge q and mass m is held at rest midway between the plates.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The particle is then released. Which plate will the particle move toward and what kinetic energy does it have when it reaches the plate?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

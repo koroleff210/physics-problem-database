@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_dc94f21908b1435c911150c294f4843e",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The use of Kepler’s 3<sup>rd</sup> law, e.g. <span class=\"math\" data-latex=\"\\frac{r_{V}}{r_{E}}^{3}=\\frac{225}{365}^{2}\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{r_{V}}{r_{E}}=0.724\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Any 2 from: Identifies gravitational force «of the Sun» as causing circular/orbital motion ✓ Identifies orbital radius and orbital period of a planet about the Sun as observable/known quantities ✓ The mass of the Sun/central body is a constant in the equation that relates r and T OR Suggests an equation that combines r, T and M, e.g. <span class=\"math\" data-latex=\"\\frac{4\\pi^{2}rm}{T^{2}}=\\frac{GMm}{r^{2}}\"></span> or <span class=\"math\" data-latex=\"\\frac{r^{3}}{T^{2}}=\\frac{GM}{4\\pi^{2}}\"></span> ✓   Do not allow a bald statement of Newton’s Law of Gravitation. Do not allow mention of gravitational force unless it is linked to orbital motion.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Venus is a planet in the Solar System. The following data are given:</p>\n<table><tbody><tr><td></td><td><p>Orbital period of Venus</p></td><td><p>= 225 days</p></td></tr><tr><td></td><td><p>Orbital period of Earth</p></td><td><p>= 365 days</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the ratio <span class=\"math\" data-latex=\"\\frac{\\textit{orbital radius of Venus}}{\\textit{orbital radius of Earth}}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain how observations of the motion of the planets allow scientists to determine the mass of the Sun. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_a7af0d6932544fcaa3f68c4bcfb56a3c",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Calculate area: <span class=\"math\" data-latex=\"A = \\pi r^2 = \\pi (0.10)^2 = 3.14 \\times 10^{-2}\\ \\text{m}^2\"></span> [1 mark]<br/>- Substitute into flux linkage formula: <span class=\"math\" data-latex=\"N\\Phi(t) = NBA(t) = 200(3.14 \\times 10^{-2})(0.30 \\sin(120\\pi t))\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"N\\Phi(t) = 1.884 \\sin(120\\pi t)\\ \\text{Wb turn}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Differentiate flux linkage: <span class=\"math\" data-latex=\"\\varepsilon(t) = -\\frac{d(N\\Phi)}{dt} = -1.884 \\frac{d}{dt}[\\sin(120\\pi t)]\"></span><br/>- <span class=\"math\" data-latex=\"\\varepsilon(t) = -1.884 (120\\pi \\cos(120\\pi t))\"></span><br/>- Correct expression: <span class=\"math\" data-latex=\"\\varepsilon(t) \\approx -710 \\cos(120\\pi t)\"></span> [1 mark]<br/>- Correct unit: <span class=\"math\" data-latex=\"\\text{V}\"></span> [1 mark]</p>\n<p>Note: Allow ECF from Part 1.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"\\varepsilon_{\\text{max}}\"></span> equals the amplitude (coefficient) of the cosine term in <span class=\"math\" data-latex=\"\\varepsilon(t)\"></span> (ECF from previous part). [1 mark]<br/>- <span class=\"math\" data-latex=\"\\varepsilon_{\\text{max}} = 710\\ \\text{V}\"></span></p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- The induced emf produces a current whose magnetic field opposes the change in external flux (Lenz’s law) [1 mark]<br/>- The induced field opposes the motion of the magnet (a retarding force/torque), so external work is required to maintain the oscillation [1 mark]<br/>- This ensures that energy is not created or destroyed; mechanical energy is transferred to electrical energy and is dissipated as thermal energy in the circuit [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A magnet oscillates vertically above a stationary circular coil with <span class=\"math\" data-latex=\"N = 200\"></span> turns and radius <span class=\"math\" data-latex=\"0.10\\ \\text{m}\"></span>. The magnetic field at the centre of the coil due to the magnet varies sinusoidally with time as <span class=\"math\" data-latex=\"B(t) = 0.30 \\sin(120\\pi t)\\ \\text{T}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the magnetic flux linkage <span class=\"math\" data-latex=\"N\\Phi(t)\"></span> for the coil as a function of time.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the emf induced in the coil as a function of time.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the maximum induced emf in the coil.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain how this setup demonstrates Lenz’s law and conservation of energy.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

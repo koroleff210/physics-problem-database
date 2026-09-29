@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5415aecbd6109036a903e014a9da8beeb377b798c5a9981f1d8a484d92922af5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5415aecbd6109036a903e014a9da8beeb377b798c5a9981f1d8a484d92922af5"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_6041b179f87d4534b59395c6fcf7c6d3",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A net force <span class=\"math\" data-latex=\"F\"></span> acts on an object of mass <span class=\"math\" data-latex=\"m\"></span> that is initially at rest. The object moves in a straight line. The variation of <span class=\"math\" data-latex=\"F\"></span> with the distance <span class=\"math\" data-latex=\"s\"></span> is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object at the distance <span class=\"math\" data-latex=\"s_{1}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{F_{1}s_{1}}{2m}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{F_{1}s_{1}}{m}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2F_{1}s_{1}}{m}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{4F_{1}s_{1}}{m}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

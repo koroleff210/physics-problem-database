@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8667f5299f044c5f8eadf6dcf4c8f7e6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The angular positions of the interference maxima are determined by the slit separation d and wavelength λ, which are unchanged. Making the slits wider allows more light to pass through, increasing the amplitude of the waves from each slit. Since intensity is proportional to the square of the amplitude, the intensity of the central maximum increases.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light is incident on two parallel slits. An interference pattern is formed on a screen. The slits are replaced by wider slits with the same separation. What is the change in the interference pattern?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Angular position of maxima decrease</li>\n<li data-label=\"B\"> Angular position of maxima increase</li>\n<li data-label=\"C\"> Central maximum intensity decreases</li>\n<li data-label=\"D\"> Central maximum intensity increases</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

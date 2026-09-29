@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_9a293f7fc2da4b2ab1971b8f67cad846",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cylindrical metal rod has a temperature difference between its ends and is in a steady state. The rate of energy transfer along the rod is <span class=\"math\" data-latex=\"P\"></span>. No energy is transferred from the curved side of the rod.</p>\n<p>The rod is changed for one made from the same material but with double the length and double the diameter. The temperature difference is halved. The rate of energy transfer in the rod is now</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{P}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"P\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2P\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4P\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

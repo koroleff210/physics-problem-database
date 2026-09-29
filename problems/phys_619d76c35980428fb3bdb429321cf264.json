@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_619d76c35980428fb3bdb429321cf264",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas of constant mass is heated in a container of constant volume.</p>\n<p>What is the reason for the increase in pressure of the gas?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The average number of molecules per unit volume increases.</li><li data-label=\"B\">The average force per impact at the container wall increases.</li><li data-label=\"C\">Molecules collide with each other more frequently.</li><li data-label=\"D\">Molecules occupy a greater fractional volume of the container.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

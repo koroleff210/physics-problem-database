@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0832f7bb14794b9e84998de27ce8e535",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton of mass <span class=\"math\" data-latex=\"m\"></span> and charge <span class=\"math\" data-latex=\"+e\"></span> is placed in a region of uniform electric field. The magnitude of the electric force acting on the proton is <span class=\"math\" data-latex=\"F\"></span> and the magnitude of its acceleration is <span class=\"math\" data-latex=\"a\"></span>. An alpha particle of mass <span class=\"math\" data-latex=\"4m\"></span> and charge <span class=\"math\" data-latex=\"+2e\"></span> is placed in the same electric field. Which of the following correctly identifies the magnitude of the electric force and the magnitude of the acceleration of the alpha particle in terms of <span class=\"math\" data-latex=\"F\"></span> and <span class=\"math\" data-latex=\"a\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">Force = <span class=\"math\" data-latex=\"F\"></span>; Acceleration = <span class=\"math\" data-latex=\"0.5a\"></span></li><li data-label=\"B\">Force = <span class=\"math\" data-latex=\"2F\"></span>; Acceleration = <span class=\"math\" data-latex=\"0.5a\"></span></li><li data-label=\"C\">Force = <span class=\"math\" data-latex=\"2F\"></span>; Acceleration = <span class=\"math\" data-latex=\"2a\"></span></li><li data-label=\"D\">Force = <span class=\"math\" data-latex=\"4F\"></span>; Acceleration = <span class=\"math\" data-latex=\"a\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

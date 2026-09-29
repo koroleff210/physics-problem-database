@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c82789b23c458572982f5998f8aa7b2f959632497b403ccbbf0bd69048684864.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c82789b23c458572982f5998f8aa7b2f959632497b403ccbbf0bd69048684864"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e30d698e01f14fe2aa730e58ab487777",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The energy of an emitted photon equals the difference between two atomic energy levels. For the three levels E₀ &lt; E₁ &lt; E₂, the possible photon energies are from transitions E₂→E₀, E₂→E₁, and E₁→E₀. The largest photon energy, e₃, must correspond to the largest energy gap, E₂ - E₀, which gives E₂ = E₀ + e₃. The sum of the two smaller transition energies equals the largest, so e₁ + e₂ = e₃. Of the available options from the source image, only A provides a valid expression for E₁ (E₀ + e₂) that, combined with E₂ = E₀ + e₃, results in three distinct levels and is consistent with the energy conservation rule e₁ + e₂ = e₃.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows three energy levels of an atom.</p>\n<p>The photons emitted in transitions between these levels have energies of <span class=\"math\" data-latex=\"e_{1}\"></span>, <span class=\"math\" data-latex=\"e_{2}\"></span> and <span class=\"math\" data-latex=\"e_{3}\"></span>, where <span class=\"math\" data-latex=\"e_{1}\"></span> &lt; <span class=\"math\" data-latex=\"e_{2}\"></span> &lt; <span class=\"math\" data-latex=\"e_{3}\"></span>. What are <span class=\"math\" data-latex=\"E_{1}\"></span> and <span class=\"math\" data-latex=\"E_{2}\"></span>?</p>\n<div class=\"table-responsive\"><table><thead><tr><th>Option</th><th><span class=\"math\" data-latex=\"E_{1}\"></span></th><th><span class=\"math\" data-latex=\"E_{2}\"></span></th></tr></thead><tbody><tr><td>A</td><td><span class=\"math\" data-latex=\"E_0 + e_2\"></span></td><td><span class=\"math\" data-latex=\"E_0 + e_3\"></span></td></tr><tr><td>B</td><td><span class=\"math\" data-latex=\"E_0 + e_2\"></span></td><td><span class=\"math\" data-latex=\"E_0 + e_2 + e_3\"></span></td></tr><tr><td>C</td><td><span class=\"math\" data-latex=\"E_0 + e_1 + e_2\"></span></td><td><span class=\"math\" data-latex=\"E_0 + e_3\"></span></td></tr><tr><td>D</td><td><span class=\"math\" data-latex=\"E_0 + e_1 + e_2\"></span></td><td><span class=\"math\" data-latex=\"E_0 + e_2 + e_3\"></span></td></tr></tbody></table></div>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> A</li>\n<li data-label=\"B\"> B</li>\n<li data-label=\"C\"> C</li>\n<li data-label=\"D\"> D</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

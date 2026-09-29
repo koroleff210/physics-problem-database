@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a52fb8b147741017ec9d81edfd5348db2d6d015151422d0890eb8b4d0bbed41a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a52fb8b147741017ec9d81edfd5348db2d6d015151422d0890eb8b4d0bbed41a"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_51795645623a4f658f17345ffee354b2",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«20.6(0) – (–0.3(0)) =» 20.9 mm ✓ <br/>Unit not required.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Error in reading = 0.1 + 0.1 = «0.2 mm» 1% ✓<br/>Full calculation gives 0.96%. Allow answer to more than 1 s.f. Allow ECF from ai)</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Make multiple measurements AND average OR Make multiple measurements across different diameters OR Zero the caliper ✓<br/>Do not allow use of multiple metal spheres</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>% uncertainty in <span class=\"math\" data-latex=\"M=\\frac{0.2}{54.0}\\times 100\"></span>   OR   0.37% ✓ «Overall uncertainty = 0.37 + (3 × candidate answer to a(ii))» «(0.37 + 3 × 1.0) =» 3.4% ✓<br/>Unrounded uncertainties lead to 3.2% Allow 3% or 4% to 1 s.f. Allow ECF from aii)</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>«0.034 × 11.3 × 10<sup>3</sup> = 0.4 × 10<sup>3</sup>» (11.3 ± 0.4) × 10<sup>3</sup> kg m<sup>–3</sup> ✓<br/>Do not allow an absolute uncertainty expressed to more than 1 s.f. Allow ECF from ci) Unit not required</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<section class=\"context\"><p>The density of a metal sphere is determined using a digital caliper and a mass balance.</p>\n<p>The digital caliper is used to measure the diameter D of the sphere by placing the sphere in the jaws of the digital caliper. This reading is shown.</p>\n<p>The sphere is then removed and another reading is taken immediately afterwards with the jaws closed.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate D. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> </p><p>The manufacturer of the digital caliper states that the uncertainty in the device reading is ±0.1 mm.</p>\n<p>Calculate the percentage uncertainty in D.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State one way in which the procedure for the measurement of D can be improved using the same digital caliper. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The mass <span class=\"math\" data-latex=\"M\"></span> of the sphere is (54.0 ± 0.2) g.</p>\n<p>The density of the sphere <span class=\"math\" data-latex=\"\\rho\"></span> is calculated to be 11.3 × 10<sup>3</sup> kg m<sup>−3</sup>,<sup> </sup>using <span class=\"math\" data-latex=\"ρ = \\frac{6 M}{π {D}^{3}}\"></span>.</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the percentage uncertainty in <span class=\"math\" data-latex=\"\\rho\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> State the value of <span class=\"math\" data-latex=\"\\rho\"></span>, including the absolute uncertainty of <span class=\"math\" data-latex=\"\\rho\"></span>. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

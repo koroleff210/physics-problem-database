@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_b5c312ffcebf4e4cbae89827a83bbd5f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which is a statement of one of Kepler’s laws of orbital motion?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The square of the planet’s orbital period is proportional to the cube of the length of the semi-major axis of its orbit.</li><li data-label=\"B\">A line segment joining a planet and the Sun sweeps out equal arc lengths during equal intervals of time.</li><li data-label=\"C\">A planet’s orbital period is proportional to the cube of the length of the semi-major axis of its orbit.</li><li data-label=\"D\">The orbit of a planet is an ellipse with the Sun positioned at the centre.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

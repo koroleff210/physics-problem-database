@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_8d0da298e6694d91989e137c9d3659bc",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Correct formula: <span class=\"math\" data-latex=\"s = \\dfrac{\\lambda D}{d}\"></span><br/>Substitute:<br/><span class=\"math\" data-latex=\"s = \\dfrac{600 \\times 10^{-9} \\cdot 1.5}{0.25 \\times 10^{-3}} = 3.6 \\times 10^{-3}\\ \\text{m}\"></span><br/>[1 mark]<br/>- Final answer with units: <span class=\"math\" data-latex=\"s = 3.6\\ \\text{mm}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Fringe spacing decreases<br/>[1 mark]<br/>- Because <span class=\"math\" data-latex=\"s \\propto \\lambda\"></span>, smaller wavelength → smaller fringe separation<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Doubling <span class=\"math\" data-latex=\"d\"></span> halves the fringe spacing: <span class=\"math\" data-latex=\"s\"></span> decreases<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Increased <span class=\"math\" data-latex=\"d\"></span> may reduce overlap of diffracted waves, decreasing contrast or visibility<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Coherent light means constant phase difference and same frequency<br/>[1 mark]<br/>- Needed for stable interference pattern to form over time<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A double-slit experiment is performed using monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda = 600\\ \\text{nm}\"></span>. The two slits are separated by <span class=\"math\" data-latex=\"d = 0.25\\ \\text{mm}\"></span>, and the screen is placed <span class=\"math\" data-latex=\"D = 1.5\\ \\text{m}\"></span> from the slits.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the separation between adjacent bright fringes on the screen.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The experiment is repeated using light of shorter wavelength.\nPredict and explain the effect this has on the fringe pattern.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the effect of doubling the slit separation on the fringe spacing.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest one practical reason why increasing slit separation might reduce the visibility of the interference pattern.<p>[1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain why coherent light is necessary in a double-slit interference experiment.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

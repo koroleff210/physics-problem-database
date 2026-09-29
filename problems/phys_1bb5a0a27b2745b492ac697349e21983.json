@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/708bcd1d9fbc8ac12220da096d0ada408adc09749e1628f1a7c6e58a120be9d5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "708bcd1d9fbc8ac12220da096d0ada408adc09749e1628f1a7c6e58a120be9d5"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_1bb5a0a27b2745b492ac697349e21983",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical blocks, X and Y, each of mass 2.0 kg are connected by a string. They move on the same surface.</p>\n<p>A force F accelerates the blocks at 0.5 m s<sup>−2</sup>. The frictional force on block X is 4.0 N.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the tension in the string?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1 N</li><li data-label=\"B\">2 N</li><li data-label=\"C\">5 N</li><li data-label=\"D\">10 N</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

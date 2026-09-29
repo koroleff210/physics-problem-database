@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e81b4bb4e2b7846ae8d57eff6c0621228908f44d8bbe3bd8c89edaf8853bdabd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e81b4bb4e2b7846ae8d57eff6c0621228908f44d8bbe3bd8c89edaf8853bdabd"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/76b5de8dde8fa31e33761a617b72a8787b71d2b6f6246ee5c543835459094216.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "76b5de8dde8fa31e33761a617b72a8787b71d2b6f6246ee5c543835459094216"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/debc931c76898b1bbd6c1a4a8dcfa3b357b8d65b0ea240c1d1dc7f10652d9f02.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "debc931c76898b1bbd6c1a4a8dcfa3b357b8d65b0ea240c1d1dc7f10652d9f02"
+    }
+  ],
+  "classes": [
+    "D.1",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_a55e519e62354ca3b1a6cf20f165c0d4",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a\"><p><strong>12a</strong></p><p></p>\n<p>Since the particle’s velocity does not change, the net force on the particle is zero as it is moving through the field. </p>\n<p>This means that the gravitational force and the electromagnetic force that act on the particle are equal in magnitude and point in opposite directions, therefore the direction of the electromagnetic force on the particle is upwards.</p>\n<p>Based on the above and using Fleming’s left-hand rule we get that the direction of the ‘conventional’ current (so the direction in which positive charge would move) is to the left. </p>\n<p>Therefore the charge on the particle is negative.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b\"><p><strong>12b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{g} = F_{e}\"></span></p>\n<p><span class=\"math\" data-latex=\"mg = QvB\"></span></p>\n<p><span class=\"math\" data-latex=\"mg = Q \\times \\frac{L}{t} \\times B\"></span></p>\n<p><span class=\"math\" data-latex=\"L = \\frac{mgt}{BQ}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12c\"><p><strong>12c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"B = \\frac{mg}{Qv} = \\frac{\\left ( 6000 \\times 1.673 \\times 10^{-27} \\right )\\left ( 9.81 \\right )}{\\left ( 11 \\times 1.6 \\times 10^{-19} \\right )(230)} \\approx 2.4 \\times 10^{-7}\"></span> T or <span class=\"math\" data-latex=\"240\"></span> nT</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12d\"><p><strong>12d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Particle P of mass <span class=\"math\" data-latex=\"m\"></span> and charge <span class=\"math\" data-latex=\"Q\"></span> is travelling with horizontal constant velocity <span class=\"math\" data-latex=\"v\"></span> to the right and enters a region where a uniform gravitational and a uniform magnetic field are present. The direction of the gravitational field is vertically downwards and the direction of the magnetic field is out of the page. The strength of the magnetic field is <span class=\"math\" data-latex=\"B\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The velocity of the particle is unchanged as it enters the field. </p>\n<p>a. State and explain the charge of the particle.</p>\n<p>  [3]</p>\n<p>It takes <span class=\"math\" data-latex=\"t\"></span> seconds for particle P to travel through the magnetic field. The length of the field is <span class=\"math\" data-latex=\"L\"></span>.</p>\n<p>b. Show that <span class=\"math\" data-latex=\"L = \\frac{mgt}{BQ}\"></span></p>\n<p>   [2]</p>\n<p>The following data is given about particle P:</p>\n<p></p>\n<p>Mass: <span class=\"math\" data-latex=\"6000m_{p}\"></span></p>\n<p>Magnitude of charge: <span class=\"math\" data-latex=\"11e\"></span></p>\n<p>Speed: <span class=\"math\" data-latex=\"0.23\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p>\n<p>c. Determine <span class=\"math\" data-latex=\"B\"></span>. </p>\n<p>   [2]</p>\n<p>A neutron enters the same region moving with the same initial velocity as particle P.</p>\n<p>d. On the diagram, sketch the path of the neutron as it moves through the region.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

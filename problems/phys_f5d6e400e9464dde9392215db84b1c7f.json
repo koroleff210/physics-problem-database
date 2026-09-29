@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f5d6e400e9464dde9392215db84b1c7f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The force per unit length between two long parallel current-carrying wires is F.</p>\n<p>The distance between the wires is halved and the current in each wire is doubled. What is the force per unit length of the wires after the change?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">F</li><li data-label=\"B\">2F</li><li data-label=\"C\">4F</li><li data-label=\"D\">8F</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

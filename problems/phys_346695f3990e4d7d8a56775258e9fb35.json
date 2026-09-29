@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_346695f3990e4d7d8a56775258e9fb35",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An air conditioner is installed inside a sealed container. </p>\n<p>What is true about the entropy of the container?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">It decreases.</li>\n<li data-label=\"B\">It increases.</li>\n<li data-label=\"C\">It does not change.</li>\n<li data-label=\"D\">It is zero.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

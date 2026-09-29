@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_d4c4b0eeb77441d48f435c5ed43c5c8c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Kepler’s Third law relates the orbital period <span class=\"math\" data-latex=\"T\"></span> of a planet about its sun to its orbital radius <span class=\"math\" data-latex=\"r\"></span>. The mass of the Sun is <span class=\"math\" data-latex=\"M\"></span>.</p>\n<p>What is a correct algebraic form of the law?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"T = \\frac{2 π {r}^{1.5}}{{( G M )}^{0.5}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"T = \\frac{2 π {r}^{1.5}}{G M}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"T = \\frac{4 π {r}^{0.67}}{{( G M )}^{2}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"T = \\frac{4 π {r}^{0.67}}{G M}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

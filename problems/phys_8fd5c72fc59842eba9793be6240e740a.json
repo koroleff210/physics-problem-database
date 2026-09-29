@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ae6ca334c4813d58ba8cbf022daaf2e92ca5694608be639f5dcc0c6e1e3f420e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ae6ca334c4813d58ba8cbf022daaf2e92ca5694608be639f5dcc0c6e1e3f420e"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_8fd5c72fc59842eba9793be6240e740a",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The spacetime diagram shows coordinate axes of reference frames of Earth (x, ct) and of a spaceship (x', ct'). Three events P, Q and R are plotted.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement is correct about the order of the events according to an observer on the spaceship?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">P and Q are simultaneous, R happens later.</li><li data-label=\"B\">Q and R are simultaneous, P happens earlier.</li><li data-label=\"C\">Q and R are simultaneous, P happens later.</li><li data-label=\"D\">P and R are simultaneous, Q happens earlier.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

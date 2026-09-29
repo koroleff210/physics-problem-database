@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_a4928c8ec86b4984bad39f9284b2ac77",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following statements is true regarding the speed of gas molecules at higher temperatures?</p><ol class=\"mcq-options\"><li data-label=\"A\">The average speed of gas molecules decreases.</li><li data-label=\"B\">The average speed of gas molecules remains the same.</li><li data-label=\"C\">The average speed of gas molecules increases.</li><li data-label=\"D\">The average speed of gas molecules depends only on volume.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

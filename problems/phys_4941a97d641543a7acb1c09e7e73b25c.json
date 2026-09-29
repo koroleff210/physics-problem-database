@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b617773e2fa5fefa58b728e2189f483d4e69ee20eea1a037c0c2a2e639a0132d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b617773e2fa5fefa58b728e2189f483d4e69ee20eea1a037c0c2a2e639a0132d"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_4941a97d641543a7acb1c09e7e73b25c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student carries out a photoelectric experiment using two different beams of light. When the beams are incident on a metal surface, electrons are emitted from the surface and travel through a variable potential difference between two plates. As the potential difference between the plates is increased, the current between the plates is measured. The graph shows how the current varies with potential difference for the two beams.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following statements is correct about the beams?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Both beams have the same frequency and the same intensity.</li>\n<li data-label=\"B\">The beams have different frequencies, but the same intensity.</li>\n<li data-label=\"C\">The beams have the same frequency, but different intensities.</li>\n<li data-label=\"D\">The beams have different frequencies and different intensities.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

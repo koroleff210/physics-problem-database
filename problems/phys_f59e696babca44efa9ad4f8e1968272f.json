@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/00664c62492af8f868f972aab455e556cecb4e0438016b08a3666a559643742a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "00664c62492af8f868f972aab455e556cecb4e0438016b08a3666a559643742a"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c2798ed4739374d1ff788db26d07f9783714607a1a328dea0244a132d59a26dc.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c2798ed4739374d1ff788db26d07f9783714607a1a328dea0244a132d59a26dc"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_f59e696babca44efa9ad4f8e1968272f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle oscillates with simple harmonic motion (SHM). The graph shows how the acceleration of the particle varies with time.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>Which graph shows how the velocity of the particle varies with time?</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

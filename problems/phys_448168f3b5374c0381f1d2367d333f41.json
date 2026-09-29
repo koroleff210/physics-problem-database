@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_448168f3b5374c0381f1d2367d333f41",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What shape are the field lines in a uniform electric field between two parallel plates?</p><ol class=\"mcq-options\"><li data-label=\"A\">Curved outward</li><li data-label=\"B\">Circular</li><li data-label=\"C\">Random</li><li data-label=\"D\">Straight and parallel</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

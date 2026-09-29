@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_f881f3a69cc6432d82594f26991e4ce3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam of electrons travels in a region with perpendicular electric and magnetic fields. The electric field is <span class=\"math\" data-latex=\"200\\ \\mathrm{V\\ m}^{-1}\"></span> and the magnetic field is <span class=\"math\" data-latex=\"0.50\\ \\mathrm{mT}\"></span>. What is the speed of the electrons if they move undeflected?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^3\\ \\mathrm{m\\ s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.0 \\times 10^4\\ \\mathrm{m\\ s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0 \\times 10^5\\ \\mathrm{m\\ s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0 \\times 10^5\\ \\mathrm{m\\ s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

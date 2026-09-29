@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_bec08ef2b6d0474c8c1e4e0576be0a8c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the Bohr model for the hydrogen atom, what is <span class=\"math\" data-latex=\"\\frac{\\textit{angular momentum of first excited state}}{\\textit{angular momentum of ground state}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

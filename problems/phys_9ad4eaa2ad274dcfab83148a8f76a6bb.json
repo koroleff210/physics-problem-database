@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_9ad4eaa2ad274dcfab83148a8f76a6bb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The first law of thermodynamics</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">involves the concept of entropy.</li>\n<li data-label=\"B\">states that the internal energy of an ideal gas consists only of potential energy.</li>\n<li data-label=\"C\">is the law of conservation of energy applied to thermodynamics.</li>\n<li data-label=\"D\">claims that when a gas expands adiabatically, its temperature increases.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

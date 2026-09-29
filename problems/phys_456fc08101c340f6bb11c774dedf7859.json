@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5f1d35cdbd1eee21411881b984deba5701c029b348205468fe67d3fd53d86905.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5f1d35cdbd1eee21411881b984deba5701c029b348205468fe67d3fd53d86905"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_456fc08101c340f6bb11c774dedf7859",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Calculate maximum flux using <span class=\"math\" data-latex=\"\\Phi = BA\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\Phi = 0.80 \\times (0.15)^2 = 0.018 \\text{ Wb}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use the formula for motional emf <span class=\"math\" data-latex=\"\\mathcal{E} = BvL\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\mathcal{E} = 0.80 \\times 0.50 \\times 0.15 = 0.060 \\text{ V}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate the induced current using <span class=\"math\" data-latex=\"I = \\frac{\\mathcal{E}}{R}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"I = \\frac{0.060}{2.0} = 0.030 \\text{ A}\"></span> [1 mark]</p>\n<p>- Calculate the magnetic force (and thus required external force) using <span class=\"math\" data-latex=\"F = BIL\"></span>:</p>\n<p><span class=\"math\" data-latex=\"F = 0.80 \\times 0.030 \\times 0.15 = 3.6 \\times 10^{-3} \\text{ N}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Draw graph with a constant positive current for <span class=\"math\" data-latex=\"0.3 \\text{ s}\"></span>, zero current until <span class=\"math\" data-latex=\"0.9 \\text{ s}\"></span>, and a constant negative current from <span class=\"math\" data-latex=\"0.9 \\text{ s}\"></span> to <span class=\"math\" data-latex=\"1.2 \\text{ s}\"></span> [1 mark]</p>\n<p>- Correct time axis labeling: <span class=\"math\" data-latex=\"t_1 = \\frac{0.15}{0.50} = 0.3 \\text{ s}\"></span> (entry ends); <span class=\"math\" data-latex=\"t_2 = \\frac{0.45}{0.50} = 0.9 \\text{ s}\"></span> (exit starts); <span class=\"math\" data-latex=\"t_3 = \\frac{0.45+0.15}{0.50} = 1.2 \\text{ s}\"></span> (exit ends) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- State that as the loop enters, flux changes and an induced current is produced [1 mark]</p>\n<p>- Use Lenz’s law: the induced current creates a magnetic force that opposes the change/motion of the loop [1 mark]</p>\n<p>- State that work must be done by an external force to overcome this opposition and provide energy for the thermal/electrical dissipation in the resistor [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A square conducting loop of side length <span class=\"math\" data-latex=\"L = 0.15 \\text{ m}\"></span> and total resistance <span class=\"math\" data-latex=\"R = 2.0 \\ \\Omega\"></span> moves with a constant velocity <span class=\"math\" data-latex=\"v = 0.50 \\text{ ms}^{-1}\"></span> into a region of uniform magnetic field <span class=\"math\" data-latex=\"B = 0.80 \\text{ T}\"></span>, as shown in the diagram. The magnetic field region has a total horizontal width <span class=\"math\" data-latex=\"w = 0.45 \\text{ m}\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the maximum magnetic flux through the loop when it is completely inside the magnetic field.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the magnitude of the induced electromotive force (emf) in the loop as its leading edge enters the magnetic field.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the magnitude of the external force required to keep the loop moving at a constant velocity <span class=\"math\" data-latex=\"v\"></span> while it is entering the magnetic field.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Sketch a graph showing the variation of the induced current <span class=\"math\" data-latex=\"I\"></span> with time <span class=\"math\" data-latex=\"t\"></span> from the moment the leading edge enters the field until the trailing edge leaves the field. Clearly label the time values on the axis.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain, with reference to Lenz’s law and conservation of energy, why an external force is necessary to maintain the constant speed of the loop as it enters the magnetic field.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_90e76dcba72f4ea69f8027781a3f328c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Jim runs with a constant velocity <span class=\"math\" data-latex=\"v\"></span> past Sally who is at rest. At this instant, Sally begins to chase Jim with constant acceleration <span class=\"math\" data-latex=\"a\"></span>.</p>\n<p>Which expression gives the time Sally will catch Jim?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{v}{2a}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{v}{a}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2v}{a}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4v}{a}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

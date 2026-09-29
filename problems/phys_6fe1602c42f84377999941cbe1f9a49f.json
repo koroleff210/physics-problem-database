@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_6fe1602c42f84377999941cbe1f9a49f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron and an antineutrino are emitted in:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\alpha\"></span> decay</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\beta ^{-}\"></span> decay</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\beta ^{+}\"></span> decay</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\gamma\"></span> decay</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

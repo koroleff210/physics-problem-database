@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/afd3214079ce2f851c28e06f1e315a4a091cad929213d7df0c8942edefc90ecb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "afd3214079ce2f851c28e06f1e315a4a091cad929213d7df0c8942edefc90ecb"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/604d7832d7d172081d05cb5b1254913fb17dfefe4ef0d50348554450ad8e2592.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "604d7832d7d172081d05cb5b1254913fb17dfefe4ef0d50348554450ad8e2592"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.3",
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_d743e264af1540cb9a7575ab2650f679",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p></p>\n<p>The work done when disassembling a nucleus into its constituent nucleons.</p>\n<p>OR</p>\n<p>The energy released when nucleons form a nucleus.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b(i)\"><p><strong>10b(i)</strong></p><p></p>\n<p>Converting all energy values into MeV:</p>\n<p>Alpha-particle: <span class=\"math\" data-latex=\"7.0752\"></span> MeV</p>\n<p>Energy released during decay: <span class=\"math\" data-latex=\"\\frac{7.7991 \\times 10^{-13}}{1.6 \\times 10^{-19}} \\approx 4874400\"></span> eV <span class=\"math\" data-latex=\"= 4.8744\"></span> MeV</p>\n<p>Total binding energy of radium-226: <span class=\"math\" data-latex=\"1708.179 + 4 \\times 7.0752 - 4.8744 = 1731.6054\"></span> MeV</p>\n<p>Binding energy per nucleon for radium-226 <span class=\"math\" data-latex=\"= \\frac{1731.6054}{226} \\approx 7.6620\"></span> MeV</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b(ii)\"><p><strong>10b(ii)</strong></p><p></p>\n<p></p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b(iii)\"><p><strong>10b(iii)</strong></p><p></p>\n<p>Plotted on the graph to the right of and lower than the <span class=\"math\" data-latex=\"_{26}^{56}Fe\"></span> nucleus. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c\"><p><strong>10c</strong></p><p></p>\n<p>The atom consists of a nucleus and electrons that orbit this nucleus.</p>\n<p>The nucleus contains most of the atom’s mass and is positively charged.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stationary radium-226 nucleus decays into a radon-222 nucleus through alpha-decay. </p>\n<p>We are given the following data about this decay:</p>\n<p></p>\n<p>Total binding energy of radon-222 nucleus: 1708.179 MeV</p>\n<p>Binding energy per nucleon for alpha-particle: 7075.2 keV</p>\n<p>Energy released during the decay: <span class=\"math\" data-latex=\"7.7991 \\times 10^{-13}\"></span> J</p>\n<p></p>\n<p></p>\n<p>a. State what is meant by the binding energy of a nucleus.</p>\n<p>  [1]</p>\n<p>b.</p>\n<p>i. Calculate the binding energy per nucleon for the radium-226 nucleus.</p>\n<p>  [4]</p>\n<p>ii. The dot on the diagram shows A, the nucleon number and E, the binding energy per nucleon of the <span class=\"math\" data-latex=\"_{26}^{56}Fe\"></span> nuclide. Sketch a graph to show how binding energy per nucleon varies with nucleon number.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [2]</p>\n<p>iii. Plot, on the diagram in part (b) (ii), the position of the radium-226 nucleus.</p>\n<p>  [1]</p>\n<p>c. Through alpha-particle scattering experiments, Rutherford was able to construct a model of the atom. Outline this model.</p>\n<p>  [2]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

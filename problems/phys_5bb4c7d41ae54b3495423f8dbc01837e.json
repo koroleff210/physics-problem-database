@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5bb4c7d41ae54b3495423f8dbc01837e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solar panel has a surface area of 0.20 m<sup>2</sup>. The efficiency of the solar panel is 30 %. At one instant the radiation intensity at normal incidence to the panel is 0.15 kJ m<sup>-2</sup> s<sup>-1</sup>.</p>\n<p>What is the power output of the panel?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">9.0 mW</li><li data-label=\"B\">30 mW</li><li data-label=\"C\">9.0 W</li><li data-label=\"D\">30 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

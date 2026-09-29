@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b63ffa9120eb41ff954b9df17fc2093a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of a nucleus of a particular nuclide X is 4.8 fm.</p>\n<p>What is the nucleon number of X?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">48</li><li data-label=\"B\">64</li><li data-label=\"C\">128</li><li data-label=\"D\">148</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_cc022cca391d40b5952943d447833f60",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of Mars is about ten times that of the Moon. The radius of Mars is about twice that of the Moon.</p>\n<p>What is the <span class=\"math\" data-latex=\"\\frac{\\textit{escape speed from Mars}}{Moon}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{5}\"></span></li><li data-label=\"B\">2<span class=\"math\" data-latex=\"\\sqrt{5}\"></span></li><li data-label=\"C\">5</li><li data-label=\"D\">25</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b25a6bb30caf48c581ace0949f3b75ce",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spring with spring constant <span class=\"math\" data-latex=\"k = 300\\ \\text{N m}^{-1}\"></span> is compressed by <span class=\"math\" data-latex=\"0.20\\ \\text{m}\"></span> and used to launch a <span class=\"math\" data-latex=\"2.0\\ \\text{kg}\"></span> cart along a horizontal surface with <span class=\"math\" data-latex=\"20\\%\"></span> of the energy lost due to friction. What is the final speed of the cart?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.2\\ \\text{m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.5\\ \\text{m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.0\\ \\text{m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"5.5\\ \\text{m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

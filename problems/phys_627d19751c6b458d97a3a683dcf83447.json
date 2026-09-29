@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_627d19751c6b458d97a3a683dcf83447",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two kilograms of a liquid is heated during 9 minutes, using a 400 W heater without energy losses and without phase change. The specific heat capacity of the liquid is 5.4 kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span>. </p>\n<p>What is the temperature change of the liquid?</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">0.33 K</li>\n<li data-label=\"B\">2.0 K</li>\n<li data-label=\"C\">20 K</li>\n<li data-label=\"D\">33 K</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

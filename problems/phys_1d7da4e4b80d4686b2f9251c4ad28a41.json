@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_1d7da4e4b80d4686b2f9251c4ad28a41",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sample of the artificial element Seaborgium-265 (Sg-265) is created with 4.0 × 10<sup>22</sup> atoms. Sg-265 has a half-life of 15 s. How many atoms of Sg-265 remain after one minute?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.5 × 10<sup>21</sup></li><li data-label=\"B\">5.0 × 10<sup>21</sup></li><li data-label=\"C\">1.0 × 10<sup>22</sup></li><li data-label=\"D\">2.0 × 10<sup>22</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

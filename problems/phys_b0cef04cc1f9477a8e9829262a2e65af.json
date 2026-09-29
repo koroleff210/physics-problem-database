@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b0cef04cc1f9477a8e9829262a2e65af",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following would increase the electric field strength between two charged parallel plates?</p><ol class=\"mcq-options\"><li data-label=\"A\">Increasing the plate separation</li><li data-label=\"B\">Decreasing the potential difference</li><li data-label=\"C\">Increasing the potential difference</li><li data-label=\"D\">Reversing the polarity of the plates</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1ccc3ba1a5a006d11f558495951907e99a927db3ecb41ef2fe2a7f57c1083485.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1ccc3ba1a5a006d11f558495951907e99a927db3ecb41ef2fe2a7f57c1083485"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ab13f75964d58644e23ab88e7297838b2f458220db1dfd87d8b3eaff504a0a24.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ab13f75964d58644e23ab88e7297838b2f458220db1dfd87d8b3eaff504a0a24"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_cdc2f8d1b85b4444b7cdd9aa07787a14",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>there is a magnetic flux «linkage» in the coil / coil cuts magnetic field ✓ this flux «linkage» changes as the angle varies/coil rotates ✓ «Faraday’s law» connects induced emf with rate of change of flux «linkage» with time ✓ <br/>Do not award MP2 or 3 for answers that don’t discuss flux.</p></section><section class=\"markscheme-part\" data-label=\"b(i)\"><p><strong>b(i)</strong></p><p><span class=\"math\" data-latex=\"V_{rms}=\\frac{25\\times 10^{3}}{\\sqrt{2}}=17.7\\times 10^{3} V\"></span> ✓   <span class=\"math\" data-latex=\"I_{rms}=\\frac{8.5\\times 10^{5}}{17.7\\times 10^{3}}=48 A\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b(ii)\"><p><strong>b(ii)</strong></p><p>«power loss proportional to <span class=\"math\" data-latex=\"I^{2}\"></span> hence the step-up factor is <span class=\"math\" data-latex=\"\\sqrt{2.5\\times 10^{2}} 16\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b(iii)\"><p><strong>b(iii)</strong></p><p>peak emf doubles ✓ <span class=\"math\" data-latex=\"T\"></span> halves ✓ <br/>Must show at least 1 cycle.</p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram shows an alternating current generator with a rectangular coil rotating at a constant frequency in a uniform magnetic field.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows how the generator output voltage <span class=\"math\" data-latex=\"V\"></span> varies with time <span class=\"math\" data-latex=\"t\"></span>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Electrical power produced by the generator is delivered to a consumer some distance away.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain, by reference to Faraday’s law of induction, how an electromotive force (emf) is induced in the coil. [3]</p></section><section class=\"question-part\" data-label=\"b(i)\"><p><strong>b(i)</strong> The average power output of the generator is <span class=\"math\" data-latex=\"8.5\\times 10^{5} W\"></span>. Calculate the root mean square (rms) value of the generator output current. [2]</p></section><section class=\"question-part\" data-label=\"b(ii)\"><p><strong>b(ii)</strong> The voltage output from the generator is stepped up before transmission to the consumer. Estimate the factor by which voltage has to be stepped up in order to reduce power loss in the transmission line by a factor of <span class=\"math\" data-latex=\"2.5\\times 10^{2}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b(iii)\"><p><strong>b(iii)</strong> The frequency of the generator is doubled with no other changes being made. Draw, on the axes, the variation with time of the voltage output of the generator. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

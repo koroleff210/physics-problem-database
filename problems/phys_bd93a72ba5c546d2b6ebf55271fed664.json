@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/215912dc8be7a94d60bf9b13a1c894929b9a054b7d415a8a0862c0790c6eefc3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "215912dc8be7a94d60bf9b13a1c894929b9a054b7d415a8a0862c0790c6eefc3"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_bd93a72ba5c546d2b6ebf55271fed664",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALT 1 Use of pV = nRT to get T<sub>B</sub> = 1200 «K» AND <span class=\"math\" data-latex=\"P_{C}=\"></span>«<span class=\"math\" data-latex=\"\\frac{{P}_{A} {{V}_{A}}^{\\frac{5}{3}}}{{{V}_{C}}^{\\frac{5}{3}}} = \\frac{( 2 \\times  {10}^{6} ) {( 1 \\times  {10}^{- 3} )}^{\\frac{5}{3}}}{{( 1 \\times  {10}^{- 2} )}^{\\frac{5}{3}}} =\"></span>»<span class=\"math\" data-latex=\"43 089\"></span>«<span class=\"math\" data-latex=\"Pa\"></span>» ✓ T<sub>C</sub> = 4.3×10<sup>4</sup>×1200/2.0×10<sup>5</sup> OR T<sub>C</sub> = 258 «K» ✓ ALT 2 <span class=\"math\" data-latex=\"P_{C}=\"></span>«<span class=\"math\" data-latex=\"\\frac{{P}_{A} {{V}_{A}}^{\\frac{5}{3}}}{{{V}_{C}}^{\\frac{5}{3}}} = \\frac{( 2 \\times  {10}^{6} ) {( 1 \\times  {10}^{- 3} )}^{\\frac{2}{3}}}{{( 1 \\times  {10}^{- 2} )}^{\\frac{2}{3}}} =\"></span>»<span class=\"math\" data-latex=\"43 089\"></span>«<span class=\"math\" data-latex=\"Pa\"></span>» ✓ Use of p<sub>C</sub>V<sub>C</sub> = nRT<sub>C</sub> = (43 089)(1×10<sup>−2</sup>) = (0.2)(8.31) T<sub>C</sub> OR T<sub>C</sub> = 259 «K» ✓   Must see full substitution OR answer to 3 (or more) significant figures.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of ΔU = −3/2 n R ΔT ✔ W = «(3/2)(0.2)(8.31)(1200−259) » = «−»2350 «J» ✔</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>work done by the gas in the isothermal process is larger ✓ net work is done by the gas ✓ net/total work is positive ✓ work done by the gas is greater than work done on the gas ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The pressure–volume diagram shows a 3-stage cyclic process of 0.20 moles of an ideal gas in a closed container. A–B is an isothermal process. C–A is an adiabatic process.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The following data are available:</p>\n<table><tbody><tr><td></td><td><p>Pressure at A</p></td><td><p>= 2.0 × 10<sup>6</sup> Pa</p></td></tr><tr><td></td><td><p>Volume at A</p></td><td><p>= 1.0 × 10<sup>−3</sup> m<sup>3</sup></p></td></tr><tr><td></td><td><p>Pressure at B</p></td><td><p>= 2.0 × 10<sup>5</sup> Pa</p></td></tr><tr><td></td><td><p>Volume at B</p></td><td><p>= 1.0 × 10<sup>−2</sup> m<sup>3</sup></p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the temperature at C is about 260 K. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the work done by the gas in C–A. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Outline why this cycle can be used for a heat engine. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

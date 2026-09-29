@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c92f61bcdc4d4a0bc08a60f5ae6f1fc13f53c3d4f7efd77ccf356d0bfde047c2.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c92f61bcdc4d4a0bc08a60f5ae6f1fc13f53c3d4f7efd77ccf356d0bfde047c2"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_9d8a80e9eb5948bb9e1c287173427f51",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two long, parallel vertical wires, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are separated by a distance <span class=\"math\" data-latex=\"d\"></span> and carry currents of <span class=\"math\" data-latex=\"I\"></span> and <span class=\"math\" data-latex=\"3I\"></span> respectively in opposite directions as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The magnetic force exerted by wire <span class=\"math\" data-latex=\"X\"></span> on wire <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"F\"></span> to the right. What is the magnetic force exerted by wire <span class=\"math\" data-latex=\"Y\"></span> on wire <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"F\"></span> to the left</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"F\"></span> to the right</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3F\"></span> to the left</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3F\"></span> to the right</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

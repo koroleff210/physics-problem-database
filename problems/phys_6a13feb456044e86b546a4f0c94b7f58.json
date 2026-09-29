@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_6a13feb456044e86b546a4f0c94b7f58",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the primary wavelength range absorbed and re-emitted by greenhouse gases?</p><ol class=\"mcq-options\"><li data-label=\"A\">Ultraviolet</li><li data-label=\"B\">Visible</li><li data-label=\"C\">Infrared</li><li data-label=\"D\">Microwave</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

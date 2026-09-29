@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/105004e036f4ebe2deff90149455c5682e14a84ebe1f84f97b76301419723155.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "105004e036f4ebe2deff90149455c5682e14a84ebe1f84f97b76301419723155"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/b606972618fba4a25f9bd72e4eec3cb65322a92c32bd0003780019f58881207f.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b606972618fba4a25f9bd72e4eec3cb65322a92c32bd0003780019f58881207f"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/9ce7bc44a909eb29f1f761438c099449c407685629417c4f560f4306a7a1a664.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9ce7bc44a909eb29f1f761438c099449c407685629417c4f560f4306a7a1a664"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/c80103c02a329329c60416fccc65e9c6cd98c008f2ed6c4ea21eae3df36c954a.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c80103c02a329329c60416fccc65e9c6cd98c008f2ed6c4ea21eae3df36c954a"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_3b65d039a4e94213831fa27e8d01376c",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>In a transverse wave the displacement of the medium is perpendicular to the direction of wave propagation/energy transfer.</p>\n<p>In a longitudinal wave the displacement of the medium is parallel to the direction of wave propagation/energy transfer.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p>Wavelength of the wave: <span class=\"math\" data-latex=\"\\lambda = \\frac{1.95}{2.5} = 0.780\"></span> m</p>\n<p><span class=\"math\" data-latex=\"v = f \\lambda = \\frac{\\lambda}{T} = \\frac{0.780}{1.62} \\approx 0.481\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Answer must be given to 3 significant figures in order to earn final mark.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A pulse is travelling on a string that has one end fixed to a wall.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When the pulse reaches the wall, it is reflected. </p>\n<p>a. Sketch the pulse after it has been reflected at the wall.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [1]</p>\n<p>The end of the string is vibrated vertically so that a transverse wave travels through the string. The time period of the vibrations is <span class=\"math\" data-latex=\"1.62\"></span> s. The length of the string is <span class=\"math\" data-latex=\"1.95\"></span> m.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>b. Distinguish between a transverse and a longitudinal travelling wave.</p>\n<p>   [2]</p>\n<p>c. Calculate the speed of the wave. Give your answer to an appropriate number of significant figures.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

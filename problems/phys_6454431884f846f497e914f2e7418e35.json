@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_6454431884f846f497e914f2e7418e35",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes an adiabatic process?</p><ol class=\"mcq-options\"><li data-label=\"A\">No heat is transferred into or out of the system</li><li data-label=\"B\">The temperature remains constant</li><li data-label=\"C\">The volume of the gas is constant</li><li data-label=\"D\">The pressure of the gas is constant</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

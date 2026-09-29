@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d64db0e73d1d4832a99c82c44323584b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass 6.0 kg is accelerated horizontally from rest in 4.0 s to reach a speed of 10 m s<sup>−1</sup>.</p>\n<p>What is the average power delivered to the object?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">7.5 W</li><li data-label=\"B\">15 W</li><li data-label=\"C\">75 W</li><li data-label=\"D\">150 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

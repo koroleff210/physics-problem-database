@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_0eb516e1388a45d6b8c1216709351842",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object moves with simple harmonic motion. The acceleration of the object is</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">constant.</li><li data-label=\"B\">always directed away from the centre of the oscillation.</li><li data-label=\"C\">a maximum at the centre of the oscillation.</li><li data-label=\"D\">a maximum at the extremes of the oscillation.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

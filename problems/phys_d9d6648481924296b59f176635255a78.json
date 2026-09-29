@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0eabe6dec0d7eff428ff4ae96586f739599f0f547de8719d9e0b4e5b4244644f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0eabe6dec0d7eff428ff4ae96586f739599f0f547de8719d9e0b4e5b4244644f"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_d9d6648481924296b59f176635255a78",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the displacement of a particle in a travelling wave varies with time. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the amplitude and the frequency of the particle’s oscillation?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Amplitude</strong></p>\n</td>\n<td>\n<p><strong>Frequency</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"0.005\"></span> m</td>\n<td><span class=\"math\" data-latex=\"40\"></span> Hz</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"0.010\"></span> m</td>\n<td><span class=\"math\" data-latex=\"40\"></span> Hz</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"0.005\"></span> m</td>\n<td><span class=\"math\" data-latex=\"25\"></span> Hz</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"0.010\"></span> m</td>\n<td><span class=\"math\" data-latex=\"25\"></span> Hz</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

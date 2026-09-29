@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bbaca23e9a2554422fa3373cfc8c73e0418812eda1e97a266668c24f20677a3c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bbaca23e9a2554422fa3373cfc8c73e0418812eda1e97a266668c24f20677a3c"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e827719d6ce646eeb15ea750c302c43f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A constant force <span class=\"math\" data-latex=\"F\"></span> acts at point <span class=\"math\" data-latex=\"A\"></span> on a circular disc, initially at rest,  during <span class=\"math\" data-latex=\"t\"></span> seconds and causes the disc to rotate about its centre. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The angle between <span class=\"math\" data-latex=\"F\"></span> and the tangent to the circle at <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"60^{\\circ}\"></span>. The moment of inertia of the disc is <span class=\"math\" data-latex=\"I = \\frac{1}{2}MR^{2}\"></span>, where <span class=\"math\" data-latex=\"M\"></span> is the mass and <span class=\"math\" data-latex=\"R\"></span> is the radius of the disc.</p>\n<p>What is the angular velocity of the disc after <span class=\"math\" data-latex=\"t\"></span> seconds?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Ft}{MR}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{2}Ft}{MR}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{Ft}{\\sqrt{2}MR}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2Ft}{MR}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

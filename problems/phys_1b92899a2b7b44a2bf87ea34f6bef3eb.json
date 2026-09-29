@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7a8f70a9219237dd725bc858a34627855cb6fae0150f8fe666f46d7aa80ae635.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7a8f70a9219237dd725bc858a34627855cb6fae0150f8fe666f46d7aa80ae635"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/91b6921de6854ad3f6327abae233249761ca127cbf67db3a36225615f956cee4.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "91b6921de6854ad3f6327abae233249761ca127cbf67db3a36225615f956cee4"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1b92899a2b7b44a2bf87ea34f6bef3eb",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/><br/> v<sub>water</sub> = 2.0×10<sup>8</sup>×<span class=\"math\" data-latex=\"\\frac{sin 71 ^{∘}}{sin 55 ^{∘}}\"></span> ✔</p>\n<p>2.3×10<sup>8</sup> «m s<sup>−1</sup>» ✔</p>\n<p>Any answer to 2 s.f. ✔</p>\n<p>Use of Snell’s Law for MP1 Award [3] for BCA</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>speed increases AND frequency unchanged ✔ «from λ = <span class=\"math\" data-latex=\"\\frac{c}{f}\"></span> » the wavelength increases ✔</p>\n<p>The light ray is partly reflected from the glass–water boundary.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ray at a correct angle by eye to the normal ✔</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The water is removed and replaced with air. The refractive index of air is 1.0. The direction of the incident light ray in the glass is unchanged.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>refractive index of glass =« <span class=\"math\" data-latex=\"\\frac{3.0 \\times 10^{8}}{2.0 \\times  10^{8}}\"></span> =»1.5 OR</p>\n<p>speed of light in air = 3.0×10<sup>8</sup> «m s<sup>−1</sup>» ✔ sin θ<sub>c</sub> =<span class=\"math\" data-latex=\"\\frac{1}{1.5}\"></span>⇒ θ<sub>c</sub> = 42° ✔</p>\n<p>the angle of incidence is greater than c or θ<sub>c</sub> so no light emerges ✔</p>\n<p>Must see a reason for MP3: ‘no light emerges’ alone is not enough.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A solid block of glass is covered with water. The diagram shows the path of a monochromatic light ray entering the water from the glass block.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The speed of light in the glass is 2.0 × 10<sup>8</sup> m s<sup>−1</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the speed of light in the water. State the answer to an appropriate number of significant figures. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain the change in the wavelength of the light at the glass–water boundary. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Draw, on the diagram, the path of the reflected ray. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Determine whether light emerges from the glass block into the air. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_98c0e460279c4011922817ac910afd2d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object attached to a spring oscillates with simple harmonic motion of period <span class=\"math\" data-latex=\"T\"></span> and amplitude <span class=\"math\" data-latex=\"A\"></span>. If the mass of the object is quadrupled and the system is then set into motion with an amplitude of <span class=\"math\" data-latex=\"2A\"></span>, what is the new period of oscillation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"T\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4T\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2T\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8T\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

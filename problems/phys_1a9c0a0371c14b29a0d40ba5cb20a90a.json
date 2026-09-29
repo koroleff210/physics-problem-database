@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_1a9c0a0371c14b29a0d40ba5cb20a90a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: For a grating, maxima satisfy <span class=\"math\" data-latex=\"d\\sin\\theta=n\\lambda\"></span> with <span class=\"math\" data-latex=\"\\sin\\theta\\le 1\"></span>, so <span class=\"math\" data-latex=\"n_{\\max}=\\lfloor d/\\lambda\\rfloor\"></span>. Here <span class=\"math\" data-latex=\"d=(1\\ \\text{mm})/1000=10^{-6}\\ \\text{m}\"></span> and <span class=\"math\" data-latex=\"\\lambda=500\\ \\text{nm}=5\\times 10^{-7}\\ \\text{m}\"></span>, so <span class=\"math\" data-latex=\"d/\\lambda=2\"></span> and <span class=\"math\" data-latex=\"n_{\\max}=2\"></span>.</p>\n<p>B: This would result from incorrectly excluding the limiting case <span class=\"math\" data-latex=\"\\sin\\theta=1\"></span> (i.e. taking <span class=\"math\" data-latex=\"n&lt;d/\\lambda\"></span> rather than <span class=\"math\" data-latex=\"n\\le d/\\lambda\"></span>).</p>\n<p>C: This can result from a unit/spacing error, e.g. taking <span class=\"math\" data-latex=\"d=2\\times 10^{-6}\\ \\text{m}\"></span> or misusing the line density, which would give <span class=\"math\" data-latex=\"d/\\lambda\\approx 4\"></span>.</p>\n<p>D: This can result from confusing <span class=\"math\" data-latex=\"1000\\ \\text{lines mm}^{-1}\"></span> with <span class=\"math\" data-latex=\"1000\\ \\text{lines m}^{-1}\"></span> or otherwise failing to convert units when finding <span class=\"math\" data-latex=\"d\"></span>, leading to a grossly incorrect order.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A diffraction grating with <span class=\"math\" data-latex=\"1000\\ \\text{lines mm}^{-1}\"></span> is used with monochromatic light of wavelength <span class=\"math\" data-latex=\"500\\ \\text{nm}\"></span>. What is the maximum order <span class=\"math\" data-latex=\"n\"></span> visible?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2000\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

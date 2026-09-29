@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5e2c48f888cbee20a7db16dad2204a32e2ef1aa5de625e21af068e1bafdfd5c5.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5e2c48f888cbee20a7db16dad2204a32e2ef1aa5de625e21af068e1bafdfd5c5"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_629ffe75453c43d69df69f3970addf21",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam containing different types of radiation enters a region of a uniform magnetic field directed into the page. The paths of three components of the beam, labeled X, Y, and Z, are shown below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which row in the table correctly identifies the particles in each path?</p>\n<div class=\"table-responsive\"><table><thead><tr><th></th><th>X</th><th>Y</th><th>Z</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Alpha particle</td><td>Gamma ray</td><td>Beta particle</td></tr><tr data-label=\"B\"><td>B</td><td>Beta particle</td><td>Gamma ray</td><td>Alpha particle</td></tr><tr data-label=\"C\"><td>C</td><td>Gamma ray</td><td>Beta particle</td><td>Alpha particle</td></tr><tr data-label=\"D\"><td>D</td><td>Alpha particle</td><td>Beta particle</td><td>Gamma ray</td></tr></tbody></table></div>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

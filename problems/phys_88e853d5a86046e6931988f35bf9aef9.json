@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0c032feb98d908c82d08706b9e0e46e0423e62aac1c4b3da6a227342456bf7b8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0c032feb98d908c82d08706b9e0e46e0423e62aac1c4b3da6a227342456bf7b8"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_88e853d5a86046e6931988f35bf9aef9",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Earth emits infrared radiation (energy loss) to balance the energy absorbed [1 mark]<br/>- In the long term, radiative equilibrium is maintained when absorbed = emitted [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Greenhouse gases absorb some of the outgoing infrared radiation [1 mark]<br/>- They then re-radiate energy back toward the Earth's surface, raising the surface temperature [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Natural greenhouse gas: carbon dioxide, water vapor, or methane [1 mark]<br/>- Human activity: burning fossil fuels <span class=\"math\" data-latex=\"(\\text{CO}_2)\"></span>, agriculture or cattle farming <span class=\"math\" data-latex=\"(\\text{CH}_4)\"></span>, deforestation [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows how solar radiation interacts with the Earth's surface and atmosphere.<br/><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Outline why the Earth does not continue heating up despite continuous incident solar radiation.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain the role of greenhouse gases in affecting the Earth's surface temperature, using the diagram.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Identify one natural greenhouse gas and one human activity that increases its concentration.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

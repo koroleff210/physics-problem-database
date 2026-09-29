@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4cc4359428ae53de26b8993850e8e243cc5834e7fa8af0872a1e6f7a5d5f772e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4cc4359428ae53de26b8993850e8e243cc5834e7fa8af0872a1e6f7a5d5f772e"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_06076d4992374f29b459a081f3656fa7",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\gamma=\\frac{1}{1-0.80^{2}}=\\frac{5}{3}=1.67\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«<span class=\"math\" data-latex=\"\\Delta x ' = γ ( \\Delta x - v \\Delta t ) =\"></span>»<span class=\"math\" data-latex=\"\\frac{5}{3}\\times 1200=2000\"></span> «m» Allow ecf from 1a. Allow use of <span class=\"math\" data-latex=\"L=\\frac{L_{0}}{\\gamma}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>«<span class=\"math\" data-latex=\"\\Delta t ' = γ ( \\Delta t - \\frac{v}{{c}^{2}} \\Delta x ) =\"></span>»<span class=\"math\" data-latex=\"\\frac{5}{3}0-\\frac{0.80}{3\\times 10^{8}}\\times 1200\"></span> ✓ Δt'«−»5.3 «μs» ✓ Allow use of <span class=\"math\" data-latex=\"\\Delta t = γ \\Delta {t}_{0}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Because <span class=\"math\" data-latex=\"\\Delta t ' &lt; 0\"></span> ✓ F occurred first ✓ 2<sup>nd</sup> MP only awarded if correct interpretation of 1<sup>st</sup> MP.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A spacecraft is flying past a space station at a relative speed of 0.80c. Beacons, R and F, at each end of the space station emit light pulses at the same time according to observers on the space station. The pulses are emitted 1200 m apart as measured by space station observers.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate <span class=\"math\" data-latex=\"\\gamma\"></span> for a speed of 0.80c. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate, for the reference frame of the spacecraft,</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> the distance between the light pulses. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> the time between the light pulses. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine which light pulse happened first. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

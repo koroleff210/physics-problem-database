@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_eaa9292bf9ec4e6f8c4f6032e275c27e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The specific energy and density of four different fuels are provided in the table below.</p>\n<table><thead><tr><th>Fuel</th><th>Specific energy / <span class=\"math\" data-latex=\"MJ\\,kg^{-1}\"></span></th><th>Density / <span class=\"math\" data-latex=\"kg\\,m^{-3}\"></span></th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>24</td><td>1100</td></tr><tr data-label=\"B\"><td>B</td><td>42</td><td>550</td></tr><tr data-label=\"C\"><td>C</td><td>56</td><td>350</td></tr><tr data-label=\"D\"><td>D</td><td>22</td><td>1400</td></tr></tbody></table>\n<p>Which fuel has the highest energy density?</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

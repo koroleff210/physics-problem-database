@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_69856be6ed1a40378d6021bcfb0ad00c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is used to operate a Carnot engine. The energy transferred from the gas to the cold reservoir per cycle is <span class=\"math\" data-latex=\"6000\\:\\textup{J}\"></span> and the energy absorbed by the gas from the hot reservoir per cycle is <span class=\"math\" data-latex=\"10000\\:\\textup{J}\"></span>. The cold reservoir is kept at a constant temperature of <span class=\"math\" data-latex=\"27\\:{}^{\\circ}\\textup{C}\"></span> and the hot reservoir is kept at a constant temperature of <span class=\"math\" data-latex=\"T\\:{}^{\\circ}\\textup{C}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"T\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"45\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"68\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"230\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"480\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_3b453ba8a1cc4f349ceed4ea0d3c2666",
+  "level": "hl",
+  "marks": 13,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"16a\"><p><strong>16a</strong></p><p></p>\n<p>Gravitational potential at a point is the work that must be done per unit mass</p>\n<p>in order to move a small test mass from infinity to the point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16b\"><p><strong>16b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E_{T} = E_{P} + E_{K}\"></span></p>\n<p>Since the radius of the planet is <span class=\"math\" data-latex=\"r\"></span> and the asteroid orbits the planet at a distance <span class=\"math\" data-latex=\"h\"></span> from the surface, orbital radius is <span class=\"math\" data-latex=\"(r + h)\"></span>.</p>\n<p><span class=\"math\" data-latex=\"E_{P} = - \\frac{GMm}{r + h}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{K} = \\frac{1}{2}mv^{2}\"></span></p>\n<p>Using the equation for orbital speed:</p>\n<p><span class=\"math\" data-latex=\"E_{K} = \\frac{1}{2}m \\times \\frac{GM}{r + h}\"></span></p>\n<p>So total energy:</p>\n<p><span class=\"math\" data-latex=\"E_{T} = - \\frac{GMm}{r + h} + \\frac{GMm}{2(r + h)} = - \\frac{GMm}{2(r + h)}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16c\"><p><strong>16c</strong></p><p></p>\n<p>Using the escape speed equation:</p>\n<p><span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2GM}{r + h}}\"></span></p>\n<p>Using the gravitational field strength equation:</p>\n<p><span class=\"math\" data-latex=\"g_{s} = G \\frac{M}{(r + h)^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"G = \\frac{g_{s}(r + h)^{2}}{M}\"></span></p>\n<p>Substituting into the escape speed equation:</p>\n<p><span class=\"math\" data-latex=\"\\sqrt{2 \\frac{\\frac{g_{s}(r + h)^{2}}{M}M}{(r + h)}} = \\sqrt{2(r + h)g_{s}}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16d\"><p><strong>16d</strong></p><p></p>\n<p>Since the object is orbiting with the satellite, it already has a velocity that is larger than zero.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16e\"><p><strong>16e</strong></p><p></p>\n<p>As orbital radius decreases, the gravitational potential energy of the satellite decreases.</p>\n<p>As a result, total energy decreases and kinetic energy increases.</p>\n<p>An increase in kinetic energy leads to an increase in orbital speed.</p>\n<p>(Note: remember that gravitational potential energy is negative, so a decrease in gravitational potential energy means that its absolute value will be larger).</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> orbits a planet at a distance <span class=\"math\" data-latex=\"h\"></span> from the surface of the planet. The radius of the planet is <span class=\"math\" data-latex=\"r\"></span> and the mass of the planet is <span class=\"math\" data-latex=\"M\"></span>. </p>\n<p></p>\n<p>a. Outline what is meant by gravitational potential at a point.</p>\n<p>  [2]</p>\n<p>b. Show that the total energy of the satellite can be expressed as <span class=\"math\" data-latex=\"-\\frac{GMm}{2(r+h)}\"></span>.</p>\n<p>  [4]</p>\n<p>c. In order for the satellite to escape the gravitational field of the planet, it has to have a minimum speed of <span class=\"math\" data-latex=\"v\"></span>. The gravitational field strength at the position of the satellite is <span class=\"math\" data-latex=\"g_{s}\"></span>. Show that <span class=\"math\" data-latex=\"v = \\sqrt{2(r + h)g_{s}}\"></span>.</p>\n<p>  [3]</p>\n<p>d. A small object is launched from the satellite with initial velocity <span class=\"math\" data-latex=\"v_{o}\"></span> and just escapes the gravitational field of the planet. The direction of <span class=\"math\" data-latex=\"v_{o}\"></span> is the same as the direction of the satellite’s velocity. State why <span class=\"math\" data-latex=\"v_{o} &lt; v\"></span>.</p>\n<p>  [1]</p>\n<p>e. After some time, the satellite is moved into a different orbit, closer to the surface of the planet. Outline the energy changes of the satellite and state how these changes affect the orbital speed.</p>\n<p>  [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

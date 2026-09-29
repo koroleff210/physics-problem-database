@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_ac6c8af97b7d47f5a920c0e1f92a7522",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two containers X and Y are filled with the same ideal gas and connected by a tube of negligible volume. The volume of X is twice the volume of Y.</p>\n<p>X is held at a temperature of 150 K and Y is held at a temperature of 300 K.</p>\n<p>What is  <span class=\"math\" data-latex=\"\\frac{\\textit{mass of gas in X}}{\\textit{mass of gas in Y}}\"></span> ?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"B\">1</li><li data-label=\"C\">2</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

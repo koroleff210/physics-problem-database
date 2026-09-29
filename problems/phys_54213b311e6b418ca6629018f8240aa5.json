@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_54213b311e6b418ca6629018f8240aa5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle executes simple harmonic oscillations. What is the phase angle between the displacement and the acceleration?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">zero</li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\pi}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\pi\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

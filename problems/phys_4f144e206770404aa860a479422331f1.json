@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4f144e206770404aa860a479422331f1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two satellites W and X have the same mass. They have circular orbits around the same planet. W is closer to the surface than X. What quantity is smaller for W than for X?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Gravitational force from the planet</li><li data-label=\"B\">Angular velocity</li><li data-label=\"C\">Orbital speed</li><li data-label=\"D\">Orbital period</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

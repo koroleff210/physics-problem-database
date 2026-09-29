@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/da3b9d715b0e40c229b3b054875c88a68acb1ba2cdfe80fb131164d8c9ee3270.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "da3b9d715b0e40c229b3b054875c88a68acb1ba2cdfe80fb131164d8c9ee3270"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_bb4685ae49cf45ecbacfd084e4626056",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle is falling at constant speed towards the surface of the Moon in an electric field. The Moon has no atmosphere. The electric equipotential surfaces are shown in the diagram below. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the particle?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Alpha particle</li>\n<li data-label=\"B\">Electron neutrino</li>\n<li data-label=\"C\">Positron</li>\n<li data-label=\"D\">Muon</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

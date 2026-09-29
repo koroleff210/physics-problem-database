@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "B.1"
+  ],
+  "difficulty": 1,
+  "id": "phys_13491aca28644ab3996067c20fd09b29",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The density of a metal cube with side length <span class=\"math\" data-latex=\"L\"></span> and mass <span class=\"math\" data-latex=\"M\"></span> is <span class=\"math\" data-latex=\"\\rho\"></span>.</p>\n<p>What is the density of a metal cube with side length <span class=\"math\" data-latex=\"\\frac{L}{2}\"></span> and mass <span class=\"math\" data-latex=\"\\frac{M}{4}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\rho}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"4 \\rho\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\rho}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2 \\rho\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

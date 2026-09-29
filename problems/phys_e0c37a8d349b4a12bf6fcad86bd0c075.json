@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6012045cda8154db0e9a39498bf40869a1d9f5f9a28141ebfdc62b55d9433702.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6012045cda8154db0e9a39498bf40869a1d9f5f9a28141ebfdc62b55d9433702"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e0c37a8d349b4a12bf6fcad86bd0c075",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a block of mass <span class=\"math\" data-latex=\"m\"></span> sliding at constant speed down an inclined plane. The plane makes an angle <span class=\"math\" data-latex=\"\\theta\"></span> with the horizontal.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The coefficient of dynamic friction between the block and the plane is <span class=\"math\" data-latex=\"μ_{D}\"></span> and the magnitude of the normal reaction force on the block is <span class=\"math\" data-latex=\"N\"></span>. What is <span class=\"math\" data-latex=\"\\theta\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"cos^{-1}\\frac{m g}{μ_{D} N}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"cos^{-1}\\frac{μ_{D} N}{m g}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{m g}{μ_{D} N}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{μ_{D} N}{m g}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

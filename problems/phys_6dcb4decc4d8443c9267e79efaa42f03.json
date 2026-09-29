@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_6dcb4decc4d8443c9267e79efaa42f03",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monatomic ideal gas undergoes an adiabatic expansion. Which of the following statements is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">The internal energy of the gas remains constant.</li><li data-label=\"B\">Work is done on the gas and its temperature increases.</li><li data-label=\"C\">The gas does work and its internal energy decreases.</li><li data-label=\"D\">The pressure and volume remain constant during the process.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_fd90ecab3b2f42ffa8d4c1fc2e8f7bae",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The escape speed from planet A is <span class=\"math\" data-latex=\"v_{A}\"></span>. Planet B has three times the density and twice the radius of planet A. The escape speed from planet B is <span class=\"math\" data-latex=\"v_{B}\"></span>. What is <span class=\"math\" data-latex=\"\\frac{v_{A}}{v_{B}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{3}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{6}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{12}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{24}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5430ef50eaf32d0c5b36af4f2497e70728e78a97d4266c39a0888e46c6086a6a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5430ef50eaf32d0c5b36af4f2497e70728e78a97d4266c39a0888e46c6086a6a"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a1ec4e17bac34637ad39a77deca8db44",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two trolleys of equal mass travel in opposite directions as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The trolleys collide head-on and stick together.</p>\n<p>What is their velocity after the collision?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1 m s<sup>−1</sup></li><li data-label=\"B\">2 m s<sup>−1</sup></li><li data-label=\"C\">5 m s<sup>−1</sup></li><li data-label=\"D\">10 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

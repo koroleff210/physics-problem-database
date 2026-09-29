@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_b0fba7d2ebf341c189df37bd9e34eefa",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>For a fixed mass of an ideal gas the pressure is proportional to…</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">density and volume.</li><li data-label=\"B\">density and absolute temperature.</li><li data-label=\"C\">absolute temperature and volume.</li><li data-label=\"D\">absolute temperature only.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

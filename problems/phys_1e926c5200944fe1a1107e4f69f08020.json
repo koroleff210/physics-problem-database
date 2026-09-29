@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1e926c5200944fe1a1107e4f69f08020",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Sample P of a radioactive isotope has initial activity <em>A</em> and half-life <em>T</em>. Sample Q of a different radioactive isotope has initial activity 3<em>A</em> and half-life <span class=\"math\" data-latex=\"\\frac{T}{2}\"></span>. The initial number of particles in sample P is <em>N</em>.</p>\n<p>What is the initial number of particles in sample Q?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{N}{6}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2N}{3}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3N}{2}\"></span></li>\n<li data-label=\"D\">6<em>N</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

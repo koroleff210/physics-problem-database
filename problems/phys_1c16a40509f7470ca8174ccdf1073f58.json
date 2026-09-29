@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/705979786cdfae8a4c9817995f2bc19e53591767ce5dd48563ce0fb3ef32ba78.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "705979786cdfae8a4c9817995f2bc19e53591767ce5dd48563ce0fb3ef32ba78"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_1c16a40509f7470ca8174ccdf1073f58",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the magnetic flux linked through a conducting coil varies with time. The coil has only one turn.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the maximum emf induced in the coil?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.40 V</li><li data-label=\"B\">1.0 V</li><li data-label=\"C\">2.0 V</li><li data-label=\"D\">4.0 V</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

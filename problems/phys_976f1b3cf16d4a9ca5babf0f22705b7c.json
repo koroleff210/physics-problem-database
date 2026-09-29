@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_976f1b3cf16d4a9ca5babf0f22705b7c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following provides evidence for the existence of electron antineutrinos?     </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The energy levels in the atom</li>\n<li data-label=\"B\">The energy spectrum in <span class=\"math\" data-latex=\"\\beta ^{-}\"></span> decay</li>\n<li data-label=\"C\">Electron diffraction from crystals</li>\n<li data-label=\"D\">The Rutherford-Geiger-Mardsen scattering experiment</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

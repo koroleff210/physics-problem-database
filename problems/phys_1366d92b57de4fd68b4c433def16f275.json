@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_1366d92b57de4fd68b4c433def16f275",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> orbits a planet of mass <span class=\"math\" data-latex=\"M\"></span> in a circular orbit of radius <span class=\"math\" data-latex=\"r\"></span>. What is the work that must be done on the satellite to increase its orbital radius to <span class=\"math\" data-latex=\"2r\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{GMm}{r}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{GMm}{2r}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{GMm}{4r}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{GMm}{8r}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

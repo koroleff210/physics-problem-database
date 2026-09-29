@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_507d3379899f475e9b647d5e6d556fc0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solenoid of <span class=\"math\" data-latex=\"100\"></span> turns and cross-sectional area <span class=\"math\" data-latex=\"5.0 \\times 10^{-4}\\ \\mathrm{m^2}\"></span> experiences a change in magnetic flux density from <span class=\"math\" data-latex=\"0.25\\ \\mathrm{T}\"></span> to <span class=\"math\" data-latex=\"-0.25\\ \\mathrm{T}\"></span> in <span class=\"math\" data-latex=\"10\\ \\mathrm{ms}\"></span>. What is the average induced emf?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25\\ \\mathrm{V}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50\\ \\mathrm{V}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.0\\ \\mathrm{V}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.5\\ \\mathrm{V}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

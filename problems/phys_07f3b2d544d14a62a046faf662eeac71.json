@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_07f3b2d544d14a62a046faf662eeac71",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The collisions are elastic ✓ The time for a collision is much shorter than the time between collisions ✓ The intermolecular forces are only present during collisions ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The momentum of a molecule changes when it collides with a container wall ✓ From <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t}\"></span> and Newton’s third law, this leads to a force exerted on the wall by the molecule ✓ The average force exerted by all the molecules on a unit area of the wall is equivalent to pressure ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"\\frac{1}{3}\\times 1.2\\times 500^{2}\"></span> ✓ 100 «kPa» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State two assumptions of the kinetic model of an ideal gas that refer to intermolecular collisions. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Discuss how the motion of the molecules of a gas gives rise to pressure in the gas. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The average speed of the molecules of a gas is 500 m s<sup>−1</sup>. The density of the gas is 1.2 kg m<sup>−3</sup>. Calculate, in kPa, the pressure of the gas. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

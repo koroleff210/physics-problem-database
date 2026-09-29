@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3681935ed7e9c24282ba78576a6c86874c8a164f9efb8368544d0de6ddffde80.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3681935ed7e9c24282ba78576a6c86874c8a164f9efb8368544d0de6ddffde80"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_d0155d614efd47c7b49aee821903746a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave with a first harmonic of frequency <span class=\"math\" data-latex=\"f_{1}\"></span> is formed on a string fixed at both ends.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The frequency of the third harmonic is <span class=\"math\" data-latex=\"f_{3}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{f_{1}}{f_{3}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3</li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{3}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

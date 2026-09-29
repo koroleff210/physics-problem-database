@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_f3bcd23c4ead4f7db5fb9ea6e1130f20",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass on a spring undergoes SHM with total energy <span class=\"math\" data-latex=\"E\"></span>. At a displacement <span class=\"math\" data-latex=\"x = \\frac{A}{2}\"></span> from equilibrium, what fraction of the total energy is potential energy?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

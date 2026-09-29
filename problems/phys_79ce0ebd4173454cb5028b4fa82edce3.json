@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_79ce0ebd4173454cb5028b4fa82edce3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A string is fixed at one end and is allowed to move freely at the other end. When the string is made to vibrate, a standing wave is formed on the string so that the number of nodes is <span class=\"math\" data-latex=\"N\"></span> and the number of antinodes is <span class=\"math\" data-latex=\"A\"></span>. Which of the following statements is correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The centre of the string always has an antinode.</li>\n<li data-label=\"B\">The centre of the string always has a node.</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"N+A\"></span> is an odd number.</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"N+A\"></span> is an even number.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

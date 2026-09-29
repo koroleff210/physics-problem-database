@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 1,
+  "id": "phys_fda320a30530492a9dff9b1408db9706",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The existence of atomic energy levels is supported by:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">evidence from emission and absorption spectra.</li>\n<li data-label=\"B\">the Rutherford-Geiger-Marsden scattering experiment.</li>\n<li data-label=\"C\">observations related to the wave nature of light.</li>\n<li data-label=\"D\">the neutron-to-proton ratio of stable elements.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

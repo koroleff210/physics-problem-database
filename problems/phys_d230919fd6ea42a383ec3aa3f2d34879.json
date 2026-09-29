@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d230919fd6ea42a383ec3aa3f2d34879",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small sphere is travelling at constant velocity and collides with an identical, stationary sphere. The angle between the paths of the spheres after the collision is <span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span>. The spheres do not undergo rotational motion before or after the collision.</p>\n<p>What is true about the momentum and the kinetic energy of the system?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Momentum</strong></p>\n</td>\n<td>\n<p><strong>Kinetic energy</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Conserved</td>\n<td>Conserved</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Conserved</td>\n<td>Not conserved</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Not conserved</td>\n<td>Conserved</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Not conserved</td>\n<td>Not conserved</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

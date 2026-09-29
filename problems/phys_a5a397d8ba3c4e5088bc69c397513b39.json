@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a5a397d8ba3c4e5088bc69c397513b39",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>For a gas at a fixed volume (isochoric process), the pressure is directly proportional to the absolute temperature (P/T = constant). The initial temperature is 20°C, which is 293 K. Doubling the pressure will double the absolute temperature to 2 * 293 K = 586 K. Converting this back to Celsius gives 586 - 273 = 313°C.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Thermal energy is transferred to a gas inside a container of fixed volume and initial temperature 20 deg C. The pressure inside the container is then doubled. What is the final temperature of the gas?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"40 deg C\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"293 deg C\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"313 deg C\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"586 deg C\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

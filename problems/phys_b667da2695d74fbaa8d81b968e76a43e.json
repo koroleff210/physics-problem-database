@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/06f71da9b2db312f0108f2a9b63499e3fd6d13905d1f6931b4bd96324b252e1e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "06f71da9b2db312f0108f2a9b63499e3fd6d13905d1f6931b4bd96324b252e1e"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b667da2695d74fbaa8d81b968e76a43e",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>P and S are two points on a gravitational equipotential surface around a planet. Q and R are two points on a different gravitational equipotential surface at a greater distance from the planet.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The greatest work done by the gravitational force is when moving a mass from</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">P to S.</li><li data-label=\"B\">Q to R.</li><li data-label=\"C\">R to P.</li><li data-label=\"D\">S to R.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

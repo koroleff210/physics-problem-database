@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_7dced9f4bf1242cd9d4555daebe5ac09",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The distance in parsecs (pc) is the reciprocal of the parallax angle in arcseconds, so d = 1 / 0.10 = 10 pc. The question requires the answer in SI units (meters). Using the conversion from the IB Physics data booklet, 1 pc ≈ 3.09 × 10^16 m, the distance is 10 pc × (3.09 × 10^16 m/pc) = 3.09 × 10^17 m. This value rounds to 3.1 × 10^17 m, matching option C.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A very distant star is measured to have a parallax angle of <span class=\"math\" data-latex=\"0.10\"></span> arcsec.</p>\n<p>What is the distance to the star in SI units?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> 10 pc</li>\n<li data-label=\"B\"> 32.6 ly</li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"3.1\\times10^{17}\\,\\mathrm{m}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"6.2\\times10^{17}\\,\\mathrm{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

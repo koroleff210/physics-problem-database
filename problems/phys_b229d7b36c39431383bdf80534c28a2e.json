@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_b229d7b36c39431383bdf80534c28a2e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pump has efficiency <span class=\"math\" data-latex=\"η\"></span> when raising water from a well of depth <span class=\"math\" data-latex=\"d\"></span>. The mass of water raised per second is <span class=\"math\" data-latex=\"R\"></span>. Changes in kinetic energy of the water are considered negligible.</p>\n<p>What is the input power to the pump required to raise the water?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Rd}{ηg}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{ηR}{gd}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"ηRgd\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{Rdg}{η}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

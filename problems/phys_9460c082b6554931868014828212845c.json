@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_9460c082b6554931868014828212845c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When a charged oil drop is placed in the electric field between two parallel plates and released, it begins to move with a downwards acceleration of <span class=\"math\" data-latex=\"a\"></span>, such that <span class=\"math\" data-latex=\"a &gt; g\"></span>. The magnitude of the charge on the oil drop is <span class=\"math\" data-latex=\"Q\"></span>.</p>\n<p>What is the sign of the charge on the oil drop and what is a possible value for <span class=\"math\" data-latex=\"Q\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Sign of the charge on oil drop</strong></p>\n</td>\n<td>\n<p><strong>Possible value for</strong> <span class=\"math\" data-latex=\"\\boldsymbol{Q}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>positive</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"4.8 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>positive</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"5.2 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>negative</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"4.8 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>negative</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"5.2 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

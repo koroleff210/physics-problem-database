@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bcb582cf9d2c253eda2c6cc1bf223903e63fb1d8f50670aec34f38a3ccf1f300.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bcb582cf9d2c253eda2c6cc1bf223903e63fb1d8f50670aec34f38a3ccf1f300"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_c874480d8f944a36a4031d0937edc208",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The bob of a pendulum has an initial displacement <span class=\"math\" data-latex=\"x_{0}\"></span> to the right. The bob is released and allowed to oscillate. The graph shows how the displacement varies with time. At which point is the velocity of the bob at its maximum magnitude directed towards the left?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

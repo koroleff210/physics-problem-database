@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_0b618c85126a49ef884190a3e6c8b29b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>For a thermodynamic process, the entropy of the universe</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">always increases during the process</li><li data-label=\"B\">depends only on energy transferred during the process</li><li data-label=\"C\">is zero during the process</li><li data-label=\"D\">never decreases during the process</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

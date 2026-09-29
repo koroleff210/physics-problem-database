@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_669d996114934adc8dd811f68b02af72",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle, travelling at a velocity of <span class=\"math\" data-latex=\"0.995c\"></span> relative to the surface of the Earth, decays in <span class=\"math\" data-latex=\"5.0\\;\\textup{ns}\"></span> as measured in a reference frame where the particle is stationary. In the particle’s reference frame the Earth moves a distance of <span class=\"math\" data-latex=\"d_{1}\"></span> before the particle decays and in the Earth’s reference frame the particle moves a distance of <span class=\"math\" data-latex=\"d_{2}\"></span> before the particle decays.</p>\n<p>What is <span class=\"math\" data-latex=\"d_{1} - d_{2}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"13\\;\\textup{m}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"-13\\;\\textup{m}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"19\\;\\textup{m}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"-19\\;\\textup{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

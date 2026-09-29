@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/03c4083ab7cc498647d22a45811e9d2118995997e2710c8c06b80462a031fe44.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "03c4083ab7cc498647d22a45811e9d2118995997e2710c8c06b80462a031fe44"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a86fbc4e7d60466180e4f31f4d8f0418",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The graph shows four thermodynamic processes. Process C is isochoric (constant volume) and D is isobaric (constant pressure). Processes A and B are represented by curves. On a pressure-volume (p-V) diagram, an adiabatic process (PV^γ = constant) is represented by a steeper curve than an isothermal process (PV = constant). Comparing the two curved paths, A is visibly steeper than B. Therefore, A represents the adiabatic process.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which part of the graph represents an adiabatic process?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> A</li>\n<li data-label=\"B\"> B</li>\n<li data-label=\"C\"> C</li>\n<li data-label=\"D\"> D</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

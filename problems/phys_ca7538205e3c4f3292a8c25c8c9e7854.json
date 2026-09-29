@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f4b9cce544daf032946f2b2ed0737f6cc7ef5bd47cc09877bac4d976ddd31b17.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f4b9cce544daf032946f2b2ed0737f6cc7ef5bd47cc09877bac4d976ddd31b17"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/074e79023e3d1cd3543b9d98e9680c3576e0b8cf99a7c84e9fa8a34ef87af7a2.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "074e79023e3d1cd3543b9d98e9680c3576e0b8cf99a7c84e9fa8a34ef87af7a2"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.4",
+    "C.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_ca7538205e3c4f3292a8c25c8c9e7854",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Diagram 1 shows the variation with position of the displacement of a standing wave formed on a string.</p>\n<p>Diagram 2 shows the variation with position of the displacement of a travelling wave moving to the right along a string.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Points P, Q, R and S are points on the string.</p>\n<p>What is the phase difference between P and Q and the phase difference between R and S?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

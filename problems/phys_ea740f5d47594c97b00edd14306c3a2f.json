@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ea740f5d47594c97b00edd14306c3a2f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following processes leads to natural greenhouse gas emission?</p><ol class=\"mcq-options\"><li data-label=\"A\">Car exhaust</li><li data-label=\"B\">Volcano eruptions</li><li data-label=\"C\">Industrial combustion</li><li data-label=\"D\">Burning fossil fuels</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

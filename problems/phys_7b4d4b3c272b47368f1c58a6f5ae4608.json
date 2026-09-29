@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_7b4d4b3c272b47368f1c58a6f5ae4608",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A projectile hits the ground at the same vertical level from which it was launched. Which of the following is a quantity that describes the entire duration of the projectile's motion, rather than a specific property at launch or landing?</p><ol class=\"mcq-options\"><li data-label=\"A\">Speed</li><li data-label=\"B\">Time of flight</li><li data-label=\"C\">Acceleration</li><li data-label=\"D\">Vertical displacement</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_66da6d6724974a52bcd0f109b27553c7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A boulder is dropped from the top of a cliff and simultaneously another is thrown horizontally from the same height with speed <span class=\"math\" data-latex=\"v\"></span>. Both boulders land after <span class=\"math\" data-latex=\"t\"></span> seconds. Ignoring air resistance, what is the horizontal separation between the boulders when they land?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"vt\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}vt\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"gt^2\"></span></p></li><li data-label=\"D\"><p>Cannot be determined without mass</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_fdad32b372354be49e2b9041a5c3dd5f",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"U = \\frac{3}{2}PV\"></span><br/><span class=\"math\" data-latex=\"U = 1.5 \\times (2.0 \\times 10^5) \\times (5.0 \\times 10^{-4}) = 150\"></span> «J»<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"W = P\\Delta V = 2.0 \\times 10^5 \\times (10.0 \\times 10^{-4} - 5.0 \\times 10^{-4})\"></span><br/><span class=\"math\" data-latex=\"W = 100\"></span> «J»<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>For an isothermal process, <span class=\"math\" data-latex=\"PV = \\text{constant}\"></span> <strong>OR</strong> <span class=\"math\" data-latex=\"P_Y V_Y = P_Z V_Z\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"P_Z = \\frac{2.0 \\times 10^5 \\times 10.0 \\times 10^{-4}}{25.0 \\times 10^{-4}} = 8.0 \\times 10^4\"></span> «Pa» <strong>OR</strong> <span class=\"math\" data-latex=\"0.80 \\times 10^5\"></span> «Pa» [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The change in internal energy is zero / <span class=\"math\" data-latex=\"\\Delta U = 0\"></span> [1 mark]</p>\n<p>Internal energy of an ideal gas depends only on its absolute temperature <strong>OR</strong> since it is isothermal, the temperature is constant, so kinetic energy of molecules is constant [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample of <span class=\"math\" data-latex=\"0.040\\text{ mol}\"></span> of an ideal monatomic gas is contained in a cylinder with a movable piston. The gas undergoes a two-step process, starting from state X, moving to state Y, and finally to state Z. The table below provides the pressure and volume for these states.</p><table><thead><tr><th>State</th><th>Pressure (<span class=\"math\" data-latex=\"P / 10^5\\text{ Pa}\"></span>)</th><th>Volume (<span class=\"math\" data-latex=\"V / 10^{-4}\\text{ m}^3\"></span>)</th></tr></thead><tbody><tr data-label=\"X\"><td>X</td><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"5.0\"></span></td></tr><tr data-label=\"Y\"><td>Y</td><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"10.0\"></span></td></tr><tr data-label=\"Z\"><td>Z</td><td><span class=\"math\" data-latex=\"P_Z\"></span></td><td><span class=\"math\" data-latex=\"25.0\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the internal energy of the gas when it is in state X. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the work done by the gas during the expansion from state X to state Y. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The transition from state Y to state Z is an isothermal process. Determine the pressure <span class=\"math\" data-latex=\"P_Z\"></span> of the gas at state Z. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> State and explain the change in internal energy of the gas during the process from Y to Z. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

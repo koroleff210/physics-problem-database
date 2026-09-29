@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5d6c19515791cef77fda20f825edfdd87181a086005c2fad125a0ec6eed4e975.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5d6c19515791cef77fda20f825edfdd87181a086005c2fad125a0ec6eed4e975"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/84aed1be0612dc51e754a68adcd8a93eb67ebe9fd482a53bc2f7c6786dc1b990.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84aed1be0612dc51e754a68adcd8a93eb67ebe9fd482a53bc2f7c6786dc1b990"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/59044868382ef5229ec73f338c52024c418202f27586cd55cbe437da6192fd3f.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "59044868382ef5229ec73f338c52024c418202f27586cd55cbe437da6192fd3f"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/e39d41b3b97428d781277bde314ecbf4c968579f33f926de85e904c640e36e17.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e39d41b3b97428d781277bde314ecbf4c968579f33f926de85e904c640e36e17"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b7f1b8de3ef84a51909afb19da8b3ed1",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Labelled vertical weight / W / mg / F<sub>g</sub> and tension / T / F<sub>T</sub> in approximately correct direction ✓<br/>With vertical T component equal to weight ✓ <br/>Ignore other forces drawn for MP1</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>T sin 30° = ma OR T cos 30° = mg ✓ a = g tan 30° = 5.66 ≈ 5.7 m s<sup>–2</sup> ✓  <br/>Accept reversed trig functions if 60° used. Award [2] for CNA</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The ball is in equilibrium / forces are balanced / net force is zero / no acceleration / the vertical weight must be balanced by a vertical tension ✓ The angle is zero ✓ <br/>For MP2, accept an answer of 10° if from the students’ answer it can be understood that they interpreted the vertical as the perpendicular line to the ceiling of the truck, so that their answer of 10° implies that the string is vertically downwards.</p>\n<p>On another occasion, the truck enters a horizontal semicircular road of radius of 75 m.<br/>The coefficient of static friction between the road and the tyres is 0.60.<br/><br/></p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"μmg=m\\frac{v^{2}}{R}\"></span> ✓ <span class=\"math\" data-latex=\"v =\\sqrt{0.6\\times 9.8\\times 75}=21 m s^{-1}\"></span> ✓ <br/>Award [2] for a CNA.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1 <span class=\"math\" data-latex=\"KE\\frac{1}{2}\\times 1400\\times 15^{2}\"></span>   OR   1.6 × 10<sup>5</sup> J ✓ Work done by drag force 520 × π × 75   OR   1.2 × 10<sup>5</sup> J ✓ This is less than the KE so the truck will make it ✓   ALTERNATIVE 2 Truck decelerates at <span class=\"math\" data-latex=\"\\frac{520}{1400}\"></span>   OR   0.371 m s<sup>–2</sup> ✓ Speed at gas station is <span class=\"math\" data-latex=\"\\sqrt{15^{2}-2\\times 0.371\\times \\pi\\times 75}\"></span>   OR   7.0 m s<sup>–1</sup>   OR   truck stops after a distance <span class=\"math\" data-latex=\"\\frac{15^{2}}{2\\times 0.371}=303 m\"></span> ✓<br/><br/> Speed is not zero OR 303 m &gt; 75π OR 303 m &gt; 236 m ✓ <br/>Allow MP3 for a consistent conclusion if any previous calculation is wrong.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A ball is connected to a string that is attached to the ceiling of a truck. The truck accelerates to the right on a horizontal road. The string makes an angle of 30° with the vertical.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> </p><p>Draw a labelled free-body diagram of the forces on the ball.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Determine the acceleration of the truck. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The truck now moves at constant speed up an incline that makes an angle of 10° to the horizontal. State and explain the angle between the string and the vertical. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the maximum speed at which the truck can travel on this road. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The truck runs out of fuel just as it enters the semicircle with speed 15 m s<sup>−1</sup>. The resultant force opposing the motion has magnitude 520 N. The mass of the truck is 1400 kg. A service station is at the other end of the semicircle.</p>\n<p>Determine whether the truck will be able to reach the service station.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

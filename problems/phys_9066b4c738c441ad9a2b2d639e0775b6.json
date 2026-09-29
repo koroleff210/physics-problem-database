@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_9066b4c738c441ad9a2b2d639e0775b6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nuclide decays through beta-minus decay. What property of the nuclide remains unchanged as a result of this decay? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The atomic number.</li>\n<li data-label=\"B\">The neutron number.</li>\n<li data-label=\"C\">The charge of the nuclide.</li>\n<li data-label=\"D\">The mass number.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

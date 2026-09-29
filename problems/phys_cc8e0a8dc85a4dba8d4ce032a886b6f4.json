@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e39a1c0d679d254f9bed0c9f1e325c3c6182fd3ce4c58a90b703cdf9c56dfd50.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e39a1c0d679d254f9bed0c9f1e325c3c6182fd3ce4c58a90b703cdf9c56dfd50"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/817fd9685ac0682813eea5d7cd7b4bf1e685a7b0fe60dd46db4ec6d77de3c749.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "817fd9685ac0682813eea5d7cd7b4bf1e685a7b0fe60dd46db4ec6d77de3c749"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/d316d0b87898fd464033012826b6feb92f0b50f64cafed679d37571177d199de.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d316d0b87898fd464033012826b6feb92f0b50f64cafed679d37571177d199de"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/5499e7e56ed3be6763ec47667746e34b1cf1b0159ab7fad080975ec5fd1cfe36.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "5499e7e56ed3be6763ec47667746e34b1cf1b0159ab7fad080975ec5fd1cfe36"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_cc8e0a8dc85a4dba8d4ce032a886b6f4",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a\"><p><strong>6a</strong></p><p></p>\n<p>Zero</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b(i)\"><p><strong>6b(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"6b(ii)\"><p><strong>6b(ii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"6c\"><p><strong>6c</strong></p><p></p>\n<p>The rotating helicopter blades exert a downward force on the air.</p>\n<p>The air exerts an upward force on the blades that has the same magnitude as the downward force exerted by the blades.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A helicopter is lifting a skydiver vertically upwards at constant speed. </p>\n<p>a. State the net force that acts on the skydiver.</p>\n<p>   [1]</p>\n<p>When the helicopter reaches a certain distance above the ground, the skydiver drops from the helicopter vertically downwards.</p>\n<p>b. Draw a free body diagram</p>\n<p>i. for the skydiver the moment after she has dropped from the helicopter.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [1]</p>\n<p>ii. for the helicopter the moment after the skydiver has dropped from it.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>\n<p>While the helicopter pilot is waiting for the skydiver to reach the ground, the helicopter is hovering motionless above the ground.</p>\n<p>c. Outline how the lift force on the helicopter is achieved. In your answer, refer to Newton’s third law of motion.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

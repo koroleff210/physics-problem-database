@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_89216fc275364b189c9fa6d905e6a519",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"P = \\varepsilon \\sigma A T^4\"></span> where <span class=\"math\" data-latex=\"P\"></span> is the power radiated, <span class=\"math\" data-latex=\"\\varepsilon\"></span> is the emissivity, <span class=\"math\" data-latex=\"\\sigma\"></span> is the Stefan–Boltzmann constant, <span class=\"math\" data-latex=\"A\"></span> is the surface area, and <span class=\"math\" data-latex=\"T\"></span> is the absolute temperature.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Emissivity is the ratio of the energy radiated by a surface to the energy radiated by a black body at the same temperature.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Emissivity <span class=\"math\" data-latex=\"\\varepsilon = \\frac{480}{800} = 0.6\"></span></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>B.2<br/>The energy radiated by a surface depends on temperature and emissivity.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the Stefan–Boltzmann law for a real surface. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Define the term “emissivity”. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> A black body emits radiation at 800 W/m². A grey surface at the same temperature emits 480 W/m². Calculate its emissivity. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e7af4b4e27f138ae9f8f65a6fc64690975b3c330c2a9f3bcec7a77988a7c5a1e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e7af4b4e27f138ae9f8f65a6fc64690975b3c330c2a9f3bcec7a77988a7c5a1e"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_0bf2e4ce65c0492e8aa8054c87c6e3dc",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>No change in the kinetic energy of the system  ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>From <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t}\"></span>, zero net force on the system implies that <span class=\"math\" data-latex=\"\\Delta p = 0\"></span> OR From Newton’s third law, the impulse delivered to A is equal but opposite to the impulse delivered to B, hence <span class=\"math\" data-latex=\"\\Delta p = 0\"></span> for the system  ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The vertical momentum is zero hence <span class=\"math\" data-latex=\"mv_{A}sin 70 ^{∘}-mv_{B}sin 20 ^{∘}=0\"></span>  ✓ «leading to the expected result»  ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Energy is conserved hence <span class=\"math\" data-latex=\"\\frac{1}{2}mv_{A}^{2}+\\frac{1}{2}mv_{B}^{2}=\\frac{1}{2}mv^{2}\"></span>  ✓ Eliminate <span class=\"math\" data-latex=\"v_{B}\"></span> using the result of part (a), e.g., <span class=\"math\" data-latex=\"v_{A}^{2}+\\frac{sin 70 ^{∘}}{sin 20 ^{∘}}^{2}v_{A}^{2}=v^{2}\"></span>  ✓ <span class=\"math\" data-latex=\"v_{A}=0.342v\"></span>  ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two curling stones of the same mass collide elastically on a horizontal frictionless surface. Stone A moves with an initial speed v and stone B is initially stationary. The speeds of the stones after the collision are v<sub>A</sub> and v<sub>B</sub>. Their directions of motion make angles of 70° and 20° with the initial velocity of stone A.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State what is meant by an elastic collision. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> No unbalanced external forces act on the system of the curling stones. Outline why the momentum of the system does not change during the collision. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that <span class=\"math\" data-latex=\"v_{B}=\\frac{sin 70 ^{∘}}{sin 20 ^{∘}}v_{A}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine v<sub>A</sub>. State the answer in terms of v. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

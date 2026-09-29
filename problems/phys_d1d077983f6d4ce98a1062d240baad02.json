@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_d1d077983f6d4ce98a1062d240baad02",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A 200 g piece of copper is heated to 120°C and then placed into a calorimeter containing 200 g of water at 20°C. The specific heat capacity of copper is lower than that of water. Assuming no heat is lost to the surroundings, the final equilibrium temperature of the system will be:</p><ol class=\"mcq-options\"><li data-label=\"A\">less than 70°C</li><li data-label=\"B\">70°C</li><li data-label=\"C\">more than 70°C</li><li data-label=\"D\">120°C</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

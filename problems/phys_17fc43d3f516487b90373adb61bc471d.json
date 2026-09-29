@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_17fc43d3f516487b90373adb61bc471d",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The fact that the vast majority of alpha particles (<span class=\"math\" data-latex=\"10^7\"></span>) are scattered at very small angles (<span class=\"math\" data-latex=\"1^{\\circ}\"></span>) indicates that the atom is mostly empty space as most particles encounter no significant obstacle [1 mark]<br/>- The observation that a very small fraction of particles are scattered at large angles (<span class=\"math\" data-latex=\"&gt;90^{\\circ}\"></span>) indicates the existence of a small, dense, and positively charged region that provides a sufficient repulsive Coulomb force to deflect the alpha particles [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify that initial kinetic energy equals the electric potential energy at closest approach: <span class=\"math\" data-latex=\"E_k = \\frac{k Q q}{r}\"></span> or <span class=\"math\" data-latex=\"r = \\frac{k (Ze)(2e)}{E_k}\"></span> [M1]<br/>- Correct substitution and calculation: <span class=\"math\" data-latex=\"r = \\frac{8.99 \\times 10^9 \\times 79 \\times 2 \\times (1.6 \\times 10^{-19})^2}{5.5 \\times 10^6 \\times 1.6 \\times 10^{-19}} = 4.1 \\times 10^{-14} \\text{ m}\"></span> [A1]</p>\n<p>2 marks total</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The plum pudding model predicted that alpha particles would experience only very small deflections (typically less than <span class=\"math\" data-latex=\"1^{\\circ}\"></span>) because the positive charge was spread out [B1]<br/>- It could not account for the back-scattering (angles <span class=\"math\" data-latex=\"&gt; 90^{\\circ}\"></span>) of alpha particles, which required a high concentration of charge and mass [B1]</p>\n<p>2 marks total</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In 1909, Geiger and Marsden conducted an experiment in which alpha particles were directed at a thin metal foil. The relative number of alpha particles scattered at different angles was recorded, as shown in the table below.</p><table><thead><tr><th>Scattering Angle / degrees</th><th>Relative count of alpha particles detected</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"1^{\\circ}\"></span></td><td><span class=\"math\" data-latex=\"10,000,000\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"10^{\\circ}\"></span></td><td><span class=\"math\" data-latex=\"10,000\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"90^{\\circ}\"></span></td><td><span class=\"math\" data-latex=\"10\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"150^{\\circ}\"></span></td><td><span class=\"math\" data-latex=\"1\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain how the data in the table supports the conclusion that the atom consists of a small, massive, and positively charged nucleus surrounded by mostly empty space.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>An alpha particle with an initial kinetic energy of <span class=\"math\" data-latex=\"5.5 \\text{ MeV}\"></span> is directed head-on toward a gold nucleus (<span class=\"math\" data-latex=\"Z = 79\"></span>).\n\nCalculate the distance of closest approach between the alpha particle and the gold nucleus.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The results of this experiment were used to evaluate the Thomson \"plum pudding\" model of the atom.\n\nState two ways in which the observed scattering distribution contradicted the predictions made by the plum pudding model.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

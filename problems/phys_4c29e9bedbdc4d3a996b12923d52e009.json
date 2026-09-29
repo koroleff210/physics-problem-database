@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f799ae7acfc22794f3d8724b455dd9ed14560830b0cb64394f35aa24fb8ed402.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f799ae7acfc22794f3d8724b455dd9ed14560830b0cb64394f35aa24fb8ed402"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_4c29e9bedbdc4d3a996b12923d52e009",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«at closest approach alpha is within the range of the» strong nuclear interaction/force «of the gold nucleus» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Recognizes that nuclear radius is «approximately» the distance of closest approach ✓ Explains calculation of <span class=\"math\" data-latex=\"r\"></span> from energy conservation, e.g. <span class=\"math\" data-latex=\"E_{0}=k\\frac{Qq}{r}\"></span> with symbols explained or description of initial KE of alpha particle being converted to electrical potential energy. ✓   MP1 can be implied if the answer discusses the distance of closest approach. Use of <span class=\"math\" data-latex=\"r\"></span> in an algebraic expression isn’t sufficient for MP1.</p>\n<p>Gold-198 (Au-198) is a radioactive nuclide of gold. Au-198 decays into stable mercury-198 (Hg-198) with an emission of a beta particle followed by one or two gamma photons.</p>\n<p>The half-life of Au-198 is 2.69 days.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«<span class=\"math\" data-latex=\"\\frac{\\textit{In 2}}{2.69\\times 24\\times 3600}=\"></span>»<span class=\"math\" data-latex=\"2.98\\times 10^{-6} s^{-1}\"></span> ✓   Unit is not required.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Undecayed mass <span class=\"math\" data-latex=\"= 5.0\\times  e^{-2.98\\times 10^{-6}\\times 7\\times 24\\times 3600}\"></span> «=0.82 mg» OR <span class=\"math\" data-latex=\"5.0\\times \\frac{1}{2}^{\\frac{7.0}{2.69}}\"></span>«=0.82 mg» ✓ Mass of Hg-198 = «5.0 − 0.82=»4.2 mg ✓   Unit is not required. Check the steps in the calculation. If the unit is missing in the answer, check the calculation to see whether the candidate is working in mg or kg and ensure that the power of ten is correct. If any other unit is given, the power of ten and the prefix must match e.g. 4.2 × 10<sup>3</sup> μg.</p>\n<p>Gamma photons of the following frequencies are emitted in the decay of Au-198:</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«E = hf hence» observed gamma photons have fixed / discrete energies OR Use of E = hf to calculate at least one photon energy ✓ Gamma energy equals the difference between nuclear energy levels OR Gamma photons are emitted when the nucleus undergoes transitions between its energy levels ✓   Energies are 6.63 × 10<sup>−14</sup> J OR 0.41 MeV 1.08 × 10<sup>−13 </sup>J OR 0.68 MeV 1.74 × 10<sup>−13 </sup>J OR 1.1 MeV Do not award MP2 if transitions of electrons are discussed.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Rutherford modelled the scattering of alpha particles by a nucleus of gold. However, when the initial alpha particle energy is greater than a certain value E<sub>0</sub>, the fraction of alpha particles scattered at angles close to 180° does not follow Rutherford’s model.</p>\n<p>Outline</p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> why this deviation from the model occurs, and [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> how <span class=\"math\" data-latex=\"E_{0}\"></span> can be used to estimate the nuclear radius of gold. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate, in s<sup>−1</sup>, the decay constant of Au-198. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> A sample contains 5.0 mg of pure Au-198. Determine the mass of Hg-198 present in the sample after one week. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain how this observation provides evidence that nuclear energy levels are discrete. [2]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

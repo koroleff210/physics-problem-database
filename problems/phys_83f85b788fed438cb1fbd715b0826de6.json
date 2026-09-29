@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_83f85b788fed438cb1fbd715b0826de6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between object A and object B is <span class=\"math\" data-latex=\"x\"></span> and the gravitational force acting between the objects is <span class=\"math\" data-latex=\"F\"></span>. The mass of object A is increased by <span class=\"math\" data-latex=\"50\"></span> percent and the mass of object B is decreased by <span class=\"math\" data-latex=\"50\"></span> percent. What should be the distance between the objects in order for the gravitational force to triple?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{x}{2}\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{x}{\\sqrt{2}}\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{x}{3}\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{x}{\\sqrt{3}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

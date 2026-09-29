@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_18c8755ccd2a46a6b4cb8153b3fb5232",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the unit of resistivity in fundamental SI units?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">kg m s<sup>−3 </sup>A<sup>−1</sup></li><li data-label=\"B\">kg m<sup>2 </sup>s<sup>−3 </sup>A<sup>−2</sup></li><li data-label=\"C\">kg m<sup>3 </sup>s<sup>−3 </sup>A<sup>−2</sup></li><li data-label=\"D\">kg m<sup>3 </sup>s<sup>−3 </sup>A<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

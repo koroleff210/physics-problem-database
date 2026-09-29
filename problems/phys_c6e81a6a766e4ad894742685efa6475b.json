@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c6e81a6a766e4ad894742685efa6475b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Satellite <span class=\"math\" data-latex=\"X\"></span> and satellite <span class=\"math\" data-latex=\"Y\"></span> are in circular orbits around the same planet. The orbital radius of satellite <span class=\"math\" data-latex=\"Y\"></span> is four times the orbital radius of satellite <span class=\"math\" data-latex=\"X\"></span>. What is the ratio <span class=\"math\" data-latex=\"\\frac{v_X}{v_Y}\"></span>, where <span class=\"math\" data-latex=\"v\"></span> is the orbital speed of the satellite?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.5\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

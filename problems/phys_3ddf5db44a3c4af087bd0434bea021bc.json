@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_3ddf5db44a3c4af087bd0434bea021bc",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A powerful magnet of mass <span class=\"math\" data-latex=\"2.5\\text{ kg}\"></span> is held fixed above a steel nail of mass <span class=\"math\" data-latex=\"0.010\\text{ kg}\"></span>. The nail is released from rest and accelerates upwards at <span class=\"math\" data-latex=\"15\\text{ m s}^{-2}\"></span>.</p>\n<p>During this motion, the magnet exerts a force <span class=\"math\" data-latex=\"F_{\\text{mag}}\"></span> on the nail and the nail exerts a force <span class=\"math\" data-latex=\"F_{\\text{nail}}\"></span> on the magnet. Which of the following correctly relates the magnitudes of these forces? (Assume <span class=\"math\" data-latex=\"g = 9.8\\text{ m s}^{-2}\"></span>)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"F_{\\text{mag}} = 0.248\\text{ N}\"></span> and <span class=\"math\" data-latex=\"F_{\\text{nail}} &lt; F_{\\text{mag}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"F_{\\text{mag}} = 0.248\\text{ N}\"></span> and <span class=\"math\" data-latex=\"F_{\\text{nail}} = F_{\\text{mag}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"F_{\\text{mag}} = 0.150\\text{ N}\"></span> and <span class=\"math\" data-latex=\"F_{\\text{nail}} = F_{\\text{mag}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"F_{\\text{mag}} = 0.150\\text{ N}\"></span> and <span class=\"math\" data-latex=\"F_{\\text{nail}} &lt; F_{\\text{mag}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_4f629be84c914359a70127656f818e59",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nuclear reaction occurs when a nitrogen-14 nucleus is bombarded with an alpha particle, as shown in the following equation:</p>\n<p><span class=\"math\" data-latex=\"{^{14}_{7}}\\text{N} + {^4_2}\\text{He} \\rightarrow {^{17}_{8}}\\text{O} + {^1_1}\\text{H}\"></span></p>\n<p>The rest masses of the particles involved are provided in the table below:</p>\n<table><thead><tr><th>Particle</th><th>Rest mass / u</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"{^{14}_{7}}\\text{N}\"></span></td><td><span class=\"math\" data-latex=\"14.0031\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"{^4_2}\\text{He}\"></span></td><td><span class=\"math\" data-latex=\"4.0026\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"{^{17}_{8}}\\text{O}\"></span></td><td><span class=\"math\" data-latex=\"16.9991\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"{^1_1}\\text{H}\"></span></td><td><span class=\"math\" data-latex=\"1.0078\"></span></td></tr></tbody></table>\n<p>Which of the following correctly describes the change in the total rest mass and the energy transfer during this reaction?</p>\n<table><thead><tr><th></th><th>Change in total rest mass</th><th>Energy transfer</th></tr></thead><tbody><tr data-label=\"A\"><td><strong>A</strong></td><td>decrease</td><td>energy is released</td></tr><tr data-label=\"B\"><td><strong>B</strong></td><td>decrease</td><td>energy is absorbed</td></tr><tr data-label=\"C\"><td><strong>C</strong></td><td>increase</td><td>energy is released</td></tr><tr data-label=\"D\"><td><strong>D</strong></td><td>increase</td><td>energy is absorbed</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

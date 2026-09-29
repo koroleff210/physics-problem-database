@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_7ce9ec9df4ef410296b9b43a36d07f2c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sample of liquid X with mass <span class=\"math\" data-latex=\"2m\"></span> and temperature <span class=\"math\" data-latex=\"60^\\circ\\text{C}\"></span> is mixed with a sample of liquid Y with mass <span class=\"math\" data-latex=\"m\"></span> and temperature <span class=\"math\" data-latex=\"10^\\circ\\text{C}\"></span> in a perfectly insulated container. The final equilibrium temperature of the mixture is <span class=\"math\" data-latex=\"30^\\circ\\text{C}\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{specific heat capacity of liquid X}}{\\text{specific heat capacity of liquid Y}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{3}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

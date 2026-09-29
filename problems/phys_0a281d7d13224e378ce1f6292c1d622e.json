@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_0a281d7d13224e378ce1f6292c1d622e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Control rods are lowered into a thermal nuclear fission reactor to<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">decrease the overall rate of fission occurring in the reactor.</li><li data-label=\"B\">increase the overall rate of fission occurring in the reactor.</li><li data-label=\"C\">reduce the energies of fission neutrons to thermal values.</li><li data-label=\"D\">increase the energies of fission neutrons to thermal values.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

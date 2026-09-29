@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_f46d75d2bb234a51950db66ac7cf9beb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A progressive transverse wave of wavelength <span class=\"math\" data-latex=\"12.0\"></span> cm propagates along a stretched string. The table shows the horizontal positions of two points, X and Y, on the string at a particular instant.</p>\n<table><thead><tr><th>Point</th><th>Horizontal position / cm</th></tr></thead><tbody><tr><td>X</td><td>5.0</td></tr><tr><td>Y</td><td>8.0</td></tr></tbody></table>\n<p>What is the phase difference between the oscillations of points X and Y?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{8}\"></span> rad</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{4}\"></span> rad</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span> rad</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\pi\"></span> rad</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

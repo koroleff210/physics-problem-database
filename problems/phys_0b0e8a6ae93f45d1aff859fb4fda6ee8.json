@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0b0e8a6ae93f45d1aff859fb4fda6ee8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point charge of <span class=\"math\" data-latex=\"-4.0\\text{ }\\mu\\text{C}\"></span> is moved from a position where the electric potential is <span class=\"math\" data-latex=\"-30\\text{ V}\"></span> to a position where the electric potential is <span class=\"math\" data-latex=\"+70\\text{ V}\"></span>. The two positions are separated by a distance of <span class=\"math\" data-latex=\"5.0\\text{ cm}\"></span> within a uniform electric field.</p>\n<p>What are the change in the electric potential energy of the charge and the magnitude of the electric field strength?</p>\n<table><thead><tr><th>Answer</th><th>Change in potential energy / <span class=\"math\" data-latex=\"\\text{mJ}\"></span></th><th>Electric field strength / <span class=\"math\" data-latex=\"\\text{kV m}^{-1}\"></span></th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>-0.40</td><td>20</td></tr><tr data-label=\"B\"><td>B</td><td>-0.40</td><td>2.0</td></tr><tr data-label=\"C\"><td>C</td><td>+0.40</td><td>2.0</td></tr><tr data-label=\"D\"><td>D</td><td>+0.40</td><td>20</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

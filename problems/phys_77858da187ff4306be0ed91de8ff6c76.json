@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f564ee6d85b4af49d33f06ca931628d9267b2ad58cf62a466c132daafecebe97.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f564ee6d85b4af49d33f06ca931628d9267b2ad58cf62a466c132daafecebe97"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_77858da187ff4306be0ed91de8ff6c76",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two parallel, straight wires carry currents in opposite directions as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following statements is correct about the wires?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The magnitude of the forces exerted by the wires on each other is the same. The forces are repulsive.</li>\n<li data-label=\"B\">The magnitude of the forces exerted by the wires on each other is the same. The forces are attractive.</li>\n<li data-label=\"C\">The force exerted by wire A on wire B is smaller than the force exerted by wire B on wire A. The force is repulsive.</li>\n<li data-label=\"D\">The force exerted by wire A on wire B is smaller than the force exerted by wire B on wire A. The force is attractive.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

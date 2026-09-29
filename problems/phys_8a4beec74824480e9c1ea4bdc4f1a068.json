@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_8a4beec74824480e9c1ea4bdc4f1a068",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone of mass <span class=\"math\" data-latex=\"m\"></span> is dropped into a tube containing a liquid of specific heat capacity <span class=\"math\" data-latex=\"c\"></span>. The stone falls through a vertical distance of <span class=\"math\" data-latex=\"H\"></span> and <span class=\"math\" data-latex=\"75\"></span> % of its initial gravitational potential energy is converted into kinetic energy. The rest of the initial gravitational potential energy is absorbed by the liquid. As a result, the temperature of the liquid increases by <span class=\"math\" data-latex=\"T\"></span>. What is the mass of the liquid in the tube?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mgH}{4cT}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{4mgH}{cT}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3mgH}{4cT}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4mgH}{3cT}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_5ab48376b4a7492a8ae489ccfe112d6c",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The particles are in constant, random, straight-line motion. [1 mark]<br/>- The actual volume of the gas particles is negligible compared to the total volume of the container. (Accept: There are no intermolecular forces of attraction or repulsion between particles). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify Boyle's Law for a process at constant temperature: <span class=\"math\" data-latex=\"P_1V_1 = P_2V_2\"></span> [1 mark]</p>\n<p>- Substitute the known values into the equation: <span class=\"math\" data-latex=\"102 \\times 40.0 = 240 \\times V_2\"></span> [1 mark]</p>\n<p>- Calculate the final volume <span class=\"math\" data-latex=\"V_2\"></span>: <span class=\"math\" data-latex=\"V_2 = \\frac{102 \\times 40.0}{240} = 17.0 \\text{ cm}^3\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An experiment is conducted using a gas syringe to investigate the relationship between the pressure and volume of a fixed mass of oxygen gas at a constant temperature.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State two fundamental assumptions of the kinetic-molecular theory regarding the behavior of particles in an ideal gas.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Initially, the syringe contains <span class=\"math\" data-latex=\"40.0 \\text{ cm}^3\"></span> of gas at a pressure of <span class=\"math\" data-latex=\"102 \\text{ kPa}\"></span>. The plunger is depressed until the pressure reaches <span class=\"math\" data-latex=\"240 \\text{ kPa}\"></span>. Calculate the final volume of the gas, assuming the temperature remains constant throughout the process.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

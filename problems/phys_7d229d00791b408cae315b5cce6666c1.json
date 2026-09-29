@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7d229d00791b408cae315b5cce6666c1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric hoist lifts a container of weight <span class=\"math\" data-latex=\"500\\text{ N}\"></span> at a constant vertical speed of <span class=\"math\" data-latex=\"2.0\\text{ m s}^{-1}\"></span>. The electrical power supplied to the hoist is <span class=\"math\" data-latex=\"2.5\\text{ kW}\"></span>. What is the efficiency of the hoist?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"20\\%\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"25\\%\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"40\\%\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"80\\%\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

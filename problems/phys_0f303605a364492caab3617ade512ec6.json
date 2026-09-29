@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0f303605a364492caab3617ade512ec6",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"I = e \\sigma T^4 = 0.7 \\times 5.67 \\times 10^{-8} \\times 300^4\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"I = 321\\text{ W m}^{-2}\"></span> [1 mark]</p>\n<p>_<strong>OR</strong>_</p>\n<p><span class=\"math\" data-latex=\"\\sigma T^4 \\approx 459\\text{ W m}^{-2}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"I = 0.7 \\times 459 \\approx 321\\text{ W m}^{-2}\"></span> [1 mark]</p>\n<p>Note: <br/>Accept <span class=\"math\" data-latex=\"I\"></span> in the range <span class=\"math\" data-latex=\"320\"></span> to <span class=\"math\" data-latex=\"322\\text{ W m}^{-2}\"></span> (depending on rounding) </p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The intensity is <span class=\"math\" data-latex=\"70\\%\"></span> of the black body intensity (or <span class=\"math\" data-latex=\"I = 0.7 \\times I_{\\text{black body}}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Emissivity depends on the material and the surface finish/texture (and is wavelength dependent in general). [1 mark]</p>\n<p>Dull/matte/rough, non-metallic surfaces tend to have higher emissivity (closer to <span class=\"math\" data-latex=\"1\"></span>), while shiny/polished metallic or reflective surfaces tend to have lower emissivity. [1 mark]</p>\n<p>_<strong>OR</strong>_</p>\n<p>Higher emissivity: rough, oxidized, or painted surfaces. [1 mark]</p>\n<p>Lower emissivity: smooth, polished metal surfaces. [1 mark]</p>\n<p>Note:  Do not award credit for stating that ice or snow has low emissivity, as they have high emissivity in the infrared spectrum despite having high albedo in the visible spectrum. </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The surface of the Earth emits infrared radiation at <span class=\"math\" data-latex=\"300\\text{ K}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the intensity of radiation emitted by dry land (emissivity <span class=\"math\" data-latex=\"e = 0.7\"></span>). [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Compare this intensity with the intensity of a black body at the same temperature. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Describe how surface type affects emissivity. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

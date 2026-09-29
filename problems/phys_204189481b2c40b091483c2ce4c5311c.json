@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_204189481b2c40b091483c2ce4c5311c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about the Carnot cycle are:</p>\n<p>I. The Carnot cycle is a reversible process.</p>\n<p>II. There are exactly two adiabatic changes during a Carnot cycle.</p>\n<p>III. If the cold reservoir of a Carnot engine could be held at a temperature of <span class=\"math\" data-latex=\"0\\:\\textup{K}\"></span>, the efficiency of the engine would be <span class=\"math\" data-latex=\"100\\%\"></span>.</p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

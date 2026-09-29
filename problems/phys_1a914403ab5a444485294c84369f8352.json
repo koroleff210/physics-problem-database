@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/993137456970739f097871e16b8f05a1522208298194b3615e3200801f414604.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "993137456970739f097871e16b8f05a1522208298194b3615e3200801f414604"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/255a44cf24c0509528af8191b66ac949a1f5183fbbf2d692ab1cb29e13ade519.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "255a44cf24c0509528af8191b66ac949a1f5183fbbf2d692ab1cb29e13ade519"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/a926d46b42a899e3c98e7122e03c55064032893c3fb0f9007900248810e8fa42.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a926d46b42a899e3c98e7122e03c55064032893c3fb0f9007900248810e8fa42"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_1a914403ab5a444485294c84369f8352",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\omega_{f}^{2}=0+2\\times 0.110\\times 6\\times 2\\pi\"></span>  ✓ <span class=\"math\" data-latex=\"\\omega_{f}=2.88 rad s^{-1}\"></span> ✓   Other methods are possible.<br/>Answer 3 given so look for correct working<br/>At least 2 sig figs for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>concave up from origin ✓</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"Γ=I \\alpha so Γ=0.110\\times 0.0216= 2.38\\times 10^{-3} N m\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"\\alpha=\\frac{2.9^{2}}{2\\times 2\\pi\\times 30}=\"></span> OR <span class=\"math\" data-latex=\"-0.022 rad s^{-2}\"></span> ✓ <span class=\"math\" data-latex=\"t =\\frac{\\omega_{f}-\\omega_{i}}{\\alpha}=\\frac{-2.9}{-0.0220}=130s\"></span>✓   Other methods are possible. Allow <span class=\"math\" data-latex=\"131 s\"></span> if <span class=\"math\" data-latex=\"2.88\"></span> used Allow <span class=\"math\" data-latex=\"126 s\"></span> if <span class=\"math\" data-latex=\"3\"></span> used Award [2] marks for a bald correct answer</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A bar rotates horizontally about its centre, reaching a maximum angular velocity in six complete rotations from rest. The bar has a constant angular acceleration of <span class=\"math\" data-latex=\"0.110 rad s^{-2}\"></span>. The moment of inertia of the bar about the axis of rotation is <span class=\"math\" data-latex=\"0.0216 kg m^{2}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the final angular velocity of the bar is about <span class=\"math\" data-latex=\"3 rad s^{-1}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Draw the variation with time <span class=\"math\" data-latex=\"t\"></span> of the angular displacement <span class=\"math\" data-latex=\"\\theta\"></span> of the bar during the acceleration.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the torque acting on the bar while it is accelerating. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The torque is removed. The bar comes to rest in <span class=\"math\" data-latex=\"30\"></span> complete rotations with constant angular deceleration. Determine the time taken for the bar to come to rest. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/85d0f372a403663ed562899cd146f6a52f273f0597b6e40e41cc1f290882a7ab.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "85d0f372a403663ed562899cd146f6a52f273f0597b6e40e41cc1f290882a7ab"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/bab3982997f074330a6a2cdf5dbd80b23b2d4c7d863ed86357cd8ed4f52ceff7.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bab3982997f074330a6a2cdf5dbd80b23b2d4c7d863ed86357cd8ed4f52ceff7"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_3463e8ef085a44399571bad01b3f71b9",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ring B cuts an increasing number of magnetic field lines ✓ OR magnetic field from current in A increases at the position of B ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>counterclockwise ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>the rate of change of «magnetic» flux in B increases OR The gradient of the graph is increasing with time ✓ Faraday’s law states that the induced emf in B will «therefore» increase ✓ so induced current will increase because resistance of ring is constant ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>the current induced in B gives rise to a magnetic field opposing that of A OR there will be a magnetic force opposing the motion ✓ work must be done to move B in the opposite direction to this force ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two conducting rings, A and B, have their centres on the same line. The planes of A and B are parallel. There is a constant clockwise current in A. Ring A is stationary and ring B moves towards ring A at a constant speed.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline why the magnetic flux in ring B increases. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the direction of the induced current in ring B. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The graph shows how the magnetic flux in ring B varies with time.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Discuss the variation with time of the induced current in ring B.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Outline why work must be done on ring B as it moves towards ring A at a constant speed. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

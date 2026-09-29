@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_17d455c4bd6f44708975fd54ed3ad571",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The potential difference between two parallel plates is <span class=\"math\" data-latex=\"V\"></span>. The kinetic energy gained by a proton as it moves from the positively charged plate to the negatively charged plate is <span class=\"math\" data-latex=\"E\"></span>. Then, the distance between the plates is halved and the potential difference between the plates is increased to  <span class=\"math\" data-latex=\"2V\"></span>. What is the kinetic energy gained by an alpha-particle as it moves from the positively charged plate to the negatively charged plate after the changes?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{E}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{E}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2E\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4E\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

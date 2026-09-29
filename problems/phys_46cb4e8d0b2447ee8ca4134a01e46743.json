@@ -1,0 +1,36 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "A.5",
+    "C.3",
+    "D.3",
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_46cb4e8d0b2447ee8ca4134a01e46743",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Equates electric potential energy and kinetic energy: qV = ½mv²;<br/>v = √(2qV/m) = √(2 × 1.60×10⁻¹⁹ × 1.2×10³ / 1.67×10⁻²⁷) = 4.795...×10⁵ m s⁻¹;<br/>This is shown to be approximately 5 × 10⁵ m s⁻¹.</p>\n<p>Award [2] for seeing the energy equation and a calculation leading to the correct value. A concluding statement is required.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>The calculated speed (≈ 4.8×10⁵ m s⁻¹) is much smaller than the speed of light c (v ≈ 0.0016c);</p>\n<p>Comparison to c is required.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Equates magnetic force and centripetal force: qvB = mv²/R;<br/>R = mv / (qB) = (1.67×10⁻²⁷ × 4.80×10⁵) / (1.60×10⁻¹⁹ × 0.14) = 0.0358 m ≈ 3.6 cm.</p>\n<p>Allow use of v = 5×10⁵ m s⁻¹ leading to R ≈ 3.7 cm. Award [1] for formula, [1] for correct calculation.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Isotopes of hydrogen have different masses but the same charge; Since radius R depends on mass (R ∝ √m), they will follow paths with different radii.</p>\n<p>Must mention different masses for the same element/charge.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Grating spacing d = 1 / (5200 lines/cm) = 1 / (520000 lines/m);<br/>Using d sinθ = nλ, with n=2 and λ₁ = 656.296 nm (the smaller wavelength corresponds to the smaller angle θ₁);<br/>sinθ₁ = (nλ₁)/d = (2 × 656.296×10⁻⁹) × 520000 = 0.6825...;<br/>θ₁ = 43.0°.</p>\n<p>Award [1] for correct setup of grating equation with correct values. Award [1] for final correct answer to 3 s.f.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A proton is accelerated from rest through a potential difference V = 1.2 kV.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the velocity v of the proton is about 5 × 10⁵ m s⁻¹. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why relativistic effects are negligible. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate R. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Explain how this accounts for the existence of isotopes. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Determine θ₁. [2]</p></section>"
+  },
+  "review": {
+    "assets": "needs_review",
+    "classification": "approved",
+    "content": "needs_review",
+    "issues": [
+      {
+        "code": "source_assets_and_prompt_incomplete",
+        "field": "question.html",
+        "message": "The normalized prompt omits the 0.14 T magnetic-field setup and path diagram for part c, the ionized-hydrogen mass/radius setup for part d, and the grating/wavelength data and diffraction diagram for part e present on source pages 11-12."
+      }
+    ],
+    "status": "quarantined"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

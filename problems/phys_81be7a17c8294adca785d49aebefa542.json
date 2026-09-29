@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_81be7a17c8294adca785d49aebefa542",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple pendulum and a mass–spring system oscillate with the same time period. The mass of the pendulum bob and the mass on the spring are initially identical. The masses are halved.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{time period of pendulum}}{\\textit{time period of mass-spring system}}\"></span> when the masses have been changed?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{2}}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"1\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

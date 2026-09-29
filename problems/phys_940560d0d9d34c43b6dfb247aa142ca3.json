@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/99b82f2ca851c1ed6dc94ed7ad81698166d1e1efc109c1c95d2f5bdcad1bdd03.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "99b82f2ca851c1ed6dc94ed7ad81698166d1e1efc109c1c95d2f5bdcad1bdd03"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_940560d0d9d34c43b6dfb247aa142ca3",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cart of mass 1 kg moving at 4 m s<sup>−1</sup> collides with a stationary cart of mass 3 kg.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>After the collision the carts stick together.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{kinetic energy after the collision}}{\\textit{kinetic energy before the collision}}\"></span>?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

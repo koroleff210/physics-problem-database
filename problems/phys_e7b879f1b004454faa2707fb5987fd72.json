@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_e7b879f1b004454faa2707fb5987fd72",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Stars X and Y have the same surface temperature. Star X has a radius <span class=\"math\" data-latex=\"R\"></span> and is a distance <span class=\"math\" data-latex=\"d\"></span> from Earth. The distance of star Y from Earth is <span class=\"math\" data-latex=\"\\frac{d}{2}\"></span>. The apparent brightness of Y is double that of X.</p>\n<p>What is the radius of star Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{R}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{2}}{2}R\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"R\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2R\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

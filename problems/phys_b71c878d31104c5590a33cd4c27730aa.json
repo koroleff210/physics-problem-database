@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_b71c878d31104c5590a33cd4c27730aa",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is <strong>not</strong> an invariant quantity, according to special relativity? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Proper length</li>\n<li data-label=\"B\">Spacetime interval</li>\n<li data-label=\"C\">Absolute space</li>\n<li data-label=\"D\">Proper time interval</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

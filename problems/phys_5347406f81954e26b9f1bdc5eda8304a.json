@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f6c9edcad368ca861e6eb00d53e9850db76a4eb967ce709f1836a089e9a77783.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f6c9edcad368ca861e6eb00d53e9850db76a4eb967ce709f1836a089e9a77783"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/70ab36355a598f15e2c495fc831747a0194bb57c8b309dd7ea1c8e28a7a6a149.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "70ab36355a598f15e2c495fc831747a0194bb57c8b309dd7ea1c8e28a7a6a149"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/a7d96503c05a847d4fce81b97e00ffdd9e36181965c4b782190e538d899a52c2.jpg",
+      "id": "fig_03",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a7d96503c05a847d4fce81b97e00ffdd9e36181965c4b782190e538d899a52c2"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/6d9c2c45172c44a1c136ca3301b11d471c072e7762e7021627654bed7ae48246.jpg",
+      "id": "fig_04",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6d9c2c45172c44a1c136ca3301b11d471c072e7762e7021627654bed7ae48246"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5347406f81954e26b9f1bdc5eda8304a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>A: This configuration represents a couple. While the net force is zero (<span class=\"math\" data-latex=\"F - F = 0\"></span>), there is a non-zero net torque, causing the bar to rotate.</p>\n<p>B: In this case, the net force is not zero (<span class=\"math\" data-latex=\"F + F - F = F\"></span> upward), so the bar will undergo translational acceleration.</p>\n<p>C: Although the net force is zero (<span class=\"math\" data-latex=\"F + F - 2F = 0\"></span>), the downward force is not centered. This creates a net clockwise torque about the center of the bar, so it is not in rotational equilibrium.</p>\n<p>D: Static equilibrium requires both the net force and the net torque to be zero.<br/>- Net Force: <span class=\"math\" data-latex=\"F + F - 2F = 0\"></span><br/>- Net Torque: Taking moments about the center, <span class=\"math\" data-latex=\"(F \\times d) - (F \\times d) + (2F \\times 0) = 0\"></span>.<br/>Both conditions are satisfied.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform rigid bar is subjected to multiple vertical forces acting within the same vertical plane. The weight of the bar is negligible compared to the applied forces.</p>\n<p>In which of the following configurations is the bar in static equilibrium?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

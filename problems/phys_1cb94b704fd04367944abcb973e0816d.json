@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_1cb94b704fd04367944abcb973e0816d",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"I = \\dfrac{S(1 - \\alpha)}{4} = \\dfrac{1360 \\cdot 0.75}{4} = 255,\\text{W m}^{-2}\"></span><br/>[1 mark] for formula<br/>[1 mark] for correct answer</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"I = e\\sigma T^4 \\Rightarrow T = \\left( \\dfrac{255}{0.6 \\cdot 5.67 \\times 10^{-8}} \\right)^{1/4} = 294,\\text{K}\"></span></p>\n<p>[1 mark] for Formula + substitution<br/>[1 mark] for Final temperature.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Increased albedo → more reflection → lower absorbed energy → lower temperature.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A planet has albedo 0.25, emissivity 0.6, and solar constant 1360 W/m².</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the absorbed intensity. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Write the energy balance equation and solve for surface temperature. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Comment on the effect of increasing albedo on the temperature. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

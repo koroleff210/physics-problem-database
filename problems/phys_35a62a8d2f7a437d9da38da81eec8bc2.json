@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_35a62a8d2f7a437d9da38da81eec8bc2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"4.0\"></span> kg is moving at a speed of <span class=\"math\" data-latex=\"6.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> and collides with a stationary block of mass <span class=\"math\" data-latex=\"20\"></span> kg. The blocks stick together after the collision. What is the change in total kinetic energy and the final speed of the system?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Change in total kinetic energy</strong></p>\n</td>\n<td>\n<p><strong>Final speed</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"40\"></span> J</td>\n<td><span class=\"math\" data-latex=\"1.2\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"40\"></span> J</td>\n<td><span class=\"math\" data-latex=\"1.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"60\"></span> J</td>\n<td><span class=\"math\" data-latex=\"1.2\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"60\"></span> J</td>\n<td><span class=\"math\" data-latex=\"1.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

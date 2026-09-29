@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/73c3aabd1606cc6ef9498e461df2348e286b1513aa97f7b7faac2411ac7cba0f.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "73c3aabd1606cc6ef9498e461df2348e286b1513aa97f7b7faac2411ac7cba0f"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_f343d5635fb24d848a776639f037caa2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a longitudinal standing wave in a pipe at one instant in time. Point A lies at a displacement antinode.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At this instant, what is the direction of the displacement of the air particles at point A?</p><ol class=\"mcq-options\"><li data-label=\"A\">To the left</li><li data-label=\"B\">To the right</li><li data-label=\"C\">Zero (no displacement)</li><li data-label=\"D\">Cannot be determined</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

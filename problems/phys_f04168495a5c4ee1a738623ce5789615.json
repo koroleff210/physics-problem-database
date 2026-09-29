@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_f04168495a5c4ee1a738623ce5789615",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the main fuel used in most nuclear fission reactors?</p><ol class=\"mcq-options\"><li data-label=\"A\">Uranium-238</li><li data-label=\"B\">Uranium-235</li><li data-label=\"C\">Plutonium-240</li><li data-label=\"D\">Thorium-232</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

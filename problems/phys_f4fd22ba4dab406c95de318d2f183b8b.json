@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_f4fd22ba4dab406c95de318d2f183b8b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet has a gravitational potential at its surface of <span class=\"math\" data-latex=\"-V\"></span>. Which expression gives the minimum work required to move a probe of mass <span class=\"math\" data-latex=\"m\"></span> from the surface of the planet to a point an infinite distance away?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}mV\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"mV\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2mV\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{V}{m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

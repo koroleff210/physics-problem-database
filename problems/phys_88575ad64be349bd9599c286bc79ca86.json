@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_88575ad64be349bd9599c286bc79ca86",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron enters the space inside a current-carrying solenoid. The velocity of the electron is parallel to the solenoid’s axis. The electron is</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">slowed down.</li><li data-label=\"B\">speeded up.</li><li data-label=\"C\">undeflected.</li><li data-label=\"D\">deflected outwards.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

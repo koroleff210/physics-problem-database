@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_193801cc16bc4af081a32f852cf008ad",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>A central bright fringe with successive dimmer fringes on both sides.</p>\n<p>[1 mark]</p>\n<p>The fringes are symmetrical about the centre.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Fringe width becomes narrower.</p>\n<p>[1 mark]</p>\n<p>Diffraction becomes less noticeable.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Most of the energy is concentrated in the central maximum.</p>\n<p>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Light of wavelength 600 nm is incident on a narrow slit.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Describe the diffraction pattern that appears on a screen.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain how increasing the slit width affects the pattern.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest why the central maximum is brighter than the others.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

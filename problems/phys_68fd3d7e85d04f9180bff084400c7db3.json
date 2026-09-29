@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ae7af8ca46ee6489aeaf4bb94536f1cd159b7b5a051170656bd4f7fbd7091c44.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ae7af8ca46ee6489aeaf4bb94536f1cd159b7b5a051170656bd4f7fbd7091c44"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_68fd3d7e85d04f9180bff084400c7db3",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Attempt to find area of triangle ✓ <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 8.0\\times 180=720\"></span> «kg m<sup>2</sup> s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of <span class=\"math\" data-latex=\"\\Delta L = \\Delta ( I ω )\"></span> ✓ 2.6 kg m<sup>2</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Correct conversions to a consistent set of <span class=\"math\" data-latex=\"\\omega\"></span> units ✓  <span class=\"math\" data-latex=\"\\frac{1}{2}\\times L\\times \\omega_{f}^{2}-\\omega_{i}^{2}\"></span> or correct substitution seen ✓  113 kJ ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The graph shows the variation in torque with time applied to a rotating flywheel.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the angular impulse applied to the flywheel. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The angular speed of the flywheel increased by 280 rad s<sup>−1</sup> during the application of the angular impulse.</p>\n<p>Determine the moment of inertia of the flywheel.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The flywheel was rotating at 150 rev per minute before the application of the angular impulse. Determine the change in angular rotational energy of the flywheel during the application of the flywheel. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

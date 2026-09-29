@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/647c7ccc61a9a2ce1982238da3432b3aa3792ed20127eac82eb6d4527f325da4.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "647c7ccc61a9a2ce1982238da3432b3aa3792ed20127eac82eb6d4527f325da4"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_a0a291da76c644cf9b0876a44e303f49",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker moves to the left at speed <span class=\"math\" data-latex=\"\\frac{v}{7}\"></span>, where <span class=\"math\" data-latex=\"v\"></span> is the speed of sound in air. It emits sound of frequency <span class=\"math\" data-latex=\"f\"></span>. A stationary observer is in front of the loudspeaker.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following gives the observed frequency <span class=\"math\" data-latex=\"f_{\\text{obs}}\"></span> heard by the observer?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"f_{\\text{obs}} = \\dfrac{7}{6}f\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"f_{\\text{obs}} = \\dfrac{6}{7}f\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"f_{\\text{obs}} = \\dfrac{8}{7}f\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"f_{\\text{obs}} = \\dfrac{7}{8}f\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

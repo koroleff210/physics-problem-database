@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/58f9585fb52f289a74dffb580e5b0c1d79de8e62243a40be2251ad6667fb33c4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "58f9585fb52f289a74dffb580e5b0c1d79de8e62243a40be2251ad6667fb33c4"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/9f3db6c28f98a856542546336943b0214fe58ed7fc6ee666dc1bbf470a810d7a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "9f3db6c28f98a856542546336943b0214fe58ed7fc6ee666dc1bbf470a810d7a"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f0c5ab84b8d54ab6af0d15318c9092d8",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a\"><p><strong>12a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"12b\"><p><strong>12b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"I = \\frac{\\Delta q}{\\Delta t} = \\frac{\\left ( 1.7 \\times 10^{21} \\right )(1.6 \\times 10^{-19})}{60} \\approx 4.53\"></span> A <span class=\"math\" data-latex=\"\\approx 4.5\"></span> A</p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12c\"><p><strong>12c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"B = \\frac{390 \\times 10^{-3}}{\\left ( 4.5 \\right )\\left ( 0.65 \\right )} \\approx 0.13\"></span> T or <span class=\"math\" data-latex=\"130\"></span> mT</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12d\"><p><strong>12d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\theta\"></span> in the equation <span class=\"math\" data-latex=\"F = BILsin(\\theta)\"></span> is the angle between the direction of the magnetic field and the direction of the current in the wire.</p>\n<p>Since this angle remains unchanged, the magnitude of the electromagnetic force on the wire also remains unchanged.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A current-carrying wire of length <span class=\"math\" data-latex=\"65\"></span> cm is placed in a magnetic field of strength <span class=\"math\" data-latex=\"B\"></span>. The direction of the field is into the page. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The arrow shows the direction of the electron flow in the wire. The angle between the direction of the electron flow and the horizontal is <span class=\"math\" data-latex=\"45^{\\circ}\"></span>.</p>\n<p>a. Draw an arrow on the diagram to represent the direction of the electromagnetic force that acts on the wire.</p>\n<p>  [1]</p>\n<p>Q is a point along the wire. During one minute, <span class=\"math\" data-latex=\"1.7 \\times 10^{21}\"></span> electrons pass Q.</p>\n<p>b. Show that the current in the wire is about <span class=\"math\" data-latex=\"4.5\"></span> A.</p>\n<p>   [2]</p>\n<p>The magnitude of the electromagnetic force that acts on  the wire is <span class=\"math\" data-latex=\"390\"></span> mN.</p>\n<p>c. Find <span class=\"math\" data-latex=\"B\"></span>. State an appropriate unit with your answer.</p>\n<p>   [2]</p>\n<p>The angle between the direction of the electron flow in the wire and the horizontal is changed to <span class=\"math\" data-latex=\"70^{\\circ}\"></span>.</p>\n<p>Outline, without a calculation, how this change affects the magnitude of the electromagnetic force that acts on the wire. </p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

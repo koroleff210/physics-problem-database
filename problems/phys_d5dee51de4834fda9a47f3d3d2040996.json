@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c97be6ff16a6081abccd5f1933fe468913ef4ee552457a8761da55be29399df4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c97be6ff16a6081abccd5f1933fe468913ef4ee552457a8761da55be29399df4"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_d5dee51de4834fda9a47f3d3d2040996",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A current-carrying wire is in a uniform magnetic field. The arrow shows the direction in which negative charge flows. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the electromagnetic force that acts on the wire?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Out of the page</li>\n<li data-label=\"B\">Into the page</li>\n<li data-label=\"C\">To the left</li>\n<li data-label=\"D\">To the right</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

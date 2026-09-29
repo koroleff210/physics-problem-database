@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a0390006ed828ea7a34cdf5cd7657cb86ba04483a6cc56458448e8cffa7b07af.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a0390006ed828ea7a34cdf5cd7657cb86ba04483a6cc56458448e8cffa7b07af"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d970c47a908b4fb2bf867bef967c47ae",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three equipotential surfaces are shown around a star. A, B, C, and D are different points on these surfaces.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>An astronaut moves a satellite between two points. The work done by the astronaut is the largest when she moves the satellite from:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">D to B</li>\n<li data-label=\"B\">B to A</li>\n<li data-label=\"C\">C to D</li>\n<li data-label=\"D\">C to A</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

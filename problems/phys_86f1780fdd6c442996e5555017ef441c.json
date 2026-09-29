@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f20dd442740b208b72cbb24a41629a6a8203625a47383b992388f83f9c12fc49.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f20dd442740b208b72cbb24a41629a6a8203625a47383b992388f83f9c12fc49"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_86f1780fdd6c442996e5555017ef441c",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A bird of weight <span class=\"math\" data-latex=\"W\"></span> sits on a thin rope at its midpoint. The rope is almost horizontal and has negligible mass.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The tension in the rope is</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">less than <span class=\"math\" data-latex=\"\\frac{W}{2}\"></span></li><li data-label=\"B\">equal to <span class=\"math\" data-latex=\"\\frac{W}{2}\"></span></li><li data-label=\"C\">between <span class=\"math\" data-latex=\"\\frac{W}{2}\"></span> and <span class=\"math\" data-latex=\"W\"></span></li><li data-label=\"D\">greater than <span class=\"math\" data-latex=\"W\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_75c4615361184531a1f2b77d834017be",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Fission fragments from the fuel rods OR activated materials in (e.g.) fuel rod casings OR nuclei formed by neutron activation from U-235 OR stated products, e.g. Pu, U-236 etc. ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Waste (fuel rod) is placed in cooling ponds for a number of years ✓  After most active products have decayed the uranium is separated to be recycled/reprocessed ✓  The remaining highly active waste is vitrified / made into a solid form ✓  And stored (deep) underground ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State one source of the radioactive waste products from nuclear fission reactions. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline how this waste is treated after it has been removed from the fission reactor. [4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

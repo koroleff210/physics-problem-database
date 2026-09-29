@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_46885513d02a4bfeac60a12077fe9bb7",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Waste is very hot … … So has to be placed in cooling ponds to transfer the (thermal) energy away ✓   OR Waste is very radioactive … ✓ … So has to be placed in cooling ponds to absorb this radiation OR … So has to be handled remotely OR … So has to be transported in crash resistant casings / stored on site ✓   OR Waste will be radioactive for thousands of years … ✓ … So storage needs to be (eventually) in geologically stable areas ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"ln 0.02=-7.63\\times 10^{-10}t\"></span> or equivalent seen ✓ <span class=\"math\" data-latex=\"t=5.1\"></span> Gs ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Idea that the Yttrium half life is much less than Strontium so can assume all Yttrium energy is included. ✓ <span class=\"math\" data-latex=\"0.98\\times 6.02\\times 10^{23}\\times 0.52+2.3\\times 10^{6}\"></span> seen ✓ <span class=\"math\" data-latex=\"=1.67\\times 1030 eV\"></span> Answer <span class=\"math\" data-latex=\"\\times 1.6\\times 10^{-19}=270\"></span> GJ ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>(No)  <br/>(anti-)neutrinos are released in (both) decays ✓ Carrying away energy because they interact poorly with matter ✓   Ignore arguments relating to energy transferred to nucleus as this appears eventually as thermal energy.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Suggest one problem that is faced in dealing with the waste from nuclear fission reactors. Go on to outline how this problem is overcome. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Strontium-90 is a waste product from nuclear reactors that has a decay constant of 7.63 x 10<sup>−10</sup> s<sup>−1</sup>. Determine, in s, the time that it takes for the activity of strontium-90 to decay to 2% of its original activity. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The decay of one Strontium-90 nucleus leads to an energy release of about 0.52 MeV. The decay product of Strontium-90 is Yttrium-90 which itself decays to stable Zirconium-90 with a decay constant of 3.0 x 10<sup>−6</sup> s<sup>−1</sup>. The energy released in the decay of one Yttrium-90 nucleus is 2.3 MeV.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the energy released when one mole of strontium-90 decays to 2% of its original activity forming the stable daughter product. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Strontium-90 decays to Zirconium-90 via two successive beta emissions. Discuss whether all the energy released when strontium-90 decays to Zirconium-90 can be transferred to a thermal form. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

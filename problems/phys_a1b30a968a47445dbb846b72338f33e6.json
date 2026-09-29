@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_a1b30a968a47445dbb846b72338f33e6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of radioactive nuclide <span class=\"math\" data-latex=\"X\"></span> decays into a stable nuclide <span class=\"math\" data-latex=\"Y\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{number of atoms of Y}}{\\textit{number of atoms of X}}\"></span> after two half-lives?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1</li><li data-label=\"B\">2</li><li data-label=\"C\">3</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

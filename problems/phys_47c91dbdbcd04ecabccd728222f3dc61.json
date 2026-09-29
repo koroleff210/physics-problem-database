@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_47c91dbdbcd04ecabccd728222f3dc61",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"4.0\\text{ kg}\"></span> is pulled across a frictionless horizontal surface by two perpendicular forces of <span class=\"math\" data-latex=\"9.0\\text{ N}\"></span> and <span class=\"math\" data-latex=\"12.0\\text{ N}\"></span>. What is the magnitude of the acceleration of the block?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.75\\mathrm{ms}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.0\\mathrm{ms}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3.75\\mathrm{ms}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"5.25\\mathrm{ms}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

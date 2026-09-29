@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_ac89a278e8a04239a633f21a937921b7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the vertical component of the velocity <span class=\"math\" data-latex=\"v_y\"></span> of a projectile at <span class=\"math\" data-latex=\"1.0\\text{ s}\"></span> intervals. The projectile is launched at <span class=\"math\" data-latex=\"t = 0.0\\text{ s}\"></span> and maintains a constant horizontal velocity of <span class=\"math\" data-latex=\"25\\text{ m s}^{-1}\"></span>.</p>\n<table><thead><tr><th>Time <span class=\"math\" data-latex=\"t\"></span> / s</th><th>Vertical velocity <span class=\"math\" data-latex=\"v_y\"></span> / m s<span class=\"math\" data-latex=\"^{-1}\"></span></th></tr></thead><tbody><tr><td>0.0</td><td>30</td></tr><tr><td>1.0</td><td>20</td></tr><tr><td>2.0</td><td>10</td></tr><tr><td>3.0</td><td>0</td></tr></tbody></table>\n<p>What is the maximum vertical height reached by the projectile above its launch position?</p><ol class=\"mcq-options\"><li data-label=\"A\">30 m</li><li data-label=\"B\">75 m</li><li data-label=\"C\">45 m</li><li data-label=\"D\">90 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

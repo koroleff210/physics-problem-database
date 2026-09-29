@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 1,
+  "id": "phys_0d582ca54ad245eebbed76a041296579",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A temperature of 58 <span class=\"math\" data-latex=\"^{o}\"></span>C is equal to:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">-215 K</li>\n<li data-label=\"B\">215 K</li>\n<li data-label=\"C\">-331 K</li>\n<li data-label=\"D\">331 K</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a508f4f439428e2c9669eb51b55576011754429c8e1b3f70ed6a8eaaea9283c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a508f4f439428e2c9669eb51b55576011754429c8e1b3f70ed6a8eaaea9283c5"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_ffff91944ae045c1ac6681ba425dc1c8",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three stars P, Q and R are plotted in the Hertzsprung-Russel diagram with empty circles.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following lists the stars in the order of increasing radius?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Q, R, P</li><li data-label=\"B\">P, R, Q</li><li data-label=\"C\">R, Q, P</li><li data-label=\"D\">R, P, Q</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

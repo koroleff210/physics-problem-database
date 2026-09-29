@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_863f6f4e80294b739b0444a79a3e501f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary wave is established in a pipe closed at one end. The frequencies of three consecutive resonances are measured and recorded in the table below.</p>\n<table><thead><tr><th>Resonance</th><th>Frequency / Hz</th></tr></thead><tbody><tr><td>First measured</td><td><span class=\"math\" data-latex=\"450\"></span></td></tr><tr><td>Second measured</td><td><span class=\"math\" data-latex=\"750\"></span></td></tr><tr><td>Third measured</td><td><span class=\"math\" data-latex=\"1050\"></span></td></tr></tbody></table>\n<p>What is the fundamental frequency of the pipe?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"150\\text{ Hz}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"225\\text{ Hz}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"300\\text{ Hz}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"450\\text{ Hz}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

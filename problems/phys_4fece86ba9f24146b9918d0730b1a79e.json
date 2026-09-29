@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_4fece86ba9f24146b9918d0730b1a79e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cylindrical buoy of density <span class=\"math\" data-latex=\"\\rho_{B}\"></span> and volume <span class=\"math\" data-latex=\"V\"></span> is floating in a liquid of density <span class=\"math\" data-latex=\"\\rho_{L}\"></span>. Given that <span class=\"math\" data-latex=\"25\\, \\%\"></span> of the buoy is above the surface of the liquid, what is the mass of the buoy?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.25 \\rho_{B}V\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.25 \\rho_{L}V\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.75 \\rho_{B}V\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.75 \\rho_{L}V\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

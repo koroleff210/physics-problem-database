@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/45e08edce8834961b7a2e1609e367cd6774c2d99865d8b822ff134fd764a9fc1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "45e08edce8834961b7a2e1609e367cd6774c2d99865d8b822ff134fd764a9fc1"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/94dd7fdb8a1f0e660681ad6ed3171e9f9027392bb7f0441bab00be5ac22ca6dd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "94dd7fdb8a1f0e660681ad6ed3171e9f9027392bb7f0441bab00be5ac22ca6dd"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/cfa16e6fd211fdcb032504be4bd66604add7d88678eb02c829c526e9cdfeea71.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "cfa16e6fd211fdcb032504be4bd66604add7d88678eb02c829c526e9cdfeea71"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_86a68f230a8d4c99a816a59cc332110b",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>horizontal component of any length to the left ✓ vertical component two squares long upwards ✓ E.g.    Ignore point of application. Award [1] max if arrowhead not present.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1 the net/centripetal force has constant magnitude ✓ the direction of the net/centripetal force constantly changes ✓ this is achieved by vector-adding weight and the force from the rod OR the force from the rod is vector difference of the centripetal force and weight ✓   ALTERNATIVE 2 at the top F<sub>rod</sub> = F<sub>c</sub> − W ✓ at the bottom, F<sub>rod</sub> = F<sub>c</sub> + W ✓ net F/F<sub>c</sub> is constant so the force from the rod is different «hence is changing» ✓   Accept reference to centripetal or net force indistinctly. Allow reference to centripetal acceleration.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A mass is attached to one end of a rod and made to rotate with constant speed in a vertical circle.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The scale diagram shows the weight W of the mass at an instant when the rod is horizontal.</p>\n<p>Draw, on the scale diagram, an arrow to represent the force exerted on the mass by the rod.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why the magnitude of the force exerted on the mass by the rod is not constant. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

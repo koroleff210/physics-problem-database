@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_8b3b33d301964e4f94bb84f609f32c9f",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>since the temperature is constant, the average speed or average kinetic energy of the helium atoms remains unchanged [1 mark]</p>\n<p>an increase in volume results in a lower number of atoms per unit volume (reduced number density) [1 mark]</p>\n<p>this leads to a lower frequency of collisions with the balloon's internal surface, resulting in a smaller average force per unit area (pressure) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>uses the relationship <span class=\"math\" data-latex=\"P = \\frac{1}{3}\\rho \\bar{c^2}\"></span> or <span class=\"math\" data-latex=\"v_{rms} = \\sqrt{\\frac{3P}{\nho}}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"v_{rms} = \\sqrt{\\frac{3 \\times 62 \\times 10^3}{0.11}} = 1.3 \\times 10^3 \\ \\mathrm{m \\ s^{-1}}\"></span> [1 mark]</p>\n<p>*Accept <span class=\"math\" data-latex=\"1300 \\ \\mathrm{m \\ s^{-1}}\"></span>.*</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A weather balloon is filled with <span class=\"math\" data-latex=\"4.5 \\ \\mathrm{kg}\"></span> of helium gas. At a specific altitude, the helium has a pressure of <span class=\"math\" data-latex=\"62 \\ \\mathrm{kPa}\"></span> and a density of <span class=\"math\" data-latex=\"0.11 \\ \\mathrm{kg \\ m^{-3}}\"></span>. Helium behaves as an ideal monatomic gas under these conditions.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> As the balloon rises further, the external pressure drops, allowing the helium to expand to a larger volume at a constant temperature. Using the molecular kinetic theory of gases, account for the decrease in internal pressure observed during this expansion. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the root mean square (rms) speed of the helium atoms at the altitude where the pressure is <span class=\"math\" data-latex=\"62 \\ \\mathrm{kPa}\"></span> and the density is <span class=\"math\" data-latex=\"0.11 \\ \\mathrm{kg \\ m^{-3}}\"></span>. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

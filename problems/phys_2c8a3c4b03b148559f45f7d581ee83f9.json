@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_2c8a3c4b03b148559f45f7d581ee83f9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>A simple pendulum released from rest is at its maximum displacement. It reaches maximum speed when it passes through the equilibrium position, which occurs after one-quarter of a period (T/4). The period of a simple pendulum is given by T = 2π√(L/g). Using L = 10 m and approximating g ≈ 10 m/s² (a common simplification in multiple-choice questions to yield clean answers), the period is T = 2π√(10/10) = 2π s. The time to reach maximum speed is therefore t = T/4 = 2π/4 = π/2 s.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple pendulum of length 10 m is released from rest at time t = 0, at a small angle from the vertical. At what value of t, in seconds, will the pendulum reach its maximum speed?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"pi/4\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"pi/2\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"pi\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"2pi\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

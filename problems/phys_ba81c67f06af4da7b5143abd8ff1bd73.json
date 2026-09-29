@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/155584339473cce3747423ebcae8154cba5f51b6d269427f20e7e0dd0b1ea3e6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "155584339473cce3747423ebcae8154cba5f51b6d269427f20e7e0dd0b1ea3e6"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba81c67f06af4da7b5143abd8ff1bd73",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rectangular coil rotates at a constant angular velocity. At the instant shown, the plane of the coil is at right angles to the line <span class=\"math\" data-latex=\"ZZ'\"></span>. A uniform magnetic field acts in the direction <span class=\"math\" data-latex=\"ZZ'\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What rotation of the coil about a specified axis will produce the graph of electromotive force (emf) <span class=\"math\" data-latex=\"E\"></span> against time <span class=\"math\" data-latex=\"t\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Through <span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span> about <span class=\"math\" data-latex=\"ZZ'\"></span></li><li data-label=\"B\">Through <span class=\"math\" data-latex=\"\\pi\"></span> about <span class=\"math\" data-latex=\"YY'\"></span></li><li data-label=\"C\">Through <span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span> about <span class=\"math\" data-latex=\"XX'\"></span></li><li data-label=\"D\">Through <span class=\"math\" data-latex=\"\\pi\"></span> about <span class=\"math\" data-latex=\"XX'\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

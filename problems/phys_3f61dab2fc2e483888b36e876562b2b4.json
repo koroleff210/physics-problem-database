@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/47e8fc6f563330274af86fc915a447207b43d21b2ac81e29e9c30d72eee4b03d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "47e8fc6f563330274af86fc915a447207b43d21b2ac81e29e9c30d72eee4b03d"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_3f61dab2fc2e483888b36e876562b2b4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cell of negligible internal resistance is connected to three identical resistors. The current in the cell is 3.0 A.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The resistors are now arranged in series.</p>\n<p>What is the new current in the cell?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.0 A</li><li data-label=\"B\">1.5 A</li><li data-label=\"C\">3.0 A</li><li data-label=\"D\">9.0 A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

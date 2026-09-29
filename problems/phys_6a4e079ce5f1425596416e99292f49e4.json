@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_6a4e079ce5f1425596416e99292f49e4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>For the first harmonic in a pipe closed at one end and open at the other, there is a displacement node at the closed end and an antinode at the open end. There are no other nodes along the length of the pipe. All points within a single loop of a standing wave (i.e., between two adjacent nodes) oscillate in phase. Since the middle point and the open end are both within the first loop, their phase difference is 0.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A first harmonic standing wave is formed in a pipe with one end open and one end closed. What is the phase difference between the middle point of the pipe and its open end?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"0\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"pi/4\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"pi/2\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"pi\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

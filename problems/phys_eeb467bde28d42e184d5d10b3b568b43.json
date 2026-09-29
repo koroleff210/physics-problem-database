@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_eeb467bde28d42e184d5d10b3b568b43",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star has a luminosity of <span class=\"math\" data-latex=\"5.4 \\times 10^{31}\\:\\textup{W}\"></span> and an apparent brightness of <span class=\"math\" data-latex=\"4.7 \\times 10^{-7}\\:\\textup{W\\,m}^{2}\"></span>.</p>\n<p>What is the best estimate for the stellar parallax of the star?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.1\\: \\textup{arc-second}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.01\\: \\textup{arc-second}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.3\\: \\textup{arc-second}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.03\\: \\textup{arc-second}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

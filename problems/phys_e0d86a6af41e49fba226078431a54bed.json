@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3",
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_e0d86a6af41e49fba226078431a54bed",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus of uranium-235 <sup>235</sup><sub>92</sub>U absorbs a neutron and decays into two nuclides, xenon-140 <sup>140</sup><sub>54</sub>Xe and strontium-94 <sup>94</sup><sub>38</sub>Sr.</p>\n<p>How many neutrons are released in this reaction?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1</li><li data-label=\"B\">2</li><li data-label=\"C\">3</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

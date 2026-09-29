@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_7f6254be6730491a9450e94ddbd8e216",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The left end of a metal cube is held at a constant temperature <span class=\"math\" data-latex=\"T\"></span>, while its right end is held at a constant temperature of <span class=\"math\" data-latex=\"3T\"></span>. The side length of the cube is <span class=\"math\" data-latex=\"L\"></span> and the rate of thermal energy transfer through the cube is <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>The left and right ends of a cube made of the same metal are held at temperatures <span class=\"math\" data-latex=\"2T\"></span> and <span class=\"math\" data-latex=\"5T\"></span>, respectively. Given that the side length of this cube is <span class=\"math\" data-latex=\"2L\"></span>, what is the thermal energy transfer through this cube?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"3R\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6R\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"12R\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"24R\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

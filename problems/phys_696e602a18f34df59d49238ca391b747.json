@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": null,
+  "id": "phys_696e602a18f34df59d49238ca391b747",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A flat coil of wire rotates at a constant frequency in a uniform magnetic field, producing an alternating electromotive force (emf) with a peak value <span class=\"math\" data-latex=\"V\"></span>. The magnetic field strength is doubled and the period of rotation of the coil is reduced by half. What is the new peak value of the induced emf?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"V\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2V\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4V\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8V\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

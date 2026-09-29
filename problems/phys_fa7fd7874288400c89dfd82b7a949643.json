@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/617f7d48a0d93cbd6dbb0c03c9190832e88e7aaf5428c083bf9edfe0d952cac7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "617f7d48a0d93cbd6dbb0c03c9190832e88e7aaf5428c083bf9edfe0d952cac7"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_fa7fd7874288400c89dfd82b7a949643",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point particle of mass <em>m</em> is positioned at a distance of <em>r</em><span class=\"math\" data-latex=\"_{1}\"></span> and <em>r</em><span class=\"math\" data-latex=\"_{2}\"></span> from point particles with mass <em>m</em><span class=\"math\" data-latex=\"_{1}\"></span>and <em>m</em><span class=\"math\" data-latex=\"_{2}\"></span>respectively. The net gravitational force acting on <em>m</em> is <em>F</em>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the magnitude of <em>F </em>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Gm\\left (m_{1}r_{1}^{2}+m_{2}r_{2}^{2}\\right )}{\\left (r_{1}r_{2} \\right )^{2}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{Gm\\left (m_{1}r_{1}^{2}-m_{2}r_{2}^{2}\\right )}{\\left (r_{1}r_{2} \\right )^{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{Gm\\left (m_{1}r_{2}^{2}+m_{2}r_{1}^{2}\\right )}{\\left (r_{1}r_{2} \\right )^{2}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{Gm\\left (m_{1}r_{2}^{2}-m_{2}r_{1}^{2}\\right )}{\\left (r_{1}r_{2} \\right )^{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

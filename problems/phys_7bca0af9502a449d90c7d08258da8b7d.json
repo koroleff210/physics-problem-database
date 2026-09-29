@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_7bca0af9502a449d90c7d08258da8b7d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrectly uses the potential difference between <span class=\"math\" data-latex=\"2.0 \\times 10^7\"></span> m and <span class=\"math\" data-latex=\"4.0 \\times 10^7\"></span> m.</p>\n<p>B: Correctly calculates <span class=\"math\" data-latex=\"\\Delta E_p = m(V_{final} - V_{initial}) = 500 \\times ((-10) - (-40)) \\times 10^6\"></span>.</p>\n<p>C: Calculates potential energy at the starting point only (<span class=\"math\" data-latex=\"500 \\times 40\"></span> MJ).</p>\n<p>D: Incorrectly sums the magnitudes of the initial and final potentials (<span class=\"math\" data-latex=\"500 \\times (40 + 10)\"></span> MJ).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following table lists the gravitational potential <span class=\"math\" data-latex=\"V\"></span> at three distances <span class=\"math\" data-latex=\"r\"></span> from the center of a celestial body.</p>\n<table><thead><tr><th>Distance <span class=\"math\" data-latex=\"r\"></span> / <span class=\"math\" data-latex=\"10^7\"></span> m</th><th>Gravitational potential <span class=\"math\" data-latex=\"V\"></span> / MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></th></tr></thead><tbody><tr><td>1.0</td><td>-40</td></tr><tr><td>2.0</td><td>-20</td></tr><tr><td>4.0</td><td>-10</td></tr></tbody></table>\n<p>A space probe with a mass of <span class=\"math\" data-latex=\"500\"></span> kg is moved from an initial position where <span class=\"math\" data-latex=\"r = 1.0 \\times 10^7\"></span> m to a final position where <span class=\"math\" data-latex=\"r = 4.0 \\times 10^7\"></span> m. What is the change in the gravitational potential energy of the probe?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"5.0 \\times 10^9\"></span> J</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.5 \\times 10^{10}\"></span> J</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0 \\times 10^{10}\"></span> J</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.5 \\times 10^{10}\"></span> J</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

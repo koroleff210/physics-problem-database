@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1b325d1e6e354eaa94709a74a12792dd6ad30fb6e8dce10bf35899212911b6f2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1b325d1e6e354eaa94709a74a12792dd6ad30fb6e8dce10bf35899212911b6f2"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/734fd950afa524957338a0a690e4f748663e997be04bc55b3f6c0af32d5225aa.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "734fd950afa524957338a0a690e4f748663e997be04bc55b3f6c0af32d5225aa"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_488ca660b6c74a59b5fcbb05f5e02aba",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Sankey diagrams for a filament lamp and for an LED bulb are shown below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the efficiency of the filament lamp and the LED bulb?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

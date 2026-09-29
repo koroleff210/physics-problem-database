@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a1836d57550b22004955dbcc319d829c31c87a230ab9a4e150c27b82dff6f333.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a1836d57550b22004955dbcc319d829c31c87a230ab9a4e150c27b82dff6f333"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_b5ed46f5fc4940a597663808d28b040c",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three lamps (X, Y and Z) are connected as shown in the circuit. The emf of the cell is 20 V. The internal resistance of the cell is negligible. The power dissipated by X, Y and Z is 10 W, 20 W and 20 W respectively.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the voltage across Lamp X and Lamp Y?</p>\n<table><tbody><tr><td></td><td><p>Lamp X</p></td><td><p>Lamp Y</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>16 V</p></td><td><p>4 V</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>4 V</p></td><td><p>16 V</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>4 V</p></td><td><p>8 V</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>16 V</p></td><td><p>16 V</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

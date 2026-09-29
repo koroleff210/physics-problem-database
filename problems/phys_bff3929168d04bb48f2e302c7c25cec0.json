@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_bff3929168d04bb48f2e302c7c25cec0",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>Specific heat capacity is the energy required to raise the temperature of one kilogram of a material by one kelvin. </p>\nSpecific latent heat is the energy required to change the phase of one kilogram of a material without changing its temperature.</section><section class=\"markscheme-part\" data-label=\"3b(i)\"><p><strong>3b(i)</strong></p><p></p>\n<p>Let's represent the mass of an ice cube by <em>m</em>.</p>\n<p>Energy required to change the temperature of the ice from -5 <span class=\"math\" data-latex=\"^{o}\"></span>C to 0 <span class=\"math\" data-latex=\"^{o}\"></span>C:</p>\n<p>(5<em>m</em>)(2100)(5) = 52500<em>m</em></p>\n<p>Energy required to melt the ice:</p>\n<p>(5<em>m</em>)(0.37 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{6}\"></span>) = 1850000<em>m</em></p>\n<p>Energy required to change the temperature of the melted ice from 0 <span class=\"math\" data-latex=\"^{o}\"></span>C to 14 <span class=\"math\" data-latex=\"^{o}\"></span>C:</p>\n<p>(5<em>m</em>)(4200)(14) = 294000<em>m</em></p>\n<p>Total energy required by the ice during the process: 2196500<em>m</em></p>\n<p>Energy lost by the water when cooling from 32 <span class=\"math\" data-latex=\"^{o}\"></span>C to 14 <span class=\"math\" data-latex=\"^{o}\"></span>C:</p>\n<p>(0.52)(4200)(18) = 39312 J</p>\n<p>Equating energy values:</p>\n<p>2196500<em>m</em> = 39312</p>\n<p><em>m</em> = 0.017898 kg <span class=\"math\" data-latex=\"\\approx\"></span> 0.018 kg or 18 g</p>\n<p>Answer must be given to 2 s. f. to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b(ii)\"><p><strong>3b(ii)</strong></p><p></p>\n<p>Not all the energy from the cooling water is transferred to the ice. As a result, the specific latent heat of fusion value calculated based on the experiment is higher than the actual value.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c(i)\"><p><strong>3c(i)</strong></p><p></p>\n<p>It takes less time for the crushed ice to melt (because its surface area is larger than that of the ice cubes).</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c(ii)\"><p><strong>3c(ii)</strong></p><p></p>\n<p>The estimated specific latent heat value will be the same (because the same amount of energy is transferred to the ice in both cases). </p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student carries out an experiment to determine the specific latent heat of fusion of ice. She drops five ice cubes into a container filled with water. </p>\n<p>The following data is available for the experiment:</p>\n<p></p>\n<p>Initial temperature of the ice cubes: -5.0 <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p>Initial temperature of the water: 32 <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p>Final temperature of the water: 14 <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p>Mass of water: 520 g</p>\n<p>Specific heat capacity of water: 4.2 kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Specific heat capacity of ice: 2.1 kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Estimated value of specific latent heat of fusion of ice based on the experiment: 0.37 MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p>\n<p></p>\n<p>a. Distinguish between specific heat capacity and specific latent heat.</p>\n<p>  [2]</p>\n<p>b. After carrying out the experiment, the student realizes that she did not measure the mass of the ice cubes.</p>\n<p>i. Find an estimate for the mass of one ice cube. Give your answer to an appropriate number of significant figures.</p>\n<p>  [5]</p>\n<p>ii. State and explain why the value of the specific latent heat of fusion of ice based on the student's calculations is an estimate.</p>\n<p>  [2]</p>\n<p>c. In a similar experiment the same amount of crushed ice is used. Suggest how using crushed ice affects:</p>\n<p>i. The time taken for the ice to completely melt.</p>\n<p>  [1]</p>\n<p>ii. The estimated value of the specific latent heat of fusion of ice.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

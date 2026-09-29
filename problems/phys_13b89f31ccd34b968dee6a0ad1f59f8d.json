@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_13b89f31ccd34b968dee6a0ad1f59f8d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is a correct expression for the energy released during the neutron-induced fission of uranium-235 into barium-144 and krypton-89?</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"( m_{\\textup{U}} - m_{\\textup{Ba}} - m_{\\textup{Kr}})c^{2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"( m_{\\textup{U}} - m_{\\textup{Ba}} - m_{\\textup{Kr}}- m_{n})c^{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"( m_{\\textup{U}} - m_{\\textup{Ba}} - m_{\\textup{Kr}}- 2m_{n})c^{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"( m_{\\textup{U}} - m_{\\textup{Ba}} - m_{\\textup{Kr}}- 3m_{n})c^{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

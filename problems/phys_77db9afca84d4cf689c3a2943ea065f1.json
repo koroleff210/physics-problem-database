@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_77db9afca84d4cf689c3a2943ea065f1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass <span class=\"math\" data-latex=\"m\"></span> of a liquid of specific heat capacity <span class=\"math\" data-latex=\"c\"></span> flows every second through a heater of power <span class=\"math\" data-latex=\"P\"></span>. What is the difference in temperature between the liquid entering and leaving the heater?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mc}{P}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"273+\\frac{mc}{P}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{P}{mc}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"273+\\frac{P}{mc}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

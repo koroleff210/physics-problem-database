@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_ea72ccdde776455c89136804b1a4aaa1",
+  "level": "sl_hl",
+  "marks": 15,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a(i)\"><p><strong>2a(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\overline{E}_{K}\"></span> of one atom:</p>\n<p><span class=\"math\" data-latex=\"\\frac{7.8 \\times 10^{3}}{1.8 \\times 6.0 \\times 10^{23}} \\approx 7.2 \\times 10^{-21}\"></span> J</p>\n<p><span class=\"math\" data-latex=\"\\frac{3}{2}\"></span> <span class=\"math\" data-latex=\"\\times\"></span> 1.38 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-23}\"></span> <span class=\"math\" data-latex=\"\\times\"></span> <em>T</em> = 7.2 <span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"^{-21}\"></span></p>\n<p>T = 347.8 K <span class=\"math\" data-latex=\"\\approx\"></span> 350 K</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2a(ii)\"><p><strong>2a(ii)</strong></p><p><em></em></p>\n<p><em>V</em> = <span class=\"math\" data-latex=\"\\frac{1.8 \\times 8.31 \\times 347.8}{7.2 \\times 10^{5}} \\approx 0.0072\"></span> m<span class=\"math\" data-latex=\"^{3}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>Any two of the following:</p>\n<p>Newton’s laws of motion are obeyed by the gas particles.</p>\n<p>Collisions are perfectly elastic.</p>\n<p>No intermolecular forces act between the particles.</p>\n<p>Gas molecules are considered point particles / have negligible volume.</p>\n<p>The motion of the particles is random. </p>\n<p>The duration of collisions is negligible.</p>\n<p>The effect of gravity is ignored.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c(i)\"><p><strong>2c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\overline{E}_{K}\"></span> of one atom:</p>\n<p><span class=\"math\" data-latex=\"\\frac{7.8 \\times 10^{3}}{1.8 \\times 6.02 \\times 10^{23}} \\approx 7.2 \\times 10^{-21}\"></span> J</p>\n<p>Mass of one atom:</p>\n<p><span class=\"math\" data-latex=\"m = \\frac{6.4 \\times 10^{-3}}{6.02 \\times 10^{23}} \\approx 1.06 \\times 10^{-26}\"></span> kg</p>\n<p>Rearranging <span class=\"math\" data-latex=\"{E}_{K} = \\frac{p^{2}}{2m}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"p=\\sqrt{2 \\times 7.2 \\times 10^{-21} \\times 1.06 \\times 10^{-26}} \\approx 1.237 \\times 10^{-23}\"></span> kg m s<span class=\"math\" data-latex=\"^{-1}\"></span> </p>\n<p>Impulse <span class=\"math\" data-latex=\"= \\Delta p = -p-p = -2p\"></span></p>\n<p>So the magnitude of the impulse <span class=\"math\" data-latex=\"= 2 \\times 1.237 \\times 10^{-23} \\approx 2.5 \\times 10^{-23}\"></span> kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c(ii)\"><p><strong>2c(ii)</strong></p><p></p>\n<p>The direction of the gas atom’s velocity is perpendicular to the container wall.</p>\n<p>OR</p>\n<p>The collision is perfectly elastic. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2d\"><p><strong>2d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"n = \\frac{(0.4 \\times 7.2 \\times 10^{5}) \\times 0.0072}{8.31 \\times (347.8 + 48.3)}\"></span></p>\n<p><span class=\"math\" data-latex=\"n \\approx 0.63\"></span></p>\n<p><em>x</em> = <span class=\"math\" data-latex=\"\\frac{1.8-0.63}{1.8} \\times 100\"></span></p>\n<p><em>x</em> <span class=\"math\" data-latex=\"\\approx\"></span> 65</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2e\"><p><strong>2e</strong></p><p></p>\n<p>Lower temperature means that the gas particles have less kinetic energy.</p>\n<p>Less kinetic energy means decreased momentum and decreased force on the container walls during collisions.</p>\n<p>Since p = <span class=\"math\" data-latex=\"\\frac{F}{A}\"></span> and <em>A</em> (the area of the walls) does not change, pressure is reduced.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sealed box contains 1.8 moles of a monatomic ideal gas at a pressure of 7.2 <span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"^{5}\"></span> Pa. The total internal energy of the gas is 7.8 kJ.</p>\n<p>a. Calculate:</p>\n<p>i. the temperature of the gas.</p>\n<p>  [2]</p>\n<p>ii. the volume of the gas.</p>\n<p>  [1]</p>\n<p>b. The kinetic model of an ideal gas is based on assumptions. State <strong>two</strong> of these assumptions.</p>\n<p>  [2]</p>\n<p>c. The molar mass of the gas is 6.4 g mol<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>i. Calculate the magnitude of the impulse when a gas atom collides with the container wall. </p>\n<p>  [3]</p>\n<p>ii. State an assumption that you made when answering question part (c)(i).</p>\n<p>  [1]</p>\n<p>d. The box is opened and <em>x</em>% of the gas atoms is released. Then the box is sealed and the temperature of the remaining gas atoms is raised by 48.3 <span class=\"math\" data-latex=\"^{o}\"></span>C. The new pressure in the box is 40% of the original pressure. Find <em>x</em>.</p>\n<p>  [3]</p>\n<p>e. The temperature of the gas is reduced. Explain why a decrease in temperature causes the pressure to decrease. Refer to the kinetic model of an ideal gas in your explanation.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

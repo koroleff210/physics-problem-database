@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_67c91be3e9ff42ba98f1ad4768d19362",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two samples of a gas are kept in separate containers. The molecules of each sample have the same average translational speed, but the samples have a different density.</p>\n<p>What is correct about the pressure and the temperature of the samples, as compared to each other?</p>\n<table><tbody><tr><td></td><td><p>Pressure</p></td><td><p>Temperature</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>same</p></td><td><p>same</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>same</p></td><td><p>different</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>different</p></td><td><p>same</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>different</p></td><td><p>different</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

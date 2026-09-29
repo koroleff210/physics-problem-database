@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3a9a194d2c1b430fb1e6123e93650ff3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite orbits Earth with orbital radius <span class=\"math\" data-latex=\"R\"></span>. The centripetal acceleration of the satellite is <span class=\"math\" data-latex=\"a\"></span>. What is the centripetal acceleration of the satellite when it is moved to an orbit with radius <span class=\"math\" data-latex=\"\\frac{R}{3}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"\\frac{a}{9}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"\\frac{a}{3}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"3a\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"9a\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

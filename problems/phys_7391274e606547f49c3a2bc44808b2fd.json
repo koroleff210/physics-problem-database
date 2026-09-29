@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a6092e9744478048988cd47d1debced51efaaa02e99f5a5b8b57bce2eea1ce8c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a6092e9744478048988cd47d1debced51efaaa02e99f5a5b8b57bce2eea1ce8c"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_7391274e606547f49c3a2bc44808b2fd",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle enters a uniform magnetic field and follows a circular path. The mass of the particle is <em>m</em>, its charge is <em>q</em> and its speed as it moves in the magnetic field is <em>v</em>. The direction of the magnetic field, <em>B</em>, is out of the page.</p>\n<p>What is the radius of the path of the particle and what particle is it? </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Radius of the path</strong></p>\n</td>\n<td>\n<p><strong>Particle</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{mv}{Bq}\"></span></td>\n<td>Electron</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{mv^{2}}{Bq}\"></span></td>\n<td>Electron</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{mv}{Bq}\"></span></td>\n<td>Proton</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{mv^{2}}{Bq}\"></span></td>\n<td>Proton</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

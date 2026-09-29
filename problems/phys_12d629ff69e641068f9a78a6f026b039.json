@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_12d629ff69e641068f9a78a6f026b039",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>(26.98434 - 26.98153) × 931.5 OR 2.6175 «MeV» seen ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>evidence for nuclear energy levels ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Difference = 2.6175 – (1.76656 +0.84376) = 2.6175 – 2.61032 = 0.007195 «MeV» OR Difference = 2.6175 – (1.59587 +1.01445) = 2.61032 = 0.007195 «MeV» ✓</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>Another particle/«anti» neutrino is emitted «that accounts for this mass / energy» ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>So 1.1 × 10<sup>−8</sup> kg ≡ <span class=\"math\" data-latex=\"\\frac{1.1}{0.027}\"></span> × 10<sup>−8</sup> «mol» OR Mass of atom = 27 × 1.66 × 10<sup>−27</sup> «kg» ✓ 2.4 − 2.5 x 10<sup>17</sup> atoms ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>N<sub>10</sub> = 9.50 × 10<sup>15</sup> × e<sup>−0.00122×60</sup> seen ✓ N<sub>10</sub> = 4.57 × 10<sup>15</sup> ✓ So number of aluminium-27 nuclei = (9.50 – 4.57) × 10<sup>15</sup> = 4.9(3) × 10<sup>15</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Total energy released = ans (c)(ii) × 2.62 × 10<sup>6</sup> × 1.6 × 10<sup>−19</sup> «= 2100 J» ✓ «<span class=\"math\" data-latex=\"\\frac{2100}{600}\"></span> =» 3.4 −3.5 «W» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Magnesium-27 nuclei (<sup>27</sup><sub>12</sub>Mg) decay by beta-minus (β<sup>−</sup>) decay to form nuclei of aluminium-27 (Al).</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Show, using the data, that the energy released in the decay of one magnesium-27 nucleus is about 2.62 MeV.</p>\n<p>Mass of aluminium-27 atom = 26.98153 u<br/>Mass of magnesium-27 atom = 26.98434 u<br/>The unified atomic mass unit is 931.5 MeV c<sup>−2</sup>.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A Magnesium-27 nucleus can decay by one of two routes:</p>\n<p>Route 1: 70% of the beta particles are emitted with a maximum kinetic energy of 1.76656 MeV, accompanied by a gamma photon of energy 0.84376 MeV.</p>\n<p>Route 2: 30% of the beta particles have a maximum kinetic energy of 1.59587 MeV with a gamma photon of energy 1.01445 MeV.</p>\n<p>The final state of the aluminium-27 nucleus is the same for both routes.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the conclusion that can be drawn from the existence of these two routes. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the difference between the magnitudes of the total energy transfers in parts (a) and (b). [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Explain how the difference in part (b)(ii) arises. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Small amounts of magnesium in a material can be detected by firing neutrons at magnesium-26 nuclei. This process is known as irradiation.</p>\n<p>Magnesium-27 is formed because of irradiation. The products of the beta-particle emission are observed as the magnesium-27 decays to aluminium-27.</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> </p><p>The smallest mass of magnesium that can be detected with this technique is 1.1 × 10<sup>−8</sup> kg.</p>\n<p>Show that the smallest number of magnesium atoms that can be detected with this technique is about 10<sup>17</sup>.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>A sample of glass is irradiated with neutrons so that all the magnesium atoms become magnesium-27. The sample contains 9.50 × 10<sup>15</sup> magnesium atoms.</p>\n<p>The decay constant of magnesium-27 is 1.22 × 10<sup>−3</sup> s<sup>−1</sup>.</p>\n<p>Determine the number of aluminium atoms that form in 10.0 minutes after the irradiation ends.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Estimate, in W, the average rate at which energy is transferred by the decay of magnesium-27 during the 10.0 minutes after the irradiation ends. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

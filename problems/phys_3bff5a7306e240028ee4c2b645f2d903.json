@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cfb36c9a003de449915a6568721d926ef69df6f8f31963f2d1a3b83f66f6a8b5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cfb36c9a003de449915a6568721d926ef69df6f8f31963f2d1a3b83f66f6a8b5"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/26b06f78aa8163bf415ef44fac01dba33be9d418150abf259ec132e78ffc1058.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "26b06f78aa8163bf415ef44fac01dba33be9d418150abf259ec132e78ffc1058"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_3bff5a7306e240028ee4c2b645f2d903",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>evidence of attempt to find gradient or tan θ<br/>OR<br/><span class=\"math\" data-latex=\"x\"></span>/<span class=\"math\" data-latex=\"c\"></span>t = 4/5 ✔ 0.8<span class=\"math\" data-latex=\"c\"></span> ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>point drawn at (3, 1) in <span class=\"math\" data-latex=\"x\"></span>-<span class=\"math\" data-latex=\"c\"></span>t coordinates ✔</p>\n<p>Point must be labelled as E</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>lines drawn from (3, 1) roughly parallel to <span class=\"math\" data-latex=\"x\"></span>′ to intersect with <span class=\"math\" data-latex=\"c\"></span>t′ axis ✔ according to B, event is taking place at t′ &lt; 0/before origin «so before»  ✔</p>\n<p>Watch for ECF from bi). Allow working on diagram OR correct arguments in the answer box.</p>\n<p>Accept use of Lorentz transformation to show <span class=\"math\" data-latex=\"c\"></span>t’ = −2.3.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>ALTERNATIVE 1 using diagram:<br/>line drawn in (b)(ii) intersecting <span class=\"math\" data-latex=\"c\"></span>t′ between −2 and −2.75 ✔<br/>line drawn parallel to <span class=\"math\" data-latex=\"c\"></span>t′ intersecting with <span class=\"math\" data-latex=\"x\"></span>′ from (3, 1) ✔<br/><span class=\"math\" data-latex=\"x\"></span>′ between 3 and 4 ✔</p>\n<p>ALTERNATIVE 2 using Lorentz transformation: γ =1.66 ✔ <span class=\"math\" data-latex=\"c\"></span>t' «= γ(<span class=\"math\" data-latex=\"c\"></span>t −<span class=\"math\" data-latex=\"\\frac{vx}{c}\"></span>)= 1.66 (1 − 0.8 × 3)»= −2.3 ✔</p>\n<p><span class=\"math\" data-latex=\"x\"></span>′«= γ(<span class=\"math\" data-latex=\"x\"></span>−<span class=\"math\" data-latex=\"v\"></span>t) = 1.66(3 − 0.8 × 1)»= 3.7 ✔</p>\n<p>ALTERNATIVE 3</p>\n<p>line drawn in (b)(ii) intersecting <span class=\"math\" data-latex=\"c\"></span>t′ between −2 and −2.75 ✔<br/>use of invariant formula as in b(iv) with values ✔<br/>to get <span class=\"math\" data-latex=\"x\"></span>’=3.7 ✔</p>\n<p>Allow ECF from (a).</p>\n<p>Without explicit answer, award [2max], even if working on diagram seems to be correct.</p>\n<p>Penalise for incorrect signs.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.iv\"><p><strong>b.iv</strong></p><p>(<span class=\"math\" data-latex=\"c\"></span>t)<sup>2</sup> − (<span class=\"math\" data-latex=\"x\"></span>)<sup>2</sup> = 1<sup>2</sup> − 3<sup>2 </sup>= −8 ✔ (<span class=\"math\" data-latex=\"c\"></span>t′) − (<span class=\"math\" data-latex=\"x\"></span>′)<sup>2</sup> = 2.3<sup>2</sup> − 3.7<sup>2 </sup>≈ −8 ✔   Allow ECF from (b)(iii).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The spacetime diagram gives the ct−<span class=\"math\" data-latex=\"x\"></span> axes for observer A. The worldline and <span class=\"math\" data-latex=\"x\"></span>′ axis for observer B are also shown. When observer A and observer B were at the origin of the spacetime diagram their clocks were synchronized.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the speed of observer B with respect to observer A. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> For observer A an event has spacetime coordinate <span class=\"math\" data-latex=\"x\"></span> = 3 and ct = 1.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Plot the point corresponding to the event on the diagram. Label the point E. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>According to observer B, event E occurs before observer A and observer B meet.</p>\n<p>Justify this statement using the spacetime diagram.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Determine the spacetime coordinates of the event according to observer B. [3]</p></section><section class=\"question-part\" data-label=\"b.iv\"><p><strong>b.iv</strong> Show that the spacetime interval between the clock synchronization and the event is invariant. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

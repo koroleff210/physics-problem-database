@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_6648264b1c5c485fbd9b2a92e5b513f8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below provides the mass, speed, and orbital radius for two particles, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, each undergoing uniform circular motion.</p>\n<table><thead><tr><th>Particle</th><th>Mass</th><th>Speed</th><th>Radius</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"P\"></span></td><td><span class=\"math\" data-latex=\"m\"></span></td><td><span class=\"math\" data-latex=\"v\"></span></td><td><span class=\"math\" data-latex=\"r\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Q\"></span></td><td><span class=\"math\" data-latex=\"4m\"></span></td><td><span class=\"math\" data-latex=\"2v\"></span></td><td><span class=\"math\" data-latex=\"2r\"></span></td></tr></tbody></table>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{magnitude of the rate of change of momentum of } Q}{\\text{magnitude of the rate of change of momentum of } P}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">4</li><li data-label=\"C\">8</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/20a7883256bc2c2d85e816ee550273d010406270794c862cbcb36cc479daac32.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "20a7883256bc2c2d85e816ee550273d010406270794c862cbcb36cc479daac32"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_b9417b4c5aff4bc7a45c2d21fec31ad0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light is incident on a metal plate. As a result, photoelectrons are emitted from the surface of the plate. </p>\n<p>Which graph correctly shows the relationship between <span class=\"math\" data-latex=\"\\lambda\"></span>, the wavelength of the incident light and <span class=\"math\" data-latex=\"E\"></span>, the kinetic energy of the emitted photoelectrons?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

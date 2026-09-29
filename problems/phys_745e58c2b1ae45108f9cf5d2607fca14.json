@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4102625e077dc6d763818005cc13eb7c88d6c26d7bb091b76f6893d4b316c96e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4102625e077dc6d763818005cc13eb7c88d6c26d7bb091b76f6893d4b316c96e"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_745e58c2b1ae45108f9cf5d2607fca14",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>For a cylinder rolling without slipping, the distance traveled is the number of rotations multiplied by the circumference (2πR). The cylinder travels 5.0 m in 5 turns, so the distance for one turn (the circumference) is 5.0 m / 5 = 1.0 m. Setting 2πR = 1.0 m and solving for R gives R = 1.0 / (2π) ≈ 0.159 m, which is approximately 0.16 m. The time information is not required.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cylinder of radius <span class=\"math\" data-latex=\"R\"></span> rolls without slipping. It travels <span class=\"math\" data-latex=\"5.0\"></span> metres in <span class=\"math\" data-latex=\"2.5\"></span> seconds at a constant speed, completing five full turns.</p>\n<p>What is <span class=\"math\" data-latex=\"R\"></span>?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"0.08\\,\\mathrm{m}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"0.16\\,\\mathrm{m}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"0.80\\,\\mathrm{m}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"1.60\\,\\mathrm{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

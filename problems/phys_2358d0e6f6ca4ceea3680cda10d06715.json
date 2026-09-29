@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_2358d0e6f6ca4ceea3680cda10d06715",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A balloon rises at a steady vertical velocity of <span class=\"math\" data-latex=\"10 m s^{-1}\"></span>. An object is dropped from the balloon at a height of <span class=\"math\" data-latex=\"40 m\"></span> above the ground. Air resistance is negligible. What is the time taken for the object to hit the ground?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"10 s\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"5 s\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"4 s\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2 s\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

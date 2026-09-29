@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c259882d82692b65a5dba88f4892fec58c827a6dd1c2438eb6a1ca48061720d5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c259882d82692b65a5dba88f4892fec58c827a6dd1c2438eb6a1ca48061720d5"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f4b4db97b26e48a5b2fc28ab3b758dc9",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>arrow normal to the orbit towards the Earth ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>use of <span class=\"math\" data-latex=\"{v}_{o r b i t a l} = \\frac{2 π r}{T}\"></span> AND either <span class=\"math\" data-latex=\"v_{orbital}=\\sqrt{\\frac{GM}{r}}\"></span> or <span class=\"math\" data-latex=\"\\frac{mv_{orbital}^{2}}{r}=\\frac{GMm}{r^{2}}\"></span> correctly manipulated ✓ «to yield <span class=\"math\" data-latex=\"T^{2}=\\frac{4\\pi^{2}}{GM}r^{3}\"></span>» Allow use of ω.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"r=\\sqrt[3]{\\frac{GMT^{2}}{4\\pi^{2}}}=\\sqrt[3]{\\frac{6.67\\times 10^{-11}\\times 5.97\\times 10^{24}\\times 5620^{2}}{4\\pi^{2}}}\"></span> ✓ <span class=\"math\" data-latex=\"=6.83\\times 10^{6}\"></span> «m» height = «<span class=\"math\" data-latex=\"6.83\\times 10^{6}-6.37\\times 10^{6}=\"></span>» <span class=\"math\" data-latex=\"4.6\\times 10^{5}\"></span> «m» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Total energy is reduced ✓ hence decrease in orbital radius leads to increase in kinetic energy ✓ decrease in potential energy must be larger than increase in kinetic energy for total energy to decrease ✓ Allow ECF from b ii.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A satellite moves around Earth in a circular orbit.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Draw an arrow on the diagram to represent the direction of the acceleration of the satellite. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The following data are given:</p>\n<p>Mass of Earth, M = 5.97 × 10<sup>24</sup> kg<br/>                              Radius of Earth, R = 6.37 × 10<sup>6</sup> m<br/>           Orbital period of the satellite, T = 5.62 × 10<sup>3</sup> s</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> </p><p>Kepler’s Third Law of orbital motion states that <span class=\"math\" data-latex=\"T^{2}=kr^{3}\"></span> where <span class=\"math\" data-latex=\"k\"></span> is a constant and <span class=\"math\" data-latex=\"r\"></span> is the orbital radius of the satellite.</p>\n<p>Show that <span class=\"math\" data-latex=\"k=\\frac{4\\pi^{2}}{GM}\"></span>.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine the height of the satellite above the Earth’s surface. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The atmosphere exerts a small viscous drag force on the satellite.</p>\n<p>Outline how the total energy, kinetic energy, and gravitational potential energy change for the satellite during one orbit around Earth.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

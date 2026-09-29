@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_4443798348534df2856641a31c7c5d15",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A voltmeter reads <span class=\"math\" data-latex=\"6.0\\text{ V}\"></span> when connected across the terminals of a battery in an open circuit. When the battery is connected to a lamp, the voltmeter reading falls to <span class=\"math\" data-latex=\"5.6\\text{ V}\"></span> and the current measured in the circuit is <span class=\"math\" data-latex=\"0.80\\text{ A}\"></span>. What is the battery’s internal resistance?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.40\\text{ }\\Omega\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"7.0\\text{ }\\Omega\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.50\\text{ }\\Omega\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"7.5\\text{ }\\Omega\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

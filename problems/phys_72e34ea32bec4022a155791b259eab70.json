@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2e69d6d76cfcc2ef781b3f3615b01dc65cc7208bff41da3c6f12a00c7e5d73b8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2e69d6d76cfcc2ef781b3f3615b01dc65cc7208bff41da3c6f12a00c7e5d73b8"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_72e34ea32bec4022a155791b259eab70",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows an interference pattern observed on a screen in a double-slit experiment with monochromatic light of wavelength 600 nm. The screen is 1.0 m from the slits.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the separation of the slits?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">6.0 × 10<sup>−7</sup> m</li><li data-label=\"B\">6.0 × 10<sup>−6</sup> m</li><li data-label=\"C\">6.0 × 10<sup>−5</sup> m</li><li data-label=\"D\">6.0 × 10<sup>−4</sup> m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

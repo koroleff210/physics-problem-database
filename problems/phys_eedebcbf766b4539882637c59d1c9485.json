@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_eedebcbf766b4539882637c59d1c9485",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The emission spectra of two stars, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are analyzed. The wavelength of peak spectral intensity for star <span class=\"math\" data-latex=\"Y\"></span> is observed to be twice that of star <span class=\"math\" data-latex=\"X\"></span> (<span class=\"math\" data-latex=\"\\lambda_Y = 2\\lambda_X\"></span>). Additionally, star <span class=\"math\" data-latex=\"Y\"></span> is found to have a total luminosity four times greater than star <span class=\"math\" data-latex=\"X\"></span> (<span class=\"math\" data-latex=\"L_Y = 4L_X\"></span>).</p>\n<p>What is the ratio of the radius of star <span class=\"math\" data-latex=\"Y\"></span> to the radius of star <span class=\"math\" data-latex=\"X\"></span> (<span class=\"math\" data-latex=\"\\frac{R_Y}{R_X}\"></span>)?</p><ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">4</li><li data-label=\"C\">8</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

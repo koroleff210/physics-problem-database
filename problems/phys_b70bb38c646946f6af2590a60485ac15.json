@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b70bb38c646946f6af2590a60485ac15",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Why does evaporation cause cooling?</p><ol class=\"mcq-options\"><li data-label=\"A\">Heat is absorbed from the air during evaporation</li><li data-label=\"B\">Particles gain energy from the surroundings to overcome latent heat</li><li data-label=\"C\">Particles with higher kinetic energy leave the surface</li><li data-label=\"D\">Energy is released into the liquid as particles escape</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

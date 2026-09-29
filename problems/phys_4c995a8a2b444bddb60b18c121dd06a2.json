@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4c995a8a2b444bddb60b18c121dd06a2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite of mass <span class=\"math\" data-latex=\"m\"></span> orbits a planet of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>, initially at a distance <span class=\"math\" data-latex=\"R\"></span> from the surface of the planet. During its orbit, the satellite collides with the gas atoms in the upper atmosphere of the planet and as a result, its orbital radius changes by <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span>.</p>\n<p>What is the total energy of the satellite after this change?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"-\\frac{GMm}{R}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"-\\frac{GMm}{2R}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"-\\frac{GMm}{3R}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"-\\frac{GMm}{5R}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

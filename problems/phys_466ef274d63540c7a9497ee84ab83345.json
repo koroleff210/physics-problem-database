@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_466ef274d63540c7a9497ee84ab83345",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>D: The energy of an emitted photon is equal to the difference between the initial and final energy levels (<span class=\"math\" data-latex=\"E = |E_{initial} - E_{final}|\"></span>). Since photon energy is inversely proportional to wavelength (<span class=\"math\" data-latex=\"E = \\frac{hc}{\\lambda}\"></span>), the longest wavelength corresponds to the transition with the smallest energy change.</p>\n<p>Calculating the energy changes:<br/>- W: <span class=\"math\" data-latex=\"|-1.51 - (-3.40)| = 1.89\"></span> eV<br/>- X: <span class=\"math\" data-latex=\"|-0.85 - (-1.51)| = 0.66\"></span> eV<br/>- Y: <span class=\"math\" data-latex=\"|-0.54 - (-0.85)| = 0.31\"></span> eV<br/>- Z: <span class=\"math\" data-latex=\"|-3.40 - (-13.60)| = 10.20\"></span> eV</p>\n<p>Transition Y has the smallest energy change (<span class=\"math\" data-latex=\"0.31\"></span> eV) and therefore produces the photon with the longest wavelength.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below lists the initial and final energy states for four different electron transitions within a specific atom.</p>\n<table><thead><tr><th>Transition</th><th>Initial energy level / eV</th><th>Final energy level / eV</th></tr></thead><tbody><tr><td>W</td><td><span class=\"math\" data-latex=\"-1.51\"></span></td><td><span class=\"math\" data-latex=\"-3.40\"></span></td></tr><tr><td>X</td><td><span class=\"math\" data-latex=\"-0.85\"></span></td><td><span class=\"math\" data-latex=\"-1.51\"></span></td></tr><tr><td>Y</td><td><span class=\"math\" data-latex=\"-0.54\"></span></td><td><span class=\"math\" data-latex=\"-0.85\"></span></td></tr><tr><td>Z</td><td><span class=\"math\" data-latex=\"-3.40\"></span></td><td><span class=\"math\" data-latex=\"-13.60\"></span></td></tr></tbody></table>\n<p>Which transition results in the emission of a photon with the longest wavelength?</p><ol class=\"mcq-options\"><li data-label=\"A\">W</li><li data-label=\"B\">X</li><li data-label=\"C\">Z</li><li data-label=\"D\">Y</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

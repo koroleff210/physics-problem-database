@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_6a2bb52ab1034ea4b2f14ab87921fcfd",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When an electron moves at speed <span class=\"math\" data-latex=\"v\"></span> in a magnetic field of strength <span class=\"math\" data-latex=\"B\"></span> at a right angle to the field direction, the magnitude of the force experienced by the electron is <span class=\"math\" data-latex=\"Bev\"></span>. What is the force experienced by a proton that is moving in a field of strength <span class=\"math\" data-latex=\"\\frac{B}{2}\"></span> at speed <span class=\"math\" data-latex=\"\\frac{v}{2}\"></span> opposite the field direction?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">zero</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{Bev}{4}\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"Bev\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4Bev\"></span> </li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

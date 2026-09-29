@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/dd35c011f79b4d2c5a56e144772d732f014e3e7f4505c90e8ffc4c2bca502a8a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "dd35c011f79b4d2c5a56e144772d732f014e3e7f4505c90e8ffc4c2bca502a8a"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_c6cf2add080944b9ac2b8e68cc2dbd96",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting metal rod of length <span class=\"math\" data-latex=\"25\"></span> cm is moving through a uniform magnetic field at constant speed. The direction of the field is out of the page and the magnetic field strength is <span class=\"math\" data-latex=\"50\"></span> mT. The induced emf in the rod is <span class=\"math\" data-latex=\"2.5\"></span> mV.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the distance travelled by the rod during one minute?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.60\"></span> m</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"1.2\"></span> m</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"6.0\"></span> m</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"12\"></span> m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

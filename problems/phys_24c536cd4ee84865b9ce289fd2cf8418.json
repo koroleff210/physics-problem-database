@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d7b652c2b466199fb9d6a0a80128a33c059c1b4f000861b1b9775ee3279c1a4a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d7b652c2b466199fb9d6a0a80128a33c059c1b4f000861b1b9775ee3279c1a4a"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/dc24e5552fe3e71c2f03f71465bce6110d23496fcf54ff62cde34436aafef798.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "dc24e5552fe3e71c2f03f71465bce6110d23496fcf54ff62cde34436aafef798"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_24c536cd4ee84865b9ce289fd2cf8418",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a photoelectric effect experiment, a beam of light is incident on a metallic surface W in a vacuum.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows how the current <span class=\"math\" data-latex=\"I\"></span> varies with the potential difference V when three different beams X, Y, and Z are incident on W at different times.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>I.   X and Y have the same frequency.<br/>            II.  Y and Z have different intensity.<br/>            III. Y and Z have the same frequency.</p>\n<p>Which statements are correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

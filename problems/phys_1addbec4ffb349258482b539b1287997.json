@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c58e0b0a5e54a56662e83113c571d9c29cc5c0a946ed95750537c3b4b3afbc0d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c58e0b0a5e54a56662e83113c571d9c29cc5c0a946ed95750537c3b4b3afbc0d"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1addbec4ffb349258482b539b1287997",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball traveling with a horizontal speed of 20 m s<span class=\"math\" data-latex=\"^{-1}\"></span> hits a vertical wall and rebounds with a speed of 10 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The graph shows how the force exerted by the wall on the ball varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the mass of the ball?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2.0 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-2}\"></span> kg</li>\n<li data-label=\"B\">4.0 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-2}\"></span> kg</li>\n<li data-label=\"C\">6.0 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-2}\"></span> kg</li>\n<li data-label=\"D\">1.2 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{-1}\"></span> kg</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_4eb630561deb469d8c489f8396c6b31a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spherical objects, X and Y, both of radius <em>R </em>are fired horizontally from a cliff on a planet that has no atmosphere. The objects have the same initial kinetic energy. The mass of X is <em>M </em>and the mass of Y is 2<em>M</em>. </p>\n<p>What is true about the horizontal distance travelled by each object and the time taken for the objects to reach the ground?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Horizontal distance traveled by objects</strong></p>\n</td>\n<td>\n<p><strong>Time taken by objects to reach the ground</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Equal</td>\n<td>Equal</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Different</td>\n<td>Different</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Different</td>\n<td>Equal</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Equal</td>\n<td>Different</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

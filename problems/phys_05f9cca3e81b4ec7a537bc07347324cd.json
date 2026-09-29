@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d108bc42ccca2247056c2dd170e48213599c8c7e9cb7228d132aafbce58aade3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d108bc42ccca2247056c2dd170e48213599c8c7e9cb7228d132aafbce58aade3"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/b49b481225b9a747731b998180beaa4e7de325ef2c433d371fec028f8c851939.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "b49b481225b9a747731b998180beaa4e7de325ef2c433d371fec028f8c851939"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "C.2",
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_05f9cca3e81b4ec7a537bc07347324cd",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"T = \\frac{120}{53}\"></span>, so <span class=\"math\" data-latex=\"f = \\frac{53}{120} \\approx 0.44\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p>When the stone just maintains circular motion with radius <span class=\"math\" data-latex=\"L\"></span>, the tension in the rope at the top of the circle is zero, therefore at the top of the circle <span class=\"math\" data-latex=\"F_{cp} = mg\"></span>, so <span class=\"math\" data-latex=\"mg = \\frac{mv^{2}}{L}\"></span></p>\n<p>The total energy of the stone at the top of the circle is the sum of its kinetic energy and its gravitational potential energy, so <span class=\"math\" data-latex=\"E_{top} = \\frac{1}{2}mv^{2} + mgh\"></span></p>\n<p>Rearranging the forces equation above we get <span class=\"math\" data-latex=\"mgL = mv^{2}\"></span>, therefore <span class=\"math\" data-latex=\"E_{top} = \\frac{1}{2}mgL + 2mgL = \\frac{5mgL}{2}\"></span></p>\n<p>Since the total energy of the stone throughout its motion is unchanged and at the bottom of the circle the stone only has kinetic energy, the minimum kinetic energy that the stone must have at the bottom of the circle in order to maintain circular motion with a radius <span class=\"math\" data-latex=\"L\"></span>, is <span class=\"math\" data-latex=\"\\frac{5mgL}{2}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stone of mass <span class=\"math\" data-latex=\"m\"></span> is attached to the end of a rope of length <span class=\"math\" data-latex=\"L\"></span> and is rotated clockwise in a vertical circle. The time period of the stone is constant. The bottom of the circular path is labeled with the letter B.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>It takes the stone two minutes to complete <span class=\"math\" data-latex=\"53\"></span> full revolutions.</p>\n<p>a. Find the frequency of the stone’s rotation.</p>\n<p>  [1]</p>\n<p>b. Draw a free-body diagram to represent the forces that act on the stone at the bottom of the circle. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [2]</p>\n<p>c. Show that the minimum kinetic energy that the stone can have at the bottom of the circle in order for the stone to maintain circular motion with radius <span class=\"math\" data-latex=\"L\"></span> is <span class=\"math\" data-latex=\"\\frac{5mgL}{2}\"></span>.</p>\n<p>   [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

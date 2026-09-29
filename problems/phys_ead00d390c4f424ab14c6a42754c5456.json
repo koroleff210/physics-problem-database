@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_ead00d390c4f424ab14c6a42754c5456",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An organ pipe of length <span class=\"math\" data-latex=\"L\"></span> is closed at one end and open at the other. A standing wave is established in the pipe such that there are exactly three nodes in the air column. What is the wavelength of the sound wave in terms of <span class=\"math\" data-latex=\"L\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4L\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{4L}{3}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{4L}{5}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{4L}{7}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ae53bfa0e2594c88a39102fa85f3a4dc",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spheres, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are spinning with the same rotational kinetic energy. The moment of inertia of <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"I_{X}\"></span> and that of <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"I_{Y}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{angular momentum of X}}{\\textit{angular momentum of Y}}\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{I_{X}}{I_{Y}}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{I_{Y}}{I_{X}}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{I_{X}}{I_{Y}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{I_{Y}}{I_{X}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

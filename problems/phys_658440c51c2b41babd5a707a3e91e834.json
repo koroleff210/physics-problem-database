@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f56140855e687339d51fac15a6d56e81bb38a2247983996538766361537b9b2d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f56140855e687339d51fac15a6d56e81bb38a2247983996538766361537b9b2d"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_658440c51c2b41babd5a707a3e91e834",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass m is released from rest and slides down a ramp of length d that makes an angle θ with the horizontal. A constant frictional force F acts on the block.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What is the kinetic energy of the block at the bottom of the ramp?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">mgd − Fd cos θ</li><li data-label=\"B\">mgd − Fd</li><li data-label=\"C\">mgd sin θ − Fd cos θ</li><li data-label=\"D\">mgd sin θ − Fd</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

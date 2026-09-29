@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/51679122ed8bb172d1c7daaa84c70343d09fa3f3d0585ece5d1735631ce9f8c6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "51679122ed8bb172d1c7daaa84c70343d09fa3f3d0585ece5d1735631ce9f8c6"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e5366cbc861423680282a6c029b5133",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A substance changes from a liquid into a solid without a change in temperature.</p>\n<p>What is true about the internal energy of the substance and the total intermolecular potential energy of the substance when this phase change occurs?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

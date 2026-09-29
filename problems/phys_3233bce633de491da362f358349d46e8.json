@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ecdf731112c136323b19749a52c18ae610e5607c419200ab891768b71f15df10.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ecdf731112c136323b19749a52c18ae610e5607c419200ab891768b71f15df10"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/ecdf731112c136323b19749a52c18ae610e5607c419200ab891768b71f15df10.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "ecdf731112c136323b19749a52c18ae610e5607c419200ab891768b71f15df10"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_3233bce633de491da362f358349d46e8",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>The resistance due to the components/materials in the cell that leads to energy losses.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{(62 \\times 10^{-3}) \\times (0.46 \\times 10^{-3})^{2} \\times \\pi}{1.7 \\times 10^{-8}} \\approx 2.4\"></span> m</p>\n<p>Answer must be given to 2 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p>\n</p><p>Cross-sectional area of circular wire: <span class=\"math\" data-latex=\"\\pi \\times 0.46^{2} \\approx 0.665\"></span> mm<span class=\"math\" data-latex=\"^{2}\"></span></p>\n<p>Cross-sectional area of square-shaped wire: <span class=\"math\" data-latex=\"0.92^{2} \\approx 0.846\"></span> mm<span class=\"math\" data-latex=\"^{2}\"></span></p>\n<p>The cross-sectional area of the square-shaped wire is larger, so resistance decreases.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1d(i)\"><p><strong>1d(i)</strong></p><p></p>\n<p>An ideal (am)meter does not affect the circuit, so the ammeter should have no resistance.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1d(ii)\"><p><strong>1d(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"12 = 3(R + 1.5)\"></span></p>\n<p> <span class=\"math\" data-latex=\"R = 2.5\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></p>\n<p><span class=\"math\" data-latex=\"P = 3^{2} \\times 2.5\"></span> = 22.5 W <span class=\"math\" data-latex=\"\\approx\"></span> 23 W</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1e\"><p><strong>1e</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student builds a simple circuit using copper wire that includes a heater and a cell.  The following data is available for the circuit:</p>\n<p></p>\n<p>Emf of the cell <span class=\"math\" data-latex=\"12\"></span> V</p>\n<p>Internal resistance of the cell <span class=\"math\" data-latex=\"1.5\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></p>\n<p>Diameter of copper wire <span class=\"math\" data-latex=\"0.92\"></span> mm</p>\n<p>Resistivity of copper <span class=\"math\" data-latex=\"1.7 \\times 10^{-8}\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span> m</p>\n<p></p>\n<p></p>\n<p>a. Outline what is meant by internal resistance of a cell.</p>\n<p>  [2]</p>\n<p>b. The student would like to build the circuit so that the maximum resistance of the <strong>wiring</strong> is 62 m<span class=\"math\" data-latex=\"\\Omega\"></span>. Find the maximum length of the wire the student can use. Give your answer to an appropriate number of significant figures.</p>\n<p>  [3]</p>\n<p>c. Outline what happens to the resistance of the wiring when, instead of the original wire, the student uses a wire with a square-shaped cross sectional area where the side length of the square is 0.92 mm.</p>\n<p>  [2]</p>\n<p>d. The student uses an ammeter and measures the current to be 3.0 A in the circuit. The student assumes that the ammeter is ideal.</p>\n<p>i. Outline what is meant by an ideal ammeter.</p>\n<p>  [1]</p>\n<p>ii. Find the power dissipated in the heater is about 23 W. Assume that the wiring has negligible internal resistance.</p>\n<p>  [2]</p>\n<p>e. The student would like to measure the resistance of the heater. Draw a circuit diagram to show how she can do this by using a potential divider arrangement.</p>\n<p>  [2]</p>\n\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

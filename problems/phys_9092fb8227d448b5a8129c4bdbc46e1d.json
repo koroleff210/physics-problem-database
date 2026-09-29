@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c39745fcadb18113d43fc56382ce071e88d2cc165b32539a6fd8339d482ee02b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c39745fcadb18113d43fc56382ce071e88d2cc165b32539a6fd8339d482ee02b"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/b76b04139e6e2180082369b7aaa43152817d1679eb1a1bba73f82fa6c40d96c2.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "b76b04139e6e2180082369b7aaa43152817d1679eb1a1bba73f82fa6c40d96c2"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/acb3ecad7ebace00d699be0871030210f1cf149bb9f4c40049732829fbe553b6.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "acb3ecad7ebace00d699be0871030210f1cf149bb9f4c40049732829fbe553b6"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_9092fb8227d448b5a8129c4bdbc46e1d",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p>Newton's first law states that a body remains at rest or moves with constant velocity unless an external force acts on it. After the fuel tank reaches terminal velocity, it moves with constant velocity, so the resultant force on the fuel tank must be zero.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p><em></em></p>\n<p>Note: the two forces must have the same magnitude.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p></p>\n<p>Note: After the tank reaches a height of 11 km, the graph must be a straight line.</p></section><section class=\"markscheme-part\" data-label=\"4d(i)\"><p><strong>4d(i)</strong></p><p><em></em></p>\n<p>If no external forces act on a system, total linear momentum remains constant. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d(ii)\"><p><strong>4d(ii)</strong></p><p></p>\n<p>Landing in water increases the time it takes the rocket to come to rest. </p>\n<p>Since <em>F</em> = <span class=\"math\" data-latex=\"\\frac{\\Delta p}{\\Delta t}\"></span>, the force acting on the rocket while it is coming to rest is smaller, hence it is less likely that the rocket will be damaged.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A space station supply ship is launched vertically upwards from a launchpad. When it reaches a height of 23 km, it releases one of its external fuel tanks which falls to the ground. As the fuel tank falls, it reaches terminal velocity at a height of 11 km.</p>\n<p>a. Outline, with reference to Newton's first law of motion, why the resultant force on the fuel tank after it has reached terminal velocity is zero.</p>\n<p>  [2]</p>\n<p>b. Draw a fully-labelled free-body diagram to represent the forces acting on the fuel tank at the moment when it reaches a height of 8 km.</p>\n<p>  [2]</p>\n<p>c. Sketch on the axes below how the height of the fuel tank varies with time from the moment it is released by the rocket until it reaches the surface of the Earth. On your sketch, clearly show the height where the fuel tank was released by the rocket and the height where the fuel tank reached terminal velocity.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [3]</p>\n<p>d. After the supply ship leaves its cargo at the space station, it returns to Earth. Upon reaching the surface of the Earth, it lands on a landing pad floating in the ocean. </p>\n<p>i. Outline the law of conservation of linear momentum.</p>\n<p>  [1]</p>\n<p>ii. Outline, with reference to change in momentum, why landing on a floating landing pad as opposed to one on solid ground makes it less likely that the rocket will be damaged.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

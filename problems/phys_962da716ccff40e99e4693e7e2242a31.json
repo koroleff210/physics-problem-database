@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_962da716ccff40e99e4693e7e2242a31",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is confined in a container with a movable piston at a temperature of <span class=\"math\" data-latex=\"27\\text{ }^\\circ\\text{C}\"></span>. If the volume of the gas is doubled while the pressure remains constant, what will be the final temperature of the gas in degrees Celsius (<span class=\"math\" data-latex=\"^\\circ\\text{C}\"></span>)?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"54\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"300\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"327\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"600\\text{ }^\\circ\\text{C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

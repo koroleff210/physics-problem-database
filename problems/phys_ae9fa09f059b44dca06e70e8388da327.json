@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_ae9fa09f059b44dca06e70e8388da327",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car engine has a useful power output of 20 kW and an efficiency of 50 %. The engine consumes 1 × 10<sup>−5</sup> m<sup>3</sup> of fuel every second. What is the energy density of the fuel?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2 MJ m<sup>−3</sup></li><li data-label=\"B\">4 MJ m<sup>−3</sup></li><li data-label=\"C\">2 GJ m<sup>−3</sup></li><li data-label=\"D\">4 GJ m<sup>−3</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

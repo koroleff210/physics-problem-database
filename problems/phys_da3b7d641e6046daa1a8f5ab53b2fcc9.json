@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_da3b7d641e6046daa1a8f5ab53b2fcc9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The activity of a sample of a radioactive isotope is measured as <span class=\"math\" data-latex=\"640 \\text{ Bq}\"></span>. Exactly <span class=\"math\" data-latex=\"20 \\text{ hours}\"></span> later, the activity is measured as <span class=\"math\" data-latex=\"40 \\text{ Bq}\"></span>. What is the half-life of the isotope?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4 \\text{ hours}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5 \\text{ hours}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"10 \\text{ hours}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"16 \\text{ hours}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

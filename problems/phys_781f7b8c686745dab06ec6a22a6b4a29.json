@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_781f7b8c686745dab06ec6a22a6b4a29",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas expands isothermally. The work done by the gas is 100 J. What is the change in the internal energy of the gas?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">−100 J</li><li data-label=\"B\">0</li><li data-label=\"C\">+50 J</li><li data-label=\"D\">+100 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

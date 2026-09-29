@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_92ce9d61f7fd4b88b34ca1bf756cd190",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The power supplied by a battery per unit current from the battery is a definition of:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Potential difference</li>\n<li data-label=\"B\">Electromotive force</li>\n<li data-label=\"C\">Internal resistance</li>\n<li data-label=\"D\">Ohm’s law</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

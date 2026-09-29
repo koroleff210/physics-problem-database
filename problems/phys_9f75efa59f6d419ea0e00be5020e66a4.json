@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_9f75efa59f6d419ea0e00be5020e66a4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric vehicle travels at a constant speed on a horizontal test track. The parameters recorded during the test are shown in the table below:</p>\n<table><thead><tr><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Speed</td><td><span class=\"math\" data-latex=\"25\\text{ m s}^{-1}\"></span></td></tr><tr><td>Total resistive force</td><td><span class=\"math\" data-latex=\"480\\text{ N}\"></span></td></tr><tr><td>Potential difference</td><td><span class=\"math\" data-latex=\"400\\text{ V}\"></span></td></tr><tr><td>Current</td><td><span class=\"math\" data-latex=\"50\\text{ A}\"></span></td></tr></tbody></table>\n<p>What is the propulsion system's efficiency?</p><ol class=\"mcq-options\"><li data-label=\"A\">30%</li><li data-label=\"B\">60%</li><li data-label=\"C\">75%</li><li data-label=\"D\">80%</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

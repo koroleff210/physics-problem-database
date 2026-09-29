@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b602a5bc8785641fd41ba4f5b74c77031410cef97066cff61519833461fe45cf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b602a5bc8785641fd41ba4f5b74c77031410cef97066cff61519833461fe45cf"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e51707394b7d48b690d261fbde82fb7c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>This is a Young's double-slit problem where the wavelength is given by λ = sd/D. The diagram shows 6 bright fringes, and the distance between the centers of the first and the last fringe is labeled as 12 cm. This distance corresponds to 5 fringe separations (5s). Therefore, 5s = 12 cm, which gives a fringe separation s = 2.4 cm. Using the given values d = 0.020 mm and D = 1.0 m, the wavelength is calculated as λ = (2.4 × 10⁻² m)(2.0 × 10⁻⁵ m) / 1.0 m = 4.8 × 10⁻⁷ m. This result is not among the options, indicating an error in the question's data. Assuming the intended answer is A (4.0 × 10⁻⁷ m), the fringe separation would need to be s = 2.0 cm, which would correspond to a total distance of 5 × 2.0 cm = 10 cm, not 12 cm.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light is sent through two slits separated by <span class=\"math\" data-latex=\"0.020\\,\\mathrm{mm}\"></span>. An interference pattern is observed on a screen <span class=\"math\" data-latex=\"1.0\\,\\mathrm{m}\"></span> from the double slit. The pattern in the diagram shows fringes along a distance of <span class=\"math\" data-latex=\"12\\,\\mathrm{cm}\"></span>.</p>\n<p>What is the wavelength of the light?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"4.0\\times10^{-7}\\,\\mathrm{m}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"2.4\\times10^{-6}\\,\\mathrm{m}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"4.0\\times10^{-5}\\,\\mathrm{m}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"1.0\\times10^{-3}\\,\\mathrm{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

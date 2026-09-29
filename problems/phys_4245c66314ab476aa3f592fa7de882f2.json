@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4245c66314ab476aa3f592fa7de882f2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle is executing simple harmonic oscillations with total energy <span class=\"math\" data-latex=\"E\"></span> and amplitude <span class=\"math\" data-latex=\"x_{0}\"></span>.</p>\n<p>What is the kinetic energy of the particle when the displacement from the equilibrium position is <span class=\"math\" data-latex=\"\\frac{x_{0}}{2}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{E}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{E}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{3E}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{E\\sqrt{3}}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

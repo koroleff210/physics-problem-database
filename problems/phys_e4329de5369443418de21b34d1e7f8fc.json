@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/726a0bc293b16b6affea3ceb87fc1cbcdb721a9a49face44d9ea7ca0627897ae.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "726a0bc293b16b6affea3ceb87fc1cbcdb721a9a49face44d9ea7ca0627897ae"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/44f8f80fc729bbfb6dc7e84e376ada4c146f088327c5ec9b4137713d899fddee.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "44f8f80fc729bbfb6dc7e84e376ada4c146f088327c5ec9b4137713d899fddee"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.4",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e4329de5369443418de21b34d1e7f8fc",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a_i\"><p><strong><span class=\"math\" data-latex=\"a_{i}\"></span></strong></p><p>η = (<span class=\"math\" data-latex=\"Q_{H}\"></span> - <span class=\"math\" data-latex=\"Q_{C}\"></span>) / <span class=\"math\" data-latex=\"Q_{H}\"></span> = (0.75 - 0.45) / 0.75 = 0.40 (or 40%)</p></section><section class=\"markscheme-part\" data-label=\"a_ii\"><p><strong><span class=\"math\" data-latex=\"a_{\\mathrm{ii}}\"></span></strong></p><p>Process CD.<br/>REASONING: Internal energy of an ideal gas is proportional to temperature. The highest temperature is reached on the upper isotherm, which is process CD.</p>\n<p>The mark is for identifying the process. Reasoning is for clarity.</p></section><section class=\"markscheme-part\" data-label=\"a_iii\"><p><strong><span class=\"math\" data-latex=\"a_{\\mathrm{iii}}\"></span></strong></p><p>Use of ideal gas law: T = pV / nR.<br/>T = (3.0 × 10^5 Pa × 1.8 × 10^-3 m^3) / (0.12 mol × 8.31 J mol⁻¹ K⁻¹) = 542 K.<br/>Answer must be given to 2 significant figures: 540 K or 5.4 × 10^2 K.</p>\n<p>Award [1] for correct substitution into ideal gas law. Award [1] for correct final answer to 2 s.f.</p></section><section class=\"markscheme-part\" data-label=\"b_i\"><p><strong><span class=\"math\" data-latex=\"b_{i}\"></span></strong></p><p>As the coil rotates, the magnetic flux linkage (NΦ) through the coil changes.<br/>According to Faraday's law of induction, a changing magnetic flux linkage induces an emf.<br/>The induced emf is proportional to the rate of change of flux linkage (ε = -N dΦ/dt).</p>\n<p>Award 1 mark for each point.</p></section><section class=\"markscheme-part\" data-label=\"b_ii\"><p><strong><span class=\"math\" data-latex=\"b_{\\mathrm{ii}}\"></span></strong></p><p>90° (or π/2 radians).</p>\n<p>This is the angle where the plane of the coil is parallel to the magnetic field, and the sides of the coil are cutting the flux lines at the maximum rate.</p></section><section class=\"markscheme-part\" data-label=\"b_iii\"><p><strong><span class=\"math\" data-latex=\"b_{\\mathrm{iii}}\"></span></strong></p><p>Average emf ε = |−N ΔΦ / Δt| = |−N × BA(cos θ_f − cos θ_i) / Δt|.<br/>ε = |−1500 × 0.040 T × 5.0×10⁻² m² × (cos(120°) − cos(0°)) / (7.0×10⁻² s)| = 64.28... V ≈ 64 V.</p>\n<p>This calculation assumes the time interval Δt is 7.0×10⁻² s (from the setup text), correcting a likely typo in the question which states 7.0×10⁻³ s. The area A=5.0x10⁻² m² is taken from the image. Award [1] for correct setup of Faraday's law with correct angles. Award [1] for correct final answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>5.</strong> The working substance of a heat engine is 0.12 mol of an ideal gas.</p><p>The engine can be modelled as a Carnot cycle, shown in the pressure-volume diagram. Processes AB and CD are isothermal. Processes BC and DA are adiabatic.</p><p>During one cycle of the engine, the gas receives thermal energy of 0.75 J from a hot reservoir and discards thermal energy of 0.45 J to the cold reservoir.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate the efficiency of the engine. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Identify the process of the cycle during which the working substance of the engine has the greatest internal energy. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Calculate the temperature of the gas at point A. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Explain how an emf is induced in the coil. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> State the angle between the normal to the plane of the coil and the magnetic field vector at which the instantaneous emf induced in the coil is greatest. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Determine the average emf induced in the coil between t = 0 and t = 7.0 ? 10?? s. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

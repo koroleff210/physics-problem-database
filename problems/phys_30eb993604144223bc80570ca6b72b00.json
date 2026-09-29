@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b62edbf1352f77e1e36095a380824e06bdf41c4f66d8875729799f8bfcaba85f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b62edbf1352f77e1e36095a380824e06bdf41c4f66d8875729799f8bfcaba85f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/2f2a96b6c93b2dc651fc6f92090c081d213c3a15352f316c41909d1bc0c14783.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2f2a96b6c93b2dc651fc6f92090c081d213c3a15352f316c41909d1bc0c14783"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/33d14a980519d48da22f5bea4cf7320ef331d4541198e69e2f8d9653e5605688.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "33d14a980519d48da22f5bea4cf7320ef331d4541198e69e2f8d9653e5605688"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_30eb993604144223bc80570ca6b72b00",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p></p>\n<p>From the graph, the time it takes for the ball to reach the ground is <span class=\"math\" data-latex=\"3.3\"></span> s.</p>\n<p><span class=\"math\" data-latex=\"60 = u(3.3) + \\frac{1}{2}(9.81)(3.3)^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"u \\approx 2.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Answer must be given to two significant figures (time on the graph is given to 2 s. f.)  to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>speed <span class=\"math\" data-latex=\"= 2.0 + (9.81)(3.3) \\approx 34\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p>The height reached by the ball after the bounce is <span class=\"math\" data-latex=\"45\"></span> m and its speed at this height is zero.</p>\n<p><span class=\"math\" data-latex=\"0^{2} = v^{2} + 2(9.81)(45)\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 29.7 \\approx 30\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>(Ignore signs in working)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2d\"><p><strong>2d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A ball is thrown with speed <span class=\"math\" data-latex=\"u\"></span> vertically downwards from a height of <span class=\"math\" data-latex=\"60.0\"></span> m above the ground. Assume that the acceleration of free fall is <span class=\"math\" data-latex=\"9.81\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>. The graph shows how the distance of the ball above the ground varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Calculate <span class=\"math\" data-latex=\"u\"></span>. Give your answer to an appropriate number of significant figures.</p>\n<p>  [3]</p>\n<p>b. Calculate the speed of the ball when it hits the ground.</p>\n<p>  [1]</p>\n<p>After the ball hits the ground, it rebounds with speed <span class=\"math\" data-latex=\"v\"></span> and reaches <span class=\"math\" data-latex=\"75\"></span> % of the height from where it was originally thrown.</p>\n<p>c. Find <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>   [2]</p>\n<p>d. Sketch how the speed of the ball varies with time between the moment when it rebounds from the ground and the moment when it reaches its maximum height after the bounce. Ignore specific values on the horizontal axis.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

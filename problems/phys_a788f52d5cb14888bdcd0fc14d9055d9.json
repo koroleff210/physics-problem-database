@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_a788f52d5cb14888bdcd0fc14d9055d9",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When the speed of sound in a pipe is <span class=\"math\" data-latex=\"c_{1}\"></span>, the frequency of the first harmonic in the pipe is <span class=\"math\" data-latex=\"f_{1}\"></span> and the wavelength is <span class=\"math\" data-latex=\"\\lambda_{1}\"></span>. Then the speed of sound is changed to <span class=\"math\" data-latex=\"c_{2}\"></span>, so that <span class=\"math\" data-latex=\"c_{1}&gt;c_{2}\"></span>. The frequency and the wavelength of the first harmonic after the change are <span class=\"math\" data-latex=\"f_{1}\"></span> and <span class=\"math\" data-latex=\"\\lambda_{1}\"></span>. How do the wavelengths and the frequencies compare before and after the change?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Wavelengths</strong></p>\n</td>\n<td>\n<p><strong>Frequencies</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"\\lambda_{1}=\\lambda_{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"f_{1}&gt;f_{2}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"\\lambda_{1}=\\lambda_{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"f_{1}=f_{2}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\lambda_{1}&gt;\\lambda_{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"f_{1}&gt;f_{2}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"\\lambda_{1}&gt;\\lambda_{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"f_{1}=f_{2}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

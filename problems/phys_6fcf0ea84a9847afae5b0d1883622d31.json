@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_6fcf0ea84a9847afae5b0d1883622d31",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Sphere X falls through a fluid with terminal velocity <span class=\"math\" data-latex=\"v\"></span>. Sphere Y is made of the same material and falls through the same fluid. The radius of sphere Y is double that of sphere X.</p>\n<p>What is the terminal velocity of sphere Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{v}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"v\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2v\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"4v\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_498e9eab828849a38570f1ae35dbc911",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>For a satellite in a circular orbit, the gravitational force provides the centripetal force, leading to an orbital speed v ∝ 1/√r and an orbital period T ∝ r^(3/2). When moving to a lower orbit, the radius r decreases. Consequently, the speed v must increase, and the period T must decrease (become shorter).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite orbiting Earth is moved from a higher orbit to a lower orbit.</p>\n<p>How do the speed and orbital period of the satellite change?</p>\n<table><thead><tr><th>Option</th><th>Speed</th><th>orbital period</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>increase</td><td>shorter</td></tr><tr data-label=\"B\"><td>B</td><td>increase</td><td>longer</td></tr><tr data-label=\"C\"><td>C</td><td>decrease</td><td>shorter</td></tr><tr data-label=\"D\"><td>D</td><td>decrease</td><td>longer</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

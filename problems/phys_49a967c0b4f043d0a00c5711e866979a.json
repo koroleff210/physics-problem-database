@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_49a967c0b4f043d0a00c5711e866979a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect: Calculation of <span class=\"math\" data-latex=\"\\frac{m \\times h}{t}\"></span> (<span class=\"math\" data-latex=\"40 \\times 5 / 20\"></span>), omitting the acceleration due to gravity (<span class=\"math\" data-latex=\"g\"></span>).</p>\n<p>B: Correct: Power is calculated using <span class=\"math\" data-latex=\"P = \\frac{mgh}{t}\"></span>. Using <span class=\"math\" data-latex=\"g = 9.81\\text{ m s}^{-2}\"></span>, <span class=\"math\" data-latex=\"P = \\frac{40 \\times 9.81 \\times 5.0}{20} = 98.1\\text{ W}\"></span>, which rounds to <span class=\"math\" data-latex=\"98\\text{ W}\"></span>.</p>\n<p>C: Incorrect: Calculation of <span class=\"math\" data-latex=\"m \\times h\"></span> (<span class=\"math\" data-latex=\"40 \\times 5\"></span>), omitting both gravity and the time factor.</p>\n<p>D: Incorrect: Calculation of work done (<span class=\"math\" data-latex=\"mgh = 40 \\times 9.81 \\times 5.0\"></span>) without dividing by time.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor is used to lift a load of weight <span class=\"math\" data-latex=\"40\\text{ kg}\"></span> through a vertical height of <span class=\"math\" data-latex=\"5.0\\text{ m}\"></span> in a time of <span class=\"math\" data-latex=\"20\\text{ s}\"></span>. What is the average useful power output of the motor?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\text{ W}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"98\\text{ W}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"200\\text{ W}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1960\\text{ W}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

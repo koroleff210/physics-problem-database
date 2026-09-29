@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5c4e25e0fa864aa2fa22d082f60ab98b945bc4a59654b29494b03d5c068fceae.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5c4e25e0fa864aa2fa22d082f60ab98b945bc4a59654b29494b03d5c068fceae"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/6f606f0a4217107a8d777445b85cac94d50d3aca8e9d5882bc18c124747bdb59.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6f606f0a4217107a8d777445b85cac94d50d3aca8e9d5882bc18c124747bdb59"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/6f606f0a4217107a8d777445b85cac94d50d3aca8e9d5882bc18c124747bdb59.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "6f606f0a4217107a8d777445b85cac94d50d3aca8e9d5882bc18c124747bdb59"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_76e5916ed8f245358075700c29566620",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p></p>\n<p>On a travelling wave the phase of particles within a wavelength varies, on a standing wave particles between two adjacent nodes have the same phase.</p>\n<p>Travelling waves have a constant amplitude, the amplitude of a standing wave varies with position.</p>\n<p>Travelling waves have neither nodes, nor antinodes, standing waves have nodes and antinodes.</p>\n<p>Travelling waves propagate energy, standing waves do not propagate energy.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p>Any of these two positions can be labelled, anywhere along the vertical line where the rarefaction is formed.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9c\"><p><strong>9c</strong></p><p></p>\n<p>A horizontal line drawn along the middle of the pipe.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9d\"><p><strong>9d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{630}{1.5} = 420\"></span> cm</p>\n<p><span class=\"math\" data-latex=\"340 = 4.2f\"></span></p>\n<p><span class=\"math\" data-latex=\"f \\approx 81\"></span> Hz</p>\n<p><span class=\"math\" data-latex=\"T = \\frac{1}{81} \\approx 0.0123\"></span> s <span class=\"math\" data-latex=\"\\approx 12\"></span> ms</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"9e\"><p><strong>9e</strong></p><p></p>\n<p>2 positions</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A pipe is open at both ends. A loudspeaker is placed in front of the pipe and emits sound, so that a standing wave is formed in the pipe. The diagram shows how the displacement of air molecules in the pipe varies with the distance along the pipe at <span class=\"math\" data-latex=\"t = 0\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The length of the pipe is <span class=\"math\" data-latex=\"630\"></span> cm. The speed of sound in the pipe is <span class=\"math\" data-latex=\"340\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. </p>\n<p>a. State two differences between standing waves and travelling waves.</p>\n<p>   [2]</p>\n<p>b. Use the letter R to label the centre of a rarefaction in the pipe at <span class=\"math\" data-latex=\"t = 0\"></span> on the diagram.</p>\n<p>   [1]</p>\n<p>An air molecule is located at position X along the pipe. The period of oscillations of the air molecule is <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p>c. Sketch how the displacement of air molecules in the pipe varies with the distance along the pipe at <span class=\"math\" data-latex=\"t = \\frac{5T}{4}\"></span>.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [1]</p>\n<p>d. Calculate <span class=\"math\" data-latex=\"T\"></span>. Give your answer in ms.</p>\n<p>   [2]</p>\n<p>e. State the number of all other positions along the pipe where air molecules oscillate with the same amplitude and in phase with the air molecule at X.</p>\n<p>   [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

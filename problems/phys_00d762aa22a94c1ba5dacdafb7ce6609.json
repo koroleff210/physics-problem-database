@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/24293b9155cbc04b31f20cce5eb71435a9236b007432c917c158b320dcacba4b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "24293b9155cbc04b31f20cce5eb71435a9236b007432c917c158b320dcacba4b"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_00d762aa22a94c1ba5dacdafb7ce6609",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\Delta L = \\text{l} \\Delta  ω = \\frac{1}{2} \\times  1.8 \\times  {0.15}^{2}   ( 9.0 - 4.0 )\"></span>  ✓  <span class=\"math\" data-latex=\"0.10\"></span> «N m s»  ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Average torque <span class=\"math\" data-latex=\"= \\frac{\\Delta L}{\\Delta t} = \\frac{0.10}{0.24} = 0.42\"></span> «N m» ✓ Average force <span class=\"math\" data-latex=\"=\\frac{τ}{R}=\\frac{0.42}{0.15}=2.8\"></span> «N» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>No other forces than F provide the torque ✓ The thread unwinds without slipping ✓ The thread is weightless ✓ F is always tangent to the flywheel ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A flywheel of radius <span class=\"math\" data-latex=\"R=0.15 m\"></span> and mass <span class=\"math\" data-latex=\"M=1.8 kg\"></span> rotates around the central axis. The moment of inertia of the flywheel is <span class=\"math\" data-latex=\"\\frac{1}{2}MR^{2}\"></span>. A thread is wrapped around the flywheel and a time-varying force <span class=\"math\" data-latex=\"F\"></span> is applied to the thread.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The angular velocity of the flywheel increases from 4.0 rad s<sup>−1</sup> to 9.0 rad s<sup>−1</sup> in a time of 0.24 s.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the angular impulse delivered to the flywheel during the acceleration. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the average magnitude of <span class=\"math\" data-latex=\"F\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State two assumptions of your calculation in part (b). [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

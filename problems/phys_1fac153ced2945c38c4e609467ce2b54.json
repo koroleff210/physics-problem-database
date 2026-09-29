@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_1fac153ced2945c38c4e609467ce2b54",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Using <span class=\"math\" data-latex=\"a=-\\omega^2x\"></span> with <span class=\"math\" data-latex=\"a=3.0\"></span> and <span class=\"math\" data-latex=\"x=-0.12\"></span>: <span class=\"math\" data-latex=\"3.0=-\\omega^2(-0.12)=0.12\\omega^2\\Rightarrow \\omega^2=25\\text{ s}^{-2}\\Rightarrow \\omega=5.0\\text{ rad s}^{-1}\"></span>.</p>\n<p>B: This corresponds to incorrectly using <span class=\"math\" data-latex=\"\\omega^2=0.12/3.0\"></span> (inverting the ratio). Correct method gives <span class=\"math\" data-latex=\"\\omega=5.0\\text{ rad s}^{-1}\"></span>.</p>\n<p>C: This could result from substituting <span class=\"math\" data-latex=\"v\"></span> into an incorrect relation such as <span class=\"math\" data-latex=\"a=-\\omega v\"></span>. In SHM, the correct relation at an instant is <span class=\"math\" data-latex=\"a=-\\omega^2 x\"></span>, giving <span class=\"math\" data-latex=\"\\omega=5.0\\text{ rad s}^{-1}\"></span>.</p>\n<p>D: This is <span class=\"math\" data-latex=\"\\omega^2\"></span> rather than <span class=\"math\" data-latex=\"\\omega\"></span>. From <span class=\"math\" data-latex=\"\\omega^2=25\\text{ s}^{-2}\"></span>, the angular frequency is <span class=\"math\" data-latex=\"\\omega=5.0\\text{ rad s}^{-1}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider a particle performing SHM. At a particular time, the acceleration is <span class=\"math\" data-latex=\"3.0\\text{ m s}^{-2}\"></span>, the displacement is <span class=\"math\" data-latex=\"-0.12\\text{ m}\"></span>, and the velocity is <span class=\"math\" data-latex=\"4.0\\text{ m s}^{-1}\"></span>. What is the angular frequency <span class=\"math\" data-latex=\"\\omega\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"5.0\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.25\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.2\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"25\\text{ rad s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

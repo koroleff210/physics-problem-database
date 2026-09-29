@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2ff533e1f82d5cd3075721a086ce6a6686475c985dd6f4a5e0666191c2f20a75.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2ff533e1f82d5cd3075721a086ce6a6686475c985dd6f4a5e0666191c2f20a75"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/5a94e9de65d67e19ae90202ee29be57d550f3e65e011d3a55822b17a351e6004.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5a94e9de65d67e19ae90202ee29be57d550f3e65e011d3a55822b17a351e6004"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5c75199084df467e904a3606fd4b7c98",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The path of three particles with identical magnitude of charge but different mass is shown as they enter a region of uniform magnetic field. The particles have the same initial velocity. The magnetic field is directed into the plane of the paper.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the mass of particle X compared to the other particles and what is the sign of the charge on particle X?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

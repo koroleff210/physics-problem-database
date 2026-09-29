@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fec517d5c9ef4c91810de82dc066a927",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider the following reaction equation:</p>\n<p></p>\n<p><span class=\"math\" data-latex=\"_{0}^{1}\\textrm{n} + _{\\; \\, 94}^{239}\\textrm{Pu} \\: \\rightarrow \\:{}  _{\\, \\; 54}^{134}\\textrm{Xe} + _{\\, \\; 40}^{103}\\textrm{Zr} + 3\\,{} _{0}^{1}\\textrm{n}\"></span></p>\n<p></p>\n<p>Three statements about the equation are</p>\n<p></p>\n<p>I. It is an example of induced fission.</p>\n<p>II. The total mass of the reactants is greater than the total mass of the products. </p>\n<p>III. The total nuclear binding energy of <span class=\"math\" data-latex=\"_{\\; \\, 94}^{239}\\textrm{Pu}\"></span> is larger than the total nuclear binding energy of <span class=\"math\" data-latex=\"_{\\, \\; 54}^{134}\\textrm{Xe}\"></span>.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

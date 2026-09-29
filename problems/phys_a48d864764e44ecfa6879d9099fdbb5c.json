@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c1b8f08dd619f3a1087fa809507c41f058a3603a11e2aad3954d67049061508f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c1b8f08dd619f3a1087fa809507c41f058a3603a11e2aad3954d67049061508f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c67323d7e5e11f0ed9b84547fda0c04291350e8f5a907b04aeba8d5267fe950f.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c67323d7e5e11f0ed9b84547fda0c04291350e8f5a907b04aeba8d5267fe950f"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/5e7cda6f3fadcbdf61e084efca483e4e9b692f225fbba79027af16a4cd971973.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5e7cda6f3fadcbdf61e084efca483e4e9b692f225fbba79027af16a4cd971973"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/a4beed775239c64bfa9b8bcbe0348bccef1211c127dd0b22944f5f656a3dddd9.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a4beed775239c64bfa9b8bcbe0348bccef1211c127dd0b22944f5f656a3dddd9"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_a48d864764e44ecfa6879d9099fdbb5c",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>X has a greater resistance ✔<br/>The current is the same AND power is <span class=\"math\" data-latex=\"RI^{2}\"></span> ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Y has greater power ✔ voltage is the same AND power is <span class=\"math\" data-latex=\"\\frac{V^{2}}{R}\"></span> OR<br/>voltage is the same, X has a smaller current AND power is <span class=\"math\" data-latex=\"IV\"></span> ✔ <br/>Allow ECF from (a). For MP2 allow a correct argument provided <span class=\"math\" data-latex=\"V\"></span> is constant AND a correct expression for power is included.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>R <span class=\"math\" data-latex=\"=\"></span> «<span class=\"math\" data-latex=\"\\frac{8.0}{0.050}=\"></span>» <span class=\"math\" data-latex=\"160\"></span> «Ω» ✔</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>«trial and error to find voltages that add to 12 «V» for same current»<br/>current is 0.050 «A» ✔<br/>and voltage for Z is 4.0 «V» ✔<br/>power = «<span class=\"math\" data-latex=\"I\"></span>V = » 0.2 «W» ✔<br/>Award ECF for MP3 if the current chosen for Z matches the V for Z from the graph.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Two resistors, X and Y, are connected in series to a cell of emf E and negligible internal resistance. The resistances of X and Y are constant.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The power dissipated in X is greater than that in Y.</p>\n<p>State and explain how the resistance of X compares with the resistance of Y.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>X and Y are now connected in parallel to the same cell.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p><br/>State and explain which resistor has the greater power dissipation.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A lamp Z and a resistor R have the <span class=\"math\" data-latex=\"I\"></span>-V characteristics shown in the graph.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the resistance of R. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>R and Z are connected in series to a cell of emf 12 V and negligible internal resistance.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p>\n<p><br/>Determine, using the graph, the power dissipated in lamp Z.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

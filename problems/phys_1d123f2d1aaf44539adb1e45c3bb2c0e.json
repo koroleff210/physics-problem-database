@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_1d123f2d1aaf44539adb1e45c3bb2c0e",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Towards the centre of the Earth / radially inward. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"g = \\frac{GM}{r^2} = \\frac{6.67 \\times 10^{-11} \\cdot 5.97 \\times 10^{24}}{(3.84 \\times 10^8)^2} = 0.00270\\ \\text{N kg}^{-1}\"></span><br/>- Correct formula and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The gravitational field, though weak, provides the centripetal force needed to maintain the Moon’s circular orbit. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The Moon orbits the Earth at an average distance of <span class=\"math\" data-latex=\"3.84 \\times 10^8\\ \\text{m}\"></span>. The mass of the Earth is <span class=\"math\" data-latex=\"5.97 \\times 10^{24}\\ \\text{kg}\"></span> and <span class=\"math\" data-latex=\"G = 6.67 \\times 10^{-11}\\ \\text{N m}^2 \\text{kg}^{-2}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the direction of the gravitational field produced by the Earth.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the gravitational field strength at the Moon’s orbit due to the Earth.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain why the Moon remains in orbit despite this weak field.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

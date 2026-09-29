@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/886e9ccf7cf954c21a1aa1f469c6f46541cf9858869c0ab085b7ed10ef93b2e7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "886e9ccf7cf954c21a1aa1f469c6f46541cf9858869c0ab085b7ed10ef93b2e7"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/f04c7cfc8df2b9d688dca914957d15d40baf22c37b86e8426058167fe8937f48.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "f04c7cfc8df2b9d688dca914957d15d40baf22c37b86e8426058167fe8937f48"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/073ad51f75691ed619394a672b864a92b4aa781fe7a11448c715132e92c6bd83.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "073ad51f75691ed619394a672b864a92b4aa781fe7a11448c715132e92c6bd83"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.3",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_b9040cf797cc44f0930ff104e4cd63a8",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Vertical direction / parallel to springs ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>The magnetic field moves relative to the coil ✓ As field lines cut the coil, forces act on (initially stationary) electrons in the wire (and these move producing an emf) ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>The springs have a natural time period for the oscillation ✓ A greater amplitude of movement leads to higher magnet speed (with constant time period) ✓ So field lines cut coil more quickly leading to greater emf ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>Use of <span class=\"math\" data-latex=\"\\varepsilon  = - \\frac{\\Delta ( N \\Phi )}{\\Delta t}\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{\\Delta \\Phi}{\\Delta t} = ( - ) \\frac{65 \\times  {10}^{- 3}}{150}\"></span> <span class=\"math\" data-latex=\"=0.43\"></span> mWb s<sup>−1</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Any two suggestions from: Increase number of turns in coil ✓<br/>Because more flux cutting per cycle ✓    Increase field strength of magnet  ✓<br/>So that there are more field lines ✓  Change mass-spring system so that time period decreases ✓<br/>So magnet will be moving faster for given amplitude of movement ✓</p>\n<p>The geophone is mounted on the ground at point Z and an explosion is produced at point W some distance away. Sound from the explosion travels to the geophone via the clay layer in the ground.</p>\n<p>Diagram not to scale</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The speed of sound in clay is 3.00 km s<sup>−1</sup>; the speed of sound in sandstone is 4.70 km s<sup>−1</sup></p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><sub>c</sub>n<sub>s</sub> <span class=\"math\" data-latex=\"=\\frac{3.0}{4.7}=1.57\"></span> ✓ Critical angle <span class=\"math\" data-latex=\"=sin^{-1}\\frac{1}{1.57}=39.6 ^{∘}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>ray shown reflected back into the clay (and then to Z) at (by eye) the incidence angle ✓   ray shown refracted into the sandstone with angle of refraction greater than angle of incidence (by eye) ✓</p>\n<p>Another explosion is produced at X. The sound from this explosion is detected twice at the geophone at Z. Some sound travels directly from X to Z through clay along path 2. Other sound travels through clay via Y along path 3.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>The vertical thickness of the clay layer is d. The distance XZ is 80.0 m.</p>\n<p>The time between the arrival of the sounds due to the path difference is 6.67 ms.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>distance difference <span class=\"math\" data-latex=\"=3000\\times 0.00667=19.8\"></span> m ✓ ½ distance difference <span class=\"math\" data-latex=\"=9.9\"></span> m so YZ <span class=\"math\" data-latex=\"=49.9\"></span> m ✓ <span class=\"math\" data-latex=\"d=\\sqrt{YZ^{2}-\\frac{XZ}{2}^{2}}=\\sqrt{49.9^{2}-40^{2}}\"></span> ✓<br/>29.8 m ✓ OR Recognises situation as (almost) 3:4:5 triangle ✓<br/>30 m (1 sf answer only accepted in this route) ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A geophone is an instrument designed to measure the movement of ground rocks.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>When the ground moves, the magnet-spring system oscillates relative to the coil. An emf is generated in the coil. The magnitude of this emf is proportional to the speed of the magnet relative to the coil.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the movement direction for which the geophone has its greatest sensitivity. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Outline how an emf is generated in the coil. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Explain why the magnitude of the emf is related to the amplitude of the ground movement. [3]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> </p><p>In one particular event, a maximum emf of 65 mV is generated in the geophone. The geophone coil has 150 turns.</p>\n<p>Calculate the rate of flux change that leads to this emf.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Suggest two changes to the system that will make the geophone more sensitive. [4]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that, when sound travels from clay to sandstone, the critical angle is approximately 40°. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>The angle between the clay–air surface and path 1 is 80°.</p>\n<p>Draw, on the diagram, the subsequent path of a sound wave that travels initially in the clay along path 1.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate d. [4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

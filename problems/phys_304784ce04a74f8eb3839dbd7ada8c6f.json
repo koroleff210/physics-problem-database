@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_304784ce04a74f8eb3839dbd7ada8c6f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A battery of emf <span class=\"math\" data-latex=\"\\mathcal{E}=24.0\\ \\mathrm{V}\"></span> and internal resistance <span class=\"math\" data-latex=\"r\"></span> powers a circuit with three resistors in parallel: <span class=\"math\" data-latex=\"R_1=4.0\\ \\Omega\"></span>, <span class=\"math\" data-latex=\"R_2=6.0\\ \\Omega\"></span>, and <span class=\"math\" data-latex=\"R_3=12.0\\ \\Omega\"></span>. The total current in the circuit is <span class=\"math\" data-latex=\"8.0\\ \\mathrm{A}\"></span>. What is the internal resistance <span class=\"math\" data-latex=\"r\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.50\\ \\Omega\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.0\\ \\Omega\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.5\\ \\Omega\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.0\\ \\Omega\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

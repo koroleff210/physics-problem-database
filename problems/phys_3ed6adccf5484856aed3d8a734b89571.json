@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/22dede006327265ad15fbd8d6233eba2696162af6eec871984b1bcf8c1292ce5.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "22dede006327265ad15fbd8d6233eba2696162af6eec871984b1bcf8c1292ce5"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_3ed6adccf5484856aed3d8a734b89571",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a circuit containing four identical resistors, each with resistance <span class=\"math\" data-latex=\"R\"></span>. Three of the resistors are connected in parallel, and one is in series with this group.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the total resistance of the circuit?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{3}R\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{4}{3}R\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2R\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4R\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

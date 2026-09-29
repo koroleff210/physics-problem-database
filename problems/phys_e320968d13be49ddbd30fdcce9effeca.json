@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ab28803b374c914830ee8f5ecdb66586f8763e1a046b4228d1d007660bcf6d6d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ab28803b374c914830ee8f5ecdb66586f8763e1a046b4228d1d007660bcf6d6d"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e320968d13be49ddbd30fdcce9effeca",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spring of negligible mass is compressed and placed between two stationary masses m and M. The mass of M is twice that of m. The spring is released so that the masses move in opposite directions.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{kinetic energy of m}}{\\textit{kinetic energy of M}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"B\">1</li><li data-label=\"C\">2</li><li data-label=\"D\">4</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

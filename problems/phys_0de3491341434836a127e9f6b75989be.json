@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_0de3491341434836a127e9f6b75989be",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The initial activity of a pure sample of a radioactive nuclide is <span class=\"math\" data-latex=\"6.0 \\times 10^{5}\"></span> Bq. The half-life of the nuclide is <span class=\"math\" data-latex=\"10\"></span> s. What is the best estimate for the activity of the sample after <span class=\"math\" data-latex=\"15\"></span> s?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.5 \\times 10^{5}\"></span> Bq</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2.1 \\times 10^{5}\"></span> Bq</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2.8 \\times 10^{5}\"></span> Bq</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"3.0 \\times 10^{5}\"></span> Bq</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

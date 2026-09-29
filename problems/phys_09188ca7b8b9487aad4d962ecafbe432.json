@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b2310a1079e9143576285dc12807891c928f3092a1dd546917f8aff0af80de50.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b2310a1079e9143576285dc12807891c928f3092a1dd546917f8aff0af80de50"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_09188ca7b8b9487aad4d962ecafbe432",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three resistors are connected to a cell as shown on the diagram. The current through the <span class=\"math\" data-latex=\"2.0 \\: \\Omega\"></span> resistor is <span class=\"math\" data-latex=\"3.0\"></span> A.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the internal resistance of the cell?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.50\\: \\Omega\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"1.0\\: \\Omega\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1.5\\: \\Omega\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2.0\\: \\Omega\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

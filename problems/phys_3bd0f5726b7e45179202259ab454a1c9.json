@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_3bd0f5726b7e45179202259ab454a1c9",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"d = \\frac{1}{0.020}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"d = 50\"></span> «pc» [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>High temperatures provide nuclei with sufficient kinetic energy to overcome the electrostatic «Coulomb» repulsion between positively charged nuclei [1 mark]</p>\n<p>This allows the nuclei to come close enough for the short-range strong nuclear force to attract and bind them [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Hydrogen in the core is depleted, causing the core to contract and heat up [1 mark]</p>\n<p>Hydrogen fusion begins in a shell surrounding the helium core [1 mark]</p>\n<p>The increased radiation pressure from the shell causes the outer envelope to expand and the surface to cool [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>It is the maximum mass of a stable white dwarf star «beyond which electron degeneracy pressure cannot prevent gravitational collapse» [1 mark]</p>\n<p>Note: Accept value of 1.4 solar masses</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p><span class=\"math\" data-latex=\"\\Delta m = (4 \\times 1.0073) - 4.0015\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta m = 0.0277\"></span> u [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p><span class=\"math\" data-latex=\"T = \\frac{2.90 \\times 10^{-3} \\text{ m K}}{1.45 \\times 10^{-7} \\text{ m}}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"T = 20000\"></span> «K» [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Observations of the star Sigma-7 have provided the following data regarding its position and radiation spectrum.</p><p>Parallax angle <span class=\"math\" data-latex=\"p = 0.020\"></span> arcseconds</p><p>Peak emission wavelength <span class=\"math\" data-latex=\"\\lambda_{max} = 1.45 \\times 10^{-7} \\text{ m}\"></span></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the distance to Sigma-7 in units of parsecs (pc). [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why nuclear fusion in a stellar core requires temperatures of approximately <span class=\"math\" data-latex=\"10^7 \\text{ K}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain the internal and external changes that occur when a star transitions from the main sequence to the red giant branch. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Identify the physical significance of the Chandrasekhar limit. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Calculate the mass defect, in atomic mass units (u), when four protons (each <span class=\"math\" data-latex=\"1.0073 \\text{ u}\"></span>) fuse to form one helium-4 nucleus (<span class=\"math\" data-latex=\"4.0015 \\text{ u}\"></span>). [1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Determine the effective temperature of the star's surface. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

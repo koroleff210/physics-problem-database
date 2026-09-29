@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d0b1cfd502c97845f39ed70ee56eed3beb1d25ca686de0ec4c5acc5805aca576.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d0b1cfd502c97845f39ed70ee56eed3beb1d25ca686de0ec4c5acc5805aca576"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d9cabe5833d17129262b60d85227202f87d14fcd30f42ab47a34e4965e477bc9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d9cabe5833d17129262b60d85227202f87d14fcd30f42ab47a34e4965e477bc9"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/12ad3a7b2c2772a521cc1717a447256983fa8a26bfaab77cf49aed9d0af9d82f.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "12ad3a7b2c2772a521cc1717a447256983fa8a26bfaab77cf49aed9d0af9d82f"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "B.2",
+    "B.3",
+    "D.1",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_c0d367b86ee546a7b19a31cd1d5815e9",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Reference to an experimental evidence e.g. Compton or photoelectric effect ✓ Brief reference to the transfer of momentum and/or energy of a photon in the example given e.g. photon scatters from an electron transferring momentum and/or energy or photon strikes «and ejects» an electron transferring momentum and/or energy. ✓ <br/>Accept any correct reference to the experiment quoted even if only about energy transfer.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Energy incident per second/power is <span class=\"math\" data-latex=\"N\\frac{hc}{\\lambda}\"></span> ✓ Intensity is power per area ✓ so <span class=\"math\" data-latex=\"I=\\frac{N}{A}\\frac{hc}{\\lambda}\"></span>  <br/>Allow [1] if student consistently uses energy instead of power.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Use of photon momentum <span class=\"math\" data-latex=\"\\frac{h}{\\lambda}\"></span> ✓ Force is rate of change of total momentum <span class=\"math\" data-latex=\"N\\frac{2h}{\\lambda}\"></span> ✓ Pressure is force per unit area <span class=\"math\" data-latex=\"\\frac{N}{A}\\frac{2h}{\\lambda}\"></span> and substitution <span class=\"math\" data-latex=\"\\frac{N}{A}\\frac{h}{\\lambda}=\\frac{I}{c}\"></span> to get result ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"F=PA=\\frac{2\\times 420}{3\\times 10^{8}}\\times 1600\"></span>   OR    <span class=\"math\" data-latex=\"4.48\\times 10^{-3} N\"></span> ✓ <span class=\"math\" data-latex=\"a=\\frac{F}{m}=\\frac{2\\times 420\\times 1600}{3\\times 10^{8}\\times 1400}\"></span>  OR   <span class=\"math\" data-latex=\"3.2\\times 10^{-6} m s^{-2}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"s=\\frac{1}{2}at^{2}⇒t=\\sqrt{\\frac{2s}{a}}=\\sqrt{\\frac{2\\times 6.1\\times 10^{11}}{3.2\\times 10^{-6}}}\"></span> ✓ <span class=\"math\" data-latex=\"t=6.175\\times 10^{8} s=19.6≈20\"></span> years ✓ <br/>Award full marks for a correct answer in seconds or years. Award full marks for a CNA</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>The intensity of light on the sail will not remain constant / the force due to the Sun/Earth/Jupiter/other planets is ignored / sail may not be flat / light may be incident at an angle / part of the radiation may be absorbed / any other reasonable statement ✓</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>Any position along the dotted line between the spacecraft and the centre of the ellipse ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Jupiter is at a focus of the ellipse ✓<br/><br/> Speed is a maximum, potential energy is a minimum hence the spacecraft is closest to Jupiter OR The angular momentum mvr of the spacecraft is conserved and since speed is maximum the spacecraft is closest to Jupiter OR reference to Kepler’s second law ✓ <br/>Accept not at the centre for MP1</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p><span class=\"math\" data-latex=\"\\omega^{2}r=G\\frac{M}{r^{2}}\"></span>   OR   <span class=\"math\" data-latex=\"\\frac{G M}{r} = \\frac{2 π r}{T}\"></span> ✓ <span class=\"math\" data-latex=\"M = ρ \\frac{4 π {r}^{3}}{3}\"></span> ✓ Manipulation to show the result e.g. <span class=\"math\" data-latex=\"{T}^{2} = \\frac{4 {π}^{2}}{G ρ \\frac{4 {π r}^{3}}{3}} {r}^{3}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p><span class=\"math\" data-latex=\"\\rho=\\frac{3\\pi}{GT^{2}}=\\frac{3\\pi}{6.67\\times 10^{-11}\\times 2.9\\times 60\\times 60^{2}}\"></span> ✓ <span class=\"math\" data-latex=\"\\rho=1.3\\times 10^{3} kg m^{-3}\"></span> ✓ <br/>Allow ECF from MP1</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline one experimental piece of evidence that shows that photons have momentum. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Photons of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> are incident normally on a flat surface of area <span class=\"math\" data-latex=\"A\"></span>. The photons are reflected without change in wavelength.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>There are <span class=\"math\" data-latex=\"N\"></span> photons incident per second.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the intensity <span class=\"math\" data-latex=\"I\"></span> that is incident on the surface is given by <span class=\"math\" data-latex=\"I=\\frac{N}{A}\\frac{hc}{\\lambda}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Deduce that the pressure <span class=\"math\" data-latex=\"P\"></span> exerted on the surface is given by <span class=\"math\" data-latex=\"P=\\frac{2I}{c}\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>It is proposed to send a spacecraft to Jupiter. The spacecraft would be launched to a point Q far from Earth and would then be accelerated by the pressure of the Sun’s radiation on a sail attached to the spacecraft. The following data are available:<br/><br/></p>\n<p>total mass of spacecraft = 1400 kg</p>\n<p>sail area = 1600 m<sup>2</sup></p>\n<p>solar radiation intensity at Q = 420 W m<sup>−2</sup></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the acceleration of the spacecraft at Q due to solar radiation alone is about 3 × 10<sup>–6</sup> m s<sup>–2</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> The distance between Q and Jupiter is 6.1 × 10<sup>11</sup> m. Estimate the time, in years, it would take the spacecraft to reach Jupiter, assuming that the spacecraft moves with the acceleration in (i). [2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> State one reason why the acceleration of the spacecraft will not be constant. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The spacecraft enters an elliptical orbit around Jupiter.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p><br/>At the position shown, the spacecraft has its maximum orbital speed.</p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Draw, on the diagram, a possible position of Jupiter. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Explain your answer to (d)(i). [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The spacecraft changes its orbit into a circular orbit just above the surface of Jupiter, so that the orbit radius is essentially equal to the radius of Jupiter.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> Show that the orbital period, <span class=\"math\" data-latex=\"T\"></span>, of the spacecraft is given by <span class=\"math\" data-latex=\"T=\\sqrt{\\frac{3\\pi}{G\\rho}}\"></span>, where <span class=\"math\" data-latex=\"\\rho\"></span> is the density of Jupiter. [3]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> The orbital period is 2.9 hours. Estimate the density of Jupiter. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

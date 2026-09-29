@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/50fa13dbbb46e9b436b762ed118e3a795bb9de2789fc1b0717b0a6a3b1096df3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "50fa13dbbb46e9b436b762ed118e3a795bb9de2789fc1b0717b0a6a3b1096df3"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e85064824c2b42b198211657577babcb",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows two blocks of mass <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"M\"></span> in contact on a frictionless surface. A force F is applied on the block of mass <span class=\"math\" data-latex=\"m\"></span> and causes the blocks to move with an acceleration <span class=\"math\" data-latex=\"a\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the force that the block of mass M is exerting on the block of mass m?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"m\"></span> <span class=\"math\" data-latex=\"a\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"M\"></span> <span class=\"math\" data-latex=\"a\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"M + m a\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{m}{\\textit{M + m}} a\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_4712f2dff30d49b1943e9bedf323a6bc",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A box of mass <span class=\"math\" data-latex=\"m\"></span> is at rest on a horizontal table-top. The table-top is then slowly raised and when the angle between the table-top and the horizontal is <span class=\"math\" data-latex=\"23^{\\circ}\"></span>, the box begins to slide. What is the normal reaction force exerted by the box on the table-top when the box begins to slide and what is the coefficient of static friction between the box and the table-top?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Normal reaction force</strong></p>\n</td>\n<td>\n<p><strong>Coefficient of static friction</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"mgsin\\left ( 23^{\\circ} \\right )\"></span></td>\n<td><span class=\"math\" data-latex=\"tan\\left ( 23^{\\circ} \\right )\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"mgcos\\left ( 23^{\\circ} \\right )\"></span></td>\n<td><span class=\"math\" data-latex=\"tan\\left ( 23^{\\circ} \\right )\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"mgsin\\left ( 23^{\\circ} \\right )\"></span></td>\n<td><span class=\"math\" data-latex=\"cos\\left ( 23^{\\circ} \\right )\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"mgcos\\left ( 23^{\\circ} \\right )\"></span></td>\n<td><span class=\"math\" data-latex=\"cos\\left ( 23^{\\circ} \\right )\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

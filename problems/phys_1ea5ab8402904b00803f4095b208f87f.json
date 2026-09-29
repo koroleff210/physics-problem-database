@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_1ea5ab8402904b00803f4095b208f87f",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The bending of a wave as it passes from one medium to another due to a change in speed.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>It decreases.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Decreases.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The wave changes speed when it enters a different medium. [1 mark]</p>\n<p>This causes a change in direction according to Snell’s Law. [1 mark]</p>\n<p>\\\\</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A light wave travels from air into glass.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term “refraction”. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State what happens to the speed of light as it enters the glass. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Identify whether the wavelength increases, decreases, or remains constant in the glass. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest why the direction of the wave changes when it enters the glass. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

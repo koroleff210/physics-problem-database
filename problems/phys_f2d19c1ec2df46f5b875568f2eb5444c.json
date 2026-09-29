@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7e702c04329edbb757aaf971413fb2c79d3a44f751ad6833ddac9885e66f30a1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7e702c04329edbb757aaf971413fb2c79d3a44f751ad6833ddac9885e66f30a1"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_f2d19c1ec2df46f5b875568f2eb5444c",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Bumps are met at <span class=\"math\" data-latex=\"\\frac{1.2}{3.0}=0.4 s\"></span> intervals  OR time period of oscillation <span class=\"math\" data-latex=\"=\\frac{1}{2.6}= 0.38 s\"></span> OR Bump frequency = 2.5 «Hz» ✓<br/><br/>There is «an oscillation close to» resonance<br/>OR<br/>amplitude of oscillation is large<br/>OR<br/>bumping frequency and natural frequency are very close<br/>OR<br/>bumping period and period of oscillation are very close ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>less/reduced amplitude of vibration ✓ resonant frequency lower ✓ resonance occurs at lower speed ✓ oscillations die out (faster) ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A person rides a recumbent bicycle that has a suspension unit mounted between the saddle and the bicycle frame. The suspension unit supports the mass of the person and consists of a spring with a damping mechanism.</p>\n<p>The natural frequency of vibration of the suspension unit is 2.6 Hz.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The suspension unit is damaged so that the spring is undamped.</p>\n<p>The bicycle travels over bumpy ground with bumps separated by equal distances of 1.2 m.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the ride is uncomfortable when the speed of the bicycle is 3.0 m s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The suspension unit is repaired so that the spring is damped.</p>\n<p>Describe any changes that the person will notice when riding over the same bumpy ground.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

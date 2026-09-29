@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ba6e83fc940a4350a94fbbfcb60d41dd",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two point particles are separated by a distance <span class=\"math\" data-latex=\"x\"></span>. The mass of particles is <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"100m\"></span> respectively and the charge on the particles is <span class=\"math\" data-latex=\"q\"></span> and <span class=\"math\" data-latex=\"75q\"></span> respectively. The magnitude of the electric force that acts between the particles is <span class=\"math\" data-latex=\"10^{36}\"></span> times larger than the magnitude of the gravitational force that acts between the particles. What is the best estimate for the magnitude of the ratio <span class=\"math\" data-latex=\"\\frac{m}{q}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"10^{-4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"10^{-8}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"10^{-12}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10^{-16}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

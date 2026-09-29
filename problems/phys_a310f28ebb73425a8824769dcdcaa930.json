@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a310f28ebb73425a8824769dcdcaa930",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>Nuclear fission produces radioactive byproducts (fission fragments) which often have long half-lives, making their safe, long-term disposal a significant challenge. Option B is incorrect as control rods, not river water, are the primary means of controlling the chain reaction. Option C is incorrect as a coolant (like water) cools the reactor, while control rods regulate the reaction rate. Option D is false; chain reactions in power reactors are designed to be precisely controlled and can be stopped.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement about nuclear power plants is correct?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> The fission process generates radioactive waste that is difficult to dispose of.</li>\n<li data-label=\"B\"> Nuclear power plants use water from nearby rivers to control chain reactions.</li>\n<li data-label=\"C\"> Nuclear power plants use control rods to cool down reactors.</li>\n<li data-label=\"D\"> Chain reactions in fission reactors are unstoppable once they have started.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

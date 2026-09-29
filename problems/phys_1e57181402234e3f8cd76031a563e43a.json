@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1e57181402234e3f8cd76031a563e43a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A parallel beam of monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> passes through a rectangular slit of width <span class=\"math\" data-latex=\"b\"></span> and is incident on a screen at a distance <span class=\"math\" data-latex=\"x\"></span> from the slit.</p>\n<p>What is the width of the central maximum of the diffraction pattern on the screen?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\lambda}{b}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2\\lambda}{b}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{λ x}{b}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2 λ x}{b}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

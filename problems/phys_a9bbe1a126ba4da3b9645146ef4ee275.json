@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_a9bbe1a126ba4da3b9645146ef4ee275",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two stars, P and Q, can be modeled as black-body radiators. Star P has its peak emission in the ultraviolet (UV) region of the electromagnetic spectrum, while star Q has its peak emission in the infrared (IR) region.</p>\n<p>Which row correctly identifies the star with the higher surface temperature and the star with the longer peak wavelength of emission?</p>\n<table><thead><tr><th></th><th>Higher surface temperature</th><th>Longer peak wavelength</th></tr></thead><tbody><tr data-label=\"A\"><td><strong>A</strong></td><td>P</td><td>P</td></tr><tr data-label=\"B\"><td><strong>B</strong></td><td>P</td><td>Q</td></tr><tr data-label=\"C\"><td><strong>C</strong></td><td>Q</td><td>P</td></tr><tr data-label=\"D\"><td><strong>D</strong></td><td>Q</td><td>Q</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

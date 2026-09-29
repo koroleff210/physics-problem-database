@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_5008cfeba0ba4306ba9eab4ecc6ea670",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An unstable particle at rest has a proper lifetime of <span class=\"math\" data-latex=\"2.5\\,\\mu\\text{s}\"></span>. How fast must it travel so that only 1% of the particles in a beam survive after traveling <span class=\"math\" data-latex=\"600\\,\\text{m}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.10c\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.17c\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.83c\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.90c\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

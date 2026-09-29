@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8ce00a2e8b9e1ea13526c6d4fc0b064bce0f798049006824b3f53a2540b276ca.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8ce00a2e8b9e1ea13526c6d4fc0b064bce0f798049006824b3f53a2540b276ca"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_fee0b581ab06438fb74b33e6f270286c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two trolleys, X and Y, with masses of <span class=\"math\" data-latex=\"2.0\\text{ kg}\"></span> and <span class=\"math\" data-latex=\"5.0\\text{ kg}\"></span> respectively, are initially at rest on a frictionless horizontal surface with a compressed spring held between them.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The system is released. What is the value of the ratio <span class=\"math\" data-latex=\"\\frac{\\text{kinetic energy of trolley X}}{\\text{kinetic energy of trolley Y}}\"></span> at the instant the trolleys lose contact with the spring?</p><ol class=\"mcq-options\"><li data-label=\"A\">0.16</li><li data-label=\"B\">0.40</li><li data-label=\"C\">1.0</li><li data-label=\"D\">2.5</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

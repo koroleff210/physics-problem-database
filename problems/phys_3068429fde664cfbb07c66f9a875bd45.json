@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_3068429fde664cfbb07c66f9a875bd45",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cell of negligible internal resistance is fully charged and then connected to a resistor of resistance <span class=\"math\" data-latex=\"10\\: \\Omega\"></span>. It takes the cell two hours to fully discharge and the power dissipated in the resistor is <span class=\"math\" data-latex=\"2.0\"></span> W. The cell is fully charged again and this time two <span class=\"math\" data-latex=\"10\\: \\Omega\"></span> resistors are connected to the cell in parallel. What is the time it takes for the cell to fully discharge and what is the power dissipated in each resistor?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Time it takes for the cell to fully discharge</strong></p>\n</td>\n<td>\n<p><strong>Power dissipated in each resistor</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Four hours</td>\n<td><span class=\"math\" data-latex=\"1.0\"></span> W</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>One hour</td>\n<td><span class=\"math\" data-latex=\"1.0\"></span> W</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Four hours</td>\n<td><span class=\"math\" data-latex=\"2.0\"></span> W</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>One hour</td>\n<td><span class=\"math\" data-latex=\"2.0\"></span> W</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

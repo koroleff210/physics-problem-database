@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1d0bc551e8933f502a714b53fe418ff1a88587cba43bfde29d5fb042189425b5.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1d0bc551e8933f502a714b53fe418ff1a88587cba43bfde29d5fb042189425b5"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_559adc52f2f0483eb80bf04a96b55767",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: - Incorrectly assumes kinetic energy is directly proportional to momentum (or radius) rather than the square of momentum.</p>\n<p>B: - The radius of a charged particle's path in a magnetic field is given by <span class=\"math\" data-latex=\"r = \\frac{mv}{Bq} = \\frac{p}{Bq}\"></span>. Since <span class=\"math\" data-latex=\"B, q\"></span> are constant, <span class=\"math\" data-latex=\"p \\propto r\"></span>. Thus, <span class=\"math\" data-latex=\"\\frac{p_Y}{p_X} = \\frac{2R}{R} = 2\"></span>.<br/>- Kinetic energy is related to momentum by <span class=\"math\" data-latex=\"E_k = \\frac{p^2}{2m}\"></span>. Since the masses are identical, <span class=\"math\" data-latex=\"E_k \\propto p^2\"></span>. Thus, <span class=\"math\" data-latex=\"\\frac{E_k(Y)}{E_k(X)} = (2)^2 = 4\"></span>.</p>\n<p>C: - Incorrectly assumes momentum is proportional to the square of the radius.</p>\n<p>D: - Compounded error based on incorrect momentum-radius relationship.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two particles, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, with identical mass and identical positive charge, enter a region of uniform magnetic field directed into the page. They follow the semi-circular paths shown in the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The radius of the path followed by particle <span class=\"math\" data-latex=\"Y\"></span> is <span class=\"math\" data-latex=\"2R\"></span>, while the radius for particle <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>Which row correctly identifies the ratio of the momentum (<span class=\"math\" data-latex=\"p\"></span>) and the ratio of the kinetic energy (<span class=\"math\" data-latex=\"E_k\"></span>) of particle <span class=\"math\" data-latex=\"Y\"></span> compared to particle <span class=\"math\" data-latex=\"X\"></span>?</p>\n<p>| | <span class=\"math\" data-latex=\"\\frac{p_Y}{p_X}\"></span> | <span class=\"math\" data-latex=\"\\frac{E_k(Y)}{E_k(X)}\"></span> |<br/>|--|-------------------|-------------------------|<br/>| A | 2 | 2 |<br/>| B | 2 | 4 |<br/>| C | 4 | 4 |<br/>| D | 4 | 16 |</p><ol class=\"mcq-options\"><li data-label=\"A\">2 | 2</li><li data-label=\"B\">2 | 4</li><li data-label=\"C\">4 | 4</li><li data-label=\"D\">4 | 16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

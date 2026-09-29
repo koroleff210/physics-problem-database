@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/30f66ec978024460c2fa357c66afe78f6f344450fc8d5d0b756fd533e93c7d69.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "30f66ec978024460c2fa357c66afe78f6f344450fc8d5d0b756fd533e93c7d69"
+    }
+  ],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_bec15234c8094b1693b97663c606e546",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What are the principal roles of a moderator and of a control rod in a thermal nuclear reactor?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

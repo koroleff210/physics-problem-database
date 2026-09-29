@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e5a9588f6e4d579ed337aa3b2986ad4fd1b191d562af58c96112a3fffb126c2c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e5a9588f6e4d579ed337aa3b2986ad4fd1b191d562af58c96112a3fffb126c2c"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_3250b5c04b67479f8cf63cac7eccc2fc",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sample of <span class=\"math\" data-latex=\"n\"></span> moles of an ideal gas is kept at a constant volume. The graph shows how the pressure <span class=\"math\" data-latex=\"P\"></span> of the gas varies with absolute temperature <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the volume of the gas?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"nR\\frac{T_{2}-T_{1}}{P_{2}-P_{1}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"nR\\frac{P_{2}-P_{1}}{T_{2}-T_{1}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"nR\\frac{T_{2}}{P_{2}}-\\frac{T_{1}}{P_{1}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"nR\\frac{P_{2}}{T_{2}}-\\frac{P_{1}}{T_{1}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b52a4191f52b496183e36611f683ac33",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A diffraction grating with grating spacing <span class=\"math\" data-latex=\"a\"></span> is illuminated normally using a beam of monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>. The angle between the straight-through position and the first order maximum is <span class=\"math\" data-latex=\"\\alpha\"></span> and the angle between the first order and the second order maxima is <span class=\"math\" data-latex=\"\\beta\"></span>. What is <span class=\"math\" data-latex=\"\\lambda\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{asin\\alpha}{2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{asin\\beta}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{asin(\\alpha + \\beta)}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{asin(\\alpha - \\beta)}{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e3fcb4a9872c40ca96dd1b733b9d95ed",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> has a gravitational field strength <span class=\"math\" data-latex=\"g\"></span> at its surface. What is the gravitational field strength at the surface of a second planet that has a mass of <span class=\"math\" data-latex=\"2M\"></span> and a radius of <span class=\"math\" data-latex=\"3R\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{2}{3} g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{4}{9} g\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{2}{9} g\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{18} g\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

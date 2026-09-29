@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_5af7c02723374a6393518192de628b8c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Correct. For a real battery modeled as emf <span class=\"math\" data-latex=\"E\"></span> in series with internal resistance <span class=\"math\" data-latex=\"r\"></span>, when current <span class=\"math\" data-latex=\"I\"></span> flows the terminal potential difference is <span class=\"math\" data-latex=\"V = E - Ir\"></span>, so it decreases under load.</p>\n<p>B: Incorrect. Internal resistance opposes current and reduces the current for a given load.</p>\n<p>C: Incorrect. The battery’s chemical processes provide energy; internal resistance represents energy dissipated as heat inside the battery.</p>\n<p>D: Incorrect. Power <span class=\"math\" data-latex=\"I^2r\"></span> is dissipated as heat in the internal resistance, which can increase the battery temperature.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What effect does internal resistance have on the terminal potential difference of a real battery when current is drawn?</p><ol class=\"mcq-options\"><li data-label=\"A\">It reduces the terminal potential difference under load.</li><li data-label=\"B\">It increases current through the external circuit.</li><li data-label=\"C\">It converts electrical energy into chemical energy.</li><li data-label=\"D\">It keeps the battery temperature constant.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

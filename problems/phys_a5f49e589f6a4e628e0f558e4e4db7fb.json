@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_a5f49e589f6a4e628e0f558e4e4db7fb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A galaxy emits light of wavelength of <span class=\"math\" data-latex=\"\\lambda_{G}\"></span>. When this light is detected on Earth, its wavelength is measured to be <span class=\"math\" data-latex=\"\\lambda_{E}\"></span>. What is the relative direction of motion and the relative speed of the galaxy compared to those of the Earth if <span class=\"math\" data-latex=\"\\lambda_{E} &gt; \\lambda_{G}\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction of motion</strong></p>\n</td>\n<td>\n<p><strong>Speed</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Away from Earth</td>\n<td><span class=\"math\" data-latex=\"\\frac{c(\\lambda_{E} - \\lambda_{G})}{\\lambda_{G}}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Away from Earth</td>\n<td><span class=\"math\" data-latex=\"\\frac{c(\\lambda_{E} - \\lambda_{G})}{\\lambda_{E}}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Towards Earth</td>\n<td><span class=\"math\" data-latex=\"\\frac{c(\\lambda_{E} - \\lambda_{G})}{\\lambda_{G}}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Towards Earth</td>\n<td><span class=\"math\" data-latex=\"\\frac{c(\\lambda_{E} - \\lambda_{G})}{\\lambda_{E}}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c6f83041e02a66badc7c0ff3e8a5b3a18476a84191b9783fe3d07752b71a1460.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c6f83041e02a66badc7c0ff3e8a5b3a18476a84191b9783fe3d07752b71a1460"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/507fad238912516ea72ea25fb5f0c0f3ef126b6803b6061f729539ae99371def.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "507fad238912516ea72ea25fb5f0c0f3ef126b6803b6061f729539ae99371def"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_c6e4b4debf974723b4925f21f3e1c96f",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«<span class=\"math\" data-latex=\"\\frac{10}{0.20}=\"></span>» 50 Ω ✓   Unit is not required. If the unit is missing, assume Ω. If any other unit is given, the power of ten and the prefix must match, e.g. accept 0.050 kΩ.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Increases ✓   Ignore details e.g. whether R increases at an increasing or decreasing rate. Award [0] when the answer suggests that R becomes constant after an initial increase.</p>\n<p>P and Q are connected in a circuit with a cell of negligible internal resistance as shown. The ammeter and the voltmeter are ideal.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The reading of the voltmeter is 3.0 V.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>120 mA ✓   Unit is not required.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1 p.d. across P is 6.0 V or 0.12 × 50 ✓ emf =«6.0 + 3.0=»9.0 V ✓ ALTERNATIVE 2 resistance of <span class=\"math\" data-latex=\"Q=\\frac{3.0}{0.12}\"></span> or 25 Ω ✓ emf «0.12 (25 + 50)»=9.0 V ✓   P.d. across P can be read off the graph or calculated.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The graph shows the variation with the potential difference V of the current <span class=\"math\" data-latex=\"I\"></span> in an ohmic resistor P and a non-ohmic component Q.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the resistance of P. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline how the resistance of Q changes when the current in it increases. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> State, in mA, the reading of the ammeter. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Determine the emf of the cell. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

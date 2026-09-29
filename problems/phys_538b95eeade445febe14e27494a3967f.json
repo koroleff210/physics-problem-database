@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_538b95eeade445febe14e27494a3967f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This value incorrectly considers only the ratio of the masses (<span class=\"math\" data-latex=\"\\frac{m_X}{m_Y} = 0.5\"></span>) and ignores the difference in lifting speeds.</p>\n<p>B: Power <span class=\"math\" data-latex=\"P\"></span> is the rate of doing work. For an object lifted at a constant speed <span class=\"math\" data-latex=\"v\"></span>, the power required is <span class=\"math\" data-latex=\"P = Fv\"></span>. Since the load is moving at constant speed, the lifting force <span class=\"math\" data-latex=\"F\"></span> is equal to the weight <span class=\"math\" data-latex=\"mg\"></span>. Thus, <span class=\"math\" data-latex=\"P = mgv\"></span>.</p>\n<p>The ratio of the power for X to the power for Y is:<br/><span class=\"math\" data-latex=\"\\frac{P_X}{P_Y} = \\frac{m_X g v_X}{m_Y g v_Y}\"></span></p>\n<p>Substituting the given ratios (<span class=\"math\" data-latex=\"m_X = 0.5 m_Y\"></span> and <span class=\"math\" data-latex=\"v_X = 4 v_Y\"></span>):<br/><span class=\"math\" data-latex=\"\\frac{P_X}{P_Y} = \\frac{(0.5 m_Y) \\cdot g \\cdot (4 v_Y)}{m_Y \\cdot g \\cdot v_Y} = 0.5 \\times 4 = 2.0\"></span></p>\n<p>C: This value incorrectly considers only the ratio of the speeds (<span class=\"math\" data-latex=\"\\frac{v_X}{v_Y} = 4\"></span>) and ignores the difference in the masses of the loads.</p>\n<p>D: This result stems from an error in applying the ratios, possibly by multiplying the integer parts of the descriptions (2 from 'half' and 4 from 'four times') without correctly identifying that one mass is smaller than the other (<span class=\"math\" data-latex=\"0.5 \\times 4 = 2\"></span>, not <span class=\"math\" data-latex=\"2 \\times 4 = 8\"></span>).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two loads, X and Y, are lifted vertically by a crane at different constant speeds. The mass of load X is <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> the mass of load Y, and the speed of load X is 4 times the speed of load Y.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{power required to lift load X}}{\\text{power required to lift load Y}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">0.5</li><li data-label=\"B\">2.0</li><li data-label=\"C\">4.0</li><li data-label=\"D\">8.0</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

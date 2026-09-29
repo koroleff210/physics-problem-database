@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7c5d143fb5dd445bb3dd4d5310247c4f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: For double-slit fringes, <span class=\"math\" data-latex=\"x\\propto \\lambda \\propto 1/f\"></span>. Increasing frequency to <span class=\"math\" data-latex=\"1.5f\"></span> reduces <span class=\"math\" data-latex=\"x\"></span> by a factor <span class=\"math\" data-latex=\"1/1.5=2/3\"></span>, so for <span class=\"math\" data-latex=\"n=2\"></span>: <span class=\"math\" data-latex=\"x'=9.0\\text{ mm}\\times 2/3=6.0\\text{ mm}\"></span>. Therefore <span class=\"math\" data-latex=\"3.0\\text{ mm}\"></span> is incorrect.</p>\n<p>B: For double-slit fringes, <span class=\"math\" data-latex=\"x\\propto \\lambda\"></span> and <span class=\"math\" data-latex=\"\\lambda=c/f\"></span>, so <span class=\"math\" data-latex=\"x\\propto 1/f\"></span>. When <span class=\"math\" data-latex=\"f\\to 1.5f\"></span>, <span class=\"math\" data-latex=\"x\\to x/1.5=(2/3)x\"></span>. For <span class=\"math\" data-latex=\"n=2\"></span>, original <span class=\"math\" data-latex=\"x=9.0\\text{ mm}\"></span>, so <span class=\"math\" data-latex=\"x'=9.0\\text{ mm}\\times 2/3=6.0\\text{ mm}\"></span>.</p>\n<p>C: If frequency increases to <span class=\"math\" data-latex=\"1.5f\"></span>, the wavelength decreases, so the fringe spacing decreases and <span class=\"math\" data-latex=\"x\"></span> must be smaller than <span class=\"math\" data-latex=\"9.0\\text{ mm}\"></span>. Correct scaling gives <span class=\"math\" data-latex=\"x'=9.0\\text{ mm}/1.5=6.0\\text{ mm}\"></span>, so <span class=\"math\" data-latex=\"9.0\\text{ mm}\"></span> is incorrect.</p>\n<p>D: For <span class=\"math\" data-latex=\"n=2\"></span> the original distance is <span class=\"math\" data-latex=\"9.0\\text{ mm}\"></span>, not <span class=\"math\" data-latex=\"13.5\\text{ mm}\"></span> (which corresponds to <span class=\"math\" data-latex=\"n=3\"></span>). Also, increasing frequency decreases <span class=\"math\" data-latex=\"x\"></span> by a factor <span class=\"math\" data-latex=\"1/1.5\"></span>, giving <span class=\"math\" data-latex=\"6.0\\text{ mm}\"></span>, so <span class=\"math\" data-latex=\"13.5\\text{ mm}\"></span> is incorrect.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A laser produces an interference pattern by illuminating a pair of narrow slits. The table below displays the recorded distance <span class=\"math\" data-latex=\"x\"></span> of the center of each bright fringe from the central maximum for a light source of frequency <span class=\"math\" data-latex=\"f\"></span> (in Hz).</p>\n<table><thead><tr><th>Fringe order (<span class=\"math\" data-latex=\"n\"></span>)</th><th>Distance <span class=\"math\" data-latex=\"x\"></span> / mm</th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"4.5\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"9.0\"></span></td></tr><tr><td>3</td><td><span class=\"math\" data-latex=\"13.5\"></span></td></tr></tbody></table>\n<p>If the laser is replaced by one with a frequency of <span class=\"math\" data-latex=\"1.5f\"></span> and all other experimental parameters are held constant, what is the new distance from the central maximum to the second-order (<span class=\"math\" data-latex=\"n=2\"></span>) bright fringe?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"3.0\\text{ mm}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"6.0\\text{ mm}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"9.0\\text{ mm}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"13.5\\text{ mm}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

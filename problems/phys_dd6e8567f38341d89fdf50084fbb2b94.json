@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_dd6e8567f38341d89fdf50084fbb2b94",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Use the formula for the internal energy of a monatomic ideal gas: <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2} n R \\Delta T\"></span> [1 mark]<br/>- Substitute values: <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2} (0.45)(8.31)(340 - 290) \\approx 280\\ \\text{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>, where <span class=\"math\" data-latex=\"W\"></span> is the work done <strong>by</strong> the gas (or <span class=\"math\" data-latex=\"\\Delta U = Q + W\"></span> where <span class=\"math\" data-latex=\"W\"></span> is work done <strong>on</strong> the gas) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Determine the work done by the gas using the first law: <span class=\"math\" data-latex=\"W = Q - \\Delta U = 1800 - 1080 = 720\\ \\text{J}\"></span> [1 mark]<br/>- Use <span class=\"math\" data-latex=\"W = p \\Delta V\"></span> to find the change in volume: <span class=\"math\" data-latex=\"\\Delta V = \\frac{720}{1.2 \\times 10^5} = 6.0 \\times 10^{-3}\\ \\text{m}^3\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A cylinder fitted with a frictionless piston contains <span class=\"math\" data-latex=\"0.45\\ \\text{mol}\"></span> of an ideal monatomic gas.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>The gas is heated such that its temperature increases from <span class=\"math\" data-latex=\"290\\ \\text{K}\"></span> to <span class=\"math\" data-latex=\"340\\ \\text{K}\"></span>. Calculate the change in the internal energy of the gas.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the equation representing the first law of thermodynamics, clearly defining the symbol used for the work done by the gas.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>In a separate process, the gas undergoes an isobaric expansion at a constant pressure of <span class=\"math\" data-latex=\"1.2 \\times 10^5\\ \\text{Pa}\"></span>. During this expansion, <span class=\"math\" data-latex=\"1800\\ \\text{J}\"></span> of thermal energy is transferred to the gas and its internal energy increases by <span class=\"math\" data-latex=\"1080\\ \\text{J}\"></span>. Calculate the change in the volume of the gas.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

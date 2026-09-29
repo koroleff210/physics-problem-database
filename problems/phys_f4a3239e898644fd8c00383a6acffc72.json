@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_f4a3239e898644fd8c00383a6acffc72",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass-spring system has total mechanical energy <span class=\"math\" data-latex=\"E\"></span> and amplitude <span class=\"math\" data-latex=\"A\"></span>. What is the displacement <span class=\"math\" data-latex=\"x\"></span> where kinetic and potential energies are equal?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"x = 0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"x = \\frac{A}{\\sqrt{2}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"x = \\frac{A}{2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"x = \\frac{A\\sqrt{3}}{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_585766654b264c2dbfaec4e2be88a837",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The energy of the nth level of hydrogen is given by <span class=\"math\" data-latex=\"-\\frac{E_{0}}{n^{2}}\"></span>. What is the frequency of the photon emitted in the transition from <span class=\"math\" data-latex=\"n=4\"></span> to <span class=\"math\" data-latex=\"n=2\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\\times \\frac{E_{0}}{h}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{16}\\times \\frac{E_{0}}{h}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{4}\\times \\frac{E_{0}}{h}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{4}\\times \\frac{E_{0}}{h}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

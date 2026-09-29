@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_5792c6b81afd4029ab4d21d8ecead9e5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An automobile maintains a constant speed of <span class=\"math\" data-latex=\"54 \\text{ km h}^{-1}\"></span> against a total resistive force of <span class=\"math\" data-latex=\"600 \\text{ N}\"></span>. What is the power developed by the engine to maintain this motion?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"11 \\text{ kW}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"15 \\text{ kW}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"32 \\text{ kW}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9.0 \\text{ kW}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

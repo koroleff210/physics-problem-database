@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/53213fc34e66be49eb83e7cbf963ca6f7698998819094555fb29207712219eed.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "53213fc34e66be49eb83e7cbf963ca6f7698998819094555fb29207712219eed"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_6e136556e43741428e39f199a02154ad",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three samples of the same liquid are mixed in an insulated container. The masses and initial temperatures of the samples are:</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the equilibrium temperature of the mixture?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">45 °C</li><li data-label=\"B\">36 °C</li><li data-label=\"C\">30 °C</li><li data-label=\"D\">24 °C</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

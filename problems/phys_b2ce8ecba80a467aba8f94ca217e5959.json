@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ce5feec1c1325b3b19f2841ca7e25d4c1d15c718649bcf02e0011e7d7da6af0b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ce5feec1c1325b3b19f2841ca7e25d4c1d15c718649bcf02e0011e7d7da6af0b"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/75e8d7000bd49afdfe6dc78827709fed5de8cda903c477c29082371b3b522853.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "75e8d7000bd49afdfe6dc78827709fed5de8cda903c477c29082371b3b522853"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_b2ce8ecba80a467aba8f94ca217e5959",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>quotes I = Σ mr<sup>2</sup> with r = «perpendicular» distance to axis<br/>OR<br/>resistance to change in rotation<br/>OR<br/>ratio of torque «applied» to angular acceleration<br/>OR<br/>analog to mass in rotational mechanics ✔</p>\n<p>In MP1, accept r = radius. In MP2, do not accept resistance to rotation. In MP3 accept the expression as a formula if both symbols identified.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Net torque/moment is zero ✔</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p><span class=\"math\" data-latex=\"\\frac{1}{12}\"></span>2M (2L)<sup>2</sup> = «<span class=\"math\" data-latex=\"\\frac{8}{12}\"></span> ML<sup>2</sup> = <span class=\"math\" data-latex=\"\\frac{2}{3}\"></span>ML<sup>2 </sup>» ✔</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\frac{2}{3}\"></span> × 2.2 × 0.6<sup>2</sup><br/>OR<br/><span class=\"math\" data-latex=\"\\frac{1}{12}\"></span> × 4.4 × 1.2<sup>2</sup><br/>OR<br/>0.53 «kg m<sup>2</sup>» ✔</p>\n<p>Answer of 0.5 kg m<sup>2</sup> given, so award the mark if candidates show a correct full substitution OR the value with an extra significant figure</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>«angular acceleration = <span class=\"math\" data-latex=\"\\frac{torque}{I}\"></span> =» <span class=\"math\" data-latex=\"\\frac{140}{0.53}\"></span> OR 264 «rad/s» ✔</p>\n<p>t = « <span class=\"math\" data-latex=\"\\frac{\\textit{angular velocity}}{\\textit{angular acceleration}}\"></span> = <span class=\"math\" data-latex=\"\\frac{750}{264}\"></span> = » 2.8 «s» ✔</p>\n<p>Allow ECF from MP1 Award [2] for a BCA</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>«<span class=\"math\" data-latex=\"\\omega\"></span><sup>2</sup> = 2αθ » θ = <span class=\"math\" data-latex=\"\\frac{750^{2}}{2\\times 264}\"></span><br/>OR<br/>1065 «rad»<br/>OR<br/>«rθ = <span class=\"math\" data-latex=\"\\frac{\\omega}{2}\"></span> × t » = <span class=\"math\" data-latex=\"\\frac{750}{2}\"></span>× 2.8<br/>OR<br/>1050 «rad» ✔</p>\n<p>n = <span class=\"math\" data-latex=\"\\frac{1065}{2\\pi}\"></span> ✔</p>\n<p>Follow the calculations as there can be other slight changes in the results, e.g. if they use 2.7 s. Allow ECF from MP1 and from c) i) Accept alternative methods through other rotational kinematics equations.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>«α = » <span class=\"math\" data-latex=\"\\frac{750}{5}\"></span> OR 150 «rad/s<sup>2</sup>»\\ OR «L = » 0.53 × 750 OR 398 «kg m<sup>2</sup>/s » ✔ «torque = 0.53 × 150 =» 80 «Nm»<br/>OR<br/>« Rate of change in angular momentum =» 398/5 = 80 «Nm» ✔</p>\n<p>Follow the calculations as there can be other slight changes in the results. Ignore sign of final answer</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A uniform cylinder, of mass M and length L, has a moment of inertia of <span class=\"math\" data-latex=\"\\frac{1}{12}\"></span>ML<sup>2</sup> when rotated about an axis through its centre.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Outline what is meant by moment of inertia. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State the condition for rotational equilibrium. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Two identical cylinders, each of mass M and length L, are connected end to end. Show that the moment of inertia when these cylinders are rotated about their combined centre is <span class=\"math\" data-latex=\"\\frac{2}{3}\"></span>ML<sup>2</sup>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A two-blade propeller can be modelled using the two-cylinder arrangement in (a)(iii).</p>\n<p>The following data for the two-blade propeller are available:<br/>Length of each blade: 0.60 m<br/>Mass of each blade: 2.2 kg</p>\n<p>Show that the moment of inertia of the two-blade propeller is about 0.5 kg m<sup>2</sup>.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The two-blade propeller is initially at rest. When a constant torque of 140 N m acts on the two-blade propeller it reaches an angular speed of 750 rad s<sup>−1</sup>. Ignore any frictional torque.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the time taken for the two-blade propeller to reach the angular speed of 750 rad s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Calculate the number of revolutions of the two-blade propeller to reach the angular speed of 750 rad s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The propeller is brought to rest in 5.0 s. Determine the average value of the external torque applied. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

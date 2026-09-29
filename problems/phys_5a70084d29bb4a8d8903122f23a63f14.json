@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/83699600219698d50b59df330026375b3e0217f4ff69ae25052bd6a8e96feeb7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "83699600219698d50b59df330026375b3e0217f4ff69ae25052bd6a8e96feeb7"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_5a70084d29bb4a8d8903122f23a63f14",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>By convention, magnetic field lines emerge from a North pole. The diagram shows field lines emerging from pole X, so X is a North pole. A compass needle's arrowhead is its North pole, and it aligns with the direction of the magnetic field. The field lines and the compass arrowhead point to the left. Therefore, the pole at the arrowhead of the compass is a North pole. Assuming 'Y' refers to the arrowhead, both X and Y are North poles.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows some magnetic field lines of a magnet and a compass needle placed near it. The needle aligns as shown.</p>\n<p>What is the nature of the magnetic poles X and Y?</p>\n<table><thead><tr><th>Option</th><th>X</th><th>Y</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>North</td><td>North</td></tr><tr data-label=\"B\"><td>B</td><td>North</td><td>South</td></tr><tr data-label=\"C\"><td>C</td><td>South</td><td>North</td></tr><tr data-label=\"D\"><td>D</td><td>South</td><td>South</td></tr></tbody></table>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

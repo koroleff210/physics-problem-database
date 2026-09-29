@@ -1,0 +1,102 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6f40042dee1047d6e6e45b97225c39c949433c452aacb29c137950212d41d1ef.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6f40042dee1047d6e6e45b97225c39c949433c452aacb29c137950212d41d1ef"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/a16320668148a7aebcb60e41f5d0daf82ffd7415891f4a9dd93f4484ccd517e3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a16320668148a7aebcb60e41f5d0daf82ffd7415891f4a9dd93f4484ccd517e3"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/d3a4a78914156a3b80f9188b41c9581cbca6a81200a0f1a5c15a5a6cb3de3757.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d3a4a78914156a3b80f9188b41c9581cbca6a81200a0f1a5c15a5a6cb3de3757"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/78b129e319b09e087ec254c6bc85323c9ebfa636f17d3052845dfa08805e83e7.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "78b129e319b09e087ec254c6bc85323c9ebfa636f17d3052845dfa08805e83e7"
+    },
+    {
+      "alt": "Source question diagram 5",
+      "file": "assets/2c73ab4d4a86b42422e443364baf6eb6661e2e6da014dbe96f2694777a188558.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c73ab4d4a86b42422e443364baf6eb6661e2e6da014dbe96f2694777a188558"
+    },
+    {
+      "alt": "Source markscheme diagram 6",
+      "file": "assets/9b83a430bade616532fd52e505b2e1eff1053e52a55b4101d59cc55590d105b7.png",
+      "id": "fig_06",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "9b83a430bade616532fd52e505b2e1eff1053e52a55b4101d59cc55590d105b7"
+    },
+    {
+      "alt": "Source markscheme diagram 7",
+      "file": "assets/a426128b5d61374f2ea1ab5a37a26ad3ebe005e343f967be45cb1a26e91a57fa.png",
+      "id": "fig_07",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a426128b5d61374f2ea1ab5a37a26ad3ebe005e343f967be45cb1a26e91a57fa"
+    },
+    {
+      "alt": "Source markscheme diagram 8",
+      "file": "assets/46f72d1777376da3d8c7b02ec90dc02e529c3455ba527ebc68d872fb0186c499.png",
+      "id": "fig_08",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "46f72d1777376da3d8c7b02ec90dc02e529c3455ba527ebc68d872fb0186c499"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "B.5",
+    "D.2",
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_5451dd9e7ff84f90be5ffb96540c7cfc",
+  "level": "hl",
+  "marks": 13,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"14a(i)\"><p><strong>14a(i)</strong></p><p></p>\n<p>Maximum value occurs when <span class=\"math\" data-latex=\"cos (\\theta) =1\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Phi = 7.7 \\times (225 \\times 10^{-4}) \\approx 0.17\"></span> Wb</p>\n<p>Answer must be given to 2 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14a(ii)\"><p><strong>14a(ii)</strong></p><p></p>\n<p>Since the angular speed is <span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span> s<span class=\"math\" data-latex=\"^{-1}\"></span>, the period of rotation is <span class=\"math\" data-latex=\"4\"></span> s.</p>\n<p>At <span class=\"math\" data-latex=\"t = 5.5\"></span> s <span class=\"math\" data-latex=\"\\theta = 135^{o}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Phi = 7.7 \\times (225 \\times 10^{-4}) \\times cos(135^{o}) \\approx -0.12\"></span> Wb</p>\n<p>So the magnitude of the magnetic flux is <span class=\"math\" data-latex=\"0.12\"></span> Wb</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14b\"><p><strong>14b</strong></p><p></p>\n<p>Maximum value of induced emf:</p>\n<p><span class=\"math\" data-latex=\"\\varepsilon = -50 \\times \\frac{-0.17}{1} \\approx 8.5\"></span> V</p>\n<p><span class=\"math\" data-latex=\"(\\Delta t = 1\"></span> s since the period of rotation is <span class=\"math\" data-latex=\"4\"></span> s)</p>\n<p>This means that the minimum value of the induced emf is <span class=\"math\" data-latex=\"-8.5\"></span> V</p>\n<p>Therefore the difference is <span class=\"math\" data-latex=\"17\"></span> V</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14c(i)\"><p><strong>14c(i)</strong></p><p></p>\n<p></p>\n<p>\n<figure data-asset-id=\"fig_06\"><img alt=\"Source markscheme diagram 6\" src=\"asset:fig_06\"/></figure>\n</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14c(ii)\"><p><strong>14c(ii)</strong></p><p></p>\n<p></p>\n<p>\n<figure data-asset-id=\"fig_07\"><img alt=\"Source markscheme diagram 7\" src=\"asset:fig_07\"/></figure>\n</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14c(iii)\"><p><strong>14c(iii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_08\"><img alt=\"Source markscheme diagram 8\" src=\"asset:fig_08\"/></figure>\n</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A coil is rotated in a uniform magnetic field as shown on the diagram. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The direction of the magnetic field is vertically downwards and the coil’s axis of rotation is horizontal. The angular speed of the coil is <span class=\"math\" data-latex=\"\\frac{\\pi}{2}\"></span> s<span class=\"math\" data-latex=\"^{-1}\"></span>, the area of the coil is <span class=\"math\" data-latex=\"225\"></span> cm<span class=\"math\" data-latex=\"^{2}\"></span> and the magnitude of the magnetic field strength is <span class=\"math\" data-latex=\"7.7\"></span> T. </p>\n<p></p>\n<p>a. At <span class=\"math\" data-latex=\"t = 0\"></span> the plane of the coil is horizontal. </p>\n<p>i. Find the maximum value of the magnitude of the magnetic flux in the coil. Give your answer to an appropriate number of significant figures.</p>\n<p>  [2]</p>\n<p>ii. Calculate the magnitude of the magnetic flux in the coil at <span class=\"math\" data-latex=\"t = 5.5\"></span> s.</p>\n<p>  [2]</p>\n<p>b. The coil has <span class=\"math\" data-latex=\"50\"></span> turns. Calculate the <strong>difference</strong> between the maximum and minimum values of the induced emf in the coil.</p>\n<p>  [3]</p>\n<p>c. The coil is connected in series with a lightbulb. The graph shows how the induced emf in the coil varies with time. The period of rotation of the coil is T.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>Sketch on the diagram:</p>\n<p>i. how the flux linkage in the coil varies with time.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>  [2]</p>\n<p>ii. how the power dissipated in the lightbulb varies with time.</p>\n\n<figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure>\n\n<p>  [2]</p>\n<p>iii. how the induced emf in the coil varies with time when the speed of the coil’s rotation is doubled.</p>\n\n<figure data-asset-id=\"fig_05\"><img alt=\"Source question diagram 5\" src=\"asset:fig_05\"/></figure>\n\n<p> [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

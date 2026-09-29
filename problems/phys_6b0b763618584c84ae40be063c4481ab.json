@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_6b0b763618584c84ae40be063c4481ab",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is thrown vertically downwards from a height of <span class=\"math\" data-latex=\"0.525\"></span> km. It takes the object <span class=\"math\" data-latex=\"10\"></span> seconds to reach the ground. Air resistance is negligible. What is the initial speed of the object?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"1.5\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2.0\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2.5\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

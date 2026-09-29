@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9e639dcd2729826cccb7a1fd7610fbab6f92f009827a66297ff9ba60ca71ad1c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e639dcd2729826cccb7a1fd7610fbab6f92f009827a66297ff9ba60ca71ad1c"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_40b8c02408b44247ac17dd6f884e5050",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a\"><p><strong>6a</strong></p><p></p>\n<p>The light waves that emerge from each slit interfere/superpose.</p>\n<p>When the path difference of the two waves is an odd multiple of half a wavelength, the waves interfere destructively and a dark fringe is formed.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b\"><p><strong>6b</strong></p><p></p>\n<p>The distance between M and R is <span class=\"math\" data-latex=\"6.75\"></span> mm, so the distance between two consecutive dark fringes is <span class=\"math\" data-latex=\"\\frac{6.75}{2.5} = 2.7\"></span> mm</p>\n<p><span class=\"math\" data-latex=\"2.7 \\times 10^{-3} = \\frac{2.3 \\lambda}{540 \\times 10^{-6}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda \\approx 6.34 \\times 10^{-7}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{3 \\times 10^{8}}{6.34 \\times 10^{-7}} \\approx 4.7 \\times 10^{14}\"></span> Hz</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Coherent monochromatic light is incident normally on a double-slit, in vacuum. The distance between the slits is <span class=\"math\" data-latex=\"540 \\: \\mu\"></span>m. A screen is located at a distance of <span class=\"math\" data-latex=\"230\"></span> cm from the slits.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>A series of bright and dark fringes are observed on the screen. </p>\n<p>a. Explain how a dark fringe is formed.</p>\n<p>   [3]</p>\n<p>X is directly opposite the mid-point of the slits. P, Q, and R show the position of the first three dark fringes below X. The distance between X and R is <span class=\"math\" data-latex=\"6.75\"></span> mm.</p>\n<p>b. Calculate the frequency of the incident light. </p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

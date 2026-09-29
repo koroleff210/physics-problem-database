@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fdc02ecf07e0c46a0bb1c4ba971c1a70a51e024bd2cb777e9c1323acf7b46b4f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fdc02ecf07e0c46a0bb1c4ba971c1a70a51e024bd2cb777e9c1323acf7b46b4f"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/50beb085db2ebf115148fe32f428ee03bf2b57257c84e34c8a6495e96a184aa0.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "50beb085db2ebf115148fe32f428ee03bf2b57257c84e34c8a6495e96a184aa0"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_59cd85346b4d49b3bd24b6c05f99535a",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a(i)\"><p><strong>5a(i)</strong></p><p></p>\n<p>The sound wave incident on the pipe and the sound wave reflected at the closed end of the pipe superpose and form the standing wave.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5a(ii)\"><p><strong>5a(ii)</strong></p><p></p>\n<p>In a pipe that is open at both ends, all integer harmonics (1, 2, 3, etc.) are available. In a pipe that is open at one end and closed at the other, only odd integer harmonics (1, 3, 5, etc.) are available.</p>\n<p>In a pipe that is open at both ends, there is an antinode at each end. In a pipe that is open at one end and closed at the other, there is an antinode at the open end and a node at the closed end. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b\"><p><strong>5b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p>Note: Point A can be labelled anywhere along the vertical line that you see through A.</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c(i)\"><p><strong>5c(i)</strong></p><p></p>\n<p>The air molecules vibrate with simple harmonic motion (SHM), so the magnitude of their acceleration is proportional to their displacement.</p>\n<p>Since P has a larger displacement than Q, the magnitude of its acceleration is also larger.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c(ii)\"><p><strong>5c(ii)</strong></p><p></p>\n<p>The air molecules to the left of Q are displaced to the right and the air molecules to the right of Q are displaced to the left.</p>\n<p>Hence Q is at the centre of a compression.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5d\"><p><strong>5d</strong></p><p><em></em></p>\n<p><em>f</em> = <span class=\"math\" data-latex=\"\\frac{150}{4}\"></span> = 37.5 m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{340}{37.5}\"></span> = 9.07 m</p>\n<p>3rd harmonic, so </p>\n<p>Length = <span class=\"math\" data-latex=\"\\frac{3}{4} \\times 9.07\"></span> = 6.8025 m <span class=\"math\" data-latex=\"\\approx\"></span> 7 m</p>\n<p>Answer must be given to 1 s. f. in order to earn final mark.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A third-harmonic standing sound wave is formed in a pipe that is closed at one end and open at the other. The diagram shows the displacement of the wave at time<em> t</em>. The speed of sound is <span class=\"math\" data-latex=\"340\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline:</p>\n<p>i. how a standing wave is formed.</p>\n<p>  [1]</p>\n<p>ii. <strong>two</strong> differences between a standing wave in a pipe that is open at both ends and a standing wave in a pipe that is open at one end and closed at the other end. </p>\n<p>  [2]</p>\n<p>b. On the diagram, label a point with the letter A that shows the position of an antinode.</p>\n<p>  [1]</p>\n<p>c. The diagram shows two air molecules, P and Q, on the standing wave at time <em>t</em>. </p>\n<p>i. State and explain which particle has a larger magnitude of acceleration at time <em>t</em>.</p>\n<p>  [2]</p>\n<p>ii. Explain whether Q is at the centre of a compression or a rarefaction.</p>\n<p>  [2]</p>\n<p>d. The air molecule shown at P completes <span class=\"math\" data-latex=\"150\"></span> cycles of the standing wave in <span class=\"math\" data-latex=\"4\"></span> seconds. Determine the length of the pipe. Give your answer to an appropriate number of significant figures.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

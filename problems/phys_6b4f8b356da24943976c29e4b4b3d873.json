@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_6b4f8b356da24943976c29e4b4b3d873",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The magnitude of the force acting between two point charges that are placed in vacuum at a distance of <span class=\"math\" data-latex=\"x\"></span> from each other is <span class=\"math\" data-latex=\"F\"></span>. Then the two point charges are placed in a liquid that has twice the permittivity of free space, the charge on each point charge is doubled and the distance between them is halved. What is the magnitude of the force acting between the point charges after these changes?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"F\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2F\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4F\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8F\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

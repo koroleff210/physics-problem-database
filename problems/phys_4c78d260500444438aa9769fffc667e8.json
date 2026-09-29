@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_4c78d260500444438aa9769fffc667e8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which process involving gas molecules in the Earth’s atmosphere is the main cause of the greenhouse effect?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Reflection of incoming solar radiation</li><li data-label=\"B\">Absorption and re-radiation of incoming solar radiation</li><li data-label=\"C\">Reflection of outgoing infrared radiation</li><li data-label=\"D\">Absorption and re-radiation of outgoing infrared radiation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

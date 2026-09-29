@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_02e806a409b2496db1d55870e7a56cce",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Star X with radius <span class=\"math\" data-latex=\"R\"></span> and temperature <span class=\"math\" data-latex=\"T\"></span> is located at distance <span class=\"math\" data-latex=\"D\"></span> from Earth. The apparent brightness of star X as detected on Earth is <span class=\"math\" data-latex=\"b\"></span>. Star Y with radius <span class=\"math\" data-latex=\"2R\"></span> and temperature <span class=\"math\" data-latex=\"3T\"></span> is located at distance <span class=\"math\" data-latex=\"6D\"></span> from Earth.</p>\n<p>What is the apparent brightness of star Y?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"3b\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6b\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"9b\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"12b\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

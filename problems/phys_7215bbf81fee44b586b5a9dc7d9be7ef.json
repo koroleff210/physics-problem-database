@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7215bbf81fee44b586b5a9dc7d9be7ef",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sample of a real gas is held at a constant temperature and volume. The measured pressure of the gas is found to be less than the pressure predicted by the ideal gas equation <span class=\"math\" data-latex=\"pV=nRT\"></span>.</p>\n<p>Which characteristic of the real gas molecules best accounts for this observation?</p><ol class=\"mcq-options\"><li data-label=\"A\">The molecules occupy a non-zero volume</li><li data-label=\"B\">The molecules exert attractive forces on each other</li><li data-label=\"C\">The collisions between molecules are inelastic</li><li data-label=\"D\">The molecules have a variety of different masses</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

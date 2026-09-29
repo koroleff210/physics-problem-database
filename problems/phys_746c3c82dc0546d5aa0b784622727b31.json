@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_746c3c82dc0546d5aa0b784622727b31",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Fuel rods in a nuclear fission reactor contain uranium isotopes U-235 and U-238. Which process taking place in the reactor contributes most significantly to the formation of radioactive waste products?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">alpha decay of U-235</li><li data-label=\"B\">alpha decay of U-238</li><li data-label=\"C\">neutron-induced fission of U-235</li><li data-label=\"D\">neutron-induced transmutation of U-238 to plutonium-239</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

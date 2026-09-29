@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bdf8d51cdaead7dd0cdae03d9752edfceaa7cc002f83b17fe590a2bdf7472edb.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bdf8d51cdaead7dd0cdae03d9752edfceaa7cc002f83b17fe590a2bdf7472edb"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_34aaf21da5a94b0bb74221de42949f1a",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"a = R\\alpha\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\tau = TR\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Apply Newton's second law to the block: <span class=\"math\" data-latex=\"mg - T = ma\"></span> [1 mark]<br/>- Apply Newton's second law for rotation to the hoop: <span class=\"math\" data-latex=\"\\tau = I\\alpha \\Rightarrow TR = (MR^2)\\left(\\frac{a}{R}\\right)\"></span> [1 mark]<br/>- Eliminate <span class=\"math\" data-latex=\"T\"></span> (e.g., <span class=\"math\" data-latex=\"T = Ma\"></span>) and solve for <span class=\"math\" data-latex=\"a\"></span>: <span class=\"math\" data-latex=\"mg - Ma = ma \\Rightarrow a(m+M) = mg \\Rightarrow a = \\frac{mg}{m+M}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- State the relevant kinematic equation: <span class=\"math\" data-latex=\"s = ut + \\frac{1}{2}at^2 \\Rightarrow h = \\frac{1}{2}at^2\"></span> [1 mark]<br/>- Rearrange for <span class=\"math\" data-latex=\"t\"></span>: <span class=\"math\" data-latex=\"t = \\sqrt{\\frac{2h}{a}}\"></span> [1 mark]<br/>- Substitute the expression for <span class=\"math\" data-latex=\"a\"></span> from part (c): <span class=\"math\" data-latex=\"t = \\sqrt{\\frac{2h(m+M)}{mg}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Identify relationship for angular momentum: <span class=\"math\" data-latex=\"L = I\\omega = (MR^2)\\left(\\frac{v}{R}\\right) = MRv\"></span> [1 mark]<br/>- Calculate final value: <span class=\"math\" data-latex=\"L = 3.2 \\cdot 0.25 \\cdot 1.5 = 1.2\\ \\mathrm{kg\\ m^2\\ s^{-1}}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A thin-walled hollow hoop of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> is mounted on a fixed frictionless horizontal axle passing through its center. A light, inextensible string is wound several times around the outer rim of the hoop. A block of mass <span class=\"math\" data-latex=\"m\"></span> is attached to the free end of the string and released from rest.</p><p>The moment of inertia of the thin hoop about its central axis is given by <span class=\"math\" data-latex=\"I = MR^2\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the relationship between the linear acceleration <span class=\"math\" data-latex=\"a\"></span> of the block and the angular acceleration <span class=\"math\" data-latex=\"\\alpha\"></span> of the hoop.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Identify the expression for the net torque <span class=\"math\" data-latex=\"\\tau\"></span> acting on the hoop in terms of the tension <span class=\"math\" data-latex=\"T\"></span> in the string and the radius <span class=\"math\" data-latex=\"R\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>By applying Newton's second law to both the block and the hoop, show that the linear acceleration <span class=\"math\" data-latex=\"a\"></span> of the falling mass is given by:\n\n<span class=\"math\" data-latex=\"a = \\frac{mg}{m + M}\"></span><p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>The block is released from rest at a height <span class=\"math\" data-latex=\"h\"></span> above the floor. Determine an expression for the time <span class=\"math\" data-latex=\"t\"></span> required for the block to reach the floor in terms of <span class=\"math\" data-latex=\"M, m, g,\"></span> and <span class=\"math\" data-latex=\"h\"></span>.<p>[3]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Calculate the magnitude of the angular momentum <span class=\"math\" data-latex=\"L\"></span> of the hoop at the instant the falling mass has a speed of <span class=\"math\" data-latex=\"1.5\\ \\mathrm{m\\ s^{-1}}\"></span>.\n\n(Take <span class=\"math\" data-latex=\"M = 3.2\\ \\mathrm{kg}\"></span> and <span class=\"math\" data-latex=\"R = 0.25\\ \\mathrm{m}\"></span>)<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

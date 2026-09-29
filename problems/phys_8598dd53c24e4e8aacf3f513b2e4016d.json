@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8598dd53c24e4e8aacf3f513b2e4016d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>It takes an electric motor two minutes to raise a box through a vertical height of <span class=\"math\" data-latex=\"240\"></span> m at constant speed. The mass of the block is <span class=\"math\" data-latex=\"4.0\"></span> kg and the input power of the motor is <span class=\"math\" data-latex=\"240\"></span> W. What is the efficiency of the motor?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"10\"></span> %</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"25\"></span> %</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"33\"></span> %</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"50\"></span> %</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

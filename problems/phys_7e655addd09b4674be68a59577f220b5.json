@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_7e655addd09b4674be68a59577f220b5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton moves through a region with no electric field and a uniform magnetic field. What happens to its speed?</p><ol class=\"mcq-options\"><li data-label=\"A\">It increases</li><li data-label=\"B\">It decreases</li><li data-label=\"C\">It remains constant</li><li data-label=\"D\">It becomes zero</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

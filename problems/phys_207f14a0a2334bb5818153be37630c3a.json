@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_207f14a0a2334bb5818153be37630c3a",
+  "level": "sl_hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Identify the relationship between string length and wavelength for four antinodes: <span class=\"math\" data-latex=\"L = 2\\lambda\"></span> or <span class=\"math\" data-latex=\"\\lambda = \\frac{2L}{4}\"></span> [1 mark]<br/>- Substitute the value for <span class=\"math\" data-latex=\"L\"></span> and calculate <span class=\"math\" data-latex=\"\\lambda\"></span>: <span class=\"math\" data-latex=\"\\lambda = \\frac{1.20}{2} = 0.60 \\text{ m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the wave equation: <span class=\"math\" data-latex=\"v = f\\lambda\"></span> [1 mark]<br/>- Substitute values for frequency and wavelength: <span class=\"math\" data-latex=\"v = 200 \\times 0.60\"></span> [1 mark]</p>\n<p>Note: Accept <span class=\"math\" data-latex=\"120 \\text{ m\\,s}^{-1}\"></span>. Allow ECF from Part 1 (<span class=\"math\" data-latex=\"v = 200 \\times \\text{Part 1 answer}\"></span>).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A horizontal string of length <span class=\"math\" data-latex=\"1.20 \\text{ m}\"></span> is fixed at both ends and held under constant tension. A vibration generator is used to create a standing wave on the string such that four antinodes are observed.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the wavelength of the transverse waves traveling along the string.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The frequency of the vibration generator is set to <span class=\"math\" data-latex=\"200 \\text{ Hz}\"></span>. Calculate the speed of the waves on the string.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

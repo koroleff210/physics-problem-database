@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_65191e92ca0f492488a6ad025e39f388",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which factor affects the fringe spacing in a double-slit interference pattern?</p><ol class=\"mcq-options\"><li data-label=\"A\">Width of the slits</li><li data-label=\"B\">Thickness of the screen</li><li data-label=\"C\">Separation between the slits</li><li data-label=\"D\">Height of the wave source</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

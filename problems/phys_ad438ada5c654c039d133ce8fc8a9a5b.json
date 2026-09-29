@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_ad438ada5c654c039d133ce8fc8a9a5b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Sustainable energy production is essential for mitigating the enhanced greenhouse effect. Which of the following energy sources is correctly matched with its classification and the scientific reasoning behind it?</p><ol class=\"mcq-options\"><li data-label=\"A\">Renewable; because it generates electricity through fission without the combustion of carbon-based fuels.</li><li data-label=\"B\">Renewable; because it utilizes a continuous supply of thermal energy produced by the Earth's internal processes.</li><li data-label=\"C\">Renewable; because it is a natural resource derived from the biological remains of ancient plant matter.</li><li data-label=\"D\">Non-renewable; because the carbon dioxide released during its use increases the concentration of atmospheric greenhouse gases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

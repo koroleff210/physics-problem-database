@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e124465ff8984560a94857e5533654f7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>Beta particles are electrons or positrons, both having a charge magnitude of the elementary charge, e. Gamma rays are uncharged photons and are not deflected by electric fields. Alpha particles have a charge of +2e. Alpha particles are the most ionizing, followed by beta, with gamma being the least ionizing.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following statements are made about alpha, beta and gamma radiation. Which is correct?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Electric fields can deflect gamma rays.</li>\n<li data-label=\"B\"> Beta particles have a charge of magnitude <span class=\"math\" data-latex=\"e\"></span>.</li>\n<li data-label=\"C\"> Alpha particles have a charge of magnitude <span class=\"math\" data-latex=\"e\"></span>.</li>\n<li data-label=\"D\"> Gamma rays are more ionizing than alpha and beta rays.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

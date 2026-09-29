@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_6af4251f3ea24562874caa67ad5ae60b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The greenhouse effect is driven by the interaction between specific atmospheric molecules and radiation. Which statement accurately describes the energy transfer process that leads to the warming of the troposphere?</p><ol class=\"mcq-options\"><li data-label=\"A\">Visible light from the Sun is absorbed directly by <span class=\"math\" data-latex=\"N_2\"></span> and <span class=\"math\" data-latex=\"O_2\"></span> molecules, significantly increasing their translational kinetic energy.</li><li data-label=\"B\">Short-wave radiation absorbed by the Earth is re-emitted as long-wave radiation, which is then absorbed by greenhouse gas molecules.</li><li data-label=\"C\">Greenhouse gases absorb high-energy ultraviolet radiation from the Sun, which causes the molecules to ionize and release thermal energy.</li><li data-label=\"D\">Incoming infrared radiation is reflected by the Earth's surface as short-wave radiation, which is then trapped by the ozone layer in the stratosphere.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

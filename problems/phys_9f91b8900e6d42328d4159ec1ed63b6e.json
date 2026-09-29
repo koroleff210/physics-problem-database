@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/df04be7e9e56f2f346c713d653bc17d31f4b150c317a8f99a7ac01b56486d1e6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "df04be7e9e56f2f346c713d653bc17d31f4b150c317a8f99a7ac01b56486d1e6"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_9f91b8900e6d42328d4159ec1ed63b6e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The albedo in a fixed location in the northern hemisphere was recorded over a period of time as shown below:</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the most likely variable to be on the x-axis?</p><ol class=\"mcq-options\"><li data-label=\"A\">Latitude</li><li data-label=\"B\">Proportion of incident radiation scattered</li><li data-label=\"C\">Hour of day</li><li data-label=\"D\">Month of year</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

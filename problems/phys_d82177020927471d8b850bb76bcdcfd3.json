@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/94b0b500370276027ba1f65112608b0b527d6b880b6c6e42f6002c093d5569ac.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "94b0b500370276027ba1f65112608b0b527d6b880b6c6e42f6002c093d5569ac"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/c1c42e6ecb419bf532abb40bbd5a9a1296580be03902ccb3debb5fd3b6804c1d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c1c42e6ecb419bf532abb40bbd5a9a1296580be03902ccb3debb5fd3b6804c1d"
+    }
+  ],
+  "classes": [
+    "B.4",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_d82177020927471d8b850bb76bcdcfd3",
+  "level": "sl_hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p></p>\n<p>The energy produced in the star’s core creates an outward radiation pressure.</p>\n<p>The gravitational force creates an inward force.</p>\n<p>The outward pressure and the inward gravitational force create an equilibrium, maintaining the radius of the star constant.</p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"9c\"><p><strong>9c</strong></p><p> </p>\n<p>Spica will evolve into a red supergiant, explode in a supernova and finally turn into a neutron star or a black hole.</p></section><section class=\"markscheme-part\" data-label=\"9d\"><p><strong>9d</strong></p><p></p>\n<p>To estimate the radius, we will use the luminosity formula <span class=\"math\" data-latex=\"L = \\sigma A T^{4}\"></span>, where <span class=\"math\" data-latex=\"A = 4 \\pi R^{2}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"R = \\sqrt{\\frac{L}{4 \\pi \\sigma T^{4}}} = \\sqrt{\\frac{20500 \\times (3.86 \\times 10^{26})}{4 \\pi \\times (5.67 \\times 10^{-8}) \\times (25300)^{4}}} \\approx 5.2 \\times 10^{9}\\: \\textup{m}\"></span></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Spica is a blue main sequence star with a mass of about <span class=\"math\" data-latex=\"11.5 M_{\\odot}\"></span>, a luminosity of <span class=\"math\" data-latex=\"20500 L_{\\odot}\"></span>, and a surface temperature of <span class=\"math\" data-latex=\"25300\\:\\textup{K}\"></span>.</p>\n<p>Spica remains in equilibrium with a constant radius. </p>\n<p>(a)   Explain how this equilibrium is maintained.</p>\n<p>  [3]</p>\n<p>A Hertzsprung-Russell diagram is shown below.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(b)   Mark the position of Spica on the diagram.</p>\n<p>  [1]</p>\n<p>(c)   Explain how Spica is most likely to evolve in the future.</p>\n<p>  [3]</p>\n<p>The luminosity of the Sun is <span class=\"math\" data-latex=\"3.86 \\times 10^{26}\\:\\textup{W}\"></span>.</p>\n<p>(d)   Estimate the radius of Spica.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

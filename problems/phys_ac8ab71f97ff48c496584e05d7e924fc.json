@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_ac8ab71f97ff48c496584e05d7e924fc",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet X and planet Y are considered to be perfect black bodies. The power radiated by planet X is <span class=\"math\" data-latex=\"P_X\"></span>, the power radiated by planet Y is <span class=\"math\" data-latex=\"P_Y\"></span>, the radius of planet x is <span class=\"math\" data-latex=\"R_X\"></span>and the radius of planet Y is <span class=\"math\" data-latex=\"R_Y\"></span>. <span class=\"math\" data-latex=\"\\frac{P_X}{P_Y}\"></span> = <span class=\"math\" data-latex=\"\\frac{R_X}{R_Y}\"></span> = 4. The absolute mean temperature of the surface of planet X is <span class=\"math\" data-latex=\"T_X\"></span> and the absolute mean temperature of the surface of planet Y is <span class=\"math\" data-latex=\"T_Y\"></span>.</p>\n<p>What is the value of <span class=\"math\" data-latex=\"\\frac{T_X}{T_Y}\"></span> ?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

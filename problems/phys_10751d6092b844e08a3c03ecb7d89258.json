@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/09aa4b4361598503bcb7b7e4ff9eb31ba5be208c3e3e5e67ea6c625f8cb28536.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "09aa4b4361598503bcb7b7e4ff9eb31ba5be208c3e3e5e67ea6c625f8cb28536"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/09373b39cf5e241e1f004e39af3473199cbc8d53f2eb4e121cde928d2cce2226.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "09373b39cf5e241e1f004e39af3473199cbc8d53f2eb4e121cde928d2cce2226"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/29296112dd9be5f4b014831724ffff1a59123ac6a9f91911c3b243000b4179cc.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "29296112dd9be5f4b014831724ffff1a59123ac6a9f91911c3b243000b4179cc"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_10751d6092b844e08a3c03ecb7d89258",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>equally spaced arrows «by eye» all pointing down ✓ edge effects also shown with arrows ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"E=\\frac{V}{d}=\\frac{960}{8.0\\times 10^{-3}}\"></span> ✓ <span class=\"math\" data-latex=\"E=1.2\\times 10^{5}\"></span> «NC<sup>−1</sup>» ✓</p>\n<p>In an experiment, an oil drop is introduced into the space between the plates through a small hole in the upper plate. The oil drop moves through air in a tube before falling between the plates.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>friction transfers electron(s) to or from drop AND through collisions/ interaction with air molecules in the tube OR through collisions/interaction with wall of tube ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>weight of oil drop is <span class=\"math\" data-latex=\"\\rho_{o}gV\"></span> ✓ <span class=\"math\" data-latex=\"\\frac{F_{b}}{W}=\\frac{\\rho_{a}gV}{\\rho_{o}gV}=\\frac{\\rho_{a}}{\\rho_{o}}\"></span> ✓   «<span class=\"math\" data-latex=\"\\frac{F_{b}}{W}=\\frac{1}{730}=\"></span>» <span class=\"math\" data-latex=\"1.4\\times 10^{-3}\"></span> OR Ratio of <span class=\"math\" data-latex=\"F_{b}\"></span> to <span class=\"math\" data-latex=\"W\"></span> is much less than 1 ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Weight vertically down AND electric force vertically up ✓ Of equal length «by eye» ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Mass of drop is <span class=\"math\" data-latex=\"\\rho_{o}V\"></span> ✓ <span class=\"math\" data-latex=\"qE=\\rho_{o}Vg\"></span> ✓ «hence answer»<br/>MP1 must be shown implicitly for credit.</p></section><section class=\"markscheme-part\" data-label=\"c.iv\"><p><strong>c.iv</strong></p><p>Negative ✓</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>Net force is zero ✓ Acceleration of the oil drop is zero ✓ OR For terminal velocity drag must equal weight weight <span class=\"math\" data-latex=\"=\\rho_{o}gV\"></span> and drag <span class=\"math\" data-latex=\"=6\\piηrv\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p><span class=\"math\" data-latex=\"q=\\frac{6\\piηrv}{E}\"></span> ✓ <span class=\"math\" data-latex=\"q=\\frac{6\\pi\\times 1.60\\times 10^{-5}\\times 1.36\\times 10^{-6}\\times 1.40\\times 10^{-4}}{1.2\\times 10^{5}}\"></span> ✓ <span class=\"math\" data-latex=\"q=4.79\\times 10^{-19}\"></span> «C» ✓ Answer must be shown to 3+ sf.</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>charge is quantized ✓ so, the charges must be 1e and 2e ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram shows two parallel conducting plates that are oppositely charged.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw the electric field lines due to the charged plates. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> The potential difference between the plates is 960 V and the distance between them is 8.0 mm. Calculate the electric field strength E between the plates. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why the oil drop becomes charged as it falls through the tube. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The oil drop is observed to be stationary in the space between the plates. Buoyancy is one of the forces acting on the drop.</p>\n<p>The density of oil is 730 times greater than that of air.</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the buoyancy force is much smaller than the weight. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>Draw the forces acting on the oil drop, ignoring the buoyancy force.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> </p><p>Show that the electric charge on the oil drop is given by</p>\n<p><span class=\"math\" data-latex=\"q=\\frac{\\rho_{o}gV}{E}\"></span></p>\n<p>where <span class=\"math\" data-latex=\"\\rho_{o}\"></span> is the density of oil and <span class=\"math\" data-latex=\"V\"></span> is the volume of the oil drop.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.iv\"><p><strong>c.iv</strong> State the sign of the charge on the oil drop. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The electric field is turned off. The oil drop falls vertically reaching a constant speed v.</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Outline why, for this drop, <span class=\"math\" data-latex=\"\\rho_{o}gV=6\\piηrv\"></span> where <span class=\"math\" data-latex=\"η\"></span> is the viscosity of air and <span class=\"math\" data-latex=\"r\"></span> is the radius of the oil drop. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> </p><p>Show that the charge on the oil drop is about <span class=\"math\" data-latex=\"4.8\\times 10^{-19}\"></span> C.</p>\n<p>The following data for the oil drop are available:</p>\n<p><span class=\"math\" data-latex=\"r = 1.36 μm\"></span><br/><span class=\"math\" data-latex=\"η= 1.60 \\times  10^{-5} Pa s\"></span><br/><span class=\"math\" data-latex=\"v=0.140 mm s^{-1}\"></span></p><p>[3]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> The oil drop splits into two parts of equal mass. Both are charged. Deduce the net charge on each part. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

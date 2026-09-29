@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_7102c042813a49db986a0f83e9ac0bf5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beaker of a volatile liquid is left in a room at a constant temperature. It is observed that the temperature of the liquid decreases as it evaporates. Which statement explains this observation in terms of the particulate nature of matter?</p><ol class=\"mcq-options\"><li data-label=\"A\">The atmospheric pressure performs work on the surface of the liquid, transferring energy to the air.</li><li data-label=\"B\">The molecules with the highest kinetic energy escape the liquid, reducing the average kinetic energy of the remaining molecules.</li><li data-label=\"C\">The remaining molecules in the liquid gain potential energy from the container, which leads to a fall in temperature.</li><li data-label=\"D\">The process of evaporation is exothermic and releases thermal energy into the surrounding atmosphere.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

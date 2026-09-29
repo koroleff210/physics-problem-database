@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.3",
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_0a21d54e9bfc4480ba2056d01ae4fd1f",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p>The energy required to completely separate the nucleons of a nucleus.</p>\n<p>OR</p>\n<p>The energy released when a nucleus is formed from its nucleons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p>Total binding energy of samarium and alpha-particle:</p>\n<p><span class=\"math\" data-latex=\"(145 \\times 8.293) + (4 \\times 7.073) = 1230.777\"></span> MeV</p>\n<p>Converting the energy released into MeV:</p>\n<p><span class=\"math\" data-latex=\"\\frac{4.827 \\times 10^{-13}}{1.6 \\times 10^{-19}} \\approx 3.017 \\times 10^{6}\"></span> eV <span class=\"math\" data-latex=\"= 3.017\"></span> MeV</p>\n<p>Binding energy per nucleon for gadolinium-149:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1230.777-3.017}{149} \\approx 8.240\"></span> MeV</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"0.0323 \\approx \\frac{1}{31}\"></span></p>\n<p>This means that <span class=\"math\" data-latex=\"\\frac{1}{32}\"></span> of the original number of gadolinium nuclides are still undecayed in the sample, therefore five half-lives have elapsed.</p>\n<p>So the half-life of gadolinium is <span class=\"math\" data-latex=\"\\frac{46.4}{5} = 9.28\"></span> days </p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Gadolinium-149 <span class=\"math\" data-latex=\"\\left ( _{\\, \\, \\, 64}^{149}\\textrm{Gd} \\right )\"></span> decays into samarium-145 <span class=\"math\" data-latex=\"\\left ( _{\\, \\, \\, 62}^{145}\\textrm{Sm} \\right )\"></span> through alpha decay.</p>\n<p>The following data is provided:</p>\n<p></p>\n<p>Binding energy per nucleon for samarium: <span class=\"math\" data-latex=\"8.293\"></span> MeV</p>\n<p>Binding energy per nucleon for helium: <span class=\"math\" data-latex=\"7.073\"></span> MeV</p>\n<p>Energy released during the decay: <span class=\"math\" data-latex=\"4.827 \\times 10^{-13}\"></span> J</p>\n<p></p>\n<p>a. State what is meant by binding energy of a nucleus.</p>\n<p>   [1]</p>\n<p>b. Calculate the binding energy per nucleon for gadolinium-149. Give your answer in MeV.</p>\n<p>  [3]</p>\n<p>A pure sample of gadolinium-149 decays into samarium-145. After <span class=\"math\" data-latex=\"46.4\"></span> days <span class=\"math\" data-latex=\"\\frac{number\\: of\\: gadolinium\\: nuclides}{number\\: of\\: samarium\\: nuclides} \\approx 0.0323\"></span>.</p>\n<p>c. Estimate the half-life of gadolinium-149.</p>\n<p> [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

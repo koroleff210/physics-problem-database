@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_29223db343d44caeb0becbba8bfd8935",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron is moving along the x-axis. The uncertainty in its position is <span class=\"math\" data-latex=\"2.0 \\times 10^{-10} \\text{ m}\"></span>. What is the minimum uncertainty in the measurement of its momentum along the same axis?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.6 \\times 10^{-25} \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.3 \\times 10^{-25} \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3.3 \\times 10^{-24} \\text{ kg m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"6.6 \\times 10^{-34} \\text{ kg m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_99b6006bfee24ed49a83c9be7db9d159",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When removed from a nuclear reactor, used nuclear fuel rods are often stored for several years in a tank of liquid.</p>\n<p>Three possible reasons for this are</p>\n<p>I.   to shield workers from radiation emitted from the fuel rods<br/>II.  to dissolve the unused fuel from the rods<br/>III. to cool the rods</p>\n<p>Which statements are correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

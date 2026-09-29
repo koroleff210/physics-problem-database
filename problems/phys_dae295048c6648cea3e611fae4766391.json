@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3711521f177567d08353c76462d940f1c0fea6ebd03bf665ad04d9780a2faafa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3711521f177567d08353c76462d940f1c0fea6ebd03bf665ad04d9780a2faafa"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d4b6bd4911e3ab0261ac7bdb719dd12cb959661c7591aad9b044b95b98d36a2d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d4b6bd4911e3ab0261ac7bdb719dd12cb959661c7591aad9b044b95b98d36a2d"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_dae295048c6648cea3e611fae4766391",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block rests on a rough horizontal plane. A force P is applied to the block and the block moves to the right.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>There is a coefficient of friction <span class=\"math\" data-latex=\"\\mu _{d}\"></span> giving rise to a frictional force F between the block and the plane. The force P is doubled. Will <span class=\"math\" data-latex=\"\\mu _{d}\"></span> and F be unchanged or greater?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

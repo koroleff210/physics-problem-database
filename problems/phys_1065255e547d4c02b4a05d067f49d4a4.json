@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a70517147b5a8f56c090c26f0e44463063185dbb85a69cf2d9573106c28150f6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a70517147b5a8f56c090c26f0e44463063185dbb85a69cf2d9573106c28150f6"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_1065255e547d4c02b4a05d067f49d4a4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three identical resistors, R<sub>1</sub>, R<sub>2</sub> and R<sub>3</sub>, each of resistance 2 Ω, are connected to a cell of negligible internal resistance as shown. When switch S is open, the power dissipated by R<sub>1</sub> is 18 W.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the power dissipated by R<sub>1</sub> when S is closed?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">8 W</li><li data-label=\"B\">16 W</li><li data-label=\"C\">18 W</li><li data-label=\"D\">36 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

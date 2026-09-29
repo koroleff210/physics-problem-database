@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d7d8f432434b4abea0be122284e3af85",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"M\"></span> is attached to a spring and is made to oscillate with simple harmonic motion (SHM). The distance between the two maximum displacement positions of the object is <span class=\"math\" data-latex=\"d\"></span>. The total energy of the spring is <span class=\"math\" data-latex=\"E\"></span>. What is the total energy of the spring when the mass of the object is changed to <span class=\"math\" data-latex=\"\\frac{M}{4}\"></span> and the distance between the two maximum displacement positions is increased to <span class=\"math\" data-latex=\"6d\"></span>? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{3}{2}E\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{9}{4}E\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4E\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"9E\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

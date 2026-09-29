@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_684a6f24f7914202b2b536341472a578",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. Only transitions to <span class=\"math\" data-latex=\"n=1\"></span> exceed <span class=\"math\" data-latex=\"6.0\\text{ eV}\"></span>; there are three such downward transitions.</p>\n<p>B: Incorrect. There are three downward transitions with <span class=\"math\" data-latex=\"\\Delta E&gt;6.0\\text{ eV}\"></span>: <span class=\"math\" data-latex=\"4\\to1\"></span>, <span class=\"math\" data-latex=\"3\\to1\"></span>, and <span class=\"math\" data-latex=\"2\\to1\"></span>.</p>\n<p>C: Correct. Possible emission energies (downward transitions) are: <span class=\"math\" data-latex=\"4\\to3\"></span>: <span class=\"math\" data-latex=\"1.4\\text{ eV}\"></span>, <span class=\"math\" data-latex=\"4\\to2\"></span>: <span class=\"math\" data-latex=\"3.8\\text{ eV}\"></span>, <span class=\"math\" data-latex=\"4\\to1\"></span>: <span class=\"math\" data-latex=\"11.6\\text{ eV}\"></span>, <span class=\"math\" data-latex=\"3\\to2\"></span>: <span class=\"math\" data-latex=\"2.4\\text{ eV}\"></span>, <span class=\"math\" data-latex=\"3\\to1\"></span>: <span class=\"math\" data-latex=\"10.2\\text{ eV}\"></span>, <span class=\"math\" data-latex=\"2\\to1\"></span>: <span class=\"math\" data-latex=\"7.8\\text{ eV}\"></span>. Those greater than <span class=\"math\" data-latex=\"6.0\\text{ eV}\"></span> are <span class=\"math\" data-latex=\"11.6\"></span>, <span class=\"math\" data-latex=\"10.2\"></span>, and <span class=\"math\" data-latex=\"7.8\\text{ eV}\"></span>, giving <span class=\"math\" data-latex=\"3\"></span> lines.</p>\n<p>D: Incorrect. There are <span class=\"math\" data-latex=\"6\"></span> possible downward transitions in total for four levels, but only <span class=\"math\" data-latex=\"3\"></span> have photon energy greater than <span class=\"math\" data-latex=\"6.0\\text{ eV}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The energy of each level is given in the table below:</p>\n<table><thead><tr><th>Energy Level</th><th>Energy / eV</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"n=4\"></span></td><td><span class=\"math\" data-latex=\"-0.8\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"n=3\"></span></td><td><span class=\"math\" data-latex=\"-2.2\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"n=2\"></span></td><td><span class=\"math\" data-latex=\"-4.6\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"n=1\"></span></td><td><span class=\"math\" data-latex=\"-12.4\"></span></td></tr></tbody></table>\n<p>How many distinct lines in the emission spectrum of this atom correspond to a photon energy greater than <span class=\"math\" data-latex=\"6.0\\text{ eV}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">1</li><li data-label=\"B\">2</li><li data-label=\"C\">3</li><li data-label=\"D\">6</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

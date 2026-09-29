@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_54ca712e87dc433e8d8d5bad71d44c7b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object undergoes simple harmonic motion. The table shows the acceleration <span class=\"math\" data-latex=\"a\"></span> of the object at two different displacements <span class=\"math\" data-latex=\"x\"></span>.</p>\n<table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x\"></span> / <span class=\"math\" data-latex=\"\\text{m}\"></span></th><th>Acceleration <span class=\"math\" data-latex=\"a\"></span> / <span class=\"math\" data-latex=\"\\text{m s}^{-2}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"+0.20\"></span></td><td><span class=\"math\" data-latex=\"-5.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"-0.40\"></span></td><td><span class=\"math\" data-latex=\"+10.0\"></span></td></tr></tbody></table>\n<p>What is the angular frequency of the oscillation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.5\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.0\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"25\\text{ rad s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"50\\text{ rad s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8c096ab3de2f981bf0236d0ca311b51546b5cca5b58cac4a9a02c29b2221f883.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8c096ab3de2f981bf0236d0ca311b51546b5cca5b58cac4a9a02c29b2221f883"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": null,
+  "id": "phys_5a27d830ec3b42e6a39e2b4b93a5f06d",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The rocket represents a non-inertial (accelerating) reference frame. [1 mark]</p>\n<p>According to the Principle of Equivalence, the effects of a uniform acceleration <span class=\"math\" data-latex=\"a\"></span> are locally indistinguishable from the effects of a uniform gravitational field <span class=\"math\" data-latex=\"g = a\"></span>. Thus, the observer experiences a pseudo-force downward identical to weight. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>During the finite time <span class=\"math\" data-latex=\"\\Delta t\"></span> that it takes for the light signal to travel the distance <span class=\"math\" data-latex=\"L\"></span> from the source to the nose, the rocket (and thus the detector) gains additional velocity in the direction of acceleration. [1 mark]</p>\n<p>Relative to the inertial frame in which the light was originally emitted, the detector is moving away from the point of emission at the time of reception. [1 mark]</p>\n<p>This relative motion results in a longitudinal Doppler shift, causing the measured frequency to decrease (<span class=\"math\" data-latex=\"f &lt; f_0\"></span>), a phenomenon known as redshift. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>By the Principle of Equivalence, the redshift observed in the accelerating rocket must also occur in a stationary gravitational field. [1 mark]</p>\n<p>Frequency corresponds to the rate of periodic events (ticks of a clock); since the frequency is lower at the top (nose) when sent from the bottom (rear), an observer at the top perceives the bottom clock to be ticking slower. [1 mark]</p>\n<p>Therefore, time runs more slowly at lower gravitational potentials (closer to the center of mass) compared to higher gravitational potentials. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A long rocket of length <span class=\"math\" data-latex=\"L\"></span> is moving in deep space, away from any significant gravitational influences, with a constant acceleration <span class=\"math\" data-latex=\"a\"></span>. A laser source located at the rear (bottom) of the rocket emits a light signal of frequency <span class=\"math\" data-latex=\"f_0\"></span> directed towards a detector at the nose (top) of the rocket, as shown in the diagram below.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the type of reference frame the rocket represents and, with reference to the Principle of Equivalence, state why an observer on the floor of the rocket feels as though they are standing on a planet.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain, considering the motion of the detector during the transit of the light, why the frequency <span class=\"math\" data-latex=\"f\"></span> measured by the detector will be lower than the source frequency <span class=\"math\" data-latex=\"f_0\"></span>.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Using the Principle of Equivalence, apply the result from part 2 to conclude how gravitational potential affects the rate of time for two identical clocks placed at the base and the top of a stationary tower on Earth.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

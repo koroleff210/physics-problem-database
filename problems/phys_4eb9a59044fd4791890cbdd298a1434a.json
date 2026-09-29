@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_4eb9a59044fd4791890cbdd298a1434a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.40 \\text{ kg}\"></span> sample of a substance undergoes a phase change from liquid to gas at a constant temperature of <span class=\"math\" data-latex=\"500 \\text{ K}\"></span>. The specific latent heat of vaporization of the substance is <span class=\"math\" data-latex=\"2.5 \\times 10^5 \\text{ J kg}^{-1}\"></span>. What is the increase in entropy of the sample during this process?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0 \\times 10^2 \\text{ J K}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.0 \\times 10^2 \\text{ J K}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^5 \\text{ J K}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"5.0 \\times 10^7 \\text{ J K}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_88f774e6f8094cd29dd22db8a162103f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ion <span class=\"math\" data-latex=\"X\"></span> contains the following particles:</p>\n<p>53 protons</p>\n<p>89 neutrons</p>\n<p>54 electrons.</p>\n<p>What is the nuclear notation for <span class=\"math\" data-latex=\"X\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><sup>142</sup><sub>53</sub>X</li><li data-label=\"B\"><sup>89</sup><sub>53</sub>X</li><li data-label=\"C\"><sup>143</sup><sub>54</sub>X</li><li data-label=\"D\"><sup>107</sup><sub>54</sub>X</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

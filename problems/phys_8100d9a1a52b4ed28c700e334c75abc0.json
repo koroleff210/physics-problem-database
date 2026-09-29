@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d7f296f6d559091a8c83d1382653a80d270e037fdad0149d8e94cdbcc04a6cad.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d7f296f6d559091a8c83d1382653a80d270e037fdad0149d8e94cdbcc04a6cad"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_8100d9a1a52b4ed28c700e334c75abc0",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus of krypton (Kr) decays to a nucleus of bromine (Br) according to the equation</p>\n<p><sup>84</sup><sub>36</sub>Kr → <sup>84</sup><sub>35</sub>Br + Y + Z</p>\n<p>What are Y and Z?<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

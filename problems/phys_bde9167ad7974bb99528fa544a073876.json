@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_bde9167ad7974bb99528fa544a073876",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An alpha particle (<sup>4</sup><sub>2</sub>He) of initial energy 5.5 MeV moves towards the centre of a nucleus of gold‑197 (<sup>197</sup><sub>79</sub>Au).</p>\n<p>What is the distance of closest approach of the alpha particle?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.0 × 10<sup>−13</sup> m</li><li data-label=\"B\">4.1 × 10<sup>−14</sup> m</li><li data-label=\"C\">2.1 × 10<sup>−14</sup> m</li><li data-label=\"D\">6.6 × 10<sup>−33</sup> m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

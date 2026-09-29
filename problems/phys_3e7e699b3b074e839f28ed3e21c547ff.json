@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/110a955834b0ad68076d81ee151b6e4e001f6de073f2d50534ab0d4a3e95b30c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "110a955834b0ad68076d81ee151b6e4e001f6de073f2d50534ab0d4a3e95b30c"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e7e699b3b074e839f28ed3e21c547ff",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A group of students perform an experiment to find the refractive index of a glass block. They measure various values of the angle of incidence i and angle of refraction r for a ray entering the glass from air. They plot a graph of the sin r against sin i.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>They determine the gradient of the graph to be m.</p>\n<p>Which of the following gives the critical angle of the glass?</p>\n<p></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">sin<sup>−1</sup>(m)</li><li data-label=\"B\">sin<sup>−1</sup><span class=\"math\" data-latex=\"\\frac{1}{m}\"></span></li><li data-label=\"C\">m</li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{m}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fb7f4ef88ee596043ba30a7fd9fd4771e5a89d8267aa02631ff978ea3e1b9315.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fb7f4ef88ee596043ba30a7fd9fd4771e5a89d8267aa02631ff978ea3e1b9315"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/39b626e005c6cdf42f7f3c76294eead3516c6f5cadf262a439fb571c60e9c098.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "39b626e005c6cdf42f7f3c76294eead3516c6f5cadf262a439fb571c60e9c098"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e4dc09f83ff74c93a66f26e872db37f6",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\alpha=\\frac{12.5}{2.0}\"></span>   OR   6.25 «rad s<sup>−2</sup>» ✔ Allow the use of any point from the graph.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1<br/><span class=\"math\" data-latex=\"I=\\frac{1}{2}\\times 0.2\\times 0.4^{2}=0.016\"></span> ✔<br/><span class=\"math\" data-latex=\"Torque=lx\\alpha=\"></span>0.1 « Nm » ✔ <br/>ALTERNATIVE 2<br/><span class=\"math\" data-latex=\"\\Delta L=\\frac{1}{2}\\times 0.20\\times 0.40^{2}\\times 12.5=0.20\"></span> « Js » ✔<br/><span class=\"math\" data-latex=\"Γ=\\frac{\\Delta L}{\\Delta t}=\\frac{\\frac{1}{2}\\times 0.20\\times 0.40^{2}\\times 12.5}{2.0}=0.10\"></span> « Nm » ✔ Use of 6 gives an answer of 0.096 Nm. Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>initial momentum of block <span class=\"math\" data-latex=\"=\"></span> 0.016 <span class=\"math\" data-latex=\"\\times\"></span> 12.5  OR  0.20 ✔ moment of inertia of the object is 0.10 <span class=\"math\" data-latex=\"\\times\"></span> 0.40<sup>2</sup> ✔<br/><br/>conservation of angular momentum <span class=\"math\" data-latex=\"0.20=\\frac{1}{2}\\times 0.20\\times 0.40^{2}+0.10\\times 0.40^{2}\\omega'\"></span> so <span class=\"math\" data-latex=\"\\omega'=6.25\"></span> «rad s<sup>−1</sup>» ✔ Allow ECF for MP3 Allow ECF from b)</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>initial KE is <span class=\"math\" data-latex=\"\\frac{1}{4}\\times 0.20\\times 0.40^{2}\\times 12.5^{2}\"></span>  OR  <span class=\"math\" data-latex=\"=\"></span>1.25 « J » ✔<br/><br/>final KE is <span class=\"math\" data-latex=\"\\frac{1}{4}\\times 0.20\\times 0.40^{2}\\times 6.25^{2}+\\frac{1}{2}\\times 0.10\\times 0.40^{2}\\times 6.25^{2}=0.625\"></span> « J » ✔<br/><br/>fraction lost is 50 % ✔ Allow ECF from c) i)<br/>Allow ECF for MP3</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A net torque acts on a horizontal disk of mass 0.20 kg and radius 0.40 m that is initially at rest. The disk begins to rotate. The graph shows the variation with time t of the angular speed ω of the disk.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The moment of inertia of a disk of mass M and radius R about a vertical axis through its centre is <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>MR<sup>2</sup>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the angular acceleration of the disk is about 6 rad s<sup>−2</sup>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the torque that acts on the disk while it accelerates. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>While the disk is rotating at its final constant angular speed, a small object of mass 0.10 kg falls on the disk and sticks to the edge of the disk.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the new angular speed of the disk. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine the fraction of the total energy of the disk that was lost. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

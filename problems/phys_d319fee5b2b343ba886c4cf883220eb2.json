@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/aa92e565b34538bdf16057a8958cdb9b52385cd25649bb7b7578c5d372e56a6a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "aa92e565b34538bdf16057a8958cdb9b52385cd25649bb7b7578c5d372e56a6a"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d319fee5b2b343ba886c4cf883220eb2",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is held in a cylinder by a piston. The piston compresses the gas rapidly.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The average speed of the gas molecules increases because the gas molecules...<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">have a smaller volume available in which they can move.</li><li data-label=\"B\">receive thermal energy transferred from outside the cylinder.</li><li data-label=\"C\">receive energy from the piston as they collide with it.</li><li data-label=\"D\">make more collisions every second with each other.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

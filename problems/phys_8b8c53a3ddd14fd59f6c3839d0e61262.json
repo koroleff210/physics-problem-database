@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_8b8c53a3ddd14fd59f6c3839d0e61262",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>For a real cell in a circuit, the terminal potential difference is at its closest to the emf when</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the internal resistance is much smaller than the load resistance.</li><li data-label=\"B\">a large current flows in the circuit.</li><li data-label=\"C\">the cell is not completely discharged.</li><li data-label=\"D\">the cell is being recharged.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

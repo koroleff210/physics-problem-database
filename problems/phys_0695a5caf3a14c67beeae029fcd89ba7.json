@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d54841dbeaa3bd406ee16a33a0194ffec4d4fdd2022238fc3920347b55a02dc1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d54841dbeaa3bd406ee16a33a0194ffec4d4fdd2022238fc3920347b55a02dc1"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_0695a5caf3a14c67beeae029fcd89ba7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle oscillates with simple harmonic motion between points A and B and an object rotates anticlockwise in a circle at constant speed. The frequency of the particle’s motion is <span class=\"math\" data-latex=\"0.25\"></span> Hz and the frequency of the object’s motion is <span class=\"math\" data-latex=\"0.50\"></span> Hz. The particle starts from point A and the object starts from point C. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>After how many seconds will the particle’s acceleration and the object’s velocity first point in opposite directions?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">1.0 s</li>\n<li data-label=\"B\">2.0 s </li>\n<li data-label=\"C\">3.0 s </li>\n<li data-label=\"D\">4.0 s</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

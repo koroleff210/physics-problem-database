@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_ef5d0bfdc1054a2689729f73280549a3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following statements best describes an equipotential surface?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is a surface where the electric field is strongest.</li><li data-label=\"B\">It is a surface where all points have the same electric potential.</li><li data-label=\"C\">It is a surface where the electric potential is zero.</li><li data-label=\"D\">It is a surface perpendicular to the direction of magnetic force.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

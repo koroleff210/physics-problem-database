@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_92509215bc124457a9dc9b7723d1b420",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object weighs <span class=\"math\" data-latex=\"800\\ \\mathrm{N}\"></span> on Earth where the gravitational field strength is <span class=\"math\" data-latex=\"10\\ \\mathrm{N\\ kg}^{-1}\"></span>. What is its mass?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"8\\ \\mathrm{kg}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"80\\ \\mathrm{kg}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"800\\ \\mathrm{kg}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"8000\\ \\mathrm{kg}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

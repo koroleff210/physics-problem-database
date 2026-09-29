@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8514490cfde54a28ce84ec3c8f9fc6a58a827bf74b1988ff256f5f8bf7becdfc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8514490cfde54a28ce84ec3c8f9fc6a58a827bf74b1988ff256f5f8bf7becdfc"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e64611d7fabb42baad57c38330b7999e",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"26a\"><p><strong>26a</strong></p><p> </p>\n<p>Calculating the number of gas particles in the container:</p>\n<p><span class=\"math\" data-latex=\"N = N = 1.77 \\times 6.02 \\times 10^{23} \\approx 1.066 \\times 10^{24}\"></span></p>\n<p>Converting the temperature into kelvin:</p>\n<p><span class=\"math\" data-latex=\"T = 31 + 273 = 304\\:\\textup{K}\"></span></p>\n<p>Estimating the Boltzmann constant:</p>\n<p><span class=\"math\" data-latex=\"k_{\\textup{B}} = \\frac{(120 \\times 10^{3})(3.5 \\times 10^{-2})}{(1.066 \\times 10^{24})(304)} \\approx 1.296 \\times 10^{-23} \\approx 1.3 \\times 10^{-23}\\:\\textup{J\\,K}^{-1}\"></span></p>\n<p>Final answer must be given to 2 s.f. to earn the final mark.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"26b\"><p><strong>26b</strong></p><p>In part (a) we are assuming that the argon gas behaves exactly as an ideal gas.</p>\n<p></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"26c\"><p><strong>26c</strong></p><p> </p>\n<p>An isothermal compression meant that the temperature of the gas must be kept constant.</p>\n<p>Compressing the gas slowly allows the gas to dissipate energy slowly, ensuring that the temperature remains constant (a fast compression would cause the temperature of the gas to quickly rise).</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"26d\"><p><strong>26d</strong></p><p></p>\n<p>The first law of thermodynamics states that <span class=\"math\" data-latex=\"Q = \\Delta U + W\"></span>.</p>\n<p>During an adiabatic expansion no energy is transferred between the gas and its surroundings, therefore <span class=\"math\" data-latex=\"Q = 0\"></span>.</p>\n<p>During the expansion work is done by the gas on its surroundings, so <span class=\"math\" data-latex=\"\\Delta U = -W\"></span>.</p>\n<p>This means that the internal energy of the gas decreases, hence the temperature of the gas also decreases.</p>\n<p>Therefore the final temperature of the gas is less than <span class=\"math\" data-latex=\"31\\:{}^{\\circ}\\textup{C}\"></span>.</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A fixed mass of argon gas is in a container, sealed by a movable piston.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The following data is provided:</p>\n<table>\n<tbody>\n<tr>\n<td>Number of moles of argon atoms</td>\n<td><span class=\"math\" data-latex=\"1.77\"></span></td>\n</tr>\n<tr>\n<td>Pressure</td>\n<td><span class=\"math\" data-latex=\"120\\:\\textup{kPa}\"></span></td>\n</tr>\n<tr>\n<td>Temperature</td>\n<td><span class=\"math\" data-latex=\"31\\:{}^{\\circ}\\textup{C}\"></span></td>\n</tr>\n<tr>\n<td>Volume</td>\n<td><span class=\"math\" data-latex=\"3.5 \\times 10^{-2}\\:\\textup{m}^{3}\"></span></td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>(a)   Using the data, estimate the value of the Boltzmann constant. Give your answer to an appropriate number of significant figures.</p>\n<p>  [3]</p>\n<p>(b)   State the assumption that you made in your calculation in part (a).</p>\n<p>  [1]</p>\n<p>Using the piston, the argon gas in the container is compressed isothermally.</p>\n<p>(c)   Outline why the compression must be slow.</p>\n<p>  [2]</p>\n<p>Following the compression, the gas expands adiabatically to its initial volume. </p>\n<p>(d)   Explain, with reference to the first law of thermodynamics, whether the temperature of the gas after expanding will be less than, equal to, or greater than <span class=\"math\" data-latex=\"31\\:{}^{\\circ}\\textup{C}\"></span>.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

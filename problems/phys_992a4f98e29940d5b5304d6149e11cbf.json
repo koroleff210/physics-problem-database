@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_992a4f98e29940d5b5304d6149e11cbf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic electromagnetic radiation ejects photoelectrons from a metal surface. The minimum frequency for which this is possible is <span class=\"math\" data-latex=\"f\"></span>.</p>\n<p>When radiation of frequency 2<span class=\"math\" data-latex=\"f\"></span> is incident on the surface, the kinetic energy of the photoelectrons is K.</p>\n<p>What is the kinetic energy of the photoelectrons when the frequency of the radiation is 4<span class=\"math\" data-latex=\"f\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">K</li><li data-label=\"B\">2K</li><li data-label=\"C\">3K</li><li data-label=\"D\">4K</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

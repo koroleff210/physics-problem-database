@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_b4b3840240224762badca84facc878e5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball falls with terminal velocity through air. What is correct about the kinetic energy and the total energy of the ball?</p>\n<table><tbody><tr><td></td><td><p>Kinetic energy</p></td><td><p>Total energy<br/></p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>constant</p></td><td><p>decreases</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>increases</p></td><td><p>decreases</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>constant</p></td><td><p>constant</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>increases</p></td><td><p>constant</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

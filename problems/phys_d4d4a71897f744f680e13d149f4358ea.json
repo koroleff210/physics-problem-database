@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d4d4a71897f744f680e13d149f4358ea",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the acceleration <span class=\"math\" data-latex=\"a\"></span> of an object undergoing simple harmonic motion at various displacements <span class=\"math\" data-latex=\"x\"></span> from its equilibrium position.</p>\n<table><thead><tr><th><span class=\"math\" data-latex=\"x\"></span> / mm</th><th><span class=\"math\" data-latex=\"a\"></span> / mm s<span class=\"math\" data-latex=\"^{-2}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"-20.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"10.0\"></span></td><td><span class=\"math\" data-latex=\"-40.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"15.0\"></span></td><td><span class=\"math\" data-latex=\"-60.0\"></span></td></tr></tbody></table>\n<p>What is the period of oscillation for this object?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5\\pi\"></span> s</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\pi\"></span> s</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2\\pi\"></span> s</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4\\pi\"></span> s</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

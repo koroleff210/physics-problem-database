@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/498eb62c28680ab140bb277aabc52615fafce5673629b065c76c103f7deb2762.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "498eb62c28680ab140bb277aabc52615fafce5673629b065c76c103f7deb2762"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_f326ae5f9d184dbd81cb273424fedc19",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The condition for a straight path is <span class=\"math\" data-latex=\"F_e = F_m\"></span>, which leads to <span class=\"math\" data-latex=\"eE = evB\"></span> or <span class=\"math\" data-latex=\"v = \\frac{E}{B}\"></span>. [1 mark]</p>\n<p>This is necessary because the electric force and magnetic force must be equal in magnitude and opposite in direction for the net force on the electron to be zero. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Using the relationship <span class=\"math\" data-latex=\"B = \\frac{E}{v}\"></span>: <span class=\"math\" data-latex=\"B = \\frac{9.0 \\times 10^4}{4.5 \\times 10^6}\"></span>. [1 mark]</p>\n<p><span class=\"math\" data-latex=\"B = 0.020\\text{ T}\"></span> (or <span class=\"math\" data-latex=\"2.0 \\times 10^{-2}\\text{ T}\"></span>). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The electron will be deflected downwards. [1 mark]</p>\n<p>Because the magnetic force (<span class=\"math\" data-latex=\"F_m = evB\"></span>) increases with velocity, it will exceed the electric force (<span class=\"math\" data-latex=\"F_e = eE\"></span>), which is independent of velocity. By the left-hand rule (adjusted for negative charge), the magnetic force acts downwards. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>The electric field does no work because the force is perpendicular to the straight-line displacement (or because the electron moves along an equipotential line parallel to the plates). [1 mark]</p>\n<p>The magnetic field always does zero work because the magnetic force is always perpendicular to the instantaneous velocity of the particle (<span class=\"math\" data-latex=\"F_m \\cdot v = 0\"></span>). [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram illustrates a device used to select charged particles of a specific velocity. A uniform electric field of strength <span class=\"math\" data-latex=\"E\"></span> is directed vertically downwards between two parallel plates. A uniform magnetic field of flux density <span class=\"math\" data-latex=\"B\"></span> is directed into the plane of the page, perpendicular to the electric field. An electron, with velocity <span class=\"math\" data-latex=\"v\"></span>, enters the region as shown.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the relationship between the electric field strength <span class=\"math\" data-latex=\"E\"></span>, magnetic flux density <span class=\"math\" data-latex=\"B\"></span>, and the speed <span class=\"math\" data-latex=\"v\"></span> for which the electron travels in a straight line, and explain why this condition is necessary.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnitude of the magnetic flux density <span class=\"math\" data-latex=\"B\"></span> required to allow an electron traveling at <span class=\"math\" data-latex=\"4.5 \\times 10^{6}\\text{ m s}^{-1}\"></span> to pass undeflected through a uniform electric field of <span class=\"math\" data-latex=\"9.0 \\times 10^{4}\\text{ V m}^{-1}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Predict and explain the direction of the initial deflection of an electron that enters the region with a velocity greater than the value calculated in part (b).<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Compare the work done on the electron by the electric field with the work done by the magnetic field as the electron moves across the plates along the straight path.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

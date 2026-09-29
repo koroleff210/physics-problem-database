@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_438dd0f152464dd88becef92f6fcd076",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Moon's gravitational field strength at its surface is about <span class=\"math\" data-latex=\"1.6\\ \\mathrm{N\\ kg}^{-1}\"></span>. If an astronaut has a mass of <span class=\"math\" data-latex=\"75\\ \\mathrm{kg}\"></span>, what is the gravitational force acting on the astronaut?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"47\\ \\mathrm{N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"75\\ \\mathrm{N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"120\\ \\mathrm{N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.6\\ \\mathrm{N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

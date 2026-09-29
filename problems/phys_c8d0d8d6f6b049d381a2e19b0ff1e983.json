@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_c8d0d8d6f6b049d381a2e19b0ff1e983",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is in a container with a movable piston. The piston compresses the gas rapidly.</p>\n<p>The temperature of the gas increases because</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">molecules bounce off the piston with increased speed.</li><li data-label=\"B\">molecules collide with the piston more frequently.</li><li data-label=\"C\">molecules exert a greater force on the piston.</li><li data-label=\"D\">the number of molecules per cubic metre has increased.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

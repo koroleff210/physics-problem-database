@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c25f999c04527159d8c5acf5ab6207688178573dae4428184822950e06682178.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c25f999c04527159d8c5acf5ab6207688178573dae4428184822950e06682178"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_a47e1b544b6f45fabecfa4428148ccf7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker connected to a signal generator is held over the open end of a vertical glass tube. The tube is partially filled with water to create an air column of length <span class=\"math\" data-latex=\"L\"></span>, as shown in the diagram below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The water level is gradually lowered to increase the length <span class=\"math\" data-latex=\"L\"></span>. The first resonance occurs when <span class=\"math\" data-latex=\"L = 17.0\\text{ cm}\"></span> and the second resonance occurs when <span class=\"math\" data-latex=\"L = 51.0\\text{ cm}\"></span>. The speed of sound in the air column is <span class=\"math\" data-latex=\"340\\text{ m s}^{-1}\"></span>.</p>\n<p>What is the frequency produced by the signal generator?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"250\\text{ Hz}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"500\\text{ Hz}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1000\\text{ Hz}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2000\\text{ Hz}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

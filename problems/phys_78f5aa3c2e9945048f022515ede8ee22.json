@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_78f5aa3c2e9945048f022515ede8ee22",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below shows the approximate nuclear radius for a nucleus of carbon-12 <span class=\"math\" data-latex=\"\\left({ }_{6}^{12} \\mathrm{C}\\right)\"></span> and an unknown isotope <span class=\"math\" data-latex=\"X\"></span>.</p>\n<table><thead><tr><th>Nucleus</th><th>Nuclear radius / <span class=\"math\" data-latex=\"\\mathrm{m}\"></span></th></tr></thead><tbody><tr><td>Carbon-12</td><td><span class=\"math\" data-latex=\"2.7 \\times 10^{-15}\"></span></td></tr><tr><td>Isotope <span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"5.4 \\times 10^{-15}\"></span></td></tr></tbody></table>\n<p>Which of the following is the most likely mass number for isotope <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">24</li><li data-label=\"B\">48</li><li data-label=\"C\">84</li><li data-label=\"D\">96</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

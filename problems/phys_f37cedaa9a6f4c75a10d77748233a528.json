@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_f37cedaa9a6f4c75a10d77748233a528",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is true about high- and low-level waste from nuclear reactors?</p>\n<table><thead><tr><th>Case</th><th>High-level waste</th><th>Low-level waste</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Must be disposed of by burying deep underground</td><td>Can be disposed of as regular trash after some time</td></tr><tr data-label=\"B\"><td>B</td><td>Must be disposed of by burying deep underground</td><td>Composed of weakly radioactive fission byproducts</td></tr><tr data-label=\"C\"><td>C</td><td>Can be repurposed to make new fuel rods</td><td>Can be disposed of as regular trash after some time</td></tr><tr data-label=\"D\"><td>D</td><td>Can be repurposed to make new fuel rods</td><td>Composed of weakly radioactive fission byproducts</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

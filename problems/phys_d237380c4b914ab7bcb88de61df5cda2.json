@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d237380c4b914ab7bcb88de61df5cda2",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a\"><p><strong>15a</strong></p><p> </p>\n<p>During the Carnot cycle some heat must be transferred to the cold reservoir of the engine.</p>\n<p>Because of this heat loss during the cycle, the efficiency of a Carnot engine can never be <span class=\"math\" data-latex=\"100\\%\"></span>.</p>\n<p>(An explanation based on the Carnot efficiency formula is also acceptable here.)</p></section><section class=\"markscheme-part\" data-label=\"15b(i)\"><p><strong>15b(i)</strong></p><p> </p>\n<p>The useful work done by the gas is <span class=\"math\" data-latex=\"2.35 - 1.38 = 0.97\\:\\textup{MJ}\"></span>.</p>\n<p>Therefore the efficiency of the cycle is:</p>\n<p><span class=\"math\" data-latex=\"\\eta = \\frac{0.97}{2.35} \\approx 0.41 = 41 \\%\"></span></p></section><section class=\"markscheme-part\" data-label=\"15b(ii)\"><p><strong>15b(ii)</strong></p><p> </p>\n<p>Converting the temperature of the hot reservoir into kelvin:</p>\n<p><span class=\"math\" data-latex=\"T_{h} = 780 + 273 = 1053\\:\\textup{K}\"></span></p>\n<p>Calculating the temperature of the cold reservoir:</p>\n<p><span class=\"math\" data-latex=\"0.41 = 1 - \\frac{T_{c}}{1053}\"></span></p>\n<p><span class=\"math\" data-latex=\"T_{c} \\approx 621\\:\\textup{K} \\approx 350\\:{}^{\\circ}\\textup{C}\"></span></p></section><section class=\"markscheme-part\" data-label=\"15c\"><p><strong>15c</strong></p><p> </p>\n<p>During an isovolumetric change the volume of the gas remains constant.</p></section><section class=\"markscheme-part\" data-label=\"15d\"><p><strong>15d</strong></p><p> </p>\n<p>The pressure of the gas at B is four times the pressure at A, so as the volume of the gas is unchanged, temperature at B must also be four times the temperature at A.</p>\n<p>Therefore the temperature at B is <span class=\"math\" data-latex=\"1680 \\approx 1700\\:\\textup{K}\"></span></p></section><section class=\"markscheme-part\" data-label=\"15e\"><p><strong>15e</strong></p><p> </p>\n<p>Since change AB is isovolumetric, the work done during this change is zero.</p>\n<p>Therefore <span class=\"math\" data-latex=\"Q = \\Delta U\"></span> and we get:</p>\n<p><span class=\"math\" data-latex=\"530 = \\frac{3}{2} \\times N \\times (1.38 \\times 10^{-23}) \\times (1680-420)\"></span></p>\n<p><span class=\"math\" data-latex=\"N \\approx 2.03 \\times 10^{22} \\approx 2.0 \\times 10^{22}\"></span></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A fixed mass of ideal, monatomic gas is used to operate a Carnot engine. During one cycle, the gas absorbs <span class=\"math\" data-latex=\"2.35\\:\\textup{MJ}\"></span> of energy from the hot reservoir at a constant temperature of <span class=\"math\" data-latex=\"780\\:{}^{\\circ}\\textup{C}\"></span> and transfers <span class=\"math\" data-latex=\"1.38\\:\\textup{MJ}\"></span> of energy to the cold reservoir.</p>\n<p>(a)   Outline why the efficiency of a Carnot engine can never be <span class=\"math\" data-latex=\"100\\%\"></span>.</p>\n<p>  [2]</p>\n<p>(b)   Calculate the</p>\n<p>(i)   efficiency of the cycle.</p>\n<p>  [1]</p>\n<p>(ii)   temperature of the cold reservoir in <span class=\"math\" data-latex=\"^{\\circ}\\textup{C}\"></span>.</p>\n<p>  [2]</p>\n<p>A fixed mass of the same gas is used to operate a different heat engine. One of the changes, AB, during the cycle of this engine is isovolumetric.</p>\n<p>(c)   Outline what is meant by isovolumetric change.</p>\n<p>  [1]</p>\n<p>At A, the temperature of the gas is <span class=\"math\" data-latex=\"420\\:\\textup{K}\"></span> and its pressure is <span class=\"math\" data-latex=\"P\"></span>. At B, the pressure of the gas is <span class=\"math\" data-latex=\"4P\"></span>.</p>\n<p>(d)   Find the temperature of the gas at B.</p>\n<p>  [1]</p>\n<p>The energy transferred to the gas during change AB is <span class=\"math\" data-latex=\"530\\:\\textup{J}\"></span>.</p>\n<p>(e)   Estimate the number of particles in the gas. </p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

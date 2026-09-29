@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_2586034b432948d1b2d96b2f85fa79d3",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p></p>\n<p>The work done per unit mass when moving a test mass from infinity to the point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b\"><p><strong>10b</strong></p><p></p>\n<p>The particle moves from a higher to a lower gravitational potential, so the work done by the field is positive.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c\"><p><strong>10c</strong></p><p></p>\n<p>Since work is done (energy is supplied to the system) to move the particle from A to B, the total work done by the two fields is negative.</p>\n<p><span class=\"math\" data-latex=\"W_{total} = -(m \\Delta V_{g} + q \\Delta V_{e})\"></span></p>\n<p><span class=\"math\" data-latex=\"480 \\times 10^{-12} = -((7.2 \\times 10^{-18})(-83 \\times 10^{6}) + (Q)(-12.3 \\times 10^{-3}))\"></span></p>\n<p><span class=\"math\" data-latex=\"Q \\approx -9.56 \\times 10^{-9}\"></span> C <span class=\"math\" data-latex=\"\\approx -9.6\"></span> nC</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A particle of mass <span class=\"math\" data-latex=\"7.2 \\times 10^{-18}\"></span> kg and charge <span class=\"math\" data-latex=\"Q\"></span> is moved from point A to point B.</p>\n<p>a. Outline what is meant by gravitational potential at a point.</p>\n<p>   [2]</p>\n<p>The following data are provided:</p>\n<p></p>\n<p>Gravitational potential at A: <span class=\"math\" data-latex=\"38\"></span>M J kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Gravitational potential at B: <span class=\"math\" data-latex=\"-45\"></span> MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Electric potential at A: <span class=\"math\" data-latex=\"21\"></span> mV</p>\n<p>Electric potential at B: <span class=\"math\" data-latex=\"8.7\"></span> mV</p>\n<p>Work done when moving the particle: <span class=\"math\" data-latex=\"480\"></span> pJ</p>\n<p></p>\n<p>b. Outline why the work done by the gravitational field on the particle is positive.</p>\n<p>   [1]</p>\n<p>c. Determine, in nC, the charge of the particle.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

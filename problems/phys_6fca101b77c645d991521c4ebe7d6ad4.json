@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_6fca101b77c645d991521c4ebe7d6ad4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The natural frequency of an oscillating system is <span class=\"math\" data-latex=\"f_{0}\"></span>. An external applied force acts on the system with frequency <span class=\"math\" data-latex=\"f_{D}\"></span>. The oscillations are heavily damped. </p>\n<p>What is true about the relationship between <span class=\"math\" data-latex=\"f_{0}\"></span> and <span class=\"math\" data-latex=\"f_{D}\"></span> when the amplitude of the oscillations is a maximum?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"f_{0} = f_{D}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"f_{0} &lt; f_{D}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"f_{0} &gt; f_{D}\"></span></li>\n<li data-label=\"D\">The relationship cannot be determined from the given information. </li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

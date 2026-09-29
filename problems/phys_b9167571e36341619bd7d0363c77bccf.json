@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_b9167571e36341619bd7d0363c77bccf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The relative speed of two cars is <span class=\"math\" data-latex=\"25\\;\\textup{m\\,s}^{-1}\"></span>.</p>\n<p>What is the best estimate for the Lorentz factor of this relative speed?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.50\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"1.0\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"1.5\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2.0\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6aa8cb000886c72ef34a00182fb6c81ca18c9e5dc457cb7d9b36f0392e962f20.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6aa8cb000886c72ef34a00182fb6c81ca18c9e5dc457cb7d9b36f0392e962f20"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c4fd7fa7cc2c4b34874ff16d06162b63",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Stopping potential is the <span class=\"math\" data-latex=\"V\"></span> value where <span class=\"math\" data-latex=\"I=0\"></span>. Curve <span class=\"math\" data-latex=\"P\"></span> reaches <span class=\"math\" data-latex=\"I=0\"></span> at a more negative <span class=\"math\" data-latex=\"V\"></span> than <span class=\"math\" data-latex=\"Q\"></span>, so <span class=\"math\" data-latex=\"|V_{s,P}|&gt;|V_{s,Q}|\"></span> and hence <span class=\"math\" data-latex=\"K_{\\max,P}&gt;K_{\\max,Q}\"></span>. With the same metal, <span class=\"math\" data-latex=\"K_{\\max}=hf-\\phi\"></span>, so <span class=\"math\" data-latex=\"f_P&gt;f_Q\"></span>. The saturation current (plateau at large positive <span class=\"math\" data-latex=\"V\"></span>) is higher for <span class=\"math\" data-latex=\"P\"></span> than for <span class=\"math\" data-latex=\"Q\"></span>, so the emission rate is higher and therefore the light intensity is higher for <span class=\"math\" data-latex=\"P\"></span>.</p>\n<p>B: Although <span class=\"math\" data-latex=\"P\"></span> has the larger magnitude stopping potential (so higher frequency), the saturation current for <span class=\"math\" data-latex=\"P\"></span> is higher than for <span class=\"math\" data-latex=\"Q\"></span>, indicating higher, not lower, intensity.</p>\n<p>C: Curve <span class=\"math\" data-latex=\"P\"></span> has a more negative stopping potential than <span class=\"math\" data-latex=\"Q\"></span>, so <span class=\"math\" data-latex=\"P\"></span> has higher (not lower) frequency. The saturation current is higher for <span class=\"math\" data-latex=\"P\"></span>, so the intensity is higher, but the frequency comparison is wrong.</p>\n<p>D: Both comparisons are incorrect: the stopping potential magnitude and the saturation current are both larger for <span class=\"math\" data-latex=\"P\"></span>, implying higher frequency and higher intensity for <span class=\"math\" data-latex=\"P\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student performs a photoelectric effect experiment by shining light from two different sources, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, onto the same photosensitive metal surface. The graph shows the variation of the photoelectric current <span class=\"math\" data-latex=\"I\"></span> (A) with the potential difference <span class=\"math\" data-latex=\"V\"></span> (V) across the cell for both sources.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following statements correctly compares the frequency and intensity of light from source <span class=\"math\" data-latex=\"P\"></span> with light from source <span class=\"math\" data-latex=\"Q\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">Source <span class=\"math\" data-latex=\"P\"></span> has a higher frequency and a higher intensity than source <span class=\"math\" data-latex=\"Q\"></span>.</li><li data-label=\"B\">Source <span class=\"math\" data-latex=\"P\"></span> has a higher frequency and a lower intensity than source <span class=\"math\" data-latex=\"Q\"></span>.</li><li data-label=\"C\">Source <span class=\"math\" data-latex=\"P\"></span> has a lower frequency and a higher intensity than source <span class=\"math\" data-latex=\"Q\"></span>.</li><li data-label=\"D\">Source <span class=\"math\" data-latex=\"P\"></span> has a lower frequency and a lower intensity than source <span class=\"math\" data-latex=\"Q\"></span>.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_cb8970cd16a8475ea6cbae70fba1b8b5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wheel, initially at rest, rolls without slipping down an incline for <span class=\"math\" data-latex=\"4.0 s\"></span>. The final angular velocity of the wheel is <span class=\"math\" data-latex=\"5\\pi rad s^{-1}\"></span>.</p>\n<p>How many revolutions did the wheel complete?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">5</li><li data-label=\"B\">10</li><li data-label=\"C\">15</li><li data-label=\"D\">30</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

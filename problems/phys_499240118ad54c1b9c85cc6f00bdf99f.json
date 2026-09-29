@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_499240118ad54c1b9c85cc6f00bdf99f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass <span class=\"math\" data-latex=\"m\"></span> is attached to a string and moves in a vertical circle of constant radius <span class=\"math\" data-latex=\"R\"></span>. At the top of the circle, the tension in the string is <span class=\"math\" data-latex=\"T\"></span>. Air resistance is negligible.</p>\n<p>What is the kinetic energy of <span class=\"math\" data-latex=\"m\"></span> at the top of the circle?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{RT-mg}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{RT+mg}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"RT-mg\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"RT+mg\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

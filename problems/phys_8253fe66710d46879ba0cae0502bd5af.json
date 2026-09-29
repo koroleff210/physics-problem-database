@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e095d74e5d478a6f80387e266334b34e6847f04e95bfc927470a5b35984a8818.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e095d74e5d478a6f80387e266334b34e6847f04e95bfc927470a5b35984a8818"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8253fe66710d46879ba0cae0502bd5af",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>It is a ratio between two forces therefore units cancel out. OR μ = Ff/N, therefore units cancel out. ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>uses the static coefficient ✓ F = 0.36 × 1.2 × 9.8 = 0.36 × 11.76 OR F = 4.2 «N» ✓   Must see full substitution OR answer to 2 (or more) significant figures for MP2.</p>\n<p>A force of 14.0 N acts on the box for 0.35 m as shown. The force is then removed and the box continues to move. The box comes to rest after a further displacement d.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALT 1 F<sub>f</sub> = 0.28 × 1.2 × 9.8 = 3.29 «N» ✓ W done over 0.35 m = (14 − 3.29) × 0.35 = 3.75 «J» ✓ d = «3.75 J / 3.29 N = » 1.14 «m» ✓ ALT 2 a = (14 − 0.28 × 1.2 × 9.8)/1.2 = 8.92 «m s<sup>−2</sup>» ✓ v= <span class=\"math\" data-latex=\"\\sqrt{28.920.35}\"></span> =2.50 «m s<sup>−1</sup>» ✓ d = «2.5<sup>2</sup>/(2 × 0.28 × 9.8) = » 1.14 «m» ✓   Allow ECF from MP1 Only award marks from one ALT.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A box of mass 1.2 kg is lying at rest on a surface. The coefficient of static friction between the box and the surface is 0.36 and the coefficient of dynamic friction between the box and the surface is 0.28.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline why the coefficients of friction have no units. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the minimum force needed to accelerate the box is about 4 N. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine d. [3]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3",
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_4907cd4c7a86422985087233cd418a13",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about a nuclear fission reactor are:</p>\n<p>I.   The heat exchanger transfers energy from the fuel rods to the moderator.<br/>II.  The control rods must be good absorbers of neutrons.<br/>III. The moderator must slow neutrons down.</p>\n<p>Which statements about the reactor are correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

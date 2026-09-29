@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d3581cb163d741c1c307350011d0ca6e399ffac5416dc5315944d5ee7c803a8b.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d3581cb163d741c1c307350011d0ca6e399ffac5416dc5315944d5ee7c803a8b"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_8ff469f0e575405a880abff048b62605",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The net force is the rate of change of momentum: <span class=\"math\" data-latex=\"F = \\frac{\\Delta p}{\\Delta t}\"></span> (or equivalent in words). [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Recognize that impulse is the area under the force-time graph. [1 mark]</p>\n<p>- Calculate the area (trapezoid or sum of triangles and rectangle):<br/>- <span class=\"math\" data-latex=\"\\text{Impulse} = \\frac{1}{2} \\times (10 + 30) \\times 400 + \\dots\"></span> (using trapezoid: <span class=\"math\" data-latex=\"\\frac{1}{2}(a+b)h = \\frac{1}{2}(20 + 40) \\times 400\"></span>)<br/>- <span class=\"math\" data-latex=\"\\text{Impulse} = 0.5 \\times 60 \\times 400 = 12,000 \\text{ N s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate initial momentum in the <span class=\"math\" data-latex=\"x\"></span>-direction:<br/><span class=\"math\" data-latex=\"p_x = m v_x = 250 \\times 120 = 30,000 \\text{ kg m s}^{-1}\"></span> [1 mark]</p>\n<p>- Recognize impulse is the change in momentum in the <span class=\"math\" data-latex=\"y\"></span>-direction:<br/><span class=\"math\" data-latex=\"p_y = \\Delta p_y = 12,000 \\text{ kg m s}^{-1}\"></span> [1 mark]</p>\n<p>- Calculate magnitude of resultant momentum:<br/><span class=\"math\" data-latex=\"p_{\\text{final}} = \\sqrt{p_x^2 + p_y^2} = \\sqrt{30,000^2 + 12,000^2} \\approx 32,311 \\text{ kg m s}^{-1}\"></span> [1 mark]</p>\n<p>- Calculate final speed:<br/><span class=\"math\" data-latex=\"v_{\\text{final}} = \\frac{p_{\\text{final}}}{m} = \\frac{32,311}{250} \\approx 129 \\text{ m s}^{-1}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A space probe of mass <span class=\"math\" data-latex=\"m = 250 \\text{ kg}\"></span> is traveling through deep space. To adjust its course, a corrective thruster is fired, providing a force <span class=\"math\" data-latex=\"F\"></span> in a direction perpendicular to the probe's initial velocity. The variation of the thrust force <span class=\"math\" data-latex=\"F\"></span> with time <span class=\"math\" data-latex=\"t\"></span> for the firing sequence is shown in the graph below.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the relationship between the net force acting on an object and its momentum.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the total impulse delivered to the probe during the firing sequence from <span class=\"math\" data-latex=\"t = 0\"></span> to <span class=\"math\" data-latex=\"t = 40 \\text{ s}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The probe was initially traveling at a constant speed of <span class=\"math\" data-latex=\"120 \\text{ m s}^{-1}\"></span> in the <span class=\"math\" data-latex=\"x\"></span>-direction. The thrust was applied in the <span class=\"math\" data-latex=\"y\"></span>-direction. Calculate the final speed of the probe after the thruster has finished firing.<p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

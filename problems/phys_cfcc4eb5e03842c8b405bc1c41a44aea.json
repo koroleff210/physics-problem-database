@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f504f9f85bf7572aa0b0f92dd491ce7b12d3ec88d21555815283f8cedabf12d1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f504f9f85bf7572aa0b0f92dd491ce7b12d3ec88d21555815283f8cedabf12d1"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 6,
+  "id": "phys_cfcc4eb5e03842c8b405bc1c41a44aea",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Component A obeys Ohm’s law<br/>[1 mark]<br/>- Because it shows a linear <span class=\"math\" data-latex=\"I\"></span>-<span class=\"math\" data-latex=\"V\"></span> relationship through the origin<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Decreasing slope indicates decreasing current per unit voltage<br/>[1 mark]<br/>- Therefore, resistance increases as voltage increases<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Component B could be a filament lamp<br/>[1 mark]<br/>- As current increases, the temperature of the filament increases, raising its resistance<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student investigates two different electrical components by measuring current for various values of applied voltage. The results are plotted on <span class=\"math\" data-latex=\"I\"></span>-<span class=\"math\" data-latex=\"V\"></span> graphs.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>Component A shows a straight-line graph through the origin.<br/>Component B shows a curve that becomes less steep as voltage increases.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify which component obeys Ohm’s law. Justify your answer.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain what the shape of the graph for component B indicates about its resistance.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest a possible identity for component B and explain its non-ohmic behaviour.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b3289582a03dca8b47d964c6d004f8792f42224b7c01fadba22ab5e445fa3f09.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b3289582a03dca8b47d964c6d004f8792f42224b7c01fadba22ab5e445fa3f09"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_958dc0551c21426da6f3aedef7ae50f6",
+  "level": "hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Define the parsec as the distance at which an object has a parallax angle of <span class=\"math\" data-latex=\"1\"></span> arcsecond when viewed from <span class=\"math\" data-latex=\"1\"></span> astronomical unit (<span class=\"math\" data-latex=\"1\\text{ AU}\"></span>) apart [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify the peak wavelength <span class=\"math\" data-latex=\"\\lambda_{\\text{max}} = 480\\text{ nm} = 4.8 \\times 10^{-7}\\text{ m}\"></span> from the graph [1 mark]<br/>- Calculate <span class=\"math\" data-latex=\"T = \\frac{2.9 \\times 10^{-3}}{\\lambda_{\\text{max}}} = \\frac{2.9 \\times 10^{-3}}{4.8 \\times 10^{-7}} = 6040\\text{ K}\"></span> (accept <span class=\"math\" data-latex=\"6000\\text{ K}\"></span> to <span class=\"math\" data-latex=\"6100\\text{ K}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use the Stefan-Boltzmann law <span class=\"math\" data-latex=\"L = \\sigma A T^{4} = \\sigma (4 \\pi R^{2}) T^{4}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"L = 5.67 \\times 10^{-8} \\times 4 \\pi \\times (1.1 \\times 10^{9})^{2} \\times (6040)^{4} = 1.1 \\times 10^{27}\\text{ W}\"></span> [1 mark]</p>\n<p>Note: Accept ECF from part 2.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Set up ratio <span class=\"math\" data-latex=\"\\frac{L}{L_{\\odot}} = \\left(\\frac{M}{M_{\\odot}}\\right)^{3.5}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\frac{1.1 \\times 10^{27}}{3.8 \\times 10^{26}} = \\left(\\frac{M}{M_{\\odot}}\\right)^{3.5} \\implies \\frac{M}{M_{\\odot}} = (2.89)^{\\frac{1}{3.5}} = 1.35\\text{ }M_{\\odot}\"></span> [1 mark]</p>\n<p>Note: Accept range <span class=\"math\" data-latex=\"1.3\"></span> to <span class=\"math\" data-latex=\"1.4\"></span> based on previous rounding.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Two protons fuse to form a deuterium nucleus (<span class=\"math\" data-latex=\"^{2}\\text{H}\"></span>), releasing a positron and a neutrino [1 mark]<br/>- A deuterium nucleus fuses with another proton to form a helium-3 nucleus (<span class=\"math\" data-latex=\"^{3}\\text{He}\"></span>), releasing a gamma ray [1 mark]<br/>- Two helium-3 nuclei fuse to form a helium-4 nucleus (<span class=\"math\" data-latex=\"^{4}\\text{He}\"></span>) and release two protons [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- State that high-mass stars have much higher core temperatures and pressures [1 mark]<br/>- Explain that this leads to a significantly higher rate of fusion (luminosity increases with mass to a power <span class=\"math\" data-latex=\"&gt; 1\"></span>), causing the fuel to be depleted much faster [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"g\"><p><strong>g</strong></p><p>- State that gravitational force/pressure acts inwards to collapse the star [1 mark]<br/>- Explain that radiation pressure (and gas pressure) from nuclear fusion acts outwards, balancing the gravitational collapse [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about stellar physics and nuclear fusion.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Define the parsec. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A graph of the blackbody radiation spectrum for a main sequence star, Zeta-9, is shown below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Determine the surface temperature of Zeta-9 using Wien's displacement law.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Zeta-9 has a radius of <span class=\"math\" data-latex=\"1.1 \\times 10^{9}\\text{ m}\"></span>. Calculate its luminosity. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> The luminosity of the Sun is <span class=\"math\" data-latex=\"L_{\\odot} = 3.8 \\times 10^{26}\\text{ W}\"></span>. For main sequence stars, the relationship between mass and luminosity is <span class=\"math\" data-latex=\"L \\propto M^{3.5}\"></span>. Calculate the mass of Zeta-9 in terms of solar masses (<span class=\"math\" data-latex=\"M_{\\odot}\"></span>). [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Explain the stages of the proton-proton chain reaction that produces energy in the core of Zeta-9. [3]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Outline why high-mass stars like Zeta-9 have shorter main sequence lifetimes than lower-mass stars. [2]</p></section><section class=\"question-part\" data-label=\"g\"><p><strong>g</strong> Describe how hydrostatic equilibrium is maintained in a main sequence star. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

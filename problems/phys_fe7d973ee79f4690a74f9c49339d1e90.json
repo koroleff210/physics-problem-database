@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f6b731d0d3a3a0f84f1ec9518175d558e52817d7f6204f17ff8f3938dfe46ccf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f6b731d0d3a3a0f84f1ec9518175d558e52817d7f6204f17ff8f3938dfe46ccf"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_fe7d973ee79f4690a74f9c49339d1e90",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a\"><p><strong>5a</strong></p><p></p>\n<p>Region around the peak of the graph is labeled S.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"5b\"><p><strong>5b</strong></p><p></p>\n<p>Neutron</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"5c\"><p><strong>5c</strong></p><p></p>\n<p>Reading values from the graph (accept a range of values here)</p>\n<p><span class=\"math\" data-latex=\"(134 \\times 8.35 + 103 \\times 8.55) - 239 \\times 7.55 \\approx 195\"></span> MeV</p>\n<p>Converting into joules: </p>\n<p><span class=\"math\" data-latex=\"(195 \\times 10^{6})(1.6 \\times 10^{-19}) \\approx 3.12 \\times 10^{-11}\"></span> J <span class=\"math\" data-latex=\"= 31.2\"></span> pJ</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how binding energy per nucleon <span class=\"math\" data-latex=\"E_{B}\"></span> varies with nucleon number <span class=\"math\" data-latex=\"A\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Use the letter S to label the region of most stable elements on the graph.</p>\n<p>   [1]</p>\n<p>The following equation shows the fission of plutonium-239.</p>\n<p><span class=\"math\" data-latex=\"_{\\, \\, \\, 94}^{239}\\textrm{Pu} + X\\rightarrow _{\\, \\, \\, 54}^{134}\\textrm{Xe} + _{\\, \\, \\, 40}^{103}\\textrm{Zr} + 3X\"></span></p>\n<p>b. Write down the name of particle X.</p>\n<p>   [1]</p>\n<p>c. Use the graph to calculate the energy released in this fission reaction. Give your answer in pJ.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

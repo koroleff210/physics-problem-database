@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9b858f52a69441b4b7fa5cbf3981e0e2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. This value is obtained if the displacement in cm is not converted to meters before taking the square root: <span class=\"math\" data-latex=\"\\sqrt{\\frac{8.0}{2.0}} = 2.0\"></span>.</p>\n<p>B: Incorrect. This may result from a simple division error (<span class=\"math\" data-latex=\"8/2\"></span>) without applying the square root.</p>\n<p>C: Correct. Using the defining equation for SHM, <span class=\"math\" data-latex=\"a = -\\omega^2 x\"></span>, we find <span class=\"math\" data-latex=\"\\omega^2 = \\frac{|a|}{|x|}\"></span>. Converting displacement to meters: <span class=\"math\" data-latex=\"\\omega^2 = \\frac{8.0 \\text{ m s}^{-2}}{0.02 \\text{ m}} = 400 \\text{ s}^{-2}\"></span>. Thus, <span class=\"math\" data-latex=\"\\omega = \\sqrt{400} = 20 \\text{ rad s}^{-1}\"></span>.</p>\n<p>D: Incorrect. This is the value for <span class=\"math\" data-latex=\"\\omega^2\"></span>. The student neglected to take the square root of the ratio.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows the values for the acceleration <span class=\"math\" data-latex=\"a\"></span> and the displacement <span class=\"math\" data-latex=\"x\"></span> for a system undergoing simple harmonic motion.</p>\n<table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x / \\text{ cm}\"></span></th><th>Acceleration <span class=\"math\" data-latex=\"a / \\text{ m s}^{-2}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"-8.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"5.0\"></span></td><td><span class=\"math\" data-latex=\"-20.0\"></span></td></tr></tbody></table>\n<p>What is the angular frequency <span class=\"math\" data-latex=\"\\omega\"></span> of this motion?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"4.0 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20 \\text{ rad s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"400 \\text{ rad s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

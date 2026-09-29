@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_b0230d2763c942ad92e8bcf0d75604d8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student plots a graph of potential difference <span class=\"math\" data-latex=\"V\"></span> across a component against the current <span class=\"math\" data-latex=\"I\"></span> through it. The graph is non-linear and curves upward. What does this indicate about the component?</p><ol class=\"mcq-options\"><li data-label=\"A\">The component is ohmic and its resistance is constant.</li><li data-label=\"B\">The component has decreasing resistance with increasing current.</li><li data-label=\"C\">The component's resistance increases with increasing current.</li><li data-label=\"D\">The component behaves as an ideal voltmeter.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

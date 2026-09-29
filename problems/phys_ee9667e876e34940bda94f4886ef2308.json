@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f639bc035da60dbb94cfea26619d481cd57c0ae67e26e604163cf7073d201aa7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f639bc035da60dbb94cfea26619d481cd57c0ae67e26e604163cf7073d201aa7"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/a82bae99ac420341cbfe40e34785b40b0c307e49d5cf05c11f9202a8c0b17da4.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a82bae99ac420341cbfe40e34785b40b0c307e49d5cf05c11f9202a8c0b17da4"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/c836d4d32c87e9bf2604b0dcff24491dedc9e73d9b7698d97ea998c92616134d.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "c836d4d32c87e9bf2604b0dcff24491dedc9e73d9b7698d97ea998c92616134d"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_ee9667e876e34940bda94f4886ef2308",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"28 = (0)t + \\frac{1}{2}(9.81)t^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"t \\approx 2.39 \\approx 2.4\"></span> s</p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p>The horizontal component of the stone's speed throughout its motion is <span class=\"math\" data-latex=\"16\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. Based on this, the time taken by the stone to travel <span class=\"math\" data-latex=\"34\"></span> m horizontally is <span class=\"math\" data-latex=\"\\frac{34}{16} = 2.125\"></span> s.</p>\n<p>The distance that the stone has fallen through during this time:</p>\n<p><span class=\"math\" data-latex=\"s = (0)(2.125) + \\frac{1}{2}(9.81)(2.125)^{2} \\approx 22.15\"></span> m.</p>\n<p>Therefore the distance of the stone above the ground at this moment is <span class=\"math\" data-latex=\"28 - 22.15 = 5.85\"></span> m.</p>\n<p><span class=\"math\" data-latex=\"5.85 &gt; 5.5\"></span>, so the stone passes over the wall.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stone is thrown horizontally from the top of a cliff with an initial speed of <span class=\"math\" data-latex=\"16\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The vertical height of the cliff is <span class=\"math\" data-latex=\"28\"></span> m. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Show that the time taken for the stone to reach the ground is approximately <span class=\"math\" data-latex=\"2.4\"></span> s.</p>\n<p>  [1]</p>\n<p>b. Sketch how the distance of the stone above the ground varies with time.</p>\n<ol></ol>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>   [2]</p>\n<p></p>\n<p>c. A wall is located at a horizontal distance of <span class=\"math\" data-latex=\"34\"></span> m from the base of the cliff. The height of the wall is <span class=\"math\" data-latex=\"5.5\"></span> m. Deduce whether the stone passes over the wall.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

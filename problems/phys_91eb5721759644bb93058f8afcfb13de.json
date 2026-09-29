@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fe2a548e90d3cec17e9857abaed96ba1439e4d27a2a23b4e9d81ff493630ac04.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fe2a548e90d3cec17e9857abaed96ba1439e4d27a2a23b4e9d81ff493630ac04"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d6f82f8934707e500ff3e6b89d8187fa78b70b367370afe6e2353ad83cedf25b.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d6f82f8934707e500ff3e6b89d8187fa78b70b367370afe6e2353ad83cedf25b"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/7db693e5d12b91826b162027042673f710e1d18edb7c38daa2b39ed806f77c3c.jpg",
+      "id": "fig_03",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7db693e5d12b91826b162027042673f710e1d18edb7c38daa2b39ed806f77c3c"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/63baa1143f6d8de4c90749c9c65ffb44fb5da5ea3e7589166b11e485937deeca.jpg",
+      "id": "fig_04",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "63baa1143f6d8de4c90749c9c65ffb44fb5da5ea3e7589166b11e485937deeca"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_91eb5721759644bb93058f8afcfb13de",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>B: The displacement <span class=\"math\" data-latex=\"s\"></span> for an object starting from rest with constant acceleration <span class=\"math\" data-latex=\"a\"></span> is given by the equation <span class=\"math\" data-latex=\"s = \\frac{1}{2}at^2\"></span>. This indicates a direct proportionality between <span class=\"math\" data-latex=\"s\"></span> and <span class=\"math\" data-latex=\"t^2\"></span>, which is represented by a straight line passing through the origin.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal block is released from rest at the top of a smooth inclined plane. Which of the following graphs best represents the variation of the displacement <span class=\"math\" data-latex=\"s\"></span> of the block from its starting position with the square of the time <span class=\"math\" data-latex=\"t^2\"></span> elapsed?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

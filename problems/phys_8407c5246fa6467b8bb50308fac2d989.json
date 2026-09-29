@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_8407c5246fa6467b8bb50308fac2d989",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>During the nuclear fission of nucleus X into nucleus Y and nucleus Z, energy is released. The binding energies per nucleon of X, Y and Z are <span class=\"math\" data-latex=\"B_{X}\"></span> , <span class=\"math\" data-latex=\"B_{Y}\"></span> and <span class=\"math\" data-latex=\"B_{Z}\"></span> respectively. What is true about the binding energy per nucleon of X, Y and Z?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"B_{Y}\"></span> &gt; <span class=\"math\" data-latex=\"B_{X}\"></span> and <span class=\"math\" data-latex=\"B_{Z}\"></span> &gt; <span class=\"math\" data-latex=\"B_{X}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"B_{X}\"></span> = <span class=\"math\" data-latex=\"B_{Y}\"></span> and <span class=\"math\" data-latex=\"B_{X}\"></span> = <span class=\"math\" data-latex=\"B_{Z}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"B_{X}\"></span> &gt; <span class=\"math\" data-latex=\"B_{Y}\"></span> and <span class=\"math\" data-latex=\"B_{X}\"></span> &gt; <span class=\"math\" data-latex=\"B_{Z}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"B_{X}\"></span> = <span class=\"math\" data-latex=\"B_{Y}\"></span> + <span class=\"math\" data-latex=\"B_{Z}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

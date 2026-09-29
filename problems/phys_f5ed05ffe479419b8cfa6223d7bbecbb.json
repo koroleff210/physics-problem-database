@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/11f01dcc19a029bb7588fa585611d67ce28ca3060896930d99ccfce4d457b68a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11f01dcc19a029bb7588fa585611d67ce28ca3060896930d99ccfce4d457b68a"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/817fde25faacac0562f9ff589fbc333e930597a4829d95f4a755a887bed0be35.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "817fde25faacac0562f9ff589fbc333e930597a4829d95f4a755a887bed0be35"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f5ed05ffe479419b8cfa6223d7bbecbb",
+  "level": "sl_hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"9a\"><p><strong>9a</strong></p><p>Initially, the only two forces that act on the sphere is the weight downwards and the buoyancy force upwards and since the weight is larger than the buoyancy force, the sphere accelerates downwards.</p>\n<p>As the speed of the sphere increases the viscous drag force (pointing upwards) on the sphere increases, so the acceleration of the sphere decreases. </p>\n<p>Around <span class=\"math\" data-latex=\"t = 20\\: \\textup{s}\"></span> the net force on the sphere drops to zero (from this moment on the weight is equal to the sum of the buoyancy force and the viscous drag force), so afterwards the sphere falls at constant speed.</p></section><section class=\"markscheme-part\" data-label=\"9b\"><p><strong>9b</strong></p><p>Since we have a speed-time graph for the sphere’s motion, the gradient of the graph is equal to the acceleration of the sphere at any given point.</p>\n<p>Drawing the tangent to the graph at <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span>, picking two points from the tangent and calculating its gradient, we get that the acceleration of the sphere at <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> is approximately <span class=\"math\" data-latex=\"0.56 \\: \\textup{m s}^{-2}\"></span>.</p>\n<p>Therefore, <span class=\"math\" data-latex=\"F_{net} = ma = 0.65 \\times 0.56 = 0.364\\: \\textup{N} \\approx 0.4 \\: \\textup{N}\"></span></p></section><section class=\"markscheme-part\" data-label=\"9c(i)\"><p><strong>9c(i)</strong></p><p><span class=\"math\" data-latex=\"F_{\\textup{net}} = mg - F_{\\textup{buoyancy}} - F_{\\textup{drag}}\"></span></p>\n<p><span class=\"math\" data-latex=\"0.4 = (0.65)(9.8) - 16F_{\\textup{d}}\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{\\textup{d}} \\approx 0.373\\: \\textup{N} \\approx 0.37\\: \\textup{N}\"></span></p></section><section class=\"markscheme-part\" data-label=\"9c(ii)\"><p><strong>9c(ii)</strong></p><p>We can read from the graph that at <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> the speed of the sphere is is approximately <span class=\"math\" data-latex=\"3.5 \\: \\textup{m s}^{-1}\"></span>.</p>\n<p>Substituting into the formula <span class=\"math\" data-latex=\"F_{\\textup{d}} = 6 \\pi \\eta r v\"></span> we get that:</p>\n<p><span class=\"math\" data-latex=\"0.37= 6 \\pi \\eta (0.058)(3.5)\"></span></p>\n<p>Therefore:</p>\n<p><span class=\"math\" data-latex=\"\\eta \\approx 0.097\\: \\textup{Pa\\,s}\"></span></p></section><section class=\"markscheme-part\" data-label=\"9c(iii)\"><p><strong>9c(iii)</strong></p><p><span class=\"math\" data-latex=\"F_{\\textup{b}} = 15F_{\\textup{d}} \\approx 5.6\\: \\textup{N}\"></span></p>\n<p>Substituting into the formula <span class=\"math\" data-latex=\"F_{\\textup{b}} = \\rho V g\"></span> and using <span class=\"math\" data-latex=\"\\frac{4}{3} \\pi r^{3}\"></span> for the volume of the sphere, we get that:</p>\n<p><span class=\"math\" data-latex=\"5.6 = \\rho \\times \\frac{4}{3} \\pi (0.058)^{3} \\times 9.8\"></span></p>\n<p>Therefore:</p>\n<p><span class=\"math\" data-latex=\"\\rho \\approx 699\\:\\textup{kg\\,m}^{-3} \\approx 700\\:\\textup{kg\\,m}^{-3}\"></span></p></section><section class=\"markscheme-part\" data-label=\"9d\"><p><strong>9d</strong></p><p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p></p>\n<p>The buoyancy force must be three times the length of the viscous drag force and the sum of the gravitational force and the viscous drag force must be less than the buoyancy force.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>At <span class=\"math\" data-latex=\"t = 0\"></span> a small sphere of mass <span class=\"math\" data-latex=\"0.65\\: \\textup{kg}\"></span> and radius <span class=\"math\" data-latex=\"5.8\\: \\textup{cm}\"></span> is dropped into a long vertical tube that is filled with a liquid. The graph shows how the speed of the sphere varies with time as it falls through the liquid.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   Explain the motion of the sphere between <span class=\"math\" data-latex=\"t = 0\"></span> and <span class=\"math\" data-latex=\"t = 24\\: \\textup{s}\"></span>.</p>\n<p>  [3]</p>\n<p>(b)   Show that the net force that acts on the sphere at <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> is approximately <span class=\"math\" data-latex=\"0.4\\; \\textup{N}\"></span>.</p>\n<p>  [2]</p>\n<p>(c)   At <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> the ratio <span class=\"math\" data-latex=\"\\frac{\\textup{buoyancy force}}{\\textup{viscous drag force}}\"></span> is approximately <span class=\"math\" data-latex=\"15\"></span>.</p>\n<p>(i)   Show that the magnitude of the viscous drag force on the sphere at <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> is approximately <span class=\"math\" data-latex=\"0.37\\: \\textup{N}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   Find the dynamic viscosity of the liquid.</p>\n<p>  [2]</p>\n<p>(iii)   Determine the density of the liquid.</p>\n<p>  [2]</p>\n<p>(d)   Another, different sphere is held at the bottom of the tube. When the sphere is released at <span class=\"math\" data-latex=\"t = 0\"></span>, it accelerates vertically upwards in the liquid during the first <span class=\"math\" data-latex=\"10\"></span> seconds of its motion. At <span class=\"math\" data-latex=\"t = 3.0\\: \\textup{s}\"></span>, the the ratio <span class=\"math\" data-latex=\"\\frac{\\textup{buoyancy force}}{\\textup{viscous drag force}}\"></span> is approximately <span class=\"math\" data-latex=\"3\"></span>.</p>\n<p>Draw a fully labelled free-body diagram to show the forces that act on the sphere at <span class=\"math\" data-latex=\"t = 3.0\\: \\textup{s}\"></span>.</p>\n<p>    [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

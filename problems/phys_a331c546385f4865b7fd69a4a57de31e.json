@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/060701dd1c73da644095b46f43e1f9b48cd132b7e1d569961c33db35d9ef6248.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "060701dd1c73da644095b46f43e1f9b48cd132b7e1d569961c33db35d9ef6248"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_a331c546385f4865b7fd69a4a57de31e",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Recognition that <span class=\"math\" data-latex=\"g\"></span> is the gradient of the tangent line at 15 Mm ✓ <span class=\"math\" data-latex=\"g = \\frac{Δ {V}_{g}}{Δ r} = \\frac{70 \\, M J \\, {k g}^{- 1}}{12 \\, M m} = - 6.0 \\, N \\, {k g}^{- 1}\"></span> ✓ <br/>Accept range 5–7 N kg<sup>–1</sup>.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>1.4 Mm ✓ <br/>Allow 1.35–1.45 Mm.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Recognition that this is from <span class=\"math\" data-latex=\"V=-94\"></span> to <span class=\"math\" data-latex=\"V=-38\"></span> OR <span class=\"math\" data-latex=\"Δ V = 56 \\, M J {\\, k g}^{- 1}\"></span> ✓<br/><br/> <span class=\"math\" data-latex=\"m = \\frac{W}{Δ V} = \\frac{8.1 \\times  {10}^{10}}{56 \\times  {10}^{6}} = 1446 \\, k g = 1400 \\, k g\"></span> ✓ <br/>MP1 allow ΔV = 54−56 MJ kg<sup>−1</sup>. Allow ECF for MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A moon M orbits a planet P. The graph shows the variation of the gravitational potential V<sub>g</sub> with distance r. The graph is drawn between the surface of M and the surface of P.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine the gravitational field strength at r = 15 Mm. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The distance between the centres of M and P is 19.6 Mm.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine the radius of P. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>A spacecraft travels from the surface of P to the surface of M. The work done by the gravitational force on the spacecraft to reach M is –8.1 × 10<sup>10</sup> J.</p>\n<p>Calculate the mass of the spacecraft.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

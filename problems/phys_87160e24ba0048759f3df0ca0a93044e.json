@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9d7363d461b94a3fc7cccd15ed7c35fa169d56550d18e806111273d51c2d2cbf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9d7363d461b94a3fc7cccd15ed7c35fa169d56550d18e806111273d51c2d2cbf"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_87160e24ba0048759f3df0ca0a93044e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Positive ions move towards the right in a copper wire. The wire is placed between two magnets as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the electromagnetic force on the wire?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Towards the top of the page.</li>\n<li data-label=\"B\">Towards the bottom of the page.</li>\n<li data-label=\"C\">Perpendicular to and out of the page.</li>\n<li data-label=\"D\">Perpendicular to and into the page.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

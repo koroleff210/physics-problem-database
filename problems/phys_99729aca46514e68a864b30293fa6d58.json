@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_99729aca46514e68a864b30293fa6d58",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone is thrown at an angle of 30<span class=\"math\" data-latex=\"^{o}\"></span> to the horizontal. Air resistance is negligible.</p>\n<p>What is correct about the direction of the horizontal and vertical components of the net force (<em>F</em>) acting on the stone when it is at its maximum height?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction of horizontal component of </strong><strong><em>F</em></strong></p>\n</td>\n<td>\n<p><strong>Direction of vertical component of </strong><strong><em>F</em></strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Zero</td>\n<td>Downwards</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Zero</td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>To the right</td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>To the right</td>\n<td>Downwards</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

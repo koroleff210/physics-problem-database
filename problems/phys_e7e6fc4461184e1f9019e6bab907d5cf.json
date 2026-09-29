@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 8,
+  "id": "phys_e7e6fc4461184e1f9019e6bab907d5cf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A source emitting a continuous sound wave of frequency <span class=\"math\" data-latex=\"1000\\ \\mathrm{Hz}\"></span> moves directly toward a stationary wall with speed <span class=\"math\" data-latex=\"25\\ \\text{m s}^{-1}\"></span>. The reflected sound is then detected by the source. What is the frequency the source detects? (Speed of sound = <span class=\"math\" data-latex=\"340\\ \\text{m s}^{-1}\"></span> )</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1000\\ \\mathrm{Hz}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1160\\ \\mathrm{Hz}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1320\\ \\mathrm{Hz}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1480\\ \\mathrm{Hz}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

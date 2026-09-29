@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_07f8c23fe3e0448e9a347edcdd17d451",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"v = \\omega \\sqrt{x_0^2 - x^2} = 20 \\cdot \\sqrt{(0.060)^2 - (0.040)^2} = 20 \\cdot \\sqrt{0.0036 - 0.0016} = 20 \\cdot \\sqrt{0.002} = 0.894\\ \\text{m s}^{-1}\"></span><br/>Correct formula and substitution 1 mark , correct final answer with unit 1 mark</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"E_T = \\frac{1}{2}m\\omega^2 x_0^2 = 0.5 \\cdot 0.10 \\cdot 400 \\cdot 0.060^2 = 0.072\\ \\text{J}\"></span><br/>Correct substitution 1 mark , correct final answer with unit 1 mark</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>At <span class=\"math\" data-latex=\"x = 0.040\"></span>, <span class=\"math\" data-latex=\"\\sin(\\theta) = \\frac{0.040}{0.060} = \\frac{2}{3} \\Rightarrow \\theta = \\sin^{-1}(2/3) = 0.7297\"></span><br/><span class=\"math\" data-latex=\"\\omega t = 0.7297 \\Rightarrow t = \\frac{0.7297}{20} = 0.0365\\ \\text{s}\"></span><br/>From <span class=\"math\" data-latex=\"x = 0.040\"></span> to <span class=\"math\" data-latex=\"x = 0\"></span>, this corresponds to one quarter of a cycle from that point:<br/><span class=\"math\" data-latex=\"t = \\frac{0.7297}{20} - \\frac{\\pi}{2}/20 = 0.0365 - 0.0785 = -0.042\\ \\text{s}\"></span> (take absolute value)<br/>or more simply:<br/><span class=\"math\" data-latex=\"\\Delta t = \\frac{1}{\\omega} \\sin^{-1}\\left( \\frac{x}{x_0} \\right) = \\frac{1}{20} \\cdot \\sin^{-1}\\left( \\frac{2}{3} \\right) = 0.0365\\ \\text{s}\"></span><br/>1 mark for correct approach, 1 mark for final time with units</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"a = -\\omega^2 x = -400 \\cdot 0.040 = -16.0\\ \\text{m s}^{-2}\"></span><br/>Magnitude: <span class=\"math\" data-latex=\"16.0\\ \\text{m s}^{-2}\"></span> 1 mark</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Sketch:<br/>Total energy <span class=\"math\" data-latex=\"E_T = 0.072\\ \\text{J}\"></span>, horizontal line</p>\n<p><span class=\"math\" data-latex=\"E_p = \\frac{1}{2}k x^2\"></span> curve, parabola starting at <span class=\"math\" data-latex=\"0\"></span>, max at <span class=\"math\" data-latex=\"x = \\pm 0.060\"></span></p>\n<p><span class=\"math\" data-latex=\"E_k = E_T - E_p\"></span>, inverted parabola<br/>Correct shape for <span class=\"math\" data-latex=\"E_p\"></span> and <span class=\"math\" data-latex=\"E_k\"></span> vs. <span class=\"math\" data-latex=\"x\"></span> 1 mark , correct energy levels and symmetry 1 mark</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An object of mass <span class=\"math\" data-latex=\"0.10\\ \\text{kg}\"></span> performs simple harmonic motion according to <span class=\"math\" data-latex=\"x(t) = 0.060 \\sin(20t)\"></span> (in metres and seconds).</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine the speed of the object when the displacement is <span class=\"math\" data-latex=\"x = 0.040\\ \\text{m}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the total mechanical energy of the object. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the time it takes for the object to move from <span class=\"math\" data-latex=\"x = 0.040\\ \\text{m}\"></span> to <span class=\"math\" data-latex=\"x = 0\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the acceleration of the object when <span class=\"math\" data-latex=\"x = 0.040\\ \\text{m}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Sketch an energy vs. displacement graph, indicating both kinetic and potential energy variations. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

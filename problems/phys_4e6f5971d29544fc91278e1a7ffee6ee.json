@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_4e6f5971d29544fc91278e1a7ffee6ee",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic green light is incident on a double slit and creates an interference pattern on a screen located at a distance <em>a</em> from the slits. The distance between the slits is <em>d</em> and the fringe spacing of the pattern is <em>b</em>.</p>\n<p>What changes in <em>d </em>and the colour of the light will definitely cause the value of <em>b</em> to decrease?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><em><strong>d</strong></em></p>\n</td>\n<td>\n<p><strong>Colour of light</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Decreases</td>\n<td>Red</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Increases</td>\n<td>Red</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Increases</td>\n<td>Violet</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Decreases</td>\n<td>Violet</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

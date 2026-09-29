@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_7f2ca95391f74b10919e5994954d0c06",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rigid body with a moment of inertia <span class=\"math\" data-latex=\"I\"></span> is initially at rest. A constant net torque <span class=\"math\" data-latex=\"\\Gamma\"></span> is applied to the body. Which expression represents the rotational kinetic energy of the body after time <span class=\"math\" data-latex=\"t\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{\\Gamma t}{I}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\Gamma t\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{\\Gamma^{2} t^{2}}{2 I}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{\\Gamma^{2} t}{2 I}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

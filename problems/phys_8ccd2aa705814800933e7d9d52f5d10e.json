@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_8ccd2aa705814800933e7d9d52f5d10e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> in air is incident normally on a thin soap film of thickness <span class=\"math\" data-latex=\"t\"></span> and refractive index <span class=\"math\" data-latex=\"n\"></span>. The film is surrounded by air on both sides. Which of the following represents a thickness <span class=\"math\" data-latex=\"t\"></span> that results in the maximum intensity of the reflected light?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"t = \\frac{\\lambda}{2n}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"t = \\frac{\\lambda}{4n}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"t = \\frac{\\lambda}{n}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"t = \\frac{3\\lambda}{2n}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

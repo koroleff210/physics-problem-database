@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_7c692bb5cdc34969819899a0db92996b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which is correct for the tangential acceleration of a simple pendulum at small amplitudes?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">It is inversely proportional to displacement.</li><li data-label=\"B\">It is proportional to displacement.</li><li data-label=\"C\">It is opposite to displacement.</li><li data-label=\"D\">It is proportional and opposite to displacement</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

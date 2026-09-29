@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f0334ae4bbd14b96810f77d6ddba361b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When small particles with charge <span class=\"math\" data-latex=\"Q\"></span> are dropped between two horizontal plates in vacuum near the surface of the Earth, they fall downwards with constant velocity. The electric field strength between the plates is <span class=\"math\" data-latex=\"E\"></span>. What is true about the mass of the particles?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"mass = \\frac{EQ}{g}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"mass &gt; \\frac{EQ}{g}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"mass &lt; \\frac{EQ}{g}\"></span></li>\n<li data-label=\"D\">The mass of the particles is negligible.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/82a88aa5ab07e7cce57428a0ec0bfcc6cc5312af843bb3963b8bf8e9ba62a506.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "82a88aa5ab07e7cce57428a0ec0bfcc6cc5312af843bb3963b8bf8e9ba62a506"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_14591be02d244b818459837309c2c941",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a\"><p><strong>8a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"860 \\times 10^{3} = \\frac{\\left ( 8.99\\times 10^{9} \\right )\\left ( 240 \\times 10^{-6} \\right )}{D^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"D \\approx 1.58 \\approx 1.6\"></span> m</p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b\"><p><strong>8b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"370m = \\frac{\\left ( 8.99 \\times 10^{9} \\right )\\left ( 240 \\times 10^{-6} \\right )\\left ( 76 \\times 10^{-9} \\right )}{1.6^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"m \\approx 1.7 \\times 10^{-4}\"></span> kg</p>\n<p>Final answer must be given to 2 significant figures.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p>Initially, the ion is accelerating to the left, so its speed increases.</p>\n<p>As the distance between the ion and the point charge increases, the acceleration of the ion decreases.</p>\n<p>As a result, the speed of the ion keeps increasing, but at a decreasing rate.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"+240 \\: \\mu\"></span>C charge is placed at point A. The distance between point A and point B is <span class=\"math\" data-latex=\"D\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The electric field at point B due to the point charge is <span class=\"math\" data-latex=\"860\"></span> kN C<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>a. Show that <span class=\"math\" data-latex=\"D\"></span> is about <span class=\"math\" data-latex=\"1.6\"></span> m. </p>\n<p>   [2]</p>\n<p>A positive ion is placed and held at point B. The charge of the ion is <span class=\"math\" data-latex=\"+76\"></span> nC. When released, the magnitude of the initial acceleration of the ion is <span class=\"math\" data-latex=\"370\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>b. Determine the mass of the ion. Give your answer to an appropriate number of significant figures.</p>\n<p>   [2]</p>\n<p>c. Describe the motion of the ion when it is released.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

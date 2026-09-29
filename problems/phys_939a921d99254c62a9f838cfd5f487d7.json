@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_939a921d99254c62a9f838cfd5f487d7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes simple harmonic motion. Which quantities of the motion can be simultaneously zero?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Displacement and velocity</li><li data-label=\"B\">Displacement and acceleration</li><li data-label=\"C\">Velocity and acceleration</li><li data-label=\"D\">Displacement, velocity and acceleration</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

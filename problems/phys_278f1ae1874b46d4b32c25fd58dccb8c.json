@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_278f1ae1874b46d4b32c25fd58dccb8c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. For an ideal gas, <span class=\"math\" data-latex=\"\\Delta U = nC_V\\Delta T\"></span>. In an isothermal process, <span class=\"math\" data-latex=\"\\Delta T=0\"></span> so <span class=\"math\" data-latex=\"\\Delta U=0\"></span>. In an adiabatic process <span class=\"math\" data-latex=\"Q=0\"></span> but generally <span class=\"math\" data-latex=\"\\Delta T\\neq 0\"></span>, so <span class=\"math\" data-latex=\"\\Delta U\\neq 0\"></span>.</p>\n<p>B: Incorrect. For an ideal gas, <span class=\"math\" data-latex=\"\\Delta U = nC_V\\Delta T\"></span>. Isothermal implies <span class=\"math\" data-latex=\"\\Delta T=0\"></span> so <span class=\"math\" data-latex=\"\\Delta U=0\"></span>.</p>\n<p>C: Correct (ideal gas). Internal energy depends only on temperature: <span class=\"math\" data-latex=\"\\Delta U=nC_V\\Delta T\"></span>. Isothermal: <span class=\"math\" data-latex=\"\\Delta T=0\\Rightarrow \\Delta U=0\"></span>. Adiabatic: <span class=\"math\" data-latex=\"Q=0\"></span> and typically <span class=\"math\" data-latex=\"\\Delta T\\neq 0\\Rightarrow \\Delta U\\neq 0\"></span>.</p>\n<p>D: Incorrect. This reverses the ideal-gas result. Isothermal: <span class=\"math\" data-latex=\"\\Delta T=0\\Rightarrow \\Delta U=0\"></span>. Adiabatic: <span class=\"math\" data-latex=\"Q=0\"></span> but generally <span class=\"math\" data-latex=\"\\Delta T\\neq 0\\Rightarrow \\Delta U\\neq 0\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following distinguishes an adiabatic process from an isothermal process in terms of internal energy?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\Delta U = 0\"></span> for adiabatic; <span class=\"math\" data-latex=\"\\Delta U \\neq 0\"></span> for isothermal</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\Delta U \\neq 0\"></span> for both</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\Delta U = 0\"></span> for isothermal; <span class=\"math\" data-latex=\"\\Delta U \\neq 0\"></span> for adiabatic</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\Delta U \\neq 0\"></span> for isothermal; <span class=\"math\" data-latex=\"\\Delta U = 0\"></span> for adiabatic</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

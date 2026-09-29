@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_e0805354c323451c9115c4d95692cb57",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A steady current of <span class=\"math\" data-latex=\"2.5\\ \\text{A}\"></span> flows through a circuit for exactly <span class=\"math\" data-latex=\"4\\ \\text{minutes}\"></span>. What is the total quantity of electrical charge that has passed through the circuit during this time?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\ \\text{C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"96\\ \\text{C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"600\\ \\text{C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.6\\ \\text{C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

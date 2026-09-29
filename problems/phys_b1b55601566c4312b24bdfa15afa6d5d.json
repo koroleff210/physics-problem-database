@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b1b55601566c4312b24bdfa15afa6d5d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment monochromatic light of frequency <span class=\"math\" data-latex=\"600\"></span> THz is incident on a single slit of width <span class=\"math\" data-latex=\"0.40\"></span> mm and a diffraction pattern is formed on a screen. Then the slit width is changed to <span class=\"math\" data-latex=\"0.60\"></span> mm. What should be the frequency of the incident light in order for the angle between the central maximum and the first minimum to remain unchanged? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"300\"></span> THz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"400\"></span> THz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"600\"></span> THz</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"900\"></span> THz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

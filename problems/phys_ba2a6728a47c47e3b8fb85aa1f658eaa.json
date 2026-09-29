@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f9ba6ad9a5abb5917a721b652b5d78f0662bc19cd3fe3ff923ccb5d40fef068e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f9ba6ad9a5abb5917a721b652b5d78f0662bc19cd3fe3ff923ccb5d40fef068e"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba2a6728a47c47e3b8fb85aa1f658eaa",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spheres have the same positive charge. A point M is midway between the two spheres.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Along the line joining the spheres, what is true about the electrical field and the electric potential at M?</p>\n<table><tbody><tr><td></td><td><p>Electric field</p></td><td><p>Electric potential</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>zero</p></td><td><p>minimum positive value</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>maximum</p></td><td><p>minimum positive value</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>zero</p></td><td><p>maximum positive value</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>maximum</p></td><td><p>maximum positive value</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

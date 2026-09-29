@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_fd7c353496be4ad280d8c42c88a7f868",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A possible fission reaction is:</p>\n<p></p>\n<p><span class=\"math\" data-latex=\"_{0}^{1}\\textrm{n} + _{\\; \\, 92}^{235}\\textrm{U} \\: \\rightarrow \\:{}  _{\\, \\; 56}^{144}\\textrm{Ba} + _{36}^{89}\\textrm{Kr} + 3\\,{} _{0}^{1}\\textrm{n}\"></span></p>\n<p></p>\n<p>What is true about the nuclear binding energy per nucleon for uranium-235 <span class=\"math\" data-latex=\"(b_{\\textup{U}})\"></span>, barium-144 <span class=\"math\" data-latex=\"(b_{\\textup{Ba}})\"></span>, and krypton-89 <span class=\"math\" data-latex=\"(b_{\\textup{Kr}})\"></span>? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"b_{\\textup{U}}&gt;b_{\\textup{Ba}}&gt;b_{\\textup{Kr}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"b_{\\textup{U}}&gt;b_{\\textup{Kr}}&gt;b_{\\textup{Ba}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"b_{\\textup{Kr}}&gt;b_{\\textup{U}}&gt;b_{\\textup{Ba}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"b_{\\textup{Kr}}&gt;b_{\\textup{Ba}}&gt;b_{\\textup{U}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

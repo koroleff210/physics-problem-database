@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b91a7fda368e39f328447445807ad6a1f22f1ca9881e281a04fff05c6fd3b86e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b91a7fda368e39f328447445807ad6a1f22f1ca9881e281a04fff05c6fd3b86e"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/f487be128f0ccd44034196b95e2abe724afd545f0f5914e94d5e68939152bfe3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f487be128f0ccd44034196b95e2abe724afd545f0f5914e94d5e68939152bfe3"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/25ac6711a21316340d85747526eacdf441f34f49a1a0af809b8f4777713db4a0.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "25ac6711a21316340d85747526eacdf441f34f49a1a0af809b8f4777713db4a0"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3",
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1d95865f62fb4c05ba697d80b11c5178",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«<span class=\"math\" data-latex=\"8.99\\times 10^{9}\\times \\frac{9Q}{0.30^{2}}+\\frac{Q}{0.06^{2}}=3.26\\times 10^{7}\"></span> so» <span class=\"math\" data-latex=\"Q=9.6\\times 10^{-6}\"></span> ✓ C ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"qvB=m\\frac{v^{2}}{R}\"></span> ✓ Hence answer</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Force is perpendicular to the velocity / F acts as centripetal / F does no work / F only changes direction of velocity ✓ <br/>Do not accept reference to centripetal acceleration only</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>loss of energy / speed reduced ✓ so radius decreases ✓ <br/>MP2 scores only if MP1 is scored.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Two identical conducting spheres X and Y that carry positive charges are separated by a centre-to-centre distance of 24.0 cm in a vacuum. The charge on X is 9Q and the charge on Y is Q. Point R is 6.0 cm from the centre of Y, as shown.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The resultant electric field at R is 32.6 MN C<sup>−1</sup>. Determine Q, giving an appropriate unit.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A particle of mass m and positive charge q moves on a circular path with speed v in a vacuum. A uniform magnetic field B is directed into the plane of the page.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the radius <span class=\"math\" data-latex=\"R\"></span> of the circular path is given by <span class=\"math\" data-latex=\"R=\\frac{mv}{qB}\"></span>.<br/><br/> [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Suggest why the speed of the particle stays constant, even though a force acts on the particle. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The particle in (b), now moving in a region of magnetic field in air, follows the path shown.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p><br/>Explain the shape of this path.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

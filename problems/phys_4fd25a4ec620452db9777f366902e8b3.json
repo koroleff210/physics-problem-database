@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_4fd25a4ec620452db9777f366902e8b3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The surface temperature of star P is twice the surface temperature of star Q and its luminosity is four times the luminosity of star Q.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textup{radius of star Q}}{\\textup{radius of star P}}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

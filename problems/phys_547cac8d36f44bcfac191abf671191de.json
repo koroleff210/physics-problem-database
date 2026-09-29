@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/81696667f15a4ff514bb1e4b65f9cdfa30a0b643815a06de20a8bbb48f5b1ad6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "81696667f15a4ff514bb1e4b65f9cdfa30a0b643815a06de20a8bbb48f5b1ad6"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_547cac8d36f44bcfac191abf671191de",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pendulum oscillates between positions X and Y.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following statements is true about the motion of the pendulum bob?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The net force on the pendulum bob at positions X and Y are zero.</li>\n<li data-label=\"B\">The direction of the net force and the direction of the pendulum bob’s velocity are always the same. </li>\n<li data-label=\"C\">The acceleration of the pendulum bob is never zero.</li>\n<li data-label=\"D\">The velocity and the acceleration of the pendulum bob are directly proportional. </li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

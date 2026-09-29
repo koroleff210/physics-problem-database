@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_7c3002c123c34a8a8d312d206460cc39",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>B: The background count rate <span class=\"math\" data-latex=\"B\"></span> is constant. Let the initial corrected activity be <span class=\"math\" data-latex=\"A_0\"></span>.<br/>At <span class=\"math\" data-latex=\"t=0\"></span>: <span class=\"math\" data-latex=\"840 - B = A_0\"></span><br/>At <span class=\"math\" data-latex=\"t=10\"></span>: <span class=\"math\" data-latex=\"440 - B = A_0 \\times (1/2)\"></span><br/>At <span class=\"math\" data-latex=\"t=20\"></span>: <span class=\"math\" data-latex=\"240 - B = A_0 \\times (1/4)\"></span><br/>Solving for <span class=\"math\" data-latex=\"B\"></span>: <span class=\"math\" data-latex=\"840 - B = 2(440 - B) \\implies 840 - B = 880 - 2B \\implies B = 40\\text{ counts minute}^{-1}\"></span>.<br/>The corrected activities are <span class=\"math\" data-latex=\"800, 400, 200\\dots\"></span> which indicates a half-life of <span class=\"math\" data-latex=\"10\\text{ minutes}\"></span>.<br/>To reach a total count rate of <span class=\"math\" data-latex=\"140\"></span>, the corrected activity must be <span class=\"math\" data-latex=\"140 - 40 = 100\\text{ counts minute}^{-1}\"></span>.<br/>Since <span class=\"math\" data-latex=\"100\"></span> is half of the value at <span class=\"math\" data-latex=\"20\"></span> minutes (<span class=\"math\" data-latex=\"200\"></span>), it occurs after one additional half-life.<br/><span class=\"math\" data-latex=\"20 + 10 = 30\\text{ minutes}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student uses a Geiger-Müller counter to monitor the decay of a radioactive isotope in a laboratory. The table below shows the total count rate recorded at different times, which includes a constant contribution from background radiation.</p>\n<table><thead><tr><th>Time / minutes</th><th>Total count rate / <span class=\"math\" data-latex=\"\\text{counts minute}^{-1}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"0\"></span></td><td><span class=\"math\" data-latex=\"840\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"10\"></span></td><td><span class=\"math\" data-latex=\"440\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"20\"></span></td><td><span class=\"math\" data-latex=\"240\"></span></td></tr></tbody></table>\n<p>After how many minutes from the start of the experiment will the total count rate recorded by the student be <span class=\"math\" data-latex=\"140\\text{ counts minute}^{-1}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"25\\text{ minutes}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"30\\text{ minutes}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"40\\text{ minutes}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"50\\text{ minutes}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

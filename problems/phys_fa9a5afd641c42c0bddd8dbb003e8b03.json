@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fa9a5afd641c42c0bddd8dbb003e8b03",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about the Carnot cycle are:</p>\n<p>I.   The Carnot cycle is reversible.<br/>II.  The net entropy change of the surroundings of the gas over one cycle is positive.<br/>III. Heat transfer takes place in only two stages of the cycle</p>\n<p>Which statements are correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II</li><li data-label=\"B\">I and III</li><li data-label=\"C\">II and III</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_f4971292adbf415f9f15b746456088c5",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Substitute into the displacement equation <span class=\"math\" data-latex=\"x(0) = x_0 \\sin(\\phi)\"></span>: <span class=\"math\" data-latex=\"0.045 = 0.090 \\sin(\\phi) \\Rightarrow \\sin(\\phi) = 0.5\"></span> [1 mark]<br/>- Calculate the phase angle, noting that <span class=\"math\" data-latex=\"v(0) &gt; 0\"></span> requires <span class=\"math\" data-latex=\"\\cos(\\phi) &gt; 0\"></span>: <span class=\"math\" data-latex=\"\\phi = \\frac{\\pi}{6} \\approx 0.524\\ \\text{rad}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the equation: <span class=\"math\" data-latex=\"x(t) = 0.090 \\sin(7.00t + 0.524)\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Substitute values into the velocity formula <span class=\"math\" data-latex=\"v(0) = \\omega x_0 \\cos(\\phi)\"></span>: <span class=\"math\" data-latex=\"v(0) = 7.00 \\times 0.090 \\times \\cos(0.524)\"></span> [1 mark]<br/>- Calculate the result: <span class=\"math\" data-latex=\"v(0) = 0.546\\ \\text{m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate the potential energy: <span class=\"math\" data-latex=\"E_p = \\frac{1}{2} m \\omega^2 x^2 = 0.5 \\times 0.35 \\times 7.00^2 \\times 0.045^2 = 0.0174\\ \\text{J}\"></span> [1 mark]<br/>- Calculate the kinetic energy: <span class=\"math\" data-latex=\"E_k = E_T - E_p = 0.5 \\times 0.35 \\times 7.00^2 \\times (0.090^2 - 0.045^2) = 0.0521\\ \\text{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Explain that the phase angle determines the starting position and direction of motion at <span class=\"math\" data-latex=\"t = 0\"></span>, allowing differentiation between systems that are otherwise identical in frequency and amplitude. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.35\\ \\text{kg}\"></span> particle is oscillating in simple harmonic motion with an angular frequency of <span class=\"math\" data-latex=\"7.00\\ \\text{rad s}^{-1}\"></span> and amplitude <span class=\"math\" data-latex=\"0.090\\ \\text{m}\"></span>. At <span class=\"math\" data-latex=\"t = 0\"></span>, the displacement is <span class=\"math\" data-latex=\"x(0) = 0.045\\ \\text{m}\"></span> and the velocity is positive.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Determine the phase constant <span class=\"math\" data-latex=\"\\phi\"></span> in radians.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Write the complete equation for displacement <span class=\"math\" data-latex=\"x(t)\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the velocity at <span class=\"math\" data-latex=\"t = 0\"></span> using the phase angle.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the kinetic and potential energies at <span class=\"math\" data-latex=\"t = 0\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain the significance of phase angle in comparing two SHM systems with identical frequency and amplitude.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

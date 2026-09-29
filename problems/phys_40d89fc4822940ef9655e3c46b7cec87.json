@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_40d89fc4822940ef9655e3c46b7cec87",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A radioactive sample has a decay constant <span class=\"math\" data-latex=\"\\lambda\"></span> (measured in <span class=\"math\" data-latex=\"\\mathrm{s}^{-1}\"></span>). Which of the following expressions represents the time, in seconds, required for the activity of the sample to decrease to one-tenth of its initial activity?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{10\\lambda}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{\\ln 10}{\\lambda}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{\\ln 2}{10\\lambda}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{\\lambda}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

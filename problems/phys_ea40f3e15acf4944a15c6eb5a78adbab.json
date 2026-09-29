@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_ea40f3e15acf4944a15c6eb5a78adbab",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would reduce the sound amplitude rather than produce especially loud resonance.</p>\n<p>B: Reflection occurs, but loudness maxima occur only when the incident and reflected waves interfere constructively to produce resonance.</p>\n<p>C: At certain pipe lengths the reflected wave returns in phase with the incident wave, producing a standing wave with large amplitude (resonance), so the sound is especially loud.</p>\n<p>D: For a closed pipe, resonance lengths are odd multiples of <span class=\"math\" data-latex=\"\\frac{\\lambda}{4}\"></span>, not integer multiples of <span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span> (which corresponds to open-open or closed-closed conditions).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker emits a sound of constant frequency toward a closed pipe. The sound becomes especially loud at certain pipe lengths. Why does this occur?</p><ol class=\"mcq-options\"><li data-label=\"A\">Destructive interference of incident and reflected waves</li><li data-label=\"B\">Reflection of sound at the open end</li><li data-label=\"C\">Constructive interference forming a standing wave</li><li data-label=\"D\">Resonance occurs when the pipe length equals an integer multiple of <span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

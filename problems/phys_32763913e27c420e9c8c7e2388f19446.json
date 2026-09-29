@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_32763913e27c420e9c8c7e2388f19446",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The electric potential at point A is <span class=\"math\" data-latex=\"-50\"></span> V and the electric potential at point B is <span class=\"math\" data-latex=\"+150\"></span> V. An electron is moved from point A to point B and then back to point A. What is the total work done and what is the magnitude of the work done when moving the electron from point B to point A?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Total work done</strong></p>\n</td>\n<td>\n<p><strong>Magnitude of the work done when the electron is moved from B to A</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>0</td>\n<td><span class=\"math\" data-latex=\"0.032\"></span> fJ</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"0.64\"></span> fJ</td>\n<td><span class=\"math\" data-latex=\"0.032\"></span> fJ</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>0</td>\n<td><span class=\"math\" data-latex=\"0.32\"></span> fJ</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"0.64\"></span> fJ</td>\n<td><span class=\"math\" data-latex=\"0.32\"></span> fJ</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

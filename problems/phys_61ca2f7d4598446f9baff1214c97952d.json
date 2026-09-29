@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_61ca2f7d4598446f9baff1214c97952d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The gravitational potential energy of a space telescope orbiting a planet at a distance <span class=\"math\" data-latex=\"R\"></span> from the surface of the planet is <span class=\"math\" data-latex=\"E\"></span> and the weight of the space telescope is <span class=\"math\" data-latex=\"W\"></span>. The radius of the planet is <span class=\"math\" data-latex=\"R\"></span>. What are the gravitational potential energy and the weight of the satellite at the surface of the planet?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Gravitational potential energy</strong></p>\n</td>\n<td>\n<p><strong>Weight</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"2E\"></span></td>\n<td><span class=\"math\" data-latex=\"2W\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"2E\"></span></td>\n<td><span class=\"math\" data-latex=\"4W\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"4E\"></span></td>\n<td><span class=\"math\" data-latex=\"2W\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"4E\"></span></td>\n<td><span class=\"math\" data-latex=\"4W\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

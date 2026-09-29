@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": null,
+  "id": "phys_d42b846afd864bfb82a9c36d4673d2c1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This describes the role of control rods, not the moderator.</p>\n<p>B: Moderators slow down 'fast' neutrons to 'thermal' speeds, as <span class=\"math\" data-latex=\"^{235}U\"></span> has a higher capture cross-section for slower neutrons.</p>\n<p>C: This describes the role of the coolant, though in some designs the same substance may perform both roles, the specific function of a 'moderator' is speed reduction.</p>\n<p>D: Neutrons are uncharged and do not need to overcome electrostatic repulsion; furthermore, slower neutrons are actually preferred for fission in these reactors.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A moderator is used within the core of a thermal nuclear reactor. What is the primary purpose of this component?</p><ol class=\"mcq-options\"><li data-label=\"A\">To absorb excess neutrons to ensure the reaction remains at a constant rate</li><li data-label=\"B\">To reduce the kinetic energy of fission neutrons to increase the probability of further fission</li><li data-label=\"C\">To provide a cooling medium that transfers thermal energy to the steam generators</li><li data-label=\"D\">To accelerate neutrons so they have sufficient energy to overcome the electrostatic repulsion of the fuel nuclei</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

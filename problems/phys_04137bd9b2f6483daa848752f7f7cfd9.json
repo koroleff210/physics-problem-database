@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_04137bd9b2f6483daa848752f7f7cfd9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is projected at an angle to the horizonal on Earth reaching a maximum height H and a maximum range R. The same ball is projected at the same angle and speed on a planet where the acceleration due to gravity is three times that on Earth. Resistance effects are negligible.</p>\n<p>What is the maximum range and the maximum height reached on that planet?</p>\n<table><tbody><tr><td></td><td><p>Maximum range</p></td><td><p>Maximum height<br/>reached</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{R}{3}\"></span></p></td><td><p><span class=\"math\" data-latex=\"\\frac{H}{3}\"></span></p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p><span class=\"math\" data-latex=\"R\"></span></p></td><td><p><span class=\"math\" data-latex=\"\\frac{H}{3}\"></span></p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p><span class=\"math\" data-latex=\"R\"></span></p></td><td><p><span class=\"math\" data-latex=\"\\frac{H}{9}\"></span></p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p><span class=\"math\" data-latex=\"\\frac{R}{3}\"></span></p></td><td><p><span class=\"math\" data-latex=\"\\frac{H}{9}\"></span></p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

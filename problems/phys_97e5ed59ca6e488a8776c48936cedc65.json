@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e9826135d0a8d7864c165a9ba80b998afbf49411ec3acbe36201c0077b0f649b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e9826135d0a8d7864c165a9ba80b998afbf49411ec3acbe36201c0077b0f649b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/3e65b7d39d4c28c11dbec3d5278f6aabc007261a31fda6fec663cfd16340d1b3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e65b7d39d4c28c11dbec3d5278f6aabc007261a31fda6fec663cfd16340d1b3"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_97e5ed59ca6e488a8776c48936cedc65",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALT 1 KE before is <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 3.0\\times 6.0^{2}=54 J\"></span> ✓ KE after is <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 3.0\\times 2.0^{2}+\\frac{1}{2}\\times 6.0\\times 4.0^{2}=54 J\"></span> ✓   ALT 2 In elastic collisions relative velocity remains constant in magnitude ✓ |6 − 0|=|−2 − 4| ✓   Ignore references to conservation of momentum</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"F=\\frac{6.0\\times 4.0}{40\\times 10^{-3}}\"></span>  OR  <span class=\"math\" data-latex=\"F=\\frac{3.0\\times 6.0--2.0}{40\\times 10^{-3}}\"></span> ✓ <span class=\"math\" data-latex=\"F=6.0\\times 10^{2} N\"></span> ✓   Allow ECF from a wrong time interval. If the final answer is incorrect, award MP1 for [1max] for any attempt to use rate of change of momentum or mass × acceleration with wrong data values for masses and velocities.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Alternative 1 <span class=\"math\" data-latex=\"Δ {E}_{K} = \\frac{1}{2} 6.0 \\cdot  {4.0}^{2}\"></span>  OR  <span class=\"math\" data-latex=\"48J\"></span> ✓ <span class=\"math\" data-latex=\"P=\"></span>«<span class=\"math\" data-latex=\"\\frac{Δ {E}_{K}}{Δ t} =\"></span>»<span class=\"math\" data-latex=\"\\frac{48}{40\\times 10^{-3}}=1200 W\"></span> ✓ Alternative 2 <span class=\"math\" data-latex=\"P=F\\frac{u+v}{2}\"></span> ✓ <span class=\"math\" data-latex=\"P=600\\times \\frac{0+4.0}{2}=1200 W\"></span> ✓   Award [2] if 1200 «W» is seen as the answer without working Award [1] for 2400 W. Allow ECF from bi) in ALT 2.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>KE is <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 3.0+6.0\\times 2.0^{2}=18 J\"></span> ✓ PE is <span class=\"math\" data-latex=\"54-18=36 J\"></span> ✓   Allow ECF from MP1</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A cart X of mass 3.0 kg moving at 6.0 m s<sup>−1</sup> collides with a stationary cart Y of mass 6.0 kg. A spring is attached to X as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the velocities of X and Y before, during and after the collision.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The collision lasted for 40 ms.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the collision is elastic. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> the magnitude of the average force exerted on Y, [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> the average power delivered to Y, [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> the elastic energy stored in the spring at t = 30 ms. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

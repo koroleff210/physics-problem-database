@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4ac3b878df5c4816985e7ddd69bc7b2c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass oscillating in simple harmonic motion on the end of a spring has an amplitude <span class=\"math\" data-latex=\"x\"></span><sub>0</sub> and a total energy E<sub>T</sub>. The mass on the spring is doubled and made to oscillate with the same amplitude <span class=\"math\" data-latex=\"x\"></span><sub>0</sub>.</p>\n<p>What is the total energy of the oscillating system after the change?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">E<sub>T</sub></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span>E<sub>T</sub></li><li data-label=\"C\">2E<sub>T</sub></li><li data-label=\"D\">4E<sub>T</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

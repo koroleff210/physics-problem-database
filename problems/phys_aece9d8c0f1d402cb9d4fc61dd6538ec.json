@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/77abd89d849d8ac3c0d36e7e8fee4b1558c62e1bafd37a20caa323e98852653b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "77abd89d849d8ac3c0d36e7e8fee4b1558c62e1bafd37a20caa323e98852653b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/fb4771835b677bb4cb75b0e3f9bf75913da68dc9c2154e74f545835ed7e3250a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fb4771835b677bb4cb75b0e3f9bf75913da68dc9c2154e74f545835ed7e3250a"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/f9a16bbcd2d551dfe42c263c1c53ad201c0827bd84964e1ad8f3037e50e445f3.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "f9a16bbcd2d551dfe42c263c1c53ad201c0827bd84964e1ad8f3037e50e445f3"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_aece9d8c0f1d402cb9d4fc61dd6538ec",
+  "level": "sl_hl",
+  "marks": 17,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a(i)\"><p><strong>5a(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\Delta p\"></span> = (0.12)(2.5) = 0.3 kg m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><em>F</em> = <span class=\"math\" data-latex=\"\\frac{0.3}{267 \\times 10^{-3}}\"></span></p>\n<p><em>F</em> <span class=\"math\" data-latex=\"\\approx\"></span> 1.1 N</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5a(ii)\"><p><strong>5a(ii)</strong></p><p></p>\n<p>The force exerted by the girl's hand on the toy car must be equal to and opposite in direction to the force exerted by the toy car on the girl's hand. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b(i)\"><p><strong>5b(i)</strong></p><p>Momentum is conserved, so</p>\n<p>0.12 <span class=\"math\" data-latex=\"\\times\"></span> 2.5 = 0.4 <span class=\"math\" data-latex=\"\\times\"></span> 0.12 <span class=\"math\" data-latex=\"\\times\"></span> 2.5 + <span class=\"math\" data-latex=\"m_{b}\"></span> <span class=\"math\" data-latex=\"\\times\"></span> 2.6</p>\n<p><span class=\"math\" data-latex=\"m_{b}\"></span> = 0.0692 kg <span class=\"math\" data-latex=\"\\approx\"></span> 70 g</p>\n<p>Calculated answer should be given to at least 2 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b(ii)\"><p><strong>5b(ii)</strong></p><p><em></em></p>\n<p>In both types of collisions momentum is conserved.</p>\n<p>In an elastic collision kinetic energy is conserved, while in an inelastic collision part of the kinetic energy is transferred to other forms of energy.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b(iii)\"><p><strong>5b(iii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"E_{K}\"></span> before the collision:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2} \\times 0.12 \\times 2.5^{2} = 0.375\"></span> J</p>\n<p><span class=\"math\" data-latex=\"E_{K}\"></span> after the collision:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2} \\times 0.12 \\times (2.5 \\times 0.4)^{2} + \\frac{1}{2} \\times 0.07 \\times 2.6^{2} = 0.2966\"></span> J</p>\n<p>0.2966 J &lt; 0.375 J</p>\n<p>So the collision is inelastic.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c(i)\"><p><strong>5c(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c(ii)\"><p><strong>5c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{net}\"></span> = <em>mg</em>sin(13<span class=\"math\" data-latex=\"^{o}\"></span>) + <span class=\"math\" data-latex=\"\\mu_{d}\"></span><em>mg</em>cos(13<span class=\"math\" data-latex=\"^{o}\"></span>)</p>\n<p><span class=\"math\" data-latex=\"0.12 \\times 9.81 \\times sin13^{o} + 0.17 \\times 0.12 \\times 9.81 \\times cos13^{o}\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{net} \\approx 0.46\"></span> N</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A girl pushes a toy car of mass 0.12 kg on a flat, frictionless surface. The car starts from rest and it reaches a speed of 2.5 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The toy car is in contact with the girl's hand for 267 ms.</p>\n<p></p>\n<p>a.</p>\n<p>i. Calculate the average force exerted by the girl's hand on the car.</p>\n<p>  [2]</p>\n<p>ii. State how Newton's third law applies as the girl pushes the toy car. </p>\n<p>  [1]</p>\n<p>b. After the girl pushes the car, it collides with a stationary wooden block. The direction of the car's momentum does not change, but its magnitude decreases by 60%. The speed of the wooden block after the collision is 2.6 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>i. Show that the mass of the wooden block is approximately 70 g.</p>\n<p>  [3]</p>\n<p>ii. State one similarity and one difference between an inelastic and an elastic collision.</p>\n<p>  [2]</p>\n<p>iii. Deduce that the collision between the toy car and the block is inelastic.</p>\n<p>  [3] </p>\n<p>c. The girl pushes the toy car a second time along the same, frictionless surface. After the car loses contact with the girl's hand it reaches a ramp. At this moment, the car's wheels are blocked and stop turning, so the car slides up the ramp. The ramp makes an angle of <span class=\"math\" data-latex=\"13^{o}\"></span> with the horizontal. The dynamic friction coefficient between the ramp's surface and the wheels of the car is <span class=\"math\" data-latex=\"0.17\"></span>. Assume that all wheels experience the same normal reaction force and friction force.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>i. Draw a fully labeled free-body diagram to represent the forces acting on the toy car as it travels up the ramp.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [3]</p>\n<p></p>\n<p>ii. Calculate the magnitude of the net force acting on the toy car as it travels up the ramp.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

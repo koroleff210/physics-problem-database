@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b66b991b51f562da56031d4340c8cbf5c33e9e7ce2d825b312337ed28ca0c2da.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b66b991b51f562da56031d4340c8cbf5c33e9e7ce2d825b312337ed28ca0c2da"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/89f31f3e358943f3fb07b7b17a265fe88aab2f77480961efc5a80ab1ba5651c6.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "89f31f3e358943f3fb07b7b17a265fe88aab2f77480961efc5a80ab1ba5651c6"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/12cdad15b824551be4949c34f9eff69ecaaa4d90aefb850655c72db20392fb34.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "12cdad15b824551be4949c34f9eff69ecaaa4d90aefb850655c72db20392fb34"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_0fd65cecbc6b4fc58e134cd514b5c5da",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«A wave where the» displacement of particles/oscillations of particles/movement of particles/vibrations of particles is perpendicular/normal to the direction of energy transfer/wave travel/wave velocity/wave movement/wave propagation ✓   Allow medium, material, water, molecules, or atoms for particles.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>v = «0.50 × 16 =» 8.0 «m s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>P at (8, 1.2) ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>ALTERNATIVE 1<br/>Phase difference is <span class=\"math\" data-latex=\"\\frac{2\\pi}{\\lambda}\"></span> × <span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span> ✓<br/>«= <span class=\"math\" data-latex=\"\\pi\"></span>» ✓    ALTERNATIVE 2<br/>One wavelength/period represents «phase difference» of 2<span class=\"math\" data-latex=\"\\pi\"></span> and «corks» are ½ wavelength/period apart so phase difference is <span class=\"math\" data-latex=\"\\pi\"></span>/OWTTE ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>light acts as a wave «and not a particle in this situation» ✓ light at slits will diffract / create a diffraction pattern ✓ light passing through slits will interfere / create an interference pattern «creating bright and dark spots» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Ue of s = <span class=\"math\" data-latex=\"\\frac{λ D}{d} ⇒ λ\"></span> = <span class=\"math\" data-latex=\"\\frac{sd}{D}\"></span>  OR  s = <span class=\"math\" data-latex=\"\\frac{n λ D}{d} ⇒ λ\"></span> = <span class=\"math\" data-latex=\"\\frac{sd}{nD}\"></span> ✓ <span class=\"math\" data-latex=\"\\lambda\"></span> = «<span class=\"math\" data-latex=\"\\frac{0.567\\times 10^{-2}\\times 0.18\\times 10^{-3}}{2.2}\"></span> =» 4.6 × 10<sup>−7</sup> «m» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A transverse water wave travels to the right. The diagram shows the shape of the surface of the water at time t = 0. P and Q show two corks floating on the surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State what is meant by a transverse wave. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> The frequency of the wave is 0.50 Hz. Calculate the speed of the wave. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Plot on the diagram the position of P at time t = 0.50 s. [1]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> Sketch the phase difference between the oscillations of the two corks is <span class=\"math\" data-latex=\"\\pi\"></span> radians. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Monochromatic light is incident on two very narrow slits. The light that passes through the slits is observed on a screen. M is directly opposite the midpoint of the slits. <span class=\"math\" data-latex=\"x\"></span> represents the displacement from M in the direction shown.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>A student argues that what will be observed on the screen will be a total of two bright spots opposite the slits. Explain why the student’s argument is incorrect.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The graph shows the actual variation with displacement <span class=\"math\" data-latex=\"x\"></span> from M of the intensity of the light on the screen. <span class=\"math\" data-latex=\"I_{0}\"></span> is the intensity of light at the screen from one slit only.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>The slits are separated by a distance of 0.18 mm and the distance to the screen is 2.2 m. Determine, in m, the wavelength of light.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

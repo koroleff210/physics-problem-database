@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6f5b126fda7a8098a020f64a070c1f95613d39c4391ef43db983507242c0d530.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6f5b126fda7a8098a020f64a070c1f95613d39c4391ef43db983507242c0d530"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_c5c922152af241c99b3cafdad7792ecf",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The angle θ between a ramp and a horizontal surface slowly increases from zero. An object on the ramp does not slide as θ increases.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The frictional force on the object is</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">constant.</li><li data-label=\"B\">negligible.</li><li data-label=\"C\">proportional to cos θ.</li><li data-label=\"D\">proportional to sin θ.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

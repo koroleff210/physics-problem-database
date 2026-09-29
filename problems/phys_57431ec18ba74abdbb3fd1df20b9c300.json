@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_57431ec18ba74abdbb3fd1df20b9c300",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What type of interference occurs at a point where two waves meet in phase?</p><ol class=\"mcq-options\"><li data-label=\"A\">Destructive interference</li><li data-label=\"B\">Constructive interference</li><li data-label=\"C\">No interference</li><li data-label=\"D\">Standing wave formation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

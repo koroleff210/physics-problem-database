@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/db180ee095ef4ff362eb48d6734cc83e2981040fa01ddc72a84db7202b102caa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "db180ee095ef4ff362eb48d6734cc83e2981040fa01ddc72a84db7202b102caa"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e4138a7847c949a6be6fac2991870fbf",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with distance of a horizontal force acting on an object. The object, initially at rest, moves horizontally through a distance of <span class=\"math\" data-latex=\"50 m\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A constant frictional force of <span class=\"math\" data-latex=\"2.0 N\"></span> opposes the motion. What is the final kinetic energy of the object after it has moved <span class=\"math\" data-latex=\"50 m\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"100 J\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"500 J\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"600 J\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"1100 J\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

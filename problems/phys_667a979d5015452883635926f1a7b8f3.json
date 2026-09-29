@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_667a979d5015452883635926f1a7b8f3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The peak wavelength emitted by a star is <span class=\"math\" data-latex=\"290\\: \\textup{nm}\"></span> and the radius of the star is <span class=\"math\" data-latex=\"2 \\times 10^{9}\\: \\textup{m}\"></span>.</p>\n<p>What is the best estimate for the luminosity of the star?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"3 \\times 10^{28}\\: \\textup{W}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"3 \\times 10^{24}\\: \\textup{W}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"6 \\times 10^{28}\\: \\textup{W}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"6 \\times 10^{24}\\: \\textup{W}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

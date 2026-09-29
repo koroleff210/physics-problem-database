@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d463cab35338556f48435774e180ac88ef414ed08a62f34c5e5417fd59676231.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d463cab35338556f48435774e180ac88ef414ed08a62f34c5e5417fd59676231"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_cec983e7dfcb4c6aa235f27ff1edccfa",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows three energy levels in an atom.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Two photons are incident, in quick succession, on an electron that is in the ground state of the atom. The energy of the first photon is are <span class=\"math\" data-latex=\"5.2\"></span> eV and the energy of the second photon is <span class=\"math\" data-latex=\"2.0\"></span> eV.</p>\n<p>What is the effect of these two photons on the electron?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The electron moves to the first excited state, but does not move to the second excited state.</li>\n<li data-label=\"B\">The electron first moves to the first excited state and then moves to the second excited state. </li>\n<li data-label=\"C\">The electron moves directly to the second excited state.</li>\n<li data-label=\"D\">The electron remains in the ground state.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

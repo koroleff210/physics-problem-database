@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_9f10b7f657b247b0ad9692c772c63f1b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere of density <span class=\"math\" data-latex=\"\\rho\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> rests on the bottom of a tank of water. The buoyancy force on the sphere is <span class=\"math\" data-latex=\"F_{1}\"></span>.</p>\n<p>A sphere of density <span class=\"math\" data-latex=\"2\\rho\"></span> and radius <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span> is at the bottom of the same tank. The buoyancy force on the second sphere is <span class=\"math\" data-latex=\"F_{2}\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{F_{1}}{F_{2}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">4</li><li data-label=\"C\">8</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9b642752810cd78b056a420b50e7db627376ce0ce545b262130104d9b4a452e0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9b642752810cd78b056a420b50e7db627376ce0ce545b262130104d9b4a452e0"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c6056e95d45e50bf9de0d9715dec53fef8c0d2e6c5235ce5d9762f5e1a6df16a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c6056e95d45e50bf9de0d9715dec53fef8c0d2e6c5235ce5d9762f5e1a6df16a"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_3e146794e6e04bbcb1fd9d416e3f7d6a",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><sup>241</sup><sub>95</sub>Am ✓ <sup>237</sup><sub>93</sub>Np+<sup>4</sup><sub>2</sub>He ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Alpha particles only travel a few cm in air / penetration of alpha particles is poor (and will not escape the chamber) ✓ OWTTE</p>\n<p>The initial activity of the source is 42 kBq. 33% of the alpha particles emitted by this source enter the chamber and form an ion pair.</p>\n<p>Each alpha particle has an initial kinetic energy of 5.5 MeV.</p>\n<p>The energy required to form one ion pair is 15 eV.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Each alpha gives rise to <span class=\"math\" data-latex=\"\\frac{5.5\\times 10^{6}}{15}=3.67\\times 10^{5}\"></span> ion pairs ✓ So <span class=\"math\" data-latex=\"\\frac{3.67\\times 10^{5}\\times 42000}{3}=5.13\\times 10^{9}\"></span> ion pairs per second ✓ current <span class=\"math\" data-latex=\"=1.6\\times 10^{-19}\\times 5.13\\times 10^{9}=0.82\\times 10^{-9}\"></span> «A» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A smoke detector uses the radioactive nuclide americium-241.</p>\n<p>The americium is contained in a chamber that is open to the air. There are two electrodes in the chamber that are connected to a power supply and a current sensor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Americium-241 emits alpha particles that ionize the air in the chamber. Each ionization forms one positive ion and one electron; these are called an ion pair. The electrons and the positive ions move towards the electrodes and the sensor detects a current in the air.</p>\n<p>When smoke enters the chamber, fewer ion pairs are formed and the current in the sensor decreases, sounding an alarm.</p>\n<p>The chamber is 0.10 m in each dimension.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A nucleus of americium-241 has 146 neutrons. This nuclide decays to neptunium through alpha emission.</p>\n<p>Complete the nuclear equation for this decay.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline why the radioactive source is safe for use in a house. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the maximum current in the chamber due to the electrons when there is no smoke in the chamber. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_3a9080d576e4427cb5084e5d742981af",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Uranium that contains a higher percentage of U-235 than natural uranium.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- U-235 is the fissile isotope that can undergo fission with thermal neutrons.<br/>[1 mark]<br/>- Natural uranium contains mostly U-238, which does not easily fission.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>U-235.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A reactor uses enriched uranium fuel.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term “enriched uranium”.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State why enrichment is necessary for nuclear fission to occur efficiently.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Identify the isotope that is increased in the enrichment process.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

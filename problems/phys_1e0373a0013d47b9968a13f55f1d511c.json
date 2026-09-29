@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_1e0373a0013d47b9968a13f55f1d511c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A suitable material for use as a moderator in a nuclear reactor is...<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">cadmium.</li><li data-label=\"B\">concrete.</li><li data-label=\"C\">uranium-238.</li><li data-label=\"D\">water.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

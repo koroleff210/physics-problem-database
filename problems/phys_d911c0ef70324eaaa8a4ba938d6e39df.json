@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/104b3fa5eedbbddc9ecd5862bacd9727fbfa2e8b56d5e991c9c86d81fd7bf48a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "104b3fa5eedbbddc9ecd5862bacd9727fbfa2e8b56d5e991c9c86d81fd7bf48a"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d911c0ef70324eaaa8a4ba938d6e39df",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a(i)\"><p><strong>a(i)</strong></p><p>zero ✓</p></section><section class=\"markscheme-part\" data-label=\"a(ii)\"><p><strong>a(ii)</strong></p><p>Blades exert a downward force on the air ✓</p>\n<p><br/>air exerts an equal and opposite force on the blades «by Newton’s third law»<br/>OR<br/>air exerts a reaction force on the blades «by Newton’s third law» ✓</p>\n<p><br/>Downward direction required for MP1.</p></section><section class=\"markscheme-part\" data-label=\"a(iii)\"><p><strong>a(iii)</strong></p><p>«lift force/change of momentum in one second» <span class=\"math\" data-latex=\"=1.7v\"></span> ✓ <span class=\"math\" data-latex=\"1.7v=0.95+0.45\\times 9.81\"></span> ✓ <span class=\"math\" data-latex=\"v=8.1ms^{-1}\"></span> AND answer expressed to <span class=\"math\" data-latex=\"2\"></span> sf only ✓ Allow <span class=\"math\" data-latex=\"8.2\"></span> from <span class=\"math\" data-latex=\"g=10 ms^{-2}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>vertical force = lift force – weight OR <span class=\"math\" data-latex=\"=0.45\\times 9.81\"></span> OR <span class=\"math\" data-latex=\"=4.4 N\"></span>✓ acceleration<span class=\"math\" data-latex=\"=\\frac{0.45\\times 9.81}{0.95}=4.6 ms^{-2}\"></span>✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A company delivers packages to customers using a small unmanned aircraft. Rotating horizontal blades exert a force on the surrounding air. The air above the aircraft is initially stationary.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The air is propelled vertically downwards with speed <span class=\"math\" data-latex=\"v\"></span>. The aircraft hovers motionless above the ground. A package is suspended from the aircraft on a string. The mass of the aircraft is <span class=\"math\" data-latex=\"0.95 kg\"></span> and the combined mass of the package and string is <span class=\"math\" data-latex=\"0.45 kg\"></span>. The mass of air pushed downwards by the blades in one second is <span class=\"math\" data-latex=\"1.7 kg\"></span>.</p></section><section class=\"question-part\" data-label=\"a(i)\"><p><strong>a(i)</strong> State the value of the resultant force on the aircraft when hovering. [1]</p></section><section class=\"question-part\" data-label=\"a(ii)\"><p><strong>a(ii)</strong> Outline, by reference to Newton’s third law, how the upward lift force on the aircraft is achieved. [2]</p></section><section class=\"question-part\" data-label=\"a(iii)\"><p><strong>a(iii)</strong> Determine <span class=\"math\" data-latex=\"v\"></span>. State your answer to an appropriate number of significant figures. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The package and string are now released and fall to the ground. The lift force on the aircraft remains unchanged. Calculate the initial acceleration of the aircraft. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e9f875138568752fa5833dd13da65c837966881897e4e8dcf646f25c830e6011.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e9f875138568752fa5833dd13da65c837966881897e4e8dcf646f25c830e6011"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/2af6909511f488c0a0f9ff5d47e9bb1328379fed0d62eecd964294fa97d7ea9e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2af6909511f488c0a0f9ff5d47e9bb1328379fed0d62eecd964294fa97d7ea9e"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_1c83ac4785ad4d97a0e98d88deccf319",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A square-shaped coil moves through a magnetic field that is pointing out of the page. The speed of the coil is constant.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>Which graph correctly shows how the magnitude of the induced emf varies with time as the coil enters, moves through, and leaves the field?</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_d179350249e144c8b5b0e4f1abb0adb7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect: This assumes that energy is distributed uniformly along the standing wave, which is only true for traveling waves. In standing waves, energy is localized and varies with the square of the amplitude at each position.</p>\n<p>B: Incorrect: This is the ratio of the maximum speeds or amplitudes (<span class=\"math\" data-latex=\"1 : \\frac{1}{\\sqrt{2}}\"></span>), but kinetic energy is proportional to the square of the speed (<span class=\"math\" data-latex=\"E_k \\propto v^2\"></span>).</p>\n<p>C: Correct: In the fundamental mode, the wavelength <span class=\"math\" data-latex=\"\\lambda = 2L\"></span>. The amplitude at any point <span class=\"math\" data-latex=\"x\"></span> is given by <span class=\"math\" data-latex=\"A(x) = A_{max} \\sin(\\frac{2\\pi x}{\\lambda}) = A_{max} \\sin(\\frac{\\pi x}{L})\"></span>. For particle <span class=\"math\" data-latex=\"M\"></span> at <span class=\"math\" data-latex=\"x = \\frac{L}{2}\"></span>, <span class=\"math\" data-latex=\"A_M = A_{max} \\sin(\\frac{\\pi}{2}) = A_{max}\"></span>. For particle <span class=\"math\" data-latex=\"N\"></span> at <span class=\"math\" data-latex=\"x = \\frac{L}{4}\"></span>, <span class=\"math\" data-latex=\"A_N = A_{max} \\sin(\\frac{\\pi}{4}) = \\frac{A_{max}}{\\sqrt{2}}\"></span>. Since maximum kinetic energy <span class=\"math\" data-latex=\"E_k = \\frac{1}{2}m(\\omega A)^2\"></span>, the ratio is <span class=\"math\" data-latex=\"(\\frac{A_M}{A_N})^2 = (\\frac{1}{1/\\sqrt{2}})^2 = 2\"></span>.</p>\n<p>D: Incorrect: This might result from incorrectly assuming a linear relationship between displacement and distance from the node, or using an incorrect harmonic frequency.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform string of length <span class=\"math\" data-latex=\"L\"></span> is fixed at both ends and oscillates in its fundamental mode. Particle <span class=\"math\" data-latex=\"M\"></span> is located at the center of the string, and particle <span class=\"math\" data-latex=\"N\"></span> is located at a distance <span class=\"math\" data-latex=\"\\frac{L}{4}\"></span> from one of the fixed ends. What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{maximum kinetic energy of particle } M}{\\text{maximum kinetic energy of particle } N}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

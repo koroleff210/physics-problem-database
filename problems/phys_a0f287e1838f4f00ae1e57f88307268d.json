@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a0f287e1838f4f00ae1e57f88307268d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform solid disc and a uniform solid sphere of the same density roll down the same inclined plane without slipping. The disc and the sphere have the same mass and roll through the same distance. </p>\n<p>What is true about the rotational kinetic energy and the total kinetic energy of the objects?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Rotational kinetic energy</strong></p>\n</td>\n<td>\n<p><strong>Total kinetic energy</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>different</td>\n<td>same</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>same</td>\n<td>different</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>same</td>\n<td>same</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>different</td>\n<td>different</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

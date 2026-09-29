@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d3b6d3db13c441ceb0f376dbcd6e9a5d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>If the distance between two planets is tripled, what happens to the gravitational force between them?</p><ol class=\"mcq-options\"><li data-label=\"A\">It becomes three times greater</li><li data-label=\"B\">It stays the same</li><li data-label=\"C\">It becomes one-third as strong</li><li data-label=\"D\">It becomes one-ninth as strong</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

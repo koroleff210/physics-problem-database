@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_03ab2febbc534ad2b5927664505598b9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the name of the experiment that led to the discovery of the atomic nucleus?</p><ol class=\"mcq-options\"><li data-label=\"A\">Photoelectric effect experiment</li><li data-label=\"B\">Double-slit experiment</li><li data-label=\"C\">Geiger-Marsden experiment</li><li data-label=\"D\">Millikan oil drop experiment</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

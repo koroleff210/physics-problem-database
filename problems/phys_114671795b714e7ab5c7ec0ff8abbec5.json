@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 6,
+  "id": "phys_114671795b714e7ab5c7ec0ff8abbec5",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>A process in which no thermal energy is transferred to or from the system.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"PV^{\\frac{5}{3}} = \\text{constant}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2}nR\\Delta T\"></span><br/>[1 mark]<br/>- <span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2} \\cdot 1.5 \\cdot 8.31 \\cdot (300 - 420) = -2243\\ \\text{J}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- No thermal energy is transferred in an adiabatic process<br/>[1 mark]<br/>- The gas loses internal energy (temperature decreases), so it must do work on the surroundings<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- The decrease in internal energy supplies the energy needed to do work<br/>[1 mark]<br/>- Even though no heat enters, the energy for expansion comes from the internal energy<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An ideal monatomic gas of <span class=\"math\" data-latex=\"n = 1.5\\ \\text{mol}\"></span> undergoes an adiabatic expansion. The initial temperature of the gas is <span class=\"math\" data-latex=\"420\\ \\text{K}\"></span>, and the final temperature is <span class=\"math\" data-latex=\"300\\ \\text{K}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define an adiabatic process.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the equation that relates pressure and volume for an adiabatic process in a monatomic ideal gas.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the change in internal energy of the gas during this process.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain whether thermal energy is transferred into or out of the gas.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Explain how the gas does work during this expansion even though no heat enters the system.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

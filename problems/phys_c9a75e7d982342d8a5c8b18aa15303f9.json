@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c9a75e7d982342d8a5c8b18aa15303f9",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Substitute values into velocity formula: <span class=\"math\" data-latex=\"v = at = 12.0 \\times 4.0 = 48 \\text{ m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Substitute values into displacement formula: <span class=\"math\" data-latex=\"s = \\frac{1}{2}at^{2} = 0.5 \\times 12.0 \\times 4.0^{2} = 96 \\text{ m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use <span class=\"math\" data-latex=\"v = u + at\"></span> with <span class=\"math\" data-latex=\"v = 0\"></span>: <span class=\"math\" data-latex=\"0 = 48 - 9.81t \\Rightarrow t = \\frac{48}{9.81} = 4.89 \\text{ s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate total height: <span class=\"math\" data-latex=\"H = 96 + \\frac{48^{2}}{2 \\times 9.81} = 96 + 117.4 = 213 \\text{ m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Determine the time taken to fall from maximum height: <span class=\"math\" data-latex=\"t_{fall} = \\sqrt{\\frac{2 \\times 213.4}{9.81}} = 6.60 \\text{ s}\"></span> [1 mark]<br/>- Calculate the total time: <span class=\"math\" data-latex=\"T = 4.0 + 4.89 + 6.60 = 15.5 \\text{ s}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>This question is about vertical motion under gravity. A small sounding rocket is launched vertically from the ground at <span class=\"math\" data-latex=\"t = 0 \\text{ s}\"></span>. The rocket's engine provides a constant upward acceleration of <span class=\"math\" data-latex=\"12.0 \\text{ m s}^{-2}\"></span> for the first <span class=\"math\" data-latex=\"4.0 \\text{ s}\"></span> of the flight. After this time, the engine shuts off and the rocket enters free fall, eventually returning to the surface. Air resistance is negligible. Let the acceleration due to gravity <span class=\"math\" data-latex=\"g = 9.81 \\text{ m s}^{-2}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the vertical velocity of the rocket at the moment the engine shuts off.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the altitude of the rocket at <span class=\"math\" data-latex=\"t = 4.0 \\text{ s}\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the time taken for the rocket to reach its maximum height after the engine has shut off.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the maximum altitude reached by the rocket above the ground.<p>[1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Calculate the total time <span class=\"math\" data-latex=\"T\"></span> from the moment of launch until the rocket strikes the ground.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

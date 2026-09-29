@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_eec9e929876d4b6296071a365d9a7981",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Cosmic rays [1 mark]</p>\n<p>_<strong>OR</strong>_</p>\n<p>Naturally occurring radioactive materials in rocks or air (e.g., radon gas) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>To detect ionising radiation [1 mark]</p>\n<p>_<strong>OR</strong>_</p>\n<p>To convert ionising radiation into countable electrical signals [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Subtract background count rate from total measured count rate to find the corrected count rate [1 mark]</p>\n<p>Convert the corrected count rate to activity using known geometry, efficiency, or calibration factor [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>To reduce the effect of random fluctuations [1 mark]</p>\n<p>_<strong>OR</strong>_</p>\n<p>To reduce random error [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A teacher uses a Geiger–Müller (GM) tube and a counter to detect background radiation in a laboratory.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify one source of background radiation.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State the purpose of using a GM tube in radiation experiments.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe how the count rate measured by the GM tube can be used to determine the activity of a radioactive source.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest why repeated measurements are taken when measuring background radiation.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

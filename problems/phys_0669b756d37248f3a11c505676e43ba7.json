@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_0669b756d37248f3a11c505676e43ba7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrectly assumes the time is 4.0 minutes (double the actual time).</p>\n<p>B: Correct. Energy <span class=\"math\" data-latex=\"Q = mc\\Delta T = 0.50 \\times 4200 \\times (60 - 20) = 84,000 \\mathrm{J}\"></span>. Power <span class=\"math\" data-latex=\"P = Q / t = 84,000 / (2.0 \\times 60) = 700 \\mathrm{W}\"></span>.</p>\n<p>C: Incorrectly omits the mass from the <span class=\"math\" data-latex=\"mc\\Delta T\"></span> calculation.</p>\n<p>D: Incorrectly uses the time in minutes instead of converting to seconds.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.50 \\ \\mathrm{kg}\"></span> mass of a liquid is heated from <span class=\"math\" data-latex=\"20 ^{\\circ}\\mathrm{C}\"></span> to <span class=\"math\" data-latex=\"60 ^{\\circ}\\mathrm{C}\"></span> in a time of <span class=\"math\" data-latex=\"2.0\\ \\mathrm{minutes}\"></span>. The specific heat capacity of the liquid is <span class=\"math\" data-latex=\"4200 \\ \\mathrm{J \\ kg}^{-1} \\ \\mathrm{K}^{-1}\"></span>. What is the average rate of thermal energy transfer to the liquid?</p><ol class=\"mcq-options\"><li data-label=\"A\">350 W</li><li data-label=\"B\">700 W</li><li data-label=\"C\">1400 W</li><li data-label=\"D\">42 kW</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

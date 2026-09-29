@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4e982ea475964547a4fad659be642980",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"0.030\\times 0.7\\times 10^{3}\\times 5+0.030\\times 220\\times 10^{3}+0.030\\times 2.13\\times 10^{3}T-47\"></span> <span class=\"math\" data-latex=\"=0.150\\times 2.13\\times 10^{3}240-T\"></span> One heat capacity term correctly substituted ✓ latent heat correctly substituted <span class=\"math\" data-latex=\"0.030\\times 220\\times 10^{3}\"></span> ✓ <span class=\"math\" data-latex=\"T=190\"></span> «°C» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Experimental temperature will be lower ✓ Heat loss to the environment ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Small pieces of solid paraffin with a total mass of 30 g at a temperature of 42 °C are mixed with 150 g of liquid paraffin at a temperature of 240 °C. The mixture is stirred until an equilibrium temperature is reached.</p>\n<p>The following data for paraffin are available:</p>\n<p>Specific heat capacity of solid paraffin = 0.7 kJ kg<sup>−1</sup> K<sup>−1</sup><br/>Specific heat capacity of liquid paraffin = 2.13 kJ kg<sup>−1</sup> K<sup>−1</sup><br/>Specific latent heat of fusion of paraffin = 220 kJ kg<sup>−1</sup><br/>Melting point of paraffin = 47 °C</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the theoretical equilibrium temperature of the mixture. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>When the experiment was carried out, the equilibrium temperature of the mixture was found to be different from the theoretical value.</p>\n<p>Suggest the reason for this difference.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0469d23dc891c90eb639d297db38126608b43e118e89ab92dbf5f5e6353dc2c3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0469d23dc891c90eb639d297db38126608b43e118e89ab92dbf5f5e6353dc2c3"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_438ad780c5284d63bdb3de88fbab979d",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Some energy levels for a hydrogen atom are shown.</p>\n<p>diagram not to scale</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the <span class=\"math\" data-latex=\"\\frac{\\textit{wavelength emitted in transition X}}{\\textit{wavelength emitted in transition Y}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{27}{32}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{32}{27}\"></span></li><li data-label=\"D\">2</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_1fcb5508da7e4c5dab2b1f48a4feeb5e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment monochromatic blue light is incident on a single slit in vacuum and a diffraction pattern is formed on a screen. What single change will cause the angle between the central maximum and the first minimum to decrease?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Carrying out the experiment under water.</li>\n<li data-label=\"B\">Increasing the distance between the screen and the slits.</li>\n<li data-label=\"C\">Changing the colour of the light from blue to red.</li>\n<li data-label=\"D\">Decreasing the slit width.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

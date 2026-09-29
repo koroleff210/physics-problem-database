@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_877ef9573b444365a24e480018f23a3a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. Density <span class=\"math\" data-latex=\"\\rho=\\frac{m}{V}\"></span> is a property of the material and does not depend on the amount of liquid.</p>\n<p>B: Correct. For the same liquid, doubling the volume also doubles the mass, so <span class=\"math\" data-latex=\"\\rho=\\frac{m}{V}\"></span> is unchanged.</p>\n<p>C: Incorrect. Halving density would require the mass not to scale proportionally with volume, which is not the case for the same uniform liquid.</p>\n<p>D: Incorrect. Quadrupling density would require a change in the material or compression; changing sample size alone does not change density.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student measures the mass and volume of a liquid and calculates its density as <span class=\"math\" data-latex=\"0.8\\ \\text{g cm}^{-3}\"></span>. If the volume of the same liquid is doubled, what happens to its density?</p><ol class=\"mcq-options\"><li data-label=\"A\">It doubles.</li><li data-label=\"B\">It remains the same.</li><li data-label=\"C\">It is halved.</li><li data-label=\"D\">It quadruples.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

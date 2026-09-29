@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_17a582251d984ef681bef73311614d21",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical waves meet and interfere constructively. The intensity of each wave is <span class=\"math\" data-latex=\"I\"></span> and the amplitude of each wave is <span class=\"math\" data-latex=\"A\"></span>. What are the intensity and the amplitude of the resultant wave?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Intensity</strong></p>\n</td>\n<td>\n<p><strong>Amplitude</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"2I\"></span></td>\n<td><span class=\"math\" data-latex=\"2A\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"4I\"></span></td>\n<td><span class=\"math\" data-latex=\"4A\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"4I\"></span></td>\n<td><span class=\"math\" data-latex=\"2A\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"2I\"></span></td>\n<td><span class=\"math\" data-latex=\"4A\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

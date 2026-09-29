@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3531750c82c5c592093e7f66a66432b9d626a57b147f13b71985b02bc94d6d52.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3531750c82c5c592093e7f66a66432b9d626a57b147f13b71985b02bc94d6d52"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_091b2a5d17264e27be341b42d009cb09",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The molar mass of an ideal gas is <span class=\"math\" data-latex=\"M\"></span>. A fixed mass <span class=\"math\" data-latex=\"m\"></span> of the gas expands at a constant pressure <span class=\"math\" data-latex=\"p\"></span>. The graph shows the variation with temperature T of the gas volume V.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the gradient of the graph?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{Mp}{mR}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{MR}{mp}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mp}{MR}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{mR}{Mp}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

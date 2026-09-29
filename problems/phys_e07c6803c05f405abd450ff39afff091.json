@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_e07c6803c05f405abd450ff39afff091",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pulley system consists of a solid disc (mass <span class=\"math\" data-latex=\"3.0\\ kg\"></span>, radius <span class=\"math\" data-latex=\"0.25\\ m\"></span>) mounted horizontally and free to rotate. A <span class=\"math\" data-latex=\"1.5\\ kg\"></span> mass is suspended and allowed to fall, causing the pulley to rotate. What is the angular acceleration of the disc?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"8.0\\ rad\\ s^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"16.0\\ rad\\ s^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20.0\\ rad\\ s^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"24.0\\ rad\\ s^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

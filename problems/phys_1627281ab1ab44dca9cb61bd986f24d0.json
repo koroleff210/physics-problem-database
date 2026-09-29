@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_1627281ab1ab44dca9cb61bd986f24d0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of radon-222 decays into polonium with a half-life of 4 days. A measurement is made of its radioactivity. The initial count rate is 420 counts per second. The measured background count is 20 counts per second.</p>\n<p>What is the measured count rate after 8 days?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">85</li><li data-label=\"B\">100</li><li data-label=\"C\">105</li><li data-label=\"D\">120</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

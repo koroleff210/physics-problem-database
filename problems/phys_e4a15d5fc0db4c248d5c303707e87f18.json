@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2c02c1d09c6c24d3544813e88c5fa0201b54e048e49d96d99253bf012c81af0a.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c02c1d09c6c24d3544813e88c5fa0201b54e048e49d96d99253bf012c81af0a"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_e4a15d5fc0db4c248d5c303707e87f18",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block starts from rest at point X and slides along a smooth track to point Z. What is the speed of the block at point Y?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\sqrt{20g}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt{10g}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt{16g}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\sqrt{4g}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

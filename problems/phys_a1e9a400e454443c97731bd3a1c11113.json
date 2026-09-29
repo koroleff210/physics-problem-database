@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_a1e9a400e454443c97731bd3a1c11113",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. With 5 energy levels, the maximum number of distinct emission wavelengths equals the number of possible downward transitions, which is <span class=\"math\" data-latex=\"\\frac{n(n-1)}{2}=\\frac{5\\times 4}{2}=10\"></span>, not 4.</p>\n<p>B: Incorrect. The maximum number of distinct emission wavelengths equals the number of possible downward transitions between pairs of energy levels: <span class=\"math\" data-latex=\"\\frac{5\\times 4}{2}=10\"></span>.</p>\n<p>C: Correct. The maximum number of different emitted photon wavelengths corresponds to the number of possible downward transitions between pairs of levels: <span class=\"math\" data-latex=\"\\frac{n(n-1)}{2}=\\frac{5\\times 4}{2}=10\"></span>.</p>\n<p>D: Incorrect. Counting both upward and downward transitions would give <span class=\"math\" data-latex=\"5\\times 4=20\"></span>, but emission corresponds to downward transitions only, giving <span class=\"math\" data-latex=\"\\frac{5\\times 4}{2}=10\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An atom has five energy levels. What is the maximum number of different photon wavelengths it can emit when electrons transition between these levels?</p><ol class=\"mcq-options\"><li data-label=\"A\">4</li><li data-label=\"B\">5</li><li data-label=\"C\">10</li><li data-label=\"D\">20</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

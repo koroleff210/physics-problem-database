@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_acf3478ba3974b7180ad94595d1438f3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>If a pendulum is taken to the Moon, where <span class=\"math\" data-latex=\"g\"></span> is smaller, what happens to its period?</p><ol class=\"mcq-options\"><li data-label=\"A\">It decreases</li><li data-label=\"B\">It increases</li><li data-label=\"C\">It remains the same</li><li data-label=\"D\">It becomes zero</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

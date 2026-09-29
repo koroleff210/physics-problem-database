@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a85d0b5b0220338e0e6280502eac325bfed679a500631c5fbc35fa6ede6e709a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a85d0b5b0220338e0e6280502eac325bfed679a500631c5fbc35fa6ede6e709a"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_d4fa88aa5487432c850d74a6bcfc3d9e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A heater supplies energy at a constant rate to 100 kg of water. The specific heat capacity of water is 4.2 kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span>. The graph below shows how the temperature of the water varies with time. The gradient of the graph is <span class=\"math\" data-latex=\"\\frac{1}{1000}\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the power supplied by the heater?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">4.2 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{1}\"></span> W</li>\n<li data-label=\"B\">4.2 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{2}\"></span> W</li>\n<li data-label=\"C\">4.2 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{3}\"></span> W</li>\n<li data-label=\"D\">4.2 <span class=\"math\" data-latex=\"\\times\"></span> 10<span class=\"math\" data-latex=\"^{4}\"></span> W</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

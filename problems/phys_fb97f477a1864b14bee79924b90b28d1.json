@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_fb97f477a1864b14bee79924b90b28d1",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Equates centripetal force (with Newton’s law gravitation <span class=\"math\" data-latex=\"mr \\omega^{2}=\\frac{GMm}{r^{2}}\"></span>) AND <span class=\"math\" data-latex=\"T=\\frac{2\\pi}{\\omega}\"></span>  ✓  leads to <span class=\"math\" data-latex=\"T^{2}=r^{3}\\times \\frac{4\\pi^{2}}{GM}\"></span> hence result ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«mean» Distance from centre of Sun to centre of Earth ✓ OR Suitable ratio in terms of parsec and arcsecond ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"T_{Pluto}^{2}=T_{Earth}^{2}\\frac{r_{Pluto}^{3}}{r_{Earth}^{3}}\"></span> used ✓  Earth orbital radius = 1.5 × 10<sup>11</sup> m (from AU) AND uses 1 earth year (in any units) ✓  247 years ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that <span class=\"math\" data-latex=\"T∝r^{\\frac{3}{2}}\"></span> for the planets in a solar system where <span class=\"math\" data-latex=\"T\"></span> is the orbital period of a planet and <span class=\"math\" data-latex=\"r\"></span> is the radius of circular orbit of planet about its sun. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Outline what is meant by one astronomical unit (1 AU) [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Pluto is a dwarf planet of the Sun that orbits at a distance of 5.9 × 10<sup>9</sup> km from the Sun. Determine, in years, the orbital period of Pluto. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

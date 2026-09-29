@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/60e64e93df1d75224f9e6d6cb7716412324c3a797a52003a547951ea138b90b0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "60e64e93df1d75224f9e6d6cb7716412324c3a797a52003a547951ea138b90b0"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_ba8e41fbc1cc4ee083d516649d2ef2e5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle oscillates with simple harmonic motion (SHM). The total distance travelled by the particle during one full oscillation is <span class=\"math\" data-latex=\"4\"></span> m. The graph shows how the velocity of the particle varies with time. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the displacement of the particle?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sin (\\pi t)\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\pi \\sin (\\pi t)\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"- \\sin (\\pi t)\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"- \\pi \\sin (\\pi t)\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

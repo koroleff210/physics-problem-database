@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/db056c30392666b6d3a70e0a3fd3783c78079ea4b030aa08334cf778d340d783.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "db056c30392666b6d3a70e0a3fd3783c78079ea4b030aa08334cf778d340d783"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_3f32896da0df451ea2de15da5bc27bc6",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>A wave where the oscillation of the particles in the medium is parallel to the direction in which the wave travels.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"100 \\: \\mu\"></span>m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c(i)\"><p><strong>1c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"v = \\frac{7.5 \\times 10^{-3}}{0.338 \\times 10^{-3}} \\approx 22.19 \\approx 22\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c(ii)\"><p><strong>1c(ii)</strong></p><p></p>\n<p>From the graph: <span class=\"math\" data-latex=\"\\lambda = 20\"></span> mm</p>\n<p><span class=\"math\" data-latex=\"22.19 = (20 \\times 10^{-3})f\"></span></p>\n<p><span class=\"math\" data-latex=\"f \\approx 1100\"></span> Hz</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1d\"><p><strong>1d</strong></p><p></p>\n<p>To the left.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1e\"><p><strong>1e</strong></p><p></p>\n<p>Zero</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how the displacement of the particles in a medium varies with distance when a longitudinal wave is travelling through the medium. A positive displacement on the graph represents displacement to the right. The displacement at <span class=\"math\" data-latex=\"t = 0\"></span> is shown by the solid line and the displacement at <span class=\"math\" data-latex=\"t = 0.338\"></span> ms is shown by the dashed line. The time period of the wave is <span class=\"math\" data-latex=\"T\"></span>. <span class=\"math\" data-latex=\"T &gt; 0.338\"></span> ms.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline what is meant by a longitudinal travelling wave.</p>\n<p>   [1]</p>\n<p>b. State the amplitude of the wave.</p>\n<p>   [1]</p>\n<p>c. Calculate the:</p>\n<p>i. speed of the wave.</p>\n<p>ii. frequency of the wave.</p>\n<p>  [4]</p>\n<p>The letter X shows the position of a particle in the medium.</p>\n<p>d. State the direction of the particle’s motion at <span class=\"math\" data-latex=\"t = 0.338\"></span> ms. </p>\n<p>  [1]</p>\n<p>The letter Y shows a different particle in the medium. </p>\n<p>e. State the phase difference between particle X and particle Y.</p>\n<p>   [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

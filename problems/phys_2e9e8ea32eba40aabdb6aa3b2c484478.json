@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2e9e8ea32eba40aabdb6aa3b2c484478",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of frequency <span class=\"math\" data-latex=\"f\"></span> is incident on a single slit of width <span class=\"math\" data-latex=\"w\"></span>. A diffraction pattern is formed on the screen where the angle between the central maximum and the first minimum is <span class=\"math\" data-latex=\"\\theta\"></span>. Which of the following combinations of changes to <span class=\"math\" data-latex=\"f\"></span> and <span class=\"math\" data-latex=\"w\"></span> will cause the greatest increase in <span class=\"math\" data-latex=\"\\theta\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Change to </strong><span class=\"math\" data-latex=\"\\mathbf{f}\"></span></p>\n</td>\n<td>\n<p><strong>Change to </strong><span class=\"math\" data-latex=\"\\mathbf{w}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"3f\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{w}{3}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"3f\"></span></td>\n<td><span class=\"math\" data-latex=\"3w\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{f}{3}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{w}{3}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{f}{3}\"></span></td>\n<td><span class=\"math\" data-latex=\"3w\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

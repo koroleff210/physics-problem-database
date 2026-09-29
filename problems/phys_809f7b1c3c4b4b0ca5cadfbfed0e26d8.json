@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_809f7b1c3c4b4b0ca5cadfbfed0e26d8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The wave nature of light is demonstrated by diffraction, which is the bending of waves as they pass through an aperture. In a single-slit experiment, this diffraction leads to an interference pattern on a screen, consisting of a central bright band and a series of dimmer, alternating bright and dark bands (fringes). This pattern is a direct consequence of the superposition of waves.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which observation made during the single-slit experiment is consistent with the wave nature of light?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> The light goes straight through the slit and forms a single dot on the screen.</li>\n<li data-label=\"B\"> The light is bent at the slit and forms a single band on the screen.</li>\n<li data-label=\"C\"> The light is reflected at the edges of the slit.</li>\n<li data-label=\"D\"> The light is bent at the slit and forms a series of bands on the screen.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

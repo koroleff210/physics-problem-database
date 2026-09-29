@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_5d9582be3254408f943eb0b6cb2a1788",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle’s motion can be described by the equation <span class=\"math\" data-latex=\"a = ks\"></span> where <span class=\"math\" data-latex=\"a\"></span> is acceleration, <span class=\"math\" data-latex=\"s\"></span> is displacement, <span class=\"math\" data-latex=\"k\"></span> is a constant and <span class=\"math\" data-latex=\"k &lt; 0\"></span>. What is the direction of the net force acting on the particle in relation to the particle’s displacement and what is true about the acceleration of the particle when the kinetic energy of the particle is at its maximum?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction of net force in relation to the displacement</strong></p>\n</td>\n<td>\n<p><strong>Acceleration when kinetic energy is at its maximum</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Opposite</td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Opposite</td>\n<td>Maximum</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Same</td>\n<td>Zero</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Same</td>\n<td>Maximum</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

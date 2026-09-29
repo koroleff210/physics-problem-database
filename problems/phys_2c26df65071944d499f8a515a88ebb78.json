@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/847555469d0b299ad222b7f12e62d2a12ee891a0053f1256306de7d14bec0454.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "847555469d0b299ad222b7f12e62d2a12ee891a0053f1256306de7d14bec0454"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d2c439af4d79d8b3cebaefb44eaa3bad9913132d88b41445727b273edb28c4a0.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d2c439af4d79d8b3cebaefb44eaa3bad9913132d88b41445727b273edb28c4a0"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/4f0730b85f2bab8e885b25f6da6fa01e4ab90d544ef22ba8ec6a4a65d50106fb.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4f0730b85f2bab8e885b25f6da6fa01e4ab90d544ef22ba8ec6a4a65d50106fb"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2c26df65071944d499f8a515a88ebb78",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>t = «<span class=\"math\" data-latex=\"\\sqrt{\\frac{2d}{g}}\"></span>=» 0.22 «s»<br/>OR t = <span class=\"math\" data-latex=\"\\sqrt{\\frac{2\\times 0.24}{9.8}}\"></span>  ✓  Answer to 2 or more significant figures or formula with variables replaced by correct values.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>increasing straight line from zero up to 0.2 s in x-axis ✓</p>\n<p>with gradient = 10 ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1  <span class=\"math\" data-latex=\"t=\\frac{1.37}{12}=\"></span>«0.114 s» ✓ <span class=\"math\" data-latex=\"y=\\frac{1}{2}\\times 10\\times 0.114^{2}=0.065\"></span> m ✓ so (0.24 − 0.065) = 0.175 &gt; 0.15  OR  0.065 &lt; (0.24 − 0.15) «so it goes over the net» ✓   ALTERNATIVE 2 «0.24 − 0.15 = 0.09 = <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 10\\times t^{2}\"></span> so» t = 0.134 s ✓ 0.134 × 12 = 1.6 m ✓ 1.6 &gt; 1.37 «so ball passed the net already»  ✓   Allow use of g = 9.8.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>ALTERNATIVE 1  KE = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>mv<sup>2</sup> + mgh = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>0.0027 ×10.5<sup>2</sup> + 0.0027 × 9.8 × 0.18 ✓ 0.15 «J» ✓   ALTERNATIVE 2 Use of v<sub>x</sub> = 10.5 AND v<sub>y</sub> = 1.88 to get v = «<span class=\"math\" data-latex=\"\\sqrt{10.5^{2} + 1.88^{2}}\"></span>» = 10.67 «m s<sup>−1</sup>» ✓ KE = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 0.0027 × 10.67<sup>2</sup> = 0.15 «J»  ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p><span class=\"math\" data-latex=\"\\Delta v   =   21\"></span> «m s<sup>−1</sup>» ✓ <span class=\"math\" data-latex=\"F=\\frac{0.0027 \\times 21}{0.01}\"></span> OR 5.67 «N» ✓ any answer to 2 significant figures «N» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two players are playing table tennis. Player A hits the ball at a height of 0.24 m above the edge of the table, measured from the top of the table to the bottom of the ball. The initial speed of the ball is 12.0 m s<sup>−1</sup> horizontally. Assume that air resistance is negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The ball bounces and then reaches a peak height of 0.18 m above the table with a horizontal speed of 10.5 m s<sup>−1</sup>. The mass of the ball is 2.7 g.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the time taken for the ball to reach the surface of the table is about 0.2 s. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Sketch, on the axes, a graph showing the variation with time of the vertical component of velocity v<sub>v</sub> of the ball until it reaches the table surface. Take g to be +10 m s<sup>−2</sup>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The net is stretched across the middle of the table. The table has a length of 2.74 m and the net has a height of 15.0 cm.</p>\n<p>Show that the ball will go over the net.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Determine the kinetic energy of the ball immediately after the bounce. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> </p><p>Player B intercepts the ball when it is at its peak height. Player B holds a paddle (racket) stationary and vertical. The ball is in contact with the paddle for 0.010 s. Assume the collision is elastic.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>Calculate the average force exerted by the ball on the paddle. State your answer to an appropriate number of significant figures.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

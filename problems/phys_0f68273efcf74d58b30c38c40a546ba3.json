@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/aa80ef353255f6773e3197696826940f44ab28a0e4b5d78b51cb417eaa16cfab.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "aa80ef353255f6773e3197696826940f44ab28a0e4b5d78b51cb417eaa16cfab"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_0f68273efcf74d58b30c38c40a546ba3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object oscillates with simple harmonic motion. Which graph correctly shows the variation of the acceleration <span class=\"math\" data-latex=\"a\"></span> of the object with its displacement <span class=\"math\" data-latex=\"x\"></span> from the center of oscillation?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\">A</li><li data-label=\"B\">B</li><li data-label=\"C\">C</li><li data-label=\"D\">D</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

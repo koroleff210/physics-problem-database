@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_471716ce2537480db8c5d964b57d7a49",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The decay constant of a radioactive element is <span class=\"math\" data-latex=\"0.10\"></span> s<span class=\"math\" data-latex=\"^{-1}\"></span>. At <span class=\"math\" data-latex=\"t = 0\"></span> the number of undecayed nuclei in a pure sample of this element is <span class=\"math\" data-latex=\"5000\"></span>. How many nuclei are expected to decay in <span class=\"math\" data-latex=\"10\"></span> s?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{5000}{10e}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"5000 - \\frac{5000}{10e}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5000}{e}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"5000 - \\frac{5000}{e}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_8679f1d7363b42df9bca142d420992fb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Useful output power is <span class=\"math\" data-latex=\"Fv=(1.0\\,\\text{kN})(0.60\\,\\text{m s}^{-1})=0.60\\,\\text{kW}\"></span>. Efficiency <span class=\"math\" data-latex=\"=\\frac{0.60}{1.5}=0.40=40\\,\\%\"></span>, so <span class=\"math\" data-latex=\"15\\,\\%\"></span> is incorrect.</p>\n<p>B: Useful output power is <span class=\"math\" data-latex=\"P_{\\text{out}}=Fv=(1.0\\times10^3\\,\\text{N})(0.60\\,\\text{m s}^{-1})=600\\,\\text{W}=0.60\\,\\text{kW}\"></span>. Efficiency <span class=\"math\" data-latex=\"=\\frac{P_{\\text{out}}}{P_{\\text{in}}}=\\frac{0.60}{1.5}=0.40=40\\,\\%\"></span>.</p>\n<p>C: Correct efficiency is <span class=\"math\" data-latex=\"40\\,\\%\"></span> from <span class=\"math\" data-latex=\"\\eta=\\frac{Fv}{P_{\\text{in}}}=\\frac{(1.0\\,\\text{kN})(0.60\\,\\text{m s}^{-1})}{1.5\\,\\text{kW}}=0.40\"></span>, so <span class=\"math\" data-latex=\"60\\,\\%\"></span> is incorrect.</p>\n<p>D: Correct efficiency is <span class=\"math\" data-latex=\"40\\,\\%\"></span> from <span class=\"math\" data-latex=\"\\eta=\\frac{Fv}{P_{\\text{in}}}=\\frac{(1.0\\,\\text{kN})(0.60\\,\\text{m s}^{-1})}{1.5\\,\\text{kW}}=0.40\"></span>, so <span class=\"math\" data-latex=\"67\\,\\%\"></span> is incorrect.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor is used to pull a crate along a horizontal surface at a constant speed. The following data are available for the motor system:</p>\n<table><thead><tr><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Power input to motor</td><td><span class=\"math\" data-latex=\"1.5\\,\\text{kW}\"></span></td></tr><tr><td>Constant speed of crate</td><td><span class=\"math\" data-latex=\"0.60\\,\\text{m s}^{-1}\"></span></td></tr><tr><td>Total resistive force acting on crate</td><td><span class=\"math\" data-latex=\"1.0\\,\\text{kN}\"></span></td></tr></tbody></table>\n<p>What is the efficiency of the motor system?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"15\\,\\%\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"40\\,\\%\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"60\\,\\%\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"67\\,\\%\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f7b5307922af4347dc43330d19aa20891901830b488036b7c7793baaa6611bc6.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f7b5307922af4347dc43330d19aa20891901830b488036b7c7793baaa6611bc6"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_d491f6b641f5499e8a6df624140e1170",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, of masses <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"2m\"></span> respectively, are held together with a compressed spring between them on a frictionless horizontal surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>When the blocks are released, the spring pushes them apart. How do the magnitude of the change in momentum and the final kinetic energy compare for blocks <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>?</p>\n<table><thead><tr><th></th><th>Magnitude of the change in momentum</th><th>Final kinetic energy</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>same for <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span></td><td>same for <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td>greater for <span class=\"math\" data-latex=\"Y\"></span> than <span class=\"math\" data-latex=\"X\"></span></td><td>same for <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td>same for <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span></td><td>greater for <span class=\"math\" data-latex=\"X\"></span> than <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td>greater for <span class=\"math\" data-latex=\"Y\"></span> than <span class=\"math\" data-latex=\"X\"></span></td><td>greater for <span class=\"math\" data-latex=\"X\"></span> than <span class=\"math\" data-latex=\"Y\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_3aba767ebb20427dba584c013952a6d1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary observer hears a car horn at a higher frequency than the car’s original horn frequency as the car approaches. What causes this increase in the observed frequency?</p><ol class=\"mcq-options\"><li data-label=\"A\">The speed of sound increases as the car approaches.</li><li data-label=\"B\">The wavelength of the sound waves increases as the car approaches.</li><li data-label=\"C\">The car’s motion towards the observer shortens the wavelength of the sound waves reaching the observer.</li><li data-label=\"D\">The car’s motion towards the observer lengthens the wavelength of the sound waves reaching the observer.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

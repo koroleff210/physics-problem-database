@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_72184ea90f504859b00ec3793443cbf8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stationary wave is established in the air column of a pipe. One end of the pipe is closed and the other end is open. Which row correctly identifies the boundary conditions for the displacement of air molecules at each end of the pipe?</p>\n<table><thead><tr><th></th><th>Open end</th><th>Closed end</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>node</td><td>node</td></tr><tr data-label=\"B\"><td>B.</td><td>antinode</td><td>node</td></tr><tr data-label=\"C\"><td>C.</td><td>node</td><td>antinode</td></tr><tr data-label=\"D\"><td>D.</td><td>antinode</td><td>antinode</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

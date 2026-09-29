@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3d5a561af31155ac12c7c9e0cd6e03c59cac1df54ecf32cbfc95c1b801a25d9f.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3d5a561af31155ac12c7c9e0cd6e03c59cac1df54ecf32cbfc95c1b801a25d9f"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_4628d796f3ae4a1b923804d439d735a5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows electric field lines near three points: <span class=\"math\" data-latex=\"X\"></span>, <span class=\"math\" data-latex=\"Y\"></span>, and <span class=\"math\" data-latex=\"Z\"></span>. The field lines are closer together near <span class=\"math\" data-latex=\"Z\"></span> and further apart near <span class=\"math\" data-latex=\"X\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement about the magnitude of the electric field at these points is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">The electric field is strongest at <span class=\"math\" data-latex=\"X\"></span> and weakest at <span class=\"math\" data-latex=\"Z\"></span>.</li><li data-label=\"B\">The electric field is equally strong at <span class=\"math\" data-latex=\"X\"></span>, <span class=\"math\" data-latex=\"Y\"></span>, and <span class=\"math\" data-latex=\"Z\"></span> because the field is uniform.</li><li data-label=\"C\">The electric field is strongest at <span class=\"math\" data-latex=\"Z\"></span> and weakest at <span class=\"math\" data-latex=\"X\"></span>.</li><li data-label=\"D\">The electric field is zero at point <span class=\"math\" data-latex=\"Y\"></span> because the lines curve.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

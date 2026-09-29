@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_2898ce1bbe9a4ce289f21a5982813171",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"16a(i)\"><p><strong>16a(i)</strong></p><p></p>\n<p>Converting the temperatures into kelvin:</p>\n<p><span class=\"math\" data-latex=\"T_{c} = 277 + 273 = 550\\:\\textup{K}\"></span></p>\n<p><span class=\"math\" data-latex=\"T_{h} = 518 + 273 = 791\\:\\textup{K}\"></span></p>\n<p>Calculating the Carnot efficiency:</p>\n<p><span class=\"math\" data-latex=\"\\eta_{\\textup{Carnot}} = 1 - \\frac{550}{791} \\approx 0.305 = 30.5\\%\"></span></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16a(ii)\"><p><strong>16a(ii)</strong></p><p></p>\n<p>The Carnot efficiency is the maximum possible theoretical efficiency of the power plant.</p>\n<p>Since energy losses (friction, sound, heat) occur in the power plant, the efficiency of a real power plant must be lower than the Carnot efficiency found in part (a) (i).</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16b\"><p><strong>16b</strong></p><p></p>\n<p>Calculating the overall efficiency of the power plant:</p>\n<p><span class=\"math\" data-latex=\"\\eta = 0.305 \\times 0.39 \\approx 0.119\"></span></p>\n<p>Since <span class=\"math\" data-latex=\"\\eta = \\frac{\\textup{useful energy out}}{\\textup{total energy in}}\"></span>, and <span class=\"math\" data-latex=\"\\textup{wasted thermal energy = total energy in - useful energy out}\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"\\eta = \\frac{\\textup{useful energy out}}{\\textup{wasted thermal energy + useful energy out}}\"></span></p>\n<p>Substituting gives us:</p>\n<p><span class=\"math\" data-latex=\"0.119 = \\frac{\\textup{useful energy out}}{\\textup{181 + useful energy out}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\textup{useful energy out} \\approx 24.4\\:\\textup{TJ}\"></span></p>\n<p>Calculating the power output:</p>\n<p><span class=\"math\" data-latex=\"P = \\frac{\\Delta W}{\\Delta t} = \\frac{24.4 \\times 10^{12}}{60 \\times 60 \\times 24} \\approx 2.8 \\times 10^{8}\\:\\textup{W} \\approx 280\\: \\textup{MW}\"></span></p>\n<p></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16c\"><p><strong>16c</strong></p><p></p>\n<p>During a Carnot cycle there are two isothermal processes, during which temperature must remain unchanged.</p>\n<p>To ensure that the temperature remains unchanged, these processes would have to be conducted very slowly, making the cycle impractical for a real heat engine.</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A theoretical model of a coal-fired power plant is based on the Carnot cycle. The power plant operates between the temperatures of <span class=\"math\" data-latex=\"277\\:{}^{\\circ}\\textup{C}\"></span> and <span class=\"math\" data-latex=\"518\\:{}^{\\circ}\\textup{C}\"></span>.</p>\n<p>(a)   </p>\n<p>(i)   Determine the Carnot efficiency of the power plant.</p>\n<p>  [2]</p>\n<p>(ii)   Outline whether a real power plant that operates between these temperatures can have an efficiency as found in part (a) (i).</p>\n<p>  [2]</p>\n<p>The waste thermal energy released by the power plant per day is <span class=\"math\" data-latex=\"181\\:\\textup{TJ}\"></span>.</p>\n<p>(b)   Given that the power plant operates at <span class=\"math\" data-latex=\"39\\%\"></span> of the Carnot efficiency, calculate, in <span class=\"math\" data-latex=\"\\textup{MW}\"></span>, the power output of the power plant.</p>\n<p>  [3]</p>\n<p>(c)   Outline why a Carnot cycle has little practical use for a heat engine.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

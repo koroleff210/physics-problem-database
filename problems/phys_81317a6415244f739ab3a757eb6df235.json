@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_81317a6415244f739ab3a757eb6df235",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is true for all electromagnetic waves in a vacuum?</p><ol class=\"mcq-options\"><li data-label=\"A\">They require a medium to travel</li><li data-label=\"B\">They are longitudinal</li><li data-label=\"C\">They have constant speed</li><li data-label=\"D\">They cannot be polarized</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

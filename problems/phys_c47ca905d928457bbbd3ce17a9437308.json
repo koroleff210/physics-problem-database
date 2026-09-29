@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_c47ca905d928457bbbd3ce17a9437308",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solid cylindrical wheel, initially at rest, rolls down a slope without slipping from a vertical height of <span class=\"math\" data-latex=\"3.0\\: \\textup{m}\"></span>. The moment of inertia, <span class=\"math\" data-latex=\"I\"></span>, for the wheel is <span class=\"math\" data-latex=\"I = \\frac{1}{2}mr^{2}\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"r\"></span> is the radius of the wheel.</p>\n<p>What is the best estimate for the final linear speed of the wheel?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{30} \\; \\textup{m s}^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{40} \\; \\textup{m s}^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{60} \\; \\textup{m s}^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{80} \\; \\textup{m s}^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

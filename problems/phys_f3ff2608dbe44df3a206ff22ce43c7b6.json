@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b285e150d83be2d8cf11fa5971a718e53276f78aca15b2082079c943ad5469c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b285e150d83be2d8cf11fa5971a718e53276f78aca15b2082079c943ad5469c5"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_f3ff2608dbe44df3a206ff22ce43c7b6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A box is sliding down a slope at constant speed. The angle between the slope and the horizontal is <span class=\"math\" data-latex=\"\\beta\"></span>. Three forces, <span class=\"math\" data-latex=\"N\"></span>, <span class=\"math\" data-latex=\"mg\"></span>, and <span class=\"math\" data-latex=\"F\"></span> act on the block.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following is incorrect?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"F = Ntan \\beta\"></span></li>\n<li data-label=\"B\">The resultant force on the block is zero.</li>\n<li data-label=\"C\">The vector sum of the three forces is zero.</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"N = mgsin \\beta\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

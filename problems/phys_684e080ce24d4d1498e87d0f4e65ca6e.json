@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_684e080ce24d4d1498e87d0f4e65ca6e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure liquid is heated at a constant rate until it is completely transformed into a gas at its boiling point. Which of the following describes the change in the energy of the molecules during the phase transition?</p><ol class=\"mcq-options\"><li data-label=\"A\">The average kinetic energy of the molecules increases.</li><li data-label=\"B\">The potential energy of the molecules increases.</li><li data-label=\"C\">The average kinetic energy of the molecules decreases.</li><li data-label=\"D\">The potential energy of the molecules remains constant.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

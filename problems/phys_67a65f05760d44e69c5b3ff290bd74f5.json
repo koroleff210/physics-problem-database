@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_67a65f05760d44e69c5b3ff290bd74f5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass 0.30 kg is travelling in a straight line. An impulse acting on the object changes its velocity from 25 cm s<sup>−1</sup> to 5.0 cm s<sup>−1</sup>.</p>\n<p>What is the magnitude of the impulse? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.06 N s</li><li data-label=\"B\">0.09 N s</li><li data-label=\"C\">6.0 N s</li><li data-label=\"D\">9.0 N s</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

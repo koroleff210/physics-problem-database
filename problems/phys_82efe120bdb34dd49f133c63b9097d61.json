@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ee232847ee6aacdde05dda687b56e86075615ef4e11dde099c3f92b42d26998b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ee232847ee6aacdde05dda687b56e86075615ef4e11dde099c3f92b42d26998b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/93e003c4bea7a8fc634f00a9564fb7291963992e11572775fbf839e12aee678d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "93e003c4bea7a8fc634f00a9564fb7291963992e11572775fbf839e12aee678d"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/c226b513a9410fc2d777128c3e171067de6c02982978b24c2f9df2ff4b99b020.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c226b513a9410fc2d777128c3e171067de6c02982978b24c2f9df2ff4b99b020"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/cebb8da825b8aee0ffe82aab15a766699a19de4e8177428f7c7f938325235597.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "cebb8da825b8aee0ffe82aab15a766699a19de4e8177428f7c7f938325235597"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_82efe120bdb34dd49f133c63b9097d61",
+  "level": "sl_hl",
+  "marks": 16,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a(i)\"><p><strong>6a(i)</strong></p><p><em></em></p>\n<p><span class=\"math\" data-latex=\"I = \\frac{3}{12.5} = 0.24 \\approx 0.2\"></span> A</p>\n<p>Answer must be given to 1 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6a(ii)\"><p><strong>6a(ii)</strong></p><p><em></em></p>\n<p><span class=\"math\" data-latex=\"P = \\frac {3^{2}}{10} = 0.9\"></span> W</p>\n<p><span class=\"math\" data-latex=\"E = 0.9 \\times 3 \\times 60 = 162\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6a(iii)\"><p><strong>6a(iii)</strong></p><p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"6b(i)\"><p><strong>6b(i)</strong></p><p></p>\n<p>The energy provided by the cell per coulomb of charge that passes through it.</p>\n<p>OR</p>\n<p>The work done per unit charge when moving a certain quantity of charge completely around a circuit.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b(ii)\"><p><strong>6b(ii)</strong></p><p></p>\n<p>An ideal voltmeter has no effect on the circuit/has infinite resistance.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b(iii)\"><p><strong>6b(iii)</strong></p><p></p>\n<p>When the current in resistor B is 1.2 A, <span class=\"math\" data-latex=\"V_{B} = 6\"></span> V and <span class=\"math\" data-latex=\"R_{B} = 5\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></p>\n<p>Since A and B are connected in parallel, <span class=\"math\" data-latex=\"V_{A} = 6\"></span> V.</p>\n<p>From the graph: </p>\n<p><span class=\"math\" data-latex=\"R_{A} = 10\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span> so <span class=\"math\" data-latex=\"I_{A} = 0.6\"></span> A</p>\n<p>Total resistance:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{R_{total}} = \\frac{1}{10} + \\frac{1}{5}\"></span>, so <span class=\"math\" data-latex=\"R_{total} = \\frac{10}{3}\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></p>\n<p>Current through cell = <span class=\"math\" data-latex=\"1.2\"></span> A + <span class=\"math\" data-latex=\"0.6\"></span> A = <span class=\"math\" data-latex=\"1.8\"></span> A</p>\n<p>Calculating r:</p>\n<p><span class=\"math\" data-latex=\"12 = 1.8(\\frac{10}{3} + r)\"></span></p>\n<p><span class=\"math\" data-latex=\"r \\approx\"></span> 3.3 <span class=\"math\" data-latex=\"\\Omega\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how <em>R</em>, the resistance varies with <em>V</em>, the potential difference across resistor A and resistor B.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. The potential difference across each resistor is 3 V.</p>\n<p>i. Find the current in resistor B. Give your answer to an appropriate number of significant figures.</p>\n<p>  [2]</p>\n<p>ii. Current flows through the resistors during 3 minutes. Assuming that <em>V</em> and <em>R</em> remain constant for both resistors, calculate the energy dissipated in resistor A.</p>\n<p>  [2]</p>\n<p>iii. Sketch graphs on the axes below to show how <em>I</em>, the current varies with <em>V</em>, the potential difference for the two resistors. Be sure to include correct values for <em>I</em> on the vertical axis.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [4]</p>\n<p></p>\n<p>b. The two resistors are connected to a cell of emf 12 V and internal resistance <em>r</em>. The ammeter and the voltmeter are ideal.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>i. State what is meant by emf of a cell.</p>\n<p>  [2]</p>\n<p>ii. State what is meant by an ideal voltmeter.</p>\n<p>  [1]</p>\n<p>iii. Find <em>r</em> when the ammeter reading is 1.2 A.</p>\n<p>  [5]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

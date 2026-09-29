@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_c55363c74797493d9313aa44e893df99",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Rod A and Rod B are made of the same material.</p>\n<p>The two ends of rod A are held at temperatures <span class=\"math\" data-latex=\"20\\:{}^{\\circ}\\textup{C}\"></span>and <span class=\"math\" data-latex=\"100\\:{}^{\\circ}\\textup{C}\"></span>. Thermal energy is transferred through rod A at a constant rate <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>The two ends of rod B are held at temperatures <span class=\"math\" data-latex=\"0\\:{}^{\\circ}\\textup{C}\"></span> <span class=\"math\" data-latex=\"160\\:{}^{\\circ}\\textup{C}\"></span>. </p>\n<p>Given that rod B has twice the length and half the cross-sectional area of rod A, what is the rate of thermal energy transfer through rod B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"4R\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2R\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{R}{4}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{R}{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

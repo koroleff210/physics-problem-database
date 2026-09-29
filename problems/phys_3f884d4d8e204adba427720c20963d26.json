@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_3f884d4d8e204adba427720c20963d26",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spaceship travels from Planet X to Planet Y at a speed of <span class=\"math\" data-latex=\"0.9c\"></span>. The two planets are stationary relative to each other. Observer A on the spaceship measures that the journey takes <span class=\"math\" data-latex=\"T\"></span> hours and Observer B, who is stationary on the surface of Planet X, measures that the distance travelled by the spaceship is <span class=\"math\" data-latex=\"L\"></span>.</p>\n<p>What is true about the time the journey takes as measured by Observer B and the distance travelled by the spaceship as measured by Observer A?</p>\n\n<div class=\"table-responsive\"><table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<span class=\"math\" data-latex=\"\\textbf{Time of the journey}\"></span>\n<span class=\"math\" data-latex=\"\\textbf{as measured by Observer B}\"></span>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"\\textbf{Distance travelled by the spaceship}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\textbf{as measured by Observer A}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Greater than <span class=\"math\" data-latex=\"T\"></span></td>\n<td>Greater than <span class=\"math\" data-latex=\"L\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Greater than <span class=\"math\" data-latex=\"T\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"L\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Less than <span class=\"math\" data-latex=\"T\"></span></td>\n<td>Greater than <span class=\"math\" data-latex=\"L\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Less than <span class=\"math\" data-latex=\"T\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"L\"></span></td>\n</tr>\n</tbody>\n</table></div>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

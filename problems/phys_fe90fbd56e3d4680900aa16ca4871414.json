@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_fe90fbd56e3d4680900aa16ca4871414",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Correct: clamping at the centre enforces zero displacement at the midpoint (node) and the free ends correspond to antinodes in the standing-wave model; only symmetric modes satisfy both ends simultaneously. The resonant frequencies are not exact integer harmonics for a real clamped-free beam, so describing them as “only odd harmonics” is not strictly correct.</p>\n<p>B: Incorrect as stated: while a simple node–antinode string/air-column model would suggest an odd-multiple pattern, a real rod/beam does not have resonant frequencies that are exact odd integer multiples, so “only odd harmonics” is misleading here.</p>\n<p>C: Incorrect: the central clamp imposes a node at the midpoint, so not all mode symmetries are permitted; modes must satisfy the midpoint node and free-end conditions.</p>\n<p>D: Incorrect: multiple resonant modes are possible (a set of allowed symmetric modes), not just a single mode.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal rod is clamped at the middle and free at both ends. Which statement best describes the resonance modes possible for this configuration?</p><ol class=\"mcq-options\"><li data-label=\"A\">Only modes that are symmetric about the clamp (with a node at the clamp and antinodes at the free ends)</li><li data-label=\"B\">Only odd harmonics of the fundamental</li><li data-label=\"C\">All integer harmonics of the fundamental</li><li data-label=\"D\">Only one unique mode is possible</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

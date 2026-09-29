@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_48cee26a7f2a49f1977d6c44edfaf565",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus of platinum (Pt) undergoes alpha decay to form an osmium (Os) nucleus as represented by the following reaction.</p>\n<p><sup>175</sup><sub>78</sub>Pt → Os + alpha particle</p>\n<p>What are the number of protons and the number of neutrons in the osmium nucleus?</p>\n<table><tbody><tr><td></td><td><p>Number of protons</p></td><td><p>Number of neutrons</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>74</p></td><td><p>93</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>76</p></td><td><p>93</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>74</p></td><td><p>95</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>76</p></td><td><p>95</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

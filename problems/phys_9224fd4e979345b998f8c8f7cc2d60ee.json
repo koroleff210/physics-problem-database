@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_9224fd4e979345b998f8c8f7cc2d60ee",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cyclist of mass <span class=\"math\" data-latex=\"65\\ kg\"></span> climbs a mountain road that gains <span class=\"math\" data-latex=\"800\\ m\"></span> of vertical height over <span class=\"math\" data-latex=\"5.0\\ km\"></span> of path in <span class=\"math\" data-latex=\"20\"></span> minutes. If the average resistive force is <span class=\"math\" data-latex=\"150\\ N\"></span>, what is the average power output of the cyclist?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"180\\ W\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"330\\ W\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"525\\ W\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1050\\ W\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

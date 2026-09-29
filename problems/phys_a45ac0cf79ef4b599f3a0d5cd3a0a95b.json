@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_a45ac0cf79ef4b599f3a0d5cd3a0a95b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about sound waves are:</p>\n<p>I. The displacement of particles is parallel to the direction of energy transfer.</p>\n<p>II. Sound waves can travel without a medium.</p>\n<p>III. The displacement of particles is highest at the center of a compression.</p>\n<p>Which of these statements is/are correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">I only</li><li data-label=\"B\">II only</li><li data-label=\"C\">I and III only</li><li data-label=\"D\">II and III only</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

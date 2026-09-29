@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_09ade2d988094f96900f7ff9cd5e3e67",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The escape speed from the surface of earth is v<sub>esc</sub>. The radius of earth is R. A satellite of mass m is in orbit at a height <span class=\"math\" data-latex=\"\\frac{R}{4}\"></span> above the surface of the Earth. What is the energy required to move the satellite to infinity?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mv^{2}_{esc}}{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2mv^{2}_{esc}}{5}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"mv^{2}_{esc}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2mv^{2}_{esc}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

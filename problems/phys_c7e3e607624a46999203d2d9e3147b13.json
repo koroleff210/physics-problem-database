@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_c7e3e607624a46999203d2d9e3147b13",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The length of a pipe that is open at one end and closed at the other end is <span class=\"math\" data-latex=\"x\"></span>. The length of another pipe that is open at both ends is <span class=\"math\" data-latex=\"y\"></span>. The frequency of the first harmonic in the first pipe is equal to the frequency of the third harmonic in the second pipe. What is <span class=\"math\" data-latex=\"\\frac{y}{x}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{6}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

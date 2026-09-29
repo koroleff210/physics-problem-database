@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_12c74bbd684a43f4abe1c988c9fbae66",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a\"><p><strong>11a</strong></p><p></p>\n<p>Using <span class=\"math\" data-latex=\"I \\propto x^{-2}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\left( \\frac{\\textup{Venus  to  Sun  distance}}{\\textup{Earth  to  Sun  distance}}\\right )^{2} = \\frac{1.36 \\times 10^{3}}{2.6 \\times 10^{3}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{\\textup{Venus  to  Sun  distance}}{\\textup{Earth  to  Sun  distance}}\\approx 0.72\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"P = IA = e \\sigma AT^{4}\"></span> and <span class=\"math\" data-latex=\"I = \\frac{2.6 \\times 10^{3}}{4}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt[4]{\\frac{2.6 \\times 10^{3}}{4 \\times (5.67 \\times 10^{-8})}} \\approx 327.21\"></span> K <span class=\"math\" data-latex=\"\\approx 54.21\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C <span class=\"math\" data-latex=\"\\approx 54\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C </p>\n<p>Calculated answer must be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p></p>\n<p>Sources: power plants, airplanes, cars, breathing</p>\n<p>Sinks: forests, lakes, oceans, plants</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11d\"><p><strong>11d</strong></p><p></p>\n<p>The greenhouse effect is caused by the absorption and re-radiation of energy by gas particles in the atmosphere.</p>\n<p>The given ratio shows that there are significantly fewer gas particles in the atmosphere of Planet X.</p>\n<p>As a result, the greenhouse effect on Planet X will be much less significant than on Earth. </p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The intensity of solar radiation at the orbit of Venus is approximately <span class=\"math\" data-latex=\"2.6 \\times 10^{3}\"></span> W m<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>a. Determine the ratio <span class=\"math\" data-latex=\"\\frac{Venus  to  Sun  distance}{Earth  to  Sun  distance}\"></span>.</p>\n<p>  [2]</p>\n<p>b. Assuming that Venus acts as a black body, show that the mean surface temperature of Venus is 54 <span class=\"math\" data-latex=\"^{o}\"></span>C.</p>\n<p>  [3]</p>\n<p>c. The mean surface temperature of the Earth has been rising over the past decades due to the effect of greenhouse gases, such as carbon-dioxide (CO<span class=\"math\" data-latex=\"_{2}\"></span>). Write down one sink and one source of this gas.</p>\n<p>  [2]</p>\n<p>d. The atmosphere of Planet X is composed of the same gases as the atmosphere of the Earth. The ratio <span class=\"math\" data-latex=\"\\frac{number  of  gas  particles  per  m^{3}  in  the  atmosphere  of  planet  X}{number  of  gas  particles  per  m^{3}  in  the  atmosphere  of  Earth} = 0.02\"></span>. Explain the effect that this has on the greenhouse effect on Planet X.</p>\n<p>  [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

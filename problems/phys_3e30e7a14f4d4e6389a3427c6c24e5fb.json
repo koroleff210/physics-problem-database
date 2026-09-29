@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e30e7a14f4d4e6389a3427c6c24e5fb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A radioactive material has a half-life of 6 days. How long will it take for 75 % of a pure sample of the material to decay?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3 days</li><li data-label=\"B\">6 days</li><li data-label=\"C\">12 days</li><li data-label=\"D\">18 days</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

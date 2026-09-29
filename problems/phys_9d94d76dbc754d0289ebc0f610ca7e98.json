@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9d94d76dbc754d0289ebc0f610ca7e98",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table provides data for two objects, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, that are modeled as perfect black bodies.</p>\n<table><thead><tr><th>Object</th><th>Surface temperature</th><th>Surface area</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"T\"></span></td><td><span class=\"math\" data-latex=\"S\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"3T\"></span></td><td><span class=\"math\" data-latex=\"\\frac{1}{9}S\"></span></td></tr></tbody></table>\n<p>What is the ratio of the total power radiated by object <span class=\"math\" data-latex=\"Y\"></span> to the total power radiated by object <span class=\"math\" data-latex=\"X\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">3</li><li data-label=\"B\">9</li><li data-label=\"C\">27</li><li data-label=\"D\">81</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

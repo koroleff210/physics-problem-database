@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_ac0dce977b0b45aaa33e293ef1be4147",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a\"><p><strong>12a</strong></p><p></p>\n<p>High temperature means that the nuclei have high kinetic energy/high speed.</p>\n<p>During fusion a high amount of energy is required to overcome the electrostatic repulsive force between the nuclei.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b\"><p><strong>12b</strong></p><p></p>\n<p>The energy that is released during the reaction has a mass equivalent (mass defect).</p>\n<p>Therefore the combined mass of the deuterium and the tritium is slightly larger than the combined mass of the alpha-particle and the neutron.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"12c\"><p><strong>12c</strong></p><p></p>\n<p>Converting the energy released into <span class=\"math\" data-latex=\"u\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\frac{18.6}{931.5} \\approx 0.01997u\"></span></p>\n<p>Converting the masses into <span class=\"math\" data-latex=\"u\"></span>:</p>\n<p>Tritium: <span class=\"math\" data-latex=\"\\frac{5.00966 \\times 10^{-27}}{1.661 \\times 10^{-27}} \\approx 3.0161u\"></span></p>\n<p>Alpha-particle: <span class=\"math\" data-latex=\"\\frac{6.64651 \\times 10^{-27}}{1.661 \\times 10^{-27}} \\approx 4.0015u\"></span></p>\n<p>Mass of deuterium:</p>\n<p><span class=\"math\" data-latex=\"(4.0015u + 1.00867u + 0.01997u) - 3.0161u \\approx 2.01u\"></span></p>\n<p>Final answer must be given to 3 significant figures.</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Deuterium and tritium undergo fusion to produce an alpha-particle and a neutron. </p>\n<p>a. Outline why this reaction requires extremely high temperatures.</p>\n<p>  [2]</p>\n<p>The following data are provided:</p>\n<p></p>\n<p>Rest mass of tritium: <span class=\"math\" data-latex=\"5.00966 \\times 10^{-27}\"></span> kg</p>\n<p>Rest mass of alpha-particle: <span class=\"math\" data-latex=\"6.64651 \\times 10^{-27}\"></span> kg</p>\n<p>Energy released during the reaction: <span class=\"math\" data-latex=\"18.6\"></span> MeV</p>\n<p></p>\n<p>b. Explain why the combined mass of deuterium and tritium is slightly different from the combined mass of the alpha-particle and the neutron.</p>\n<p>   [2]</p>\n<p>c. Calculate, in <span class=\"math\" data-latex=\"u\"></span>, the rest mass of deuterium. Give your answer to an appropriate number of significant figures.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

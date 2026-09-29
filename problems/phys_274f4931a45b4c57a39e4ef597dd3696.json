@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_274f4931a45b4c57a39e4ef597dd3696",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The problem describes motion with constant acceleration from rest. The relevant kinematic equation is s = ut + (1/2)at^2. Substituting the given variables (s=d, u=0), we get d = (1/2)at^2. Solving for the acceleration 'a' yields a = 2d/t^2.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object moves from rest with a uniform acceleration a over a distance d in a time t.</p>\n<p>What is a?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"\\dfrac{d}{t^2}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"\\dfrac{d^2}{t}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"\\dfrac{2d}{t^2}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"\\dfrac{d^2}{2t}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

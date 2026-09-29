@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_c9d6c955f82e4b04af3f8554bc99329f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which assumption is part of the molecular kinetic model of ideal gases?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The work done on a system equals the change in kinetic energy of the system.</li><li data-label=\"B\">The volume of a gas results from adding the volume of the individual molecules.</li><li data-label=\"C\">A gas is made up of tiny identical particles in constant random motion.</li><li data-label=\"D\">All particles in a gas have kinetic and potential energy.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

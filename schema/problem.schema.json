@@ -1,0 +1,188 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/ib-physics/question-v4.schema.json",
+  "title": "IB Physics V4 canonical problem",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "paper",
+    "level",
+    "type",
+    "classes",
+    "difficulty",
+    "marks",
+    "question",
+    "markscheme",
+    "assets",
+    "review"
+  ],
+  "properties": {
+    "schema_version": { "const": "question.v4" },
+    "id": {
+      "type": "string",
+      "pattern": "^phys_[0-9a-f]{32}$"
+    },
+    "paper": {
+      "enum": ["paper_1a", "paper_1b", "paper_2"]
+    },
+    "level": {
+      "enum": ["sl", "hl", "sl_hl"]
+    },
+    "type": {
+      "enum": ["mcq", "structured"]
+    },
+    "classes": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[A-E]\\.[1-5]$"
+      }
+    },
+    "difficulty": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "integer", "minimum": 1, "maximum": 10 }
+      ]
+    },
+    "marks": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "integer", "minimum": 0 }
+      ]
+    },
+    "question": { "$ref": "#/$defs/document" },
+    "markscheme": { "$ref": "#/$defs/document" },
+    "assets": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/asset" }
+    },
+    "review": { "$ref": "#/$defs/review" }
+  },
+  "$defs": {
+    "document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["html"],
+      "properties": {
+        "html": { "type": "string", "minLength": 1 }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "file",
+        "sha256",
+        "media_type",
+        "role",
+        "placement_status",
+        "alt"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]{1,63}$"
+        },
+        "file": {
+          "oneOf": [
+            { "type": "null" },
+            {
+              "type": "string",
+              "pattern": "^assets/[0-9a-f]{64}\\.(png|jpg|jpeg|webp|gif|svg)$"
+            }
+          ]
+        },
+        "sha256": {
+          "oneOf": [
+            { "type": "null" },
+            { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+          ]
+        },
+        "media_type": {
+          "oneOf": [
+            { "type": "null" },
+            {
+              "enum": [
+                "image/png",
+                "image/jpeg",
+                "image/webp",
+                "image/gif",
+                "image/svg+xml"
+              ]
+            }
+          ]
+        },
+        "role": {
+          "enum": [
+            "question_diagram",
+            "markscheme_diagram",
+            "shared_diagram",
+            "reference_page"
+          ]
+        },
+        "placement_status": {
+          "enum": ["placed", "missing", "needs_review", "reference_only"]
+        },
+        "alt": { "type": "string", "minLength": 1 }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "placement_status": { "enum": ["placed", "reference_only"] }
+            },
+            "required": ["placement_status"]
+          },
+          "then": {
+            "properties": {
+              "file": { "type": "string" },
+              "sha256": { "type": "string" },
+              "media_type": { "type": "string" }
+            }
+          }
+        }
+      ]
+    },
+    "issue": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["code", "message"],
+      "properties": {
+        "code": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]{2,63}$"
+        },
+        "message": { "type": "string", "minLength": 1 },
+        "field": { "type": "string", "minLength": 1 }
+      }
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "content", "classification", "assets", "issues"],
+      "properties": {
+        "status": {
+          "enum": ["draft", "needs_review", "approved", "quarantined"]
+        },
+        "content": {
+          "enum": ["draft", "needs_review", "approved", "quarantined"]
+        },
+        "classification": {
+          "enum": ["draft", "needs_review", "approved", "quarantined"]
+        },
+        "assets": {
+          "enum": ["draft", "needs_review", "approved", "quarantined"]
+        },
+        "issues": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/issue" }
+        }
+      }
+    }
+  }
+}

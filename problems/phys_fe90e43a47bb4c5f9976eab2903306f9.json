@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d047502cbb76bf86db21874b4e25cca2bce8665ac79962b3348b9c0d1023f9e8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d047502cbb76bf86db21874b4e25cca2bce8665ac79962b3348b9c0d1023f9e8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/761adff49dfe6e4a535ca36aa123c80dc89bffe4bb6483e41fe25011b3c31917.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "761adff49dfe6e4a535ca36aa123c80dc89bffe4bb6483e41fe25011b3c31917"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/dceb8c087db2fe011112575bb9c0d0b02e32d84be71623e83f179ea922084c3c.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "dceb8c087db2fe011112575bb9c0d0b02e32d84be71623e83f179ea922084c3c"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_fe90e43a47bb4c5f9976eab2903306f9",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\frac{GMm}{R^{2}}\"></span> OR <span class=\"math\" data-latex=\"mg\"></span>               N</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>Arrow for N and correct labelling ✔ <span class=\"math\" data-latex=\"\\frac{GMm}{R^{2}}\"></span> −N = mω<sup>2</sup>R result follows ✔</p>\n<p>N arrow must be shorter than weight.<br/>Award [0] if there are extra forces or incorrect length arrows in the diagram.<br/>On diagram allow Weight, W, F<sub>g</sub>, gravitational force but not gravity.<br/>Allow rotated diagrams if the surface of the asteroid is shown.<br/>For MP2 the algebra must follow from a diagram with correct length arrows.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>N≥0, so <span class=\"math\" data-latex=\"m\"></span>(<span class=\"math\" data-latex=\"\\frac{GM}{R^{2}}\"></span>−ω<sup>2</sup><span class=\"math\" data-latex=\"R\"></span>) ≥ 0 gives result ✔ OR «max» ω when N=0, so <span class=\"math\" data-latex=\"m\"></span>(<span class=\"math\" data-latex=\"\\frac{GM}{R^{2}}\"></span>−ω<sup>2</sup><span class=\"math\" data-latex=\"R\"></span>) = 0 gives result ✔</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Selection of solar constant, 1360 seen ✔ «Intensity is proportional to <span class=\"math\" data-latex=\"d\"></span><sup>−2</sup> so»</p>\n<p>« <span class=\"math\" data-latex=\"\\frac{I}{1360} = \\frac{\\frac{P}{4 π ( 4 {d}^{2} )}}{\\frac{P}{4 π {d}^{2}}}\"></span> » <span class=\"math\" data-latex=\"I\"></span> = <span class=\"math\" data-latex=\"\\frac{1360}{4^{2}}\"></span> =«85.0 W m<sup>−2</sup>» ✔</p>\n<p>Allow ECF for MP2 from incorrect solar constant.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>σT<sup>4 </sup>= 85 OR T = <span class=\"math\" data-latex=\"\\sqrt[4]{\\frac{85}{5.67 \\times  10^{-8}}}\"></span> ✔</p>\n<p>T = 196.7 2 ≈ 2.0 × 10<sup>2</sup> «K» ✔</p>\n<p>Award [2] for 140 K, if factor of ¼ is included</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A probe of mass <span class=\"math\" data-latex=\"m\"></span> has landed on the equator of a rotating asteroid of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The asteroid rotates with angular speed ω.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>By drawing a free-body diagram for the probe, show that the normal force, N, on the probe from the asteroid is given by N = m(<span class=\"math\" data-latex=\"\\frac{GM}{R^{2}}\"></span>−ω<sup>2</sup>R).</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Deduce that the probe will remain on the asteroid surface only if ω ≤ <span class=\"math\" data-latex=\"\\sqrt{\\frac{GM}{R^{3}}}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Another probe orbits the Sun.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> The distance between the probe and the Sun is 4 times the distance between the Earth and the Sun. Show that the intensity of the solar radiation at the surface of the probe is 85 W m<sup>−2</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Estimate the equilibrium temperature of the probe assuming it behaves as a black body. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6bfd6879b6bc1eedb54a1ed60d5474be23294cd19d0834d74a97cb664fe8a5e5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6bfd6879b6bc1eedb54a1ed60d5474be23294cd19d0834d74a97cb664fe8a5e5"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_0d2b296f1478474588dfd949e6652241",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The highest frequency is detected due to the Doppler effect when the source's velocity component towards the observer is maximized. For a source in circular motion and a stationary observer outside the circle, this occurs when the source's velocity vector points directly at the observer. This position is where the line of sight from the observer is tangent to the circular path, which for the given geometry is a point on the arc between Z (6 o'clock) and the point on the circle closest to W (3 o'clock).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows an aerial view of a toy drone flying in a counterclockwise horizontal circle at a height of 1 meter. A microphone is mounted at the same height on a stand. The toy drone emits sound of constant frequency.</p>\n<p>Where is the toy drone positioned when the microphone registers the highest frequency?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> At point Z</li>\n<li data-label=\"B\"> At point X</li>\n<li data-label=\"C\"> At a point between Y and Z</li>\n<li data-label=\"D\"> At a point between Z and W</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

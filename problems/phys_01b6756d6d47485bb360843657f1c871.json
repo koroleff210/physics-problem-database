@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_01b6756d6d47485bb360843657f1c871",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two parallel plates are separated by a distance <span class=\"math\" data-latex=\"d\"></span> and connected to a battery of voltage <span class=\"math\" data-latex=\"V\"></span>. A small charged oil droplet with charge <span class=\"math\" data-latex=\"q\"></span> and mass <span class=\"math\" data-latex=\"m\"></span> remains suspended between the plates. What is the electric field strength required to suspend the droplet?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\dfrac{V}{qd}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\dfrac{Vd}{q}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\dfrac{mg}{q}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\dfrac{q}{mg}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

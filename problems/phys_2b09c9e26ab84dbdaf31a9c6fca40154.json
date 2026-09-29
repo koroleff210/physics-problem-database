@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_2b09c9e26ab84dbdaf31a9c6fca40154",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student plots the neutron number versus proton number graph for all stable nuclides. Which of the following can the student deduce from the graph?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Average binding energy per nucleon decreases as neutron number increases.</li>\n<li data-label=\"B\">The existence of beta decay.</li>\n<li data-label=\"C\">That protons and neutrons are composed of quarks.</li>\n<li data-label=\"D\">The range of the strong nuclear force is extremely short.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

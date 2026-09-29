@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7cabfa3718450ba040b76e1dbce165e82d59522f30fc2557b584228914b001b5.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7cabfa3718450ba040b76e1dbce165e82d59522f30fc2557b584228914b001b5"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_8b75944d4ac449728160be03932c70b3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the velocity <span class=\"math\" data-latex=\"v\"></span> of two particles, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, that start from the same position at <span class=\"math\" data-latex=\"t = 0\"></span> and move along the same straight line.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Particle <span class=\"math\" data-latex=\"P\"></span> moves with a constant velocity <span class=\"math\" data-latex=\"u\"></span>. Particle <span class=\"math\" data-latex=\"Q\"></span> moves with a constant acceleration from rest, reaching velocity <span class=\"math\" data-latex=\"u\"></span> at time <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p>What is the time taken for particle <span class=\"math\" data-latex=\"Q\"></span> to overtake particle <span class=\"math\" data-latex=\"P\"></span>, and what is the velocity of <span class=\"math\" data-latex=\"Q\"></span> at that instant?</p>\n<table><thead><tr><th></th><th>Time taken to overtake</th><th>Velocity of <span class=\"math\" data-latex=\"Q\"></span></th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td><span class=\"math\" data-latex=\"T\"></span></td><td><span class=\"math\" data-latex=\"u\"></span></td></tr><tr data-label=\"B\"><td>B</td><td><span class=\"math\" data-latex=\"T\"></span></td><td><span class=\"math\" data-latex=\"2u\"></span></td></tr><tr data-label=\"C\"><td>C</td><td><span class=\"math\" data-latex=\"2T\"></span></td><td><span class=\"math\" data-latex=\"u\"></span></td></tr><tr data-label=\"D\"><td>D</td><td><span class=\"math\" data-latex=\"2T\"></span></td><td><span class=\"math\" data-latex=\"2u\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

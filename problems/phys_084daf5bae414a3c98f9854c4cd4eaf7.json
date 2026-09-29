@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_084daf5bae414a3c98f9854c4cd4eaf7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A hot iron rod at 80°C is placed in a container with an equal mass of water at 10°C. The specific heat capacity of iron is less than that of water. If no thermal energy is lost to the surroundings, the equilibrium temperature of the water and iron will be:</p><ol class=\"mcq-options\"><li data-label=\"A\">less than 45°C</li><li data-label=\"B\">45°C</li><li data-label=\"C\">more than 45°C</li><li data-label=\"D\">80°C</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d267b3ace7ad4dadba8c0b6f01e101cf",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cyclist rides up a hill of vertical height 100 m in 500 s at a constant speed. The combined mass of the cyclist and the bicycle is 80 kg. The power developed by the cyclist is 200 W. What is the efficiency of the energy transfer in this system?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">8 %</li><li data-label=\"B\">20 %</li><li data-label=\"C\">60 %</li><li data-label=\"D\">80 %</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

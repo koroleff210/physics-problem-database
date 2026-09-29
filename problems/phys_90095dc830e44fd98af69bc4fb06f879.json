@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/21c28019b82bdfcc158159a3d87687eefdd18841f6f238e1dd14d6f05fa60a9a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "21c28019b82bdfcc158159a3d87687eefdd18841f6f238e1dd14d6f05fa60a9a"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_90095dc830e44fd98af69bc4fb06f879",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/><br/>1.7c ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\frac{c+0.70c}{1+\\frac{c⋅0.70c}{c^{2}}}\"></span> or <span class=\"math\" data-latex=\"\\frac{c--0.70c}{1-\\frac{c-⋅0.70c}{c^{2}}}\"></span>seen ✓ c ✓<br/><br/>Award MP2 if no calculation seen.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/><br/>(Discovery implied that) speed of light (in vacuum) is constant / invariant / does not depend on speed of source / same in all inertial frames ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>P transmits a radio signal to Q. Relative to the Earth’s surface, Q is stationary and P moves at a speed of 0.70c as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State, using Galilean relativity, the speed of the radio signal relative to Q. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine, using relativistic velocity addition, the speed of the radio signal relative to Q. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A paradigm shift in science replaced Galilean relativity with the theory of special relativity.</p>\n<p>Explain how this paradigm shift was linked to Maxwell’s discovery of a set of electromagnetic equations.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

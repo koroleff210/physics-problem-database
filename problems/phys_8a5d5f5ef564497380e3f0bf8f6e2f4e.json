@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1bbefd4ed56bb5486923f24e7b841310648b32b2bb311b3346f737f867b6a51c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1bbefd4ed56bb5486923f24e7b841310648b32b2bb311b3346f737f867b6a51c"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_8a5d5f5ef564497380e3f0bf8f6e2f4e",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two bodies collide on a horizontal frictionless surface. Body X, of mass 2.0 kg, moves with an initial speed of 0.80 m s<sub>−1</sub> and body Y is initially stationary. After the collision, body X moves at an angle of 90° to the initial direction of motion with a speed of 0.60 m s<sub>−1</sub>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the momentum of body Y after the collision?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.40 kg m s<sub>−1</sub></li><li data-label=\"B\">1.0 kg m s<sub>−1</sub></li><li data-label=\"C\">2.0 kg m s<sub>−1</sub></li><li data-label=\"D\">2.8 kg m s<sub>−1</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

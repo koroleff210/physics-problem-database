@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3e6a4b628c7943eba39393755bc6918f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Incorrect. The neutron was discovered by Chadwick in 1932, not from the Rutherford (Geiger–Marsden) scattering experiment.</p>\n<p>B: Incorrect. The electron was discovered by J. J. Thomson (1897), prior to the Rutherford (Geiger–Marsden) scattering experiment.</p>\n<p>C: Correct. The Rutherford (Geiger–Marsden) scattering experiment led to the nuclear model of the atom, establishing the existence of a small, dense, positively charged nucleus.</p>\n<p>D: Incorrect. The positron was discovered by Anderson in 1932, not from the Rutherford (Geiger–Marsden) scattering experiment.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following was established by the Rutherford (Geiger–Marsden) scattering experiment?</p><ol class=\"mcq-options\"><li data-label=\"A\">Neutron</li><li data-label=\"B\">Electron</li><li data-label=\"C\">The atomic nucleus</li><li data-label=\"D\">Positron</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

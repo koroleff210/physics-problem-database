@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_d9c85c9d6b0a4256a3b557b25543f8e8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which particle, at rest, has the largest magnitude for <span class=\"math\" data-latex=\"\\frac{charge}{mass}\"></span> ?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Alpha particle</li><li data-label=\"B\">Beta minus particle</li><li data-label=\"C\">Proton</li><li data-label=\"D\">Neutron</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

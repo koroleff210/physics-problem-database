@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_196307aa14584d04bbcd753ce0ab532b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing sound wave is formed in a pipe of length <span class=\"math\" data-latex=\"L\"></span> that is open at both ends. The standing wave has two nodes. What is the wavelength of the standing wave?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{L}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2L}{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"L\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2L\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

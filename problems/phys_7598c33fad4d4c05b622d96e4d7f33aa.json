@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7c6357bea2b0c75ae7a6457b8c0960d9a5995e4d77b9b8d0e89fb7d07a2562a7.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7c6357bea2b0c75ae7a6457b8c0960d9a5995e4d77b9b8d0e89fb7d07a2562a7"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_7598c33fad4d4c05b622d96e4d7f33aa",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"\\theta\"></span> = <span class=\"math\" data-latex=\"\\frac{L}{R}\"></span> ✔</p>\n<p>Accept: <span class=\"math\" data-latex=\"L\"></span> and <span class=\"math\" data-latex=\"\\theta\"></span> are directly proportional.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 use of rotational kinematics equation to get α = <span class=\"math\" data-latex=\"\\frac{2\\theta}{t^{2}}\"></span> ✔ <span class=\"math\" data-latex=\"\\theta\"></span> =«<span class=\"math\" data-latex=\"\\frac{1.5}{0.555}\"></span>=»27.3 «rad» ✔ α =« <span class=\"math\" data-latex=\"\\frac{2 \\times  27.3}{0.96^{2}}\"></span>=»59 «rad s<sup>−2</sup>» ✔</p>\n<p>ALTERNATIVE 2<br/>final speed v=2×1.5/0.96 = 3.12 ms<sup>−1</sup> ✔<br/>final angular speed ω=v/<span class=\"math\" data-latex=\"R\"></span> ✔<br/>α=ω/0.96=59 «rads<sup>−2</sup> » ✔</p>\n<p>ALTERNATIVE 3<br/>acceleration = 2<span class=\"math\" data-latex=\"L\"></span>/<span class=\"math\" data-latex=\"t\"></span><sup>2</sup> ✔<br/>acceleration = 3.26 m s<sup>−2</sup> ✔<br/>angular acceleration = acceleration/<span class=\"math\" data-latex=\"R\"></span> = 59 «rad s<sup>−2</sup> » ✔</p>\n<p>Award [3] for bald correct answer from interval 58.0 to 59.3.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ring has a larger moment of inertia/ mass further from the axis of rotation ✔ ring will have smaller angular acceleration<br/>OR<br/>higher portion of/more energy is stored in rotational KE for ring ✔ ring arrives last ✔</p>\n<p>Reverse argument allowed in terms of the disk. Award MP3 only if MP1 or MP2 are awarded. Award [0] for work based on idea that ring has lower moment of inertia.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A solid disk, initially at rest, rolls without slipping down an inclined plane. The disk has a radius R = 5.5 cm. The length of the inclined plane is L = 1.5 m.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> The time taken for the disk to roll down the inclined plane is t = 0.96 s.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State, for this disk, the relationship between linear displacement, L, and angular displacement, <span class=\"math\" data-latex=\"\\theta\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Calculate the angular acceleration of the disk. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The disk and a ring, with the same mass and radius, are released from the top of the slope at the same time. Explain, without numerical calculation, which one will reach the bottom of the inclined plane first. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

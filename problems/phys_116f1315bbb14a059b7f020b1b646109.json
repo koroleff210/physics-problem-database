@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b07294c91731161406012e0883e385f23e0de5b14a49ec7487f7b9a17870e428.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b07294c91731161406012e0883e385f23e0de5b14a49ec7487f7b9a17870e428"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/016b4a9d6e101e85e17a6a77b4351febe9ad277936b08b014733e1e4483c9ca0.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "016b4a9d6e101e85e17a6a77b4351febe9ad277936b08b014733e1e4483c9ca0"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_116f1315bbb14a059b7f020b1b646109",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"7a\"><p><strong>7a</strong></p><p></p>\n<p>Reading the maximum wavelength from the graph and substituting into the formula <span class=\"math\" data-latex=\"\\lambda_{\\textup{max}}T = 2.9 \\times 10^{-3}\"></span> we get that:</p>\n<p><span class=\"math\" data-latex=\"T = T = \\frac{2.9 \\times 10^{-3}}{470 \\times 10^{-9}} \\approx 6170\\: \\textup{K} \\approx 6000\\: \\textup{K}\"></span></p></section><section class=\"markscheme-part\" data-label=\"7b\"><p><strong>7b</strong></p><p></p>\n<p>Combining <span class=\"math\" data-latex=\"L = \\sigma A T^{4}\"></span> and <span class=\"math\" data-latex=\"b = \\frac{L}{4 \\pi d}\"></span> we get that:</p>\n<p><span class=\"math\" data-latex=\"b = \\frac{\\sigma A T^{4}}{4 \\pi d^{2}}\"></span>.</p>\n<p>In this formula <span class=\"math\" data-latex=\"A\"></span> represents the surface area of the star, so using the sphere surface area formula we get that:</p>\n<p><span class=\"math\" data-latex=\"b = \\frac{\\sigma \\times 4 \\pi r^{2} \\times  T^{4}}{4 \\pi d^{2}} = \\frac{\\sigma r^{2} T^{4}}{d^{2}}\"></span></p>\n<p>Rearranging for <span class=\"math\" data-latex=\"d\"></span> and substituting:</p>\n<p><span class=\"math\" data-latex=\"d = \\sqrt{\\frac{(5.67 \\times 10^{-8})(2.3 \\times 10^{9})^{2}(6000)^{4}}{1.4 \\times 10^{-11}}} \\approx 5.3 \\times 10^{18}\\: \\textup{m}\"></span></p></section><section class=\"markscheme-part\" data-label=\"7c\"><p><strong>7c</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n\n.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows the black-body spectrum for a star.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   Show that the surface temperature of the star is about <span class=\"math\" data-latex=\"6000\\:\\textup{K}\"></span>.</p>\n<p>  [1]</p>\n<p>The radius of the star is <span class=\"math\" data-latex=\"2.3 \\times 10^{6}\\:\\textup{km}\"></span> and its apparent brightness is <span class=\"math\" data-latex=\"1.4 \\times 10^{-11}\\:\\textup{W\\,m}^{-2}\"></span>.</p>\n<p>(b)   Estimate the distance of the star from Earth.</p>\n<p>  [3]</p>\n<p>The surface temperature of a different star is <span class=\"math\" data-latex=\"4500\\:\\textup{K}\"></span>.</p>\n<p>(c)   Sketch, without a calculation, the approximate black-body spectrum of this star.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>    [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

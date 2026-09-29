@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_d76b2cd2c782469b9d9c00afd0764794",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting disc of a radius <span class=\"math\" data-latex=\"R\"></span> rotates with angular speed <span class=\"math\" data-latex=\"\\omega\"></span> in a uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> directed perpendicular to the disc. The emf between the center and edge of the disc is:</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\dfrac{1}{2}B\\omega R^2\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"B\\omega R^2\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2B\\omega R^2\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

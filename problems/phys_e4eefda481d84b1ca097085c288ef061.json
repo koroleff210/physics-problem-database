@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8363c38bc414f8870c3bc0228adcf1f110e788fd55719354c65fd7222b4a0816.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8363c38bc414f8870c3bc0228adcf1f110e788fd55719354c65fd7222b4a0816"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c47e1693d54af1f89edf852f40ce12d6ff4056d1f81e7becc81d14dc2caf0a6a.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c47e1693d54af1f89edf852f40ce12d6ff4056d1f81e7becc81d14dc2caf0a6a"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e4eefda481d84b1ca097085c288ef061",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Use of <span class=\"math\" data-latex=\"a = \\frac{v - u}{t}\"></span> or equivalent</p>\n<p>- Substitution: <span class=\"math\" data-latex=\"a = \\frac{45 - 0}{15} = 3.0 \\text{ m s}^{-2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use of <span class=\"math\" data-latex=\"t = \\frac{s}{v}\"></span> for the constant velocity phase</p>\n<p>- Substitution: <span class=\"math\" data-latex=\"t = \\frac{1350}{45} = 30 \\text{ s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use of <span class=\"math\" data-latex=\"v^2 = u^2 + 2as\"></span></p>\n<p>- Correct substitution: <span class=\"math\" data-latex=\"0^2 = 45^2 + 2 \\times a \\times 675\"></span> [1 mark]</p>\n<p>- Correct calculation of magnitude: <span class=\"math\" data-latex=\"a = \\frac{-2025}{1350} \\implies |a| = 1.5 \\text{ m s}^{-2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Three-stage graph: diagonal line from (0,0) to (15,45), horizontal line to <span class=\"math\" data-latex=\"t = 45 \\text{ s}\"></span>, and diagonal line to <span class=\"math\" data-latex=\"t = 75 \\text{ s}\"></span> [1 mark]</p>\n<p>- Correct key values on axes: peak at 45, horizontal segment from <span class=\"math\" data-latex=\"t=15\"></span> to <span class=\"math\" data-latex=\"t=45\"></span>, and intercept at <span class=\"math\" data-latex=\"t=75\"></span> [1 mark]</p>\n<p>Note: The time for the braking phase is <span class=\"math\" data-latex=\"\\Delta t = \\frac{v-u}{a} = \\frac{0-45}{-1.5} = 30 \\text{ s}\"></span>, so the final time is <span class=\"math\" data-latex=\"15 + 30 + 30 = 75 \\text{ s}\"></span>.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Calculate total distance: <span class=\"math\" data-latex=\"s_{total} = \\left(\\frac{1}{2} \\times 45 \\times 15\\right) + 1350 + 675 = 337.5 + 1350 + 675 = 2362.5 \\text{ m}\"></span> [1 mark]</p>\n<p>- Calculate total time: <span class=\"math\" data-latex=\"t_{total} = 15 + 30 + 30 = 75 \\text{ s}\"></span> [1 mark]</p>\n<p>- State final answer with units: <span class=\"math\" data-latex=\"v_{avg} = \\frac{2362.5}{75} = 31.5 \\text{ m s}^{-1}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A prototype maglev train is undergoing speed tests on a straight, horizontal guideway. The train starts from rest and accelerates uniformly until it reaches a maximum operational speed of <span class=\"math\" data-latex=\"45 \\text{ m s}^{-1}\"></span> in a time of <span class=\"math\" data-latex=\"15 \\text{ s}\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>Upon reaching this speed, the train maintains it for a distance of <span class=\"math\" data-latex=\"1350 \\text{ m}\"></span> before entering a braking zone. In the braking zone, the train decelerates uniformly to a complete stop over a distance of <span class=\"math\" data-latex=\"675 \\text{ m}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the magnitude of the train's acceleration during the first <span class=\"math\" data-latex=\"15 \\text{ s}\"></span> is <span class=\"math\" data-latex=\"3.0 \\text{ m s}^{-2}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the time, in seconds, for which the train travels at its constant maximum speed. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the magnitude of the constant deceleration of the train during the final <span class=\"math\" data-latex=\"675 \\text{ m}\"></span> of its journey. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>Sketch, on the axes provided below, a velocity-time graph for the entire journey of the maglev train from start to finish.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Calculate the average speed of the train for the entire journey. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

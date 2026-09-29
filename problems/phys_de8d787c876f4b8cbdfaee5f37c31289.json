@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_de8d787c876f4b8cbdfaee5f37c31289",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Use <span class=\"math\" data-latex=\"qV = \\frac{1}{2}mv^2 \\Rightarrow v = \\sqrt{\\frac{2qV}{m}}\"></span> [1 mark]</p>\n<p>- <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2 \\times 1.60 \\times 10^{-19} \\times 5000}{6.66 \\times 10^{-26}}} \\approx 1.55 \\times 10^5\\ \\text{m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Use <span class=\"math\" data-latex=\"r = \\frac{mv}{qB}\"></span> [1 mark]</p>\n<p>- Substitution: <span class=\"math\" data-latex=\"r = \\frac{6.66 \\times 10^{-26} \\times 1.55 \\times 10^5}{1.60 \\times 10^{-19} \\times 0.45}\"></span> [1 mark]</p>\n<p>- <span class=\"math\" data-latex=\"r \\approx 1.43 \\times 10^{-1}\\ \\text{m}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Doubly ionized ion has charge <span class=\"math\" data-latex=\"2q\"></span> → radius becomes <span class=\"math\" data-latex=\"r = \\frac{mv}{2qB}\"></span> [1 mark]</p>\n<p>- Radius is halved for same speed and magnetic field strength [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>To prevent collisions with air molecules that would scatter or slow down the ions [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>The path becomes a helix (helical motion) instead of circular [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a laboratory experiment, singly ionized calcium ions (Ca⁺) of mass <span class=\"math\" data-latex=\"6.66 \\times 10^{-26}\\ \\text{kg}\"></span> and charge <span class=\"math\" data-latex=\"1.60 \\times 10^{-19}\\ \\text{C}\"></span> are accelerated through a potential difference of 5.0 kV before entering a uniform magnetic field of strength <span class=\"math\" data-latex=\"0.45\\ \\text{T}\"></span>. The magnetic field is perpendicular to the velocity of the ions.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the final speed of the calcium ions after acceleration.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the radius of the path followed by the ions in the magnetic field.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain the effect on the radius if the same field is used with doubly ionized calcium ions (<span class=\"math\" data-latex=\"\\text{Ca}^{2+}\"></span>).<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Suggest why mass spectrometers must be operated under low-pressure conditions.<p>[1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Comment on the path shape if the ions entered the magnetic field at an angle other than <span class=\"math\" data-latex=\"90^\\circ\"></span> to the field lines.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

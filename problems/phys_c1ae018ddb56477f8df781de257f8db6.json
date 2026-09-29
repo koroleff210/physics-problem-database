@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c1ae018ddb56477f8df781de257f8db6",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The phase change (melting) occurs at <span class=\"math\" data-latex=\"50\\ {}^\\circ\\mathrm{C}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- The average kinetic energy of the molecules remains constant because the temperature is unchanged [1 mark]</p>\n<p>- The internal potential energy increases as thermal energy is used to weaken or break the intermolecular bonds [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Duration of phase change = <span class=\"math\" data-latex=\"200\\ \\mathrm{s} - 80\\ \\mathrm{s} = 120\\ \\mathrm{s}\"></span> [1 mark]</p>\n<p>- Energy <span class=\"math\" data-latex=\"Q = P \\times t = 150\\ \\mathrm{W} \\times 120\\ \\mathrm{s} = 18000\\ \\mathrm{J}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Substitution into <span class=\"math\" data-latex=\"L_f = \\frac{Q}{m} = \\frac{18000}{0.080}\"></span> [1 mark]</p>\n<p>- Final answer: <span class=\"math\" data-latex=\"225,000\\ \\mathrm{J\\ kg^{-1}}\"></span> (or <span class=\"math\" data-latex=\"2.25 \\times 10^5\\ \\mathrm{J\\ kg^{-1}}\"></span>) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An experiment is performed to study the heating process of a solid sample. The sample, which has a mass of <span class=\"math\" data-latex=\"0.080\\ \\mathrm{kg}\"></span>, is heated from its initial solid state using an electric immersion heater with a constant power rating of <span class=\"math\" data-latex=\"150\\ \\mathrm{W}\"></span>. The temperature of the sample is recorded at <span class=\"math\" data-latex=\"40\\ \\mathrm{s}\"></span> intervals in the table below.</p><table><thead><tr><th>Time <span class=\"math\" data-latex=\"t\"></span> (<span class=\"math\" data-latex=\"\\mathrm{s}\"></span>)</th><th>Temperature <span class=\"math\" data-latex=\"T\"></span> (<span class=\"math\" data-latex=\"{}^\\circ\\mathrm{C}\"></span>)</th></tr></thead><tbody><tr><td>0</td><td>18</td></tr><tr><td>40</td><td>34</td></tr><tr><td>80</td><td>50</td></tr><tr><td>120</td><td>50</td></tr><tr><td>160</td><td>50</td></tr><tr><td>200</td><td>50</td></tr><tr><td>240</td><td>62</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the temperature at which the sample is undergoing a phase change.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Discuss the changes to the internal energy of the molecules in the sample during the interval <span class=\"math\" data-latex=\"t = 80\\ \\mathrm{s}\"></span> to <span class=\"math\" data-latex=\"t = 200\\ \\mathrm{s}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the total amount of thermal energy transferred to the substance while it is at its melting point.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the specific latent heat of fusion for this substance based on the data provided.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

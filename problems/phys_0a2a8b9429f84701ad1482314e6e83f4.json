@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_0a2a8b9429f84701ad1482314e6e83f4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A coal-fired power station is replaced by a nuclear power station with the same electrical power output and overall efficiency. The specific energy of the coal used is <span class=\"math\" data-latex=\"24\\text{ MJ kg}^{-1}\"></span> and the specific energy of the uranium fuel used in the nuclear reactor is <span class=\"math\" data-latex=\"72\\text{ TJ kg}^{-1}\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{mass of coal consumed}}{\\text{mass of uranium fuel consumed}}\"></span> for the same period of operation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"3.0 \\times 10^6\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.3 \\times 10^{-7}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3.0 \\times 10^3\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.7 \\times 10^6\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

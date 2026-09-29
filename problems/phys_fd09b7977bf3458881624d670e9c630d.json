@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_fd09b7977bf3458881624d670e9c630d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is true about a closed system and an isolated system?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Energy can enter a closed system, but not an isolated system.</li>\n<li data-label=\"B\">Mass can enter a closed system, but not an isolated system.</li>\n<li data-label=\"C\">Energy can enter an isolated system, but not a closed system.</li>\n<li data-label=\"D\">Mass can enter an isolated system, but not a closed system.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

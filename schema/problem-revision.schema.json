@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V4 canonical problem revision",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["v4_id", "source_canonical_ids", "revised_at", "reviewer", "previous_sha256", "problem_sha256", "reason_codes"],
+  "properties": {
+    "v4_id": { "type": "string", "pattern": "^phys_[0-9a-f]{32}$" },
+    "source_canonical_ids": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "revised_at": { "type": "string", "format": "date-time" },
+    "reviewer": { "type": "string", "minLength": 1 },
+    "previous_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "problem_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "reason_codes": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9_]{2,63}$" }
+    }
+  }
+}

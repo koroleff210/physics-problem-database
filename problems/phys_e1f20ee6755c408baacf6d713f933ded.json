@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e1f20ee6755c408baacf6d713f933ded",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The speed of light in water is <em>v</em> and the speed of light in air is 1.33<em>v</em>. What is true about the optical density of air and water and the existence of a critical angle when light passes from air to water?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Optical density</strong></p>\n</td>\n<td>\n<p><strong>Critical angle</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Optical density of air &lt; Optical density of water</td>\n<td>Does not exist</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Optical density of air &lt; Optical density of water</td>\n<td>Exists</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Optical density of air &gt; Optical density of water</td>\n<td>Does not exist</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Optical density of air &gt; Optical density of water</td>\n<td>Exists</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

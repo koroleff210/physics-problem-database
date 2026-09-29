@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_94bf9e02730149769732ef21e989d806",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below provides physical data for a hypothetical planet orbiting a distant star.</p>\n<table><thead><tr><th>Physical Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Solar intensity incident at the planet's orbital distance</td><td><span class=\"math\" data-latex=\"1600 \\text{ W m}^{-2}\"></span></td></tr><tr><td>Average planetary albedo</td><td><span class=\"math\" data-latex=\"0.25\"></span></td></tr></tbody></table>\n<p>What is the average power per unit area absorbed by the entire surface of this planet?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"100 \\text{ W m}^{-2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"300 \\text{ W m}^{-2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"400 \\text{ W m}^{-2}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1200 \\text{ W m}^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_f234decff5b344279ae607a27b5fb4c4",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monatomic real gas can behave very similarly to an ideal gas under certain conditions. Which of the following is one of these conditions?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Low pressure</li>\n<li data-label=\"B\">Low temperature</li>\n<li data-label=\"C\">High pressure</li>\n<li data-label=\"D\">High density</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

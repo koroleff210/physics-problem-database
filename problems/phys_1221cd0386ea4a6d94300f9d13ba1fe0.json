@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_1221cd0386ea4a6d94300f9d13ba1fe0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below provides the peak emission wavelengths <span class=\"math\" data-latex=\"\\lambda_{\\text{max}}\"></span> for two stars, Rigel and Betelgeuse, which can be modeled as blackbody radiators.</p>\n<table><thead><tr><th>Star</th><th>Peak wavelength <span class=\"math\" data-latex=\"\\lambda_{\\text{max}}\"></span> / nm</th></tr></thead><tbody><tr><td>Rigel</td><td><span class=\"math\" data-latex=\"240\"></span></td></tr><tr><td>Betelgeuse</td><td><span class=\"math\" data-latex=\"840\"></span></td></tr></tbody></table>\n<p>The surface temperature of Betelgeuse is approximately <span class=\"math\" data-latex=\"3500 \\text{ K}\"></span>. What is the surface temperature of Rigel?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1000 \\text{ K}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"12250 \\text{ K}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3500 \\text{ K}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"42875 \\text{ K}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

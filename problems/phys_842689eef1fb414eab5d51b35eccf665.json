@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5a0aa369f9ae0dbdd30626ece7483d62cac275593b154004d6e0653fce17b68f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5a0aa369f9ae0dbdd30626ece7483d62cac275593b154004d6e0653fce17b68f"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/7b8b55e839eca9298f87860d35dcd3dede68a1b6f7daac272681046fae5e0c60.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "7b8b55e839eca9298f87860d35dcd3dede68a1b6f7daac272681046fae5e0c60"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_842689eef1fb414eab5d51b35eccf665",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Alternative 1 total resistance = <span class=\"math\" data-latex=\"\\frac{3.00}{59.0 \\times  10^{-3}}\"></span> = 50.85 «Ω» ✔</p>\n<p>r=«50.85−50.0 »=0.85 «Ω» ✔</p>\n<p>Alternative 2 r = <span class=\"math\" data-latex=\"\\frac{ε}{I}\"></span> − R = <span class=\"math\" data-latex=\"\\frac{3}{0.059}\"></span> − 50 ✔ = 0.85 « Ω » ✔</p>\n<p>Award [2] for BCA</p>\n<p>The circuit is changed by connecting another resistor R in parallel to the 50.0 Ω resistor.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>external/total/effective/resistance decreases ✔ « I = <span class=\"math\" data-latex=\"\\frac{ε}{R_{ext} + r}\"></span>» the current «in the ammeter» increases ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Alternative 1 terminal pd= ε − Ir ✔ I increases hence terminal pd decreases ✔   Alternative 2 Since lost volts/pd used in the battery= Ir, this increases with greater I. ✔ Hence smaller pd available for external circuit. ✔</p>\n<p>R is made of a resistive wire of uniform cross-sectional area 3.1 × 10<sup>−8 </sup>m<sup>2</sup>, resistivity 4.9 × 10<sup>−7 </sup>Ω m and length L. The resistance of R is given by the equation</p>\n<p>R = kL</p>\n<p>where k is a constant.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of ρ = <span class=\"math\" data-latex=\"\\frac{RA}{l}\"></span> ✔ k = «<span class=\"math\" data-latex=\"\\frac{4.9 \\times  10^{-7}}{3.1 \\times  10^{-8}}\"></span>=»16 ✔</p>\n<p>Ω m<sup>−1</sup> ✔</p>\n<p>MP1 is for use of the equation<br/>MP2 is for calculation<br/>MP3 is for unit (Ω/m, or Ωm<sup>−1</sup>) Award [3] for BCA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A 50.0 Ω resistor is connected to a cell of emf 3.00 V. The voltmeter and the ammeter in the circuit are ideal.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The current in the ammeter is 59.0 mA.</p>\n<p>Calculate the internal resistance of the cell.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain the effect of this change on</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> the reading of the ammeter. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> the reading of the voltmeter. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate k. State an appropriate unit for your answer. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

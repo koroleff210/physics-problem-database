@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_116dd96291034847a7bfadfea008a1b0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A working refrigerator with the door open is placed in a sealed room.</p>\n<p>The entropy of the room</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">is zero.</li><li data-label=\"B\">decreases.</li><li data-label=\"C\">remains unchanged.</li><li data-label=\"D\">increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

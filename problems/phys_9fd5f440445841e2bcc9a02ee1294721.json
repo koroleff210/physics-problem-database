@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9fd5f440445841e2bcc9a02ee1294721",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"95^\\circ\\mathrm{C}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- The internal potential energy decreases [1 mark]<br/>- As molecules move closer together / form stronger bonds to transition from liquid to solid phase [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The specific heat capacity is greater in the solid phase [1 mark]<br/>- The temperature change in the solid phase (<span class=\"math\" data-latex=\"15^\\circ\\mathrm{C}\"></span>) is less than in the liquid phase (<span class=\"math\" data-latex=\"25^\\circ\\mathrm{C}\"></span>) for the same time interval/energy loss, indicating a higher specific heat capacity (<span class=\"math\" data-latex=\"Q = mc\\Delta T\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate the time duration of the phase change in seconds: <span class=\"math\" data-latex=\"10.0 - 4.0 = 6.0\\ \\mathrm{min} = 360\\ \\mathrm{s}\"></span> [1 mark]<br/>- Calculate the total energy released during the phase change: <span class=\"math\" data-latex=\"Q = P \\times t = 75 \\times 360 = 27,000\\ \\mathrm{J}\"></span> [1 mark]<br/>- Calculate specific latent heat: <span class=\"math\" data-latex=\"L = \\frac{Q}{m} = \\frac{27,000}{0.25} = 1.08 \\times 10^5\\ \\mathrm{J\\ kg^{-1}}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample of Substance X is heated until it is completely molten. It is then allowed to cool in a room with a constant ambient temperature. The temperature of the sample is recorded every two minutes as it cools and solidifies.</p><table><thead><tr><th>Time <span class=\"math\" data-latex=\"t\"></span> / min</th><th>Temperature <span class=\"math\" data-latex=\"T\"></span> / <span class=\"math\" data-latex=\"^\\circ\\mathrm{C}\"></span></th></tr></thead><tbody><tr><td>0.0</td><td>140</td></tr><tr><td>2.0</td><td>115</td></tr><tr><td>4.0</td><td>95</td></tr><tr><td>6.0</td><td>95</td></tr><tr><td>8.0</td><td>95</td></tr><tr><td>10.0</td><td>95</td></tr><tr><td>12.0</td><td>80</td></tr><tr><td>14.0</td><td>65</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the freezing point of Substance X based on the results in the table.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Describe how the internal potential energy of the molecules changes during the time interval from <span class=\"math\" data-latex=\"t = 4.0\\ \\mathrm{min}\"></span> to <span class=\"math\" data-latex=\"t = 10.0\\ \\mathrm{min}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The rate of thermal energy loss from the sample to the surroundings is constant throughout the cooling process. Using the data for the intervals <span class=\"math\" data-latex=\"0.0\\text{--}2.0\\ \\mathrm{min}\"></span> and <span class=\"math\" data-latex=\"12.0\\text{--}14.0\\ \\mathrm{min}\"></span>, deduce whether the specific heat capacity is greater in the liquid or solid phase. Justify your answer.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>The sample has a mass of <span class=\"math\" data-latex=\"0.25\\ \\mathrm{kg}\"></span> and loses thermal energy to the environment at a constant rate of <span class=\"math\" data-latex=\"75\\ \\mathrm{W}\"></span>.\n\nCalculate the specific latent heat of fusion for Substance X.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

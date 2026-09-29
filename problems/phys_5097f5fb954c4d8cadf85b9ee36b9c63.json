@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_5097f5fb954c4d8cadf85b9ee36b9c63",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Equate the ratio of the two observed frequencies to the Doppler terms: <span class=\"math\" data-latex=\"\\dfrac{f_{app}}{f_{rec}} = \\dfrac{v + v_s}{v - v_s}\"></span> OR use the derived relation <span class=\"math\" data-latex=\"v_s = v \\left(\\dfrac{f_{app} - f_{rec}}{f_{app} + f_{rec}}\\right)\"></span> [1 mark]<br/>- Substitute the given values and solve for the speed: <span class=\"math\" data-latex=\"v_s = 340 \\left(\\dfrac{550 - 450}{550 + 450}\\right) = 340 \\left(\\dfrac{100}{1000}\\right) = 34 \\text{ m/s}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Rearrange the Doppler effect formula for an approaching source to solve for the source frequency: <span class=\"math\" data-latex=\"f = f_{app} \\left(\\dfrac{v - v_s}{v}\\right)\"></span> [1 mark]<br/>- Substitute the values (using <span class=\"math\" data-latex=\"v_s\"></span> from part a): <span class=\"math\" data-latex=\"f = 550 \\left(\\dfrac{340 - 34}{340}\\right) = 495 \\text{ Hz}\"></span> (Allow ECF from part 1) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A racing car equipped with a high-pitched horn passes a stationary microphone at a constant speed. The microphone records a frequency of <span class=\"math\" data-latex=\"550 \\text{ Hz}\"></span> as the car approaches and a frequency of <span class=\"math\" data-latex=\"450 \\text{ Hz}\"></span> once the car has passed and is moving away. The speed of sound in the surrounding air is <span class=\"math\" data-latex=\"340 \\text{ m/s}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the constant speed at which the racing car is traveling.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the actual frequency of the sound emitted by the car's horn.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

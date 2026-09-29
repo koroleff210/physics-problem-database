@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7dd3c7302b8053d5f1a2031868ba645cdb96ae5ad605c6bc9a838894e8b6bcf4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7dd3c7302b8053d5f1a2031868ba645cdb96ae5ad605c6bc9a838894e8b6bcf4"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_15b6a61eaed748cfa59e005ab72afe60",
+  "level": "sl_hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A force is applied to a mass of 3 kg. The graph shows the variation with time t of the acceleration a of the mass.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average force acting on the mass?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">5 N</li><li data-label=\"B\">6 N</li><li data-label=\"C\">12 N</li><li data-label=\"D\">24 N</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

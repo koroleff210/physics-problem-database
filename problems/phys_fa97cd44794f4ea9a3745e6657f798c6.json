@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/624315befc7a43b7bea687b13587de153db47d6cb82ab817d3844b3817acbd34.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "624315befc7a43b7bea687b13587de153db47d6cb82ab817d3844b3817acbd34"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c9bbbc53779a8f76b1a90738d745b8a5f45a8228d82a5067c34c2a554dea53d9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c9bbbc53779a8f76b1a90738d745b8a5f45a8228d82a5067c34c2a554dea53d9"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_fa97cd44794f4ea9a3745e6657f798c6",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>movement of B means that path distance is different « between BM and AM »<br/>OR<br/>movement of B creates a path difference «between BM and AM» ✓</p>\n<p>interference<br/>OR<br/>superposition «of waves» ✓</p>\n<p>maximum when waves arrive in phase / path difference = n x lambda<br/>OR<br/>minimum when waves arrive «180° or <span class=\"math\" data-latex=\"\\pi\"></span> » out of phase / path difference = (n+½) x lambda ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>wavelength = 26 cm ✓</p>\n<p><br/>peak to peak distance is the path difference which is one wavelength</p>\n<p>OR</p>\n<p>this is the distance B moves to be back in phase «with A» ✓</p>\n<p>Allow 25 – 27 cm for MP1.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«<span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span>» = 13 cm ✓</p>\n<p><span class=\"math\" data-latex=\"f=\"></span>«<span class=\"math\" data-latex=\"\\frac{c}{\\lambda}=\\frac{340}{0.13}=\"></span>» 2.6 «kHz» ✓</p>\n<p>Allow ½ of wavelength from (b) or data from graph for MP1.</p>\n<p>Allow ECF from MP1.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1<br/>use of <span class=\"math\" data-latex=\"f'=f\\frac{v}{v+u_{0}}\"></span> (+ sign must be seen) OR <span class=\"math\" data-latex=\"f'\"></span>= 2987 «Hz» ✓<br/>« <span class=\"math\" data-latex=\"Δ f\"></span>» = 13 «Hz» ✓</p>\n<p>ALTERNATIVE 2<br/>Attempted use of <span class=\"math\" data-latex=\"\\frac{Δ f}{f}\"></span>≈ <span class=\"math\" data-latex=\"\\frac{v}{c}\"></span><br/><br/>« Δf » = 13 «Hz» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two loudspeakers A and B are initially equidistant from a microphone M. The frequency and intensity emitted by A and B are the same. A and B emit sound in phase. A is fixed in position.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>B is moved slowly away from M along the line MP. The graph shows the variation with distance travelled by B of the received intensity at M.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the received intensity varies between maximum and minimum values. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State and explain the wavelength of the sound measured at M. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>B is placed at the first minimum. The frequency is then changed until the received intensity is again at a maximum.</p>\n<p>Show that the lowest frequency at which the intensity maximum can occur is about 3 kHz.</p>\n<p>Speed of sound = 340 m s<sup>−1</sup></p><p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>Loudspeaker A is switched off. Loudspeaker B moves away from M at a speed of 1.5 m s<sup>−1</sup> while emitting a frequency of 3.0 kHz.</p>\n<p>Determine the difference between the frequency detected at M and that emitted by B.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

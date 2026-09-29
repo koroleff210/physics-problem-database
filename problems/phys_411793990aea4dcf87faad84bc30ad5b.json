@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_411793990aea4dcf87faad84bc30ad5b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>Wien's displacement law (λ_max = b/T) for a temperature of 6500 K gives a peak wavelength of approximately 446 nm, which is in the blue region of the visible spectrum. Since the star is moving away from Earth, its light is subject to the Doppler effect, causing a redshift, which is a shift towards longer, redder wavelengths.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The surface temperature of a star that is moving away from the Earth is <span class=\"math\" data-latex=\"6500\\,\\mathrm{K}\"></span>.</p>\n<p>What colour is the peak of the star's emission spectrum and in which direction is it shifted to an observer on Earth due to the motion of the star?</p>\n<table><thead><tr><th>Option</th><th>Colour</th><th>direction of shift</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>blue</td><td>towards blue</td></tr><tr data-label=\"B\"><td>B</td><td>blue</td><td>towards red</td></tr><tr data-label=\"C\"><td>C</td><td>red</td><td>towards blue</td></tr><tr data-label=\"D\"><td>D</td><td>red</td><td>towards red</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

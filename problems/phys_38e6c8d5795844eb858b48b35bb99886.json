@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_38e6c8d5795844eb858b48b35bb99886",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the Geiger–Marsden–Rutherford experiment, alpha particles were directed at a thin gold foil. What surprising observation led to the conclusion that the atom has a small, dense nucleus?</p><ol class=\"mcq-options\"><li data-label=\"A\">Most alpha particles passed straight through the foil.</li><li data-label=\"B\">Some alpha particles were deflected at small angles.</li><li data-label=\"C\">Some alpha particles were deflected at large angles.</li><li data-label=\"D\">Alpha particles were not affected by the foil at all.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_178ad939804a4dde824cf9f8d5be155a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which two components of a nuclear power station are primarily responsible for ensuring that a controlled chain reaction is maintained?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Control rods and heat exchangers</li><li data-label=\"B\">Moderators and shielding</li><li data-label=\"C\">Shielding and heat exchangers</li><li data-label=\"D\">Moderators and control rods</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

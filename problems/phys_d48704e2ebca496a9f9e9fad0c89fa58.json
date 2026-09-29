@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_d48704e2ebca496a9f9e9fad0c89fa58",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rubber ball of mass <span class=\"math\" data-latex=\"0.20\\text{ kg}\"></span> strikes a horizontal floor with a vertical speed of <span class=\"math\" data-latex=\"5.0\\text{ m s}^{-1}\"></span> and rebounds with a vertical speed of <span class=\"math\" data-latex=\"3.0\\text{ m s}^{-1}\"></span>. The ball is in contact with the floor for a duration of <span class=\"math\" data-latex=\"0.10\\text{ s}\"></span>.</p>\n<p>What is the average net force exerted on the ball during the collision?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4.0\\text{ N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"10\\text{ N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"16\\text{ N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"20\\text{ N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

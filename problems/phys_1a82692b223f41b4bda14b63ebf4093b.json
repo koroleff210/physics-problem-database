@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_1a82692b223f41b4bda14b63ebf4093b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: Note: This is a common distractor for students who assume the kinetic energy is directly proportional to the incident frequency (<span class=\"math\" data-latex=\"3.0/1.5 = 2\"></span>).</p>\n<p>B: Note: This might be chosen if a student incorrectly applies the photoelectric equation or forgets to subtract the work function consistently.</p>\n<p>C: Note: <br/>Using the photoelectric equation <span class=\"math\" data-latex=\"E_{max} = hf - hf_0\"></span>:<br/>1. Initial state: <span class=\"math\" data-latex=\"E = h(1.5f_0) - hf_0 = 0.5hf_0\"></span>.<br/>2. Final state: <span class=\"math\" data-latex=\"E_{new} = h(3.0f_0) - hf_0 = 2.0hf_0\"></span>.<br/>3. Comparison: Since <span class=\"math\" data-latex=\"E = 0.5hf_0\"></span>, then <span class=\"math\" data-latex=\"hf_0 = 2E\"></span>. Therefore, <span class=\"math\" data-latex=\"E_{new} = 2.0(2E) = 4E\"></span>.<br/></p>\n<p>D: Note: This distractor targets students who might square values or multiply ratios incorrectly.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal surface has a threshold frequency of <span class=\"math\" data-latex=\"f_0\"></span>. When monochromatic light of frequency <span class=\"math\" data-latex=\"1.5f_0\"></span> is incident on the surface, the maximum kinetic energy of the emitted photoelectrons is <span class=\"math\" data-latex=\"E\"></span>. What is the maximum kinetic energy of the photoelectrons when the frequency of the incident light is increased to <span class=\"math\" data-latex=\"3.0f_0\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2E\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3E\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4E\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"6E\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

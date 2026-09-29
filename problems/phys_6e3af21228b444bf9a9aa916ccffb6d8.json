@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a83f4d14fcc6247afcbb9562d2ebee3501e6670473d68699398a554e706d0281.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a83f4d14fcc6247afcbb9562d2ebee3501e6670473d68699398a554e706d0281"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/70ee877075b56075e4f93c706d2b0d447aad094cca89f1882775e023fd2f795e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "70ee877075b56075e4f93c706d2b0d447aad094cca89f1882775e023fd2f795e"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/7ab54dcc426b4d9cde49b36923d770c3492ad7bdc5aeeda23d2773afa665248b.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "7ab54dcc426b4d9cde49b36923d770c3492ad7bdc5aeeda23d2773afa665248b"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/163561eb187c3d18c2e8f3bf55bf68bdfd68f56200fc8c78274ddfd6c2f4694e.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "163561eb187c3d18c2e8f3bf55bf68bdfd68f56200fc8c78274ddfd6c2f4694e"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_6e3af21228b444bf9a9aa916ccffb6d8",
+  "level": "hl",
+  "marks": 15,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The transfer/propagation of energy/momentum/information ✔ Through oscillations/vibrations of medium/fields ✔ Positions of maximum and minimum amplitude OR crests and troughs travel through a medium ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>The incoming wave is reflected «from the closed end» ✔ «The reflected and incoming wave» superpose/interfere ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"\\lambda\"></span> = « <span class=\"math\" data-latex=\"\\frac{4L}{3}\"></span> = <span class=\"math\" data-latex=\"\\frac{4\\times 1.20}{3}\"></span> =»1.6 «m» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>c = « λf = 1.60 × 210=» 336 OR 340 «m s<sup>−1</sup>» ✔</p>\n<p>Any answer to 2 OR 3 s.f. ✔</p>\n<p>Allow ECF from incorrect wavelength in bii)</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>To the left of the equilibrium position on the same level ✔</p>\n<p>Accept any distance to the left</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p>\n<p>Left horizontal arrow ✔</p>\n<p>Accept any arrow to the left inside the tube.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>ω = «2πf =» 2π × 210 = 1.319 × 10<sup>3</sup> «rad s<sup>−1</sup>» ✔</p>\n<p>«Energy =<sup> </sup><span class=\"math\" data-latex=\"\\frac{1}{2}m\\omega^{2}x_{o}^{2}\"></span><sup> </sup>= <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> × 1.8 × 10<sup>−6</sup> × (1.319 × 10<sup>3</sup>)<sup>2</sup> × (4.2 × 10<sup>−3</sup>)<sup>2</sup> =»</p>\n<p>2.7×10<sup>−5</sup> OR 2.8 × 10<sup>−5 </sup>«J» ✔</p>\n<p>MP1 can be awarded for a correct substitution or value</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>ALTERNATE 1</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}m\\omega^{2}x^{2}=\\frac{1}{2}\\times \\frac{1}{2}m\\omega^{2}x_{0}^{2}\"></span> ✔ <span class=\"math\" data-latex=\"x\"></span> = <span class=\"math\" data-latex=\"\\frac{x_{0}}{\\sqrt{2}}\"></span> = <span class=\"math\" data-latex=\"\\frac{4.2}{\\sqrt{2}}\"></span> = 3.0 «mm» ✔</p>\n<p>ALTERNATE 2 <span class=\"math\" data-latex=\"\\frac{1}{2}m\\omega^{2}x_{o}^{2}-x^{2}=\\frac{1}{2}m\\omega^{2}x^{2}\"></span><sup> </sup><sup>✔</sup> <span class=\"math\" data-latex=\"x\"></span><sup> = </sup><span class=\"math\" data-latex=\"\\frac{x_{0}}{\\sqrt{2}}\"></span><sup>= </sup><span class=\"math\" data-latex=\"\\frac{4.2}{\\sqrt{2}}\"></span>= 3.0 «mm» ✔</p>\n<p>ALTERNATE 3 Recognition that potential energy is 1.4 x 10<sup>−5 </sup>«J» ✔ <span class=\"math\" data-latex=\"x\"></span> = <span class=\"math\" data-latex=\"\\sqrt{\\frac{2   \\times    14   \\times    {10}^{- 3}}{1.8   \\times    {10}^{- 6}   \\times    {( 1.33   \\times    {10}^{3} )}^{2}}}\"></span> = 3.0 «mm» ✔</p>\n<p>For Alternate 3 allow ECF from the energy value from di).</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>ALTERNATE 1 the pipe can only support standing waves with frequencies that are odd multiples of the first harmonic frequency ✔ first harmonic frequency is 70 Hz ✔   ALTERNATE 2 &lt;&lt;the new wavelength would be 2.4 m so&gt;&gt; a node would be formed at the open end ✔ An antinode is required at the open end to form a standing wave ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline what is meant by a travelling wave. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A loudspeaker emits sound of frequency 210 Hz into a pipe with one open and one closed end. The diagram shows a representation of the standing wave established in the pipe.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The length of the pipe is 1.20 m.</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Outline how the standing wave is formed in the pipe. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine the wavelength of the wave. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Calculate the speed of sound in the pipe stating the answer to an appropriate number of significant figures. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The solid line represents the standing wave at time t and the dotted line represents the standing wave at an instant later. The dot is the equilibrium position of a particle P in the pipe. The up arrow indicates displacements to the right and the down arrow displacements to the left.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>On the diagram, draw</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> a dot to indicate the approximate position of P at time t, [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> an arrow to indicate the velocity of P at time t. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The amplitude of oscillations of the standing wave in (b) is 4.2 mm. The mass of particle P in (c) is 1.8 × 10<sup>−6</sup> kg.</p>\n<p>Calculate</p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> the total energy of P, [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> the displacement of P, when its kinetic energy is equal to its potential energy. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> The frequency of sound is reduced to 140 Hz. Explain why a standing wave will not be formed in the pipe. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

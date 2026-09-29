@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f8becbdf3c4046e8a94c05c6c335234e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car is driven from rest along a straight horizontal road. The car engine exerts a constant driving force. Friction and air resistance are negligible. How does the power developed by the engine change with the distance travelled?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Power does not change.</li><li data-label=\"B\">Power decreases linearly.</li><li data-label=\"C\">Power increases linearly.</li><li data-label=\"D\">Power increases non-linearly.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

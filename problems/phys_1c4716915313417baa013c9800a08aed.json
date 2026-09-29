@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_1c4716915313417baa013c9800a08aed",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An air column in a pipe that is open at both ends has a fundamental frequency of <span class=\"math\" data-latex=\"160\\; \\text{Hz}\"></span>. The pipe is then closed at one end without altering its length.</p>\n<p>What is the frequency of the first overtone for the air column in this new configuration?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"80\\; \\text{Hz}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"240\\; \\text{Hz}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"320\\; \\text{Hz}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"480\\; \\text{Hz}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

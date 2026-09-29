@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b86f2fbfab48440ac2a08cccef20e2f344211d2dbf7d1778b049cafc7e9ae0aa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b86f2fbfab48440ac2a08cccef20e2f344211d2dbf7d1778b049cafc7e9ae0aa"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/fd61dbd6b32ceb149c5bfc6b6277de44a5f23ec2d86e1bb74821d555e0aba3ab.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fd61dbd6b32ceb149c5bfc6b6277de44a5f23ec2d86e1bb74821d555e0aba3ab"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a4be38c8c6144a6e8dcfbd32474b866b",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave is travelling through a medium. The variation with time t of the displacement d of a particle in the medium is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the frequency and the amplitude of the wave?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

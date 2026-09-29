@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_054166acf573442481d3c89f461c51dd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes the molecular mechanism by which greenhouse gases cause warming of Earth's atmosphere?</p><ol class=\"mcq-options\"><li data-label=\"A\">They absorb and scatter visible light from the Sun.</li><li data-label=\"B\">They reflect ultraviolet light back to Earth's surface.</li><li data-label=\"C\">They absorb infrared radiation and re-emit it in all directions.</li><li data-label=\"D\">They release thermal energy during chemical reactions with other atmospheric gases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

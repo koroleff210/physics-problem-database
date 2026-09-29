@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_d12ffc23e27448c9a8871bda2d6c7f96",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A laboratory tracks the radioactive decay of bismuth-210 into polonium-210. The table below shows the measured quantity of bismuth-210 nuclei in a sample at various intervals.</p>\n<table><thead><tr><th>Time / days</th><th>Number of bismuth-210 nuclei</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"0\"></span></td><td><span class=\"math\" data-latex=\"8.0 \\times 10^{16}\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"5\"></span></td><td><span class=\"math\" data-latex=\"4.0 \\times 10^{16}\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"10\"></span></td><td><span class=\"math\" data-latex=\"2.0 \\times 10^{16}\"></span></td></tr></tbody></table>\n<p>Based on the data in the table, what is the value of the ratio <span class=\"math\" data-latex=\"\\frac{\\text{number of polonium-210 nuclei produced}}{\\text{number of bismuth-210 nuclei remaining}}\"></span> after a total of 15 days has elapsed?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"{\\frac{1}{7}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"{\\frac{1}{8}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"{\\frac{7}{1}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"{\\frac{8}{1}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

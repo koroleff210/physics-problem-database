@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eaaa2b6fa0ba7d40872c62db6509e98f36d53b318b3ecf8559a4f7405f167f3c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eaaa2b6fa0ba7d40872c62db6509e98f36d53b318b3ecf8559a4f7405f167f3c"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_b7dbdeeb745c4684ba72b07905fefecb",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass 2.0 kg is placed on a trolley of mass 5.0 kg, moving horizontally. A force of 8.0 N is applied to the block which slides on the surface of the trolley. The frictional force between the trolley and the ground is zero.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The trolley accelerates at a rate of 1.0 m s<sup>−2</sup>. What is the coefficient of dynamic friction between the block and the trolley?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.05</li><li data-label=\"B\">0.15</li><li data-label=\"C\">0.25</li><li data-label=\"D\">0.35</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

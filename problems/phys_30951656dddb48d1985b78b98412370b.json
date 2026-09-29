@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_30951656dddb48d1985b78b98412370b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A square loop of wire is pulled sideways at constant speed through a region of uniform magnetic field directed into the page. The loop then exits the field. Which best describes the net charge displaced around the loop during the motion?</p><ol class=\"mcq-options\"><li data-label=\"A\">Zero, because the field is uniform</li><li data-label=\"B\">Zero, because emf alternates symmetrically</li><li data-label=\"C\">Non-zero, because induced current flows as flux changes</li><li data-label=\"D\">Infinite, due to constant emf while in motion</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

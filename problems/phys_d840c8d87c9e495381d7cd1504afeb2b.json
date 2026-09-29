@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d840c8d87c9e495381d7cd1504afeb2b",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Equates centripetal force (with Newton’s law of gravitation <span class=\"math\" data-latex=\"mr \\omega^{2}=\\frac{GMm}{r^{2}}\"></span>) OR <span class=\"math\" data-latex=\"T=\\frac{2\\pi}{\\omega}\"></span> ✓<br/>Uses both equation correctly with clear re-arrangement ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"r_{De}^{3}=\\frac{T_{De}^{2}r_{Ph}^{3}}{T_{Ph}^{2}}\"></span> seen or correct substitution ✓ 23.5 Mm ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Converts T to 27.6 ks and converts to m from Mm ✓  <span class=\"math\" data-latex=\"k=7.33\\times 10^{-14}\"></span> «s<sup>2</sup> m<sup>−3</sup>» ✓  «<span class=\"math\" data-latex=\"M=\\frac{1}{kG}\"></span>» <span class=\"math\" data-latex=\"=2.04\\times 10^{23}\"></span> «kg» ✓    MP1 can be implicit</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>One of Kepler’s laws suggests that for moons that have circular orbits around a planet:</p>\n<p><span class=\"math\" data-latex=\"\\frac{{T}^{2}}{4 π {r}^{3}} = k\"></span></p>\n<p>where <span class=\"math\" data-latex=\"T\"></span> is the orbital period of the moon, <span class=\"math\" data-latex=\"r\"></span> is the radius of its circular orbit about the planet, and <span class=\"math\" data-latex=\"k\"></span> is a constant.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that <span class=\"math\" data-latex=\"k=\\frac{1}{GM}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The table gives data relating to the two moons of Mars.</p>\n<table><tbody><tr><td><p>Moon</p></td><td><p>T / hour</p></td><td><p>r / Mm</p></td></tr><tr><td><p>Phobos</p></td><td><p>7.66</p></td><td><p>9.38</p></td></tr><tr><td><p>Deimos</p></td><td><p>30.4</p></td><td><p>-</p></td></tr></tbody></table>\n<p>Determine r for Deimos.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the mass of Mars. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_667ebebe7345430eb89f033c4e052912",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement correctly describes a feature of the Rutherford model of the atom?</p><ol class=\"mcq-options\"><li data-label=\"A\">Electrons occupy fixed orbits with quantized energy levels.</li><li data-label=\"B\">Most of the atom's mass is concentrated in a small central nucleus.</li><li data-label=\"C\">The atom is a uniform sphere of positive charge with embedded electrons.</li><li data-label=\"D\">The nucleus contains only protons, while electrons orbit in shells.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

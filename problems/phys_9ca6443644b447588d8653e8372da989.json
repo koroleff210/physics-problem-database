@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_9ca6443644b447588d8653e8372da989",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment to demonstrate the wave nature of matter, electrons are accelerated from rest through a potential difference <span class=\"math\" data-latex=\"V\"></span> and directed at a thin polycrystalline metal foil. A diffraction pattern consisting of concentric rings is observed on a fluorescent screen behind the foil. Which row correctly describes the change in the de Broglie wavelength of the electrons and the diameter of the rings when <span class=\"math\" data-latex=\"V\"></span> is increased?</p>\n<table><thead><tr><th></th><th>De Broglie wavelength</th><th>Diameter of rings</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>increases</td><td>increases</td></tr><tr data-label=\"B\"><td>B.</td><td>increases</td><td>decreases</td></tr><tr data-label=\"C\"><td>C.</td><td>decreases</td><td>decreases</td></tr><tr data-label=\"D\"><td>D.</td><td>decreases</td><td>increases</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

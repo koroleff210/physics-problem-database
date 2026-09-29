@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/877a7dedc2910ea11889a483cd5a07e9cda4a805fa1649382383bfe71c6e7d23.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "877a7dedc2910ea11889a483cd5a07e9cda4a805fa1649382383bfe71c6e7d23"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_592df8895f844e35b629d798f78b8572",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting coil is rotating in a magnetic field. The graph shows how the induced emf in the coil varies with time</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Which of the following gives two times when the magnetic flux through the coil is zero?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span> and <span class=\"math\" data-latex=\"t = T\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"t = \\frac{T}{2}\"></span> and <span class=\"math\" data-latex=\"t = T\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"t = \\frac{T}{4}\"></span> and <span class=\"math\" data-latex=\"t = \\frac{3T}{4}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"t = \\frac{T}{2}\"></span> and <span class=\"math\" data-latex=\"t = \\frac{3T}{4}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_65eacdb55ccb46ccb88a4cad3176f542",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object performs simple harmonic motion with amplitude <span class=\"math\" data-latex=\"x_0\"></span> and total energy <span class=\"math\" data-latex=\"E\"></span>. What is the kinetic energy of the object when its displacement from the equilibrium position is <span class=\"math\" data-latex=\"0.50x_0\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25E\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50E\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.75E\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.87E\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

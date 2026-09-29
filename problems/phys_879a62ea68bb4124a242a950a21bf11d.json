@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_879a62ea68bb4124a242a950a21bf11d",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The internal resistance of a <span class=\"math\" data-latex=\"32\"></span> V battery is <span class=\"math\" data-latex=\"4.0\\: \\Omega\"></span>. A lightbulb has three times the resistance than the internal resistance of the battery. The lightbulb is connected to the battery. Which of the following statements is incorrect for the circuit?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The power dissipated in the lightbulb is <span class=\"math\" data-latex=\"48\"></span> W.</li>\n<li data-label=\"B\">The potential difference across the lightbulb is <span class=\"math\" data-latex=\"32\"></span> V.</li>\n<li data-label=\"C\">The total resistance in the circuit is <span class=\"math\" data-latex=\"16\\: \\Omega\"></span>.</li>\n<li data-label=\"D\">The current in the battery is <span class=\"math\" data-latex=\"2.0\"></span> A.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

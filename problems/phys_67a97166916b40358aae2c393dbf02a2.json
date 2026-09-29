@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_67a97166916b40358aae2c393dbf02a2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When <span class=\"math\" data-latex=\"_{\\, \\, \\, 88}^{228}\\textrm{Ra}\"></span> undergoes beta-minus decay. Which of the following particles are included among the decay products?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"_{0}^{0}\\textrm{}\\bar{v}_{e}\"></span> and <span class=\"math\" data-latex=\"_{\\, \\, \\, 89}^{228}\\textrm{Ac}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"_{0}^{0}\\textrm{}\\bar{v}_{e}\"></span> and <span class=\"math\" data-latex=\"_{1}^{0}\\textrm{e}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"_{0}^{0}\\textrm{}v_{e}\"></span> and <span class=\"math\" data-latex=\"_{\\, \\, \\, 89}^{228}\\textrm{Ac}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"_{0}^{0}\\textrm{}v_{e}\"></span> and <span class=\"math\" data-latex=\"_{-1}^{\\: \\: \\: 0}\\textrm{e}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

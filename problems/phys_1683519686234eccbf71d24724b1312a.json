@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_1683519686234eccbf71d24724b1312a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an adiabatic expansion of a diatomic ideal gas, which of the following best explains the reduction in temperature?</p><ol class=\"mcq-options\"><li data-label=\"A\">Heat is lost to the environment.</li><li data-label=\"B\">The number of accessible microstates decreases.</li><li data-label=\"C\">The gas does work at the expense of internal energy.</li><li data-label=\"D\">The entropy of the gas decreases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

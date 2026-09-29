@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_5eb7d0b4cc404401b9986e9c441a9779",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a neutron is converted into energy. What is the order of magnitude of this energy in joules?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"10^{-9}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"10^{-10}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"10^{-11}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10^{-12}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

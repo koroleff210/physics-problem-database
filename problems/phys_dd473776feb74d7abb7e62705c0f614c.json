@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_dd473776feb74d7abb7e62705c0f614c",
+  "level": "sl_hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State formula: <span class=\"math\" data-latex=\"P_{\\text{useful}}=Fv\"></span>, where <span class=\"math\" data-latex=\"F=mg\"></span><br/>- Substitute values: <span class=\"math\" data-latex=\"P_{\\text{useful}}=(100.0)(9.81)(0.800)\"></span> [1 mark]<br/>- Calculate useful power: <span class=\"math\" data-latex=\"P_{\\text{useful}}=785 \\mathrm{~W}\"></span> (accept <span class=\"math\" data-latex=\"784.8 \\mathrm{~W}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State formula: <span class=\"math\" data-latex=\"\\eta=\\frac{P_{\\text{useful}}}{P_{\\text{input}}} \\times 100\"></span><br/>- Substitute values: <span class=\"math\" data-latex=\"\\eta=\\frac{784.8}{900.0} \\times 100\"></span> [1 mark]<br/>- Calculate efficiency: <span class=\"math\" data-latex=\"\\eta=87.2 \\%\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A motor lifts a 100.0 kg load vertically upward at a constant speed of <span class=\"math\" data-latex=\"0.800 \\mathrm{~m} \\ \\mathrm{s}^{-1}\"></span>. The power input to the motor is 900.0 W.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the useful power output of the motor.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Determine the efficiency of the motor.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

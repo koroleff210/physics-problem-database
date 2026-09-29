@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/189b620b812cb40363ca55f09e915d0e6a29c5e005e9f5cfac4638c6821196b3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "189b620b812cb40363ca55f09e915d0e6a29c5e005e9f5cfac4638c6821196b3"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e30e39797aee46f984259b968656c304",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Diagram not to scale</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A mass of 2.0 kg travelling at 5.0 m s<sup>−1</sup> collides with a mass of 4.0 kg travelling at 3.0 m s<sup>−1</sup>. The masses collide at right angles. They join and move together after the collision at θ to the original direction of the 2.0 kg mass.</p>\n<p>What is θ?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">34°</li><li data-label=\"B\">37°</li><li data-label=\"C\">50°</li><li data-label=\"D\">56°</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_11cb148125d34c98a30fe6a445908e50",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"I = \\frac{1}{3} \\cdot 1.5 \\cdot 1.2^2\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"I = 0.72\\ \\text{kg m}^2\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\tau = r F \\sin(\\theta) = \\frac{L}{2} \\cdot Mg = 0.6 \\cdot 1.5 \\cdot 9.81\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\tau = 8.8\\ \\text{N m}\"></span> (or <span class=\"math\" data-latex=\"8.83\\ \\text{N m}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use conservation of energy: <span class=\"math\" data-latex=\"Mg\\frac{L}{2} = \\frac{1}{2} I \\omega^2 \\Rightarrow 8.83 = 0.5 \\cdot 0.72 \\cdot \\omega^2\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\omega = \\sqrt{\\frac{17.66}{0.72}} = 4.95\\ \\text{rad s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Angular momentum is not conserved because there is a net external torque acting on the system [1 mark]<br/>- The weight of the rod acts at a distance from the pivot, creating a torque that increases the angular momentum [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A uniform thin rod of mass <span class=\"math\" data-latex=\"1.5\\ \\text{kg}\"></span> and length <span class=\"math\" data-latex=\"1.2\\ \\text{m}\"></span> is held in a horizontal position and pivoted at one of its ends. The rod is released from rest and allowed to swing downwards under the influence of gravity. The moment of inertia of a uniform rod about an axis through its end is given by <span class=\"math\" data-latex=\"I = \\frac{1}{3}ML^2\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the moment of inertia of the rod about the pivot.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the magnitude of the torque acting on the rod at the instant it is released.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the angular velocity of the rod as it passes through the vertical position.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>State and explain whether the angular momentum of the rod about the pivot is conserved as it rotates from the horizontal to the vertical position.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

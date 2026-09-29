@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/21ec848767fcb45ba40cf93026c1baf97da44bf50f9b0d952a16ec5f0212fadd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "21ec848767fcb45ba40cf93026c1baf97da44bf50f9b0d952a16ec5f0212fadd"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b1bf40ea2568416d83d3ef39ebaf95b8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Wires X and Y are in the same plane, they are perpendicular and carry equal currents. The direction of the magnetic field due to the currents at point B is as shown on the diagram. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the electron flow in X and Y?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Direction of electron flow in X</strong></p>\n</td>\n<td>\n<p><strong>Direction of electron flow in Y</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>To the right</td>\n<td>Upwards</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>To the right</td>\n<td>Downwards</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>To the left</td>\n<td>Upwards</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>To the left</td>\n<td>Downwards</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

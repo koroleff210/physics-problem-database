@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_02bc243794e943bba50b657eb512358c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass–spring system oscillates in simple harmonic motion with maximum elastic potential energy E. The mass is tripled and the amplitude is doubled.</p>\n<p>What is the new maximum elastic potential energy of the system?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{3}\"></span>E</li><li data-label=\"B\">4E</li><li data-label=\"C\">6E</li><li data-label=\"D\">12E</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

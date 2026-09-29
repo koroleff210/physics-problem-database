@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_3a279d3b14a54e3991b74674bf6cfd2a",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"P = Fv = (500 \\cdot 9.81) \\cdot 2.00 = 9810 \\, \\text{W}\"></span><br/>- Correct substitution for weight and power [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"W = P \\cdot t = 9810 \\cdot 10.0 = 98100 \\, \\text{J}\"></span><br/>- Correct formula and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The machine does work to overcome the gravitational force, not to increase speed. [1 mark]<br/>- Since speed is constant, kinetic energy remains unchanged. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A machine lifts a <span class=\"math\" data-latex=\"500\\ \\text{kg}\"></span> load vertically upward at a constant speed of <span class=\"math\" data-latex=\"2.00\\ \\text{m s}^{-1}\"></span>. The gravitational field strength is <span class=\"math\" data-latex=\"9.81\\ \\text{N kg}^{-1}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the power output required to lift the load at this constant speed. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the work done by the machine in <span class=\"math\" data-latex=\"10.0\\ \\text{s}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain why the load does not gain kinetic energy even though the machine is doing work. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

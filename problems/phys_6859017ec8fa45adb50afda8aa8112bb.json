@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_6859017ec8fa45adb50afda8aa8112bb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thermal energy of 7.0 J is removed from an ideal gas, and a work of 2.0 J is done by the gas. What is the change in the internal energy of the gas?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">−9.0 J</li><li data-label=\"B\">−5.0 J</li><li data-label=\"C\">+5.0 J</li><li data-label=\"D\">+9.0 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

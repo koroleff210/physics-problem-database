@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_d7792441df614cfd8745d06932730850",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two iron cubes <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span> have side lengths <span class=\"math\" data-latex=\"L\"></span> and <span class=\"math\" data-latex=\"2L\"></span> respectively. When a temperature difference is placed across two opposite faces of cube <span class=\"math\" data-latex=\"A\"></span>, the power transferred across the cube is <span class=\"math\" data-latex=\"P\"></span>. When the same temperature difference is placed across two opposite faces of cube <span class=\"math\" data-latex=\"B\"></span>, what is the power transferred across the cube in terms of <span class=\"math\" data-latex=\"P\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{P}2\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"P\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2P\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4P\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

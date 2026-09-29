@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_428607354d0c41baa299e1e446229408",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed vessel contains a mixture of two ideal gases, <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span>, in thermal equilibrium. The mass of a molecule of gas <span class=\"math\" data-latex=\"A\"></span> is <span class=\"math\" data-latex=\"\\frac{1}{9}\"></span> of the mass of a molecule of gas <span class=\"math\" data-latex=\"B\"></span>.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{v_A}{v_B}\"></span>, where <span class=\"math\" data-latex=\"v\"></span> represents the root-mean-square (rms) speed of the molecules?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"9\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{9}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

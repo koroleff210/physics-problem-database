@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2d0a77488c6c45148104835d4171be5e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sled of mass <span class=\"math\" data-latex=\"m\"></span> is pulled across a horizontal surface by a force <span class=\"math\" data-latex=\"P\"></span> directed at an angle <span class=\"math\" data-latex=\"\\theta\"></span> above the horizontal. If the sled remains in contact with the ground, which expression represents the magnitude of the normal reaction force <span class=\"math\" data-latex=\"R\"></span> exerted by the surface on the sled?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"m g\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"m g + P \\sin \\theta\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"m g - P \\sin \\theta\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"P \\cos \\theta\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5f286a0f8f6d9b87188b7b657e942195d80793d73a855a7690e3b83985c04989.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5f286a0f8f6d9b87188b7b657e942195d80793d73a855a7690e3b83985c04989"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a530343962c648d5aa747ad640369124",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solid cylinder of mass <span class=\"math\" data-latex=\"m\"></span> and radius <span class=\"math\" data-latex=\"r\"></span> is released from rest on an inclined plane. The cylinder rolls without slipping.</p>\n<p>The moment of inertia of the cylinder is <span class=\"math\" data-latex=\"\\frac{1}{2}mr^{2}\"></span>. The speed when it reaches the bottom of the inclined plane is <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the vertical height from which the cylinder was released?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{v^{2}}{g}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3v^{2}}{4g}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{v^{2}}{2g}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{v^{2}}{4g}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

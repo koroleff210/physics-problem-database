@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7dbc35445b23884f606dbf631dae9305d8052969a6920bad67206f60d7871bfa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7dbc35445b23884f606dbf631dae9305d8052969a6920bad67206f60d7871bfa"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_6f6fb36fed1a400c8283a52ad2b3ed1f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Isolated planets <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span> have masses <span class=\"math\" data-latex=\"M_{X}\"></span> and <span class=\"math\" data-latex=\"M_{Y}\"></span> respectively and are separated by a distance <span class=\"math\" data-latex=\"R\"></span>. A point P is located at a distance <span class=\"math\" data-latex=\"\\frac{R}{3}\"></span> from planet <span class=\"math\" data-latex=\"X\"></span>, as shown. The gravitational field strength at P is zero.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{M_{Y}}{M_{X}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2</li><li data-label=\"B\">3</li><li data-label=\"C\">4</li><li data-label=\"D\">9</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

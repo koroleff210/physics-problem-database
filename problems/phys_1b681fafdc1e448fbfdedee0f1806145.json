@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5d89ea6310c2b484e20877d788147d55c0e0996ff6c1a6f666f969020ea3719a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5d89ea6310c2b484e20877d788147d55c0e0996ff6c1a6f666f969020ea3719a"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_1b681fafdc1e448fbfdedee0f1806145",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The distance between the centre of planet X and the centre of planet Y is 9<em>R</em>. The mass of planet X is <span class=\"math\" data-latex=\"M_{X}\"></span> and the mass of planet Y is <span class=\"math\" data-latex=\"M_{Y}\"></span>. The two planets have the same average density. Point B is located between planet X and planet Y at distance <em>R</em> from planet Y. At point B the total gravitational potential due to the two planets has a maximum value. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{Radius  of  planet  X}{Radius  of  planet  Y}\"></span> ?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2</li>\n<li data-label=\"B\">4</li>\n<li data-label=\"C\">8</li>\n<li data-label=\"D\">64</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/62f1edb18e43d0a188f6723cde4b5edd1d4f8ecc7cdd8431882e4e21ec032147.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "62f1edb18e43d0a188f6723cde4b5edd1d4f8ecc7cdd8431882e4e21ec032147"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_63a3c9b496194ef097ebc003d5882a79",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A cylinder of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> rotates at constant angular speed ω about an axis through its centre. The rotational kinetic energy of the cylinder is K.</p>\n<p>The moment of inertia of the cylinder is <span class=\"math\" data-latex=\"\\frac{1}{2}MR^{2}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A second cylinder has mass <span class=\"math\" data-latex=\"2M\"></span>, radius <span class=\"math\" data-latex=\"2R\"></span> and rotates with angular speed 2ω.</p>\n<p>What is the rotational kinetic energy of the second cylinder?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">8K</li><li data-label=\"B\">16K</li><li data-label=\"C\">32K</li><li data-label=\"D\">64K</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

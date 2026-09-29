@@ -1,0 +1,72 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/11294a5e5f73b723f1d2003910b5c61b4689694f7d19af35b0fbc01dabb22ed8.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11294a5e5f73b723f1d2003910b5c61b4689694f7d19af35b0fbc01dabb22ed8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d3dd2f8aa4daa11b140164fba9d7be3da6366cb6b1d951433fd8d1f543181aa1.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d3dd2f8aa4daa11b140164fba9d7be3da6366cb6b1d951433fd8d1f543181aa1"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/e478ea2bc95099bde35c46ed3d0c034ca48846c382b310aaef69c031807d525a.jpg",
+      "id": "fig_03",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e478ea2bc95099bde35c46ed3d0c034ca48846c382b310aaef69c031807d525a"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/931015ab6f4802ff76ea3afa762f1d4d708cb78be46431d308d2ba485dd62e47.jpg",
+      "id": "fig_04",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "931015ab6f4802ff76ea3afa762f1d4d708cb78be46431d308d2ba485dd62e47"
+    },
+    {
+      "alt": "Source question diagram 5",
+      "file": "assets/546ed3be0ac44461eac09ca7728ed4a6bb1a55246e76cab73a81cdfc49c0d6b5.jpg",
+      "id": "fig_05",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "546ed3be0ac44461eac09ca7728ed4a6bb1a55246e76cab73a81cdfc49c0d6b5"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c87c0dab9fc5494ea6ea6dd6316f41a5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small ball is projected with an initial velocity <span class=\"math\" data-latex=\"u\"></span> at an angle to the horizontal, as shown in the diagram below. The dashed line represents the parabolic trajectory of the ball in a vacuum.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>In the presence of air resistance, the ball experiences a drag force proportional to its speed. Which of the following graphs best represents the variation with time <span class=\"math\" data-latex=\"t\"></span> of the horizontal component of the velocity, <span class=\"math\" data-latex=\"v_x\"></span>, for the motion of the ball?</p>\n<p>The dotted line in each graph represents the case where air resistance is negligible.</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_05\"><img alt=\"Source question diagram 5\" src=\"asset:fig_05\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

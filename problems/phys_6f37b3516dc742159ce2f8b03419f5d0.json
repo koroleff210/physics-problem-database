@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_6f37b3516dc742159ce2f8b03419f5d0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, of masses <span class=\"math\" data-latex=\"M\"></span> and <span class=\"math\" data-latex=\"9M\"></span> respectively, are initially at rest on a frictionless horizontal surface. The same constant resultant force is applied to each block for the same time interval.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{kinetic energy of } X}{\\text{kinetic energy of } Y}\"></span> at the end of this time interval?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{9}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"9\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

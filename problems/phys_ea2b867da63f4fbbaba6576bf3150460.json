@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_ea2b867da63f4fbbaba6576bf3150460",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass of a Planet A is <span class=\"math\" data-latex=\"M\"></span>, its radius is <span class=\"math\" data-latex=\"R\"></span> and the escape speed from Planet A is <span class=\"math\" data-latex=\"v\"></span>. Planet B has four times the mass and half the radius of Planet A. What is the escape speed from Planet B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"8v\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{8} v\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{v}{8}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{v}{\\sqrt{8}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

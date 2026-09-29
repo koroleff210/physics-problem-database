@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_4ebb25b6111f4f1e9e6438d4218c995f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monatomic ideal gas is compressed adiabatically. Which of the following expressions correctly represents the relationship between temperature and volume?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"TV = \\text{constant}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"TV^{2/3} = \\text{constant}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"TV^{5/3} = \\text{constant}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"T^2V = \\text{constant}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

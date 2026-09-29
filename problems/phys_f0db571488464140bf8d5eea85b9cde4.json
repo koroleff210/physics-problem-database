@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/fdb37784bd559620ebacd97abdeb953a0479044e8aeb21556ff39f2225365cd0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fdb37784bd559620ebacd97abdeb953a0479044e8aeb21556ff39f2225365cd0"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_f0db571488464140bf8d5eea85b9cde4",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Light comes from a single source ✓ Waves need to have a constant phase difference / in phase ✓ «To produce» a fixed/stable/clear/constant pattern «over time» OR Only coherent light has this property/produces this pattern ✓</p>\n<p>Light of wavelength 720 nm is incident on two narrow slits that are separated by 0.12 mm. An interference pattern is observed on a screen. P<sub>1</sub> and P<sub>2</sub> are the points of destructive interference closest to the central maximum M.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Alternative 1 <span class=\"math\" data-latex=\"s = \\frac{λ D}{d} ⇒ ϕ = \\frac{s}{D} = \\frac{λ}{d}\"></span> ✓ <span class=\"math\" data-latex=\"ϕ=\\frac{720\\times 10^{-9}}{0.12\\times 10^{-3}}=6.0\\times 10^{-3} rad\"></span> ✓ Alternative 2 <span class=\"math\" data-latex=\"d sin \\frac{ϕ}{2}=\\frac{\\lambda}{2}⇒ϕ=2 sin ^{-1}\\frac{\\lambda}{2d}\"></span> ✓ <span class=\"math\" data-latex=\"φ=2 sin^{-1}\\frac{720\\times 10^{-9}}{2\\times 0.12\\times 10^{-3}}=6.0\\times 10^{-3} rad\"></span> ✓ Alternative 3 «With small angle approximation» <span class=\"math\" data-latex=\"d=\\frac{φ}{2}=\\frac{\\lambda}{2}⇒ϕ=\\frac{\\lambda}{d}\"></span> ✓ <span class=\"math\" data-latex=\"ϕ=\\frac{720\\times 10^{-9}}{0.12=10^{-3}}=6.0\\times 10^{-3} rad\"></span> ✓   Award [2] if 6.0 × 10<sup>−3</sup> «rad» is seen as the answer without working Do not penalize if answer in degrees (0.34 °) Award [1] for an answer of 0.012 or 0.003 «rad»</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>The energy missing at P<sub>1</sub> and P<sub>2</sub> is found at the maxima ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two sources of light produce an interference pattern on a screen.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why the two sources need to be coherent for the interference pattern to be observed. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate, in radians, the angular separation <span class=\"math\" data-latex=\"φ\"></span> of P<sub>1</sub> and P<sub>2</sub>. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Suggest how energy conservation is consistent with the fact that the energy at P<sub>1</sub> and P<sub>2</sub> is zero. [1]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

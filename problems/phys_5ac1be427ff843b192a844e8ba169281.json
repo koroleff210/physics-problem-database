@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_5ac1be427ff843b192a844e8ba169281",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is a feature of both the Rutherford model and the Bohr model?</p><ol class=\"mcq-options\"><li data-label=\"A\">A nucleus composed of protons and neutrons</li><li data-label=\"B\">Electrons orbiting around the nucleus</li><li data-label=\"C\">Electrons in discrete energy levels</li><li data-label=\"D\">Electrons in orbitals around the nucleus</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

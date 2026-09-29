@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_2262202ddea349828f6f1e3ecd8c6ca6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The balloon is moving at terminal velocity, which means its acceleration is zero and the net force acting on it is zero. The downward force is its weight (mg). The upward forces are the buoyancy force (<span class=\"math\" data-latex=\"F_{b}\"></span>) and the drag force (<span class=\"math\" data-latex=\"F_{d}\"></span>). For the net force to be zero, the upward forces must balance the downward force: <span class=\"math\" data-latex=\"F_{b}\"></span> + <span class=\"math\" data-latex=\"F_{d}\"></span> = mg. Rearranging for the drag force gives <span class=\"math\" data-latex=\"F_{d}\"></span> = mg - <span class=\"math\" data-latex=\"F_{b}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A balloon of mass m falls vertically through the air with terminal velocity. The buoyancy force acting on the balloon has magnitude <span class=\"math\" data-latex=\"F_{b}\"></span>. What is the magnitude of the drag force acting on the balloon?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"mg\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"F_b\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"mg + F_b\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"mg - F_b\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

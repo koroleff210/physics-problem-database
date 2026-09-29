@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_312552cb3ba343d4a11c2b23c328431c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of the Earth is R. A satellite is launched to a height h = <span class=\"math\" data-latex=\"\\frac{R}{4}\"></span> above the Earth’s surface.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{gravitational force on satellite at the surface}}{\\textit{gravitational force on satellite at height h}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4}{5}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{16}{25}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{25}{16}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{5}{4}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

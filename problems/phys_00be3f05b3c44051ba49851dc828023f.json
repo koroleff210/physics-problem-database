@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/423a961519da9cf1e82b6819932a1a33b4a887c460212d22a351edb28cd6afc8.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "423a961519da9cf1e82b6819932a1a33b4a887c460212d22a351edb28cd6afc8"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_00be3f05b3c44051ba49851dc828023f",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Light consisting of a single wavelength or a single frequency [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"d = \\frac{1}{5.0 \\times 10^5} = 2.0 \\times 10^{-6}\\text{ m}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\lambda = \\frac{d \\sin\\theta}{n} = \\frac{2.0 \\times 10^{-6} \\times \\sin(39.3^{\\circ})}{2} = 6.33 \\times 10^{-7}\\text{ m}\"></span> (or <span class=\"math\" data-latex=\"633\\text{ nm}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Sketch shows very narrow, sharp intensity peaks (not broad fringes) at discrete angles [1 mark]<br/>- Zero-order (at <span class=\"math\" data-latex=\"0^{\\circ}\"></span>) and first-order peaks are clearly labeled [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- A higher number of lines per mm corresponds to a smaller grating spacing <span class=\"math\" data-latex=\"d\"></span> [1 mark]<br/>- Since <span class=\"math\" data-latex=\"\\sin\\theta = \\frac{n\\lambda}{d}\"></span>, a smaller <span class=\"math\" data-latex=\"d\"></span> increases the angle for each order <span class=\"math\" data-latex=\"n\"></span>, causing higher orders to reach or exceed <span class=\"math\" data-latex=\"\\theta = 90^{\\circ}\"></span> (so <span class=\"math\" data-latex=\"\\sin\\theta &gt; 1\"></span> is impossible) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A parallel beam of monochromatic light from a helium-neon laser is incident normally on a diffraction grating. A screen is positioned to observe the resulting interference pattern. The diagram below illustrates the setup.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term *monochromatic* light.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The diffraction grating contains <span class=\"math\" data-latex=\"5.0 \\times 10^5\"></span> lines per metre. The second-order maximum (<span class=\"math\" data-latex=\"n=2\"></span>) is detected at an angle of <span class=\"math\" data-latex=\"39.3^{\\circ}\"></span> from the central axis. Calculate the wavelength of the laser light.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Sketch a graph showing the variation with angle <span class=\"math\" data-latex=\"\\theta\"></span> of the intensity of the light on the screen. Label the zero-order and first-order maxima.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Outline why the number of visible diffraction orders decreases if the grating is replaced with one that has a higher number of lines per millimetre.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

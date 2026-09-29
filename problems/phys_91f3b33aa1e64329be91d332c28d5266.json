@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_91f3b33aa1e64329be91d332c28d5266",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A speedboat starts from rest and accelerates at 5.0 m s<span class=\"math\" data-latex=\"^{-2}\"></span>. What is the velocity of the speedboat after it has travelled a distance of 10 m?</p>\n<p> </p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">2.5 m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\">5.0 m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\">10 m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\">50 m s<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_db0bc019107e452b800833499db02537",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Liquid nitrogen in an open container at its boiling point <span class=\"math\" data-latex=\"(-196\\:{}^{\\circ}\\textup{C})\"></span> is placed in a sealed room and is allowed to completely evaporate. </p>\n<p>Consider the following statements about the process:</p>\n<p>I. The entropy of the nitrogen molecules decreased.</p>\n<p>II. The entropy of the room decreased.</p>\n<p>III. The entropy of the universe decreased.</p>\n<p></p>\n<p>Which of these statements are incorrect?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_3c97b75b80b041fba8daf47c6008719f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The length of a metal rod as measured on the surface of the Earth by Ahmed, who is at rest relative to the surface, is <span class=\"math\" data-latex=\"L_{1}\"></span>. Saanvi, who is flying in a spaceship, measures the length of the rod to be <span class=\"math\" data-latex=\"L_{2}\"></span>. The Lorentz factor for the relative speed of Ahmed and Saanvi is <span class=\"math\" data-latex=\"\\gamma\"></span>.</p>\n<p>Which of the following are correct?</p>\n<p></p>\n<p>I. The proper length of the rod is <span class=\"math\" data-latex=\"L_{1}\"></span>.</p>\n<p>II. <span class=\"math\" data-latex=\"\\gamma = \\frac{L_{1}}{L_{2}}\"></span></p>\n<p>III. <span class=\"math\" data-latex=\"L_{1} &gt; L_{2}\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

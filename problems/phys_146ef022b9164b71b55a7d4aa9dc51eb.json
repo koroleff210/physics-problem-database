@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_146ef022b9164b71b55a7d4aa9dc51eb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The energy of the absorbed photon is the difference between the final and initial energy levels. For the n=1 to n=2 transition, ΔE = E₂ - E₁ = (-k/2²) - (-k/1²) = 3k/4. Given ΔE = 54 eV, we find k = 72 eV. For the n=2 to n=3 transition, the required photon energy is ΔE' = E₃ - E₂ = (-k/3²) - (-k/2²) = 5k/36. Substituting k = 72 eV gives ΔE' = 5 * (72 eV) / 36 = 10 eV.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron inside a hydrogen-like atom absorbs a photon of energy 54 eV to make a transition from the n = 1 to the n = 2 state. The energy levels in the atom are given by <span class=\"math\" data-latex=\"E_{n}\"></span> = -k/n^2.</p>\n<p>What photon energy is required for a transition from the n = 2 to the n = 3 state?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"72 eV\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"26 eV\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"18 eV\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"10 eV\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

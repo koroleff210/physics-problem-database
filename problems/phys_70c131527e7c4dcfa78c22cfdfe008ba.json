@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_70c131527e7c4dcfa78c22cfdfe008ba",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A metal rod is heated at one end, and after a few minutes, the other end of the rod also becomes warm. What is the primary method of heat transfer in this process?</p><ol class=\"mcq-options\"><li data-label=\"A\">Conduction</li><li data-label=\"B\">Convection</li><li data-label=\"C\">Radiation</li><li data-label=\"D\">Evaporation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

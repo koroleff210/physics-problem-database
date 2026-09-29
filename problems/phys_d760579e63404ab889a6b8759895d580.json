@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d760579e63404ab889a6b8759895d580",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An interference intensity pattern is obtained in an experiment with 4 slits. What change occurs when the number of slits is increased but the separation of the slits and the width of the slits do not change?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The width of the primary maxima decreases.</li><li data-label=\"B\">The position of the primary maxima changes.</li><li data-label=\"C\">The number of secondary maxima decreases.</li><li data-label=\"D\">The intensity of the secondary maxima increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4bc896b3d56f890d4e94654dfd7fc1d24d5119c642c28808a16adf892828f8b2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4bc896b3d56f890d4e94654dfd7fc1d24d5119c642c28808a16adf892828f8b2"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/15da0f89f3383787652171f08cebdd6ad704f3173fc460c1274b63ff717f0d9d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "15da0f89f3383787652171f08cebdd6ad704f3173fc460c1274b63ff717f0d9d"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/1ef804c3de3d047da7b64cf292b82a4abc47c71864f3bcebbb9fdb86354e49af.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1ef804c3de3d047da7b64cf292b82a4abc47c71864f3bcebbb9fdb86354e49af"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2f07f83a99dd453787d63026acd81a14",
+  "level": "sl",
+  "marks": 15,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>ALTERNATIVE 1 Attempt to count squares ✓ Area of one square found ✓ 7.2 «m» (accept 6.4 – 7.4 m) ✓   ALTERNATIVE 2 Uses area equation for either triangle ✓ Correct read offs for estimate of area of triangle ✓ 7.2 «m» (accept 6.4 – 7.4) ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Attempt to calculate gradient of line at t = 1.2 s ✓ «−» 9.8 «m s<sup>−2</sup>» (accept 9.6 − 10.0) ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Attempt to evaluate KE ratio as <span class=\"math\" data-latex=\"\\frac{V_{final}}{V_{initial}}^{2}\"></span> ✓ «<span class=\"math\" data-latex=\"\\frac{4.5}{10}^{2}\"></span> =» 0.20 OR 20 % OR <span class=\"math\" data-latex=\"\\frac{1}{5}\"></span> ✓   Accept ± 0.5 velocity values from graph</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Attempt to use force = momentum change ÷ time ✓ «= <span class=\"math\" data-latex=\"\\frac{4.5+10\\times 0.027}{85\\times 10^{-3}}\"></span> = 4.6» Force = «4.6 + 0.3» 4.9 «N» ✓ Any answer to 2sf ✓   Accept ± 0.5 velocity values from graph</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1 ω = 2<span class=\"math\" data-latex=\"\\pi\"></span>(0.35) «=2.20 rad s<sup>−1</sup>» ✓<br/>Use of v = 0.14ω ✓<br/>0.31 «m s<sup>−1</sup>» ✓   ALTERNATIVE 2 T = <span class=\"math\" data-latex=\"\\frac{1}{0.35}\"></span> «= 2.9 s» ✓ V = <span class=\"math\" data-latex=\"\\frac{2\\pi0.14}{T}\"></span>  OR  <span class=\"math\" data-latex=\"\\frac{v^{2}}{0.14}\"></span> = <span class=\"math\" data-latex=\"\\frac{4\\pi^{2}0.14}{T^{2}}\"></span> ✓ v = 0.31 «m s<sup>−1</sup>» ✓   Award [3] for BCA</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Mass «leaving the bottle per second» will be larger for air–water ✓ the momentum change/force is greater ✓   Allow opposite argument for air only</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A toy rocket is made from a plastic bottle that contains some water.</p>\n<p>Air is pumped into the vertical bottle until the pressure inside forces water and air out of the bottle. The bottle then travels vertically upwards.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The air–water mixture is called the propellant.</p>\n<p>The variation with time of the vertical velocity of the bottle is shown.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The bottle reaches its highest point at time T<sub>1</sub> on the graph and returns to the ground at time T<sub>2</sub>. The bottle then bounces. The motion of the bottle after the bounce is shown as a dashed line.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Estimate, using the graph, the maximum height of the bottle. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Estimate the acceleration of the bottle when it is at its maximum height. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The bottle bounces when it returns to the ground.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Calculate the fraction of the kinetic energy of the bottle that remains after the bounce. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>The mass of the bottle is 27 g and it is in contact with the ground for 85 ms.</p>\n<p>Determine the average force exerted by the ground on the bottle. Give your answer to an appropriate number of significant figures.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>After a second bounce, the bottle rotates about its centre of mass. The bottle rotates at 0.35 revolutions per second.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>The centre of mass of the bottle is halfway between the base and the top of the bottle. Assume that the velocity of the centre of mass is zero.</p>\n<p>Calculate the linear speed of the top of the bottle.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The maximum height reached by the bottle is greater with an air–water mixture than with only high-pressure air in the bottle.</p>\n<p>Assume that the speed at which the propellant leaves the bottle is the same in both cases.</p>\n<p>Explain why the bottle reaches a greater maximum height with an air–water mixture.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

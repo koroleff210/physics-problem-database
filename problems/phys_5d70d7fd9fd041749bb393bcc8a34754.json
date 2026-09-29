@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7fcffe364cd5f37b5592203eb35c00c89ea495e5f9e6a2bddcb2c2d52751c40c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7fcffe364cd5f37b5592203eb35c00c89ea495e5f9e6a2bddcb2c2d52751c40c"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_5d70d7fd9fd041749bb393bcc8a34754",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Some transitions between the energy states of a particular atom are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Energy transition E<sub>3</sub> gives rise to a photon of green light. Which transition will give rise to a photon of longer wavelength?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">E<sub>1</sub></li><li data-label=\"B\">E<sub>2</sub></li><li data-label=\"C\">E<sub>4</sub></li><li data-label=\"D\">E<sub>5</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

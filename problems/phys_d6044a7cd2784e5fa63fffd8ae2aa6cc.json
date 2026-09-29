@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8b87c6703bc8a2de61c9fb9b63e180a97015fd057bca8cdf183a4d6ba153a731.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8b87c6703bc8a2de61c9fb9b63e180a97015fd057bca8cdf183a4d6ba153a731"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_d6044a7cd2784e5fa63fffd8ae2aa6cc",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is formed between two loudspeakers that emit sound waves of frequency <span class=\"math\" data-latex=\"f\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>A student walking between the two loudspeakers finds that the distance between two consecutive sound maxima is 1.5 m. The speed of sound is 300 m s<sup>−1</sup>.</p>\n<p>What is <span class=\"math\" data-latex=\"f\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">400 Hz</li><li data-label=\"B\">200 Hz</li><li data-label=\"C\">100 Hz</li><li data-label=\"D\">50 Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

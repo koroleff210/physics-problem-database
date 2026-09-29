@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_3b5b905755254ced98b6fab3112df104",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Light is quantized into discrete packets called photons, where each photon carries energy proportional to its frequency (<span class=\"math\" data-latex=\"E = hf\"></span>) [1 mark]<br/>- An electron can only be ejected if it absorbs a single photon with energy at least equal to the work function; below the threshold frequency, no individual photon has sufficient energy [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Planck's constant [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The threshold frequency <span class=\"math\" data-latex=\"f_0\"></span> is the x-intercept (horizontal intercept) &lt;[1 mark]<br/>- The work function <span class=\"math\" data-latex=\"\\Phi\"></span> is the magnitude of the y-intercept (vertical intercept) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Use Einstein's photoelectric equation: <span class=\"math\" data-latex=\"E_{\\text{max}} = h(f - f_0)\"></span> where <span class=\"math\" data-latex=\"h = 6.63 \\times 10^{-34} \\text{ J s}\"></span> [1 mark]<br/>- Substitution of values: <span class=\"math\" data-latex=\"E_{\\text{max}} = 6.63 \\times 10^{-34} \\times (8.2 \\times 10^{14} - 5.5 \\times 10^{14}) = 1.79 \\times 10^{-19} \\text{ J}\"></span> [1 mark]<br/>- Solve for stopping potential <span class=\"math\" data-latex=\"V_s = \\frac{E_{\\text{max}}}{e} = \\frac{1.79 \\times 10^{-19}}{1.60 \\times 10^{-19}} = 1.12 \\text{ V}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- The maximum kinetic energy remains unchanged because it is independent of light intensity (it depends only on frequency) [1 mark]<br/>- The number of electrons emitted per second increases because a higher intensity means more photons are incident on the surface per unit time [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment investigating the photoelectric effect, light of various frequencies is incident on a clean metal surface in a vacuum tube.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain, with reference to the photon model of light, why there exists a threshold frequency for the emission of electrons from a metal surface.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>A graph is plotted showing the variation of the maximum kinetic energy <span class=\"math\" data-latex=\"E_{\\text{max}}\"></span> of the photoelectrons against the frequency <span class=\"math\" data-latex=\"f\"></span> of the incident light.\n\nState the name of the physical constant given by the gradient of the line.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe how the threshold frequency and the work function of the metal can be identified using the intercepts of this graph.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>A metallic surface has a threshold frequency of <span class=\"math\" data-latex=\"5.5 \\times 10^{14} \\text{ Hz}\"></span>. Calculate the stopping potential <span class=\"math\" data-latex=\"V_s\"></span> required to prevent all electrons from reaching the collector when the surface is illuminated with light of frequency <span class=\"math\" data-latex=\"8.2 \\times 10^{14} \\text{ Hz}\"></span>.<p>[3]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>The light source is replaced with one of the same frequency but higher intensity. Discuss the effect of this change on the maximum kinetic energy of the photoelectrons and the number of electrons emitted per second.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

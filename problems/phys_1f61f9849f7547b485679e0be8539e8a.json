@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_1f61f9849f7547b485679e0be8539e8a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Four positive charges are fixed at the corners of a square that has a diagonal length of <span class=\"math\" data-latex=\"d\"></span>. Three of the charges have a charge of <span class=\"math\" data-latex=\"+Q\"></span>.</p>\n<p>The total electric potential at the centre of the square is <span class=\"math\" data-latex=\"\\frac{10kQ}{d}\"></span>.</p>\n<p>What is the magnitude of the fourth charge? <br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"Q\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"Q\\sqrt{2}\"></span></li><li data-label=\"C\">2<span class=\"math\" data-latex=\"Q\"></span></li><li data-label=\"D\">4<span class=\"math\" data-latex=\"Q\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

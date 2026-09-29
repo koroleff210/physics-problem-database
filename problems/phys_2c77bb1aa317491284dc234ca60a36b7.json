@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2c77bb1aa317491284dc234ca60a36b7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>75 J of thermal energy is transferred to an ideal monatomic gas at a constant pressure of 1.0 × 10<sup>5</sup> Pa. The volume of the gas increases from 2.7 × 10<sup>−3</sup> m<sup>3</sup> to 3.0 × 10<sup>−3</sup> m<sup>3</sup>.</p>\n<p>What is the change in the internal energy of the gas?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">45 J</li><li data-label=\"B\">105 J</li><li data-label=\"C\">−45 J</li><li data-label=\"D\">−105 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

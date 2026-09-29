@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_df39f83fb5484e8c93135189ecacdc31",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point source emits monochromatic light. The intensity of the light at a distance <em>d</em> from the source is <em>I. </em>What is the intensity when the distance is decreased by 25%?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{9}{16}\"></span><em>I</em></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span><em>I</em></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{16}{9}\"></span><em>I</em></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{4}{3}\"></span><em>I</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

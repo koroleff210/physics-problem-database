@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/84fb7439e316d2c81996519612c91f0af3e8e3279762f7b411d45f4ab847d16c.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84fb7439e316d2c81996519612c91f0af3e8e3279762f7b411d45f4ab847d16c"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_e6b02ad58bb04353bfd46ce3ff7f8a11",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A crystalline solid is heated at a constant rate. The graph shows the variation of the temperature <span class=\"math\" data-latex=\"T\"></span> of the sample with the thermal energy <span class=\"math\" data-latex=\"Q\"></span> supplied to it.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which of the following describes the change in the average molecular kinetic energy and the total molecular potential energy of the substance during the stage represented by the horizontal section <span class=\"math\" data-latex=\"P\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\">Average kinetic energy is constant; Total potential energy is increasing.</li><li data-label=\"B\">Average kinetic energy is increasing; Total potential energy is constant.</li><li data-label=\"C\">Average kinetic energy is constant; Total potential energy is constant.</li><li data-label=\"D\">Average kinetic energy is increasing; Total potential energy is increasing.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

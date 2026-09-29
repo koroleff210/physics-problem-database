@@ -1,0 +1,68 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ddd4650de5d10da392c9e57584d6a4517b1e5412949ea9377fd6107c3fdc5f8b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ddd4650de5d10da392c9e57584d6a4517b1e5412949ea9377fd6107c3fdc5f8b"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/20753ed3a96f86a0f820b107f8d3102a1eecd0798600c656b155194f31f0ca6d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "20753ed3a96f86a0f820b107f8d3102a1eecd0798600c656b155194f31f0ca6d"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/8ad766dddac88e9241866166d6751da1eb6a26ba2a3256008fb80be4b5c94cc9.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8ad766dddac88e9241866166d6751da1eb6a26ba2a3256008fb80be4b5c94cc9"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/8f0e89a3e84dd27169edf816c0314fa08c0d22468745c155d0847ecf933f8d06.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "8f0e89a3e84dd27169edf816c0314fa08c0d22468745c155d0847ecf933f8d06"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "A.4",
+    "B.3",
+    "B.4",
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_cacafbde03064ba08bbc3180471cc6a1",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"V = π {r}^{2} h = π {0.9}^{2} \\times  24 = 61.07 \\, {m}^{3}\"></span> ✓ <span class=\"math\" data-latex=\"P=\\frac{42008.31273+15}{61.07}=0.16 MPa\"></span> ✓ <br/>Allow MP1 to be seen in MP2.</p>\n<p>When the boat is placed on the airbags, the airbags are compressed so that the effective contact area is as shown in the diagram.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p>\n<p><br/>In this arrangement, the maximum safe pressure before an airbag bursts is four times the value calculated in (a)(i). The boat is supported by airbags on a slope that is at an angle of 4.0° to the horizontal. There are fifteen airbags supporting the boat at all times.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"F=4PA=41.6\\times 10^{5}15\\times 24\\times 1.8=4.14\\times 10^{8}N\"></span> ✓ <span class=\"math\" data-latex=\"F=mg cos \\theta=m9.8cos 4=9.78 m N\"></span> ✓ <span class=\"math\" data-latex=\"m=\\frac{4PA}{g cos \\theta}=\\frac{4.14\\times 10^{8}}{9.78}=4.3\\times 10^{7} kg\"></span> ✓ <br/>Do not award MP2 if the cos θ term is omitted. Allow ECF for MP3.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Even weight/mass distribution ✓ Shape of the airbags/they do not touch ✓ Deformation at the end of the airbags ✓ <br/>Max 1 mark</p>\n<p>The boat is then released to roll down across the airbags. When the boat loses contact with an airbag at the top of the slope, the airbag expands adiabatically.</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>Internal energy / U decreases ✓<br/><br/> ΔQ = 0 and therefore ΔU = –W OR «Adiabatic expansion causes» T decreases ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"a=\\frac{2s}{t^{2}}=\\frac{214}{8^{2}}=0.44 m s^{-2}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1 F<sub>g</sub> = mg sin θ = (4.5 × 10<sup>6</sup>)(9.8)(sin 4) «= 3.08 × 10<sup>6</sup> N» OR F<sub>net</sub> = ma = (4.5 × 10<sup>6</sup>)(0.44) «= 1.97 × 10<sup>6</sup> N» ✓ Friction = F<sub>g</sub> – F<sub>net</sub> = 3.08 – 1.97 = 1.11 MN ✓   ALTERNATIVE 2 a<sub>net</sub> = g sin θ – a = (9.81)(sin 4) – 0.4375 «= 0.2468 m s<sup>–2</sup>» ✓ F = ma = (4.5 × 10<sup>6</sup>)(0.2468) = 1.11 MN ✓ <br/>Must see full substitution   OR   answer to 3 (or more) significant figures for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>F<sub>N</sub>/N/Normal force perpendicular to slope AND mg/W/weight vertically downwards ✓ F<sub>d</sub>/drag/F<sub>F</sub>/Friction opposing motion and parallel to the slope ✓ <br/>Do not allow g / gravity for the downward force. Ignore additional forces.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"\\theta=2\\pi\"></span> revolutions<span class=\"math\" data-latex=\"= 2 π \\frac{s}{2 π r} = \\frac{7}{0.9} = 7.78 \\, r a d\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Frictional forces on the top and bottom «of the rod» are in opposite directions ✓ A «net/unbalanced anticlockwise» torque is produced ✓</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p><span class=\"math\" data-latex=\"\\omega=\\frac{v}{r}=\\frac{2}{0.9}=2.22 rad s^{-1}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>ALTERNATIVE 1 <span class=\"math\" data-latex=\"t = \\frac{( \\frac{C}{8} )}{v} = \\frac{( \\frac{2 π r}{8} )}{2.0} = 0.35 \\, s\"></span> ✓ <br/>ALTERNATIVE 2 <span class=\"math\" data-latex=\"t=\\frac{\\frac{\\pi}{4}}{\\omega}=0.35 s\"></span> ✓ <br/>Allow 0.35–0.36 s.</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>Use of <span class=\"math\" data-latex=\"v = ω {x}_{0} \\, c o s \\, ( ω t + φ )\"></span> and <span class=\"math\" data-latex=\"φ=\\frac{\\pi}{4}\"></span> ✓ <span class=\"math\" data-latex=\"v = ω {x}_{0} \\, c o s \\, ( ω t + φ ) = ( 2.22 ) ( 0.9 ) \\, c o s \\, ( ( 2.22 ) ( 3 ) + \\frac{π}{4} ) = 0.79 \\, m \\, {s}^{- 1}\"></span> ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A boat is moved from land to water by rolling it across a set of cylindrical airbags.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> When fully inflated, an unloaded airbag has a diameter of 1.80 m and a length of 24.0 m. At a temperature of 15 °C, an airbag can hold 4200 mol of gas.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the pressure in an airbag is about 0.2 MPa. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate the maximum safe mass that this arrangement can hold. [3]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Identify an assumption used in this estimation. [1]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> Outline the change in internal energy of the gas in the airbag. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> A boat is released from rest down the slope, and it travels 14 m in 8.0 s. The mass of the boat is 4.5 × 10<sup>6</sup> kg.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the average acceleration of the boat. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show that the net resistive forces on the boat are about 1.1 MN. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> </p><p>Draw a free-body diagram for the boat while it is moving.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Another way to move a boat down a ramp is to place it on rigid rods. Assume that the same boat is now moved on rods of diameter 1.80 m with the same boat acceleration as before.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the angular displacement of a rod during the first 8.0 s of the motion is about 8 rad. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Outline how two frictional forces lead to the angular acceleration of the rod. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>During the testing of the rod, it is rotated about its central axis. Point P is on the surface of the rod. At time t = 0, P is at a point 45° above the horizontal. The linear speed of P is 2.0 m s<sup>–1</sup>.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>The vertical displacement x of P can be modelled with an equation x = x<sub>0</sub> sin (ωt + φ).</p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Calculate the angular velocity ω of P. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Calculate the time it will take for P to reach the top of the circle. [1]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> Determine the vertical velocity of P at t = 3.0 s. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

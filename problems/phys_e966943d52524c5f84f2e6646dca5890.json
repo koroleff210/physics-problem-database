@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_e966943d52524c5f84f2e6646dca5890",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The acceleration of an alpha-particle travelling at speed <span class=\"math\" data-latex=\"v\"></span> in a magnetic field of strength <span class=\"math\" data-latex=\"B\"></span> is <span class=\"math\" data-latex=\"a\"></span>. What is the magnitude of a proton’s acceleration that is travelling in the opposite direction to the alpha particle in the same magnetic field at a speed <span class=\"math\" data-latex=\"2v\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"a\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2a\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4a\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8a\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

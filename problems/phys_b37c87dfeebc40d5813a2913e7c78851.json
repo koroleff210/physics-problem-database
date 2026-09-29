@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_b37c87dfeebc40d5813a2913e7c78851",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A standing wave is formed on a rope. The distance between the first and fifth antinode on the standing wave is 60 cm. What is the wavelength of the wave?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">12 cm</li><li data-label=\"B\">15 cm</li><li data-label=\"C\">24 cm</li><li data-label=\"D\">30 cm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

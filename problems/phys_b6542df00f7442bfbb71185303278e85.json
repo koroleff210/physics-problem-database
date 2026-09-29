@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3f97db2b9efe0d6f8f986843f576c047971a1b645ec827d0a804d66ce5bfc582.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3f97db2b9efe0d6f8f986843f576c047971a1b645ec827d0a804d66ce5bfc582"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_b6542df00f7442bfbb71185303278e85",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Resistance <span class=\"math\" data-latex=\"=\\frac{12^{2}}{150}=0.96\"></span> «<span class=\"math\" data-latex=\"Ω\"></span>» ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Use of <span class=\"math\" data-latex=\"\\rho=\\frac{RA}{I}\"></span> ✔ area <span class=\"math\" data-latex=\"=  \\frac{ρ I}{R} =  7.8 \\times  {10}^{- 6} \\,  {m}^{2}\"></span> ✔ radius <span class=\"math\" data-latex=\"=\\sqrt{7.8\\times 10^{-6}/\\pi=}1.6\\times 10^{-3} m\"></span> ✔ <br/>Check for ECF from (a)(i)</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>mass of ice <span class=\"math\" data-latex=\"=\"></span> 900<span class=\"math\" data-latex=\"\\times\"></span>0.6<span class=\"math\" data-latex=\"\\times\"></span>0.21<span class=\"math\" data-latex=\"\\times\"></span>0.5 <span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"-\"></span><sup>3</sup> OR 0.0567 &lt;&lt;kg&gt;&gt; ✔<br/>energy required <span class=\"math\" data-latex=\"=\"></span> 0.336<span class=\"math\" data-latex=\"\\times\"></span>10<sup>6</sup><span class=\"math\" data-latex=\"\\times\"></span>0.0567 OR 1.91<span class=\"math\" data-latex=\"\\times\"></span>10<sup>4</sup> &lt;&lt;J&gt;&gt; ✔ time<span class=\"math\" data-latex=\"=\\frac{1.91\\times 10^{4}}{150}=130s\"></span> ✔ <br/>Be careful to check for ECF from MP1 and MP2.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1<br/>emf of almost discharged cell is lower than nominal value ✔<br/><span class=\"math\" data-latex=\"I/power\"></span> decreases, so longer time ✔ ALTERNATIVE 2<br/>internal R of battery increased ✔<br/>so <span class=\"math\" data-latex=\"I\"></span> decreases, so longer time ✔ ALTERNATIVE 3<br/>power of the battery/heater is lower ✔<br/>so energy is provided at a slower rate, so time is longer ✔ MP1 and MP2 must be taken from the same alternative.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>advantage of batteries argument ✔ cost reduction argument ✔ improved storage argument ✔ environmental argument ✔ e.g. allows energy from renewables to be stored for later use, easy transportation of energy,<br/>e.g. to make batteries for cars affordable e.g. so electric cars can have a longer range e.g. so they last longer before disposal, to reduce impact of mining for lithium Do not allow vague statements e.g., “more environmentally friendly”, “more sustainable”, “to reduce pollution”, “to reduce the use of fossil fuels” etc.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An engineer designs an electric heater to melt ice from the rear window of a car. The heater consists of a single thin metal wire made from a high-resistance alloy. The horizontal parts of the wire are 0.60 m long and are separated by a vertical distance of 0.030 m. The heater is designed for a 12 V supply and for an output power of 150 W.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate the resistance of the heater when it is at its working temperature. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> </p><p>The total length of the metal wire is 5.0 m. Calculate the radius of the wire.</p>\n<p>Resistivity of the high-resistance alloy <span class=\"math\" data-latex=\"=\"></span> 1.5<span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"-\"></span><sup>6 </sup><span class=\"math\" data-latex=\"Ω\"></span> m</p><p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The heater is used to clear a layer of ice from the window over an area indicated by the dotted line on the diagram. The water that has melted immediately flows away from the heater. Determine the minimum time required to melt the ice.</p>\n<table><tbody><tr><td><p>Thickness of ice layer</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 0.50 mm</p></td></tr><tr><td><p>Initial temperature of ice</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 0 <span class=\"math\" data-latex=\"^{∘}\"></span>C</p></td></tr><tr><td><p>Density of ice</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 900 kg m<span class=\"math\" data-latex=\"-\"></span><sup>3</sup></p></td></tr><tr><td><p>Specific latent heat of fusion of ice</p></td><td><p><span class=\"math\" data-latex=\"=\"></span> 0.336 MJ kg<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></p></td></tr></tbody></table><p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The battery of the car was almost discharged before turning on the heater. Discuss how this is likely to affect your answer to (b). [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Outline two reasons why it is important for scientists to research effective solutions for energy storage using battery technology.</p>\n<p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br/><br/>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . <br/><br/></p>\n<p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>\n<p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,72 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/07926a50915100b9e192c30d47ceabe3da8552ab0255370b3ea5ca4afc90b1c0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "07926a50915100b9e192c30d47ceabe3da8552ab0255370b3ea5ca4afc90b1c0"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/0da08df829ef2982282686c42ad141516f548c877feaa8a439cda92153c07e3f.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0da08df829ef2982282686c42ad141516f548c877feaa8a439cda92153c07e3f"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/c6ffba6f86a6f555af8b8c5aa478e747a77cb6ad2cd13d18a28e18761412eac3.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c6ffba6f86a6f555af8b8c5aa478e747a77cb6ad2cd13d18a28e18761412eac3"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/bc6da3d5b7108bc1bce27aa4e4dc28ba616ecbf7f6693b419d7c11dcec99efff.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bc6da3d5b7108bc1bce27aa4e4dc28ba616ecbf7f6693b419d7c11dcec99efff"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/e46d60c3f255a4dc53157d3570e1bec627f6103fff84f1c64e4a9a70263f6185.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e46d60c3f255a4dc53157d3570e1bec627f6103fff84f1c64e4a9a70263f6185"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_fc10a5bc318d429bb199583b9145f37a",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025). <br/>ALTERNATE 1<br/>In time <span class=\"math\" data-latex=\"Δ t\"></span>, rod moves a distance <span class=\"math\" data-latex=\"v Δ t\"></span> ✔<br/>Flux increases by <span class=\"math\" data-latex=\"B ( L v Δ t )\"></span> ✔ «By Faraday» induced emf is the rate of change of flux: <span class=\"math\" data-latex=\"\\frac{B L v Δ t}{Δ t}\"></span> ✔</p>\n<p>«=<span class=\"math\" data-latex=\"BLv\"></span>»   ALTERNATE 2 «From ε = <span class=\"math\" data-latex=\"- \\frac{N Δ ϕ}{Δ t}\"></span>»<br/>Recognition that <span class=\"math\" data-latex=\"ϕ\"></span> = <span class=\"math\" data-latex=\"BA\"></span> ✔<br/>Recognition that N =1 ✔<br/>Recognition that <span class=\"math\" data-latex=\"\\frac{Δ A}{Δ t}\"></span> = <span class=\"math\" data-latex=\"Lν\"></span> ✔</p>\n<p>«Leading to V = <span class=\"math\" data-latex=\"vBL\"></span> OR ε =<span class=\"math\" data-latex=\"BLv\"></span>»</p>\n<p>ALTERNATE 3<br/>«In steady state» electrons stop drifting and so net force is zero ✔<br/>q<span class=\"math\" data-latex=\"vB\"></span> = qE ✔</p>\n<p>Substitution of E = <span class=\"math\" data-latex=\"\\frac{V}{L}\"></span> to get result ✔</p>\n<p>ALT 1: Correct MP2 scores MP1</p>\n<p>ALT2: V and ε are interchangeable. Ignore negative sign.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>The left end ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Zero ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Cosine OR negative cosine function ✔ Period 0.5 s ✔</p>\n<p><figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).  <br/>Alternate 1 The capacitance will increase ✔<br/>Since the voltage stays the same, the charge will increase ✔   Alternate 2 The voltage stays the same ✔<br/>The capacitance will increase, the charge will increase ✔</p>\n<p>Do not award a mark for simply stating that the charge increases.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A conducting rod of length <span class=\"math\" data-latex=\"L\"></span> is moved with speed <span class=\"math\" data-latex=\"v\"></span> at right angles to a uniform magnetic field of flux density <span class=\"math\" data-latex=\"B\"></span>. The field is directed into the plane of the page.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show, using Faraday’s law or otherwise, that the potential difference, V, established between the ends of the rod is V = <span class=\"math\" data-latex=\"vBL\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Identify the end of the rod that becomes negatively charged. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A coil is rotating in a region of magnetic field with angular speed 12.56 rad s<sup>−1</sup>. At <span class=\"math\" data-latex=\"t\"></span> = 0, the field is parallel to the surface of the coil.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the magnetic flux linkage through the coil at <span class=\"math\" data-latex=\"t\"></span> = 0. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>Draw, on the axes, a graph to show the variation with time of the induced emf in the loop. (No numbers are required on the vertical axis.)</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A capacitor is connected to a cell. The switch S is closed and the capacitor becomes fully charged.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p>\n<p>A dielectric is then inserted in between the plates of the capacitor. Suggest what, if anything, will happen to the charge on one plate of the capacitor.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

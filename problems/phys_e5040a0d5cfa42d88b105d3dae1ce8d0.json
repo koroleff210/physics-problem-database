@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4350517ec014b1e9ed1639bd334f3497335e498621669a3fb307280ed9c6237c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4350517ec014b1e9ed1639bd334f3497335e498621669a3fb307280ed9c6237c"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.2",
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e5040a0d5cfa42d88b105d3dae1ce8d0",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>energy required = 250 × 4200 × (30 − 15) ✓ energy available = 0.30 × 680 × t × A ✓ A = «<span class=\"math\" data-latex=\"\\frac{250\\times 4200\\times 15}{0.30\\times 680\\times 60\\times 60}=\"></span>» 21 «m<sup>2</sup>» OR 22 «m<sup>2</sup>» ✓   Allow ECF from MP1 and MP2. Accept the correct use of 0.30 in either MP1 or MP2.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>absorbed intensity = (1 − 0.2) × 680 «= 544» «W m<sup>−2</sup>» OR  emitted intensity = 0.97 × 5.67 × 10<sup>−8</sup> × T<sup>4</sup> ✓   T <span class=\"math\" data-latex=\"=\\sqrt[4]{\\frac{544}{0.97\\times 5.67\\times 10^{-8}}}=315\"></span> «K» ✓ 42 «°C» ✓   Allow ECF from MP1 and MP2. Allow MP1 if absorbed or emitted intensity is multiplied by area.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>can be liquefied ✓ has intermolecular forces / potential energy ✓ has atoms/molecules that are not point objects / take up volume ✓ does not follow the ideal gas law «for all T and p» ✓ collisions between particles are non-elastic ✓   Accept the converse argument.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1 «constant p and V imply»  nT = const ✓ T increases hence n decreases ✓<br/>ALTERNATIVE 2 «constant p and n imply» V is proportional to T / air expands as it is heated ✓ «original» air occupies a greater volume OR some air leaves through opening ✓   MP2 in ALT 2 must come from expansion of air, not from expansion of water. Award [0] for an answer based on expansion of water. Award [1] max for an answer based on convection currents.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>photovoltaic cells output electrical energy ✓</p>\n<p>electrical is a more versatile form of energy ✓</p>\n<p>Accept any reasonable advantage arising from the electrical output, .e.g., PV cells allow for the use of a long list of appliances, PV owners can sell excess power back to grid.</p>\n<p>Accept electrical energy can be stored.</p>\n<p>Do not accept references to efficiency for MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A solar heating panel is placed on the roof of a house in order to heat water in a storage tank. The rest of the roof is covered with tiles.</p>\n<p>On a certain day, the intensity of the solar radiation that is incident perpendicular to the surface of the panel is 680 W m<sup>−2</sup>.</p>\n<p>The following data are available.<br/><br/></p>\n<p>Mass of the water in the tank = 250 kg</p>\n<p>Initial temperature of the water in the tank = 15 °C</p>\n<p>Specific heat capacity of water = 4200 J kg<sup>−1</sup> K<sup>−1</sup></p>\n<p>Overall efficiency of the heating system = 0.30</p>\n<p>Albedo of the roof tiles = 0.20</p>\n<p>Emissivity of the roof tiles = 0.97</p>\n<p>There is an air space above the water in the storage tank with an opening to the atmosphere. Assume that air behaves like an ideal gas.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The air space is always at constant atmospheric pressure and constant volume, as the water level is kept constant. The air-space temperature and water temperature are the same.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Determine the minimum area of the solar heating panel required to increase the temperature of all the water in the tank to 30°C during a time of 1.0 hour. [3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Estimate, in °C, the temperature of the roof tiles. [3]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State one way in which a real gas differs from an ideal gas. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The water is heated. Explain why the quantity of air in the storage tank decreases. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Another method of harnessing solar energy involves the use of photovoltaic cells.</p>\n<p>Outline one advantage of the output of a photovoltaic cell compared to the output of a solar heating panel.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

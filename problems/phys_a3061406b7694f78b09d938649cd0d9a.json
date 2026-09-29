@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_a3061406b7694f78b09d938649cd0d9a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A beam of electrons travels along the <span class=\"math\" data-latex=\"x\"></span>-axis and enters a magnetic field directed along the <span class=\"math\" data-latex=\"y\"></span>-axis. What is the direction of the magnetic force on the electrons?</p><ol class=\"mcq-options\"><li data-label=\"A\">Positive <span class=\"math\" data-latex=\"z\"></span>-direction</li><li data-label=\"B\">Negative <span class=\"math\" data-latex=\"z\"></span>-direction</li><li data-label=\"C\">Positive <span class=\"math\" data-latex=\"y\"></span>-direction</li><li data-label=\"D\">Negative <span class=\"math\" data-latex=\"x\"></span>-direction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

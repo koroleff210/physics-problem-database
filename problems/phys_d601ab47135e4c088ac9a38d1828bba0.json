@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_d601ab47135e4c088ac9a38d1828bba0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The temperature of star A is <span class=\"math\" data-latex=\"T\"></span> and its radius is <span class=\"math\" data-latex=\"R\"></span>. The temperature of star B is <span class=\"math\" data-latex=\"3T\"></span> and its radius is <span class=\"math\" data-latex=\"\\frac{R}{9}\"></span>. </p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textup{luminosity of star B}}{\\textup{luminosity of star A}}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"3\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"9\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{9}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

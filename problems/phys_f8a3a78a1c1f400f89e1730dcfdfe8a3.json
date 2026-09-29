@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f8a3a78a1c1f400f89e1730dcfdfe8a3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The Compton effect can be explained using</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">conservation of momentum</li><li data-label=\"B\">kinematic equations applied in two dimensions</li><li data-label=\"C\">the concept of a photon</li><li data-label=\"D\">the wave theory of light</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

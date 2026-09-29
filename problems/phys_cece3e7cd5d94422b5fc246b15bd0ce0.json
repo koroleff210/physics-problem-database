@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_cece3e7cd5d94422b5fc246b15bd0ce0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which observation in Compton scattering provides evidence for the particle nature of light?</p><ol class=\"mcq-options\"><li data-label=\"A\">The scattered photon has the same wavelength as the incident photon.</li><li data-label=\"B\">The photon transfers energy and momentum to an electron, causing a shift in wavelength.</li><li data-label=\"C\">The photon passes through the electron without any interaction.</li><li data-label=\"D\">The intensity of scattered light depends only on the initial photon energy.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

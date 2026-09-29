@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_342a2d5a210e4092872ee7b73ca691a2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wire of length <span class=\"math\" data-latex=\"0.50\\ \\mathrm{m}\"></span> carries a current of <span class=\"math\" data-latex=\"3.0\\ \\mathrm{A}\"></span> perpendicular to a uniform magnetic field of <span class=\"math\" data-latex=\"0.40\\ \\mathrm{T}\"></span>. If the wire is suspended horizontally and remains motionless, what is the minimum mass that the wire must have per unit length?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.060\\ \\mathrm{kg\\ m}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.12\\ \\mathrm{kg\\ m}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.24\\ \\mathrm{kg\\ m}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.49\\ \\mathrm{kg\\ m}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

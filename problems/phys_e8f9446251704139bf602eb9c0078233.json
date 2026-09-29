@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/da011d7ea9f829a4a0b059b523c20b89f39c6964313596c0865235995f4a727f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "da011d7ea9f829a4a0b059b523c20b89f39c6964313596c0865235995f4a727f"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e8f9446251704139bf602eb9c0078233",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p> </p>\n<p>The kinetic energy of the stone is converted into the gravitational potential energy of the stone.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p> </p>\n<p>Kinetic energy of the stone when it reaches the ground = Gravitational potential energy of the stone at the top of the cliff + Kinetic energy of the stone at the top of the cliff = <span class=\"math\" data-latex=\"(0.48)(9.81)(28) + \\frac{1}{2}\\left ( 0.48 \\right )\\left ( 16 \\right )^{2} \\approx 193.3\"></span> J</p>\n<p>Kinetic energy of the stone when it loses contact with the ground after the bounce = Total energy of the stone when it reaches its maximum height after the bounce = <span class=\"math\" data-latex=\"(0.48)(9.81)(1.2) + \\frac{1}{2}(0.48)(2.7)^{2} \\approx 7.4\"></span> J</p>\n<p>Energy transferred to the Earth: <span class=\"math\" data-latex=\"193.3 - 7.4 = 185.9\"></span> J</p>\n<p>Percentage of kinetic energy transferred to ground: <span class=\"math\" data-latex=\"\\frac{185.9}{193.3} \\times 100\"></span> % <span class=\"math\" data-latex=\"\\approx 96.2\"></span> %</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p> </p>\n<p><span class=\"math\" data-latex=\"P = \\frac{185.9}{0.37} \\approx 502\"></span> W</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A stone is thrown horizontally from the top of a cliff with an initial speed of <span class=\"math\" data-latex=\"16\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The vertical height of the cliff is <span class=\"math\" data-latex=\"28\"></span> m. The mass of the stone is <span class=\"math\" data-latex=\"0.48\"></span> kg. Air resistance is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Upon reaching the ground, the stone bounces and reaches a maximum height of <span class=\"math\" data-latex=\"1.2\"></span> m. The stone is in contact with the ground for <span class=\"math\" data-latex=\"370\"></span> ms. The horizontal speed of the stone at the highest point of its motion after the bounce is <span class=\"math\" data-latex=\"2.7\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>a. Outline the energy changes of the stone between the moment when it loses contact with the ground after the bounce and the moment when it reaches its maximum height.</p>\n<p>   [1 mark]</p>\n<p>b. Find what percentage of the stone’s kinetic energy was transferred to the Earth when the stone hit the ground.</p>\n<p>   [4 marks]</p>\n<p>c. Calculate the power delivered by the stone to the Earth.</p>\n<p>   [1 mark]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

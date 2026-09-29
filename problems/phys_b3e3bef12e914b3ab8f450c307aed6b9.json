@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b3e3bef12e914b3ab8f450c307aed6b9",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Black surfaces are better absorbers of thermal radiation [1 mark]</p>\n<p>- When exposed to sunlight, black plate absorbs more radiation than shiny plate [1 mark]</p>\n<p>- Shiny surface reflects most of incoming solar radiation, leading to less absorption and slower heating [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Both plates lose heat by emitting thermal radiation to surroundings [1 mark]</p>\n<p>- Black plate is a good emitter and radiates heat more efficiently than shiny plate (poor emitter due to reflective surface) [1 mark]</p>\n<p>- Black plate cools down more quickly in shade due to being a good emitter [1 mark]</p>\n<p>- Shiny plate retains heat longer and cools more slowly due to poor emission of thermal radiation [1 mark]</p>\n<p>Note: Award marks for clear comparison between plates and explicit linking of surface properties to cooling rates</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A black metal plate and a shiny metal plate are both placed under direct sunlight. After some time, the black plate is noticeably warmer than the shiny plate.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Explain why the black plate heats up more quickly than the shiny plate when exposed to sunlight.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>If both plates are then moved to a shaded area, explain how the color and surface properties of each plate affect how quickly they lose heat.<p>[4]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

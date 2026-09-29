@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_b3605e4b9bcf41c99a5e5eb87e55be5d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A magnet is dropped through a copper ring. Which of the following correctly describes the forces acting on the magnet during its descent?</p><ol class=\"mcq-options\"><li data-label=\"A\">Only gravitational force acts downward</li><li data-label=\"B\">Magnetic attraction pulls it upward</li><li data-label=\"C\">Induced currents produce an upward magnetic force opposing the fall</li><li data-label=\"D\">A constant upward electric field slows the magnet</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

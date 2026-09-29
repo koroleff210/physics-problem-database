@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2a109d169006f521b699d149a968b83e23906a8c566fcf2390f373178ae769a9.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2a109d169006f521b699d149a968b83e23906a8c566fcf2390f373178ae769a9"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_46a71996ba2840549c34acf4f02d0960",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two solid cylinders rotate about their central axes as shown. What is the ratio of the rotational kinetic energy of the second cylinder to that of the first?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><ol class=\"mcq-options\"><li data-label=\"A\">4</li><li data-label=\"B\">8</li><li data-label=\"C\">16</li><li data-label=\"D\">32</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

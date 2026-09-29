@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d07bb20bbc96f751134255dc530a6253d213aae22031cd118c9305386df2de39.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d07bb20bbc96f751134255dc530a6253d213aae22031cd118c9305386df2de39"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_90423df533bf442db1f1e23768309b35",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on two slits S<sub>1</sub> and S<sub>2</sub>. An interference pattern is observed on the screen.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>O is equidistant from S<sub>1</sub> and S<sub>2</sub>. A bright fringe is observed at O and a dark fringe at X.</p>\n<p>There are two dark fringes between O and X. What is the path difference between the light arriving at X from the two slits?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3\\lambda}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5\\lambda}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{7\\lambda}{2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

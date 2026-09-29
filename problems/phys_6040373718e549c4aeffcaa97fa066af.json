@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/39112f6557cd1aafa4060503d034006bdcbaacebb735c22cb89a683bb0b81fc4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "39112f6557cd1aafa4060503d034006bdcbaacebb735c22cb89a683bb0b81fc4"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_6040373718e549c4aeffcaa97fa066af",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monatomic ideal gas undergoes process AB as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the change in the internal energy of the gas?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"600\\:\\textup{J}\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"-600\\:\\textup{J}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"900\\:\\textup{J}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"-900\\:\\textup{J}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

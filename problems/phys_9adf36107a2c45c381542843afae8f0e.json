@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_9adf36107a2c45c381542843afae8f0e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student measures the potential difference (<span class=\"math\" data-latex=\"V\"></span>) across a component and the resulting current (<span class=\"math\" data-latex=\"I\"></span>) passing through it. The experimental data is recorded in the table below:</p>\n<table><thead><tr><th>Potential Difference (<span class=\"math\" data-latex=\"V\"></span>) / V</th><th>Current (<span class=\"math\" data-latex=\"I\"></span>) / A</th></tr></thead><tbody><tr><td>2.0</td><td>0.80</td></tr><tr><td>4.0</td><td>1.60</td></tr><tr><td>6.0</td><td>2.10</td></tr><tr><td>8.0</td><td>2.40</td></tr></tbody></table>\n<p>Which component was most likely being tested in this investigation?</p><ol class=\"mcq-options\"><li data-label=\"A\">A fixed resistor, because the resistance remains constant as the potential difference increases.</li><li data-label=\"B\">A semiconductor diode, because the current flows only when the potential difference exceeds a threshold.</li><li data-label=\"C\">A filament lamp, because the resistance of the component increases as it heats up.</li><li data-label=\"D\">A thermistor, because the resistance of the component decreases as the current increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

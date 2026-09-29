@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_ecc1277cd64c418bba76bc38ab6c82df",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Nitrous oxide <span class=\"math\" data-latex=\"N_{2}O\"></span> is a greenhouse gas. What is the main role of this gas in the greenhouse effect?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">It reflects radiation from the Sun that reaches the Earth’s atmosphere.</li>\n<li data-label=\"B\">It absorbs radiation from the Sun that reaches the Earth’s atmosphere.</li>\n<li data-label=\"C\">It reflects radiation that is emitted by the surface of the Earth.</li>\n<li data-label=\"D\">It absorbs radiation that is emitted by the surface of the Earth.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

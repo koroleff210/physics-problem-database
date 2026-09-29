@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f08d08cc7ba6c4e9612c03bc20625754d97ebd6c3a57943fd93f060d0e0c50c8.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f08d08cc7ba6c4e9612c03bc20625754d97ebd6c3a57943fd93f060d0e0c50c8"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_00dac80119ff4323adb4135e7d9d626c",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Boyle's law: <span class=\"math\" data-latex=\"p \\propto \\dfrac{1}{V}\"></span> at constant temperature [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Pressure decreases as volume increases for both curves (inversely related) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- At the same volume <span class=\"math\" data-latex=\"V\"></span>, the solid curve shows a higher pressure than the dashed curve. [1 mark]<br/>- For a fixed amount of gas, <span class=\"math\" data-latex=\"p \\propto T\"></span> at constant <span class=\"math\" data-latex=\"V\"></span> (from <span class=\"math\" data-latex=\"pV = nRT\"></span>); therefore the curve with higher <span class=\"math\" data-latex=\"p\"></span> corresponds to the higher temperature. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>At <span class=\"math\" data-latex=\"V = 4.0 \\times 10^{-3}\\ \\mathrm{m^3}\"></span>:</p>\n<p>- From the solid curve: <span class=\"math\" data-latex=\"p \\approx 7.5 \\times 10^5\\ \\mathrm{Pa}\"></span> [1 mark]<br/>- From the dashed curve: <span class=\"math\" data-latex=\"p \\approx 3.75 \\times 10^5\\ \\mathrm{Pa}\"></span> [1 mark]</p>\n<p>Note: <br/>Accept <span class=\"math\" data-latex=\"\\pm 0.5 \\times 10^5\"></span> Pa </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows the variation of pressure <span class=\"math\" data-latex=\"p\"></span> with volume <span class=\"math\" data-latex=\"V\"></span> for a fixed amount of gas. Two curves are shown:</p><p>- The dashed line represents gas behavior at temperature <span class=\"math\" data-latex=\"T_1\"></span>.<br/>- The solid line represents the same gas at a higher temperature <span class=\"math\" data-latex=\"T_2\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the relationship between pressure and volume for a fixed mass of gas at constant temperature.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Using the graph, outline how pressure changes with increasing volume for both curves.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain how the graph indicates that the solid curve corresponds to a higher temperature.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the pressure when the volume is <span class=\"math\" data-latex=\"4.0 \\times 10^{-3}\\ \\mathrm{m^3}\"></span> for both curves.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

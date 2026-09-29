@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e7b5203f8e1d411ba24a677007af1a4c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A double-slit interference pattern is produced using monochromatic light. What colour of light produces an interference pattern with the largest fringe separation?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Blue</li><li data-label=\"B\">Green</li><li data-label=\"C\">Yellow</li><li data-label=\"D\">Red</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

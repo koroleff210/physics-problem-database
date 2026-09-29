@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_d37499497ba54377a538cb01151fdb7d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ideal gas is contained in two separate rigid containers, X and Y. The table shows the pressure, volume, and absolute temperature of the gas in each container.</p>\n<table><thead><tr><th>Container</th><th>Pressure</th><th>Volume</th><th>Temperature</th></tr></thead><tbody><tr><td>X</td><td><span class=\"math\" data-latex=\"P\"></span></td><td><span class=\"math\" data-latex=\"V\"></span></td><td><span class=\"math\" data-latex=\"T\"></span></td></tr><tr><td>Y</td><td><span class=\"math\" data-latex=\"3P\"></span></td><td><span class=\"math\" data-latex=\"2V\"></span></td><td><span class=\"math\" data-latex=\"2T\"></span></td></tr></tbody></table>\n<p>There are <span class=\"math\" data-latex=\"N\"></span> molecules of gas in container X. What is the number of molecules of gas in container Y?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.5N\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3N\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"6N\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"12N\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

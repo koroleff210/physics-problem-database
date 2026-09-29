@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/84bb8c8d90f6d722c80a3dd4775c3dc2553660a48e49e4123f0dcaf41b44209b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84bb8c8d90f6d722c80a3dd4775c3dc2553660a48e49e4123f0dcaf41b44209b"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_993b3cf2d2a840bdad6ae9a85a92d94a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A source emitting a sound of frequency <span class=\"math\" data-latex=\"f_{0}\"></span> is approaching an observer. At time <span class=\"math\" data-latex=\"t=0\"></span> the source begins to decelerate and comes to rest when <span class=\"math\" data-latex=\"t=T\"></span>. The source does not pass the observer.</p>\n<p>The speed of the source is always much less than the speed of sound.</p>\n<p>What is the variation with t of the relative change of frequency <span class=\"math\" data-latex=\"\\frac{\\Delta  f}{{f}_{0}}\"></span> of the observed sound?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

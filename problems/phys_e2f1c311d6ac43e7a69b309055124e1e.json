@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 1,
+  "id": "phys_e2f1c311d6ac43e7a69b309055124e1e",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The force acting per unit mass experienced by a small point mass at a given point is:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Newton’s law of universal gravitation.</li>\n<li data-label=\"B\">Newton’s third law.</li>\n<li data-label=\"C\">the definition of the centripetal force.</li>\n<li data-label=\"D\">the definition of gravitational field strength.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

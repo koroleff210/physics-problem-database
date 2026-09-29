@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 6,
+  "id": "phys_71abd9cbc85545bdaf2ede0bbdb08482",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- As distance increases, light intensity decreases. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Light from a point source spreads out over a spherical surface. [1 mark]<br/>- Surface area of a sphere is <span class=\"math\" data-latex=\"4 \\pi d^{2}\"></span>, so intensity <span class=\"math\" data-latex=\"I \\propto \\frac{1}{d^{2}}\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- All six values correctly calculated to two decimal places or better: 25.00, 16.00, 11.11, 8.16, 6.25, 4.94. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Correct axes labels and linear scale; data plotted accurately. [1 mark]<br/>- Straight line of best fit drawn through points. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Linear graph confirms <span class=\"math\" data-latex=\"I \\propto \\frac{1}{d^{2}}\"></span> - inverse-square law holds. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- Use <span class=\"math\" data-latex=\"\\frac{1}{(0.50)^{2}}=4.00 \\Rightarrow I \\approx 100\"></span> lux from graph. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"g\"><p><strong>g</strong></p><p>- Light source may not be a perfect point source. [1 mark]<br/>- Reflection or scattering from surroundings, or misalignment of sensor. [1 mark]</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<p>A student investigates how the intensity of light from a point source changes with distance. The student places a light sensor at various distances <span class=\"math\" data-latex=\"d\"></span> from a lamp and records the light intensity <span class=\"math\" data-latex=\"I\"></span> in lux. The lamp is assumed to act as a point source.</p><p>The results are shown in the table below.</p><table><thead><tr><th>Distance <span class=\"math\" data-latex=\"d(\\mathrm{~m})\"></span></th><th>Intensity <span class=\"math\" data-latex=\"I(\\mathrm{lux})\"></span></th></tr></thead><tbody><tr><td>0.20</td><td>625</td></tr><tr><td>0.25</td><td>400</td></tr><tr><td>0.30</td><td>278</td></tr><tr><td>0.35</td><td>204</td></tr><tr><td>0.40</td><td>156</td></tr><tr><td>0.45</td><td>123</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Describe how the light intensity changes as the distance increases.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain, with reference to physics principles, why the intensity is expected to follow an inverse-square relationship.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Calculate <span class=\"math\" data-latex=\"\\frac{1}{d^{2}}\"></span> for each data point and complete the following table. [1]]</p><table><thead><tr><th>Distance <span class=\"math\" data-latex=\"d(\\mathrm{~m})\"></span></th><th><span class=\"math\" data-latex=\"\\frac{1}{d^{2}}\\left(\\mathrm{~m}^{-2}\\right)\"></span></th></tr></thead><tbody><tr><td>0.20</td><td></td></tr><tr><td>0.25</td><td></td></tr><tr><td>0.30</td><td></td></tr><tr><td>0.35</td><td></td></tr><tr><td>0.40</td><td></td></tr><tr><td>0.45</td><td></td></tr></tbody></table><p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Plot a graph of intensity <span class=\"math\" data-latex=\"I\"></span> against <span class=\"math\" data-latex=\"\\frac{1}{d^{2}}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>What does the shape of the graph suggest about the relationship between intensity and distance?<p>[1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> </p>Use your graph to estimate the intensity at a distance of 0.50 m .<p>[1]</p></section><section class=\"question-part\" data-label=\"g\"><p><strong>g</strong> </p>Suggest two reasons why the data might not follow the inverse-square law exactly.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

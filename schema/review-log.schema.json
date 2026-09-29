@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "V4 per-problem review decision",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["v4_id", "source_canonical_ids", "reviewed_at", "reviewer", "decision", "checks", "issues"],
+  "properties": {
+    "v4_id": { "type": "string", "pattern": "^phys_[0-9a-f]{32}$" },
+    "source_canonical_ids": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "reviewed_at": { "type": "string", "format": "date-time" },
+    "reviewer": { "type": "string", "minLength": 1 },
+    "decision": { "enum": ["approved", "needs_review", "quarantined"] },
+    "checks": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["schema", "html", "math", "assets", "render", "content", "classification", "markscheme"],
+      "properties": {
+        "schema": { "type": "boolean" },
+        "html": { "type": "boolean" },
+        "math": { "type": "boolean" },
+        "assets": { "type": "boolean" },
+        "render": { "type": "boolean" },
+        "content": { "type": "boolean" },
+        "classification": { "type": "boolean" },
+        "markscheme": { "type": "boolean" }
+      }
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["code", "message"],
+        "properties": {
+          "code": { "type": "string", "pattern": "^[a-z][a-z0-9_]{2,63}$" },
+          "message": { "type": "string", "minLength": 1 },
+          "field": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

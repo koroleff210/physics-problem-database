@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_d65f77d4aa0e401593bd03655769e738",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron is orbiting an alpha-particle in a circular orbit with speed <span class=\"math\" data-latex=\"v\"></span>. The mass of the electron is <span class=\"math\" data-latex=\"m\"></span> and the unified atomic mass unit is <span class=\"math\" data-latex=\"u\"></span>. What is the orbital radius of the electron?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{ke^{2}}{mv^{2}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2ke^{2}}{mv^{2}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{ke^{2}}{2uv^{2}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{ke^{2}}{4uv^{2}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 6,
+  "id": "phys_16157da9c9134d2e863b19b5cf512349",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"E = \\frac{V}{d} = \\frac{200.0}{5.0 \\times 10^{-3}} = 4.00 \\times 10^4\\ \\text{V m}^{-1}\"></span><br/>- Correct formula [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"F = qE = 1.60 \\times 10^{-19} \\cdot 4.00 \\times 10^4 = 6.40 \\times 10^{-15}\\ \\text{N}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"a = \\frac{F}{m} = \\frac{6.40 \\times 10^{-15}}{1.67 \\times 10^{-27}} = 3.83 \\times 10^{12}\\ \\text{m s}^{-2}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- <span class=\"math\" data-latex=\"\\Delta E_k = q\\Delta V = 1.60 \\times 10^{-19} \\cdot 200.0 = 3.20 \\times 10^{-17}\\ \\text{J}\"></span><br/>- Correct formula [1 mark]<br/>- Correct final answer [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2E_k}{m}} = \\sqrt{\\frac{2 \\cdot 3.20 \\times 10^{-17}}{1.67 \\times 10^{-27}}} = 1.96 \\times 10^5\\ \\text{m s}^{-1}\"></span><br/>- Correct substitution [1 mark]<br/>- Correct final answer [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>The proton accelerates uniformly under a constant force (electric), analogous to gravitational force in free fall. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A parallel plate capacitor consists of two plates separated by <span class=\"math\" data-latex=\"5.0\\ \\text{mm}\"></span> and charged to a potential difference of <span class=\"math\" data-latex=\"200.0\\ \\text{V}\"></span>. A proton (<span class=\"math\" data-latex=\"q = 1.60 \\times 10^{-19}\\ \\text{C}\"></span>, <span class=\"math\" data-latex=\"m = 1.67 \\times 10^{-27}\\ \\text{kg}\"></span>) is released from rest near the positive plate and moves toward the negative plate.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the electric field strength between the plates. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the force acting on the proton. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the acceleration of the proton. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Determine the kinetic energy gained by the proton when it reaches the negative plate. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Calculate the final speed of the proton. [2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Explain why the motion of the proton in the capacitor is similar to free fall near Earth’s surface. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

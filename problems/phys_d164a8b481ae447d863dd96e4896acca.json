@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_d164a8b481ae447d863dd96e4896acca",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thermally isolated tube contains only water molecules. The tube is cooled to the freezing point of water. While the water is changing phase:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">its temperature decreases.</li>\n<li data-label=\"B\">the mean potential energy of the water molecules decreases.</li>\n<li data-label=\"C\">the mean kinetic energy of the water molecules decreases.</li>\n<li data-label=\"D\">the mean thermal energy of the water molecules decreases.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/09944d358ed295ab2b965c0d820dc75ed0db25f98fffd654dfb3cef948a92e90.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "09944d358ed295ab2b965c0d820dc75ed0db25f98fffd654dfb3cef948a92e90"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_745b97ac587c44c5a3311a32a7f26378",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Ball 1 is dropped from rest from an initial height <span class=\"math\" data-latex=\"h\"></span>. At the same instant, ball 2 is launched vertically upwards at an initial velocity <span class=\"math\" data-latex=\"u\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At what time are both balls at the same distance above the ground?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{h}{4u}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{h}{2u}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{h}{u}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{2h}{u}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

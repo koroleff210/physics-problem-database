@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_d51f0143cd184c9088627fca8e1ef3a9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three mechanisms that affect the composition of the atmosphere of the Earth are:</p>\n<p>I.   Loss of forests that would otherwise store carbon dioxide – CO<sub>2</sub><br/>II.  Release of methane – CH<sub>4</sub> by the digestive system of grazing animals<br/>III. Increase of nitrous oxide – N<sub>2</sub>O due to extensive use of fertilizer</p>\n<p>Which of these statements describe a process that contributes to global warming?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

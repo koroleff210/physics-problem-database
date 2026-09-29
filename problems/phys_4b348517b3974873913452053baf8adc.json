@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_4b348517b3974873913452053baf8adc",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a transformer, what is the purpose of the soft iron core?</p><ol class=\"mcq-options\"><li data-label=\"A\">Reduce resistance</li><li data-label=\"B\">Provide thermal insulation</li><li data-label=\"C\">Increase magnetic flux linkage</li><li data-label=\"D\">Convert AC to DC</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

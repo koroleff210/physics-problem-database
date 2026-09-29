@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.1",
+    "B.4",
+    "D.1",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_b6b7e9eb9eaa4b9f9875ed6864820d79",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"m = (917)\\left ( \\frac{4}{3} \\pi \\times 0.032^{3} \\right ) \\approx 0.126\"></span> kg</p>\n<p>Final answer must be given to 3 significant figures.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"(0.2)(9.81)H = (2090)(1.8)\"></span></p>\n<p><span class=\"math\" data-latex=\"H \\approx 1917 \\approx 1900\"></span> m</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"(8.3)(4190)(17 - T) = (0.126)(2090)(10) + (0.126)(336000) + (0.126)(4190)T\"></span></p>\n<p>Using the Solver function on the calculator or solving for <span class=\"math\" data-latex=\"T\"></span> manually, we get that <span class=\"math\" data-latex=\"T \\approx 15.5 \\:{} ^{\\circ}\"></span>C</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>During a hail storm spherical pieces of ice (hailstones) fall towards the surface of the Earth. The following data is given:</p>\n<p></p>\n<p>Specific heat capacity of water: <span class=\"math\" data-latex=\"4.19\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Specific heat capacity of ice: <span class=\"math\" data-latex=\"2.09\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Specific latent heat of fusion of ice: <span class=\"math\" data-latex=\"336\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Density of ice: <span class=\"math\" data-latex=\"917\"></span> kg m<span class=\"math\" data-latex=\"^{-3}\"></span></p>\n<p>Initial temperature of ice: <span class=\"math\" data-latex=\"- 21.5 \\:{} ^{\\circ}\"></span>C</p>\n<p>Radius of a hailstone: <span class=\"math\" data-latex=\"3.20\"></span> cm</p>\n<p></p>\n<p>a. Calculate the mass of a hailstone. Give your answer to an appropriate number of significant figures.</p>\n<p>  [2]</p>\n<p>As the hailstone falls, <span class=\"math\" data-latex=\"20\"></span> % of the hailstone’s initial gravitational potential energy is converted into the internal energy of the hailstone. After the hailstone falls through a vertical distance of <span class=\"math\" data-latex=\"H\"></span>, its temperature increases by <span class=\"math\" data-latex=\"1.80 \\:{} ^{\\circ}\"></span>C.</p>\n<p>b. Find <span class=\"math\" data-latex=\"H\"></span>.</p>\n<p>   [2]</p>\n<p>When the hailstone reaches the surface of the Earth it falls into a puddle. The temperature of the hailstone at this moment is <span class=\"math\" data-latex=\"-10.0 \\:{} ^{\\circ}\"></span>C. The mass of the water in the puddle is <span class=\"math\" data-latex=\"8.30\"></span> kg and the initial temperature of the water in the puddle is <span class=\"math\" data-latex=\"17.0 \\:{} ^{\\circ}\"></span>C.</p>\n<p>c. Find <span class=\"math\" data-latex=\"T\"></span>, the equilibrium temperature of the mixture. Assume that energy transfer only takes place between the hailstone and the water in the puddle.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

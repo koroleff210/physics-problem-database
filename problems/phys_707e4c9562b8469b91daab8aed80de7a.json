@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_707e4c9562b8469b91daab8aed80de7a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite is in a stable circular orbit at height <span class=\"math\" data-latex=\"h\"></span> above the surface of a planet of mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>. Which of the following gives the total mechanical energy of the satellite?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"-\\dfrac{GMm}{2R}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"-\\dfrac{GMm}{R+h}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"-\\dfrac{GMm}{2(R+h)}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\dfrac{GMm}{2(R+h)}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,30 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "C.1",
+    "C.2",
+    "C.4",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_e84f465260f74a90a1e7a2b621abaf13",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"22a(i)\"><p><strong>22a(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"T = \\frac{2 \\times 60}{240} = 0.5\"></span> s</p>\n<p><span class=\"math\" data-latex=\"\\omega = \\frac{2 \\pi}{0.5} = 4 \\pi\"></span> s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Restoring force is maximum when displacement is maximum.</p>\n<p><span class=\"math\" data-latex=\"0.4 = \\frac{1}{2} \\times 0.48 \\times (4 \\pi)^{2} \\times x_{0}^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"x_{0} \\approx 0.103\"></span> m <span class=\"math\" data-latex=\"\\approx 10.3\"></span> cm</p>\n<p>Distance between two maximum displacement positions:</p>\n<p><span class=\"math\" data-latex=\"2 \\times 10.3 \\approx 20.6 \\approx 21\"></span> cm</p>\n<p>Calculated answer must be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"22a(ii)\"><p><strong>22a(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"0.8 = 4 \\pi \\times \\sqrt{0.103^{2} - x^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"x \\approx 0.081\"></span> m or <span class=\"math\" data-latex=\"8.1\"></span> cm</p>\n<p>If <span class=\"math\" data-latex=\"0.105\"></span> m is used for <span class=\"math\" data-latex=\"x_{0}\"></span>, the answer is <span class=\"math\" data-latex=\"0.083\"></span> m or <span class=\"math\" data-latex=\"8.3\"></span> cm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"22a(iii)\"><p><strong>22a(iii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"a = -(4 \\pi)^{2} \\times 0.081 \\approx -12.8\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p><span class=\"math\" data-latex=\"F = 0.48 \\times 12.8 \\approx 6.1\"></span> N</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"22b\"><p><strong>22b</strong></p><p></p>\n<p>Period of oscillation for a mass-spring system can be calculated using <span class=\"math\" data-latex=\"T = 2 \\pi \\sqrt{\\frac{m}{k}}\"></span></p>\n<p>When three additional springs are placed parallel to the original spring, the value of <span class=\"math\" data-latex=\"k\"></span> is quadrupled.</p>\n<p>As a result, <span class=\"math\" data-latex=\"T\"></span> is halved. Since frequency is inversely proportional to the period, this change causes the frequency to double.</p>\n<p>Based on the equation above, the time period of a mass-spring system is not affected by the gravitational acceleration so moving the experiment to another planet does not affect the frequency.</p>\n<p>This means that after the changes the frequency of the oscillations doubles.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A block of 0.48 kg is attached to a spring and the system is made to oscillate with simple harmonic motion (SHM) on a horizontal, frictionless surface. The block passes through the equilibrium position <span class=\"math\" data-latex=\"240\"></span> times per minute. </p>\n<p></p>\n<p>a. The kinetic energy of the block as it passes through the equilibrium position is <span class=\"math\" data-latex=\"400\"></span> mJ. </p>\n<p>i. There are two points where the restoring force acting on the block is at its maximum. Show that the distance between these points is approximately <span class=\"math\" data-latex=\"21\"></span> cm.</p>\n<p>  [4]</p>\n<p>ii. Find the distance of the block from the equilibrium position when the speed of the block is <span class=\"math\" data-latex=\"0.8\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [2]</p>\n<p>iii. Find the magnitude of the net force acting the block when its speed is <span class=\"math\" data-latex=\"0.8\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [2]</p>\n<p>b. The experiment is moved to planet M. The gravitational acceleration on planet M is <span class=\"math\" data-latex=\"g_{M}\"></span>. It is known that <span class=\"math\" data-latex=\"\\frac{g_{M}}{g} = 3\"></span>. Another change is that three more identical springs are placed parallel to the original spring. Outline, without calculations, how these changes affect the frequency with which the block oscillates.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

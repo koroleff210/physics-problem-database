@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/97498a860c51df45583c8164aaac8eca8e2157526adf7328b909f2892b47b944.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "97498a860c51df45583c8164aaac8eca8e2157526adf7328b909f2892b47b944"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/b2778746ede356b4dbcfb5c5a995945c1c5801cc0d2415015ffc18711d0f71f0.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b2778746ede356b4dbcfb5c5a995945c1c5801cc0d2415015ffc18711d0f71f0"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/2bd750da30aec4482e632d7cb3fe7b70b08fd2d981050857bfd9d7e8e754e8bb.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "2bd750da30aec4482e632d7cb3fe7b70b08fd2d981050857bfd9d7e8e754e8bb"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/25bc82ec33c8f77032b750fee4bbd2eb08b5f5bd6c3b05eb441b6511ca382719.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "25bc82ec33c8f77032b750fee4bbd2eb08b5f5bd6c3b05eb441b6511ca382719"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_b8befbbd93574f50acbb993bbb069b07",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Z located horizontally to the right of Y ✓  Correct overall shape ✓<br/><br/>Arrows not required.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\frac{0.1\\times 1.2\\times 10^{-3}}{0.48}\"></span>   Accept BCA if given to 3sf.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Line 1 correct ✓ Line 3 correct ✓ Lines 2 and 4 correct ✓</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"W=105=pV_{Z}-V_{Y}\"></span> ✓ <span class=\"math\" data-latex=\"=0.48\\times 10^{6}\\times V_{Z}-0.25\\times 10^{-3}\"></span> so <span class=\"math\" data-latex=\"V_{Z}=0.47\\times 10^{-3}\"></span> «m<sup>3</sup>» ✓<br/><br/>Award [2] for a BCA. Award [2] for correct use of the adiabatic equation.</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>Uses 4<sup>th</sup> row of Q and 2<sup>nd</sup> row of Q for working values ✓ η = <span class=\"math\" data-latex=\"\\frac{74}{262}\"></span> = 0.28 or 28 % ✓<br/><br/>Allow ECF from incorrect values in table. Award 0 if η ≥ 1 OR 100 %. Award [2] for a BCA.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Isothermal process needs engine to run very (infinitely) slowly ✓ Adiabatic process needs engine to run very (infinitely) quickly OR requires insulation ✓<br/><br/>Treat reference to frictional and other dissipative losses as neutral.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A fixed mass of an ideal gas is taken through a cycle that consists of three processes:</p>\n<table><tbody><tr><td></td><td><p>X → Y</p></td><td><p>Isothermal compression from a pressure of 0.10 MPa and volume of 1.20 × 10<sup>−3 </sup>m<sup>3</sup> to a pressure of 0.48 MPa</p></td></tr><tr><td></td><td><p>Y → Z</p></td><td><p>Isobaric expansion</p></td></tr><tr><td></td><td><p>Z → X</p></td><td><p>Adiabatic expansion to the initial state</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Draw, on the axes, the pV diagram for this cycle. X and Y are plotted for you. Numbers are not required on the axes.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the volume of the gas at Y is 0.25 × 10<sup>−3 </sup>m<sup>3</sup>. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>An algebraic statement of the first law of thermodynamics is Q = ΔU + W.</p>\n<p>Data for the cycle are provided in the table.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Annotate the table with the missing values. Use the answer box below for your calculations. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine the volume of the gas at Z. [2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Determine the efficiency of this cycle. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Outline why this theoretical cycle is unsuitable for use in a practical heat engine. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

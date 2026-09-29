@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d74be5851ff746ed8b798d57641670d6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of 4.4 g of Radon-222 has an activity of 2.5 × 10<sup>16</sup> Bq.</p>\n<p>What is the decay constant of Radon-222?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.1 × 10<sup>−10</sup> s<sup>−1</sup></li><li data-label=\"B\">8.3 × 10<sup>−10</sup> s<sup>−1</sup></li><li data-label=\"C\">2.1 × 10<sup>−6</sup> s<sup>−1</sup></li><li data-label=\"D\">8.3 × 10<sup>−6</sup> s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

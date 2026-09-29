@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/61cc1545f5fc83b12fc282983a69ec79c4343f1ae871ec0fa0e66efc66c0d923.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "61cc1545f5fc83b12fc282983a69ec79c4343f1ae871ec0fa0e66efc66c0d923"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "C.1",
+    "D.2",
+    "D.4",
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_944d65af12524dcba04a1bf3100a40e5",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Small bar magnet drawn at X, aligned tangentially to the field line. [1] The north pole of the small magnet points to the left (in the direction of the field line). [1]</p>\n<p>Direction of field is from N to S.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>The product of the magnetic field strength component perpendicular to a surface and the area of the surface. OR Φ = BAcosθ with all symbols defined.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>As the magnet approaches, the magnetic flux (linkage) through the loop changes. [1] By Faraday's law, a changing flux induces an emf (which is measured by the voltmeter). [1]</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Recognizes that magnitude of emf is the gradient of the flux-time graph. [1] Draws a tangent at the steepest point of the graph (approx. t=0.25-0.3s). [1] Correct calculation of gradient, e.g., gradient ≈ (0.10 - 0.02) / (0.34 - 0.24) = 0.8 V. Accept answers in range 0.7 V to 0.9 V. [1]</p>\n<p>Units must be correct. A large triangle should be used for the tangent.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Entering: anti-clockwise (when viewed from above). [1] Leaving: clockwise (when viewed from above). [1]</p>\n<p>Reasoning (not required but for clarity): On entry, downward flux increases, so induced field is upward (anti-clockwise current). On leaving, downward flux decreases, so induced field is downward (clockwise current).</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>The magnet enters the coil when its bottom end is 10 cm below its equilibrium position. The center of the magnet is then at y = -0.10 m. [1] Speed v = ω√(A² - y²) = 4π√(0.15² - (-0.10)²) ≈ 1.41 m s⁻¹. [1]</p>\n<p>Based on image data A=0.15m, ω=4π rad/s. The draft answer is incorrect as it uses different parameters and assumes entry at y=0.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Use of ω² = k/m. [1] m = k/ω² = 5.0 / (4π)² ≈ 0.0317 kg (or 32 g). [1]</p>\n<p>Based on image data ω=4π rad/s and k=5.0 N/m. The draft answer is incorrect.</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>The oscillation induces a current in the coil/resistor circuit, which dissipates the mechanical energy of the oscillator as thermal energy.</p>\n<p>The question in the image is for 1 mark, not 2 as in the draft.</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>Energy in 1 year E = Pt = (1×10⁹ J/s) × (365×24×3600 s) ≈ 3.15×10¹⁶ J. [1] Number of fissions N = <span class=\"math\" data-latex=\"E_{\\mathrm{total}}\"></span> / <span class=\"math\" data-latex=\"E_{\\mathrm{fission}}\"></span> = (3.15×10¹⁶ J) / (200×10⁶×1.602×10⁻¹⁹ J) ≈ 9.84×10²⁶. [1] Mass = N × (235 u) = (9.84×10²⁶) × (235 × 1.661×10⁻²⁷ kg) ≈ 385 kg. [1]</p>\n<p>Allow use of 365.25 days. Allow calculation via moles. Final answer to 2 or 3 s.f.</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>The kinetic energy of the fission products is converted to thermal energy in the reactor core/coolant. [1] This thermal energy is used to create steam, which drives a turbine connected to an electrical generator. [1]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>9.</strong> Two bar magnets are aligned with their opposite poles facing each other. The diagram shows the pattern of the magnetic field lines produced by the magnets, without specifying their direction. A small magnet is placed at X. The original magnetic field pattern is negligibly disturbed.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Draw a small magnet at X with correct orientation and polarity in the field between two bar magnets. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State the definition of magnetic flux. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Explain the voltmeter reading as a magnet approaches a loop using Faraday's law. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Use the flux-time graph to determine maximum induced emf. [3]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> State current direction in the loop as magnet enters and leaves. [2]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Calculate the speed of the magnet when it is about to enter the coil. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Determine the mass of the magnet. [2]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> </p><p>A resistor is connected between the ends of the coil and the oscillations die away.</p>\n<p>Explain why the oscillations of the magnet die away.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> Calculate minimum mass of U-235 needed for a 1 GW power plant for one year if each fission releases 200 MeV. [3]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> Explain how the energy from fission is harnessed in a nuclear power plant. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

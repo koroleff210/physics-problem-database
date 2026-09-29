@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_6e07246467f443f3bfb970ab7ca447f6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a double-slit interference pattern, which change would cause the fringes to move closer together?</p><ol class=\"mcq-options\"><li data-label=\"A\">Increase the screen distance</li><li data-label=\"B\">Use light of shorter wavelength</li><li data-label=\"C\">Decrease slit separation</li><li data-label=\"D\">Use light of longer wavelength</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

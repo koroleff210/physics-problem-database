@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b973af6eca1f45e6af368d3e230ffad8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Note: Assumes a linear relationship where changes in radius and density cancel out for both quantities.</p>\n<p>B: Note: Gravitational field strength <span class=\"math\" data-latex=\"g = \\frac{4}{3}\\pi G\\rho R\"></span>, so <span class=\"math\" data-latex=\"g_Y \\propto (3R)(\\frac{1}{3}\\rho) = 1g\"></span>. Escape speed <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{8}{3}\\pi G\\rho R^2} = R\\sqrt{\\frac{8}{3}\\pi G\\rho}\"></span>, so <span class=\"math\" data-latex=\"v_Y \\propto (3R)\\sqrt{\\frac{1}{3}\\rho} = \\frac{3}{\\sqrt{3}}v = \\sqrt{3}v\"></span>.</p>\n<p>C: Note: Incorrectly assumes <span class=\"math\" data-latex=\"g \\propto \\frac{M}{R}\"></span> or makes an error in calculating the mass-radius relationship for field strength.</p>\n<p>D: Note: Incorrectly identifies the dependence of both <span class=\"math\" data-latex=\"g\"></span> and <span class=\"math\" data-latex=\"v\"></span> on the planetary parameters.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet <span class=\"math\" data-latex=\"X\"></span> has radius <span class=\"math\" data-latex=\"R\"></span> and average density <span class=\"math\" data-latex=\"\\rho\"></span>. Planet <span class=\"math\" data-latex=\"Y\"></span> is also a uniform sphere, but has radius <span class=\"math\" data-latex=\"3R\"></span> and average density <span class=\"math\" data-latex=\"\\frac{1}{3}\\rho\"></span>. The gravitational field strength at the surface of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"g\"></span> and the escape speed from its surface is <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>What are the gravitational field strength <span class=\"math\" data-latex=\"g_Y\"></span> and the escape speed <span class=\"math\" data-latex=\"v_Y\"></span> at the surface of planet <span class=\"math\" data-latex=\"Y\"></span> in terms of <span class=\"math\" data-latex=\"g\"></span> and <span class=\"math\" data-latex=\"v\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"g_Y = g\"></span> and <span class=\"math\" data-latex=\"v_Y = v\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"g_Y = g\"></span> and <span class=\"math\" data-latex=\"v_Y = \\sqrt{3}v\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"g_Y = 3g\"></span> and <span class=\"math\" data-latex=\"v_Y = \\sqrt{3}v\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"g_Y = 3g\"></span> and <span class=\"math\" data-latex=\"v_Y = 3v\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,81 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/60e8abf907b8e4fdf720abed0cf9bbf0e6295603cb822035b0b42ad32d49c492.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "60e8abf907b8e4fdf720abed0cf9bbf0e6295603cb822035b0b42ad32d49c492"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/b3fbddb1942f1c581be00e302729425aed3ce9bda22464acebfce3080276854f.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b3fbddb1942f1c581be00e302729425aed3ce9bda22464acebfce3080276854f"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/b588481c00c0e2aece50d1949e2bf47c27c03b97d79d6ddc8e7d3792e22964a3.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b588481c00c0e2aece50d1949e2bf47c27c03b97d79d6ddc8e7d3792e22964a3"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/69be5d7b83c980c8c8677bdde8faceaacdd3803804d2a39195e859bbe4845cb0.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "69be5d7b83c980c8c8677bdde8faceaacdd3803804d2a39195e859bbe4845cb0"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/a6aaa4c495091b895eb29f8675f36ad9bdebcf3813a8fd21af01ea492f098a3d.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a6aaa4c495091b895eb29f8675f36ad9bdebcf3813a8fd21af01ea492f098a3d"
+    },
+    {
+      "alt": "Source markscheme diagram 6",
+      "file": "assets/fd7f7b06f48c64976d3a30f074420130b189532eca63918dbc64d774cc85e34b.png",
+      "id": "fig_06",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "fd7f7b06f48c64976d3a30f074420130b189532eca63918dbc64d774cc85e34b"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_1db7efbf152b475ea8a8831a9bcb9831",
+  "level": "hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"16a\"><p><strong>16a</strong></p><p></p>\n<p>The work done per unit charge when moving a small positive (test) charge from infinity to the point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16b(i)\"><p><strong>16b(i)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p>\n<p>Must have horizontal line drawn on the horizontal axis between <span class=\"math\" data-latex=\"-R\"></span> and <span class=\"math\" data-latex=\"R\"></span> in order to earn full marks.</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16b(ii)\"><p><strong>16b(ii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16c(i)\"><p><strong>16c(i)</strong></p><p><span class=\"math\" data-latex=\"V = \\frac{(8.99 \\times 10^{9}) \\times (6.4 \\times 10^{-3})}{0.12} \\approx 4.79 \\times 10^{8}\"></span> V <span class=\"math\" data-latex=\"\\approx 4.8 \\times 10^{8}\"></span> V</p>\n<p>Calculated answer must be given to at least 3 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"16c(ii)\"><p><strong>16c(ii)</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_06\"><img alt=\"Source markscheme diagram 6\" src=\"asset:fig_06\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"16d\"><p><strong>16d</strong></p><p></p>\n<p>Electrical potential a the surface of the sphere:</p>\n<p><span class=\"math\" data-latex=\"3V = 3 \\times 4.8 \\times 10^{8} = 1.44 \\times 10^{9}\"></span> V </p>\n<p>Potential difference between point A and the surface of the sphere:</p>\n<p><span class=\"math\" data-latex=\"1.44 \\times 10^{9} - 4.8 \\times 10^{8} = 9.6 \\times 10^{8}\"></span> V</p>\n<p>Energy required for point charge to reach the surface of the sphere (in other words, minimum kinetic energy that the point charge must have at point A):</p>\n<p><span class=\"math\" data-latex=\"(18 \\times 10^{-9}) \\times (9.6 \\times 10^{8}) = 17.28\"></span> J</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2} \\times (3.2 \\times 10^{-3}) \\times v^{2} = 17.28\"></span></p>\n<p><span class=\"math\" data-latex=\"v \\approx 104\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The radius of a conducting, hollow metal sphere is <span class=\"math\" data-latex=\"R\"></span> and the charge on the sphere is <span class=\"math\" data-latex=\"-6.4\"></span> mC. </p>\n<p></p>\n<p>a. Outline what is meant by electric potential at a point.</p>\n<p>  [2]</p>\n<p>b. Sketch on the graphs below to show how</p>\n<p>i. <span class=\"math\" data-latex=\"E\"></span>, the electric field strength, varies with <span class=\"math\" data-latex=\"x\"></span>, the distance from the centre of the sphere.</p>\n<p></p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [2]</p>\n<p></p>\n<p>ii. <span class=\"math\" data-latex=\"V\"></span>, the electric potential, varies with <span class=\"math\" data-latex=\"x\"></span>, the distance from the centre of the sphere.</p>\n<p></p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>\n<p></p>\n<p>c. For a certain sphere, <span class=\"math\" data-latex=\"R = 4\"></span> cm. Part of the sphere is shown on the diagram. The magnitude of the electric potential at point A, <span class=\"math\" data-latex=\"8\"></span> cm from the surface of the sphere, is <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p></p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>i. Show that the value of <span class=\"math\" data-latex=\"V\"></span> is <span class=\"math\" data-latex=\"4.8 \\times 10^{8}\"></span> V.</p>\n<p>  [2]</p>\n<p> ii. The magnitude of the electric potential at the surface of the sphere is <span class=\"math\" data-latex=\"3V\"></span>. On the diagram, sketch the equipotential surface with an electric potential of magnitude <span class=\"math\" data-latex=\"2V\"></span>.</p>\n<p>  [2]</p>\n<p>d. A point charge is fired at the sphere from point A. The charge on the point charge is <span class=\"math\" data-latex=\"-18\"></span> nC. The mass of the point charge is <span class=\"math\" data-latex=\"3.2\"></span> g. Calculate the minimum speed that the point charge must have at point A in order to reach the surface of the sphere.</p>\n<p>  [4] </p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1",
+    "D.2",
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_90317ec4a45c431a87212d23012a13f5",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"24a\"><p><strong>24a</strong></p><p></p>\n<p>Centripetal force = Electrical force</p>\n<p><span class=\"math\" data-latex=\"\\frac{mv^{2}}{r} = \\frac{k \\times 6e \\times e}{r^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"r = \\frac{6 \\times (8.99 \\times 10^{9}) \\times (1.60 \\times 10^{-19})^{2}}{(9.11 \\times 10^{-31}) \\times (1.78 \\times 10^{6})^{2}} \\approx 4.8 \\times 10^{-10}\"></span> m <span class=\"math\" data-latex=\"\\approx 5 \\times 10^{-10}\"></span> m</p>\n<p>Calculated answer must be given to at least 2 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"24b\"><p><strong>24b</strong></p><p></p>\n<p>There are different ways to solve this question. The key concept here is that the electron's kinetic energy is half of its potential energy and that the potential energy is negative.</p>\n<p></p>\n<p><strong>Method 1:</strong></p>\n<p><span class=\"math\" data-latex=\"E_{t} = E_{k} + E_{p} = \\frac{1}{2}mv^{2} - \\frac{6ke^{2}}{r}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2} \\times (9.11 \\times 10^{-31}) \\times (1.78 \\times 10^{6})^{2} - \\frac{6 \\times (8.99 \\times 10^{9}) \\times (1.60 \\times 10^{-19})^{2}}{4.8 \\times 10^{-10}} \\approx -1.4 \\times 10^{-18}\"></span> J</p>\n<p>(If using <span class=\"math\" data-latex=\"5 \\times 10^{-10}\"></span> m as the orbital radius, the answer is <span class=\"math\" data-latex=\"-1.3 \\times 10^{-18}\"></span> J</p>\n<p></p>\n<p><strong>Method 2:</strong></p>\n<p><span class=\"math\" data-latex=\"E_{t} = -E_{k} = - \\frac{1}{2} \\times (9.11 \\times 10^{-31}) \\times (1.78 \\times 10^{6})^{2} \\approx -1.4 \\times 10^{-18}\"></span> J</p>\n<p></p>\n<p><strong>Method 3:</strong></p>\n<p><span class=\"math\" data-latex=\"E_{t} = \\frac{1}{2}E_{p} = \\frac{1}{2} \\times \\frac{-6 \\times (8.99 \\times 10^{9}) \\times (1.60 \\times 10^{-19})^{2}}{4.8 \\times 10^{-10}} \\approx -1.4 \\times 10^{-18}\"></span> J</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"24c\"><p><strong>24c</strong></p><p></p>\n<p>As the electron emits electromagnetic waves, its energy decreases.</p>\n<p><span class=\"math\" data-latex=\"E_{t} = \\frac{1}{2}E_{p} = -\\frac{3ke^{2}}{r}\"></span></p>\n<p>As <span class=\"math\" data-latex=\"E_{t}\"></span> decreases (becomes a 'larger' negative value), the radius must also decrease.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"24d\"><p><strong>24d</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{electric} = F_{grav}\"></span></p>\n<p><span class=\"math\" data-latex=\"Eq = mg\"></span></p>\n<p><span class=\"math\" data-latex=\"E = \\frac{mg}{q} = \\frac{(6 \\times (1.673 \\times 10^{-27}) + 6 \\times (1.675 \\times 10^{-27})) \\times 9.81}{6 \\times (1.60 \\times 10^{-19})} \\approx 2.05 \\times 10^{-7}\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>If the unified atomic mass is used, the result is <span class=\"math\" data-latex=\"2.04 \\times 10^{-7}\"></span> N C<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>According to the Bohr model, electrons in atoms orbit the nucleus. An electron orbits a carbon-12 nucleus. The speed of the electron is <span class=\"math\" data-latex=\"1.78 \\times 10^{3}\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p></p>\n<p>a. Show that the orbital radius of the electron's path is approximately <span class=\"math\" data-latex=\"5 \\times 10^{-10}\"></span> m. Assume that the mass of the electron is the same when in orbit and when stationary.</p>\n<p>  [4]</p>\n<p>b. Calculate the total energy of the electron.</p>\n<p>  [2]</p>\n<p>c. As the electron orbits the nucleus, it emits electromagnetic waves. Outline how this emission affects the orbital radius.</p>\n<p>  [3]</p>\n<p>d. The carbon-12 nucleus is placed in an electric field in vacuum on Earth. When released, it remains stationary. Find the electric field strength at the position of the carbon-12 nucleus.</p>\n<p>  [2]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

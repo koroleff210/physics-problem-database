@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_cab493dae31c4223af0874b501c0a3db",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student measures the activity of a radioactive sample in a laboratory where the background radiation is constant. The data collected is shown in the table below.</p>\n<table><thead><tr><th>Time / min</th><th>Measured activity / Bq</th></tr></thead><tbody><tr><td>0</td><td>850</td></tr><tr><td>15</td><td>450</td></tr><tr><td>30</td><td>250</td></tr></tbody></table>\n<p>If the background radiation in the laboratory is <span class=\"math\" data-latex=\"50\\text{ Bq}\"></span>, what is the half-life of the isotope?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\text{ min}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"15\\text{ min}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20\\text{ min}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"30\\text{ min}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

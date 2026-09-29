@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_846ac358f0fe47c19c7eac05f9cd36c1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The gravitational field strength at the surface of a spherical planet of radius <span class=\"math\" data-latex=\"R\"></span> is <span class=\"math\" data-latex=\"g\"></span>. What is the gravitational field strength at a height <span class=\"math\" data-latex=\"2R\"></span> above the surface of the planet?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{g}{3}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{g}{4}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{g}{9}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{g}{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

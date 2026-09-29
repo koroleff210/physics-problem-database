@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_754b749990e44f988bdc24cf4489ccfc",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which type of wave can exhibit the Doppler effect?</p><ol class=\"mcq-options\"><li data-label=\"A\">Sound waves only</li><li data-label=\"B\">Light waves only</li><li data-label=\"C\">Only mechanical waves</li><li data-label=\"D\">Both sound and light waves</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

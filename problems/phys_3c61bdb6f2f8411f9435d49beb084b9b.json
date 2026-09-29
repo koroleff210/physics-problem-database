@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3c61bdb6f2f8411f9435d49beb084b9b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the Geiger–Marsden–Rutherford experiment, alpha particles were accelerated through a potential difference of 7.7 MV and incident on a thin foil of gold. The proton number of gold is 79.</p>\n<p>What is the distance of closest approach?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{158ke}{7.7\\times 10^{6}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{158ke^{2}}{7.7\\times 10^{6}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{79ke}{7.7\\times 10^{6}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{79ke^{2}}{7.7\\times 10^{6}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

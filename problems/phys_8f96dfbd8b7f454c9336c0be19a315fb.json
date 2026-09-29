@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_8f96dfbd8b7f454c9336c0be19a315fb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two objects, A and B, are in thermal contact. Object A has a temperature of 60°C, and object B has a temperature of 20°C. In which direction will thermal energy transfer occur?</p><ol class=\"mcq-options\"><li data-label=\"A\">From object A to object B</li><li data-label=\"B\">From object B to object A</li><li data-label=\"C\">No thermal energy will transfer</li><li data-label=\"D\">Thermal energy will transfer in both directions equally</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

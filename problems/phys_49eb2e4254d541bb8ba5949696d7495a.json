@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_49eb2e4254d541bb8ba5949696d7495a",
+  "level": "sl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>substitution of <span class=\"math\" data-latex=\"L=σAT^{4}\"></span> into <span class=\"math\" data-latex=\"b = \\frac{L}{4 {π d}^{2}}\"></span> giving <span class=\"math\" data-latex=\"b = \\frac{σ A {T}^{4}}{4 {π d}^{2}}\"></span>   Removal of constants <span class=\"math\" data-latex=\"σ\"></span> and <span class=\"math\" data-latex=\"4\\pi\"></span> is optional</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>equation applies to Sirius/stars that are luminous/emit light «from fusion» ✓ but Venus reflects the Sun’s light/does not emit light «from fusion» ✓   OWTTE</p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the apparent brightness <span class=\"math\" data-latex=\"b∝\\frac{AT^{4}}{d^{2}}\"></span>, where <span class=\"math\" data-latex=\"d\"></span> is the distance of the object from Earth, <span class=\"math\" data-latex=\"T\"></span> is the surface temperature of the object and <span class=\"math\" data-latex=\"A\"></span> is the surface area of the object. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Two of the brightest objects in the night sky seen from Earth are the planet Venus and the star Sirius. Explain why the equation <span class=\"math\" data-latex=\"b∝\\frac{AT^{4}}{d^{2}}\"></span> is applicable to Sirius but not to Venus. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_82ceaf874dc244a788b5b2f1d6c42938",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following correctly describes the condition for constructive interference in a double-slit experiment?</p><ol class=\"mcq-options\"><li data-label=\"A\">Path difference equals an odd multiple of <span class=\"math\" data-latex=\"\\frac{\\lambda}{2}\"></span></li><li data-label=\"B\">Path difference equals zero only</li><li data-label=\"C\">Path difference equals a whole number multiple of <span class=\"math\" data-latex=\"\\lambda\"></span></li><li data-label=\"D\">Path difference is less than the wavelength</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

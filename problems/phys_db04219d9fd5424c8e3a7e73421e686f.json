@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7ad289d35bc245273e78eb9b65e8a4a84c332a055a380fbba1c30b9713559a60.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7ad289d35bc245273e78eb9b65e8a4a84c332a055a380fbba1c30b9713559a60"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_db04219d9fd5424c8e3a7e73421e686f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small ball is tied to the end of a rope and is made to move in a horizontal circle of radius <span class=\"math\" data-latex=\"R\"></span>. The angle between the rope and the vertical is <span class=\"math\" data-latex=\"\\alpha\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the linear speed of the ball?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{gR}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{gRtan\\alpha}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{gRsin\\alpha}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{gRcos\\alpha}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

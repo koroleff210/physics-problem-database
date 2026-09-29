@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/984c0d3d5fd8cd2ba1f7693fea5c23527442cca0573023c5a502e0caaf5ed6f6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "984c0d3d5fd8cd2ba1f7693fea5c23527442cca0573023c5a502e0caaf5ed6f6"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/9f4d63d5b30d85fcb4afa41005cf0c604f53ddf52e3f5b54f71164d020d887b9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9f4d63d5b30d85fcb4afa41005cf0c604f53ddf52e3f5b54f71164d020d887b9"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/f1447ce7888206bb1e93f3b80d8b843541835ae24938c6c09d5a22a83a3c00d8.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f1447ce7888206bb1e93f3b80d8b843541835ae24938c6c09d5a22a83a3c00d8"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_853741f3fc224614ab1ade68693f87c7",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Wire XY moves perpendicular to a magnetic field in the direction shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation with time of the displacement of XY.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>What is the graph of the electromotive force (emf) ε induced across XY?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

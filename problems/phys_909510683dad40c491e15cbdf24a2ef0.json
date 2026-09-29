@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/368106d2cd91bd410b38adbe2f8594e0948114538c9829cd23d8188c986024ea.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "368106d2cd91bd410b38adbe2f8594e0948114538c9829cd23d8188c986024ea"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_909510683dad40c491e15cbdf24a2ef0",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object performs simple harmonic motion with frequency <span class=\"math\" data-latex=\"f\"></span>. The distance between the extreme positions at which the object is at rest is <span class=\"math\" data-latex=\"b\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the object when it is halfway between its equilibrium position O and its extreme position?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{4}\\pi f b\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\\pi f b\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{3}}{4}\\pi f b\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{3}}{2}\\pi f b\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

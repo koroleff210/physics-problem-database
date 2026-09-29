@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_59a2d77a28f04bbca70a1557e93b68de",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The number of decays per unit time [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"A = A_0 \\left( \\frac{1}{2} \\right)^n\"></span>, solve <span class=\"math\" data-latex=\"\\left( \\frac{1}{2} \\right)^n = \\frac{100}{1600} = \\frac{1}{16}\"></span>, so <span class=\"math\" data-latex=\"n = 4\"></span> half-lives [1 mark]<br/>- Total time = <span class=\"math\" data-latex=\"4 \\times 20 = 80\"></span> minutes [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use <span class=\"math\" data-latex=\"\\lambda = \\frac{\\ln 2}{T_{1/2}}\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"\\lambda = \\frac{0.693}{1200\\ \\text{s}} \\approx 5.78 \\times 10^{-4}\\ \\text{s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Exponential decay allows predictable reduction in activity, useful for timing scans [1 mark]<br/>- But requires coordination, as activity drops quickly and may be too low if delayed [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Advantage: Minimizes radiation dose to patient [1 mark]<br/>- Disadvantage: Requires rapid production and delivery to medical site [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample of a radioactive isotope has an initial activity of <span class=\"math\" data-latex=\"1600\\ \\text{Bq}\"></span>. The half-life of the isotope is 20 minutes. The sample is used in a medical tracer application and must fall below <span class=\"math\" data-latex=\"100\\ \\text{Bq}\"></span> to be considered safe.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term activity in the context of radioactive decay.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the time required for the activity to fall below <span class=\"math\" data-latex=\"100\\ \\text{Bq}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the decay constant of the isotope.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Explain why the exponential nature of decay makes radioactive substances useful in medical imaging but requires careful planning.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Suggest one advantage and one disadvantage of using isotopes with short half-lives in medicine.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

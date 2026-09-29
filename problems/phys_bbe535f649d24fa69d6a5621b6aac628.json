@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_bbe535f649d24fa69d6a5621b6aac628",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave travels through a narrow gap and spreads out. Which factor increases the amount of diffraction?</p><ol class=\"mcq-options\"><li data-label=\"A\">Making the gap wider than the wavelength</li><li data-label=\"B\">Increasing the wave's frequency</li><li data-label=\"C\">Using a shorter wavelength</li><li data-label=\"D\">Using a wavelength similar to the gap size</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

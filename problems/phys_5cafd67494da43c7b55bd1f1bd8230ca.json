@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e099230f89ef2ee82e10919bd63ba4e557a33d7b10dd26e6fa4581f6db6c5179.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e099230f89ef2ee82e10919bd63ba4e557a33d7b10dd26e6fa4581f6db6c5179"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_5cafd67494da43c7b55bd1f1bd8230ca",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two 1.0 Ω resistors are placed in a circuit with two 6 V cells of negligible internal resistance as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the reading on the ideal ammeter?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.0 A</li><li data-label=\"B\">3.0 A</li><li data-label=\"C\">6.0 A</li><li data-label=\"D\">12.0 A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

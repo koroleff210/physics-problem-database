@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_68fa96c20c9c4297b80a376b8499f359",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. The resistance is not constant: <span class=\"math\" data-latex=\"R=V/I\"></span> gives <span class=\"math\" data-latex=\"2.0/0.80=2.5\\ \\Omega\"></span>, <span class=\"math\" data-latex=\"4.0/1.40\\approx2.86\\ \\Omega\"></span>, <span class=\"math\" data-latex=\"6.0/1.80\\approx3.33\\ \\Omega\"></span>, so the lamp is non-ohmic. The power at <span class=\"math\" data-latex=\"6.0\"></span> V is <span class=\"math\" data-latex=\"P=VI=6.0\\times1.80=10.8\"></span> W.</p>\n<p>B: Correct. The resistance increases with potential difference (<span class=\"math\" data-latex=\"R\"></span> not constant), so the filament lamp is non-ohmic. At <span class=\"math\" data-latex=\"6.0\"></span> V, <span class=\"math\" data-latex=\"P=VI=6.0\\times1.80=10.8\"></span> W.</p>\n<p>C: Incorrect. The lamp is non-ohmic because <span class=\"math\" data-latex=\"R=V/I\"></span> changes with <span class=\"math\" data-latex=\"V\"></span>. Also, at <span class=\"math\" data-latex=\"6.0\"></span> V the power is <span class=\"math\" data-latex=\"P=VI=6.0\\times1.80=10.8\"></span> W, not <span class=\"math\" data-latex=\"14.4\"></span> W.</p>\n<p>D: Incorrect. While the lamp is non-ohmic, <span class=\"math\" data-latex=\"3.33\"></span> corresponds to the resistance at <span class=\"math\" data-latex=\"6.0\"></span> V (<span class=\"math\" data-latex=\"R=6.0/1.80\\approx3.33\\ \\Omega\"></span>), not the power. The power is <span class=\"math\" data-latex=\"P=VI=10.8\"></span> W.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student investigating the electrical properties of a filament lamp recorded the potential difference and current through the component. The observations are summarized in the table below:</p>\n<table><thead><tr><th>Potential Difference (<span class=\"math\" data-latex=\"V\"></span>) / V</th><th>Current (<span class=\"math\" data-latex=\"I\"></span>) / A</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"2.0\"></span></td><td><span class=\"math\" data-latex=\"0.80\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"4.0\"></span></td><td><span class=\"math\" data-latex=\"1.40\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"6.0\"></span></td><td><span class=\"math\" data-latex=\"1.80\"></span></td></tr></tbody></table>\n<p>Which statement correctly classifies the lamp (ohmic/non-ohmic) and gives the power dissipated at <span class=\"math\" data-latex=\"6.0\"></span> V?</p><ol class=\"mcq-options\"><li data-label=\"A\">The lamp is an ohmic conductor and dissipates <span class=\"math\" data-latex=\"10.8\"></span> W of power.</li><li data-label=\"B\">The lamp is a non-ohmic conductor and dissipates <span class=\"math\" data-latex=\"10.8\"></span> W of power.</li><li data-label=\"C\">The lamp is an ohmic conductor and dissipates <span class=\"math\" data-latex=\"14.4\"></span> W of power.</li><li data-label=\"D\">The lamp is a non-ohmic conductor and dissipates <span class=\"math\" data-latex=\"3.33\"></span> W of power.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

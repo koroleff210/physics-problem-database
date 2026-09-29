@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_58dc2f1c03594d1ba57281f13802cd34",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The molar mass of helium is 4.0 g mol<sup>−1</sup>. A sample of helium has mass 0.50 g.</p>\n<p>How many molecules of helium are there in the sample?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3.0 × 10<sup>22</sup></li><li data-label=\"B\">7.5 × 10<sup>22</sup></li><li data-label=\"C\">3.0 × 10<sup>23</sup></li><li data-label=\"D\">7.5 × 10<sup>23</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

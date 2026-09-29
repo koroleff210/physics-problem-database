@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7fba918608b889758c1aea8dbe745fc6ede1daedea26d12e1a278c166997028e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7fba918608b889758c1aea8dbe745fc6ede1daedea26d12e1a278c166997028e"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_dafd38d2451c4fd3a1b95b7fde3b29ff",
+  "level": "hl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"Markscheme\"><p><strong>Markscheme</strong></p><p>ALTERNATIVE 1<br/>the clock at a distance d from the origin «is set ahead by an amount equal to <span class=\"math\" data-latex=\"\\frac{d}{c}\"></span>» ✔<br/>a light signal leaves the origin «when the origin clock reads 0» ✔<br/>when the signal arrives at the clock the clock is started ✔<br/>ALTERNATIVE 2<br/>both clocks are set to read zero ✔<br/>a light signal is emitted from the midpoint of the two clocks ✔<br/>when signals arrive at the clocks the clocks are started ✔<br/>ALTERNATIVE 3<br/>both clocks are set to read zero together ✔<br/>one is moved to d ✔<br/>at a very slowly /negligible velocity ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows two clocks, A and B, that have been synchronized. Clock A is at the origin and clock B is a distance d away in the same inertial reference frame.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>Suggest a way by which the clocks were synchronized.</p><p>[3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

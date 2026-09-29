@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_bc8e36db2ecb451c8266b2c4c99354c0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fire truck moves past an observer at constant speed. Why is the siren pitch higher as it approaches than as it recedes?</p><ol class=\"mcq-options\"><li data-label=\"A\">The sound travels faster toward the observer</li><li data-label=\"B\">The observer moves into compressed air</li><li data-label=\"C\">The frequency of the siren changes</li><li data-label=\"D\">The observed frequency increases due to shorter wavefront spacing</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

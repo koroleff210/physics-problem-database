@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7339f6ce5b345f0f678d9e5956f3c0f73eccaf3ccfc911d074de2c12f246adee.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7339f6ce5b345f0f678d9e5956f3c0f73eccaf3ccfc911d074de2c12f246adee"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_566cf137b67c471999e559d97649bb56",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A variable resistor is connected to a cell with emf ε and internal resistance r as shown. When the current in the circuit is I, the potential difference measured across the terminals of the cell is V.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The resistance of the variable resistor is doubled.</p>\n<p>What is true about the current and the potential difference?</p>\n<table><tbody><tr><td></td><td><p>Current</p></td><td><p>Potential difference</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>greater than <span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></p></td><td><p>greater than V</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>less than <span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></p></td><td><p>greater than V</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>greater than <span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></p></td><td><p>equal to V</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>less than <span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></p></td><td><p>equal to V</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

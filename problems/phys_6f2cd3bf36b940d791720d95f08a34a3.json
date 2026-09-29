@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_6f2cd3bf36b940d791720d95f08a34a3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which emission shows a continuous energy spectrum?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Photons during energy transitions between atomic energy states</li><li data-label=\"B\">Gamma photons from the nuclei of radioactive isotopes</li><li data-label=\"C\">Beta particles from the nuclei of radioactive isotopes</li><li data-label=\"D\">Alpha particles from the nuclei of radioactive isotopes</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

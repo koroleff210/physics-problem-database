@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/988f6d1d0294ac0e8ede96f01fd5d764beff0e599de6b297718950ead07eb317.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "988f6d1d0294ac0e8ede96f01fd5d764beff0e599de6b297718950ead07eb317"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_8e0a74a3c5964149b8e98ea4f871576d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spaceship is travelling at constant speed relative to an observer. The spacetime diagram shows the worldline of the spaceship in the observer’s reference frame. The two axes have the same units.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The proper length of the spaceship is <span class=\"math\" data-latex=\"25\\;\\textup{m}\"></span>.</p>\n<p>What is the length of the spaceship as measured by the observer?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"15\\;\\textup{m}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"20\\;\\textup{m}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"24\\;\\textup{m}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"31\\;\\textup{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

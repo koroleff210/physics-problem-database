@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_ca55386d91eb420ea821fb6564e21a48",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which surface would emit the most thermal radiation at a given temperature?</p><ol class=\"mcq-options\"><li data-label=\"A\">Shiny white metal</li><li data-label=\"B\">Dull white ceramic</li><li data-label=\"C\">Shiny black plastic</li><li data-label=\"D\">Matte black surface</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

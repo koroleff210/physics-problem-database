@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_dddbfdfacbe04b7a9286459f564636fe",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the internal energy of an ideal gas?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The sum of the intermolecular potential energies of the molecules</li><li data-label=\"B\">The energy required to raise the temperature by 1 K</li><li data-label=\"C\">The sum of the kinetic energies of the molecules</li><li data-label=\"D\">The energy required per kg to raise the temperature by 1 K</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

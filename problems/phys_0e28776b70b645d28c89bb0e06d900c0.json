@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9e44bc96a00e2e0c4ce34800ee750df11779724c033d49ab45b03b8a9cf08fa6.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9e44bc96a00e2e0c4ce34800ee750df11779724c033d49ab45b03b8a9cf08fa6"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_0e28776b70b645d28c89bb0e06d900c0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is launched with an initial speed of <em>v </em>at an angle <span class=\"math\" data-latex=\"\\alpha\"></span> to the horizontal. Air resistance is negligible. P is the highest point of the motion of the object.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the change in the vertical and the horizontal speed of the object between its starting point and point P?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Change in horizontal speed</strong></p>\n</td>\n<td>\n<p><strong>Change in vertical speed</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Zero</td>\n<td><em>v </em>sin<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Zero</td>\n<td><em>v </em>cos<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><em>v </em>sin<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n<td><em>v </em>cos<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><em>v </em>cos<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n<td><em>v </em>sin<span class=\"math\" data-latex=\"\\alpha\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

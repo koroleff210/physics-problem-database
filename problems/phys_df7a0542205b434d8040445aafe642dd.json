@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/56e1816070709505558166727cc273511cf16b5123a65206b4c3daeb56359adc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "56e1816070709505558166727cc273511cf16b5123a65206b4c3daeb56359adc"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/efd405599e7ccced9f93e3467999f0f70ec97ba3e6c75792966a2e70780784de.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "efd405599e7ccced9f93e3467999f0f70ec97ba3e6c75792966a2e70780784de"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/70aff72dad2d59a8caebcba15d5fc89f3ae6b0b7fd1a88f06fc821b477b92817.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "70aff72dad2d59a8caebcba15d5fc89f3ae6b0b7fd1a88f06fc821b477b92817"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_df7a0542205b434d8040445aafe642dd",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>correct substitution into <span class=\"math\" data-latex=\"\\lambda_{max}=\\frac{2.9\\times 10^{-3}}{T}\"></span> OR 9350 K ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Attempted use of <span class=\"math\" data-latex=\"L = 4 π b {d}^{2}\"></span> ✓ use of <span class=\"math\" data-latex=\"r\\sqrt{\\frac{L}{4\\piσT^{4}}}\"></span> ✓ <span class=\"math\" data-latex=\"r=1.4\"></span> Gm ✓ Accept a range of values between 1.3 to 1.5 Gm</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Shows <span class=\"math\" data-latex=\"r≈2R_{⊙}\"></span> ✓ Correct position on diagram ✓  ✓  [use of 9000 K gives 2.2<span class=\"math\" data-latex=\"R_{⊙}\"></span>]</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The star δ Vel A is a main sequence star that has a black-body spectrum as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the surface temperature of δ Vel A is about 9000 K. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The apparent brightness of δ Vel A is 2.2 × 10<sup>−9</sup> W m<sup>−2</sup> and it is 6.2 × 10<sup>14</sup> km from Earth.</p>\n<p>Estimate the radius of δ Vel A.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The radius of the Sun, <span class=\"math\" data-latex=\"R_{⊙}\"></span>, is 7.0 × 10<sup>5</sup> km.</p>\n<p>Sketch, on the Hertzsprung-Russell diagram, the position of δ Vel A.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

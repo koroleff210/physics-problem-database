@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_b57dc7363b9a45ecbeb96bff229c0d9f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student moves a bar magnet steadily through a coil and observes a voltage pulse on a data logger. If the same experiment is repeated but with a coil of twice the number of turns, what is the expected change in the graph?</p><ol class=\"mcq-options\"><li data-label=\"A\">The pulse duration doubles</li><li data-label=\"B\">The peak emf halves</li><li data-label=\"C\">The peak emf doubles</li><li data-label=\"D\">The pulse shape reverses</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

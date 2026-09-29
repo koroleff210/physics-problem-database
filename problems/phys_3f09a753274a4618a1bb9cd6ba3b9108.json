@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/672bcc24636458585c9a192c3576c732e492d2ce5967f4f456ef9df23878f084.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "672bcc24636458585c9a192c3576c732e492d2ce5967f4f456ef9df23878f084"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/749505a2866105f1dde82b4d9eb3ad059a385ce45953b7476bd1c1a9321a8c80.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "749505a2866105f1dde82b4d9eb3ad059a385ce45953b7476bd1c1a9321a8c80"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.3",
+    "C.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_3f09a753274a4618a1bb9cd6ba3b9108",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>the change in the observed frequency ✓</p>\n<p>when there is relative motion between the source and the observer ✓</p>\n<p>Do not award MP1 if they refer to wavelength.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>use of <span class=\"math\" data-latex=\"2 π f A\"></span> ✓</p>\n<p>maximum speed is <span class=\"math\" data-latex=\"2\\pi\\times 39\\times 0.080=19.6\"></span> «m s<sup>−1</sup>» ✓</p>\n<p>Award [2] for a bald correct answer.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>frequency at plate <span class=\"math\" data-latex=\"2400\\times \\frac{340+19.6}{340}\"></span>«<span class=\"math\" data-latex=\"=2538\"></span>Hz»</p>\n<p>at source <span class=\"math\" data-latex=\"2538\\times \\frac{340}{340-19.6}=2694≈2700\"></span> «Hz» ✓</p>\n<p>Award [2] marks for a bald correct answer.</p>\n<p>Award [1] mark when the effect is only applied once.</p>\n<p>The graph shows the variation with diffraction angle of the intensity of light after it has passed through four parallel slits.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The number of slits is increased but their separation and width stay the same. All slits are illuminated.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>stays the same ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>decreases ✓</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>decreases ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State what is meant by the Doppler effect. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A plate performs simple harmonic oscillations with a frequency of 39 Hz and an amplitude of 8.0 cm.</p>\n<p>Show that the maximum speed of the oscillating plate is about 20 m s<sup>−1</sup>.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>Sound of frequency 2400 Hz is emitted from a stationary source towards the oscillating plate in (b). The speed of sound is 340 m s<sup>−1</sup>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Determine the maximum frequency of the sound that is received back at the source after reflection at the plate.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> State what will happen to the angular position of the primary maxima. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> State what will happen to the width of the primary maxima. [1]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> State what will happen to the intensity of the secondary maxima. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

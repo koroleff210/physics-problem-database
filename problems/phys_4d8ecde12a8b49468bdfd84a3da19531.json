@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f47db1f67657e4794dcbdbf878bfd5754700eeab52a5f1ac5ef8a9e347e4ed47.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f47db1f67657e4794dcbdbf878bfd5754700eeab52a5f1ac5ef8a9e347e4ed47"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_4d8ecde12a8b49468bdfd84a3da19531",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the circuit shown, the battery has an emf of 12 V and negligible internal resistance. Three identical resistors are connected as shown. The resistors each have a resistance of 10 Ω.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The resistor L is removed. What is the change in potential at X?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Increases by 2 V</li><li data-label=\"B\">Decreases by 2 V</li><li data-label=\"C\">Increases by 4 V</li><li data-label=\"D\">Decreases by 4 V</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

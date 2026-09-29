@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/68cef76892793ebe614fd1ceea4fb90ee644517be99e3f6743cac6d15009fe87.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "68cef76892793ebe614fd1ceea4fb90ee644517be99e3f6743cac6d15009fe87"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/7ed0a28570df9b18e22c12fce1f60764eefd02b7c9b9f9d2602b092cc2174057.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7ed0a28570df9b18e22c12fce1f60764eefd02b7c9b9f9d2602b092cc2174057"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_717485c364884c028069af65a999ecf0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron, travelling at a constant upwards velocity, enters an area of perpendicularly oriented electric and magnetic fields. Magnetic field <span class=\"math\" data-latex=\"B\"></span> is pointing into the page and electric field <span class=\"math\" data-latex=\"E\"></span> is pointing vertically upwards.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>What is a possible direction of the resultant force on the electron the instant it enters the fields?</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

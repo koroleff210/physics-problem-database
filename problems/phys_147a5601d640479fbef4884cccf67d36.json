@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c1d31eb369e910c39c699ecbd75baaafacbadad60e89c42bf8779e06265a2184.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c1d31eb369e910c39c699ecbd75baaafacbadad60e89c42bf8779e06265a2184"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_147a5601d640479fbef4884cccf67d36",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: Impulse equals area under the <span class=\"math\" data-latex=\"F\"></span>–<span class=\"math\" data-latex=\"t\"></span> graph.<br/>Triangle with base <span class=\"math\" data-latex=\"50\\,\\mathrm{ms}=0.050\\,\\mathrm{s}\"></span> and height <span class=\"math\" data-latex=\"400\\,\\mathrm{N}\"></span>:<br/><span class=\"math\" data-latex=\"J=\\tfrac{1}{2}\\times 0.050\\times 400=10\\,\\mathrm{N\\,s}\"></span>.</p>\n<p>B: This corresponds to taking the area as a rectangle <span class=\"math\" data-latex=\"0.050\\times 400\"></span>, rather than the triangular area.</p>\n<p>C: This corresponds to halving the correct triangular area again (or using an incorrect base time).</p>\n<p>D: This corresponds to using <span class=\"math\" data-latex=\"50\\,\\mathrm{ms}\"></span> as <span class=\"math\" data-latex=\"0.0050\\,\\mathrm{s}\"></span> (incorrect conversion), giving <span class=\"math\" data-latex=\"\\tfrac{1}{2}\\times 0.0050\\times 400=1.0\\,\\mathrm{N\\,s}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the net force <span class=\"math\" data-latex=\"F\"></span> acting on an object of mass <span class=\"math\" data-latex=\"0.20\\,\\mathrm{kg}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the total impulse delivered to the object from <span class=\"math\" data-latex=\"t=0\"></span> to <span class=\"math\" data-latex=\"50\\,\\mathrm{ms}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\,\\mathrm{N\\,s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"20\\,\\mathrm{N\\,s}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"5.0\\,\\mathrm{N\\,s}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.0\\,\\mathrm{N\\,s}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

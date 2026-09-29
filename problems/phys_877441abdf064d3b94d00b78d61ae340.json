@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 1,
+  "id": "phys_877441abdf064d3b94d00b78d61ae340",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A heat engine wastes <span class=\"math\" data-latex=\"4000\\: \\textup{J}\"></span> of energy during a cycle. The work done by the heat engine during the same cycle is <span class=\"math\" data-latex=\"1000\\: \\textup{J}\"></span>.</p>\n<p>What is the heat engine’s efficiency?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.20\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.25\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.75\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"0.80\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

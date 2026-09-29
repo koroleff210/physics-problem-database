@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_740a74cde20b44e7ac21bcc59e762841",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two radio transmitters, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, emit coherent waves of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> in phase with each other. At a certain distance from the transmitters, the path difference to a receiver is <span class=\"math\" data-latex=\"\\frac{\\lambda}{8}\"></span>. What is the phase difference between the two waves when they reach the receiver?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{8} \\text{ rad}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{4} \\text{ rad}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{\\pi}{2} \\text{ rad}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\pi \\text{ rad}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

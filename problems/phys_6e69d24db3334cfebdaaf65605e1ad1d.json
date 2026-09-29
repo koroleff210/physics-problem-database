@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_6e69d24db3334cfebdaaf65605e1ad1d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: <span class=\"math\" data-latex=\"I=\\frac12 MR^2=\\frac12(4.0)(0.30)^2=0.18\\ \\mathrm{kg\\ m^2}\"></span>. <span class=\"math\" data-latex=\"\\alpha=\\tau/I=2.4/0.18=13.3\\ \\mathrm{rad\\ s^{-2}}\"></span>. <span class=\"math\" data-latex=\"t=\\omega_0/\\alpha=10/13.3=0.75\\ \\mathrm{s}\"></span>.</p>\n<p>B: Incorrect. This would correspond to using half the correct angular deceleration (e.g. doubling <span class=\"math\" data-latex=\"I\"></span>).</p>\n<p>C: Incorrect. This could result from using <span class=\"math\" data-latex=\"I=MR^2\"></span> and then also making an additional factor error.</p>\n<p>D: Incorrect. This could result from using <span class=\"math\" data-latex=\"I=MR\"></span> (dimensionally incorrect) or similar major formula error.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A flywheel of mass <span class=\"math\" data-latex=\"4.0\\ kg\"></span> and radius <span class=\"math\" data-latex=\"0.30\\ m\"></span> is rotating at <span class=\"math\" data-latex=\"10\\ \\mathrm{rad\\ s^{-1}}\"></span>. A brake is applied, exerting a constant torque of <span class=\"math\" data-latex=\"2.4\\ \\mathrm{N\\ m}\"></span> opposite to the rotation. How long does it take for the flywheel to stop?</p>\n<p>Solid disc: <span class=\"math\" data-latex=\"I = \\frac12 MR^2\"></span></p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.75\\ s\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.5\\ s\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3.0\\ s\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"6.0\\ s\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

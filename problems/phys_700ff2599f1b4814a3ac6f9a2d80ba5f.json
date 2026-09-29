@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4ce20bf09b0ab28f5b6f1b90c78d8c64f230154f2bd410beb2e6058bd81b9a23.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4ce20bf09b0ab28f5b6f1b90c78d8c64f230154f2bd410beb2e6058bd81b9a23"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/073f063669a17cfec041c17c4dfb6be3e8cad307928444c46c3b1ed415f59715.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "073f063669a17cfec041c17c4dfb6be3e8cad307928444c46c3b1ed415f59715"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/3b5987eb81e5f4d76f8a29fcdc5ccd07b4dc030cf72c5d5dfe4c22cead014510.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "3b5987eb81e5f4d76f8a29fcdc5ccd07b4dc030cf72c5d5dfe4c22cead014510"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_700ff2599f1b4814a3ac6f9a2d80ba5f",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>V = <span class=\"math\" data-latex=\"\\frac{0.007\\times 8.31\\times 200}{120 000}\"></span> OR 9.7 × 10<sup>−5</sup> «m<sup>3</sup>» ✔   Answer given, so award the mark if candidates show a correct full substitution OR the value with an extra significant figure</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>T = <span class=\"math\" data-latex=\"\\frac{1.3\\times 10^{-4}\\times 200}{9.7\\times 10^{-5}}\"></span><br/>OR<br/>T = <span class=\"math\" data-latex=\"\\frac{120\\times 10^{3}\\times 1.3\\times 10^{-4}}{0.007\\times 8.31}\"></span><br/>OR<br/>268 «K» ✔</p>\n<p>Accept 260 if 1 × 10<sup>−4</sup> used Answer of 270 K given, so award the mark if candidates show a correct full substitution OR the value with an extra significant figure</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>uses PV<sup>5/3</sup> = constant ✔</p>\n<p>V = 4.9 × 10<sup>−5 </sup>«m<sup>3</sup>» ✔</p>\n<p>Accept 4.95 or 5</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>One mark per line</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>cycle is anticlockwise so work is negative<br/>OR<br/>work in BCD is larger than work in DAB<br/>OR<br/>work is negative so Q is negative/released «as delta U = 0 » ✔</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Q released to surroundings so S increases<br/>OR<br/>entropy of Universe must increase so S increases<br/>OR<br/>since S increases then disorder increases ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A closed system contains 0.0070 mol of an ideal monatomic gas. The gas undergoes a cycle of four steps, represented below, consisting of two isobaric and two adiabatic processes.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Initially, at A, the gas is at a pressure of 120 kPa and a temperature of 200 K.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the volume of the system at A is about 1.0 × 10<sup>−4</sup> m<sup>3</sup>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The gas undergoes an isobaric process from A to B reaching a volume of 1.3 × 10<sup>−4</sup> m<sup>3</sup>.</p>\n<p>Show that the temperature of the gas at B is about 270 K.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The gas now undergoes an adiabatic compression from B to C.</p>\n<p>For this compression, the ratio of the pressures is</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\textit{Pressure at C}}{\\textit{Pressure at B}}\"></span> = 5.0</p>\n<p>Determine the volume of the gas at C.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> </p><p>Identify the nature of the thermal energy transferred, Q, the change in internal energy of the gas, ΔU, and the work done, W, for each step of the cycle. Insert, in the table below, “+” to identify a positive value, “−” to identify a negative value or “0” when the quantity does not change. Three values are given.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[4]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Deduce, without performing any calculation, that during the cycle ABCDA there is a net output of thermal energy. [1]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Discuss, in terms of entropy changes, the impact of this cycle on the surroundings. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

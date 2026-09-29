@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2cf4ad7751cb0fe8a35a492d2793a7c0085573421b88dbdaf66431a0e2249b04.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2cf4ad7751cb0fe8a35a492d2793a7c0085573421b88dbdaf66431a0e2249b04"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/12abb5118c796fd595ecec11e16ddb1b072d7a0c4ebfd292a0d27836e6819498.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "12abb5118c796fd595ecec11e16ddb1b072d7a0c4ebfd292a0d27836e6819498"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_3dfdd3903a8b42b7a85274539103be9e",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p>(Labelling and starting point of forces must be correct in order to earn full mark)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p> </p>\n<p><span class=\"math\" data-latex=\"N = mg \\times cos(28^{\\circ})\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{f} = \\mu N = \\mu \\times mg \\times cos(28^{\\circ})\"></span></p>\n<p>The box is moving at constant speed, so <span class=\"math\" data-latex=\"F_{f} = mg \\times sin(28^{\\circ})\"></span></p>\n<p>Therefore <span class=\"math\" data-latex=\"\\mu \\times mg \\times cos(28^{\\circ}) = mg \\times sin(28^{\\circ})\"></span></p>\n<p><span class=\"math\" data-latex=\"\\mu = \\frac{sin(28^{\\circ})}{cos(28^{\\circ})} \\approx 0.53\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p>Finding the acceleration (deceleration) of the box: <span class=\"math\" data-latex=\"a = \\frac{5.2}{1.6} = 3.25\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p><span class=\"math\" data-latex=\"F = (0.600)(3.25) = 1.95\"></span> N</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A box of mass <span class=\"math\" data-latex=\"600\"></span> grams is sliding down on a slope at constant speed. The angle between the slope and the horizontal is <span class=\"math\" data-latex=\"28^{\\circ}\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Draw a free-body diagram for the box at the position where it is shown.</p>\n<p>   [3]</p>\n<p>b. Calculate the coefficient of dynamic friction between the box and the slope.</p>\n<p>   [3]</p>\n<p>After the box reaches the bottom of the slope, it slides along a horizontal surface and comes to rest after <span class=\"math\" data-latex=\"1.6\"></span> s. The speed of the box when it reaches the bottom of the slope is <span class=\"math\" data-latex=\"5.2\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>c. Find the magnitude of the average frictional force that acts on the block as it slides along the horizontal surface.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

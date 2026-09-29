@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f0ccd60d482750ce9dfe13e8a3101744ebedd7d7094367093a2c1cf4bf6b4c66.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f0ccd60d482750ce9dfe13e8a3101744ebedd7d7094367093a2c1cf4bf6b4c66"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_1da357691f9945d598fb08a0b9f5dd31",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A 2.0 Ω and a 4.0 Ω resistor are connected in parallel to a cell with negligible internal resistance. An ammeter placed in the circuit as shown measures a current of 1.0 A.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the current passing through the 2.0 Ω resistor?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.5 A</li><li data-label=\"B\">1.0 A</li><li data-label=\"C\">2.0 A</li><li data-label=\"D\">4.0 A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

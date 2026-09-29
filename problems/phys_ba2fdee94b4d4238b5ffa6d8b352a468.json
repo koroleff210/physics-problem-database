@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1a1f8cb40ae15963c07e59168b7644a0e8842d545a7e52f5ed1363c4fa6c0cda.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1a1f8cb40ae15963c07e59168b7644a0e8842d545a7e52f5ed1363c4fa6c0cda"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba2fdee94b4d4238b5ffa6d8b352a468",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two spheres of mass <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"M\"></span> are attached to two strings, A and B and hang vertically. The mass of the strings is negligible.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the tension in A and in B?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Tension in A</strong></p>\n</td>\n<td>\n<p><strong>Tension in B</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"mg\"></span></td>\n<td><span class=\"math\" data-latex=\"(M+m)g\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"mg\"></span></td>\n<td><span class=\"math\" data-latex=\"Mg\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>\n<p><span class=\"math\" data-latex=\"(M+m)g\"></span></p>\n</td>\n<td><span class=\"math\" data-latex=\"Mg\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>\n<p><span class=\"math\" data-latex=\"(M+m)g\"></span></p>\n</td>\n<td><span class=\"math\" data-latex=\"(M+m)g\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

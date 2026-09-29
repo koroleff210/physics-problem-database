@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f7f88169b7bd4354b6766e15eef2862d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the unit of Planck's constant?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\mathrm{J\\cdot s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\mathrm{N \\cdot m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\mathrm{eV}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\mathrm{kg \\cdot m \\cdot s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

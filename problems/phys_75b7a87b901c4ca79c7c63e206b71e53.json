@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2b3039d3a6a58e18453f5a9c875f857af1160e1ca9efa06cc23938bafd517fe2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2b3039d3a6a58e18453f5a9c875f857af1160e1ca9efa06cc23938bafd517fe2"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_75b7a87b901c4ca79c7c63e206b71e53",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>A compression in a longitudinal wave is a region of maximum pressure, where particles converge. On a displacement-position graph, this corresponds to a point where particles to the left have positive displacement (move right) and particles to the right have negative displacement (move left). This occurs where the displacement is zero and the slope of the graph is negative. On the given graph, this point is at x = 3.0 m.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sound wave travels through the air to the right. The graph shows the variation of the displacement y of air molecules with position x along the wave at time t = 0.</p>\n<p>Positive values represent displacements to the right and negative values represent displacements to the left.</p>\n<p>Where will the compression be at t = 0?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"1.5 m\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"3.0 m\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"4.5 m\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"6.0 m\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

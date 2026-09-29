@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3f41b7131d9847b7a0d3f20328a5f4e7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is thrown vertically downwards with a speed of <span class=\"math\" data-latex=\"10\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span> from the top of a building. It takes the ball <span class=\"math\" data-latex=\"3.0\"></span> s to hit the ground. How tall is the building?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"75\"></span> m</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"90\"></span> m</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"100\"></span> m</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"120\"></span> m</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

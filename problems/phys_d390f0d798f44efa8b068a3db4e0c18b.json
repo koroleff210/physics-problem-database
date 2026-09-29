@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_d390f0d798f44efa8b068a3db4e0c18b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball undergoes an elastic collision with a vertical wall. Which of the following is equal to zero?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The change of the magnitude of linear momentum of the ball</li><li data-label=\"B\">The magnitude of the change of linear momentum of the ball</li><li data-label=\"C\">The rate of change of linear momentum of the ball</li><li data-label=\"D\">The impulse of the force on the ball</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

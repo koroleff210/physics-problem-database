@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_12cd03bac66240e1a6a8a658a705ddbb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite in space consists of a long rod of mass <span class=\"math\" data-latex=\"M\"></span> and length <span class=\"math\" data-latex=\"2L\"></span> with small masses <span class=\"math\" data-latex=\"m\"></span> at each end. It rotates about its center. What happens to the angular speed if the two masses move toward the center and stop at distance <span class=\"math\" data-latex=\"\\frac{L}{2}\"></span> from the center?</p><ol class=\"mcq-options\"><li data-label=\"A\">Increases</li><li data-label=\"B\">Decreases</li><li data-label=\"C\">Remains constant</li><li data-label=\"D\">Doubles then remains constant</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

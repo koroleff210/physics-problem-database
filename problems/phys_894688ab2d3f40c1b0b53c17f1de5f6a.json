@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9936a8a164a1d0ac88a9c49ca6ad77b8c1972a4fd6db27ed111af26992b7506d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9936a8a164a1d0ac88a9c49ca6ad77b8c1972a4fd6db27ed111af26992b7506d"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_894688ab2d3f40c1b0b53c17f1de5f6a",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A stone of mass m is projected vertically upwards with speed u from the top of a cliff. The speed of the stone when it is just about to hit the ground is v.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the magnitude of the change in momentum of the stone?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"m\\frac{v+u}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"m\\frac{v-u}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"mv+u\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"mv-u\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

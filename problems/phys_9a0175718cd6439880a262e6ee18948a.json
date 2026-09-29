@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_9a0175718cd6439880a262e6ee18948a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"45 \\mathrm{~W}\"></span> electric heater is used to maintain a liquid of mass <span class=\"math\" data-latex=\"0.75 \\mathrm{~kg}\"></span> at a constant temperature. When the heater is switched off, the temperature of the liquid is observed to decrease at an initial rate of <span class=\"math\" data-latex=\"0.030 \\mathrm{~K} \\mathrm{~s}^{-1}\"></span>. What is the specific heat capacity of the liquid?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\mathrm{~kJ} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.5 \\mathrm{~kJ} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.8 \\mathrm{~kJ} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.0 \\mathrm{~kJ} \\mathrm{~kg}^{-1} \\mathrm{~K}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

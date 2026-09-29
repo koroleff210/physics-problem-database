@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_f3609670977c4f61ababb17c3b4afba6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>0.25 J of work is done to compress a spring by a distance of 0.10 m from its unstretched length. What is the spring constant?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2.5 N m<sup>−1</sup></li><li data-label=\"B\">5.0 N m<sup>−1</sup></li><li data-label=\"C\">25 N m<sup>−1</sup></li><li data-label=\"D\">50 N m<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

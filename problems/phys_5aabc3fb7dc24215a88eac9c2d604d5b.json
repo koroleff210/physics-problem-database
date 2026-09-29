@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e2a3e181abec56e3e3eefb248979859addf55f93a95cc246927305f33ff39c4d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e2a3e181abec56e3e3eefb248979859addf55f93a95cc246927305f33ff39c4d"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_5aabc3fb7dc24215a88eac9c2d604d5b",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple model of an atom has three energy levels. The differences between adjacent energy levels are shown below.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are the two smallest frequencies in the emission spectrum of this atom?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.5 × 10<sup>15 </sup>Hz and 1.0 × 10<sup>15 </sup>Hz</li><li data-label=\"B\">0.5 × 10<sup>15 </sup>Hz and 1.5 × 10<sup>15 </sup>Hz</li><li data-label=\"C\">1.0 × 10<sup>15 </sup>Hz and 2.0 × 10<sup>15 </sup>Hz</li><li data-label=\"D\">1.0 × 10<sup>15 </sup>Hz and 3.0 × 10<sup>15 </sup>Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

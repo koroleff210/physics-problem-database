@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_c093c31011f042fbb19816b46bbe9dea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two satellites, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, move in circular orbits around the same planet. The table provides the orbital radius and the orbital period for each satellite.</p>\n<table><thead><tr><th>Satellite</th><th>Orbital radius</th><th>Orbital period</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"P\"></span></td><td><span class=\"math\" data-latex=\"R\"></span></td><td><span class=\"math\" data-latex=\"2.0\\text{ hours}\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Q\"></span></td><td><span class=\"math\" data-latex=\"9R\"></span></td><td><span class=\"math\" data-latex=\"T_Q\"></span></td></tr></tbody></table>\n<p>What is the orbital period <span class=\"math\" data-latex=\"T_Q\"></span> of satellite <span class=\"math\" data-latex=\"Q\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"6.0\\text{ hours}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"18.0\\text{ hours}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"54.0\\text{ hours}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"162.0\\text{ hours}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,73 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5b9887536088be77e27ea0b3db7b715873b0af8cfb5fef8981564c262df9bd95.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5b9887536088be77e27ea0b3db7b715873b0af8cfb5fef8981564c262df9bd95"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/fc2f72c1c6bc8a3ae8d2718b2c6e95f22e77de013aed722ec19bcd7845188477.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fc2f72c1c6bc8a3ae8d2718b2c6e95f22e77de013aed722ec19bcd7845188477"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/50095102a764f7f1389d91d876d36b6a82817e4ccb697dab4183754604fce4e6.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "50095102a764f7f1389d91d876d36b6a82817e4ccb697dab4183754604fce4e6"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/b5a84cebb58a7eec239b26b2538c5c5f0cb10fe72a53d7d44ec5b1e0ef5da83b.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b5a84cebb58a7eec239b26b2538c5c5f0cb10fe72a53d7d44ec5b1e0ef5da83b"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/f0112ded71ba09f95b46c42afb9015da1c292f854f94faea27dff62af625bb0f.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "f0112ded71ba09f95b46c42afb9015da1c292f854f94faea27dff62af625bb0f"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_8bd567aee56a480683afdabce5b4e6c4",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«electric field at P from one charge is <span class=\"math\" data-latex=\"\\frac{kQ}{r^{2}}=\"></span>» <span class=\"math\" data-latex=\"\\frac{8.99\\times 10^{9}\\times 44\\times 10^{-6}}{0.48^{2}}\"></span></p>\n<p>OR</p>\n<p><span class=\"math\" data-latex=\"1.7168\\times 10^{6}\"></span> «NC<sup>−1</sup>» ✓</p>\n<p><br/>« net field is » <span class=\"math\" data-latex=\"2\\times 1.7168\\times 10^{6}\\times cos 30 ^{∘}=2.97\\times 10^{6}\"></span> «NC<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>directed vertically up «on plane of the page» ✓</p>\n<p>Allow an arrow pointing up on the diagram.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>force «on q» is proportional to the displacement ✓</p>\n<p>and opposite to the displacement / directed towards equilibrium ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"a=\\frac{F}{m}=\\omega^{2}x=\\frac{115x}{0.25}\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"T=\\frac{2\\pi}{\\omega}= 0.29 s\"></span> ✓</p>\n<p>Award [2] marks for a bald correct answer.</p>\n<p>Allow ECF for MP2.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>decreasing from 12 ✓</p>\n<p>correct shape as shown ✓</p>\n<p><figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure></p>\n<p>Do not penalize if the graph does not touch the t axis.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"\\frac{1}{2}=e^{-\\frac{5.0}{20\\times 10^{6} C}}\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"C=3.6\\times 10^{-7}\"></span> «F» ✓</p>\n<p>Award [2] for a bald correct answer.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two equal positive fixed point charges Q = +44 μC and point P are at the vertices of an equilateral triangle of side 0.48 m.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Point P is now moved closer to the charges.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>A point charge q = −2.0 μC and mass 0.25 kg is placed at P. When x is small compared to d, the magnitude of the net force on q is F ≈ 115x.</p>\n<p>An uncharged parallel plate capacitor C is connected to a cell of emf 12 V, a resistor R and another resistor of resistance 20 MΩ.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the magnitude of the resultant electric field at P is 3 MN C<sup>−1</sup> [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State the direction of the resultant electric field at P. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Explain why q will perform simple harmonic oscillations when it is released. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the period of oscillations of q. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> </p><p>At t = 0, the switch is connected to X. On the axes, draw a sketch graph to show the variation with time of the voltage V<sub>R</sub> across R.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> The switch is then connected to Y and C discharges through the 20 MΩ resistor. The voltage V<sub>c</sub> drops to 50 % of its initial value in 5.0 s. Determine the capacitance of C. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

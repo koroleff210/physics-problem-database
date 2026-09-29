@@ -1,0 +1,65 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0b165527f4e5f49dd111221984ae98eab9406a349c7e96c90eeccb8e56316712.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0b165527f4e5f49dd111221984ae98eab9406a349c7e96c90eeccb8e56316712"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/62440f3fe20c6e797a0f5990afd62e9306e36a25ca7a60eba86f784afab92c74.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "62440f3fe20c6e797a0f5990afd62e9306e36a25ca7a60eba86f784afab92c74"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/ef6d675ae85e2540258f8fe84ccaa24208eb6f7d9fb76feaa8688868ff0bde04.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "ef6d675ae85e2540258f8fe84ccaa24208eb6f7d9fb76feaa8688868ff0bde04"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/f31214dfa4c43ab311d8144f39dc794062f8b8c1a09125bece334318d900619d.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "f31214dfa4c43ab311d8144f39dc794062f8b8c1a09125bece334318d900619d"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_4aa2098019324130835d200277235e8a",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>A travelling wave moves along the string and is reflected at the fixed end.</p>\n<p>The incident and the reflected waves superpose and form a standing wave.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p></p>\n<p>Any of these positions can be labelled, anywhere along the vertical line where the antinode is formed.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{3.7}{2.5} = 1.48\"></span> m</p>\n<p><span class=\"math\" data-latex=\"c = (35)(1.48) \\approx 52\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Final answer must be given to 2 significant figures.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3d\"><p><strong>3d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>One end of a string is fixed to a wall. The other end of the string is oscillated vertically with a frequency of <span class=\"math\" data-latex=\"35.0\"></span> Hz so that a standing wave is formed on the string. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline how a standing wave is formed on the string.</p>\n<p>   [2]</p>\n<p>b. Label the position of an antinode with the letter A on the diagram.</p>\n<p>    [1]</p>\n<p>c. Calculate the speed of the wave on the string. Give your answer to an appropriate number of significant figures.</p>\n<p>    [2]</p>\n<p>The frequency of the oscillations is reduced to <span class=\"math\" data-latex=\"14.0\"></span> Hz.</p>\n<p>d. Draw how the new standing wave looks like on the string.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

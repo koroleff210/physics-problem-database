@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cd71af5eea70f542e2f7162c6378c05891ee7daee7a4d847168e6f58d1dc2d1c.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cd71af5eea70f542e2f7162c6378c05891ee7daee7a4d847168e6f58d1dc2d1c"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_de02fdd90dd7418a8cca19bf7ca3b5f8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with distance <span class=\"math\" data-latex=\"x\"></span> of the displacement of a string at a particular instant. The string is fixed at both ends and vibrates at its third harmonic with a frequency of <span class=\"math\" data-latex=\"50\\text{ Hz}\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the transverse waves on the string?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"20\\text{ m s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"40\\text{ m s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"60\\text{ m s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"120\\text{ m s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

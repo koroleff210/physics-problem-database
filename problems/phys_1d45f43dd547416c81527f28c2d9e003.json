@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_1d45f43dd547416c81527f28c2d9e003",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Mass converted to energy.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Mass–energy equivalence.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The difference between the mass of a nucleus and the sum of its constituent nucleons.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p><span class=\"math\" data-latex=\"E = mc^2\"></span><br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Nuclear fission reactions release large amounts of energy.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the energy source in a fission reaction. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the law that explains the energy released in fission. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Define mass defect. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> State the equation that relates mass and energy. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

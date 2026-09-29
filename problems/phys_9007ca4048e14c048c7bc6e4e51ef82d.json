@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_9007ca4048e14c048c7bc6e4e51ef82d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>X and Y are two spherical black-body radiators. X has a radius <span class=\"math\" data-latex=\"R\"></span> and emits half the total power of Y. The absolute temperature of X is double that of Y.</p>\n<p>What is the radius of Y?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"2\\sqrt{2R}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"4R\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"4\\sqrt{2R}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"16R\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

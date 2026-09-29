@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_8664334889ea4e70b61ac55e8c3a9a05",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two metal blocks, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, have the same mass. The specific heat capacity of <span class=\"math\" data-latex=\"X\"></span> is twice the specific heat capacity of <span class=\"math\" data-latex=\"Y\"></span>. Both blocks are heated from the same initial temperature by identical heaters for the same period of time.</p>\n<p>Which row compares the temperature change and the thermal energy absorbed by block <span class=\"math\" data-latex=\"X\"></span> with those of block <span class=\"math\" data-latex=\"Y\"></span>?</p>\n<table><thead><tr><th></th><th>Temperature change of <span class=\"math\" data-latex=\"X\"></span></th><th>Thermal energy absorbed by <span class=\"math\" data-latex=\"X\"></span></th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>twice the change of <span class=\"math\" data-latex=\"Y\"></span></td><td>same as that of <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td>half the change of <span class=\"math\" data-latex=\"Y\"></span></td><td>half that of <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td>half the change of <span class=\"math\" data-latex=\"Y\"></span></td><td>same as that of <span class=\"math\" data-latex=\"Y\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td>twice the change of <span class=\"math\" data-latex=\"Y\"></span></td><td>twice that of <span class=\"math\" data-latex=\"Y\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

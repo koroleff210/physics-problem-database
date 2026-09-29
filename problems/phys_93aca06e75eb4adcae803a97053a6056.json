@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_93aca06e75eb4adcae803a97053a6056",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following quantities determines the entropy of an ideal gas from a microscopic perspective?</p><ol class=\"mcq-options\"><li data-label=\"A\">The work done during expansion</li><li data-label=\"B\">The average kinetic energy per molecule</li><li data-label=\"C\">The number of microstates accessible to the system</li><li data-label=\"D\">The rate of energy transfer by conduction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

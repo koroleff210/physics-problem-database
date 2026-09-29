@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": null,
+  "id": "phys_87a7a1ecc98d46b09c7f21bf907f9670",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below lists the first four energy levels for an atom of a specific metallic vapor. When an electron in an excited state falls to a lower energy level, a photon is emitted.</p>\n<table><thead><tr><th>Quantum level (<span class=\"math\" data-latex=\"n\"></span>)</th><th>Energy / <span class=\"math\" data-latex=\"10^{-19} \\text{ J}\"></span></th></tr></thead><tbody><tr><td>1</td><td><span class=\"math\" data-latex=\"-20.4\"></span></td></tr><tr><td>2</td><td><span class=\"math\" data-latex=\"-12.1\"></span></td></tr><tr><td>3</td><td><span class=\"math\" data-latex=\"-7.5\"></span></td></tr><tr><td>4</td><td><span class=\"math\" data-latex=\"-4.6\"></span></td></tr></tbody></table>\n<p>An electron transition occurs that produces a photon with a frequency of approximately <span class=\"math\" data-latex=\"1.13 \\times 10^{15} \\text{ Hz}\"></span>. Which of the following transitions is responsible for this emission?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"n = 3 \\to n = 2\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"n = 4 \\to n = 3\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"n = 4 \\to n = 2\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"n = 2 \\to n = 1\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

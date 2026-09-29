@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/acef0cc71d42b6c897d19e9a921049efe8bed19a94483ddea39c49b355d4d1e9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "acef0cc71d42b6c897d19e9a921049efe8bed19a94483ddea39c49b355d4d1e9"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/822e8adb34da3f5c318b9d938c44020e5489c4289eb5343dc0e541e88bcbfa7b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "822e8adb34da3f5c318b9d938c44020e5489c4289eb5343dc0e541e88bcbfa7b"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/a7cfb4a46b2b3bd6b6135fa09c9226d1e898a7d1200e7683ce831f0c640397c6.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "a7cfb4a46b2b3bd6b6135fa09c9226d1e898a7d1200e7683ce831f0c640397c6"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_47eceadabc184d629c3fc4577ed62e04",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Plots missing point correctly on graph to within half a square (6.5 × 10<sup>4</sup>, 10.3 × 10<sup>4</sup>) ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Clear, straight single line, drawn with ruler, points balanced about line ✓</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>ALTERNATIVE 1<br/>Evaluate PV for each data point OR any statement to that effect ✓<br/>these should be same ✓<br/>Could be roughly the same/within experimental error/some consistent comment about variation of data ✓ ALTERNATIVE 2<br/>Graph is a straight line/slope is constant/relationship is linear ✓<br/>Use data to produce value for intercept ✓<br/>This should be at/close to origin for relationship to be correct ✓ ALTERNATIVE 3<br/>Graph is a straight line/slope is constant/relationship is linear ✓<br/>Replot graph on larger axes ✓<br/>To see if graph goes through/is close to origin ✓ <br/>The question does not require calculation, but accept explanation through calculations. Accept Alternative 3 in the form of graph.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Use two points on line to determine the slope OR Attempts to evaluate PV for each data point and then average OR Uses minimum of two data point on line and evaluates PV for each with average ✓ 1.56 J ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Joule/J/kgm<sup>2</sup>s<sup>−2</sup>/Pam<sup>3</sup>/Nm ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>«<span class=\"math\" data-latex=\"N=\\frac{K}{k_{B}T}=\\frac{1.59}{1.38\\times 10^{-23}\\times 291}\"></span> so» <span class=\"math\" data-latex=\"N=3.96\\times 10^{20}\"></span> ✓   Allow use of <span class=\"math\" data-latex=\"N=\\frac{PV}{k_{B}T}\"></span>, where <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"V\"></span> are taken from graph.</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<section class=\"context\"><p>The equation <span class=\"math\" data-latex=\"PV=Nk_{B}T\"></span> describes the behaviour of an ideal gas.</p>\n<p>A student tests a fixed mass of gas to confirm that, for a constant temperature,</p>\n<p><span class=\"math\" data-latex=\"PV=K\"></span></p>\n<p>where <span class=\"math\" data-latex=\"K\"></span> is a constant.</p>\n<p>The student does this by making measurements of <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p>Five sets of data for this experiment are shown in the table. Four processed values of <span class=\"math\" data-latex=\"\\frac{1}{V}\"></span> are also shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The variation of <span class=\"math\" data-latex=\"P\"></span> with <span class=\"math\" data-latex=\"\\frac{1}{V}\"></span> is shown for four data points.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Plot the missing data point on the graph. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Draw the best-fit line on the graph. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Explain how the student can use the graph to decide whether the data support the relationship PV = K. [3]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Determine K. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> State an appropriate SI unit for K. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The laboratory is at a constant temperature of 291 K.</p>\n<p>Determine the number of molecules in the fixed mass of gas.</p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

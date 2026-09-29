@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_b40e6f02e1b74569b11160730c827aac",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting ring encloses an area of 2.0 cm<sup>2</sup> and is perpendicular to a magnetic field of strength 5.0 mT. The direction of the magnetic field is reversed in a time 4.0 s. What is the average emf induced in the ring?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0</li><li data-label=\"B\">0.25 μV</li><li data-label=\"C\">0.40 μV</li><li data-label=\"D\">0.50 μV</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

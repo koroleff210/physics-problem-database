@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/382dd9b503e94c8719787c68d2e90a8439643bfb8ed500204a1d8662d4aa45fb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "382dd9b503e94c8719787c68d2e90a8439643bfb8ed500204a1d8662d4aa45fb"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/fd837f6f0ee021b490b871bc43ffbbb6991229d550958241356b4a1d68291077.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fd837f6f0ee021b490b871bc43ffbbb6991229d550958241356b4a1d68291077"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_fc749067ba62415281ad3f740130fcf0",
+  "level": "sl",
+  "marks": 13,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"mg\\times 0.15=\\frac{1}{2}mv^{2}\"></span> ✔ <span class=\"math\" data-latex=\"v=\\sqrt{2\\times 9.81\\times 0.15}\"></span> OR <span class=\"math\" data-latex=\"1.72\"></span> «m s<sup>−1</sup>» ✔ <br/>Award MP1 for recognition that KE of car at P is GPE lost. Do not award MP1 for answers based on suvat equations. MP2 can still be awarded for a correct answer.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"N+mg=\\frac{mv^{2}}{r}\"></span> ✔ <span class=\"math\" data-latex=\"N=0.12\\times \\frac{1.72^{2}}{0.15}-9.81\"></span> ✔ <span class=\"math\" data-latex=\"N=1.2\"></span> «N» ✔ <br/>Allow 1.1 or 1.2 depending on g and rounding of v. Award [0] for answers based on N = W.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>ALTERNATIVE 1<br/>the normal force is greater than zero ✔ ALTERNATIVE 2<br/>minimum speed at <span class=\"math\" data-latex=\"P=\\sqrt{9.81\\times 0.15}=1.2\"></span> «m s<sup>−1</sup>» AND actual speed is greater ✔<br/><br/> Do not accept a statement of the value of N e.g. N = 1.2 «N».</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>ALTERNATIVE 1<br/><span class=\"math\" data-latex=\"mg\\times 0.45=\\frac{1}{2} mv^{2}\"></span> ✔ <span class=\"math\" data-latex=\"v=\"></span>«<span class=\"math\" data-latex=\"\\sqrt{2\\times 9.81\\times 0.45}\"></span>» <span class=\"math\" data-latex=\"=3.0\"></span> «m s<sup>−1</sup>» ✔<br/> ALTERNATIVE 2<br/>0.12 × <span class=\"math\" data-latex=\"v\"></span> = (0.12 + 0.18) × 1.2 ✔ <span class=\"math\" data-latex=\"v\"></span> = 3.0 «m s<sup>−1</sup>» ✔<br/><br/> Do not award BCA. For ALT1 award MP1 for recognition that KE of car at P is GPE lost. For ALT1 do not award MP1 for answers based on suvat equations. MP2 can still be awarded for a correct answer.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1<br/>rate of change of momentum is the net force ✔ <span class=\"math\" data-latex=\"Fd=\\frac{1}{2}m_{1}+m_{2}u^{2}\"></span><sup> </sup>✔ <span class=\"math\" data-latex=\"F=\"></span>«<span class=\"math\" data-latex=\"\\frac{0.30\\times 1.2^{2}}{2\\times 0.20}=\"></span>» <span class=\"math\" data-latex=\"1.08≈1.1\"></span> «N» ✔<br/><br/> ALTERNATIVE 2<br/>rate of change of momentum is the net force ✔ <span class=\"math\" data-latex=\"a=\"></span>«<span class=\"math\" data-latex=\"\\frac{u^{2}}{2d}=\\frac{1.2^{2}}{2\\times 0.20}=\"></span>»<span class=\"math\" data-latex=\"3.6\"></span> «m s<sup>−2</sup>» ✔ <span class=\"math\" data-latex=\"F\"></span> = «<span class=\"math\" data-latex=\"ma\"></span> = 0.30 × 3.6 =»1.08 ≈ 1.1 «N» ✔ <br/>ALTERNATIVE 3<br/><span class=\"math\" data-latex=\"t=\\frac{2\\times 0.2}{1.2}\"></span> OR <span class=\"math\" data-latex=\"0.333\"></span> «s» ✔ <span class=\"math\" data-latex=\"Δ p\"></span>= (0.18 + 0.12) × 1.2 OR 0.36 «Ns» ✔ <span class=\"math\" data-latex=\"F\"></span> «<span class=\"math\" data-latex=\"= \\frac{Δ p}{Δ t} = \\frac{0.36}{0.333} =\"></span>» <span class=\"math\" data-latex=\"1.1\"></span> «N» ✔ <br/>Do not award BCA. MP1 can be awarded if an equation stated implies that force is rate of change of momentum or the final answer is clearly a force.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p><span class=\"math\" data-latex=\"μ=\"></span>«<span class=\"math\" data-latex=\"\\frac{F}{m_{1}+m_{2}g}=\"></span>»<span class=\"math\" data-latex=\"\\frac{1.08}{0.30\\times 9.81}\"></span> ✔ <span class=\"math\" data-latex=\"μ\"></span> = 0.367 ≈ 0.37 ✔ <br/>Allow ECF from (bii).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>In a “loop-the-loop” toy, a car of mass 0.12 kg is released from rest. The initial position of the car is 45 cm above level ground. The radius of the circular loop is 15 cm. The car reaches the top of the loop at position P. Frictional and air resistance forces are negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Show that the speed of the car at P is 1.7 m s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Determine the normal force exerted by the loop on the car at P. [3]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> State why the car stays in contact with the loop. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>At point A the car collides with a block of mass 0.18 kg and sticks to it. After the collision, the car and the block move together with speed 1.2 m s<sup>−1</sup>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the speed of the car just before it collides with the block. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The surface from A to B is rough and the combined car and block come to rest at B. The distance AB is 0.20 m. Determine the rate of change of momentum of the combined car and block from A to B. [3]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Calculate the dynamic coefficient of friction between the rough surface and the combined car and block. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_8bdc792d900245458468b20381107aed",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- As the temperature increases, the pressure increases. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Increasing temperature increases the average kinetic energy of molecules. [1 mark]<br/>- This leads to more frequent and more forceful collisions with the container walls, increasing pressure. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- All values correctly converted by adding 273: 273, 293, 313, 333, 353, 373 [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Axes labeled with units and linear scale. [1 mark]<br/>- Accurate plotting of points; line of best fit drawn. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- The linear graph suggests pressure is directly proportional to temperature in Kelvin. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- Extrapolate from graph to get <span class=\"math\" data-latex=\"P \\approx 145 \\mathrm{kPa}\"></span>. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"g\"><p><strong>g</strong></p><p>- Temperature may not be uniform inside the container. [1 mark]<br/>- Leads to inaccurate pressure readings if the gas is not fully equilibrated. [1 mark]</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<p>A student investigates how the pressure of a fixed amount of gas changes with temperature at constant volume. The gas is sealed in a rigid metal container. A pressure sensor is used to measure the pressure as the container is gradually heated. The student records the pressure for different temperatures.</p><table><thead><tr><th>Temperature <span class=\"math\" data-latex=\"T\\left({ }^{\\circ} \\mathrm{C}\\right)\"></span></th><th>Pressure <span class=\"math\" data-latex=\"P(\\mathrm{kPa})\"></span></th></tr></thead><tbody><tr><td>0</td><td>100</td></tr><tr><td>20</td><td>107</td></tr><tr><td>40</td><td>114</td></tr><tr><td>60</td><td>121</td></tr><tr><td>80</td><td>128</td></tr><tr><td>100</td><td>135</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Describe the trend shown by the data.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain, using kinetic theory, why the pressure of a gas increases with temperature at constant volume.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Convert the temperatures to Kelvin and complete the following table.<p>[1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Sketch a graph of pressure <span class=\"math\" data-latex=\"P\"></span> against absolute temperature <span class=\"math\" data-latex=\"T\"></span> (in K).<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>What does the shape of the graph suggest about the relationship between pressure and temperature?<p>[1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> </p>Use the graph to estimate the pressure at <span class=\"math\" data-latex=\"T=400 \\mathrm{~K}\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"g\"><p><strong>g</strong> </p>Suggest one source of uncertainty or limitation in this experiment and explain its effect.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

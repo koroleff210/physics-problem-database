@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a97876311ad74d66ab27e8e170af8ea2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The peak wavelength emitted by a black body at temperature <span class=\"math\" data-latex=\"T\"></span> is <span class=\"math\" data-latex=\"\\lambda\"></span>.</p>\n<p>What is true about the relationship between <span class=\"math\" data-latex=\"T\"></span> and <span class=\"math\" data-latex=\"\\lambda\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\lambda\"></span> is proportional to <span class=\"math\" data-latex=\"T\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\lambda\"></span> is proportional to <span class=\"math\" data-latex=\"T^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\lambda\"></span> is proportional to <span class=\"math\" data-latex=\"T^{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\lambda\"></span> is proportional to <span class=\"math\" data-latex=\"T^{-2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

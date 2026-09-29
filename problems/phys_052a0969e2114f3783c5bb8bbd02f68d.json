@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9724af97a822845e1366ef94e7d57372ca773752d4bc25aaba4bfadbdda42e24.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9724af97a822845e1366ef94e7d57372ca773752d4bc25aaba4bfadbdda42e24"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_052a0969e2114f3783c5bb8bbd02f68d",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Gravitational field strength (<span class=\"math\" data-latex=\"g\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Gravitational potential is defined as zero at infinity [1 mark]<br/>- Since the gravitational force is attractive, work must be done by an external agent to move a mass from the surface to infinity (or work is done by the field when bringing a mass from infinity), resulting in a negative potential energy relative to infinity. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Use the expression for gravitational potential: <span class=\"math\" data-latex=\"V = -\\dfrac{GM}{r}\"></span> [1 mark]<br/>- Rearrange and substitute known values: <span class=\"math\" data-latex=\"M = \\dfrac{|V|r}{G} = \\dfrac{2.8 \\times 10^6 \\times 1.8 \\times 10^6}{6.67 \\times 10^{-11}}\"></span> [1 mark]<br/>- Calculate the final mass: <span class=\"math\" data-latex=\"M \\approx 7.6 \\times 10^{22} \\text{ kg}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows the variation of gravitational potential <span class=\"math\" data-latex=\"V\"></span> with distance <span class=\"math\" data-latex=\"r\"></span> from the center of a small moon. The radius of the moon is <span class=\"math\" data-latex=\"R = 1.8 \\times 10^6 \\text{ m}\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the physical quantity that is represented by the magnitude of the gradient of this graph at any distance <span class=\"math\" data-latex=\"r &gt; R\"></span>.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain, in terms of the work done by or against the gravitational field, why gravitational potential has a negative value at the surface of the moon.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Using the graph, where the potential at the surface (<span class=\"math\" data-latex=\"r = 1.8 \\times 10^6 \\text{ m}\"></span>) is approximately <span class=\"math\" data-latex=\"-2.8 \\times 10^6 \\text{ J kg}^{-1}\"></span>, calculate the mass of the moon.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

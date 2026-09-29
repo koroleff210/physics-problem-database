@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_f04057a9fad547e39c237692fb8272f5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement is true about the resistance of a filament lamp as it operates at higher voltage?</p><ol class=\"mcq-options\"><li data-label=\"A\">It decreases due to increased drift speed.</li><li data-label=\"B\">It remains constant as it is an ohmic component.</li><li data-label=\"C\">It increases due to rising temperature.</li><li data-label=\"D\">It decreases because current increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

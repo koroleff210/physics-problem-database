@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_5f8377885bb34de8a67373d1b1c23bb2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When the peak wavelength of the radiation emitted by a black body is <span class=\"math\" data-latex=\"\\lambda\"></span>, its temperature is <span class=\"math\" data-latex=\"T\"></span>, and the power radiated by the black body is <span class=\"math\" data-latex=\"P\"></span>. What is the temperature and the power radiated by the black body when the peak wavelength is <span class=\"math\" data-latex=\"2\\lambda\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Temperature</strong></p>\n</td>\n<td>\n<p><strong>Power radiated</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{T}{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{P}{16}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"2T\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{P}{16}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\frac{T}{2}\"></span></td>\n<td><span class=\"math\" data-latex=\"16P\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"2T\"></span></td>\n<td><span class=\"math\" data-latex=\"16P\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

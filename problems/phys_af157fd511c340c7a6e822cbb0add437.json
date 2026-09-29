@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7a4214c00a04677db03ea78101033014611e3badd5dc1afb4ee3eb74157a9109.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7a4214c00a04677db03ea78101033014611e3badd5dc1afb4ee3eb74157a9109"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_af157fd511c340c7a6e822cbb0add437",
+  "level": "sl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Zero / <span class=\"math\" data-latex=\"0 \\text{ m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Consider vertical motion with <span class=\"math\" data-latex=\"u_y = 0\"></span>:</p>\n<p><span class=\"math\" data-latex=\"h = u_y t + \\frac{1}{2}gt^2 \\implies h = \\frac{1}{2}gt^2\"></span> [1 mark]</p>\n<p>Solving for <span class=\"math\" data-latex=\"t\"></span>:</p>\n<p><span class=\"math\" data-latex=\"t = \\sqrt{\\frac{2h}{g}}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"t = \\sqrt{\\frac{2 \\times 32}{9.8}}\"></span> [1 mark]</p>\n<p><span class=\"math\" data-latex=\"t = 2.55 \\text{ s}\"></span> (accept <span class=\"math\" data-latex=\"2.6 \\text{ s}\"></span> or <span class=\"math\" data-latex=\"2.56 \\text{ s}\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Diagram showing:<br/>- Horizontal vector <span class=\"math\" data-latex=\"v_x\"></span> pointing right [1 mark]<br/>- Vertical vector <span class=\"math\" data-latex=\"v_y\"></span> pointing downward [1 mark]<br/>- Resultant vector <span class=\"math\" data-latex=\"v\"></span> acting at an angle between <span class=\"math\" data-latex=\"v_x\"></span> and <span class=\"math\" data-latex=\"v_y\"></span> forming a vector triangle or rectangle [1 mark]</p>\n<p>Note: Length of <span class=\"math\" data-latex=\"v_x\"></span> should be constant; <span class=\"math\" data-latex=\"v_y\"></span> should be approximately half its final impact length.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Horizontal distance <span class=\"math\" data-latex=\"D = v_x t\"></span> [1 mark]</p>\n<p>Substitute expression for <span class=\"math\" data-latex=\"t\"></span> from part (b):</p>\n<p><span class=\"math\" data-latex=\"D = v_x \\sqrt{\\frac{2h}{g}}\"></span> [1 mark]</p>\n<p>Rearrange for <span class=\"math\" data-latex=\"v_x\"></span>:</p>\n<p><span class=\"math\" data-latex=\"v_x = D \\sqrt{\\frac{g}{2h}}\"></span> [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A ball is kicked horizontally off the edge of a vertical cliff of height <span class=\"math\" data-latex=\"h\"></span> with an initial horizontal velocity <span class=\"math\" data-latex=\"v_x\"></span>, as shown in the diagram. The ball follows a parabolic trajectory and lands on a horizontal surface at a distance <span class=\"math\" data-latex=\"D\"></span> from the base of the cliff. Air resistance is negligible.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the initial value of the vertical component of the ball's velocity. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Derive an expression for the time <span class=\"math\" data-latex=\"t\"></span> the ball takes to reach the ground in terms of <span class=\"math\" data-latex=\"h\"></span> and <span class=\"math\" data-latex=\"g\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the time of flight for a ball projected from a cliff with a height <span class=\"math\" data-latex=\"h = 32 \\text{ m}\"></span>. Take <span class=\"math\" data-latex=\"g = 9.8 \\text{ m s}^{-2}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Draw a vector diagram showing the velocity of the ball and its horizontal and vertical components at the instant it is halfway (in terms of time) through its flight. Label the resultant velocity <span class=\"math\" data-latex=\"v\"></span>, the horizontal component <span class=\"math\" data-latex=\"v_x\"></span>, and the vertical component <span class=\"math\" data-latex=\"v_y\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Determine an expression for the initial horizontal speed <span class=\"math\" data-latex=\"v_x\"></span> in terms of <span class=\"math\" data-latex=\"D\"></span>, <span class=\"math\" data-latex=\"h\"></span>, and <span class=\"math\" data-latex=\"g\"></span>. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

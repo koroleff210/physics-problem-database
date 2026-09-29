@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/71d5afc735736f798bd8f72ba144dfce10b20a3b9b80389803ab22efc2754502.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "71d5afc735736f798bd8f72ba144dfce10b20a3b9b80389803ab22efc2754502"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_a355b8dd24fb4d3084e50a33448a4682",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the pressure of an ideal gas varies with its volume during change AB.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Change AB is</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">adiabatic.</li>\n<li data-label=\"B\">isothermal.</li>\n<li data-label=\"C\">isovolumetric.</li>\n<li data-label=\"D\">isobaric.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

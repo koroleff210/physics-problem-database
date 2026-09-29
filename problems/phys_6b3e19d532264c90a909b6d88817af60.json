@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_6b3e19d532264c90a909b6d88817af60",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student notices that a metal spoon feels much colder to the touch than a wooden spoon, even though both have been left in a room at <span class=\"math\" data-latex=\"20^{\\circ}\\text{C}\"></span> for several hours.</p>\n<p>Which statement correctly explains why the metal spoon transfers thermal energy away from the student's hand more rapidly than the wooden spoon?</p><ol class=\"mcq-options\"><li data-label=\"A\">Metal atoms are more closely packed, allowing for faster transfer of vibrations through the lattice.</li><li data-label=\"B\">Metals have a much lower specific heat capacity, so they require less energy to increase in temperature.</li><li data-label=\"C\">Metals contain delocalized electrons that move freely through the structure and transfer energy via collisions.</li><li data-label=\"D\">Metals are better emitters of infrared radiation than wood, which increases the rate of energy loss to the surroundings.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

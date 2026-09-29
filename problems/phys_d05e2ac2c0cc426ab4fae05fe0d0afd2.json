@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d05e2ac2c0cc426ab4fae05fe0d0afd2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student mixes two different liquids, X and Y, inside an insulated calorimeter. The properties of each liquid are provided in the table below.</p>\n<table><thead><tr><th>Liquid</th><th>Mass</th><th>Specific heat capacity</th><th>Initial temperature</th></tr></thead><tbody><tr><td>X</td><td><span class=\"math\" data-latex=\"m\"></span></td><td><span class=\"math\" data-latex=\"c\"></span></td><td><span class=\"math\" data-latex=\"60\\text{ }^\\circ\\text{C}\"></span></td></tr><tr><td>Y</td><td><span class=\"math\" data-latex=\"2m\"></span></td><td><span class=\"math\" data-latex=\"2c\"></span></td><td><span class=\"math\" data-latex=\"10\\text{ }^\\circ\\text{C}\"></span></td></tr></tbody></table>\n<p>What is the final temperature of the mixture when it reaches thermal equilibrium?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"20\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"25\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"35\\text{ }^\\circ\\text{C}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"40\\text{ }^\\circ\\text{C}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_906cfd018c7e4df1930454f7a2debc84",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"17a\"><p><strong>17a</strong></p><p></p>\n<p>The minimum speed required to escape the gravitational pull of a planet’s gravitational field.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17b\"><p><strong>17b</strong></p><p></p>\n<p>Rearranging and substituting the equation <span class=\"math\" data-latex=\"\\frac{v^{2}}{r} = \\frac{4 \\pi^{2}r}{T^{2}}\"></span> to find orbital speed:</p>\n<p><span class=\"math\" data-latex=\"v_{o} = \\frac{2 \\pi \\times (4 \\times 10^{8})}{31 \\times 24 \\times 60 \\times 60} \\approx 938\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Using the orbital speed equation to find the mass of the planet:</p>\n<p><span class=\"math\" data-latex=\"M = \\frac{938^{2} \\times (4 \\times 10^{8})}{6.67 \\times 10^{-11}} \\approx 5.28 \\times 10^{24}\"></span> kg</p>\n<p>Using the escape speed equation:</p>\n<p><span class=\"math\" data-latex=\"v_{e} = \\sqrt{\\frac{2 \\times (6.67 \\times 10^{-11}) \\times (5.28 \\times 10^{24})}{7 \\times 10^{6}}} \\approx 10031\"></span> m s<span class=\"math\" data-latex=\"^{-1} \\approx 10\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17c\"><p><strong>17c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}mv^{2} = \\frac{GMm}{10^{7}}\"></span></p>\n<p>Simplifying and rearranging for <span class=\"math\" data-latex=\"v\"></span>:</p>\n<p><span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2GM}{10^{7}}} \\approx 4.47 \\times 10^{-4} \\times \\sqrt{GM}\"></span> </p>\n<p><span class=\"math\" data-latex=\"v_{e} = \\sqrt{\\frac{2GM}{7 \\times 10^{6}}} \\approx 5.35 \\times 10^{-4} \\times \\sqrt{GM}\"></span></p>\n<p><span class=\"math\" data-latex=\"v &lt; v_{e}\"></span>, so the rocket cannot escape the planet’s gravitational field. </p>\n<p>(Other solutions are possible, for example, calculating the initial speed of the rocket, using the mass of the planet found in question part (a)(ii).)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17d\"><p><strong>17d</strong></p><p></p>\n<p>Total energy at launch = Total energy in orbit</p>\n<p><span class=\"math\" data-latex=\"-\\frac{GMm}{7 \\times 10^{6}} + \\frac{GMm}{10^{7}} = -\\frac{GMm}{2R}\"></span></p>\n<p>Solving for <span class=\"math\" data-latex=\"R\"></span> (by hand or by using your calculator):</p>\n<p><span class=\"math\" data-latex=\"R \\approx 1.17 \\times 10^{7}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"h = 1.17 \\times 10^{7} - 7 \\times 10^{6} = 4.7 \\times 10^{6}\"></span> m</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A moon orbits planet X at a distance of <span class=\"math\" data-latex=\"4 \\times 10^{5}\"></span> km from the centre of the planet. It takes the moon <span class=\"math\" data-latex=\"31\"></span> days to complete one full revolution about the planet. The mass of the planet is <span class=\"math\" data-latex=\"M\"></span> and the radius of the planet is <span class=\"math\" data-latex=\"7 \\times 10^{6}\"></span> m.</p>\n<p></p>\n<p>a. Outline what is meant by escape speed.</p>\n<p>  [1]</p>\n<p>b. Calculate the escape speed from Planet X.</p>\n<p>  [4]</p>\n<p>c. A rocket of mass <span class=\"math\" data-latex=\"m\"></span> is launched from the surface of the planet. The kinetic energy of the rocket at the moment when it is launched is <span class=\"math\" data-latex=\"\\frac{GMm}{10^{7}}\"></span> J. Show that the rocket cannot escape the planet’s gravitational field.</p>\n<p>  [3]</p>\n<p>d. The rocket enters a circular orbit at a distance <span class=\"math\" data-latex=\"h\"></span> from the surface of the planet. The total energy of the rocket when it is in orbit is <span class=\"math\" data-latex=\"- \\frac{GMm}{2R}\"></span> where <span class=\"math\" data-latex=\"R\"></span> is the orbital radius. Find <span class=\"math\" data-latex=\"h\"></span>.</p>\n<p>  [3]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

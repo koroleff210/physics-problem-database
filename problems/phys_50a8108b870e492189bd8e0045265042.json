@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0006a5ed1262b34964458cefdf06ce7dcf5139af0f8b92e3dea5fc6986f8b16b.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0006a5ed1262b34964458cefdf06ce7dcf5139af0f8b92e3dea5fc6986f8b16b"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_50a8108b870e492189bd8e0045265042",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The total initial momentum of the system is zero, as the momentum of block P (m * 2v) is equal and opposite to the momentum of block Q (2m * -v). By conservation of momentum, the total final momentum must also be zero. Since the collision is elastic, kinetic energy is conserved, so the blocks cannot come to rest. Therefore, they must move in opposite directions after the collision.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks, P and Q, have mass <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"2m\"></span> and speed <span class=\"math\" data-latex=\"2v\"></span> and <span class=\"math\" data-latex=\"v\"></span> respectively. They move in opposite directions on a frictionless surface as shown. They collide elastically.</p>\n<p>Which statement correctly describes the movements of blocks P and Q after the collision?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> P and Q stop.</li>\n<li data-label=\"B\"> P moves to the left and Q stops.</li>\n<li data-label=\"C\"> P moves to the left and Q moves to the right.</li>\n<li data-label=\"D\"> P and Q move to the left with different speeds.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

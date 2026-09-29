@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5d7fc1ffa2a04afcaafe5b3a770beb400a45a955462701ec6742d04c8dedc59d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5d7fc1ffa2a04afcaafe5b3a770beb400a45a955462701ec6742d04c8dedc59d"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_40940d0838ab4931a75e183ccdb1922d",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a\"><p><strong>13a</strong></p><p>Using the moment of inertia formula, we get that for the rotating system:</p>\n<p><span class=\"math\" data-latex=\"I = m \\times L^{2} + 5m \\times \\left ( \\frac{L}{2} \\right )^{2} = mL^{2} + \\frac{5mL^{2}}{4} = \\frac{9mL^{2}}{4}\"></span></p>\n<p>Substituting into the angular momentum formula, gives us that:</p>\n<p><span class=\"math\" data-latex=\"L = \\frac{9mL^{2}\\omega}{4}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b(i)\"><p><strong>13b(i)</strong></p><p>The angular momentum of the system before the small object sticks to the rod is <span class=\"math\" data-latex=\"mvL\"></span>.</p>\n<p>Angular momentum is conserved, so we can write that:</p>\n<p><span class=\"math\" data-latex=\"\\frac{9mL^{2}\\omega}{4} = mvL\"></span></p>\n<p>Simplifying and solving for <span class=\"math\" data-latex=\"\\omega\"></span>, gives us that:</p>\n<p><span class=\"math\" data-latex=\"\\omega = \\frac{4v}{9L}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b(ii)\"><p><strong>13b(ii)</strong></p><p>The total energy of the system before the small object sticks to the rod is equal to the translational kinetic energy of the small object:</p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{before}} = \\frac{1}{2}mv^{2}\"></span></p>\n<p>The total energy of the system after the small object sticks to the rod is equal to the rotational kinetic energy of the system, which we can calculate using the formula <span class=\"math\" data-latex=\"E_{k} = \\frac{1}{2}I\\omega^{2}\"></span>.</p>\n<p>Using what we found earlier for <span class=\"math\" data-latex=\"I\"></span> and for <span class=\"math\" data-latex=\"\\omega\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{after}} = \\frac{1}{2}\\left ( \\frac{9mL^{2}}{4} \\right )\\left ( \\frac{4v}{9L} \\right )^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{after}} = \\frac{1}{2}\\left ( \\frac{9mL^{2}}{4} \\right )\\left ( \\frac{4v}{9L} \\right )^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{after}} = \\left ( \\frac{9mL^{2}}{8} \\right )\\left ( \\frac{16v^{2}}{81L^{2}} \\right ) = \\frac{2mv^{2}}{9}\"></span></p>\n<p>Therefore the energy lost during the collision is:</p>\n<p><span class=\"math\" data-latex=\"E_{\\textup{lost}} = \\frac{mv^{2}}{2} - \\frac{2mv^{2}}{9} = \\frac{5mv^{2}}{18}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(i)\"><p><strong>13c(i)</strong></p><p>Using the expression from part (b) that we found for <span class=\"math\" data-latex=\"\\omega\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"\\omega = \\frac{4 \\times 5.1}{9 \\times 0.8} \\approx 2.83\\; \\textup{rad}\\, \\textup{s}^{-1}\"></span></p>\n<p>This is the initial angular velocity of the rotating system before it begins to decelerate.</p>\n<p>Substituting into the formula <span class=\"math\" data-latex=\"\\omega_{f} = \\omega_{i} + \\alpha t\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"0 = 2.83 + 12 \\alpha\"></span></p>\n<p>Solving for <span class=\"math\" data-latex=\"\\alpha\"></span> gives us that:</p>\n<p><span class=\"math\" data-latex=\"\\alpha \\approx -0.24\\; \\textup{rad}\\, \\textup{s}^{-2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(ii)\"><p><strong>13c(ii)</strong></p><p>Substituting into the formula <span class=\"math\" data-latex=\"\\theta = \\left ( \\frac{\\omega_{f} + \\omega_{i}}{2} \\right )t\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"\\theta = \\left ( \\frac{0 + 2.83}{2} \\right )(12) \\approx 17 \\; \\textup{rad}\"></span></p>\n<p>There are <span class=\"math\" data-latex=\"2 \\pi \\; \\textup{rad}\"></span> in a rotation, so the number of rotations completed by the system is:</p>\n<p><span class=\"math\" data-latex=\"\\frac{17}{2 \\pi} \\approx 2.7\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(iii)\"><p><strong>13c(iii)</strong></p><p>Using the formula <span class=\"math\" data-latex=\"\\tau = I \\alpha\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"\\tau = \\frac{9(0.35)(0.8)^{2}}{4} \\times 0.24 \\approx 0.12 \\; \\textup{N\\,m}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A thin rod of negligible mass and length <span class=\"math\" data-latex=\"L\"></span> is fixed to a frictionless horizontal tabletop at point <span class=\"math\" data-latex=\"A\"></span> and is free to rotate about <span class=\"math\" data-latex=\"A\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>Point mass <span class=\"math\" data-latex=\"M\"></span> is fixed to the rod at its centre. A small object of mass <span class=\"math\" data-latex=\"m\"></span> is fired at a right angle at the end of the rod that is free to rotate (point <span class=\"math\" data-latex=\"B\"></span>) and sticks to the rod. As a result, the rod begins to rotate with angular velocity <span class=\"math\" data-latex=\"\\omega\"></span>.</p>\n<p>(a)   Given that <span class=\"math\" data-latex=\"M = 5m\"></span>, show that the angular momentum of the system is <span class=\"math\" data-latex=\"\\frac{9mL^{2}\\omega}{4}\"></span>.</p>\n<p> [2]</p>\n<p>(b)   The speed of the small object right before it sticks to the rod is <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>(i)   Show that <span class=\"math\" data-latex=\"\\omega = \\frac{4v}{9L}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   Hence find an expression for the energy lost during the collision in terms of <span class=\"math\" data-latex=\"m\"></span> and <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p>  [3]</p>\n<p>(c)   Consider the case when the length of the rod is <span class=\"math\" data-latex=\"80\\; \\textup{cm}\"></span> and the mass of the small object is <span class=\"math\" data-latex=\"0.35\\; \\textup{kg}\"></span>. A constant torque, <span class=\"math\" data-latex=\"\\tau\"></span>, is applied to the system to bring it to rest in <span class=\"math\" data-latex=\"12\"></span> seconds.</p>\n<p>(i)   Given that <span class=\"math\" data-latex=\"v = 5.1\\; \\textup{m}\\, \\textup{s}^{-1}\"></span>, calculate the angular deceleration of the system.</p>\n<p>  [2]</p>\n<p>(ii)   Find the number of rotations completed by the system while it is decelerating.</p>\n<p>  [2]</p>\n<p>(iii)   Find <span class=\"math\" data-latex=\"\\tau\"></span>.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

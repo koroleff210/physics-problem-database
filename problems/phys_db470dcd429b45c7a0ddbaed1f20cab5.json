@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/391a0f4cc29f7e2e0a5e2caca96c5ce4b3be61e685d56b2aea037c23399517de.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "391a0f4cc29f7e2e0a5e2caca96c5ce4b3be61e685d56b2aea037c23399517de"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_db470dcd429b45c7a0ddbaed1f20cab5",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The nucleus of the isotope hydrogen-2 has a radius R and a density <span class=\"math\" data-latex=\"\\rho\"></span>.</p>\n<p>What are the approximate radius and density of a nucleus of oxygen-16?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

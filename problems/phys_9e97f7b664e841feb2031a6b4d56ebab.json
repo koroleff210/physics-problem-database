@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/98bf5a35de0474dede27a166e8f9b105ad5573bb93e5d23b2e090b6998145447.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98bf5a35de0474dede27a166e8f9b105ad5573bb93e5d23b2e090b6998145447"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/bfe6ad00073314f4bf450d6027ed3ad23db26b13d6ff5e5465f9aa448f7ec8eb.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bfe6ad00073314f4bf450d6027ed3ad23db26b13d6ff5e5465f9aa448f7ec8eb"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/d0ab6c5b1af5ac86408177452dce6a9bc7460d9fb6e78e7b91b173c584c98ad4.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d0ab6c5b1af5ac86408177452dce6a9bc7460d9fb6e78e7b91b173c584c98ad4"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_9e97f7b664e841feb2031a6b4d56ebab",
+  "level": "sl_hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a\"><p><strong>11a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p>Between <span class=\"math\" data-latex=\"t = 0\"></span> and <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> the source is not moving, so the detected frequency is equal to the emitted frequency.</p>\n<p>Between <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> and <span class=\"math\" data-latex=\"t = 8.0\\: \\textup{s}\"></span> the source is moving towards the stationary observer, so due to the Doppler effect the detected frequency is higher than the emitted frequency.</p>\n<p>Between <span class=\"math\" data-latex=\"t = 8.0\\: \\textup{s}\"></span> and <span class=\"math\" data-latex=\"t = 14\\: \\textup{s}\"></span> the source is moving away from the stationary observer, so due to the Doppler effect the detected frequency is lower than the emitted frequency.</p>\n<p>.</p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p>Calculating the speed of S:</p>\n<p><span class=\"math\" data-latex=\"v = \\frac{s}{t} = \\frac{78.2 \\times 10^{3}}{2} = 3.91\\times 10^{4}\\:\\textup{m\\,s}^{-1}\"></span></p>\n<p>Substituting into the Doppler effect formula for light:</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\Delta \\lambda}{604.558} = \\frac{3.91\\times 10^{4}}{3\\times 10^{8}}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\Delta \\lambda \\approx 0.079\\: \\textup{nm}\"></span></p>\n<p>Since S is moving away from the observer, the detected wavelength is longer than the emitted wavelength, therefore:</p>\n<p><span class=\"math\" data-latex=\"\\lambda_{\\textup{detected}} = 604.558 + 0.079 = 604.637\\: \\textup{nm}\"></span></p>\n<p>Using the wave speed equation and the speed of light in vacuum:</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{c}{\\lambda} = \\frac{3 \\times 10^{8}}{604.637 \\times 10^{-9}} \\approx 4.96 \\times 10^{14} \\approx 5.0 \\times 10^{14}\\: \\textup{Hz}\"></span></p>\n<p>.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows three wavefronts emitted by a stationary sound source S.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>An observer is standing at point O.</p>\n<p>At <span class=\"math\" data-latex=\"t = 0\"></span> the observer begins to measure the frequency of the sound wave from S. At <span class=\"math\" data-latex=\"t = 2.0\\: \\textup{s}\"></span> the sound source starts moving towards the observer at constant velocity. The diagram shows the position of S at <span class=\"math\" data-latex=\"t = 4.0\\: \\textup{s}\"></span>.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>(a)   Sketch, on the diagram, the wavefronts at <span class=\"math\" data-latex=\"t = 4.0\\: \\textup{s}\"></span>.</p>\n<p>  [2]</p>\n<p>At <span class=\"math\" data-latex=\"t = 8.0\\: \\textup{s}\"></span> S passes the observer and keeps moving at constant velocity for another <span class=\"math\" data-latex=\"6.0\\: \\textup{s}\"></span>.</p>\n<p>(b)   State and explain how the frequency detected by the observer varies between <span class=\"math\" data-latex=\"t = 0\"></span> and <span class=\"math\" data-latex=\"t = 14\\: \\textup{s}\"></span>.</p>\n<p>  [3]</p>\n<p>After S passes the observer, a light source is switched on at O that emits monochromatic light of wavelength <span class=\"math\" data-latex=\"604.558\\: \\textup{nm}\"></span>. </p>\n<p>(c)   Given that between <span class=\"math\" data-latex=\"t = 11\\: \\textup{s}\"></span> and <span class=\"math\" data-latex=\"t = 13\\: \\textup{s}\"></span> S travels a distance of <span class=\"math\" data-latex=\"78.2\\: \\textup{km}\"></span>, determine the frequency of the light as detected at S.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

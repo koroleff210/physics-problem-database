@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_88f4d0aea82d4cfa848fc36111ff4cdd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When monochromatic light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on a metal plate with work function <span class=\"math\" data-latex=\"\\Phi\"></span>, electrons are emitted from the surface of the plate.</p>\n<p>What is the maximum speed of the emitted electrons?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2(hc -  \\Phi \\lambda)}{\\lambda m_{e}}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2hc -  \\Phi \\lambda}{\\lambda m_{e}}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2(hc -  \\Phi)}{\\lambda m_{e}}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2hc -  \\Phi}{\\lambda m_{e}}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

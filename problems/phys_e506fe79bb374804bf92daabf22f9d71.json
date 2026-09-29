@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/51cad29a5b0e34008d3599c2acdfaa37c604d74a8508aafab2cb42bf51fce5e5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "51cad29a5b0e34008d3599c2acdfaa37c604d74a8508aafab2cb42bf51fce5e5"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/172c0a66b8a6d4c1ee4ecf8a357f71c4a6f4b76e58e6d45a42cbf1197865f32e.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "172c0a66b8a6d4c1ee4ecf8a357f71c4a6f4b76e58e6d45a42cbf1197865f32e"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e506fe79bb374804bf92daabf22f9d71",
+  "level": "hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"14a(i)\"><p><strong>14a(i)</strong></p><p> </p>\n<p>During an isobaric change the pressure of the gas remains constant.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14a(ii)\"><p><strong>14a(ii)</strong></p><p> </p>\n<p>During change PQ the volume of the gas decreases at a constant pressure, which means that the temperature of the gas decreases.</p>\n<p>Therefore during change PQ energy is not supplied to, but removed from the gas.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"14a(iii)\"><p><strong>14a(iii)</strong></p><p> </p>\n<p>Calculating the work done by the the gas:</p>\n<p><span class=\"math\" data-latex=\"W = P \\Delta V = (600 \\times 10^{3}) \\times (-2.0 \\times 10^{-3}) = -1200\\:\\textup{J}\"></span></p>\n<p>(The value is negative, because work is done on the gas to compress it.)</p>\n<p>Calculating the change in the internal energy of the gas:</p>\n<p><span class=\"math\" data-latex=\"\\Delta U = \\frac{3}{2}nR\\Delta T = \\frac{3}{2}P\\Delta V = \\frac{3}{2} \\times  (600 \\times 10^{3}) \\times (-2.0 \\times 10^{-3}) = -1800\\:\\textup{J}\"></span></p>\n<p>Calculating the energy transferred during PQ:</p>\n<p><span class=\"math\" data-latex=\"Q = \\Delta U + W = -1800 + (-1200) = - 3000\\:\\textup{J}\"></span></p>\n<p>(The value is negative, because energy is removed from the gas.)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14b(i)\"><p><strong>14b(i)</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p>\n<p>(The curve must start at Q, end on the line PR, between zero pressure and R.)</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"14b(ii)\"><p><strong>14b(ii)</strong></p><p></p>\n<p>During an adiabatic change no energy is transferred between a system (so here, the gas) and its surroundings.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"14c\"><p><strong>14c</strong></p><p></p>\n<p>At P the pressure is <span class=\"math\" data-latex=\"3.0 \\times 10^{-3}\\:\\textup{m}^{3}\"></span>, while at Q it is <span class=\"math\" data-latex=\"1.0 \\times 10^{-3}\\:\\textup{m}^{3}\"></span>, so three times smaller than at P.</p>\n<p>Since the pressure of the gas is the same at P and Q, the temperature at Q must also be three times smaller than the temperature at P, so the temperature at Q is:</p>\n<p><span class=\"math\" data-latex=\"600\\:\\textup{K}\"></span></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"14d\"><p><strong>14d</strong></p><p> </p>\n<p>The volume of the gas is the same at P and at R.</p>\n<p>The pressure, therefore the temperature of the gas is greater at P than at R.</p>\n<p>A greater temperature means greater disorder, hence greater entropy, so the entropy of the gas is greater at P than at R.</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A fixed mass of monatomic ideal gas undergoes an isobaric change from P to Q, followed by an isothermal change from Q to R.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   </p>\n<p>(i)   Outline what is meant by isobaric change.</p>\n<p>  [1]</p>\n<p>(ii)   State and explain whether energy is supplied to the gas during change PQ.</p>\n<p>  [2]</p>\n<p>(iii)   Determine the energy transferred during change PQ.</p>\n<p>  [3]</p>\n<p>(b)   The gas undergoes an adiabatic change from Q to a state where the volume is <span class=\"math\" data-latex=\"3.0 \\times 10^{-3}\\:\\textup{m}^{3}\"></span>.</p>\n<p>(i)   On the graph, draw a line to represent this adiabatic change</p>\n<p>  [1]</p>\n<p>(ii)   Outline what is meant by adiabatic change.</p>\n<p>  [1]</p>\n<p>The temperature of the gas at P is <span class=\"math\" data-latex=\"1800\\:\\textup{K}\"></span>.</p>\n<p>(c)   Calculate the temperature of the gas at Q.</p>\n<p>  [1]</p>\n<p>(d)   State and explain whether the entropy of the gas is greater at P or R.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

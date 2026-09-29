@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_65af503b76054f82a7960b904b39b831",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Control rods in a nuclear power plant:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">reduce the number of neutrons that are available for further fission.</li>\n<li data-label=\"B\">convey energy from the reactor to the turbines.</li>\n<li data-label=\"C\">slow down neutrons.</li>\n<li data-label=\"D\">contain the reactor core.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

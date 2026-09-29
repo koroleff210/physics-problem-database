@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ad3b91c75b6144278317073da22e3d251cbd655cae9bb06d9fdd023132dedbc3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ad3b91c75b6144278317073da22e3d251cbd655cae9bb06d9fdd023132dedbc3"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_d10ffd43cd2d4d93a698eb35c0fb2f72",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass on the end of a string is rotating on a frictionless table in circular motion of radius R<sub>1</sub> and undergoes an angular displacement of θ in time t.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The string tension is kept constant, but the angular displacement of the mass is increased to 2θ in time t. The radius of the motion changes to R<sub>2</sub>.</p>\n<p>What is R<sub>2</sub>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{R_{1}}{4}\"></span></li><li data-label=\"B\">2R<sub>1</sub></li><li data-label=\"C\">4R<sub>1</sub></li><li data-label=\"D\">R<sub>1</sub> × R<sub>1</sub></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/22fe059b2f5238992b58ea3b1518c2bf168a5901eb6e65ac6011dc535516dedc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "22fe059b2f5238992b58ea3b1518c2bf168a5901eb6e65ac6011dc535516dedc"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_26207524fe664535bc1d4714d95900b5",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus of uranium undergoes fission.</p>\n<p><sup>235</sup><sub>92</sub>U+<sup>1</sup><sub>0</sub>n→<sup>141</sup><sub>56</sub>Ba+<sup>92</sup><sub>36</sub>Kr+3<sup>1</sup><sub>0</sub>n</p>\n<p>What is correct about the number of nucleons x in the <span class=\"math\" data-latex=\"Kr\"></span> nucleus and the ratio</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\textit{binding energy per nucleon of Kr}}{\\textit{binding energy per nucleon of Ba}}\"></span>?</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

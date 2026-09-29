@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_9cfcedfcd27a4e4e9613391c10e452c1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. A pipe closed at one end supports only odd harmonics (only odd multiples of the fundamental frequency).</p>\n<p>B: Correct. A pipe closed at one end has a displacement node at the closed end and an antinode at the open end, so only odd harmonics (odd multiples of the fundamental frequency) are present.</p>\n<p>C: Incorrect. All harmonics occur in an open-open pipe or a string fixed at both ends; a closed-open pipe restricts to odd harmonics.</p>\n<p>D: Incorrect. Higher resonant modes exist, but they are the odd harmonics (3rd, 5th, …), not just the fundamental.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a pipe closed at one end, what type of harmonics are possible?</p><ol class=\"mcq-options\"><li data-label=\"A\">Only even harmonics</li><li data-label=\"B\">Only odd harmonics</li><li data-label=\"C\">All harmonics</li><li data-label=\"D\">Only the fundamental</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

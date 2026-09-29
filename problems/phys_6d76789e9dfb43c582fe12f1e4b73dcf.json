@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/98c0144186f70018b2f8145e7252255546116fa334f4f4ec515dd0c7ae51f512.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98c0144186f70018b2f8145e7252255546116fa334f4f4ec515dd0c7ae51f512"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_6d76789e9dfb43c582fe12f1e4b73dcf",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three electron energy levels of a gas atom E<sub>0</sub>, E<sub>1</sub> and E<sub>2</sub> are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The following three claims are made about photons associated with these energy levels:</p>\n<p>I.  Transition from E<sub>2</sub> to E<sub>1</sub> will produce photons with the shortest wavelength.</p>\n<p>II.  Transition from E<sub>2</sub> to E<sub>0</sub> will produce photons with the highest frequency.</p>\n<p>III.  Three lines in the spectrum of this gas appear.</p>\n<p>Which statements are correct?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

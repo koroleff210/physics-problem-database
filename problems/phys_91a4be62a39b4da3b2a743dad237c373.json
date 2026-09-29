@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_91a4be62a39b4da3b2a743dad237c373",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Between the emission of successive wave crests, the train moves forward, which reduces the physical distance between the wavefronts in the direction of motion. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Rearrangement of <span class=\"math\" data-latex=\"f' = f \\left( \\frac{v}{v - v_s} \\right)\"></span> or substitution: <span class=\"math\" data-latex=\"660 = 600 \\left( \\frac{330}{330 - v_s} \\right)\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"1.1 = \\frac{330}{330 - v_s} \\Rightarrow 330 - v_s = 300\"></span><br/>- <span class=\"math\" data-latex=\"v_s = 30\\ \\text{m s}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>The observed frequency would drop/decrease (from <span class=\"math\" data-latex=\"660\\ \\text{Hz}\"></span> to a value below <span class=\"math\" data-latex=\"600\\ \\text{Hz}\"></span>). [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A high-speed train travels at a constant velocity toward a station platform where a stationary observer is standing. The train's whistle emits a sound of a constant frequency.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>In the context of the moving train, explain why the observer detects a shorter wavelength than the one emitted by the whistle.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The following data were recorded for the sound produced by the train as it approached the station:</p><table><thead><tr><th>Variable</th><th>Value</th></tr></thead><tbody><tr><td>Frequency of whistle (<span class=\"math\" data-latex=\"f\"></span>)</td><td><span class=\"math\" data-latex=\"600\\ \\text{Hz}\"></span></td></tr><tr><td>Frequency detected by observer (<span class=\"math\" data-latex=\"f'\"></span>)</td><td><span class=\"math\" data-latex=\"660\\ \\text{Hz}\"></span></td></tr><tr><td>Speed of sound in air (<span class=\"math\" data-latex=\"v\"></span>)</td><td><span class=\"math\" data-latex=\"330\\ \\text{m s}^{-1}\"></span></td></tr></tbody></table><p>Calculate the speed of the train, <span class=\"math\" data-latex=\"v_s\"></span>.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Describe the change in the frequency detected by the observer at the instant the train passes them and begins to move away.<p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

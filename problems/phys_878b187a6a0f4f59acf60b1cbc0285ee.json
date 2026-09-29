@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_878b187a6a0f4f59acf60b1cbc0285ee",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A flask contains <span class=\"math\" data-latex=\"500\"></span> g of a liquid. When energy is supplied to the flask using a heater with a power rating of <span class=\"math\" data-latex=\"200\"></span> W during a minute, the temperature of the flask and the liquid changes by <span class=\"math\" data-latex=\"20\"></span> K. When energy is supplied using the same heater to an identical flask containing <span class=\"math\" data-latex=\"1500\"></span> g of the same liquid, the heater must be used for two minutes to achieve the same temperature change. What is the specific heat capacity of the liquid?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.30\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.60\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"3.0\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"6.0\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

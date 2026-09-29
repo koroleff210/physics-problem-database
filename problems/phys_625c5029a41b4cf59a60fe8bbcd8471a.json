@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_625c5029a41b4cf59a60fe8bbcd8471a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: <span class=\"math\" data-latex=\"Q=It=(0.80)(20)=16\\ \\text{C}\"></span>. Number of electrons <span class=\"math\" data-latex=\"N=\\frac{Q}{e}=\\frac{16}{1.6\\times10^{-19}}=1.0\\times10^{20}\"></span>.</p>\n<p>B: Too small by a factor of <span class=\"math\" data-latex=\"20\"></span> compared with <span class=\"math\" data-latex=\"N=It/e\"></span> (e.g. using <span class=\"math\" data-latex=\"t=1\\ \\text{s}\"></span> or similar slip).</p>\n<p>C: Too small by a factor of <span class=\"math\" data-latex=\"10\"></span> compared with <span class=\"math\" data-latex=\"N=It/e\"></span> (power-of-ten slip).</p>\n<p>D: Too large by a factor of <span class=\"math\" data-latex=\"10\"></span> compared with <span class=\"math\" data-latex=\"N=It/e\"></span> (power-of-ten slip).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A steady current of <span class=\"math\" data-latex=\"0.80\\text{ A}\"></span> flows through a metal conductor. How many electrons pass through a point in the conductor during a time interval of <span class=\"math\" data-latex=\"20\\text{ s}\"></span>?</p>\n<p>(Elementary charge <span class=\"math\" data-latex=\"e = 1.6 \\times 10^{-19}\\text{ C}\"></span>)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^{20}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"5.0 \\times 10^{18}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^{19}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^{21}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

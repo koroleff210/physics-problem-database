@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f3e0278dd13d2fa53bbc5ebe28384969c13fc161a1c02b505e0549eedd652e89.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f3e0278dd13d2fa53bbc5ebe28384969c13fc161a1c02b505e0549eedd652e89"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/357c15570b44d758bd78f1c3de95bd4e3548add447fd0564c80adb93fbb07cc8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "357c15570b44d758bd78f1c3de95bd4e3548add447fd0564c80adb93fbb07cc8"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_c6a6f39082f342eda99c56669f0e133f",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>It is a ratio between two forces therefore units cancel out. OR μ = Ff/N, therefore units cancel out. ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>uses the static coefficient ✓ F = 0.36 × 1.2 × 9.8 = 0.36 × 11.76 OR F = 4.2 «N» ✓   Must see full substitution OR answer to 2 (or more) significant figures for MP2.</p>\n<p>A force of 14.0 N acts on the box for 0.35 m as shown. The force is then removed and the box continues to move. The box comes to rest after a further displacement d.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALT 1 F<sub>f</sub> = 0.28 × 1.2 × 9.8 = 3.29 «N» ✓ W done over 0.35 m = (14 − 3.29) × 0.35 = 3.75 «J» ✓ d = «3.75 J / 3.29 N = » 1.14 «m» ✓ ALT 2 a = (14 − 0.28 × 1.2 × 9.8)/1.2 = 8.92 «m s<sup>−2</sup>» ✓ v= <span class=\"math\" data-latex=\"\\sqrt{28.920.35}\"></span> = 2.50 «m s<sup>−1</sup>» ✓ d = «2.5<sup>2</sup>/(2 × 0.28 × 9.8) = » 1.14 «m» ✓   Allow ECF from MP1. Only award marks from one ALT.</p>\n<p>The box is now standing up. The height of the box is 15.0 cm and its base is 6.0 cm. A person pushes the box with an increasing force F at the top until the box tips about the corner V without sliding, as shown.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>ALT 1 <span class=\"math\" data-latex=\"τ\"></span> of F = F × 0.15 OR <span class=\"math\" data-latex=\"τ\"></span> of weight = 1.2 × 9.8 × 0.03 ✓ equals both to get F = 2.4 «N» ✓ ALT 2 <span class=\"math\" data-latex=\"τ\"></span> of F = F (.162)(sin 68) OR <span class=\"math\" data-latex=\"τ\"></span> of weight = (1.2)(9.8)(.162/2)(sin 22) ✓ equals both to get F = 2.4 «N» ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Because «static» friction has a «maximum» value greater than F ✓   Must see a comparison between F and friction (e.g. frictional force is larger than F).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A box of mass 1.2 kg is lying at rest on a surface. The coefficient of static friction between the box and the surface is 0.36 and the coefficient of dynamic friction between the box and the surface is 0.28.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline why the coefficients of friction have no units. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the minimum force needed to accelerate the box is about 4 N. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine d. [3]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Determine F. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Outline why the box does not slide. [1]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

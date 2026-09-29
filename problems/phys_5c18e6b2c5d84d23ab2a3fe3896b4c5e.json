@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5c18e6b2c5d84d23ab2a3fe3896b4c5e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An astronomical sensor detects an electromagnetic signal from a distant nebula with a frequency of <span class=\"math\" data-latex=\"6.0 \\times 10^{14}\"></span> Hz. To which part of the electromagnetic spectrum does this radiation belong?</p><ol class=\"mcq-options\"><li data-label=\"A\">Infrared</li><li data-label=\"B\">Microwave</li><li data-label=\"C\">Visible light</li><li data-label=\"D\">Ultraviolet</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

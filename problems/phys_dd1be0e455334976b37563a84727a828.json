@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 6,
+  "id": "phys_dd1be0e455334976b37563a84727a828",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\lambda=\\frac{c}{f}=\\frac{3.0 \\times 10^8}{5.00 \\times 10^{14}}=6.00 \\times 10^{-7} \\mathrm{~m}\"></span></p>\n<p>- Correct formula and substitution<br/>[1 mark]<br/>- Correct value with unit<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\lambda' = \\frac{c}{f'} = \\frac{3.0 \\times 10^8}{1.42 \\times 10^{14}} \\approx 2.11 \\times 10^{-6}\\ \\text{m}\"></span><br/>- Correct method [1 mark] and value [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The spacecraft is moving away from the observer, so the relative motion causes the observed wave crests to be more spread out (longer wavelength). [1 mark]<br/>- According to the relativistic Doppler effect, this results in a lower observed frequency (redshift), even though the speed of light remains constant in all inertial frames. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A spacecraft, while receding from Earth at <span class=\"math\" data-latex=\"0.85c\"></span>, emits light at a rest frequency of <span class=\"math\" data-latex=\"5.00 \\times 10^{14}\\ \\text{Hz}\"></span>. An Earth-based observer detects a redshifted signal. The frequency received on Earth is approximately <span class=\"math\" data-latex=\"1.42 \\times 10^{14}\\ \\text{Hz}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Determine the wavelength of the light as measured in the rest frame of the spacecraft. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the observed wavelength of the light on Earth. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain why the observed frequency on Earth is lower than the emitted frequency, even though the light travels at the same speed in all frames. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3163ea89cea2899acb60388f6417c1acb28ed53d335200799021e6de31bf2673.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3163ea89cea2899acb60388f6417c1acb28ed53d335200799021e6de31bf2673"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_bbe387b2bd774166b79cfad3f0c5c588",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>Any two of the following:</p>\n<p>Gas molecules are considered tiny, point-like particles that have the same mass.</p>\n<p>The volume of each molecule is negligible compared to the total volume of the gas.</p>\n<p>Intermolecular forces between the particles are negligible.</p>\n<p>The gas molecules only have kinetic energy.</p>\n<p>All collisions that take place are elastic.</p>\n<p>The duration of collisions is negligible compared to the time between collisions.</p>\n<p>At any moment, the number of molecules moving in one direction is the same as the number of molecules moving in any other direction.</p>\n<p>The effects of gravity are ignored.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p>If argon behaves as an ideal gas, then the ideal gas equation should work for this gas on the given temperature range. This means that at constant pressure <span class=\"math\" data-latex=\"\\frac{V}{T}\"></span> should be constant.</p>\n<p>Let’s pick two points from the graph to show this:</p>\n<p><span class=\"math\" data-latex=\"\\frac{15}{300} = 0.05\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{25}{500} = 0.05\"></span></p>\n<p>This means that argon behaves as an ideal gas on the given temperature range.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"n = \\frac{(1.3 \\times 10^{3})(15)}{(8.31)(300)} \\approx 7.82\"></span> moles</p>\n<p>The molar mass of argon-40 is <span class=\"math\" data-latex=\"40\"></span> grams, so the mass of the gas in the container is <span class=\"math\" data-latex=\"(7.82)(40) \\approx 313 \\approx 310\"></span> grams</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An expandable balloon is filled with a fixed mass of argon-40 gas. The pressure of the gas is maintained at <span class=\"math\" data-latex=\"1.3\"></span> kPa. The graph shows how the volume of the gas varies with temperature.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. State two assumptions of the kinetic model of an ideal gas.</p>\n<p>  [2]</p>\n<p>b. Explain why argon-40 behaves as an ideal gas for temperatures between <span class=\"math\" data-latex=\"20 \\:{} ^{\\circ}\"></span>C and <span class=\"math\" data-latex=\"70 \\:{} ^{\\circ}\"></span>C.</p>\n<p>  [2]</p>\n<p>c. Find the mass of the argon-40 gas in the balloon.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

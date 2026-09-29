@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3a507737e2b3671e6d5bdf539bfbc4e86e3812cff5f22cba025d335e02e8eb40.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3a507737e2b3671e6d5bdf539bfbc4e86e3812cff5f22cba025d335e02e8eb40"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_db4ee48447b54c01b077ea3593206f42",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>Let the sources be at positions x=0 and x=L. For a point at position x on the line between them, the path difference is |(L-x) - x| = |L-2x|. Destructive interference requires the path difference to be (n+1/2)λ. Since the wavelength λ=L, the condition is |L-2x| = (n+1/2)L. For n=0, this gives |L-2x|=L/2, which has two solutions: x=L/4 and x=3L/4. No other integer n gives solutions between 0 and L.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical sources emit sound of wavelength L in phase. The sources are separated by a distance equal to L.</p>\n<p>How many points of destructive interference are there on the line joining the sources?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> None</li>\n<li data-label=\"B\"> One</li>\n<li data-label=\"C\"> Two</li>\n<li data-label=\"D\"> Infinite</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

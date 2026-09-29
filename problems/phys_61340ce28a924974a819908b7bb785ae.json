@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": null,
+  "id": "phys_61340ce28a924974a819908b7bb785ae",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would be the result if the student mistakenly calculated the ratio of <span class=\"math\" data-latex=\"\\sqrt{\\frac{2}{8}}\"></span> instead of <span class=\"math\" data-latex=\"\\sqrt{\\frac{8}{2}}\"></span>.</p>\n<p>B: This assumes the orbital speed remains constant despite changes to the mass and radius.</p>\n<p>C: The orbital speed is given by <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{GM}{r}}\"></span>. For the second satellite, <span class=\"math\" data-latex=\"v' = \\sqrt{\\frac{G(8M)}{2r}} = \\sqrt{4 \\frac{GM}{r}} = 2\\sqrt{\\frac{GM}{r}} = 2v\"></span>.</p>\n<p>D: This would be the result if the student forgot to take the square root of the ratio <span class=\"math\" data-latex=\"\\frac{8}{2}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite orbits a planet of mass <span class=\"math\" data-latex=\"M\"></span> in a circular path of radius <span class=\"math\" data-latex=\"r\"></span> with speed <span class=\"math\" data-latex=\"v\"></span>. A second satellite orbits a different planet of mass <span class=\"math\" data-latex=\"8M\"></span> in a circular path of radius <span class=\"math\" data-latex=\"2r\"></span>. What is the orbital speed of the second satellite?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{v}{2}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"v\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2v\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4v\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

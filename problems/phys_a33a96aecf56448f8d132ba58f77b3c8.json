@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_a33a96aecf56448f8d132ba58f77b3c8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car is driving away from a stationary loudspeaker at a speed of 30 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The loudspeaker emits a sound of frequency 1000 Hz. The speed of sound in air is 330 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>What is the frequency of the sound heard by an observer traveling in the car?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{11000}{10}\"></span> Hz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{11000}{12}\"></span> Hz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{10000}{11}\"></span> Hz</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{12000}{11}\"></span> Hz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

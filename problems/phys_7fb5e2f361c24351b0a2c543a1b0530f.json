@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3c7671b85ef801815867e3cbbf2d9bd60b5fcf7b24adb04a8c4bb963c167ace1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3c7671b85ef801815867e3cbbf2d9bd60b5fcf7b24adb04a8c4bb963c167ace1"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_7fb5e2f361c24351b0a2c543a1b0530f",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sphere of mass <span class=\"math\" data-latex=\"m\"></span> and positive charge q is at rest midway between two horizontal parallel plates separated by a distance <span class=\"math\" data-latex=\"s\"></span>. The potential difference across the plates is <span class=\"math\" data-latex=\"V\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is q?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{s}{mgV}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{V}{mgs}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mgV}{s}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{mgs}{V}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

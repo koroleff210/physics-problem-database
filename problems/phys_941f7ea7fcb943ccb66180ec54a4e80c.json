@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4ad55c29bdbd570151e7ba1cd92671db139349c7b3576a960293eb25d6e03e9c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4ad55c29bdbd570151e7ba1cd92671db139349c7b3576a960293eb25d6e03e9c"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_941f7ea7fcb943ccb66180ec54a4e80c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Pulses C and D travel towards each other on a string as shown on the diagram. The amplitude of Pulse C is <span class=\"math\" data-latex=\"X\"></span> and the amplitude of Pulse D is <span class=\"math\" data-latex=\"2X\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When the pulses meet they superpose and then continue travelling on the string. What is the combined amplitude of the pulses when they superpose and what is the amplitude of Pulse D after the superposition?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Combined amplitude when superposition happens</strong></p>\n</td>\n<td>\n<p><strong>Amplitude of Pulse D after superposition</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"3X\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"2X\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"X\"></span></td>\n<td>Less than <span class=\"math\" data-latex=\"2X\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"3X\"></span></td>\n<td><span class=\"math\" data-latex=\"2X\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"X\"></span></td>\n<td><span class=\"math\" data-latex=\"2X\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

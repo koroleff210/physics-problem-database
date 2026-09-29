@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e7334f0d247f20a63f0bb85cf3269a48e72ea66318d6713761a8164d533aa320.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e7334f0d247f20a63f0bb85cf3269a48e72ea66318d6713761a8164d533aa320"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.3",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_757d4dfee47a461e9a87714f27109190",
+  "level": "hl",
+  "marks": 17,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"25a(i)\"><p><strong>25a(i)</strong></p><p></p>\n<p>By definition, gravitational potential is zero at infinity. </p>\n<p>This means that a positive amount of work must be done on an object in order to reach infinity, hence gravitational potential is negative.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"25a(ii)\"><p><strong>25a(ii)</strong></p><p></p>\n<p>Distance of asteroid from centre of Venus:</p>\n<p><span class=\"math\" data-latex=\"4 \\times 10^{3} + 6 \\times 10^{3} = 1 \\times 10^{4}\"></span> km</p>\n<p><span class=\"math\" data-latex=\"g = -\\frac{\\Delta V_{g}}{\\Delta r}\"></span>, so the gradient of the tangent can be used to find the acceleration.</p>\n<p>Tangent drawn at the point where <span class=\"math\" data-latex=\"r = 1 \\times 10^{4}\"></span> </p>\n<p>Drawing triangle/using any two points from tangent:</p>\n<p><span class=\"math\" data-latex=\"a = \\frac{60 \\times 10^{6}}{2.2 \\times 10^{7}} \\approx 2.7\"></span> m s<span class=\"math\" data-latex=\"^{-2} \\approx 3\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"25a(iii)\"><p><strong>25a(iii)</strong></p><p></p>\n<p>Using <span class=\"math\" data-latex=\"V_{g} = - \\frac{GM}{r}\"></span> and choosing any point from the graph, (for example where <span class=\"math\" data-latex=\"r = 1 \\times 10^{4}\"></span> km):</p>\n<p><span class=\"math\" data-latex=\"M = - \\frac{(-32 \\times 10^{6}) \\times 10^{7}}{6.67 \\times 10^{-11}} \\approx 4.8 \\times 10^{24}\"></span> kg</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"25b(i)\"><p><strong>25b(i)</strong></p><p></p>\n<p>Using <span class=\"math\" data-latex=\"E_{P} = mV_{g}\"></span></p>\n<p><span class=\"math\" data-latex=\"V_{g} = \\frac{-20 \\times 10^{9}}{2500} = - 8 \\times 10^{6}\"></span> J kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Distance from the centre of Venus (from graph): <span class=\"math\" data-latex=\"r = 4 \\times 10^{4}\"></span> km</p>\n<p>Distance of asteroid from the surface:</p>\n<p><span class=\"math\" data-latex=\"4 \\times 10^{4} - 6 \\times 10^{3} = 3.4 \\times 10^{4}\"></span> km</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"25b(ii)\"><p><strong>25b(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{GM}{r^{2}} = \\frac{4 \\pi^{2}r}{T^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt{\\frac{4 \\pi^{2} \\times (4 \\times 10^{7})^{3}}{(6.67 \\times 10^{-11}) \\times (4.8 \\times 10^{24})}} \\approx 88835\"></span> s</p>\n<p><span class=\"math\" data-latex=\"T \\approx 25\"></span> hours</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"25b(iii)\"><p><strong>25b(iii)</strong></p><p></p>\n<p>A decrease in speed leads to a decrease in kinetic energy.</p>\n<p>Since the total energy is the sum of the potential energy and the kinetic energy, a decrease in kinetic energy leads to a decrease in total energy (so total energy becomes more negative).</p>\n<p>As a result, the asteroid moves closer to Venus, its orbital radius decreases and its orbital speed increases.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how the gravitational potential of Venus varies with distance from the centre of Venus. The radius of Venus is <span class=\"math\" data-latex=\"6 \\times 10^{6}\"></span> m.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. An asteroid orbits Venus at a distance of <span class=\"math\" data-latex=\"4000\"></span> km from the surface of Venus.</p>\n<p>i. Explain why the gravitational potential is negative.</p>\n<p>  [2]</p>\n<p>ii. Show that the magnitude of the asteroid's acceleration is approximately <span class=\"math\" data-latex=\"3\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>  [4]</p>\n<p>iii. Find the mass of Venus.</p>\n<p>  [2]</p>\n<p>b. Another asteroid with a mass of <span class=\"math\" data-latex=\"2500\"></span> kg also orbits Venus. The gravitational potential energy of this asteroid is <span class=\"math\" data-latex=\"-20\"></span> GJ.</p>\n<p>i. Find the distance of the asteroid from the surface of Venus.</p>\n<p>  [3]</p>\n<p>ii. Calculate, in hours, the time it takes the asteroid to complete one full revolution about Venus.</p>\n<p>  [3]</p>\n<p>iii. The asteroid collides with a comet and as a result, its speed suddenly decreases. Explain how the orbit of the asteroid changes.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

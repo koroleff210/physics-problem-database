@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_a372849de04349f4a6cda255de917df9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The centripetal force required for the car to move in a circle is provided by the static friction between the tyres and the road. The maximum speed is reached when the required centripetal force (mv^2/R) equals the maximum available static friction force (μN = μmg). Setting these equal and solving for v gives v = sqrt(μgR).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car moves with speed <span class=\"math\" data-latex=\"v\"></span> on a circular horizontal road of radius <span class=\"math\" data-latex=\"R\"></span>. The coefficient of static friction between the road and the car tyres is <span class=\"math\" data-latex=\"\\mu\"></span>.</p>\n<p>What is the largest <span class=\"math\" data-latex=\"v\"></span> at which the car can move without sliding?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"\\dfrac{gR}{\\mu}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"\\mu gR\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"\\sqrt{\\dfrac{gR}{\\mu}}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"\\sqrt{\\mu gR}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

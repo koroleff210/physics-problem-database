@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_991bf751d4bf41749f23f487415a565f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>White light is passed through a gas. The light beam that emerges from the gas is passed through a prism and projected onto a screen.</p>\n<p>What is the name of the pattern that is formed on the screen and what information can be deduced about the gas based on this pattern?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Name of the pattern that is formed on the screen</strong></p>\n</td>\n<td>\n<p><strong>Information that can be deduced about the gas</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Absorption spectrum</p>\n</td>\n<td>\n<p>The temperature of the gas</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Absorption spectrum</p>\n</td>\n<td>\n<p>The chemical composition of the gas</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>Emission spectrum</p>\n</td>\n<td>\n<p>The temperature of the gas</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>Emission spectrum</p>\n</td>\n<td>\n<p>The chemical composition of the gas</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

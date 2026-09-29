@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_6bdc170b8ab2448ab97ccae2d83ef6e8",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This assumes a direct proportionality between frequency and maximum kinetic energy (<span class=\"math\" data-latex=\"E_k \\propto f\"></span>), which ignores the constant work function subtraction in Einstein's equation (<span class=\"math\" data-latex=\"E_k = hf - \\Phi\"></span>).</p>\n<p>B: - From Einstein's photoelectric equation, <span class=\"math\" data-latex=\"E_k = hf - \\Phi\"></span>, where <span class=\"math\" data-latex=\"\\Phi\"></span> is the work function.<br/>- When frequency is doubled (<span class=\"math\" data-latex=\"2f\"></span>), the new kinetic energy <span class=\"math\" data-latex=\"E'\"></span> is <span class=\"math\" data-latex=\"h(2f) - \\Phi = 2hf - \\Phi\"></span>.<br/>- Rearranging the initial equation gives <span class=\"math\" data-latex=\"hf = E_k + \\Phi\"></span>, so <span class=\"math\" data-latex=\"E' = 2(E_k + \\Phi) - \\Phi = 2E_k + \\Phi\"></span>.<br/>- Since <span class=\"math\" data-latex=\"\\Phi &gt; 0\"></span>, the new kinetic energy <span class=\"math\" data-latex=\"E'\"></span> is greater than <span class=\"math\" data-latex=\"2E_k\"></span>.<br/>- The rate of emission <span class=\"math\" data-latex=\"R\"></span> is directly proportional to the number of incident photons per second <span class=\"math\" data-latex=\"n\"></span> (assuming the frequency is above the threshold). Since <span class=\"math\" data-latex=\"n\"></span> is doubled, <span class=\"math\" data-latex=\"R\"></span> is doubled.</p>\n<p>C: This incorrectly identifies the relationship between frequency and kinetic energy as proportional and implies a non-linear relationship between photon rate and emission rate.</p>\n<p>D: While the energy relationship is correctly identified (<span class=\"math\" data-latex=\"E' &gt; 2E_k\"></span>), the emission rate is directly proportional to the photon incident rate; doubling <span class=\"math\" data-latex=\"n\"></span> results in exactly <span class=\"math\" data-latex=\"2R\"></span>, not more.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A monochromatic light source of frequency <span class=\"math\" data-latex=\"f\"></span> is incident on a metal surface. The number of photons striking the surface per second is <span class=\"math\" data-latex=\"n\"></span>, and this results in the emission of photoelectrons with a maximum kinetic energy <span class=\"math\" data-latex=\"E_{k}\"></span> and a total emission rate <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>The frequency of the light source is then increased to <span class=\"math\" data-latex=\"2f\"></span> and the number of photons incident per second is increased to <span class=\"math\" data-latex=\"2n\"></span>. Which of the following correctly describes the new maximum kinetic energy and the new rate of photoelectron emission?</p><ol class=\"mcq-options\"><li data-label=\"A\">The maximum kinetic energy is equal to <span class=\"math\" data-latex=\"2E_{k}\"></span> and the emission rate is equal to <span class=\"math\" data-latex=\"2R\"></span>.</li><li data-label=\"B\">The maximum kinetic energy is greater than <span class=\"math\" data-latex=\"2E_{k}\"></span> and the emission rate is equal to <span class=\"math\" data-latex=\"2R\"></span>.</li><li data-label=\"C\">The maximum kinetic energy is equal to <span class=\"math\" data-latex=\"2E_{k}\"></span> and the emission rate is greater than <span class=\"math\" data-latex=\"2R\"></span>.</li><li data-label=\"D\">The maximum kinetic energy is greater than <span class=\"math\" data-latex=\"2E_{k}\"></span> and the emission rate is greater than <span class=\"math\" data-latex=\"2R\"></span>.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

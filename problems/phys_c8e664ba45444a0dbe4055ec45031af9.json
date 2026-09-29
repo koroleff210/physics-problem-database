@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": null,
+  "id": "phys_c8e664ba45444a0dbe4055ec45031af9",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- State the formula for entropy change for an isothermal process: <span class=\"math\" data-latex=\"\\Delta S=\\frac{Q}{T}\"></span> [1 mark]</p>\n<p>- Substitute known values: <span class=\"math\" data-latex=\"\\Delta S=\\frac{600}{400}\"></span> [1 mark]</p>\n<p>- State the final answer: <span class=\"math\" data-latex=\"\\Delta S=1.5 \\text{ J K}^{-1}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the second law of thermodynamics: Total entropy of an isolated system cannot decrease [1 mark]</p>\n<p>- Explain that gas entropy increases during expansion as it absorbs heat and expands [1 mark]</p>\n<p>- Explain that surroundings entropy decreases as heat flows out of the reservoir, but total entropy change remains positive [1 mark]</p>\n<p>&lt;examTip&gt;Make sure to discuss both system and surroundings when explaining entropy changes&lt;/examTip&gt;</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- State that in an adiabatic expansion, no heat is added or removed, so <span class=\"math\" data-latex=\"Q = 0\"></span> [1 mark]</p>\n<p>- Explain that the gas does work on the surroundings, causing its internal energy and temperature to decrease [1 mark]</p>\n<p>- Conclude that in an isothermal process, temperature remains constant, while in an adiabatic expansion, the temperature would drop as the gas expands [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A container of ideal gas at <span class=\"math\" data-latex=\"400 \\text{ K}\"></span> undergoes an isothermal expansion, doubling its volume. During this process, it absorbs <span class=\"math\" data-latex=\"600 \\text{ J}\"></span> of heat from a reservoir.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the change in entropy of the gas.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain how the second law of thermodynamics applies to this process and describe the change in entropy of the surroundings.<p>[3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>If the gas were instead to undergo an adiabatic expansion, describe how the final temperature would compare to that in the isothermal process and explain why.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

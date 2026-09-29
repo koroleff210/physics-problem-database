@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_3a883fc35d88484f81f78d3814ee46a6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Threshold frequency <span class=\"math\" data-latex=\"f_0=\\phi/h\"></span>. Since <span class=\"math\" data-latex=\"\\phi_Y=3.1\\text{ eV} &gt; \\phi_X=2.2\\text{ eV}\"></span>, it follows that <span class=\"math\" data-latex=\"f_{0,Y}&gt;f_{0,X}\"></span>, not lower.</p>\n<p>B: Using the photoelectric equation <span class=\"math\" data-latex=\"K_{\\max}=hf-\\phi\"></span>. Then <span class=\"math\" data-latex=\"K_{\\max,X}-K_{\\max,Y}=(hf-\\phi_X)-(hf-\\phi_Y)=\\phi_Y-\\phi_X=3.1-2.2=0.9\\text{ eV}\"></span>. Since photoelectrons are emitted from both metals, <span class=\"math\" data-latex=\"hf&gt;3.1\\text{ eV}\"></span>, so both <span class=\"math\" data-latex=\"K_{\\max}\"></span> values are positive and the difference is valid.</p>\n<p>C: Stopping potential satisfies <span class=\"math\" data-latex=\"eV_s=K_{\\max}\"></span>. Since <span class=\"math\" data-latex=\"K_{\\max,X}=hf-2.2\"></span> and <span class=\"math\" data-latex=\"K_{\\max,Y}=hf-3.1\"></span>, <span class=\"math\" data-latex=\"K_{\\max,X}&gt;K_{\\max,Y}\"></span>, so <span class=\"math\" data-latex=\"V_{s,X}&gt;V_{s,Y}\"></span>, not the other way round.</p>\n<p>D: Increasing intensity increases the number of emitted photoelectrons (current) but does not change <span class=\"math\" data-latex=\"K_{\\max}\"></span>, which depends on frequency via <span class=\"math\" data-latex=\"K_{\\max}=hf-\\phi\"></span>. Therefore doubling intensity does not make <span class=\"math\" data-latex=\"K_{\\max}\"></span> for <span class=\"math\" data-latex=\"Y\"></span> match that of <span class=\"math\" data-latex=\"X\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light of frequency <span class=\"math\" data-latex=\"f\"></span> (in Hz) is incident on the surfaces of two different metals, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, causing the emission of photoelectrons from both surfaces. The table provides the work functions for each metal.</p>\n<table><thead><tr><th>Metal</th><th>Work function / eV</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"2.2\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"3.1\"></span></td></tr></tbody></table>\n<p>Which of the following statements is correct?</p><ol class=\"mcq-options\"><li data-label=\"A\">The threshold frequency of metal <span class=\"math\" data-latex=\"Y\"></span> is lower than the threshold frequency of metal <span class=\"math\" data-latex=\"X\"></span>.</li><li data-label=\"B\">The maximum kinetic energy of photoelectrons emitted from <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"0.9\\text{ eV}\"></span> greater than those from <span class=\"math\" data-latex=\"Y\"></span>.</li><li data-label=\"C\">For the same incident light, the stopping potential for metal <span class=\"math\" data-latex=\"Y\"></span> is greater than the stopping potential for metal <span class=\"math\" data-latex=\"X\"></span>.</li><li data-label=\"D\">If the intensity of light incident on metal <span class=\"math\" data-latex=\"Y\"></span> is doubled, the maximum kinetic energy of its photoelectrons will increase to match those of metal <span class=\"math\" data-latex=\"X\"></span>.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

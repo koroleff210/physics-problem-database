@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_b15529d262e3403d918a46f4be5881b4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is submerged in a fluid. Three quantities relating to this situation are</p>\n<p>I.    the density of the object<br/>II.   the density of the fluid<br/>III.  the gravitational field strength</p>\n<p>On which quantities does the buoyancy force acting on the object depend?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II</li><li data-label=\"B\">I and III</li><li data-label=\"C\">II and III</li><li data-label=\"D\">I, II and II</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

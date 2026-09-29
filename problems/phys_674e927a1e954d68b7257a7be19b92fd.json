@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_674e927a1e954d68b7257a7be19b92fd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is evidence for wave–particle duality?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Line spectra of elements</li><li data-label=\"B\">Electron-diffraction experiments</li><li data-label=\"C\">Rutherford alpha-scattering experiments</li><li data-label=\"D\">Gamma-ray spectra</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

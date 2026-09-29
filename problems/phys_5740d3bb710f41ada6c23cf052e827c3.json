@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_5740d3bb710f41ada6c23cf052e827c3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The freezing point of water on the Celsius scale is 0°C. What is this temperature in Kelvin?</p><ol class=\"mcq-options\"><li data-label=\"A\">0 K</li><li data-label=\"B\">100 K</li><li data-label=\"C\">273 K</li><li data-label=\"D\">373 K</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

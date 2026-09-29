@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_af153288afa44ddb98f9053a3785c0fc",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fusion reaction of one nucleus of hydrogen-2 and one nucleus of hydrogen-3 converts 0.019 u to energy. A fission reaction of one nucleus of uranium-235 converts a mass of 0.190 u to energy.</p>\n<p>What is the ratio <span class=\"math\" data-latex=\"\\frac{\\textit{specific energy of this fusion of hydrogen}}{\\textit{specific energy of this fission of uranium}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.1</li><li data-label=\"B\">0.2</li><li data-label=\"C\">5</li><li data-label=\"D\">10</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

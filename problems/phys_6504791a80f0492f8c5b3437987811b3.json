@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/69acbc7abc5c4c03a722aca413f3da7b8441d61d6873b4b3c8e46cfc5f621a02.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "69acbc7abc5c4c03a722aca413f3da7b8441d61d6873b4b3c8e46cfc5f621a02"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/de3a78caa3559d6b74fc0c99ac0d3be578461ddeebb5f288936a60e02ebc1720.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "de3a78caa3559d6b74fc0c99ac0d3be578461ddeebb5f288936a60e02ebc1720"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_6504791a80f0492f8c5b3437987811b3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple energy level model of an atom is shown on the diagram.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>Which of the following correctly shows the emission spectrum of the atom? </p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

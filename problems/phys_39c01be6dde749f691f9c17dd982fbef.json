@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a3efd96fa18320250b7bb979973459cb9eaf3b7a2db9f035f0204a7431a2409f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a3efd96fa18320250b7bb979973459cb9eaf3b7a2db9f035f0204a7431a2409f"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_39c01be6dde749f691f9c17dd982fbef",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Sound waves are mechanical / require a medium «to propagate» OR EM waves don’t require a medium / can propagate in vacuum ✓ Sound waves are «described in terms of» variation of pressure/vibrations of particles OR EM waves are «described in terms of» electric and magnetic fields ✓ The speed of sound is much lower than the speed of EM waves ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«<span class=\"math\" data-latex=\"\\frac{340}{1700}=\"></span>» 0.20 m ✓   Unit is not required.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Path difference =«2 × 0.50 − 0.70 = »0.30 m ✓ This is 1.5λ or phase difference = 3π «hence destructive interference» ✓   Allow statement that <span class=\"math\" data-latex=\"Δ l = ( n + \\frac{1}{2} ) λ\"></span> AND <span class=\"math\" data-latex=\"n=1\"></span> Accept π phase difference. Only award ECF from incorrect wavelength or path difference if it correctly leads to destructive interference.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Angle of incidence at <span class=\"math\" data-latex=\"P=sin^{-1} \\frac{0.35}{0.50}=44 ^{∘}\"></span> ✓ ALTERNATIVE 1 Critical angle <span class=\"math\" data-latex=\"=sin^{-1} \\frac{340}{1500}=13 ^{∘}\"></span> ✓ θ&gt;θ<sub>crit</sub> hence the sound can’t enter water at P ✓ ALTERNATIVE 2 <span class=\"math\" data-latex=\"\\frac{sin \\theta_{2}}{sin 44}=\\frac{1500}{340}\"></span> or <span class=\"math\" data-latex=\"sin \\theta_{2} =3.1\"></span> ✓ <span class=\"math\" data-latex=\"sin \\theta_{2} &gt;1\"></span> sin θ<sub>2</sub>&gt;1 or θ<sub>2</sub> is undefined hence the sound can’t enter water at P ✓   MP2 and 3 can only be awarded from one Alternative Award ECF from an incorrect angle of incidence</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>One difference between sound waves and electromagnetic waves is that sound waves are longitudinal and electromagnetic waves are transverse.</p>\n<p>Outline one other difference between sound waves and electromagnetic waves.</p><p>[1]</p></section><section class=\"context\"><p>A loudspeaker is placed at point L above a surface of water. A sound detector is placed at point D at the same height above the surface of water as L. The sound reaches D by two routes: along the direct path LD and the reflection-path LPD.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p><p>The following data are given:</p><table><tbody><tr><td></td><td><p>Frequency of the sound wave</p></td><td><p>= 1700 Hz</p></td></tr><tr><td></td><td><p>Speed of sound in air</p></td><td><p>= 340 m s<sup>−1</sup></p></td></tr><tr><td></td><td><p>Speed of sound in water</p></td><td><p>= 1500 m s<sup>−1</sup></p></td></tr><tr><td></td><td><p>Distance LD</p></td><td><p>= 0.70 m</p></td></tr><tr><td></td><td><p>Distance LP</p></td><td><p>= 0.50 m</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate the wavelength of the sound wave in air. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Outline why sound from L undergoes destructive interference at D. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Predict whether the sound wave can enter the water at P. [3]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

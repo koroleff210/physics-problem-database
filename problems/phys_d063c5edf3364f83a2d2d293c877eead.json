@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_d063c5edf3364f83a2d2d293c877eead",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks of the same copper alloy, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, are placed in an insulated container and allowed to reach thermal equilibrium. Block <span class=\"math\" data-latex=\"Q\"></span> has twice the mass of block <span class=\"math\" data-latex=\"P\"></span>. Which row correctly compares the average random kinetic energy of the molecules and the total internal energy of the two blocks?</p>\n<table><thead><tr><th></th><th>Average random kinetic energy of molecules</th><th>Total internal energy of the block</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Greater for block <span class=\"math\" data-latex=\"Q\"></span></td><td>Greater for block <span class=\"math\" data-latex=\"Q\"></span></td></tr><tr data-label=\"B\"><td>B</td><td>Same for both blocks</td><td>Same for both blocks</td></tr><tr data-label=\"C\"><td>C</td><td>Greater for block <span class=\"math\" data-latex=\"Q\"></span></td><td>Same for both blocks</td></tr><tr data-label=\"D\"><td>D</td><td>Same for both blocks</td><td>Greater for block <span class=\"math\" data-latex=\"Q\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

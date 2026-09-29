@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_32e0ae02e40942c0b89f080edd6fc0e5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The refractive index of glass is <span class=\"math\" data-latex=\"\\frac{3}{2}\"></span> and the refractive index of water is <span class=\"math\" data-latex=\"\\frac{4}{3}\"></span>. What is the critical angle for light travelling from glass to water?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{1}{2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{2}{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{3}{4}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"sin^{-1}\\frac{8}{9}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

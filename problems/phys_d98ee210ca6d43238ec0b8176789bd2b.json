@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_d98ee210ca6d43238ec0b8176789bd2b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When two waves, each of amplitude <span class=\"math\" data-latex=\"A\"></span>, interfere constructively, the resultant intensity is <span class=\"math\" data-latex=\"I\"></span>. What is the resultant intensity during constructive interference when the amplitude of the first wave is halved and the amplitude of the second wave is doubled?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"I\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{25I}{16}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{5I}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{25I}{4}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,32 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_122c3417dc904ebba22d2d02fa9111bc",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«An atom with» the same number of protons AND different numbers of neutrons<br/>OR<br/>Same chemical properties AND different physical properties ✓ Do not allow just atomic number and mass number</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>3 ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>2 ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>d→u ✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Strong force is short range &amp; electromagnetic force is long range ✓ Strong force is attractive between nucleons/neutrons &amp; protons ✓ electromagnetic force is repulsive between protons ✓ Overall, the strong force dominates ✓</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Alphas have double charge «and so are better ionisers »✓ alphas have more mass and therefore slower «for same energy» ✓ so longer time/more likely to interact with the «atomic» electrons/atoms «and therefore better ionisers» ✓ Accept reverse argument in terms of betas travelling faster.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>When tritium (<span class=\"math\" data-latex=\"_{ }^{ }\"></span>) decays by beta-minus (β<sup>−</sup>) decay, one of the products is a stable isotope of helium (He).</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline what is meant by an isotope. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State, for the helium isotope produced in the tritium decay, its</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> mass number. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> proton number. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Outline the quark change that occurs during this decay. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Compare the properties of the strong nuclear force and of the electromagnetic force that allow the helium nucleus to be stable. [3]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>A beta-minus particle and an alpha particle have the same initial kinetic energy.</p>\n<p>Outline why the beta-minus particle can travel further in air than the alpha particle.</p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "needs_review",
+    "issues": [
+      {
+        "code": "missing_tritium_isotope_notation",
+        "field": "question.html",
+        "message": "The frozen V3 HTML and original full E5.docx both contain zero-width empty base/subscript/superscript nodes for the tritium isotope. The exact printed notation cannot be recovered from preserved source evidence without reconstruction."
+      }
+    ],
+    "status": "needs_review"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_05c3155f00f246e0b0a9371dc4de7e34",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three statements about the binding energy are provided.</p>\n<p>I.    The binding energy is the energy required to completely separate the nucleons.<br/>II.   The binding energy is equivalent, in units of energy, to the mass defect when a nucleus is formed from its nucleons.<br/>III.  The binding energy is the energy released when a nucleus is formed from its nucleons.</p>\n<p>Which statements are true?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

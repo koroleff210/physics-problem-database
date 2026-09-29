@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2e2bca178c86891d2c015516e52f305db1b99f8978b958b981a4bc2600d18132.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2e2bca178c86891d2c015516e52f305db1b99f8978b958b981a4bc2600d18132"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_85277b560afd460399b45051ec84565a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Coil P and coil Q are rectangular coils. The areas of the coils are parallel. There is an anticlockwise direct current in coil P as shown on the diagram. Coil Q is first moved towards coil P, then away from coil P.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the direction of the induced current between points A and B when coil Q is moving towards and away from coil P?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Induced current between A and B when coil Q is moving towards coil P</strong></p>\n</td>\n<td>\n<p><strong>Induced current between A and B when coil Q is moving away from coil P</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Towards the left</td>\n<td>Towards the right</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Towards the left</td>\n<td>Towards the left</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Towards the right</td>\n<td>Towards the right</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Towards the right</td>\n<td>Towards the left</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

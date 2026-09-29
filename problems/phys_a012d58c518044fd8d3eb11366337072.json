@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e14d2f0b7e83d7ec1046d7240123d889827073a52f0add58de305cbbde84de66.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e14d2f0b7e83d7ec1046d7240123d889827073a52f0add58de305cbbde84de66"
+    }
+  ],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_a012d58c518044fd8d3eb11366337072",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Antinodes (exist at both open ends) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- State the relationship: <span class=\"math\" data-latex=\"D = \\lambda\"></span> (or equivalent) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Identifies that for the second harmonic, the wavelength <span class=\"math\" data-latex=\"\\lambda = D = 0.80\\ \\text{m}\"></span> [1 mark]<br/>- Calculates the frequency: <span class=\"math\" data-latex=\"f = \\dfrac{v}{\\lambda} = \\dfrac{340}{0.80} = 425\\ \\text{Hz}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Recognizes that for an open pipe the fundamental wavelength is <span class=\"math\" data-latex=\"\\lambda_{open} = 2D\"></span>, whereas for a closed pipe it is <span class=\"math\" data-latex=\"\\lambda_{closed} = 4D\"></span> [1 mark]<br/>- Since the wavelength for the closed pipe is longer and <span class=\"math\" data-latex=\"f = \\dfrac{v}{\\lambda}\"></span> (with <span class=\"math\" data-latex=\"v\"></span> constant), the fundamental frequency must be lower [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A horizontal cylindrical tube of length <span class=\"math\" data-latex=\"D\"></span> is open at both ends. A loudspeaker connected to a variable frequency signal generator is positioned near one end of the tube. The frequency of the signal generator is adjusted until a standing wave is established in the air column within the tube.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the boundary condition (node or antinode) that exists for the air displacement at both open ends of the tube when a standing wave is formed.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>The signal generator is tuned to produce the second harmonic. State the relationship between the tube length <span class=\"math\" data-latex=\"D\"></span> and the wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> of this standing wave.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>The tube has a length <span class=\"math\" data-latex=\"D = 0.80\\ \\text{m}\"></span>. Taking the speed of sound in the air column to be <span class=\"math\" data-latex=\"340\\ \\text{m s}^{-1}\"></span>, calculate the frequency of the second harmonic.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>One end of the tube is now sealed, effectively creating a pipe closed at one end. Explain why the fundamental frequency of the air column in this closed-ended tube is lower than the fundamental frequency of the original open-ended tube.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

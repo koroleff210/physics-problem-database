@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1623793e8d3c8fa1d585f137a442fa92630b22052a6955966d948fbdb0fcc491.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1623793e8d3c8fa1d585f137a442fa92630b22052a6955966d948fbdb0fcc491"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_0d4ca04ce3ac48509eb7ddddd31d9140",
+  "level": "sl_hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Cart X, of mass 2 kg, is moving at a speed of 3 m s<sup>−1</sup> to the right and collides on a horizontal track with cart Y of mass 1 kg. Y is initially stationary.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The velocity of Y immediately after the collision is 4 m s<sup>−1</sup> to the right. What is the velocity of X immediately after the collision?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1 m s<sup>−1</sup> to the right</li><li data-label=\"B\">1 m s<sup>−1 </sup>to the left</li><li data-label=\"C\">2 m s<sup>−1</sup> to the right</li><li data-label=\"D\">2 m s<sup>−1</sup> to the left</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

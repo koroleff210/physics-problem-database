@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_bf4921f2119c49438efc9a2c7d1ed8a7",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a\"><p><strong>13a</strong></p><p>The length of an object measured by an observer who is at rest relative to the object.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b\"><p><strong>13b</strong></p><p>Let's first calculate the distance that a muon can travel in a proper lifetime:</p>\n<p><span class=\"math\" data-latex=\"(0.995 \\times 3 \\times 10^{8})(2.2 \\times 10^{-6}) = 656.7\\; \\textup{m}\"></span></p>\n<p>Since the distance that a muon needs to travel to reach the surface of the Earth is <span class=\"math\" data-latex=\"6000\\; \\textup{m}\"></span>, very few muons should be detected at the surface.</p>\n<p>However, more muons are detected at the surface than expected, which provides evidence that the distance that the muons need to traverse in order to reach the surface undergoes length contraction in the reference frame of the muon.</p>\n<p>Let's calculate this length contraction:</p>\n<p>Finding the Lorentz factor for a speed of <span class=\"math\" data-latex=\"0.995c\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1-\\frac{(0.995c)^{2}}{c^{2}}}} \\approx 10\"></span></p>\n<p>Hence the distance that needs to be traversed to reach the surface in the muon's reference frame is:</p>\n<p><span class=\"math\" data-latex=\"\\frac{6000}{10} = 600\\; \\textup{m}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The mean lifetime of a muon as measured by an observer who is at rest relative to the muon is <span class=\"math\" data-latex=\"2.2\\; \\mu \\textup{s}\"></span>. Muons are produced at a height of <span class=\"math\" data-latex=\"6.0\\; \\textup{km}\"></span> above the surface of Earth and travel at a speed of <span class=\"math\" data-latex=\"0.995c\"></span> towards the surface. </p>\n<p>(a)   Outline what is meant by <em>proper length</em>.</p>\n<p>  [1]</p>\n<p>A significant number of muons are detected at the surface of Earth.</p>\n<p>(b)   Using suitable calculations, explain how this information provides evidence for length contraction.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2468aa056f6d4cd590636044ef2ad11e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car of mass <span class=\"math\" data-latex=\"m\"></span> travels at a uniform speed <span class=\"math\" data-latex=\"v\"></span> across a humpback bridge. The bridge is shaped like an arc of a circle with a radius of curvature <span class=\"math\" data-latex=\"R\"></span>. Which of the following expressions correctly represents the magnitude of the normal contact force <span class=\"math\" data-latex=\"F_N\"></span> exerted by the road on the car at the highest point of the bridge?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"F_N = mg + \\frac{mv^2}{R}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"F_N = \\frac{mv^2}{R} - mg\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"F_N = mg - \\frac{mv^2}{R}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"F_N = \\frac{mv^2}{R}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

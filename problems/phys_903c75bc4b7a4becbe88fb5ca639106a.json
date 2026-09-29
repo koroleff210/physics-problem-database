@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cfeba5a4dcf822c6408678ca30e829afbf6584efe9e227cfa9e669e550dfa54c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cfeba5a4dcf822c6408678ca30e829afbf6584efe9e227cfa9e669e550dfa54c"
+    }
+  ],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_903c75bc4b7a4becbe88fb5ca639106a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two stars, P and Q, are shown on a Hertzsprung-Russell diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textup{radius of \\:P}}{\\textup{radius of \\:Q}}\\,?\"></span></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.0001\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.01\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"100\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10000\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

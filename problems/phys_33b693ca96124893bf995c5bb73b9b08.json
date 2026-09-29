@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/31a9d7d08392039ab3f123692c16ad5c9c7be0ce01743e640f3be268ffc3cc84.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "31a9d7d08392039ab3f123692c16ad5c9c7be0ce01743e640f3be268ffc3cc84"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_33b693ca96124893bf995c5bb73b9b08",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram below shows four energy levels for the atoms of a gas. The diagram is drawn to scale. The wavelengths of the photons emitted by the energy transitions between levels are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are the wavelengths of spectral lines, emitted by the gas, in order of decreasing frequency?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\lambda_{3}, \\lambda_{2}, \\lambda_{1}, \\lambda_{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\lambda_{4}, \\lambda_{1}, \\lambda_{2}, \\lambda_{3}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\lambda_{4}, \\lambda_{3}, \\lambda_{2}, \\lambda_{1}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\lambda_{4}, \\lambda_{2}, \\lambda_{1}, \\lambda_{3}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

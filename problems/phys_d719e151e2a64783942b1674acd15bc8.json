@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_d719e151e2a64783942b1674acd15bc8",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite component made of aluminum is exposed to sunlight in space and reaches thermal equilibrium. If the absorbed solar power is <span class=\"math\" data-latex=\"1.3\\ \\mathrm{kW\\ \\mathrm{m^{-2}}}\"></span> and the component has emissivity <span class=\"math\" data-latex=\"e = 0.20\"></span>, what is its equilibrium temperature?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"327\\ \\mathrm{K}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"382\\ \\mathrm{K}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"421\\ \\mathrm{K}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"582\\ \\mathrm{K}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

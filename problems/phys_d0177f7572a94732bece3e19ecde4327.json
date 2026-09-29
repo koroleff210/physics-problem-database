@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c5427d6062c2b42a16566be639ad45ea923617ee6da3884eb375c30d4018d829.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c5427d6062c2b42a16566be639ad45ea923617ee6da3884eb375c30d4018d829"
+    }
+  ],
+  "classes": [
+    "B.3",
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_d0177f7572a94732bece3e19ecde4327",
+  "level": "hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a(i)\"><p><strong>15a(i)</strong></p><p> </p>\n<p>Change AB</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15a(ii)\"><p><strong>15a(ii)</strong></p><p></p>\n<p>Change CD</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15b\"><p><strong>15b</strong></p><p></p>\n<p>For an adiabatic change <span class=\"math\" data-latex=\"PV^{\\frac{5}{3}} = \\textup{constant}\"></span>.</p>\n<p>Calculating <span class=\"math\" data-latex=\"PV^{\\frac{5}{3}}\"></span> for points D and A we get:</p>\n<p>At point D: <span class=\"math\" data-latex=\"PV^{\\frac{5}{3}} = (60 \\times 10^{3}) \\times (0.35)^{\\frac{5}{3}} \\approx 10430\"></span>.</p>\n<p>At point A: <span class=\"math\" data-latex=\"PV^{\\frac{5}{3}} = (660 \\times 10^{3}) \\times (0.05)^{\\frac{5}{3}} \\approx 4479\"></span>.</p>\n<p>Since <span class=\"math\" data-latex=\"PV^{\\frac{5}{3}}\"></span> is different for D and A, process DA is not adiabatic.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c\"><p><strong>15c</strong></p><p></p>\n<p>The net work done during the cycle is represented by the area inside the cycle.</p>\n<p>There are about <span class=\"math\" data-latex=\"20\"></span> larger squares inside the cycle.</p>\n<p>Calculating the area of one square:</p>\n<p><span class=\"math\" data-latex=\"(100 \\times 10^{3}) \\times 0.05 = 5000\\:\\textup{J}\"></span></p>\n<p>Therefore the net work done during the cycle is:</p>\n<p><span class=\"math\" data-latex=\"W = 20 \\times 5000 = 100000\\:\\textup{J} = 100\\:\\textup{kJ}\"></span></p>\n<p>As this is an estimation, an answer between <span class=\"math\" data-latex=\"90\\:\\textup{kJ}\"></span> and <span class=\"math\" data-latex=\"110\\:\\textup{kJ}\"></span> is acceptable.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15d\"><p><strong>15d</strong></p><p></p>\n<p>When the gas is expanding (so when its volume is increasing), the gas is doing work and when the gas is being compressed (so when its volume is decreasing), work is being done on the gas.</p>\n<p>Therefore work is being done by the gas during changes AB and BC and work is being done on the gas during change DA.</p>\n<p>The total area under the graph during changes AB and BC is larger than the total area under the graph during change DA, so the net work is done by the gas.</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15e(i)\"><p><strong>15e(i)</strong></p><p></p>\n<p>The entropy of the gas decreases, because by compressing the gas the same number of gas particles occupy a smaller volume, leading to a decrease in disorder.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15e(ii)\"><p><strong>15e(ii)</strong></p><p></p>\n<p>The entropy of the surroundings increases, because heat is transferred from the gas to the surroundings, increasing the temperature, hence the disorder of the surroundings.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15e(iii)\"><p><strong>15e(iii)</strong></p><p></p>\n<p>The entropy of the universe increases, because based on the second law of thermodynamics, the entropy of the universe increases during any change.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The diagram shows cycle ABCDA for a fixed mass of monatomic ideal gas.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   State one change during this cycle that is</p>\n<p>(i)   isobaric.</p>\n<p>  [1]</p>\n<p>(ii)   isovolumetric.</p>\n<p>  [1]</p>\n<p>(b)   Show that change DA is not adiabatic.</p>\n<p>  [3]</p>\n<p>(c)   Estimate the net work done during the cycle.</p>\n<p>  [3]</p>\n<p>(d)   State and explain whether the net work is done on the gas or by the gas during the cycle.</p>\n<p>  [3]</p>\n<p>(e)   The gas is compressed. Outline the changes, if any, in the entropy of the</p>\n<p>(i)   gas.</p>\n<p>  [1]</p>\n<p>(ii)   surroundings.</p>\n<p>  [1]</p>\n<p>(iii)   universe.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

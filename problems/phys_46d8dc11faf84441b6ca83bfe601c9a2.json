@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0f824e484ffef6bfab5b006b640404ae1cc7a78100b544e1b8e270a599613c7f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0f824e484ffef6bfab5b006b640404ae1cc7a78100b544e1b8e270a599613c7f"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/8ecbba03f4b096dc8cac029c041679904405d829d852e3ea898344380e658fb0.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8ecbba03f4b096dc8cac029c041679904405d829d852e3ea898344380e658fb0"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_46d8dc11faf84441b6ca83bfe601c9a2",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Four identical lamps are connected in a circuit. The current through lamp L is I.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The lamps are rearranged using the same cell.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>What is the current through L?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{I}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></li><li data-label=\"C\">I</li><li data-label=\"D\">2I</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

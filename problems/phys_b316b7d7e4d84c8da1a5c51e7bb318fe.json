@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/731ea3f101c1789475e38addb90f312c9e472f1f8a5d4824fdee8527a1de44cb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "731ea3f101c1789475e38addb90f312c9e472f1f8a5d4824fdee8527a1de44cb"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_b316b7d7e4d84c8da1a5c51e7bb318fe",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a\"><p><strong>4a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"d = \\frac{673 \\times 10^{-9} \\times 1.2}{3 \\times 10^{-3 }}\"></span></p>\n<p><span class=\"math\" data-latex=\"d = 2.69 \\times 10^{-4}\"></span> m <span class=\"math\" data-latex=\"\\approx 0.3\"></span> mm</p>\n<p>Answer must be given to 1 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p>The two waves that emerge from the slits interfere/superpose.</p>\n<p>When their path difference is an integer multiple of the wavelength, a bright fringe is formed.</p>\n<p>OR</p>\n<p>When they reach the screen in phase, a bright fringe is formed.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p>Brightness depends on the intensity of the incident light. </p>\n<p>Since intensity decreases with distance (it is inversely proportional to the square of the distance) and point C is farther away from the slits than point A, the fringe at point C will not be as bright as the fringe at point A.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d(i)\"><p><strong>4d(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"n_{oil} = \\frac{673}{455} \\approx 1.48\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d(ii)\"><p><strong>4d(ii)</strong></p><p></p>\n<p>The brightness of the fringes decreases.</p>\n<p>The distance between consecutive fringes decreases.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4e\"><p><strong>4e</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\theta\"></span> is the critical angle.</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{1.48} = \\frac{sin\\theta}{sin(90^{o})}\"></span> </p>\n<p><span class=\"math\" data-latex=\"\\theta \\approx 42.5^{o}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment, monochromatic light of wavelength 673 nm is incident on a double slit in vacuum. A screen is located at a distance of 1.2 m from the slits, where an interference pattern is formed. Bright fringes are observed at points A, B and C on the screen. The separation between point A and point C is 6 mm. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Calculate the distance between the slits. Give your answer to an appropriate number of significant figures.</p>\n<p>  [3]</p>\n<p>b. Outline how bright fringes are formed on the screen.</p>\n<p>  [2]</p>\n<p>c. Explain why the fringe at point C is not as bright as the fringe at point A. </p>\n<p>  [2]</p>\n<p>d. The vacuum between the slits and the screen is filled with oil. The wavelength of the monochromatic light in oil is 455 nm. </p>\n<p>i. Find the refractive index of oil.</p>\n<p>  [1]</p>\n<p>ii. State two changes to the bright fringes when the vacuum is filled with oil.</p>\n<p>  [2]</p>\n<p>e. In another experiment, light is incident on the boundary between oil and vacuum. When the angle of incidence is <span class=\"math\" data-latex=\"\\theta\"></span>, the light wave travels along the boundary. Calculate <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

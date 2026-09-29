@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8d9ecc8305bc4399a4524d9160abf153",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment alpha particles are fired at a thin metal foil at high speeds. A small fraction of these particles are deflected through large angles. </p>\n<p>Which feature of the atom <strong>cannot</strong> be deduced from the results of this experiment?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The nucleus occupies a very small percentage of the entire volume of the atom</li>\n<li data-label=\"B\">The nucleus contains positively charged and neutral particles</li>\n<li data-label=\"C\">Positive and negative charge is not uniformly distributed within an atom</li>\n<li data-label=\"D\">Most of the mass of the atom is found in the nucleus</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

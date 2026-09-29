@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_400652dcbfe84a1d9d5f33f4a8f1921d",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a\"><p><strong>13a</strong></p><p></p>\n<p>For the sound wave emitted by the loudspeaker, the loudspeaker is a moving source and the wall of the building is a stationary 'observer'.</p>\n<p>Frequency detected at the wall of the building:</p>\n<p><span class=\"math\" data-latex=\"f' = f\\left ( \\frac{c}{c + v} \\right )\"></span></p>\n<p>For the reflected sound wave, the wall of the building is a stationary source and the girl is a moving observer.</p>\n<p>Frequency detected by the girl:</p>\n<p><span class=\"math\" data-latex=\"f_{D} = f'\\left ( \\frac{c - v}{c} \\right ) = f\\left ( \\frac{c}{c + v} \\right )\\left ( \\frac{c - v}{c} \\right ) = f\\left ( \\frac{c - v}{c + v} \\right )\"></span></p>\n<p><span class=\"math\" data-latex=\"f = \\frac{c}{\\lambda}\"></span>, so we get:</p>\n<p><span class=\"math\" data-latex=\"\\frac{c}{\\lambda_{D}} = \\frac{c}{\\lambda} \\left ( \\frac{c - v}{c + v} \\right )\"></span></p>\n<p>Simplifying and rearranging for <span class=\"math\" data-latex=\"\\lambda_{D}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\lambda_{D} = \\lambda\\left ( \\frac{c + v}{c - v} \\right )\"></span></p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b\"><p><strong>13b</strong></p><p></p>\n<p>Based on the working from the previous question part:</p>\n<p><span class=\"math\" data-latex=\"f_{D} = f\\left ( \\frac{c - v}{c + v} \\right )\"></span></p>\n<p>Substituting:</p>\n<p><span class=\"math\" data-latex=\"5.57 = 5.73\\left ( \\frac{c - v}{c + v} \\right )\"></span></p>\n<p>Expanding and rearranging:</p>\n<p><span class=\"math\" data-latex=\"11.3v = 0.16c\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{v}{c} \\approx 0.0142 \\approx 0.014\"></span></p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c\"><p><strong>13c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"v = (340)(0.014) \\approx 4.8\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A girl on a bicycle is moving away from a vertical building in a straight line with speed <span class=\"math\" data-latex=\"v\"></span>. A loudspeaker, attached to the bicycle, emits sound of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>. When the sound waves reach the building, they are reflected back towards the girl. The wavelength of the reflected sound waves as detected by the girl is <span class=\"math\" data-latex=\"\\lambda_{D}\"></span>.</p>\n<p>The speed of sound in air is <span class=\"math\" data-latex=\"c\"></span>.</p>\n<p>a. Show that <span class=\"math\" data-latex=\"\\lambda_{D} = \\lambda\\left ( \\frac{c + v}{c - v} \\right )\"></span>.</p>\n<p>   [4]</p>\n<p>The frequency of the sound emitted by the loudspeaker is <span class=\"math\" data-latex=\"5.73\"></span> kHz and the frequency of the reflected sound as detected by the girl is <span class=\"math\" data-latex=\"5.57\"></span> kHz.</p>\n<p>b. Show that the ratio <span class=\"math\" data-latex=\"\\frac{v}{c} \\approx 0.014\"></span>.</p>\n<p>   [2]</p>\n<p>The speed of sound in air is <span class=\"math\" data-latex=\"340\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>c. Calculate the speed of the girl and the bicycle.</p>\n<p>   [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

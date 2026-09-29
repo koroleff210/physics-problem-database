@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_8b68d2cfb1b34b55b5c0988af81e97ca",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which physical law relates a star's luminosity to its radius and surface temperature?</p><ol class=\"mcq-options\"><li data-label=\"A\">Newton's law of gravitation</li><li data-label=\"B\">Stefan-Boltzmann law</li><li data-label=\"C\">Wien's displacement law</li><li data-label=\"D\">Hubble's law</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

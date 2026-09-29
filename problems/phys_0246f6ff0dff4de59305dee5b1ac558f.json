@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_0246f6ff0dff4de59305dee5b1ac558f",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A hydrogen atom is composed of a proton, and an electron. The mass of a proton is <span class=\"math\" data-latex=\"m_{p}\"></span>,  the mass of an electron is <span class=\"math\" data-latex=\"m_{e}\"></span>, and the mass of the hydrogen atom is <span class=\"math\" data-latex=\"m_{H}\"></span>. What is true about the sum of the masses of the individual particles in relation to the mass of the hydrogen atom and which interaction is mainly responsible for this difference in masses?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Sum of the masses of the individual particles in relation to the mass of the hydrogen atom</strong></p>\n</td>\n<td>\n<p><strong>Interaction responsible for mass difference</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"m_{p} + m_{e}&gt;m_{H}\"></span></td>\n<td>Strong nuclear</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"m_{p} + m_{e}&gt;m_{H}\"></span></td>\n<td>Electromagnetic</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"m_{p} + m_{e}&lt;m_{H}\"></span></td>\n<td>Strong nuclear</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"m_{p} + m_{e}&lt;m_{H}\"></span></td>\n<td>Electromagnetic</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_2e70f46079d64cbbb4100c06ede9d4ed",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a(i)\"><p><strong>12a(i)</strong></p><p>Let’s calculate the Lorentz factor for a speed of <span class=\"math\" data-latex=\"2.7 \\times 10^{8}\\;\\textup{m\\,s}^{-1}\"></span>, so for <span class=\"math\" data-latex=\"0.9c\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1-\\frac{(0.9c)^{2}}{c^{2}}}} \\approx 2.29\"></span></p>\n<p>Hence the length of the spaceship as measured by an observer on the spaceship is:</p>\n<p><span class=\"math\" data-latex=\"39 \\times 2.29 = 89.31 \\approx 90\\;\\textup{m}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12a(ii)\"><p><strong>12a(ii)</strong></p><p>The proper length of the spaceship is the one measured by an observer on the spaceship, so approximately <span class=\"math\" data-latex=\"90\\;\\textup{m}\"></span>.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b(i)\"><p><strong>12b(i)</strong></p><p><span class=\"math\" data-latex=\"1.5 \\times 10^{8}\\;\\textup{m\\,s}^{-1} = 0.5c\"></span></p>\n<p>Substituting into the relativistic velocity addition equation (using the <span class=\"math\" data-latex=\"+\"></span> since the spaceship and the satellite are moving in the same direction), we get that the speed of the satellite relative to the surface of the planet is:</p>\n<p><span class=\"math\" data-latex=\"\\frac{0.9c+0.5c}{1+\\frac{0.9c \\times 0.5c}{c^{2}}} \\approx 0.97c\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b(ii)\"><p><strong>12b(ii)</strong></p><p>The satellite is moving at a speed of <span class=\"math\" data-latex=\"1.5 \\times 10^{8}\\;\\textup{m\\,s}^{-1}\"></span> relative to the spaceship, so the time it takes for the satellite to reach the front end of the spaceship, according to an observer who is at rest on the spaceship is simply:</p>\n<p><span class=\"math\" data-latex=\"\\frac{90}{1.5 \\times 10^{8}} = 6 \\times 10^{-7}\\;\\textup{s}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"12b(iii)\"><p><strong>12b(iii)</strong></p><p>Lenght of the spaceship in the reference frame of an observer on the surface of the planet:</p>\n<p><span class=\"math\" data-latex=\"39\\;\\textup{m}\"></span></p>\n<p>Speed of the satellite relative to the spaceship as observed by a person on the surface of the planet:</p>\n<p><span class=\"math\" data-latex=\"0.97c - 0.90c = 0.07c\"></span></p>\n<p>Therefore the time taken for the satellite to reach the front end. ofthe spaceship according to an observer on the surface of the planet is:</p>\n<p><span class=\"math\" data-latex=\"t = \\frac{39}{0.07 \\times 3 \\times 10^{8}} \\approx 1.9 \\times 10^{-6}\"></span> s</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A spaceship is moving to the left with a speed of <span class=\"math\" data-latex=\"2.7 \\times 10^{8}\\;\\textup{m\\,s}^{-1}\"></span> relative to the surface of a planet.</p>\n<p>(a)   According to an observer on the surface of the planet, the length of the spaceship is <span class=\"math\" data-latex=\"39\\;\\textup{m}\"></span>.</p>\n<p>(i)   Show that the length of the spaceship as measured by an observer on the spaceship is approximately <span class=\"math\" data-latex=\"90\\;\\textup{m}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   State which of these lengths is the proper length of the spaceship.</p>\n<p>  [1]</p>\n<p>(b)   A satellite is released from the rear end of the spaceship at a speed of <span class=\"math\" data-latex=\"1.5 \\times 10^{8}\\;\\textup{m\\,s}^{-1}\"></span>, in the same direction as the velocity of the spaceship.</p>\n<p>(i)   Determine the speed of the satellite relative to the surface of the planet.</p>\n<p>  [2]</p>\n<p>(ii)   Calculate the time it takes for the satellite to reach the front end of the spaceship, according to an observer who is at rest on the spaceship.</p>\n<p>  [2]</p>\n<p>(iii)   Calculate the time it takes for the satellite to reach the front end of the spaceship, according to an observer who is at rest on the surface of the planet.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

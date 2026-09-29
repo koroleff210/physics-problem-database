@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_8fdd329f8f6d47178f1f0cb7a170fcac",
+  "level": "hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"\\phi = \\frac{\\pi}{2}\"></span>. Since <span class=\"math\" data-latex=\"\\cos(\\omega t + \\frac{\\pi}{2}) = -\\sin(\\omega t)\"></span>, the object starts at <span class=\"math\" data-latex=\"x = 0\"></span> and moves in the negative direction.<br/>- Correct identification of <span class=\"math\" data-latex=\"\\phi\"></span> [1 mark]<br/>- Correct physical interpretation [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\omega = 3\\ \\text{rad s}^{-1}\"></span>, <span class=\"math\" data-latex=\"\\omega^2 = \\frac{k}{m} \\implies k = m\\omega^2 = 0.60 \\cdot 9 = 5.40\\ \\text{N m}^{-1}\"></span><br/>- Correct formula and substitution [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Maximum speed occurs at <span class=\"math\" data-latex=\"x = 0 \\Rightarrow \\omega t + \\phi = \\frac{\\pi}{2}, \\frac{3\\pi}{2},\\dots\"></span><br/>Solve <span class=\"math\" data-latex=\"3t + \\frac{\\pi}{2} = \\frac{\\pi}{2} \\Rightarrow t = 0 \\, \\text{s}\"></span>.<br/>- Correct logic and phase condition [1 mark]<br/>- Correct final answer with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Use <span class=\"math\" data-latex=\"E_T = \\frac{1}{2}m\\omega^2 x_0^2 = \\frac{1}{2} \\cdot 0.60 \\cdot 9 \\cdot (0.080)^2 = 0.0173\\ \\text{J}\"></span><br/>- <span class=\"math\" data-latex=\"E_p = \\frac{1}{2}m\\omega^2 x^2 = \\frac{1}{2} \\cdot 0.60 \\cdot 9 \\cdot (0.050)^2 = 0.00675\\ \\text{J}\"></span><br/>- <span class=\"math\" data-latex=\"E_k = E_T - E_p = 0.0173 - 0.00675 = 0.011\\ \\text{J}\"></span><br/>- Correct potential energy or total energy [1 mark], correct kinetic energy with unit [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>Graph 1: <span class=\"math\" data-latex=\"x(t) = 0.080 \\cos(3t + \\frac{\\pi}{2}) = -0.080 \\sin(3t)\"></span>, sinusoidal wave starting at <span class=\"math\" data-latex=\"x = 0\"></span>, downward slope.<br/>Graph 2: <span class=\"math\" data-latex=\"v(t) = -0.24 \\cos(3t)\"></span>, cosine curve starting at <span class=\"math\" data-latex=\"-0.24\"></span>, period <span class=\"math\" data-latex=\"T = \\frac{2\\pi}{3}\"></span><br/>Both correctly shaped, labelled with amplitude and time axis [1 mark] , correct phase shift and frequency shown [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"0.60\\ \\text{kg}\"></span> object is attached to a spring and moves with simple harmonic motion described by <span class=\"math\" data-latex=\"x(t) = 0.080 \\cos(3t + \\frac{\\pi}{2})\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State the phase angle and explain what it tells us about the object’s initial motion.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the spring constant of the system.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Determine the time when the object first reaches its maximum speed.<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Calculate the kinetic energy of the object when its displacement is <span class=\"math\" data-latex=\"x = 0.050\\ \\text{m}\"></span>.<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>Sketch graphs of <span class=\"math\" data-latex=\"x(t)\"></span> and <span class=\"math\" data-latex=\"v(t)\"></span> for <span class=\"math\" data-latex=\"0 \\leq t \\leq 4\\ \\text{s}\"></span>, labeling amplitudes and time axes.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

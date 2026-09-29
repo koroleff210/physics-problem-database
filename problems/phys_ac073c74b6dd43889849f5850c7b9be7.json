@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ebb163472379c367d70804aefb0883eb87554074f3ca6d2d91a4806a9fa70df.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ebb163472379c367d70804aefb0883eb87554074f3ca6d2d91a4806a9fa70df"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/279d392cb455066013cbd7130ac88e46801ce4124c47871d3b96a4865bce1823.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "279d392cb455066013cbd7130ac88e46801ce4124c47871d3b96a4865bce1823"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_ac073c74b6dd43889849f5850c7b9be7",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«Changing the variable resistor» changes the current «in the circuit» ✓ V = ε – Ir, so as I changes, V changes ✓ <br/>Do not allow arguments based on Ohm’s law.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1 Recognition that the gradient is internal resistance OR The attempt to use gradient ✓ <span class=\"math\" data-latex=\"r=\\frac{6V}{8A}=0.75 Ω\"></span> ✓   ALTERNATIVE 2 Reads 24.7 ± 0.1 V from graph ✓ Use <span class=\"math\" data-latex=\"r=\\frac{ε-V}{I}\"></span> and any data point to give 0.75 ± 0.02 Ω ✓ <br/>Must see full substitution   OR   answer to 2 (or more) significant figures for MP2. Candidates may use the y-intercept value or solve using two discrete data points from the graph.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of ε = I(R + r) OR Reference to y-intercept (I = 0) OR Line extrapolated back to y-axis ✓<br/><br/> 24.7 V ✓ <br/>Accept 24.6–25.2 V for MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A student is investigating the emf and internal resistance of a cell, using the circuit shown. The ammeter and the voltmeter are ideal.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The graph shows the variation of the voltmeter reading V with the ammeter reading I.<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why V changes when the resistance of the variable resistor is changed. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the internal resistance of the cell is about 0.8 Ω. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the emf of the cell. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

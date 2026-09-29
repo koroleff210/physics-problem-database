@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bab860df93d15c151611d2feb08ee7130cb4ac9c39cf51884bdc65f1512e779a.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bab860df93d15c151611d2feb08ee7130cb4ac9c39cf51884bdc65f1512e779a"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_7f6ba37fdc464574a2e216d29ca2cc50",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This would be the result of using half the peak voltage (<span class=\"math\" data-latex=\"V = 10\\ \\text{V}\"></span>) in <span class=\"math\" data-latex=\"P = V^2 / R\"></span>.</p>\n<p>B: Peak voltage <span class=\"math\" data-latex=\"V_0 = 20\\ \\text{V}\"></span>.<br/><span class=\"math\" data-latex=\"V_{rms} = \\frac{20}{\\sqrt{2}}\\ \\text{V}\"></span>.<br/>Average power <span class=\"math\" data-latex=\"P = \\frac{V_{rms}^2}{R} = \\frac{(20/\\sqrt{2})^2}{10} = \\frac{400}{20} = 20\\ \\text{W}\"></span>.</p>\n<p>C: This assumes peak voltage is the RMS voltage: <span class=\"math\" data-latex=\"P = \\frac{V_0^2}{R} = \\frac{400}{10} = 40\\ \\text{W}\"></span>.</p>\n<p>D: This results from using the peak-to-peak voltage (<span class=\"math\" data-latex=\"40\\ \\text{V}\"></span>) as the voltage in the power formula.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the voltage <span class=\"math\" data-latex=\"V\"></span> across a <span class=\"math\" data-latex=\"10\\ \\Omega\"></span> resistor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average power dissipated in the resistor?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\ \\text{W}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"20\\ \\text{W}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"40\\ \\text{W}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"80\\ \\text{W}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

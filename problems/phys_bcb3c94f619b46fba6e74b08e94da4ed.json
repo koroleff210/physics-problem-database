@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9f2a9f0836fda94c076a20abd7e2cb68dd1b5cc70e7eb98cbdbf24242c5dfe3e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9f2a9f0836fda94c076a20abd7e2cb68dd1b5cc70e7eb98cbdbf24242c5dfe3e"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_bcb3c94f619b46fba6e74b08e94da4ed",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is sliding from rest down a frictionless inclined plane. The object slides 1.0 m during the first second.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What distance will the object slide during the next second?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.0 m</li><li data-label=\"B\">2.0 m</li><li data-label=\"C\">3.0 m</li><li data-label=\"D\">4.9 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

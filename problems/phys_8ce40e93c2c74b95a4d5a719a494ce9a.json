@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4d632198850069c131d8449dd65e38d2549e11e3b758e79c647bd1da4d9de4ba.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4d632198850069c131d8449dd65e38d2549e11e3b758e79c647bd1da4d9de4ba"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_8ce40e93c2c74b95a4d5a719a494ce9a",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p></p>\n<p>Gravitational field strength at a point is the force per unit mass experienced by a small point (test) mass that is placed at that point.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b\"><p><strong>10b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"G \\times \\frac{M}{\\left ( 3.3 \\times 10^{8} \\right )^{2}} = G \\times \\frac{7.2M}{\\left ( D - 3.3 \\times 10^{8} \\right )^{2}}\"></span></p>\n<p>Using the Solver function or graphing on the calculator:</p>\n<p><span class=\"math\" data-latex=\"D \\approx 1.2 \\times 10^{9}\"></span> km</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c\"><p><strong>10c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{cp} = F_{g}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\frac{4 \\pi^{2}mR}{T^{2}} = G \\frac{Mm}{R^{2}}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt{\\frac{4 \\pi^{2}R^{3}}{GM}}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The distance between planet X and planet Y is <span class=\"math\" data-latex=\"D\"></span>. The mass of planet X is <span class=\"math\" data-latex=\"M\"></span> and the mass of planet Y is <span class=\"math\" data-latex=\"7.2M\"></span>. P is a point located along the line that connects the centres of the planets at a distance of <span class=\"math\" data-latex=\"3.3 \\times 10^{8}\"></span> km from the centre of planet X.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The gravitational field strength at P is zero.</p>\n<p>a. Outline what is meant by the gravitational field strength at a point.</p>\n<p>  [2]</p>\n<p>b. Determine <span class=\"math\" data-latex=\"D\"></span>. </p>\n<p> [3]</p>\n<p>The orbital period of a moon orbiting planet X  in a circular orbit is <span class=\"math\" data-latex=\"T\"></span>. The distance between the centre of the moon and the centre of planet X is <span class=\"math\" data-latex=\"R\"></span>.</p>\n<p>c. Show that <span class=\"math\" data-latex=\"T = \\sqrt{\\frac{4 \\pi^{2}R^{3}}{GM}}\"></span>.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

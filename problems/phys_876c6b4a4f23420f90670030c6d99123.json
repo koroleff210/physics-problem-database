@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_876c6b4a4f23420f90670030c6d99123",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planetary scientist is analyzing the radiation absorption properties of four gases discovered in the atmosphere of a satellite. The table below displays the percentage of incoming short-wavelength radiation and outgoing long-wavelength radiation absorbed by each gas.</p>\n<table><thead><tr><th>Gas</th><th>Absorption of short-wavelength radiation (%)</th><th>Absorption of long-wavelength radiation (%)</th></tr></thead><tbody><tr><td>W</td><td>92</td><td>11</td></tr><tr><td>X</td><td>5</td><td>86</td></tr><tr><td>Y</td><td>4</td><td>6</td></tr><tr><td>Z</td><td>94</td><td>91</td></tr></tbody></table>\n<p>Which gas acts as a greenhouse gas by allowing most solar radiation to reach the surface while trapping thermal radiation within the atmosphere?</p><ol class=\"mcq-options\"><li data-label=\"A\">Gas W</li><li data-label=\"B\">Gas X</li><li data-label=\"C\">Gas Y</li><li data-label=\"D\">Gas Z</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

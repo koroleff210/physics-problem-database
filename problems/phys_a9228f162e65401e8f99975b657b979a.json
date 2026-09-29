@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a9228f162e65401e8f99975b657b979a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A child stands on a horizontal rotating platform that is moving at constant angular speed. The centripetal force on the child is provided by</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">the gravitational force on the child.</li><li data-label=\"B\">the friction on the child’s feet.</li><li data-label=\"C\">the tension in the child’s muscles.</li><li data-label=\"D\">the normal reaction of the platform on the child.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

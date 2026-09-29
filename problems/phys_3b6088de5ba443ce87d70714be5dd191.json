@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3b6088de5ba443ce87d70714be5dd191",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why metals are good thermal conductors?</p><ol class=\"mcq-options\"><li data-label=\"A\">Their atoms vibrate more freely</li><li data-label=\"B\">They contain free-moving electrons</li><li data-label=\"C\">They expand when heated</li><li data-label=\"D\">Their density is high</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

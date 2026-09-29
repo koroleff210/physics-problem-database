@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_daa6d7cfc11248809f50a2030b111db1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>If two points are located on the same equipotential surface, what can be said about the work required to move a charge between these two points?</p><ol class=\"mcq-options\"><li data-label=\"A\">The work done is positive.</li><li data-label=\"B\">The work done is negative.</li><li data-label=\"C\">The work done is zero.</li><li data-label=\"D\">The work done depends on the distance between the points.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

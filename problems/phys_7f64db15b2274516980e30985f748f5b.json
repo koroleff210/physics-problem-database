@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_7f64db15b2274516980e30985f748f5b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star with radius <span class=\"math\" data-latex=\"R\"></span> and surface temperature <span class=\"math\" data-latex=\"T\"></span> has an apparent brightness of <span class=\"math\" data-latex=\"b\"></span>. </p>\n<p>What is the time it takes for light emitted by the star to reach Earth?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{\\sigma R^{2}T^{4}}{bc}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{\\sigma R^{2}T^{4}}{bc^{2}}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{4 \\pi \\sigma R^{2}T^{4}}{bc}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{4 \\pi \\sigma R^{2}T^{4}}{bc^{2}}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

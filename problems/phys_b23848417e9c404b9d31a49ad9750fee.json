@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b23848417e9c404b9d31a49ad9750fee",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which is a correct unit for gravitational potential?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">m<sup>2 </sup>s<sup>−2</sup></li><li data-label=\"B\">J kg</li><li data-label=\"C\">m s<sup>−2</sup></li><li data-label=\"D\">N m<sup>−1 </sup>kg<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ac3e37105226064b21c3183f768f7f66188f5b8406f4b377748dbbd05210fe72.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ac3e37105226064b21c3183f768f7f66188f5b8406f4b377748dbbd05210fe72"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/cbaa6b3b037ded30d144c3d9c4f74e7761e033d5c87f48b555b234aadd580e29.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cbaa6b3b037ded30d144c3d9c4f74e7761e033d5c87f48b555b234aadd580e29"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/0a07bfffee306c14ffc5b974e3702e9ccf1de9d10dc92e8d7739221b1a5ba272.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "0a07bfffee306c14ffc5b974e3702e9ccf1de9d10dc92e8d7739221b1a5ba272"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_1efe016d4ce94988a9926e96e62c5688",
+  "level": "sl_hl",
+  "marks": 16,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"14a\"><p><strong>14a</strong></p><p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n</section><section class=\"markscheme-part\" data-label=\"14b\"><p><strong>14b</strong></p><p>The weight of the oil drop is pointing downwards and since the oil drop is stationary, the electric force on the oil drop is pointing upwards.</p>\n<p>As the electric force on the oil drop is pointing away from the positive/towards the negative plate, the oil drop is positively charged.</p>\n</section><section class=\"markscheme-part\" data-label=\"14c\"><p><strong>14c</strong></p><p>The weight of the oil drop is equal to the magnitude of the electric force that acts on the drop, therefore:</p>\n<p><span class=\"math\" data-latex=\"F_{e} = W\"></span></p>\n<p>Combining the formulae <span class=\"math\" data-latex=\"E = \\frac{F}{q}\"></span> and <span class=\"math\" data-latex=\"E = \\frac{V}{d}\"></span>, we get that <span class=\"math\" data-latex=\"F = \\frac{qV_{e}}{d}\"></span>, so:</p>\n<p><span class=\"math\" data-latex=\"\\frac{qV_{e}}{d} = mg\"></span></p>\n<p>Rearranging the density formula, we get that <span class=\"math\" data-latex=\"m = \\rho V\"></span> and substituting this expression for the mass above, we end up with:</p>\n<p><span class=\"math\" data-latex=\"\\frac{qV_{e}}{d} = \\rho Vg\"></span></p>\n<p>Rearranging and using the volume of a sphere formula to substitute for <span class=\"math\" data-latex=\"V\"></span> gives us:</p>\n<p><span class=\"math\" data-latex=\"\\rho = \\frac{qV_{e}}{Vdg} = \\frac{qV_{e}}{\\left ( \\frac{4}{3} \\pi r^{3} \\right )dg} = \\frac{3qV_{e}}{4 \\pi r^{3}dg}\"></span></p>\n<p>Substituting:</p>\n<p><span class=\"math\" data-latex=\"\\rho = \\frac{3(6.4 \\times 10^{-19})(1100)}{4\\pi(1.6 \\times 10^{-6})^{3}(5.2 \\times 10^{-3})(9.81)} \\approx 804 \\approx 800\\: \\textup{kg\\,m}^{-3}\"></span></p>\n</section><section class=\"markscheme-part\" data-label=\"14d(i)\"><p><strong>14d(i)</strong></p><p>The instant when the electric field between the plates is turned off only the gravitational force acts on the oil drop, so it begins to accelerate downwards.</p>\n<p>As the speed of the oil drop increases the drag force on the oil drop increases and eventually reaches the same magnitude as the gravitational force. </p>\n<p>The instant this happens, the oil drop reaches terminal speed.</p>\n</section><section class=\"markscheme-part\" data-label=\"14d(ii)\"><p><strong>14d(ii)</strong></p><p>When the oil drop is falling at terminal speed, the weight of the oil drop has the same magnitude as the drag force, so we can write that:</p>\n<p><span class=\"math\" data-latex=\"F_{d} = W\"></span></p>\n<p>Using the drag force formula to substitute, we get that:</p>\n<p><span class=\"math\" data-latex=\"6 \\pi \\eta rv = mg\"></span></p>\n<p>Rearranging the density formula, we get that <span class=\"math\" data-latex=\"m = \\rho V\"></span> and substituting this expression for the mass above, we end up with:</p>\n<p><span class=\"math\" data-latex=\"6 \\pi \\eta rv = \\rho Vg\"></span></p>\n<p>Using the volume of a sphere formula to substitute for <span class=\"math\" data-latex=\"V\"></span> and rearranging for <span class=\"math\" data-latex=\"\\eta\"></span> we get that:</p>\n<p><span class=\"math\" data-latex=\"\\eta = \\frac{2 \\rho r^{2}g}{9v}\"></span></p>\n<p>Substituting gives us that:</p>\n<p><span class=\"math\" data-latex=\"\\eta = \\frac{2 (800) (1.6 \\times 10^{-6})^{2}(9.81)}{9(0.235 \\times 10^{-3})} \\approx 1.9 \\times 10^{-5}\\: \\textup{Pa\\,s}\"></span> or <span class=\"math\" data-latex=\"\\textup{kg\\,m}^{-1}\\,\\textup{s}^{-1}\"></span> or <span class=\"math\" data-latex=\"\\textup{N\\,s\\,m}^{-2}\"></span></p>\n<p> </p>\n</section><section class=\"markscheme-part\" data-label=\"14e\"><p><strong>14e</strong></p><p>The charge on each oil drop is an integer multiple of <span class=\"math\" data-latex=\"1.6 \\times 10^{-19}\\: \\textup{C}\"></span>.</p>\n<p>Therefore charge is quantized/the value of the elementary charge is <span class=\"math\" data-latex=\"1.6 \\times 10^{-19}\\: \\textup{C}\"></span>.</p>\n</section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In an experiment oil drops are placed between two horizontal charged plates in air. Some of the oil drops remain suspended between the plates. The diagram shows one such oil drop.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>(a)   Draw the forces that act on the oil drop.</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n<p>  [2]</p>\n<p>(b)   State and explain the sign of the charge on the oil drop.</p>\n<p>  [2]</p>\n<p>The following data are provided:</p>\n<p>Distance between the plates: <span class=\"math\" data-latex=\"5.2\\: \\textup{mm}\"></span></p>\n<p>Potential difference between the plates: <span class=\"math\" data-latex=\"1100\\: \\textup{V}\"></span></p>\n<p>Diameter of the oil drop: <span class=\"math\" data-latex=\"3.2\\: \\mu \\textup{m}\"></span></p>\n<p>Magnitude of the charge on the oil drop: <span class=\"math\" data-latex=\"6.4 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n<p></p>\n<p>(c)   Show that the density of oil is about <span class=\"math\" data-latex=\"800\\: \\textup{kg\\,m}^{-3}\"></span>.</p>\n<p>  [4]</p>\n<p>At <span class=\"math\" data-latex=\"t = 0\"></span> the electric field between the plates is turned off. At <span class=\"math\" data-latex=\"t = T\"></span> the oil drop reaches a terminal speed of <span class=\"math\" data-latex=\"0.235\\: \\textup{mm\\,s}^{-1}\"></span>.</p>\n<p>(d)  </p>\n<p>(i)   Explain, with reference to the forces that act on the oil drop, why it reaches a terminal speed.</p>\n<p>  [2]</p>\n<p>(ii)   Determine the viscosity of air. Include an appropriate unit in your answer.</p>\n<p>  [4]</p>\n<p>In another, similar experiment a student determines the magnitude of the charge on <span class=\"math\" data-latex=\"50\"></span> oil drops and displays the results in a table.</p>\n<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Number of oil drops</strong></p>\n</td>\n<td>\n<p><strong>Charge on each oil drop</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>7</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"1.6 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>14</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"3.2 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>5</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"4.8 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>22</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"6.4 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>2</p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"9.6 \\times 10^{-19}\\: \\textup{C}\"></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>(e)   Outline the significance of these results. </p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

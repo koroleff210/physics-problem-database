@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/03e82d4471fc28d18bbdda3b286789d76a3406b25a2adb0ab567d20e9514815d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "03e82d4471fc28d18bbdda3b286789d76a3406b25a2adb0ab567d20e9514815d"
+    }
+  ],
+  "classes": [
+    "B.1",
+    "B.3",
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_06b358ed3c0b4bef8831758b717e8769",
+  "level": "sl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>E<sub>k</sub> = « <span class=\"math\" data-latex=\"\\frac{3}{2}1.38\\times 10^{-23}373\"></span>» = <span class=\"math\" data-latex=\"7.7\\times 10^{-21}\"></span> «J» ✓ v = «<span class=\"math\" data-latex=\"\\sqrt{\\frac{3\\times 1.38\\times 10^{-23}\\times 6.02\\times 10^{23}\\times 373}{0.018}}\"></span>» = 720 «m s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>particles can be considered points «without dimensions» ✓</p>\n<p>no intermolecular forces/no forces between particles «except during collisions»✓</p>\n<p>the volume of a particle is negligible compared to volume of gas ✓</p>\n<p>collisions between particles are elastic ✓</p>\n<p>time between particle collisions are greater than time of collision ✓</p>\n<p>no intermolecular PE/no PE between particles  ✓</p>\n<p>Accept reference to atoms/molecules for “particle”</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«mL = P t» so «<span class=\"math\" data-latex=\"L=\\frac{1600\\times 200}{0.14}\"></span>» = 2.3 x 10<sup>6</sup> «J kg<sup>-1</sup>» ✓ J kg<sup>−1 </sup>✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>«all» of the energy added is used to increase the «intermolecular» potential energy of the particles/break «intermolecular» bonds/OWTTE ✓</p>\n<p>Accept reference to atoms/molecules for “particle”</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>use of mcΔT ✓ 0.86 × 4200 × (100 – T) = 0.3 × 1800 × (T +10) ✓ T<sub>eq</sub> = 85.69«°C» ≅ 86«°C» ✓ Accept T<sub>eq</sub> in Kelvin (359 K).</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p><span class=\"math\" data-latex=\"P=\\frac{v^{2}}{R} so \\frac{220^{2}}{1600} so R=30.25\"></span> «Ω» ✓ Must see either the substituted values OR a value for R to at least three s.f.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>use of parallel resistors addition so R<sub>eq</sub> = 15 «Ω» ✓</p>\n<p>P = 3200 «W» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A mass of 1.0 kg of water is brought to its boiling point of 100 °C using an electric heater of power 1.6 kW.</p>\n<p>A mass of 0.86 kg of water remains after it has boiled for 200 s.</p>\n<p>The electric heater has two identical resistors connected in parallel.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The circuit transfers 1.6 kW when switch A only is closed. The external voltage is 220 V.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> The molar mass of water is 18 g mol<sup>−1</sup>. Estimate the average speed of the water molecules in the vapor produced. Assume the vapor behaves as an ideal gas. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State one assumption of the kinetic model of an ideal gas. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Estimate the specific latent heat of vaporization of water. State an appropriate unit for your answer. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Explain why the temperature of water remains at 100 °C during this time. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The heater is removed and a mass of 0.30 kg of pasta at −10 °C is added to the boiling water.</p>\n<p>Determine the equilibrium temperature of the pasta and water after the pasta is added. Other heat transfers are negligible.</p>\n<p>Specific heat capacity of pasta = 1.8 kJ kg<sup>−1</sup> K<sup>−1</sup><br/>Specific heat capacity of water = 4.2 kJ kg<sup>−1</sup> K<sup>−1</sup></p><p>[3]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Show that each resistor has a resistance of about 30 Ω. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Calculate the power transferred by the heater when both switches are closed. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

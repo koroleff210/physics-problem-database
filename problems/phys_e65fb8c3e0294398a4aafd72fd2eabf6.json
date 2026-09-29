@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a1089b67dd60256f336128bfe5fe00a731c795ba19d8e0f5d7197231ee8dd6b1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a1089b67dd60256f336128bfe5fe00a731c795ba19d8e0f5d7197231ee8dd6b1"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_e65fb8c3e0294398a4aafd72fd2eabf6",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment an object of mass <span class=\"math\" data-latex=\"m\"></span> is tied to the end of a rope and is made to move in a horizontal circle of radius <span class=\"math\" data-latex=\"r\"></span> at constant speed. The experiment is then repeated for different values of <span class=\"math\" data-latex=\"r\"></span> using the same object and keeping the resultant force on the object unchanged. Which graph correctly shows how <span class=\"math\" data-latex=\"\\omega\"></span>, the angular velocity of the object, varies with <span class=\"math\" data-latex=\"r\"></span>?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

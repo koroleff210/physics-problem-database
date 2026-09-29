@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/43a5d13c4b337a9764f47b6bbb5058650e05a10f7d5a86046cba9705740ef6ec.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "43a5d13c4b337a9764f47b6bbb5058650e05a10f7d5a86046cba9705740ef6ec"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_df04aed46e2b4a81a78237bc443a7f59",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two wave generators, placed at position P and position Q, produce water waves with a wavelength of<span class=\"math\" data-latex=\"4.0 cm\"></span>. Each generator, operating alone, will produce a wave oscillating with an amplitude of <span class=\"math\" data-latex=\"3.0 cm\"></span> at position R. PR is<span class=\"math\" data-latex=\"42 cm\"></span> and RQ is <span class=\"math\" data-latex=\"60 cm\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Both wave generators now operate together in phase. What is the amplitude of the resulting wave at R?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"9 cm\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"6 cm\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"3 cm\"></span></li><li data-label=\"D\">zero</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

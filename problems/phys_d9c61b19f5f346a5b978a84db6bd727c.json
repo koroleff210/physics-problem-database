@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/72492cff1441a32193485a97622a056bacde257591e80fbb153399693d0cd833.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "72492cff1441a32193485a97622a056bacde257591e80fbb153399693d0cd833"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_d9c61b19f5f346a5b978a84db6bd727c",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ice skater is spinning with their arms extended in a fixed position at a constant angular velocity. The ice skater then quickly pulls their arms closer to their body. Frictional effects are negligible.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/><sup>[Source: Dorling Kindersley, 2010. Illustration of ice skater starting to spin. [image online] Available at:</sup><sup> </sup><sup>https://www.gettyimages.co.uk/detail/illustration/illustration-of-ice-skater-starting-to-spin-royalty-free-illustration/96168836</sup><sup>?phrase=ice+skater+spinning&amp;searchscope=image%2Cfilm&amp;adppopup=true</sup><sup> </sup><sup>[Accessed 11 December</sup> <sup>2024]. Source adapted.]</sup></p>\n<p><br/>Three statements are made about the ice skater’s motion.</p>\n<p>I.    The angular momentum of the ice skater remains constant.</p>\n<p>II.   The rotational kinetic energy of the ice skater remains constant.</p>\n<p>III.  The net torque acting on the ice skater is zero.</p>\n<p>Which of the statements are correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

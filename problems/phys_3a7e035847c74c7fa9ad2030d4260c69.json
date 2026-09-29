@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_3a7e035847c74c7fa9ad2030d4260c69",
+  "level": "sl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- At the <span class=\"math\" data-latex=\"n^\\text{th}\"></span> harmonic, <span class=\"math\" data-latex=\"L = \\dfrac{n\\lambda}{2}\"></span><br/>[1 mark]<br/>- Rearranged: <span class=\"math\" data-latex=\"\\lambda = \\dfrac{2L}{n}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Only odd harmonics appear (1st, 3rd, 5th, …)<br/>[1 mark]<br/>- Because closed end must be a node, open end an antinode; even harmonics cannot satisfy this boundary condition<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"f = \\dfrac{n v}{2L} = \\dfrac{4 \\cdot 120}{2 \\cdot 1.0} = 240\\ \\text{Hz}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Second harmonic sketch: 2 antinodes, 3 nodes<br/>[1 mark]<br/>- Fourth harmonic sketch: 4 antinodes, 5 nodes<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- Both systems form standing waves and allow harmonics<br/>[1 mark]<br/>- String fixed at both ends: supports all harmonics (1st, 2nd, 3rd, ...)<br/>[1 mark]<br/>- Pipe closed at one end: supports only odd harmonics due to asymmetric boundary conditions<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A string of length <span class=\"math\" data-latex=\"L = 1.0\\ \\text{m}\"></span> is fixed at both ends and supports standing waves. The wave speed is <span class=\"math\" data-latex=\"v = 120\\ \\text{m s}^{-1}\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Derive an expression for the wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> of the <span class=\"math\" data-latex=\"n^\\text{th}\"></span> harmonic on the string. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> In a pipe that is closed at one end and open at the other, only certain harmonics are observed.<br/>Explain why some harmonics are missing in such a tube. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the frequency of the fourth harmonic for the string. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Sketch the standing wave pattern corresponding to the second and fourth harmonic on the string. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Compare the harmonic series for a string fixed at both ends and a pipe closed at one end.<br/>Sketch for (d):<br/>Second harmonic: 1 full wavelength → 3 nodes, 2 antinodes<br/>Fourth harmonic: 2 full wavelengths → 5 nodes, 4 antinodes [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

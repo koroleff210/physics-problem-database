@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/874411c59783fb62c5f983d067d92b6090554d28991a408490baad092bf54abf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "874411c59783fb62c5f983d067d92b6090554d28991a408490baad092bf54abf"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_ceb409a9a3594765b2600bbb07dc9a31",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Five resistors, each of resistance <em>R</em>, are connected to a cell with negligible internal resistance. The current in resistor N is 2 A.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the value of the emf of the cell?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">0.5<em>R</em></li>\n<li data-label=\"B\">2<em>R</em></li>\n<li data-label=\"C\">4<em>R</em></li>\n<li data-label=\"D\">5<em>R</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

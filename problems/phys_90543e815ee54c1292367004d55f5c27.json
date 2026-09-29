@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_90543e815ee54c1292367004d55f5c27",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following table includes data for planets X and Y:</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Planet X</strong></p>\n</td>\n<td>\n<p><strong>Planet Y</strong></p>\n</td>\n</tr>\n<tr>\n<td><strong><strong>Temperature</strong></strong></td>\n<td><span class=\"math\" data-latex=\"T\"></span></td>\n<td><span class=\"math\" data-latex=\"2T\"></span></td>\n</tr>\n<tr>\n<td><strong>Power radiated</strong></td>\n<td><span class=\"math\" data-latex=\"P\"></span></td>\n<td><span class=\"math\" data-latex=\"8P\"></span></td>\n</tr>\n<tr>\n<td><strong><strong>Radius</strong></strong></td>\n<td><span class=\"math\" data-latex=\"R\"></span></td>\n<td><span class=\"math\" data-latex=\"\\frac{R}{2}\"></span></td>\n</tr>\n</tbody>\n</table>\n\n<p>What is <span class=\"math\" data-latex=\"\\frac{Emissivity\\: of\\: planet\\: X}{Emissivity\\: of\\: planet\\: Y}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"4\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

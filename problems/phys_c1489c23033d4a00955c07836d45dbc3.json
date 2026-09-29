@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a45989cd750893c77f3e7892231373625021769b6e5674b4c3bf01e928e1e00e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a45989cd750893c77f3e7892231373625021769b6e5674b4c3bf01e928e1e00e"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/dac3fbe74cfd5c5a7129f798a1469fea5618c469bc6e90163a85a9739ff466de.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "dac3fbe74cfd5c5a7129f798a1469fea5618c469bc6e90163a85a9739ff466de"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c1489c23033d4a00955c07836d45dbc3",
+  "level": "sl_hl",
+  "marks": 14,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a\"><p><strong>5a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b\"><p><strong>5b</strong></p><p></p>\n<p>The horizontal net force acting on the truck is zero.</p>\n<p>If the net force acting on an object is zero, its velocity is unchanged (1st law), so the truck travels with a constant velocity. </p>\n<p>OR</p>\n<p>Since <span class=\"math\" data-latex=\"F_{net}=ma\"></span> and <span class=\"math\" data-latex=\"F_{net}=0\"></span>, acceleration is zero, so the truck travels with a constant velocity.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c\"><p><strong>5c</strong></p><p>Power = <em>Fv</em></p>\n<p>Useful power produced by the engine  = (5400)(24) = 129600 W</p>\n<p>Efficiency = <span class=\"math\" data-latex=\"\\frac{Useful  power  out}{Total  power  in}\"></span></p>\n<p>Total power in = <span class=\"math\" data-latex=\"\\frac{129600}{0.28}\"></span> = 462857.1429 W <span class=\"math\" data-latex=\"\\approx\"></span> 460000 W = 460 kW</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5d\"><p><strong>5d</strong></p><p><em></em></p>\n<p>Some energy is lost due to friction between the moving parts of the engine.</p>\n<p>OR</p>\n<p>Some energy is lost due to the heat produced by the engine.</p>\n<p>OR</p>\n<p>Some energy is lost due to the sound produced by the engine.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5e\"><p><strong>5e</strong></p><p></p>\n<p>Using <em>v</em> = <em>u</em> + <em>at</em></p>\n<p><em>a</em> = <span class=\"math\" data-latex=\"\\frac{10-24}{21.5}\\approx -0.6512\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p>Using <em>F</em> = <em>ma</em></p>\n<p><em>m</em> = <span class=\"math\" data-latex=\"\\frac{5400}{0.6512}\\approx 8292\"></span> kg <span class=\"math\" data-latex=\"\\approx 8300\"></span> kg</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5f(i)\"><p><strong>5f(i)</strong></p><p></p>\n<p>5.4 – 1.2 = 4.2 kN</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5f(ii)\"><p><strong>5f(ii)</strong></p><p></p>\n<p>Constant frictional force = 1.2 kN</p>\n<p>Second component = <span class=\"math\" data-latex=\"\\frac{F_{24}}{2^{2}}=\\frac{4.2}{4}=1.05\"></span> kN</p>\n<p>Total horizontal resistive force = 1.2 + 1.05 = 2.25 kN <span class=\"math\" data-latex=\"\\approx\"></span> 2.3 kN</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A truck is traveling along a straight, horizontal road at a constant horizontal velocity of 24 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>a. On the diagram below, draw and label all vertical forces that act on the truck.</p>\n<p>  [2]</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>b. Explain why the velocity of the truck is constant. In your explanation, refer to Newton’s laws of motion.</p>\n<p>  [2]</p>\n<p>c. The total horizontal resistive force that acts on the truck is 5.4 kN. The efficiency of the truck’s engine is 28%. Calculate the total power produced by the truck’s engine. </p>\n<p>  [3]</p>\n<p>d. State one reason why not all the power that you calculated in part (c) is used to keep the truck moving at a constant speed.</p>\n<p>  [1]</p>\n<p>e. The truck’s engine is switched off and the truck slows down without applying its breaks. It takes the truck 21.5 seconds to reach a velocity of 10 m s<span class=\"math\" data-latex=\"^{-1}\"></span>. Assuming that the resistive force acting on the truck is constant, calculate the mass of the truck.</p>\n<p>  [2]</p>\n<p>f. Based on another assumption, the total resistive force consists of two components: a constant frictional force of 1.2 kN and a second component that is proportional to the square of the truck’s velocity.</p>\n<p>i. State the magnitude of the second component when the truck’s velocity is 24 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [1]</p>\n<p>ii. Calculate the total horizontal resistive force when the truck’s velocity is 12 m s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [3] </p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

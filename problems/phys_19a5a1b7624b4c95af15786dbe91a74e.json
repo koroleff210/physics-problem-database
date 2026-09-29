@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_19a5a1b7624b4c95af15786dbe91a74e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following is true about mass-energy changes in nuclear decay?</p><ol class=\"mcq-options\"><li data-label=\"A\">The mass of the products is always greater than the reactants</li><li data-label=\"B\">The mass of the products is less, and the difference is released as energy</li><li data-label=\"C\">There is no mass difference before and after the reaction</li><li data-label=\"D\">The mass increase corresponds to energy absorption</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

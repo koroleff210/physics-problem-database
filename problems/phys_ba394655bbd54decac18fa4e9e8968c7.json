@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/59168e088c04bc82cbe02eaaef393bdc9595e098ed77bdb894687b767a1bcdf2.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "59168e088c04bc82cbe02eaaef393bdc9595e098ed77bdb894687b767a1bcdf2"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/e4e842f64a543cff9d3c81a8208ff3529427f5897c8a2614b835ffe27843eb2b.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e4e842f64a543cff9d3c81a8208ff3529427f5897c8a2614b835ffe27843eb2b"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/84f4b3150d409495bd96a40092abb42024e673e6d88993bd9b794ec86ca79e91.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84f4b3150d409495bd96a40092abb42024e673e6d88993bd9b794ec86ca79e91"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2",
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_ba394655bbd54decac18fa4e9e8968c7",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"E=\"></span>«<span class=\"math\" data-latex=\"\\frac{120}{8.0\\times 10^{-2}}=\"></span>»<span class=\"math\" data-latex=\"1.5\\times 10^{3}NC^{-1}\"></span> OR <span class=\"math\" data-latex=\"V m^{-1}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"F=\"></span>«<span class=\"math\" data-latex=\"eE=\"></span>»<span class=\"math\" data-latex=\"3.2\\times 10^{-19}\\times 1.5\\times 10^{3}\"></span> OR <span class=\"math\" data-latex=\"4.8\\times 10^{-16}N\"></span> ✓ <span class=\"math\" data-latex=\"a=\"></span>«<span class=\"math\" data-latex=\"\\frac{F}{m}=\"></span>»<span class=\"math\" data-latex=\"\\frac{4.8\\times 10^{-16}}{4\\times 1.67\\times 10^{-27}}\"></span> OR <span class=\"math\" data-latex=\"7.2\\times 10^{10} ms^{-2}\"></span> ✓   Allow ECF from a). Award [1] if they use a charge of e and a mass of 2u obtaining the right result.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALT 1 <span class=\"math\" data-latex=\"t=\\sqrt{\\frac{2s}{a}}\"></span> ✓ <span class=\"math\" data-latex=\"t=\"></span>«<span class=\"math\" data-latex=\"\\sqrt{\\frac{2\\times 8.0\\times 10^{-2}}{7.2\\times 10^{10}}}=\"></span>»<span class=\"math\" data-latex=\"1.5\\times 10^{-6} s\"></span> ✓   ALT 2 <span class=\"math\" data-latex=\"v=\\sqrt{2 a s}\"></span>«<span class=\"math\" data-latex=\"=1.06\\times 10^{5} ms^{-1}\"></span>» ✓ <span class=\"math\" data-latex=\"t=\"></span>«<span class=\"math\" data-latex=\"\\frac{v}{a}=\"></span>»<span class=\"math\" data-latex=\"1.5\\times 10^{-6} s\"></span> ✓   Award [2] if 1.5 x 10<sup>−6</sup>«s» is seen as the answer without working.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>240 eV ✓   Accept 3.8 x 10<sup>−17</sup> J</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>F<sub>m</sub> = F<sub>e</sub> OR qvB = qE OR B = F<sub>e</sub> / qv ✓ <span class=\"math\" data-latex=\"B=\"></span>«<span class=\"math\" data-latex=\"\\frac{E}{v}=\\frac{1.5\\times 10^{3}}{5.0\\times 10^{5}}=\"></span>»<span class=\"math\" data-latex=\"3.0\\times 10^{-3}T\"></span> ✓   Award [2] if 3.0 x 10<sup>−3</sup> «T» is seen as the answer without working. Allow ECF from a) and b) i)</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Horizontal / undeflected path ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two oppositely charged parallel plates are a distance 8.0 cm apart. The potential difference between the plates is 120 V. An alpha particle is placed on the positively charged plate and released from rest. Gravity is ignored.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the electric field between the plates. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the acceleration of the alpha particle is about 7 × 10<sup>10</sup> m s<sup>−2</sup>. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the time taken for the alpha particle to reach the negative plate. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> State, in eV, the kinetic energy of the alpha particle when it arrives at the negative plate. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>A magnetic field directed into the plane of the page is now established between the plates. An alpha particle enters the region between the plates with a horizontal speed of 5.0 × 10<sup>5</sup> m s<sup>−1</sup>. The particle is not deflected.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Calculate the magnitude of the magnetic field.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The alpha particle in (c) is replaced by an electron. The electron enters the region between the plates with the same velocity as the alpha particle.</p>\n<p>Draw, on the diagram, the path of the electron.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

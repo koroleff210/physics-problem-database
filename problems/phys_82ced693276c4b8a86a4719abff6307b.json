@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/237fe9faddb50018aefdefe9299f8b9d2cea281968db0941c3a01714616c89a3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "237fe9faddb50018aefdefe9299f8b9d2cea281968db0941c3a01714616c89a3"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_82ced693276c4b8a86a4719abff6307b",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation of torque with time acting on a rotating object.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the angular impulse acting on the object?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The gradient of the line PQ</li><li data-label=\"B\">The average gradient of the line PQR</li><li data-label=\"C\">The area under the line PQ</li><li data-label=\"D\">The area under the line PQR</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

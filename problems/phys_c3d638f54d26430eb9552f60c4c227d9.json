@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_c3d638f54d26430eb9552f60c4c227d9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>During an experiment a monatomic ideal gas is subjected to an adiabatic compression, transitioning from initial state <span class=\"math\" data-latex=\"Y\"></span> to a final state with volume <span class=\"math\" data-latex=\"V\"></span>. The work done on the gas during the process is <span class=\"math\" data-latex=\"W\"></span>. What is the work done on the gas and the change in the internal energy of the gas during an isothermal compression from initial state <span class=\"math\" data-latex=\"Y\"></span> to a final state with volume <span class=\"math\" data-latex=\"V\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Work done</strong></p>\n</td>\n<td>\n<p><strong>Change in internal energy</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>Greater than <span class=\"math\" data-latex=\"W\"></span></p>\n</td>\n<td>\n<p>Less than zero</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>Less than <span class=\"math\" data-latex=\"W\"></span></p>\n</td>\n<td>\n<p>Greater than zero</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>Greater than <span class=\"math\" data-latex=\"W\"></span></p>\n</td>\n<td>\n<p>Zero</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>Less than <span class=\"math\" data-latex=\"W\"></span></p>\n</td>\n<td>\n<p>Zero</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

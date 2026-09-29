@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_e4a95bcc38fc4d0c9abc57dde8b2eb3d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A conducting wire is moving in a uniform magnetic field. Consider the following:</p>\n<p></p>\n<p>I. The magnitude of the magnetic field strength.</p>\n<p>II. The length of the wire.</p>\n<p>III. The speed at which the wire is moving. </p>\n<p></p>\n<p>The induced emf in the wire is proportional to:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

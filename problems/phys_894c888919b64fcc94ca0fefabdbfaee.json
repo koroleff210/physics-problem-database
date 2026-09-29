@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1159a1c0582e6ce4104cede6e40ff183de3be7cadccbfc69b868bf5c72aaab90.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1159a1c0582e6ce4104cede6e40ff183de3be7cadccbfc69b868bf5c72aaab90"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_894c888919b64fcc94ca0fefabdbfaee",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A solid is heated at constant power in an insulated container. The graph shows the variation of temperature with time.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Why is the temperature constant for section QR?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The intermolecular potential energy of the molecules is constant.</li><li data-label=\"B\">The kinetic energy of the molecules is constant.</li><li data-label=\"C\">The internal energy of the solid is constant.</li><li data-label=\"D\">The rate at which the solid absorbs heat is equal to the rate at which it loses heat.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

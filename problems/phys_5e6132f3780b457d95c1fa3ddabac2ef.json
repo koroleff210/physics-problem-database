@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5e6132f3780b457d95c1fa3ddabac2ef",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three particles are produced when the nuclide <sup>23</sup><sub>12</sub>Mg undergoes beta-plus (β<sup>+</sup>) decay. What are two of these particles?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"_{ }^{ }\"></span> and <span class=\"math\" data-latex=\"{}_{}^{} {}_{}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"_{-1}^{ }\"></span> and <span class=\"math\" data-latex=\"{}_{}^{} {}_{}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"_{ }^{ }\"></span> and <span class=\"math\" data-latex=\"_{ }^{ }v_{ }\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"_{ }^{ }\"></span> and <span class=\"math\" data-latex=\"_{ }^{ }v_{ }\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

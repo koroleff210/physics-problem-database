@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bee609b960ad16f26f4b79aeb2b61d941908ebb4eb6a2162bc1b69cb724d7bfd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bee609b960ad16f26f4b79aeb2b61d941908ebb4eb6a2162bc1b69cb724d7bfd"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/e6fa5a7a8bbd19e18100e02cb1886b6d3ea0b436bc2b511122d0d4c0378651dd.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e6fa5a7a8bbd19e18100e02cb1886b6d3ea0b436bc2b511122d0d4c0378651dd"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/62accb44dd575bbf89c2e6bcf5a6585025f0fa1d28107ea29585344a9b67f7ef.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "62accb44dd575bbf89c2e6bcf5a6585025f0fa1d28107ea29585344a9b67f7ef"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_ebf07eecaad54a2b94a13cc820395ed4",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"4a(i)\"><p><strong>4a(i)</strong></p><p></p>\n<p>An atom or nucleus characterized by a specific number of protons and neutrons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4a(ii)\"><p><strong>4a(ii)</strong></p><p></p>\n<p>Decay that is unaffected/not influenced by external factors.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4b\"><p><strong>4b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"_{6}^{10}C \\rightarrow  _{5}^{10}B + \\beta + v_{e}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4c\"><p><strong>4c</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p></p>\n<p>The graph should have N-axis intercept at 30 million.</p>\n<p>The two graphs should intersect at approximately N = 15 million.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d(i)\"><p><strong>4d(i)</strong></p><p></p>\n<p>15 times as many boron-10 nuclei in the sample means that <span class=\"math\" data-latex=\"\\frac{1}{16}\"></span> of the initial number of carbon-10 nuclei remain, so four half-lives have elapsed.</p>\n<p>One half-life <span class=\"math\" data-latex=\"= \\frac{83.2}{4} = 20.8 \\approx 21\"></span> s</p>\n<p>Calculated answer must be given to 3 s. f. In order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"4d(ii)\"><p><strong>4d(ii)</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p></p>\n<p>The graph should have N-axis intercept at 15 million.</p>\n<p>Graph D should intersect Graph C at approximately N = 7.5 million.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Carbon-10 is a radioactive nuclide that undergoes random, spontaneous beta plus decay to form a boron-10 nuclide.</p>\n<p>The graph shows how the number of boron-10 nuclei varies with time as a pure sample of  carbon-10 nuclei decays. </p>\n<p></p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline what is meant by:</p>\n<p>i. Nuclide</p>\n<p>  [1]</p>\n<p>ii. Spontaneous decay</p>\n<p>  [1]</p>\n<p>b. Identify the missing information in the following decay equation</p>\n<p><span class=\"math\" data-latex=\"_{6}^{10}C \\rightarrow  _{\\Box}^{10}B + \\beta + \\Box\"></span> </p>\n<p>  [2]</p>\n<p>c. The initial number of carbon-10 nuclei in the sample is <span class=\"math\" data-latex=\"3 \\times 10^{7}\"></span>. Sketch on the graph how the number of carbon-10 nuclei vary with time. Label this graph with the letter C.</p>\n<p>  [2]</p>\n<p>d. After 83.2 seconds, there are 15 times as many boron-10 nuclei as carbon-10 nuclei in the sample. </p>\n<p>i. Show that the half-life of carbon-10 is approximately 21 seconds.</p>\n<p>  [3]</p>\n<p>ii. Initially, a pure sample of a different radioactive nuclide has half as many nuclei as the carbon-10 sample. The half-life of this sample is 42 seconds. Sketch on the graph how the number of nuclei varies with time in this sample. Label this graph with the letter D.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

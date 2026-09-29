@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_873a8b7191d746918efdf2bb3d2416b5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The following table includes data about four planets:</p>\n\n<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Planet</strong></p>\n</td>\n<td><strong>Mass</strong></td>\n<td>\n<p><strong>Radius</strong></p>\n</td>\n<td>\n<p><strong>Escape speed</strong></p>\n</td>\n</tr>\n<tr>\n<td><strong>A.</strong></td>\n<td><strong><span class=\"math\" data-latex=\"M_{A}\"></span></strong></td>\n<td><span class=\"math\" data-latex=\"R\"></span></td>\n<td><span class=\"math\" data-latex=\"2v\"></span></td>\n</tr>\n<tr>\n<td><strong>B.</strong></td>\n<td><strong><span class=\"math\" data-latex=\"M_{B}\"></span></strong></td>\n<td><span class=\"math\" data-latex=\"2R\"></span></td>\n<td><span class=\"math\" data-latex=\"2v\"></span></td>\n</tr>\n<tr>\n<td><strong>C.</strong></td>\n<td><strong><span class=\"math\" data-latex=\"M_{C}\"></span></strong></td>\n<td><span class=\"math\" data-latex=\"2R\"></span></td>\n<td><span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n<tr>\n<td><strong>D.</strong></td>\n<td><strong><span class=\"math\" data-latex=\"M_{D}\"></span></strong></td>\n<td><span class=\"math\" data-latex=\"4R\"></span></td>\n<td><span class=\"math\" data-latex=\"v\"></span></td>\n</tr>\n</tbody>\n</table>\n\n<p>What is correct about the relationship between the masses of the planets?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"M_{B}&gt;M_{D}=M_{C}&gt;M_{A}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"M_{A}&gt;M_{C}=M_{D}&gt;M_{B}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"M_{C}&gt;M_{A}=M_{D}&gt;M_{B}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"M_{B}&gt;M_{A}=M_{D}&gt;M_{C}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

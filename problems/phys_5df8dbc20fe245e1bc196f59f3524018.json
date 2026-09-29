@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5df8dbc20fe245e1bc196f59f3524018",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Circular waves spread out from the gap. [1 mark]</p>\n<p>Waves bend significantly, forming a semicircular pattern. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Less diffraction, waves pass straight through.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Diffraction is a property of waves. [1 mark]</p>\n<p>Observation confirms water and light exhibit wave behaviour. [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a ripple tank experiment, straight water waves pass through a gap in a barrier.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Describe the diffraction pattern observed when the gap is narrow.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Suggest how the pattern changes when the gap width is increased.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain how diffraction supports the wave model of light and water.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

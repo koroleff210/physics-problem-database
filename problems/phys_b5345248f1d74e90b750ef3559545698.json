@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_b5345248f1d74e90b750ef3559545698",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two wires, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are made of the same uniform material. Their dimensions are compared in the table below.</p>\n<table><thead><tr><th>Wire</th><th>Length</th><th>Diameter</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"L\"></span></td><td><span class=\"math\" data-latex=\"d\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"2L\"></span></td><td><span class=\"math\" data-latex=\"2d\"></span></td></tr></tbody></table>\n<p>If the resistance of wire <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"R\"></span>, what is the resistance of wire <span class=\"math\" data-latex=\"Y\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25 R\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.5 R\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"R\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2 R\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

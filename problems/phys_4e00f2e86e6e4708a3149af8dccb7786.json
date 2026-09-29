@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4e00f2e86e6e4708a3149af8dccb7786",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A thin layer of transparent oil with a refractive index of <span class=\"math\" data-latex=\"1.40\"></span> is spread over a pool of water, which has a refractive index of <span class=\"math\" data-latex=\"1.33\"></span>. The oil layer is illuminated at normal incidence by monochromatic light with a wavelength of <span class=\"math\" data-latex=\"560\\ \\text{nm}\"></span> in air. Which of the following is the minimum non-zero thickness of the oil layer required for the reflected light to experience constructive interference?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"140\\ \\text{nm}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"100\\ \\text{nm}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"280\\ \\text{nm}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"200\\ \\text{nm}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

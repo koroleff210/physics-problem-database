@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_dad6ae06ab4d4ef1b876bfddd8f3efa8",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The half-life of a radioactive element is 1 day. The initial number of undecayed atoms in a pure sample of this element is 200.</p>\n<p>How many undecayed atoms are there in the sample after 3 days?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">0</li>\n<li data-label=\"B\">25</li>\n<li data-label=\"C\">50</li>\n<li data-label=\"D\">100</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

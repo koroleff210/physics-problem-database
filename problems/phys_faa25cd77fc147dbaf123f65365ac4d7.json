@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_faa25cd77fc147dbaf123f65365ac4d7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>The problem states the net external force on the system is zero, so momentum is conserved. Since the system is initially stationary, the total initial momentum is zero, and thus the total final momentum must also be zero. The impulse on the gun is equal to its change in momentum. By conservation of momentum, the gun's final momentum is equal in magnitude to the ball's final momentum, which is <span class=\"math\" data-latex=\"p_{\\mathrm{ball}}\"></span> = m*v = 0.0030 kg * 10 m/s = 0.03 kg m/s. Therefore, the impulse on the gun is 0.03 Ns.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball of mass 0.0030 kg is fired with a speed of 10 m s^-1 from a toy gun of mass 0.60 kg, which is initially stationary. The net external force on the system is zero.</p>\n<p>What are the impulse on the gun and the total momentum of the system just after it is fired?</p>\n<table><thead><tr><th>Option</th><th>Impulse on the gun / N s</th><th>Total momentum of the system / kg m s^-1</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>0.03</td><td>0.57</td></tr><tr data-label=\"B\"><td>B</td><td>0.03</td><td>0</td></tr><tr data-label=\"C\"><td>C</td><td>6</td><td>0.57</td></tr><tr data-label=\"D\"><td>D</td><td>6</td><td>0</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

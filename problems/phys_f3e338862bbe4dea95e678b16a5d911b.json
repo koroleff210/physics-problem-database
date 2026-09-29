@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_f3e338862bbe4dea95e678b16a5d911b",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of a planet is <em>R</em>. A satellite, which orbits the planet at a distance <em>R</em> above the surface, has acceleration <em>a</em> and orbital period <em>T</em>. The satellite then is moved into an orbit at a distance of 3<em>R</em> from the surface of the planet. </p>\n<p>What should be the new orbital period of the satellite in order for its acceleration to remain <em>a</em>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span><em>T</em></li>\n<li data-label=\"B\">2<em>T</em></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{3}\"></span><em>T</em></li>\n<li data-label=\"D\">3<em>T</em></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

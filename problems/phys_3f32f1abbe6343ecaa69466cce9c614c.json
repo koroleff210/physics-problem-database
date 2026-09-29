@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_3f32f1abbe6343ecaa69466cce9c614c",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>A neutron collides with the nucleus of a heavy element (for example, uranium-235) and as a result, two smaller nuclei are emitted along with several neutrons.</p>\n<p>The emitted neutrons collide with other nuclei of the heavy element, repeating the fission process and establishing a chain reaction.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b(i)\"><p><strong>3b(i)</strong></p><p></p>\n<p>The role of a moderator is to slow down fast moving neutrons.</p>\n<p>Therefore a moderator must be a poor absorber of neutrons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b(ii)\"><p><strong>3b(ii)</strong></p><p></p>\n<p>The role of control rods is to control the power output/rate of nuclear fission in the reactor by reducing the number of neutrons.</p>\n<p>Therefore control rods must be good absorbers of neutrons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c(i)\"><p><strong>3c(i)</strong></p><p></p>\n<p>It is a spontaneous fission reaction, because there is no neutron on the left-hand side of the reaction equation.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c(ii)\"><p><strong>3c(ii)</strong></p><p> </p>\n<p><span class=\"math\" data-latex=\"\\Delta E = 228 \\times 7.64 + 4 \\times 7.07 - 232 \\times 7.62 = 2.36\"></span> MeV</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In nuclear power plants electrical energy is produced through neutron-induced fission leading to a chain reaction.</p>\n<p>(a)   Outline how neutron-induced fission is used to establish a chain reaction.</p>\n<p>  [2]</p>\n<p>Two essential components in a nuclear reactor are the moderator and the control rods.</p>\n<p>(b)   State and explain the role of</p>\n<p>(i)   a moderator.</p>\n<p>  [2]</p>\n<p>(ii)   control rods.</p>\n<p>  [2]</p>\n<p>Consider the following fission reaction equation:</p>\n<p><span class=\"math\" data-latex=\"{}^{232}_{\\; \\, 90}\\mathrm{Th} \\rightarrow {}^{228}_{\\; \\, 88}\\mathrm{Ra} + {}^{4}_{2}\\mathrm{He}\"></span></p>\n<p>(c)</p>\n<p>(i)   Outline whether the reaction is spontaneous or neutron-induced fission.</p>\n<p>  [1]</p>\n<p>(ii)   Given that the binding energy per nucleon for thorium-232 is <span class=\"math\" data-latex=\"7.62\"></span> MeV, for radium-228 it is <span class=\"math\" data-latex=\"7.64\"></span> MeV, and for helium-4 it is <span class=\"math\" data-latex=\"7.07\"></span> MeV, calculate the energy released in this reaction.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

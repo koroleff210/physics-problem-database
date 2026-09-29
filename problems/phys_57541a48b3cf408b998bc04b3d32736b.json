@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_57541a48b3cf408b998bc04b3d32736b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks P and Q of the same mass are placed in thermal contact with each other until they reach thermal equilibrium. In reaching thermal equilibrium the temperature of P increases by 10 K, and the temperature of Q decreases by 20 K. Thermal energy exchange with the surroundings is negligible.</p>\n<p>Which statement is correct?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">P has a greater specific heat capacity than Q.</li><li data-label=\"B\">Q has a greater specific heat capacity than P.</li><li data-label=\"C\">The magnitude of the change in internal energy is greater for P than for Q.</li><li data-label=\"D\">The magnitude of the change in internal energy is greater for Q than for P.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

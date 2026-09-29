@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_dea20c773d6340a1aec2814392f03459",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement correctly describes a difference between single-slit diffraction and double-slit interference?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">A single-slit diffraction pattern is only observed when monochromatic light passes through a slit.</li>\n<li data-label=\"B\">The double-slit interference pattern is not influenced by the width of the slits.</li>\n<li data-label=\"C\">The appearance of the single-slit diffraction pattern only depends on the wavelength of the incident light.</li>\n<li data-label=\"D\"> In a single-slit diffraction pattern, the intensity of the first secondary maximum is only about 5% of the principal maximum, while in a double-slit interference pattern it is much higher.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

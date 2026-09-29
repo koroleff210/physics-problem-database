@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b436679b67f15fbd90276202866a459d608588ad73c61f5bb15f600c64da90a8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b436679b67f15fbd90276202866a459d608588ad73c61f5bb15f600c64da90a8"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_5bebe2369a5d414ea14a0486c27ee004",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A square-shaped coil in a uniform magnetic field is flipped as shown on the diagram. The magnitude of the magnetic field is 0.2 T, the side length of the coil is 10 cm and the time it takes to flip the coil is 10 ms.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the magnitude of the induced emf in the coil?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">0.2 V</li>\n<li data-label=\"B\">0.4 V</li>\n<li data-label=\"C\">2 V</li>\n<li data-label=\"D\">4 V</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

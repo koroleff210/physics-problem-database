@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6077a7021e96a9a8cf122a85acf6d80faf7866953032043663da8c44edfd3792.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6077a7021e96a9a8cf122a85acf6d80faf7866953032043663da8c44edfd3792"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_731eabcc52f14694bd2a1130b22191a9",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The electric field direction between two conducting horizontal plates that are in vacuum is upwards.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The distance between the plates is <span class=\"math\" data-latex=\"D\"></span> and the potential difference between the plates is <span class=\"math\" data-latex=\"S\"></span>.</p>\n<p>An electron is placed half-way between the plates and released.</p>\n<p>What is the magnitude and the direction of the electron’s acceleration?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Magnitude of electron’s acceleration</strong></p>\n</td>\n<td>\n<p><strong>Direction of electron’s acceleration</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"g + \\frac{eS}{m_{\\textup{e}}D}\"></span></p>\n</td>\n<td>\n<p>downwards</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"g - \\frac{eS}{m_{\\textup{e}}D}\"></span></p>\n</td>\n<td>\n<p>downwards</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"g + \\frac{eS}{m_{\\textup{e}}D}\"></span></p>\n</td>\n<td>\n<p>upwards</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"g - \\frac{eS}{m_{\\textup{e}}D}\"></span></p>\n</td>\n<td>\n<p>upwards</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

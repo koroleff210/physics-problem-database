@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_6887c05666c848c8ae39fa613e936982",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: D</p>\n<p>A: Incorrect. In SHM the speed changes with time, so kinetic energy is not constant.</p>\n<p>B: Incorrect. Kinetic energy depends on <span class=\"math\" data-latex=\"v^2\"></span>, not on displacement, and is always non-negative.</p>\n<p>C: Incorrect. While velocity is <span class=\"math\" data-latex=\"\\pi/2\"></span> out of phase with displacement, kinetic energy is proportional to <span class=\"math\" data-latex=\"v^2\"></span> and so is not sinusoidal (and does not take negative values).</p>\n<p>D: Correct. For SHM, <span class=\"math\" data-latex=\"x=A\\cos(\\omega t)\"></span> so <span class=\"math\" data-latex=\"v=-A\\omega\\sin(\\omega t)\"></span> and <span class=\"math\" data-latex=\"K=\\tfrac12 mv^2\\propto \\sin^2(\\omega t)=\\tfrac12[1-\\cos(2\\omega t)]\"></span>, i.e. always non-negative and with frequency <span class=\"math\" data-latex=\"2\\omega\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement best describes the kinetic energy–time graph for a body undergoing SHM?</p><ol class=\"mcq-options\"><li data-label=\"A\">A constant line</li><li data-label=\"B\">A sine wave in the same phase as displacement</li><li data-label=\"C\">A sine wave out of phase with displacement by <span class=\"math\" data-latex=\"\\pi/2\"></span></li><li data-label=\"D\">A cosine-squared wave with twice the frequency of displacement</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

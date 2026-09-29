@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_88e35902697f4725ba527b2177c7193e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which expression correctly gives the electrical power dissipated in a resistor?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"P = IV\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"P = IR^2\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"P = \\frac{V}{I}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"P = \\frac{V^2}{IR}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

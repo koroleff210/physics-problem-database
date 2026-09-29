@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_a3244aaf483c4955ae58cac5b455a676",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best describes a main sequence star?</p><ol class=\"mcq-options\"><li data-label=\"A\">A star fusing hydrogen in its core</li><li data-label=\"B\">A star that has exhausted all its fuel</li><li data-label=\"C\">A collapsed star emitting only neutrinos</li><li data-label=\"D\">A star composed mainly of heavy elements</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 8,
+  "id": "phys_60d5d6d078d24dd49e7b801154de79c1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why adding clouds can both cool and warm the Earth?</p><ol class=\"mcq-options\"><li data-label=\"A\">Clouds increase Earth's albedo and also trap infrared radiation</li><li data-label=\"B\">Clouds have low emissivity and absorb solar radiation</li><li data-label=\"C\">Clouds emit ultraviolet radiation during condensation</li><li data-label=\"D\">Clouds cause large convection currents that warm the surface</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

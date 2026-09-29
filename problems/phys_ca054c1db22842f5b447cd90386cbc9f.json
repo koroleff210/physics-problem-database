@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3ee1757010e936c7949d8f3366f59f1035f1d0f0a2c3d6f93d1a3d10e034a427.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3ee1757010e936c7949d8f3366f59f1035f1d0f0a2c3d6f93d1a3d10e034a427"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_ca054c1db22842f5b447cd90386cbc9f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows the variation of the internal energy U with temperature T for a sample of an ideal monatomic gas. <span class=\"math\" data-latex=\"R\"></span> is the gas constant.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>How many moles of the gas are in the sample?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{500}{3R}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{15}{R}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1000}{9R}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{10}{R}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

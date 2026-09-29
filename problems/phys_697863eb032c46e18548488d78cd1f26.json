@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_697863eb032c46e18548488d78cd1f26",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\Delta U = Q - W\"></span>, where <span class=\"math\" data-latex=\"\\Delta U\"></span> is change in internal energy, <span class=\"math\" data-latex=\"Q\"></span> is thermal energy added to the system, <span class=\"math\" data-latex=\"W\"></span> is work done by the system [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- <span class=\"math\" data-latex=\"\\Delta U = 300 - 100 = 200\\ \\text{J}\"></span><br/>- Correct substitution [1 mark] and result [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Since internal energy increases and for a monatomic ideal gas <span class=\"math\" data-latex=\"\\Delta U \\propto \\Delta T\"></span>, the temperature increases [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A sample of monatomic ideal gas undergoes a process in which it absorbs <span class=\"math\" data-latex=\"300\\ \\text{J}\"></span> of thermal energy and does <span class=\"math\" data-latex=\"100\\ \\text{J}\"></span> of work on the surroundings.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the first law of thermodynamics. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the change in internal energy of the gas. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain whether the temperature of the gas increases, decreases, or remains constant. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

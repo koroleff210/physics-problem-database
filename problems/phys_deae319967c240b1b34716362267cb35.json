@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_deae319967c240b1b34716362267cb35",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet P has mass <span class=\"math\" data-latex=\"M\"></span> and radius <span class=\"math\" data-latex=\"R\"></span> and Planet Q has a radius of <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span>. Both planets have the same uniform density. The gravitational potential at a distance <span class=\"math\" data-latex=\"R\"></span> above the surface of Planet P is <span class=\"math\" data-latex=\"V\"></span>. What is the gravitational potential at a distance <span class=\"math\" data-latex=\"2R\"></span> above the surface of Planet Q? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{V}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{2V}{5}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{V}{10}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{V}{16}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

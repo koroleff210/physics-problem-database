@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/13a94aba5e1a89c2bbbcba1f75164fd26fa78fdd216da05dc491bc78a99f8c34.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "13a94aba5e1a89c2bbbcba1f75164fd26fa78fdd216da05dc491bc78a99f8c34"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_4442ce1539724b1a802e183cba542050",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student of mass <span class=\"math\" data-latex=\"m\"></span> initially at rest takes <span class=\"math\" data-latex=\"t\"></span> seconds to run up stairs of height <span class=\"math\" data-latex=\"h\"></span>. At the top of the stairs the student has a velocity <span class=\"math\" data-latex=\"v\"></span>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average power supplied by the student during the climb?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mgh}{t}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{mgh+\\frac{1}{2}v^{2}}{t}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{mgh-\\frac{1}{2}v^{2}}{t}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"mgv\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

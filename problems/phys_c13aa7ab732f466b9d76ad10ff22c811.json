@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3bf2833e649adc8d32298f589d85433495a2cfa68fd6514f38a0433d5ad51385.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3bf2833e649adc8d32298f589d85433495a2cfa68fd6514f38a0433d5ad51385"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_c13aa7ab732f466b9d76ad10ff22c811",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A single loop of wire of resistance 10 Ω has its plane perpendicular to a changing magnetic field.</p>\n<p>The graph shows the variation with time of the magnetic flux linked through the loop of wire.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the maximum current in the loop of wire?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.0 A</li><li data-label=\"B\">2.0 A</li><li data-label=\"C\">4.0 A</li><li data-label=\"D\">20 A</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

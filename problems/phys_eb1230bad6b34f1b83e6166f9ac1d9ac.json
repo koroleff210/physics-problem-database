@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f4ae89ef3f7559ba8a46ff1e776e48f5960cc0c8ac9c984c346357914fa05c93.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f4ae89ef3f7559ba8a46ff1e776e48f5960cc0c8ac9c984c346357914fa05c93"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_eb1230bad6b34f1b83e6166f9ac1d9ac",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>It takes an object two seconds to move from point A to point B along the path shown in the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the average speed and the magnitude of the average velocity of the object?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Average speed</strong></p>\n</td>\n<td>\n<p><strong>Magnitude of average velocity</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"4 + 2 \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n<td><span class=\"math\" data-latex=\"6\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"4 + 2 \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n<td><span class=\"math\" data-latex=\"4 + \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"4 + \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n<td><span class=\"math\" data-latex=\"6\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"4 + \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n<td><span class=\"math\" data-latex=\"4 + \\pi\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

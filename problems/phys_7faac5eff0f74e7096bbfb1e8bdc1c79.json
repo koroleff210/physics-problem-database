@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_7faac5eff0f74e7096bbfb1e8bdc1c79",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical sources oscillate in phase and produce constructive interference at a point P. The intensity recorded at P is I.</p>\n<p>What is the intensity at P from one source?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span>I</li><li data-label=\"B\">I</li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{I}{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{I}{4}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

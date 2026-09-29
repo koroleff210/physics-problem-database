@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0f18a3a0fc9a0b14db549c810242a142064016fccd3eea70b80d1432387d8e07.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0f18a3a0fc9a0b14db549c810242a142064016fccd3eea70b80d1432387d8e07"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_264ebc0bc4c24c6198a2693deee9f597",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>According to the Doppler effect for a moving observer and stationary source, the observed frequency is constant when the speed is constant. When the observer moves towards the source (t&lt;T), the observed frequency is higher than the source frequency. When moving away (t&gt;T), the observed frequency is lower. This results in a step-down change in frequency at t=T, as depicted in graph D.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An observer moves with constant speed towards and then past a stationary sound source.</p>\n<p>The speed of the observer is less than the speed of sound. At time T, the observer passes the source and starts moving away from it. Which graph shows how the frequency f measured by the observer varies with time t?</p>\n<p>Options are four f-against-t graphs labelled A-D in the source diagram.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> graph option A from source</li>\n<li data-label=\"B\"> graph option B from source</li>\n<li data-label=\"C\"> graph option C from source</li>\n<li data-label=\"D\"> graph option D from source</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

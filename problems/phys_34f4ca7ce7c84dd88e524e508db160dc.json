@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_34f4ca7ce7c84dd88e524e508db160dc",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The area of a square-shaped conducting coil with side length of <span class=\"math\" data-latex=\"3.0\"></span> cm is perpendicular to a magnetic field of strength <span class=\"math\" data-latex=\"200 \\: \\mu\"></span>T. What is the magnitude of the induced emf in the coil when the direction of the magnetic field is reversed in <span class=\"math\" data-latex=\"4.5\"></span> s? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"40\"></span> nV</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"80\"></span> nV</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"400\"></span> nV</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"800\"></span> nV</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

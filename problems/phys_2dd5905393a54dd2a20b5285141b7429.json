@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2dd5905393a54dd2a20b5285141b7429",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: At low pressure, gas particles are far apart so intermolecular forces and particle volume are negligible; behaviour is closer to ideal.</p>\n<p>B: At high temperature, particle kinetic energy is large compared with intermolecular attractions; behaviour is closer to ideal.</p>\n<p>C: Low volume corresponds to high pressure, so particle volume and intermolecular forces become significant; real gases deviate most from ideal behaviour under these conditions.</p>\n<p>D: Low temperature increases the importance of intermolecular attractions, promoting deviation, but the strongest deviation is typically associated with high pressure/low volume; compared to low volume it is less directly the primary condition here.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which condition is most likely to cause a real gas to deviate from ideal behavior?</p><ol class=\"mcq-options\"><li data-label=\"A\">Low pressure</li><li data-label=\"B\">High temperature</li><li data-label=\"C\">Low volume</li><li data-label=\"D\">Low temperature</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

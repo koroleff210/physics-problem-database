@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_331353d680ed4d34b2ab6d1d14e80930",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>S<sub>1</sub> and S<sub>2</sub> are two coherent sound sources with no phase difference. The wavelength of both waves is 0.20 m. P is a point 6.0 m away from S<sub>1</sub> and 6.5 m away from S<sub>2</sub> respectively. At P the amplitude of the wave from S<sub>1</sub> is <span class=\"math\" data-latex=\"x_{0}\"></span> and from S<sub>2</sub> is <span class=\"math\" data-latex=\"2x_{0}\"></span>.</p>\n<p>What is the resultant amplitude at P?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"0\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"x_{0}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2x_{0}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"3x_{0}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

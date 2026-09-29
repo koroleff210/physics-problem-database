@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_a5b53dbfd398411d8311200cafe49c61",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This represents the potential difference (voltage drop) across the cables (<span class=\"math\" data-latex=\"I \\times R\"></span>), not the power dissipated.</p>\n<p>B: This would be the result if the student used an incorrect formula for resistance, such as <span class=\"math\" data-latex=\"R = \\frac{\\rho A}{L}\"></span> instead of <span class=\"math\" data-latex=\"R = \\frac{\\rho L}{A}\"></span>.</p>\n<p>C: The power dissipated in the cables is given by <span class=\"math\" data-latex=\"P_{lost} = I_{rms}^2 R\"></span>.<br/>From the power delivered, the rms current is <span class=\"math\" data-latex=\"I_{rms} = \\frac{P}{V}\"></span>.<br/>The resistance of the cables is given by <span class=\"math\" data-latex=\"R = \\rho \\frac{L}{A}\"></span>.<br/>Substituting these into the power equation: <span class=\"math\" data-latex=\"P_{lost} = \\left( \\frac{P}{V} \\right)^2 \\left( \\rho \\frac{L}{A} \\right) = \\frac{P^2 \\rho L}{V^2 A}\"></span>.</p>\n<p>D: This is the result of using <span class=\"math\" data-latex=\"P = \\frac{V^2}{R}\"></span> with the transmission voltage <span class=\"math\" data-latex=\"V\"></span>. This is a common misconception; <span class=\"math\" data-latex=\"V\"></span> is the voltage relative to ground, not the potential difference across the length of the transmission cables.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electrical power station transmits a constant average power <span class=\"math\" data-latex=\"P\"></span> to a city at an rms voltage <span class=\"math\" data-latex=\"V\"></span>. The transmission cables have a total length <span class=\"math\" data-latex=\"L\"></span>, a cross-sectional area <span class=\"math\" data-latex=\"A\"></span>, and are made of a material with resistivity <span class=\"math\" data-latex=\"\\rho\"></span>.</p>\n<p>Which expression represents the average power lost as thermal energy in the transmission cables?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{P \\rho L}{V A}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{P^2 \\rho A}{V^2 L}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{P^2 \\rho L}{V^2 A}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{V^2 A}{\\rho L}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

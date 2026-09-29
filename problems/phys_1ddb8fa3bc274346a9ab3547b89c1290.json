@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_1ddb8fa3bc274346a9ab3547b89c1290",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of intensity I and frequency <span class=\"math\" data-latex=\"f\"></span>, which is above the threshold frequency, is directed at a polished metal surface. The following three claims are made about electrons ejected from the surface.</p>\n<p>I.  The ejection is almost instantaneous.</p>\n<p>II.  The number ejected is proportional to I.</p>\n<p>III.  Their kinetic energy is equal to Planck’s constant multiplied by <span class=\"math\" data-latex=\"f\"></span>.</p>\n<p>Which statements are correct?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

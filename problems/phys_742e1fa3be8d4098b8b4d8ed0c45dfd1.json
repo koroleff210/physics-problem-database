@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6025c63e8dd27d60e797635e0f53d1528ce61a1eaf19438e5ab314a3a6d4a49e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6025c63e8dd27d60e797635e0f53d1528ce61a1eaf19438e5ab314a3a6d4a49e"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_742e1fa3be8d4098b8b4d8ed0c45dfd1",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"Markscheme\"><p><strong>Markscheme</strong></p><p>muons decay into electrons / muons have short lifetime ✔<br/>without relativity few muons would reach the ground ✔<br/>experiments show the arrival of more muons than expected ✔<br/>therefore the lifetime of the muons has been increased «in the ground frame» ✔<br/>«so time dilation has occurred» Accept lifetime / half-life</p></section><section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>a moving muon creates a magnetic field «at the position of the other muon» ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>the net force must be repulsive in all frames ✔<br/>hence the electric force is greater than the magnetic force ✔ MP2 requires MP1.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>muons decay into electrons / muons have short lifetime ✔<br/>without relativity few muons would reach the ground ✔<br/>experiments show the arrival of more muons than expected ✔<br/>therefore the lifetime of the muons has been increased «in the ground frame» ✔<br/>«so time dilation has occurred» Accept lifetime / half-life</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Two muons are moving parallel to each other with the same velocity relative to the ground.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>In the frame of reference in which the muons are at rest, the force between them is a repulsive electric force.</p>\n<p>In muon decay experiments, muons produced high in the Earth’s atmosphere move towards the ground at speeds close to the speed of light. Detectors on the ground record the arrival of muons. Outline how these experiments provide support for time dilation.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain, for the frame of reference of the ground,</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> why there is an additional magnetic force between the muons. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> whether the electric or the magnetic force has the greater magnitude. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> In muon decay experiments, muons produced high in the Earth’s atmosphere move towards the ground at speeds close to the speed of light. Detectors on the ground record the arrival of muons. Outline how these experiments provide support for time dilation. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

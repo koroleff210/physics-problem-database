@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 1,
+  "id": "phys_ecb58ba5bd1b47d4b419752ec0ff1aab",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A train is moving in a straight line to the left at a constant speed of <span class=\"math\" data-latex=\"6.0\\;\\textup{m\\,s}^{-1}\"></span> relative to the ground. A person on the train walks to the right at a constant speed of <span class=\"math\" data-latex=\"1.5\\;\\textup{m\\,s}^{-1}\"></span>.</p>\n<p>What is the speed of the person relative to the ground?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.5\\;\\textup{m\\,s}^{-1}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"4.5\\;\\textup{m\\,s}^{-1}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"6.0\\;\\textup{m\\,s}^{-1}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"7.5\\;\\textup{m\\,s}^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

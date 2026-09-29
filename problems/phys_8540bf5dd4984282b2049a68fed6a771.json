@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/21207ea7370cfb2202091bb8edf22b0148365bda40f3293a0f21dc0588141701.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "21207ea7370cfb2202091bb8edf22b0148365bda40f3293a0f21dc0588141701"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_8540bf5dd4984282b2049a68fed6a771",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A person of mass <span class=\"math\" data-latex=\"50\\; \\textup{kg}\"></span> is sitting on the edge of a rotating disc.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The diameter of the disc is <span class=\"math\" data-latex=\"4.0\\; \\textup{m}\"></span> and its moment of inertia is <span class=\"math\" data-latex=\"400\\; \\textup{kg\\,m}^{2}\"></span>. The initial angular velocity of the disc is <span class=\"math\" data-latex=\"1.0\\; \\textup{rad\\,s}^{-1}\"></span>.</p>\n<p>Given that no external torque acts on the system, what is the work done by the person when she crawls to the centre of the disc?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"150\\; \\textup{J}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"200\\; \\textup{J}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"250\\; \\textup{J}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"300\\; \\textup{J}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

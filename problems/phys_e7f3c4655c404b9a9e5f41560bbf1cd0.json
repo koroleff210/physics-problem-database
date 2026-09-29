@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_e7f3c4655c404b9a9e5f41560bbf1cd0",
+  "level": "sl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>it is the temperature at which the volume OR the pressure extrapolates to zero (can be shown by sketch)  ✓</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>it is the temperature at which all the (random) motion stops OR at which all the motion can be extrapolated to stop OR at which the kinetic energy of all particles is zero ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of <span class=\"math\" data-latex=\"\\frac{4.0\\times 10^{-2}}{N_{A}}=6.6\\times 10^{-26} kg\"></span>  ✓ Work showing that <span class=\"math\" data-latex=\"v=\\sqrt{\\frac{3p}{\\rho}=\\sqrt{\\frac{3pV}{m}}}=\\sqrt{\\frac{3kT}{m}}\"></span>  ✓ Correct substitution AND conversion to K (310 K)  ✓  430/440 «m s<sup>−1</sup>» ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>the gases are in the same container at the same temperature so are in equilibrium ✓ they must have the same mean/average kinetic energy ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline how the concept of absolute zero of temperature is interpreted in terms of:</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> the ideal gas law, [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> the kinetic energy of particles in an ideal gas. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>A container holds a mixture of argon and helium atoms at a temperature of 37 °C.</p>\n<p>Calculate the average translational speed of the argon atoms.</p>\n<p>The molar mass of argon is 4.0 × 10<sup>−2</sup> kg mol<sup>−1</sup>.</p><p>[4]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Discuss how the mean kinetic energy of the argon atoms in the mixture compares with that of the helium atoms. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

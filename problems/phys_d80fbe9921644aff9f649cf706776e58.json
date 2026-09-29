@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_d80fbe9921644aff9f649cf706776e58",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Gas A is at a temperature of 100 K and the average speed of its molecules is 2<em>v</em>. Gas B is at a temperature of 200 K and the average speed of its molecules is <em>v</em>.</p>\n<p>What is the ratio of <span class=\"math\" data-latex=\"\\frac{Molar  mass  of  gas  A}{Molar  mass  of  gas  B}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n<li data-label=\"C\">2</li>\n<li data-label=\"D\">8</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

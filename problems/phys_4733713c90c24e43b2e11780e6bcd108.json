@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4733713c90c24e43b2e11780e6bcd108",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- The probability of decay of a nucleus per unit time. [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Identify from table that mass halves every 8 days (e.g., <span class=\"math\" data-latex=\"4.80\"></span> to <span class=\"math\" data-latex=\"2.40\"></span>) [1 mark]<br/>- Convert days to seconds: <span class=\"math\" data-latex=\"8 \\times 24 \\times 3600 = 691,200\"></span> s [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Calculate moles: <span class=\"math\" data-latex=\"n = \\frac{4.80 \\times 10^{-6}}{131} = 3.66 \\times 10^{-8}\\ \\text{mol}\"></span> [1 mark]<br/>- Calculate nuclei: <span class=\"math\" data-latex=\"N_0 = n \\times N_A = 3.66 \\times 10^{-8} \\times 6.02 \\times 10^{23} = 2.20 \\times 10^{16}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>- Calculate decay constant: <span class=\"math\" data-latex=\"\\lambda = \\frac{\\ln 2}{691200} = 1.00 \\times 10^{-6}\\ \\text{s}^{-1}\"></span> [1 mark]<br/>- Calculate activity at 16 days (<span class=\"math\" data-latex=\"2\"></span> half-lives): <span class=\"math\" data-latex=\"N = \\frac{N_0}{4} = 5.51 \\times 10^{15}\"></span><br/>- Use <span class=\"math\" data-latex=\"A = \\lambda N = (1.00 \\times 10^{-6}) \\times (5.51 \\times 10^{15}) = 5.51 \\times 10^9\\ \\text{Bq}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>- State the ratio: The activity of Isotope-Y will be three times the activity of Isotope-131 (ratio 3:1) [1 mark]<br/>- Explain reasoning: Since <span class=\"math\" data-latex=\"A = \\lambda N\"></span>, if <span class=\"math\" data-latex=\"N\"></span> is constant, activity is directly proportional to the decay constant [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p>- Advantage: The patient is exposed to radiation for a shorter duration, reducing the total absorbed dose/long-term risk [1 mark]<br/>- Disadvantage: The isotope must be produced and transported quickly, or manufactured on-site (e.g., using a cyclotron), due to its rapid decay [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The following table shows the remaining mass of a sample of Isotope-131 as it undergoes radioactive decay over a period of 24 days.</p><table><thead><tr><th>Time / days</th><th>Mass / <span class=\"math\" data-latex=\"\\mu\\text{g}\"></span></th></tr></thead><tbody><tr><td>0</td><td>4.80</td></tr><tr><td>8</td><td>2.40</td></tr><tr><td>16</td><td>1.20</td></tr><tr><td>24</td><td>0.60</td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the decay constant, <span class=\"math\" data-latex=\"\\lambda\"></span>, for a radioactive substance.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Using the data in the table, determine the half-life of Isotope-131 in seconds. Show your working.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the initial number of nuclei, <span class=\"math\" data-latex=\"N_0\"></span>, in the <span class=\"math\" data-latex=\"4.80\\ \\mu\\text{g}\"></span> sample. (Molar mass of Isotope-131 is <span class=\"math\" data-latex=\"131\\ \\text{g mol}^{-1}\"></span>; Avogadro constant <span class=\"math\" data-latex=\"N_A = 6.02 \\times 10^{23}\\ \\text{mol}^{-1}\"></span>)<p>[2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>Determine the activity of the sample at <span class=\"math\" data-latex=\"t = 16\"></span> days. Give your answer in Becquerels (Bq).<p>[2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p>A different isotope, Isotope-Y, has a decay constant that is exactly three times larger than that of Isotope-131. Compare the initial activity of a sample of Isotope-Y to that of Isotope-131, assuming both samples initially contain the same number of nuclei.<p>[2]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> </p>In nuclear medicine, isotopes with relatively short half-lives are preferred for use as internal tracers. Suggest one medical advantage and one logistical disadvantage of this choice.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

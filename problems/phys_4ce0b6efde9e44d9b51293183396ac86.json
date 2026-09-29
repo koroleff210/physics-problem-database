@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e8a2a71cb21f7432a4a3d4596fa80ed1ac46928b5c0ecb9da41ae70f11ad53c0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e8a2a71cb21f7432a4a3d4596fa80ed1ac46928b5c0ecb9da41ae70f11ad53c0"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/5baa7a6c798803daf5b8b42cc75871df92ebf79c09a42507dde96a5f3c229d1c.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5baa7a6c798803daf5b8b42cc75871df92ebf79c09a42507dde96a5f3c229d1c"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/085ec59e1c0bd910a94af4693adfffeeff078792781fafa0aded6b4aab6a88f1.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "085ec59e1c0bd910a94af4693adfffeeff078792781fafa0aded6b4aab6a88f1"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/6eea823cee077dd8044a5b7cc2b10c5231d31550883196047d4bea9bb4d97ff8.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "6eea823cee077dd8044a5b7cc2b10c5231d31550883196047d4bea9bb4d97ff8"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_4ce0b6efde9e44d9b51293183396ac86",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>smooth curve decreasing from <span class=\"math\" data-latex=\"I_{0}\"></span> to 0 between 0 and <span class=\"math\" data-latex=\"x\"></span> ✓ secondary maximum correctly placed AND of intensity less than 0.3 <span class=\"math\" data-latex=\"I_{0}\"></span> ✓ E.g.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>observed pattern goes beyond the rectangular shape/geometrical shadow</p>\n<p>OR</p>\n<p>observed pattern shows maxima/minima ✓</p>\n<p>«this is explained by» interference/superposition of waves ✓</p>\n<p>Accept any correct description of the diffraction pattern for MP1.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>angle of the first minimum <span class=\"math\" data-latex=\"=\\frac{590\\times 10^{-9}}{0.10\\times 10^{-3}}=\"></span>«<span class=\"math\" data-latex=\"0.0059\"></span> rad» ✓</p>\n<p>width <span class=\"math\" data-latex=\"=2\\times 0.0059\\times 2.4=2.8\\times 10^{-2}\"></span> «m» ✓</p>\n<p>1.4 × 10<sup>−2</sup> m scores [1] mark.</p>\n<p>Do not penalize the use of sin or tan in MP2.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>intensity at O increases ✓</p>\n<p>fringes / a series of maxima and minima ✓</p>\n<p><br/>with intensity decreasing away from O</p>\n<p>OR</p>\n<p>intensity modulated by diffraction ✓</p>\n<p>Accept answers as sketches. For MP1 expect the scale on the y-axis.</p>\n<p>E.g.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>ALTERNATIVE 1</p>\n<p>number of illuminated slits <span class=\"math\" data-latex=\"=2.0\\times 750=1500\"></span> ✓</p>\n<p>smallest resolvable difference «<span class=\"math\" data-latex=\"=\\frac{\\lambda}{mN}=\\frac{590}{1\\times 1500}\"></span>» <span class=\"math\" data-latex=\"=0.39\"></span> «nm» ✓</p>\n<p><span class=\"math\" data-latex=\"0.39&lt;0.60\"></span> hence the lines can be resolved ✓</p>\n<p>ALTERNATIVE 2</p>\n<p>number of illuminated slits <span class=\"math\" data-latex=\"=2.0\\times 750=1500\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"\\frac{\\lambda}{\\Delta\\lambda}=983\"></span> ✓</p>\n<p><span class=\"math\" data-latex=\"1500\"></span> greater than <span class=\"math\" data-latex=\"983\"></span> hence lines can be resolved ✓</p>\n<p>Allow ECF from MP2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A beam of coherent monochromatic light is incident normally on a single rectangular slit. The diffraction pattern is observed on a screen.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>O is the point on the screen directly opposite the slit. P and Q are the first minima on either side of the central fringe of the diffraction pattern.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> </p><p>The intensity of light at point O is <span class=\"math\" data-latex=\"I_{0}\"></span>. The distance OP is <span class=\"math\" data-latex=\"x\"></span>.</p>\n<p>Sketch, on the axes, a graph to show the variation of the intensity of light with distance from point O on the screen. Your graph should cover the distance range from 0 to 2<span class=\"math\" data-latex=\"x\"></span>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Early theories of light suggest that a geometrical shadow of the slit will be observed on the screen. Explain how the diffraction pattern formed on the screen provides evidence for the wave theory of light. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> </p><p>The following data are available.</p>\n<p>Wavelength of light = 590 nm</p>\n<p>Distance between the slit and the screen = 2.4 m</p>\n<p>Width of the slit = 0.10 mm</p>\n<p>Calculate distance PQ.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The single slit is replaced by a double slit. The width of each slit in this arrangement is the same as the width of the single slit in (a).</p>\n<p>Outline how the intensity variation observed between points P and Q will change.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The light source actually emits two wavelengths of light. The average wavelength is 590 nm and the difference between the two wavelengths is 0.60 nm.</p>\n<p>A student attempts to resolve the wavelengths using a diffraction grating with 750 lines per mm. The incident beam is 2.0 mm wide.</p>\n<p>Comment on whether this diffraction grating can resolve the wavelengths in the first-order spectrum.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

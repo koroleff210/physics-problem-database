@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b312c61d9206a472fa18e6b825126f7684ca7a792071077e1bec8a253b2f44ae.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b312c61d9206a472fa18e6b825126f7684ca7a792071077e1bec8a253b2f44ae"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/9194d3177d5ab60df4306f7f2aa52be59c2d7d08ab769d1a5c29322c60ace944.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9194d3177d5ab60df4306f7f2aa52be59c2d7d08ab769d1a5c29322c60ace944"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_e98b436c73cf403797716aaa81e3dbb2",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rocket has just been launched vertically from Earth. The image shows the free-body diagram of the rocket. F<sub>1</sub> represents a larger force than F<sub>2</sub>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which force pairs with F<sub>1 </sub>and which force pairs with F<sub>2</sub>, according to Newton’s third law?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_96244e5ef0fc4b089e9926c755476ff2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor has an energy of 1.8 kJ transferred to it in 0.50 minutes. The efficiency of the motor is 40 %.</p>\n<p>What is the useful power output of the motor?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.5 W</li><li data-label=\"B\">24 W</li><li data-label=\"C\">150 W</li><li data-label=\"D\">360 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

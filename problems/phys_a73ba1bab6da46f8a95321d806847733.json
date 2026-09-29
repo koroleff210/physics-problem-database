@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/8714bc73067816f151f6af7c831c8e1d7ea41534a37922e51af20436c3e5bbaa.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8714bc73067816f151f6af7c831c8e1d7ea41534a37922e51af20436c3e5bbaa"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/331b93aa2b965584d0e8e1b83a173857f8d42022e90589add769ca381721dbc9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "331b93aa2b965584d0e8e1b83a173857f8d42022e90589add769ca381721dbc9"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_a73ba1bab6da46f8a95321d806847733",
+  "level": "hl",
+  "marks": 16,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"13a\"><p><strong>13a</strong></p><p>The torque exerted by the normal reaction force is zero, because it acts through the centre of the cylinder.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13b\"><p><strong>13b</strong></p><p>Using the formula <span class=\"math\" data-latex=\"\\tau = Fr\\sin \\theta\"></span>, we get that the torque due to one of the forces is:</p>\n<p><span class=\"math\" data-latex=\"\\tau = \\left (2.7 \\times 10^{2}  \\right )\\left ( 1.9 \\right )\\left ( \\sin 90^{\\circ} \\right ) = 513\\; \\textup{Nm}\"></span></p>\n<p>Since there are two forces that act on the cylinder in opposite directions, the net torque is <span class=\"math\" data-latex=\"2 \\times 513\"></span>, so:</p>\n<p><span class=\"math\" data-latex=\"1026 \\approx 1000\\; \\textup{Nm}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13c(i)\"><p><strong>13c(i)</strong></p><p>Substituting into the equation <span class=\"math\" data-latex=\"\\theta = \\left (\\frac{\\omega_{f} + \\omega_{i}}{2}  \\right )t\"></span>, we get:</p>\n<p><span class=\"math\" data-latex=\"(4.3)(2 \\pi) = \\left (\\frac{\\omega_{f} + 0}{2}  \\right )(9.7)\"></span></p>\n<p>Solving for <span class=\"math\" data-latex=\"\\omega_{f}\"></span> we get that:</p>\n<p><span class=\"math\" data-latex=\"\\omega_{f} \\approx 5.57 \\; \\textup{rad}\\,\\textup{s}^{-1} \\approx 5.6 \\; \\textup{rad}\\,\\textup{s}^{-1}\"></span></p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the final mark.</p></section><section class=\"markscheme-part\" data-label=\"13c (ii)\"><p><strong>13c (ii)</strong></p><p>Substituting into the equation <span class=\"math\" data-latex=\"\\omega_{f} = \\omega_{i} + \\alpha t\"></span>, we get:</p>\n<p><span class=\"math\" data-latex=\"5.6 = 0 + 9.7 \\alpha\"></span></p>\n<p>Solving for <span class=\"math\" data-latex=\"\\alpha\"></span> gives us that:</p>\n<p><span class=\"math\" data-latex=\"\\alpha \\approx 0.58 \\; \\textup{rad}\\,\\textup{s}^{-2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13d\"><p><strong>13d</strong></p><p>The total kinetic energy of the disc is the sum of its translational kinetic energy and rotational kinetic energy, therefore:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}Mv^{2} + \\frac{1}{2}I\\omega^{2} = \\frac{1}{2}Mv^{2} + \\frac{1}{2}\\left ( \\frac{1}{2}MR^{2} \\right )\\omega^{2}\"></span></p>\n<p>Simplifying and using the equation <span class=\"math\" data-latex=\"v = \\omega r\"></span> to substitute, we get that:</p>\n<p><span class=\"math\" data-latex=\"E_{total} = \\frac{1}{2}Mv^{2} + \\frac{1}{4}Mv^{2} = \\frac{3}{4}Mv^{2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13e(i)\"><p><strong>13e(i)</strong></p><p>As the ramp is frictionless, the rotational motion of the cylinder does not change.</p>\n<p>Therefore the cylinder keeps rotating at a constant angluar velocity while it slides up the ramp.</p>\n<p>Eventually (when all its translational kinetic energy has been converted into gravitational potential energy), the cylinder reaches a maximum height and then slides back down the ramp.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"13e(ii)\"><p><strong>13e(ii)</strong></p><p>Since the cylinder keeps rotating while it is sliding up the ramp, only its translational kinetic energy is converted into gravitational potential energy, therefore we can write that:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{2}Mv^{2} = Mgh\"></span></p>\n<p>We can cancel the mass from both sides and rearrange, to get that:</p>\n<p><span class=\"math\" data-latex=\"h = \\frac{v^{2}}{2g}\"></span></p>\n<p>Using the equation <span class=\"math\" data-latex=\"v = \\omega r\"></span> to substitute, gives us that:</p>\n<p><span class=\"math\" data-latex=\"h = \\frac{(\\omega r)^{2}}{2g} = \\frac{\\left ( 5.6 \\times 1.9 \\right )^{2}}{2 \\times 9.81}\"></span></p>\n<p><span class=\"math\" data-latex=\"h \\approx 5.8 \\; \\textup{m}\"></span></p>\n<p>The radius of the cylinder is <span class=\"math\" data-latex=\"1.9 \\; \\textup{m}\"></span>, so when the cylinder reaches the bottom of the ramp, its centre is already at a height of <span class=\"math\" data-latex=\"1.9 \\; \\textup{m}\"></span>, therefore the maximum height reached by the centre of the cylinder is <span class=\"math\" data-latex=\"5.8 + 1.9\"></span>, so</p>\n<p><span class=\"math\" data-latex=\"7.7 \\; \\textup{m}\"></span></p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Two forces, each of magnitude <span class=\"math\" data-latex=\"2.7 \\times 10^{2}\\; \\textup{N}\"></span>, act on a solid cylinder that is initially at rest on horizontal ground.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>(a)   State and explain the torque exerted by the normal force on the cylinder.</p>\n<p>  [2]</p>\n<p>(b)   The diameter of the cylinder is <span class=\"math\" data-latex=\"3.8 \\; \\textup{m}\"></span>. Calculate the net torque that acts on the cylinder.</p>\n<p>    [2]</p>\n<p>(c)   The cylinder rolls along the horizontal surface, in <span class=\"math\" data-latex=\"9.7 \\; \\textup{s}\"></span> completes <span class=\"math\" data-latex=\"4.3\"></span> revolutions and reaches the bottom of a ramp.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>(i)   Show that the angular speed of the cylinder when it reaches the bottom of the ramp is about <span class=\"math\" data-latex=\"5.6 \\; \\textup{rad}\\,\\textup{s}^{-1}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   Hence or otherwise, find the angular acceleration of the cylinder when it reaches the bottom of the ramp.</p>\n<p>  [1]</p>\n<p>(d)   The moment of inertia of the cylinder is <span class=\"math\" data-latex=\"I = \\frac{1}{2}MR^{2}\"></span>, where <span class=\"math\" data-latex=\"M\"></span> is the mass and <span class=\"math\" data-latex=\"R\"></span> is the radius of the disc.</p>\n<p>Deduce that the total kinetic energy of the cylinder when it reaches the bottom of the ramp is <span class=\"math\" data-latex=\"\\frac{3}{4}Mv^{2}\"></span>, where <span class=\"math\" data-latex=\"v\"></span> is the linear speed of the cylinder.</p>\n<p>  [2]</p>\n<p>(e)   The ramp is frictionless.</p>\n<p>(i)   State and explain the motion of the cylinder from the moment it reaches the bottom of the ramp until it comes to rest.</p>\n<p>  [3]</p>\n<p>(ii)   Calculate the maximum vertical height above the ground reached by the centre of the cylinder.</p>\n<p>  [4]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

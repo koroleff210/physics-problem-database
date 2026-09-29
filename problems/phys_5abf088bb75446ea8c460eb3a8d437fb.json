@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5abf088bb75446ea8c460eb3a8d437fb",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Albedo is the ratio of reflected radiation to total incident radiation.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\text{albedo} = \\dfrac{P_{\\text{reflected}}}{P_{\\text{incident}}}\"></span></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Albedo is unitless (dimensionless).</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Higher cloud cover increases albedo.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Answer the following questions about albedo.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> What is albedo? [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Write the mathematical formula for albedo. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> What are the units of albedo? [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> How does cloud cover affect albedo? [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

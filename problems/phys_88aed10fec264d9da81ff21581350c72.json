@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_88aed10fec264d9da81ff21581350c72",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The minimum energy for electron emission is the work function, Φ. It is calculated using the formula Φ = hf₀, where h is Planck's constant and f₀ is the threshold frequency. Given f₀ = 1000 THz = 1 × 10¹⁵ Hz, the energy is (6.63 × 10⁻³⁴ J s) × (1 × 10¹⁵ Hz) = 6.63 × 10⁻¹⁹ J.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The threshold frequency of a metal plate is <span class=\"math\" data-latex=\"1000\\,\\mathrm{THz}\"></span>.</p>\n<p>What is the minimum energy needed in order for an electron to be emitted?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"6.63\\times10^{-19}\\,\\mathrm{J}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"6.63\\times10^{-16}\\,\\mathrm{J}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"6.63\\times10^{-13}\\,\\mathrm{J}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"6.63\\times10^{-10}\\,\\mathrm{J}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_01c48fb37d36411db9c8fec6f27f0ad9",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The rate of global warming will most likely be increased by:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">replacing coal-based power stations by nuclear power stations.</li>\n<li data-label=\"B\">reforestation.</li>\n<li data-label=\"C\">using natural gas instead of oil.</li>\n<li data-label=\"D\">decreasing the use of renewable energy sources.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

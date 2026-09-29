@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5f51541f0acac822ceed6abf8c8cca656faa847c3a2ac85c0a5403f0cc5f9b0d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5f51541f0acac822ceed6abf8c8cca656faa847c3a2ac85c0a5403f0cc5f9b0d"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/e056da438b85717f79614a1ba49d7150ba4e159769f9d27ff7b06478a5fe22f7.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e056da438b85717f79614a1ba49d7150ba4e159769f9d27ff7b06478a5fe22f7"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/91599f786119eb553a9103470758f2cc8e01dfa2c0a7bfcf3445be8ad2ec4d8c.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "91599f786119eb553a9103470758f2cc8e01dfa2c0a7bfcf3445be8ad2ec4d8c"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/683ad5f45b104845fe20f9bcc62769c9bc2bbdc26b6c61e9c2a22772f4d2f1f2.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "683ad5f45b104845fe20f9bcc62769c9bc2bbdc26b6c61e9c2a22772f4d2f1f2"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_e9c0c9356edb43ab807b763423c55bdb",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"8a\"><p><strong>8a</strong></p><p></p>\n<p>The ratio is <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> when the resistance of the variable resistor is <span class=\"math\" data-latex=\"1.0 \\: \\Omega\"></span></p>\n<p>Working with the power dissipated in the variable resistor:</p>\n<p><span class=\"math\" data-latex=\"1.5 = 1\\times I^{2}\"></span></p>\n<p><span class=\"math\" data-latex=\"I \\approx 1.2\"></span> A</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8b\"><p><strong>8b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"3.0 = 1.22^{2} \\times R\"></span></p>\n<p><span class=\"math\" data-latex=\"R = 2.0 \\: \\Omega\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8c\"><p><strong>8c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\varepsilon = (1.22)(2.0)+(1.22)(1.0) \\approx 3.7\"></span> V</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"8d\"><p><strong>8d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A fixed resistor of resistance <span class=\"math\" data-latex=\"X\"></span> and a variable resistor <span class=\"math\" data-latex=\"R\"></span> are connected to a cell of negligible internal resistance in series.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The graph shows how the power dissipated in the fixed resistor and the power dissipated in the variable resistor vary with the resistance of the variable resistor.</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>a. Find the current in the circuit when the ratio <span class=\"math\" data-latex=\"\\frac{power\\: dissipated\\: in\\: the\\: variable\\: resistor}{power\\: dissipated\\: in\\: the\\: fixed\\: resistor} = \\frac{1}{2}\"></span>.</p>\n<p> [2]</p>\n<p>b. Determine the resistance of the fixed resistor.</p>\n<p>  [2]</p>\n<p>c. Find the emf of the cell.</p>\n<p> [2]</p>\n<p>d. On the diagram, sketch how the current in the cell varies with the resistance of the variable resistor. Include appropriate values on the vertical axis. No values are required on the horizontal axis.</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

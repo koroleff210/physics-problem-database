@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_6c2d16340afe4965b9840935d337476f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light is incident on a single slit to form a diffraction pattern on a screen. The width of the single slit is then halved.</p>\n<p>What are the change in the width of the central maximum and the change in the maximum intensity of the pattern?</p>\n<table><tbody><tr><td></td><td><p>Change in width of central maximum</p></td><td><p>Change in maximum intensity of pattern</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>decrease</p></td><td><p>increase</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>decrease</p></td><td><p>decrease</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>increase</p></td><td><p>decrease</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>increase</p></td><td><p>increase</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

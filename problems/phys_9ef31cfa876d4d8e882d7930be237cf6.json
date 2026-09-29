@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_9ef31cfa876d4d8e882d7930be237cf6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a velocity selector, the electric and magnetic forces on a particle are equal and opposite. What condition must be satisfied?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"v = \\frac{E}{B}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"v = \\frac{B}{E}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"v = EB\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"v = E + B\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

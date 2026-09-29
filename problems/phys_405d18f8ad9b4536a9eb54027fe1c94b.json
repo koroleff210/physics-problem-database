@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0b53542a53daee88272aef9472ab497b1126ee944af9e62b154e7ff883bb9479.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0b53542a53daee88272aef9472ab497b1126ee944af9e62b154e7ff883bb9479"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/bbd6809f4c15f2acc5ac7afb5e5baecc01a60376d6ad4468a89862b745846a2d.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bbd6809f4c15f2acc5ac7afb5e5baecc01a60376d6ad4468a89862b745846a2d"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_405d18f8ad9b4536a9eb54027fe1c94b",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>infinite resistance OR no current is flowing through it ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{1.47}{50.0}=29.4\"></span> «mA» ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>29.4 (50.0 + r) = 139 (10.0 + r) ✓<br/>attempt to solve for r, e.g. 29.4 × 50.0 − 139 × 10.0 = r (139 − 29.4) OR 0.73 «Ω» ✓   Do not allow working backwards from 0.7 Ω.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>139 × 10<sup>−3 </sup>(10.0 + 0.73) OR 29.4 × 10<sup>−3</sup> (50.0 + 0.73)  ✓<br/>1.49 «V» ✓   Watch for ECF from 5(b)(i).</p>\n</section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>charge/carriers are moving in a magnetic field ✓   there is a magnetic force on them / quote F = qvB OR this creates a magnetic field that interacts with the external magnetic field ✓   Accept electrons. For MP2, the force must be identified as acting on charge / carriers.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>into the plane «of the paper» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Resistor R is connected in a circuit with a cell that has internal resistance.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The ammeter and the voltmeter are ideal.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State what is meant by an ideal voltmeter. [1]</p></section><section class=\"context\"><p>The resistance of R is 50.0 Ω. The voltmeter reads 1.47 V.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate, in mA, the current in the resistor. [1]</p></section><section class=\"context\"><p>Resistor R is replaced by another of resistance 10.0 Ω. The ammeter now reads 139 mA.</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show that the internal resistance of the cell is about 0.7 Ω. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Calculate the emf of the cell. [2]</p></section><section class=\"context\"><p>One of the connecting wires is placed in a magnetic field. The direction of the current in the wire is shown.</p><p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Explain, by reference to charge carriers in the wire, how the magnetic force on the wire arises. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Identify the direction of the magnetic force on the wire. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

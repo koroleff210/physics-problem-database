@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_eb45964a4b82445ea91bd0f9c7d12e16",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A tennis ball is travelling horizontally at speed <span class=\"math\" data-latex=\"v\"></span>, hits a vertical wall and rebounds. The ball loses <span class=\"math\" data-latex=\"50\"></span> % of its initial energy during the collision. The mass of the ball is <span class=\"math\" data-latex=\"m\"></span>. The magnitude of the impulse by the wall on the ball is:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\left (1-\\frac{1}{\\sqrt{2}}  \\right )mv\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\left (1+\\frac{1}{\\sqrt{2}}  \\right )mv\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{2}mv\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{2}mv\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

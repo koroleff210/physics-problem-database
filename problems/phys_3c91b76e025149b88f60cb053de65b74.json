@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a0295d8ab715963318dfa346415a6e538f83c992ac07014a1c0e8ade0fbd26ec.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a0295d8ab715963318dfa346415a6e538f83c992ac07014a1c0e8ade0fbd26ec"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/d237f2b82900b18f0debd5882b890e6c5576ad6c98a76fd4f849c1c8fb8cbe27.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d237f2b82900b18f0debd5882b890e6c5576ad6c98a76fd4f849c1c8fb8cbe27"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3c91b76e025149b88f60cb053de65b74",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows the trajectory of a projectile and the velocity v of the projectile at point P in its trajectory. P is located before the projectile reaches the peak altitude. Air resistance acts on the projectile. The acceleration of the projectile at P is a.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are the magnitudes of the horizontal component and the vertical component of the acceleration of the projectile at P?</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

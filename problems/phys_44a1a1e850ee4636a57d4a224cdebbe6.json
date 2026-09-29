@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_44a1a1e850ee4636a57d4a224cdebbe6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Specific energy and energy density are used to characterize the energy content of various fuels. The table provides data for four different liquid fuels.</p>\n<table><thead><tr><th></th><th>Specific energy / <span class=\"math\" data-latex=\"\\text{MJ kg}^{-1}\"></span></th><th>Energy density / <span class=\"math\" data-latex=\"\\text{GJ m}^{-3}\"></span></th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"40\"></span></td><td><span class=\"math\" data-latex=\"28\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"20\"></span></td><td><span class=\"math\" data-latex=\"18\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"30\"></span></td><td><span class=\"math\" data-latex=\"24\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"50\"></span></td><td><span class=\"math\" data-latex=\"40\"></span></td></tr></tbody></table>\n<p>Which fuel has the highest mass density?</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

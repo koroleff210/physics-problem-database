@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_a3d3f3d66dbe47c5a5e5c0db1aea3942",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A long, straight conductor carries a steady current <span class=\"math\" data-latex=\"I\"></span> from left to right in a uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> directed into the page. A free positive charge <span class=\"math\" data-latex=\"q\"></span> is placed at rest near the conductor.</p>\n<p>Which of the following correctly describes the motion of the charge immediately after being placed near the conductor?</p><ol class=\"mcq-options\"><li data-label=\"A\">The charge remains stationary because the magnetic field exerts no force on stationary charges.</li><li data-label=\"B\">The charge accelerates toward the conductor due to the electric field produced by the current.</li><li data-label=\"C\">The charge moves in a circular path around the conductor due to the combined effects of the electric and magnetic fields.</li><li data-label=\"D\">The charge is deflected upward due to the force exerted by the magnetic field.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

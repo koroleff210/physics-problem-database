@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3774545af6b4129eb1b752bc860de195ca86d3c043abd0124b121aab924d043f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3774545af6b4129eb1b752bc860de195ca86d3c043abd0124b121aab924d043f"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/780847118ebf23a766ae9177243536c9565f5f2fbaaf9cdb11e1ec58ff20e300.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "780847118ebf23a766ae9177243536c9565f5f2fbaaf9cdb11e1ec58ff20e300"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_10757f6184a643f7a0bf73bb00c70ab8",
+  "level": "sl_hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p></p>\n<p>The object is not in equilibrium, because it is moving in a circle, so the direction of its velocity constantly changes.</p>\n<p>OR</p>\n<p>The object is not in equilibrium, because it is constantly changing direction.</p>\n<p>OR</p>\n<p>The object is not in equilibrium, because it has (centripetal) acceleration.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b\"><p><strong>10b</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c(i)\"><p><strong>10c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"sin71^{o} = \\frac{mg}{T}\"></span> OR <span class=\"math\" data-latex=\"cos19^{o} = \\frac{mg}{T}\"></span></p>\n<p><span class=\"math\" data-latex=\"T \\approx 8.57\"></span> N <span class=\"math\" data-latex=\"\\approx\"></span> 8.6 N</p>\n<p>(Calculated answer must be given to at least 3 s. f. in order to earn final mark)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c(ii)\"><p><strong>10c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"sin19^{o} = \\frac{F_{cp}}{T}\"></span> OR <span class=\"math\" data-latex=\"cos71^{o} = \\frac{F_{cp}}{T}\"></span></p>\n<p><span class=\"math\" data-latex=\"F_{cp} \\approx 2.8\"></span> N</p>\n<p><span class=\"math\" data-latex=\"r = \\frac{2.8}{0.826 \\times 1.71^{2}} \\approx 1.2\"></span> m</p>\n<p>(Answer must be given to 2 s. f. in order to earn final mark)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c(iii)\"><p><strong>10c(iii)</strong></p><p><em></em></p>\n<p><span class=\"math\" data-latex=\"v = 1.71 \\times 1.2 \\approx 2.05\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\frac{2 \\pi \\times 1.2}{2.05} \\approx 3.7\"></span> s</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>An object of mass 826 g is attached to a string and rotates at constant speed in a horizontal circle of radius <em>r</em>. The angle between the string and the ceiling is 71<span class=\"math\" data-latex=\"^{o}\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Outline whether the object is in equilibrium.</p>\n<p>  [2]</p>\n<p>b. Draw a free-body diagram for the object at the position where it is shown on the diagram.</p>\n<p>  [2]</p>\n<p>c. The object rotates with an angular speed of 1.71 rad s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>i. Show that the tension in the string is 8.6 N.</p>\n<p>  [2]</p>\n<p>ii. Calculate <em>r</em>. Give your answer to an appropriate number of significant figures.</p>\n<p>  [3]</p>\n<p>iii.  Find the period of rotation of the object.</p>\n<p>  [2]</p>\n<p></p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

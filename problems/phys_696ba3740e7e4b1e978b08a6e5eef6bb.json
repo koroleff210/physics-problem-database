@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_696ba3740e7e4b1e978b08a6e5eef6bb",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball is initially 50 m above the ground. The ball is thrown vertically upwards and takes 5.0 s to reach the ground. Air resistance is negligible.</p>\n<p>What is the initial speed of the ball?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">10 m s<sup>−1</sup></li><li data-label=\"B\">15 m s<sup>−1</sup></li><li data-label=\"C\">25 m s<sup>−1</sup></li><li data-label=\"D\">35 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

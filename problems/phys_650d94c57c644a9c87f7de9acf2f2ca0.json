@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_650d94c57c644a9c87f7de9acf2f2ca0",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Star X has the same surface temperature as the Sun and a luminosity of <span class=\"math\" data-latex=\"10^{4}L_{⊙}\"></span></p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{radius of X}}{\\textit{radius of the Sun}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">10</li><li data-label=\"B\">10<sup>2</sup></li><li data-label=\"C\">10<sup>3</sup></li><li data-label=\"D\">10<sup>4</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

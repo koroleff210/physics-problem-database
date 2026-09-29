@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_6e3d6873388d4712bd3e031873f40bce",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The induced emf <span class=\"math\" data-latex=\"\\mathcal{E}\"></span> in a rotating coil of <span class=\"math\" data-latex=\"N\"></span> turns and area <span class=\"math\" data-latex=\"A\"></span> in a uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> is given by <span class=\"math\" data-latex=\"\\mathcal{E} = NBA\\omega\\sin(\\omega t)\"></span>. What is the effect of doubling the frequency of rotation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\mathcal{E}_\\text{max}\"></span> is halved</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\mathcal{E}_\\text{max}\"></span> is unchanged</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\mathcal{E}_\\text{max}\"></span> is doubled</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\mathcal{E}_\\text{max}\"></span> is quadrupled</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

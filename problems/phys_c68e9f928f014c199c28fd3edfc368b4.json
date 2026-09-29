@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c68e9f928f014c199c28fd3edfc368b4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The amplitude of a progressive wave is decreased by <span class=\"math\" data-latex=\"20\\%\"></span>. What is the resulting percentage decrease in the intensity of the wave?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"4\\%\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"20\\%\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"36\\%\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"64\\%\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

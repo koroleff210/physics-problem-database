@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0bb18cb81cb4fbb5bf0936ca7e34df4c9992e68cff868df44939c272a22137b8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0bb18cb81cb4fbb5bf0936ca7e34df4c9992e68cff868df44939c272a22137b8"
+    }
+  ],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e876270dcbab4f9dabc13f8013f05ce6",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A source S of a sound wave is moving at a constant velocity along a line joining stationary observers X and Y. The diagram shows consecutive wavefronts of the sound.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>Consider the following statements:</p>\n<p>I.    More wavefronts pass X in a unit time than Y.</p>\n<p>II.   The speed of the wavefronts is greater at X than at Y.</p>\n<p>III.  The wavelength of the sound at X is less than the wavelength at Y.</p>\n<p>Which statements are correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">I and II only</li><li data-label=\"B\">I and III only</li><li data-label=\"C\">II and III only</li><li data-label=\"D\">I, II and III</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

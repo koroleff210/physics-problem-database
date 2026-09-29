@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/15020a89b30ac32375353c0a8773531f2ffe4f73f11c9c35dec7ace6bdb129d4.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "15020a89b30ac32375353c0a8773531f2ffe4f73f11c9c35dec7ace6bdb129d4"
+    }
+  ],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_c0250fd3ec954403a9a92921897cbaa7",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Planck's constant (<span class=\"math\" data-latex=\"h\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Identify the x-intercept for Metal A:<br/><span class=\"math\" data-latex=\"f_0 = 4.0 \\times 10^{14}\\ \\text{Hz}\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Calculate the energy of the incident photon:<br/><span class=\"math\" data-latex=\"E_p = hf = 6.63 \\times 10^{-34} \\times 1.2 \\times 10^{15} = 7.96 \\times 10^{-19}\\ \\text{J}\"></span> [1 mark]</p>\n<p>Calculate the maximum kinetic energy:<br/><span class=\"math\" data-latex=\"E_{\\text{max}} = E_p - \\Phi = 7.96 \\times 10^{-19} - 4.64 \\times 10^{-19} = 3.32 \\times 10^{-19}\\ \\text{J}\"></span> [1 mark]</p>\n<p>Calculate the maximum velocity using <span class=\"math\" data-latex=\"E_{\\text{max}} = \\frac{1}{2} m_e v^2\"></span>:<br/><span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2 \\times 3.32 \\times 10^{-19}}{9.11 \\times 10^{-31}}} = 8.5 \\times 10^5\\ \\text{m s}^{-1}\"></span> (accept range <span class=\"math\" data-latex=\"8.50\"></span> to <span class=\"math\" data-latex=\"8.55\"></span>) [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>State that the number of electrons emitted per second doubles / increases [1 mark]</p>\n<p>Explain that higher intensity means more photons are incident per unit area per second; since one photon releases one electron, the emission rate increases [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph below shows the variation of the maximum kinetic energy <span class=\"math\" data-latex=\"E_{\\text{max}}\"></span> of photoelectrons emitted from two different metal surfaces, Metal A and Metal B, as a function of the frequency <span class=\"math\" data-latex=\"f\"></span> of the incident radiation.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Identify the physical constant represented by the gradient of the lines shown on the graph.<p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Using the graph, determine the threshold frequency <span class=\"math\" data-latex=\"f_0\"></span> for Metal A.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Light of frequency <span class=\"math\" data-latex=\"1.2 \\times 10^{15}\\ \\text{Hz}\"></span> is incident on Metal B. Given that the work function of Metal B is <span class=\"math\" data-latex=\"4.64 \\times 10^{-19}\\ \\text{J}\"></span>, calculate the maximum speed of the emitted photoelectrons.<p>[3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p>The intensity of the radiation incident on Metal A is doubled while the frequency remains constant. Describe and explain the effect of this change on the number of electrons emitted per second.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

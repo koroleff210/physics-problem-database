@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_b2ed6cbb20c94414b192d94a16d63ef0",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>According to Kepler’s second law of planetary motion</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">the rate at which area is swept out by the line joining a planet and the Sun is constant.</li>\n<li data-label=\"B\">planets move in elliptical orbits with the Sun at the centre of the ellipse. </li>\n<li data-label=\"C\">the gravitational force exerted by the Sun on an orbiting planet is inversely proportional to the square of the distance between the centre of the Sun and the centre of the planet.</li>\n<li data-label=\"D\">the rate of change of an object’s momentum is equal to the resultant force on the object.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

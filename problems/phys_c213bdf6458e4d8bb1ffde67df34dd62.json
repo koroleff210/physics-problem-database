@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/87d13a518b74a152a7d8d667f08c65bbc6f10136145e9fc12ab3653be4f8004f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "87d13a518b74a152a7d8d667f08c65bbc6f10136145e9fc12ab3653be4f8004f"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_c213bdf6458e4d8bb1ffde67df34dd62",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Five resistors are connected as shown. The current in the <span class=\"math\" data-latex=\"10\\: \\Omega\"></span> resistor is <span class=\"math\" data-latex=\"3.0\"></span> A.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the potential difference between P and Q?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"24\"></span> V</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"36\"></span> V</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"48\"></span> V</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"72\"></span> V</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

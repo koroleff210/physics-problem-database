@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_6355e64d5e0a4d2dab4c93bf6cd39267",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A vehicle on a test track is accelerated from rest to a final speed <span class=\"math\" data-latex=\"v\"></span> over a distance <span class=\"math\" data-latex=\"s\"></span>. The measurements and their absolute uncertainties are recorded in the table below:</p>\n<table><thead><tr><th>Quantity</th><th>Measurement</th></tr></thead><tbody><tr><td>Speed <span class=\"math\" data-latex=\"v\"></span></td><td><span class=\"math\" data-latex=\"10.0 \\pm 0.2 \\mathrm{~m \\, s^{-1}}\"></span></td></tr><tr><td>Distance <span class=\"math\" data-latex=\"s\"></span></td><td><span class=\"math\" data-latex=\"20.0 \\pm 0.4 \\mathrm{~m}\"></span></td></tr></tbody></table>\n<p>The average acceleration <span class=\"math\" data-latex=\"a\"></span> is calculated to be <span class=\"math\" data-latex=\"2.5 \\mathrm{~m \\, s^{-2}}\"></span> using the expression <span class=\"math\" data-latex=\"v^{2}=2as\"></span>.</p>\n<p>What is the absolute uncertainty in the calculated value of <span class=\"math\" data-latex=\"a\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\pm 0.05 \\mathrm{~m \\, s^{-2}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\pm 0.10 \\mathrm{~m \\, s^{-2}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\pm 0.15 \\mathrm{~m \\, s^{-2}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\pm 0.20 \\mathrm{~m \\, s^{-2}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_6fc09002563f4c118742c101d5d0cf29",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Using <span class=\"math\" data-latex=\"F=BIL\\sin\\theta\"></span>, doubling the current gives a factor of 2, and changing to <span class=\"math\" data-latex=\"30^\\circ\"></span> gives <span class=\"math\" data-latex=\"\\sin30^\\circ=\\tfrac12\"></span>, so the force is unchanged, not halved.</p>\n<p>B: <span class=\"math\" data-latex=\"F_\\text{initial}=BIL\\sin90^\\circ=BIL=F\"></span>. New force: <span class=\"math\" data-latex=\"F_\\text{new}=B(2I)L\\sin30^\\circ=2BIL\\times\\tfrac12=BIL=F\"></span>.</p>\n<p>C: This would result from using <span class=\"math\" data-latex=\"\\theta=60^\\circ\"></span> (e.g. interpreting the rotation as by <span class=\"math\" data-latex=\"30^\\circ\"></span> from perpendicular), but the question states the angle between the wire and the field becomes <span class=\"math\" data-latex=\"30^\\circ\"></span>.</p>\n<p>D: Doubling the current alone would double the force only if <span class=\"math\" data-latex=\"\\theta\"></span> stayed at <span class=\"math\" data-latex=\"90^\\circ\"></span>; here <span class=\"math\" data-latex=\"\\sin30^\\circ=\\tfrac12\"></span>, cancelling the factor of 2.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wire of length <span class=\"math\" data-latex=\"L\"></span> in a uniform magnetic field of strength <span class=\"math\" data-latex=\"B\"></span> experiences a magnetic force of magnitude <span class=\"math\" data-latex=\"F\"></span> when it carries a current <span class=\"math\" data-latex=\"I\"></span> and is perpendicular to the field lines. The current is then increased to <span class=\"math\" data-latex=\"2I\"></span> and the angle between the wire and the magnetic field is changed to <span class=\"math\" data-latex=\"30^\\circ\"></span>. What is the magnitude of the new magnetic force in terms of <span class=\"math\" data-latex=\"F\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5F\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"F\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\sqrt{3}F\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2F\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

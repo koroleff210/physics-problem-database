@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3db472f94ca5d4b25935fea86bf3437e758dec74ad2e02830c2df5f72ca9b6c5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3db472f94ca5d4b25935fea86bf3437e758dec74ad2e02830c2df5f72ca9b6c5"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_77f183d3a8a04837b1f327b3b741177b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Point P and Q are located on different equipotential surfaces in a gravitational field. The values shown are in MJ kg<span class=\"math\" data-latex=\"^{-1}\"></span>. A small object with mass <span class=\"math\" data-latex=\"200\"></span> g moves from point P to point Q.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the magnitude of the work done by the gravitational field on the object?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1\"></span> kJ</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"4\"></span> kJ</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"10\"></span> kJ</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"40\"></span> kJ</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

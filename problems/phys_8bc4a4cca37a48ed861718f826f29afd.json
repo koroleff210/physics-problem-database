@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_8bc4a4cca37a48ed861718f826f29afd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the source of a magnetic field in a simple circuit?</p><ol class=\"mcq-options\"><li data-label=\"A\">The voltage across the battery</li><li data-label=\"B\">The resistance of the wire</li><li data-label=\"C\">The current in the wire</li><li data-label=\"D\">The mass of the electrons</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

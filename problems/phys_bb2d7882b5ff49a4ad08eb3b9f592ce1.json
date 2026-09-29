@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_bb2d7882b5ff49a4ad08eb3b9f592ce1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Magnetic field lines are an example of</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">a discovery that helps us understand magnetism.</li><li data-label=\"B\">a model to aid in visualization.</li><li data-label=\"C\">a pattern in data from experiments.</li><li data-label=\"D\">a theory to explain concepts in magnetism.<br/><br/></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

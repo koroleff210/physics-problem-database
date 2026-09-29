@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_a3a459500c274a44b175fdbb84a75970",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The motion of a <span class=\"math\" data-latex=\"150 \\ \\mathrm{kg}\"></span> research probe descending through the atmosphere of a distant planet is recorded in the table below. The local gravitational field strength is <span class=\"math\" data-latex=\"4.0 \\mathrm{\\ N\\ kg}^{-1}\"></span>.</p>\n<table><thead><tr><th>Time <span class=\"math\" data-latex=\"t / \\mathrm{s}\"></span></th><th>Velocity <span class=\"math\" data-latex=\"v / \\mathrm{m\\ s}^{-1}\"></span></th></tr></thead><tbody><tr><td>0.0</td><td>0.0</td></tr><tr><td>2.0</td><td>16.0</td></tr><tr><td>4.0</td><td>25.0</td></tr><tr><td>6.0</td><td>28.0</td></tr><tr><td>8.0</td><td>28.0</td></tr></tbody></table>\n<p>What is the magnitude of the resistive force acting on the probe at <span class=\"math\" data-latex=\"t = 7.0 \\ \\mathrm{s}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0 \\ \\mathrm{N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"150 \\ \\mathrm{N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"600 \\ \\mathrm{N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4200\\ \\mathrm{N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a24bc992b1164bc49dae70d49f1a8609",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: A clear, stable interference pattern requires coherent light (constant phase difference). Monochromatic light helps produce well-defined, high-contrast fringes.</p>\n<p>B: Incoherent light does not maintain a constant phase relationship, so a stable interference pattern would not be observed.</p>\n<p>C: Polychromatic light tends to reduce fringe visibility because different wavelengths produce different fringe spacings, leading to washed-out fringes.</p>\n<p>D: Single-slit diffraction produces a broad diffraction pattern rather than the evenly spaced double-slit interference fringes; a clear interference pattern indicates double-slit interference with coherent waves.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In Young's double-slit experiment, what does the presence of a clear interference pattern suggest about the light?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is monochromatic and coherent</li><li data-label=\"B\">It is incoherent, so the fringes quickly wash out</li><li data-label=\"C\">It is polychromatic, so the fringes are sharply defined at all positions</li><li data-label=\"D\">Only single-slit diffraction occurs, so there are no interference fringes</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

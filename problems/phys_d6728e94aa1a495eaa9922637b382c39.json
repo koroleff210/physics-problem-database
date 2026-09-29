@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/eb465e54f607c5e19bee761db51206e6d400f1a1f143da6b9e8485c159c89423.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "eb465e54f607c5e19bee761db51206e6d400f1a1f143da6b9e8485c159c89423"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_d6728e94aa1a495eaa9922637b382c39",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car of mass <span class=\"math\" data-latex=\"3m\"></span> pulls a trailer of mass <span class=\"math\" data-latex=\"m\"></span> along a straight horizontal road. The engine exerts a constant driving force <span class=\"math\" data-latex=\"F\"></span> as shown in the diagram.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Frictional forces are negligible. What is the tension in the tow-bar connecting the car and the trailer?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"F\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{3}{4}F\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}F\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{1}{4}F\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

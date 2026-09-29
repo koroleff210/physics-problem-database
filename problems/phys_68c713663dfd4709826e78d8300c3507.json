@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_68c713663dfd4709826e78d8300c3507",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following units is equivalent to angular frequency?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"s\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"s^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"Hz\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"m\\ s^{-2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

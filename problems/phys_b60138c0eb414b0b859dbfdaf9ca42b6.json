@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 1,
+  "id": "phys_b60138c0eb414b0b859dbfdaf9ca42b6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which one of the following statements is true about the angular acceleration of an object that is moving on a circular path?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">It is the rate of change of the angular velocity.</li>\n<li data-label=\"B\">Its direction is always towards the centre of the circular path.</li>\n<li data-label=\"C\">Its unit is <span class=\"math\" data-latex=\"\\textup{m s}^{-2}\"></span>.</li>\n<li data-label=\"D\">Its direction is always tangent to the circular path.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

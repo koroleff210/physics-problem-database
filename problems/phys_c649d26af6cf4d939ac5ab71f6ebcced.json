@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c649d26af6cf4d939ac5ab71f6ebcced",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>For the planet to have a constant temperature, it must be in thermal equilibrium, meaning the power absorbed equals the power radiated. The power absorbed is (1-a) * S * πr², where a is the albedo, S is the solar constant, and πr² is the planet's cross-sectional area. The power radiated is <span class=\"math\" data-latex=\"I_{\\mathrm{rad}}\"></span> * 4πr², where <span class=\"math\" data-latex=\"I_{\\mathrm{rad}}\"></span> is the average radiated intensity and 4πr² is the planet's surface area. Equating these gives <span class=\"math\" data-latex=\"I_{\\mathrm{rad}}\"></span> = S(1-a)/4. Substituting a=0.2 yields <span class=\"math\" data-latex=\"I_{\\mathrm{rad}}\"></span> = S(1-0.2)/4 = 0.8S/4 = 0.2S.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet with an albedo of 0.2 orbits the Sun in a circular orbit. The solar constant at the position of the planet is S. The planet has no atmosphere and a constant temperature. What is the average intensity radiated by the planet's surface?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"0.05S\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"0.08S\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"0.2S\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"0.8S\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

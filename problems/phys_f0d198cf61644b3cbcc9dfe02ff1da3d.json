@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_f0d198cf61644b3cbcc9dfe02ff1da3d",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of iodine-131 decays into xenon with a half-life of 8 days.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{number of iodine atoms remaining}}{\\textit{number of xenon atoms formed}}\"></span> after 24 days?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{7}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{7}{8}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{8}{7}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

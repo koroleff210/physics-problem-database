@@ -1,0 +1,83 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1f620fc25b886888471e2147a5aad8ca6af70596151978f40a3411c8d8fc27bf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1f620fc25b886888471e2147a5aad8ca6af70596151978f40a3411c8d8fc27bf"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/e99ffcf7afd216d7d93991c1eaea3970d0c1a0a6a3a999dd9a99ca070624743a.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e99ffcf7afd216d7d93991c1eaea3970d0c1a0a6a3a999dd9a99ca070624743a"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/2d72caf885f57d517a840d30b30f9c60e11b41d34f8badb8346ed9438ff00a8c.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2d72caf885f57d517a840d30b30f9c60e11b41d34f8badb8346ed9438ff00a8c"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/42fe189c92067c72eb5dd79b1f20b9e44f526083918123f7f24c132b91d94775.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "42fe189c92067c72eb5dd79b1f20b9e44f526083918123f7f24c132b91d94775"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/50082fa0ba91c64ffd93e335ca903933e37bfb85694d03ccd977051074830379.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "50082fa0ba91c64ffd93e335ca903933e37bfb85694d03ccd977051074830379"
+    },
+    {
+      "alt": "Source markscheme diagram 6",
+      "file": "assets/d132ec207098c2bc11f88d13afb32c84406e90d675d6f9cb210a5878b0af22f6.png",
+      "id": "fig_06",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "d132ec207098c2bc11f88d13afb32c84406e90d675d6f9cb210a5878b0af22f6"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_9a10ced267b9478594b38684411989c2",
+  "level": "sl_hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"5a\"><p><strong>5a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"5b(i)\"><p><strong>5b(i)</strong></p><p></p>\n<p>Position labelled anywhere between P and B</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5b(ii)\"><p><strong>5b(ii)</strong></p><p></p>\n<p>Arrow pointing to the right, labelled velocity.</p>\n<p>Arrow pointing to the left, labelled acceleration.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"5c\"><p><strong>5c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_06\"><img alt=\"Source markscheme diagram 6\" src=\"asset:fig_06\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Initially, particle X is held at point A. When the particle is released at <span class=\"math\" data-latex=\"t = 0\"></span>, it oscillates with simple harmonic motion between points A and B. Point P is halfway between A and B. The time period of the oscillations is <span class=\"math\" data-latex=\"T\"></span>.</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>a. Sketch how the acceleration of the particle varies with its displacement from point P.</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n<p>   [1]</p>\n<p></p>\n<p>b. On the diagram:</p>\n<p>i. label the approximate position of the particle at <span class=\"math\" data-latex=\"t = \\frac{11T}{8}\"></span> with the letter Y.</p>\n<p>   [1]</p>\n<p>ii. draw and label arrows to show the direction of the particle’s velocity and acceleration at <span class=\"math\" data-latex=\"t = \\frac{11T}{8}\"></span>.</p>\n<p>   [2]</p>\n<p>The graph shows how the displacement of the particle from point P varies with time.</p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n<p>c. Sketch how the velocity of the particle varies with time.</p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

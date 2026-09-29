@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_28a85200e17c4f91a6d20ca2ca89f4ae",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a double-slit experiment monochromatic violet light is incident on two slits that are located at a distance <span class=\"math\" data-latex=\"d\"></span> from a screen. The separation of the slits is <span class=\"math\" data-latex=\"s\"></span>. The distance between consecutive dark fringes in the interference pattern that forms on the screen is <span class=\"math\" data-latex=\"a\"></span>. </p>\n<p>The experiment can be modified in the following ways:</p>\n<p>I. Changing violet light to yellow light.</p>\n<p>II. Decreasing <span class=\"math\" data-latex=\"d\"></span>.</p>\n<p>III. Decreasing <span class=\"math\" data-latex=\"s\"></span>.</p>\n<p></p>\n<p>Which of these modifications will cause <span class=\"math\" data-latex=\"a\"></span> to increase?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

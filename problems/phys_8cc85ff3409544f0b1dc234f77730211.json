@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_8cc85ff3409544f0b1dc234f77730211",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A satellite is launched into a circular orbit at altitude <span class=\"math\" data-latex=\"h\"></span> above a planet's surface. What happens to the gravitational field strength and potential energy of the satellite as it ascends to this orbit?</p>\n<table><thead><tr><th></th><th>Gravitational Field Strength</th><th>Gravitational Potential Energy</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td>Increases</td><td>Becomes more negative</td></tr><tr data-label=\"B\"><td>B.</td><td>Increases</td><td>Becomes less negative</td></tr><tr data-label=\"C\"><td>C.</td><td>Decreases</td><td>Becomes less negative</td></tr><tr data-label=\"D\"><td>D.</td><td>Decreases</td><td>Becomes more negative</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

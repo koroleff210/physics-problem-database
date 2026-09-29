@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/310671287cb2b692123a34129dfda2dd6a67a52955382cc8ee80c5dcfd2b44f0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "310671287cb2b692123a34129dfda2dd6a67a52955382cc8ee80c5dcfd2b44f0"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_aad0c00f95a147d0b894444895f07179",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows a simple model of the energy balance in the Earth surface-atmosphere system. The intensities of the radiations are given.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average intensity radiated by the atmosphere towards the surface?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">100 W m<sup>−2</sup></li><li data-label=\"B\">150 W m<sup>−2</sup></li><li data-label=\"C\">240 W m<sup>−2</sup></li><li data-label=\"D\">390 W m<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

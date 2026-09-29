@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_0905327e98724e54b7e38df225167404",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A dead satellite orbits just above Earth's atmosphere. What will be the changes in the satellite's orbital velocity and radius after a significant amount of time?</p>\n<table><thead><tr><th></th><th>Orbital velocity</th><th>Orbital Radius</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Decrease</td><td>Decrease</td></tr><tr data-label=\"B\"><td>B</td><td>Decrease</td><td>Increase</td></tr><tr data-label=\"C\"><td>C</td><td>Increase</td><td>Decrease</td></tr><tr data-label=\"D\"><td>D</td><td>Increase</td><td>Increase</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

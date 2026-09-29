@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_fcb7612416504d05a148b2b60728f728",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The unified atomic mass unit, u, is a non-SI unit usually used by scientists to state atomic masses.</p>\n<p>What is u?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">It is the mean of the masses of a proton and a neutron.</li><li data-label=\"B\">It is the mean of the masses of protons and neutrons in all chemical elements.</li><li data-label=\"C\">It is <span class=\"math\" data-latex=\"\\frac{1}{16}\"></span> the mass of an <sup>16</sup><sub>8</sub>O atom.</li><li data-label=\"D\">It is <span class=\"math\" data-latex=\"\\frac{1}{12}\"></span> the mass of a <sup>12</sup><sub>6</sub>C atom.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

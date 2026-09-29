@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/11c9d152b787ce11b2bbf67f111821f65dadb8e7768dab3a503d306be703a153.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "11c9d152b787ce11b2bbf67f111821f65dadb8e7768dab3a503d306be703a153"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_106841128c3a4020b3962e3197012e30",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pure sample of nuclide X decays into nuclide Y. The graph shows how <span class=\"math\" data-latex=\"n\"></span>, the ratio of <span class=\"math\" data-latex=\"\\frac{Number  of  nuclides  Y}{Number  of  nuclides  of  X}\"></span> in the sample, varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The half-life of nuclide Z is four times the half-life of nuclide X. When a pure sample of nuclide Z decays, the activity of the sample after <span class=\"math\" data-latex=\"2\"></span> hours is <span class=\"math\" data-latex=\"15\"></span> Bq. What is the initial activity of the pure sample of nuclide Z?  </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"30\"></span> Bq</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"60\"></span> Bq</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"120\"></span> Bq</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"240\"></span> Bq</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

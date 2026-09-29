@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_d1cbbae2634f4e78b023653dd6b35f50",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a hydrogen atom, the energy of an electron in the <span class=\"math\" data-latex=\"n=3\"></span> state is <span class=\"math\" data-latex=\"-1.51\\ \\mathrm{eV}\"></span> and in the <span class=\"math\" data-latex=\"n=2\"></span> state is <span class=\"math\" data-latex=\"-3.40\\ \\mathrm{eV}\"></span>. What is the momentum of the photon emitted in the <span class=\"math\" data-latex=\"n=3 \\to n=2\"></span> transition?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"7.7 \\times 10^{-28} \\mathrm{\\ kg\\ m\\ s}^{-1}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"9.3 \\times 10^{-28} \\mathrm{\\ kg\\ m\\ s}^{-1}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^{-27} \\mathrm{\\ kg\\ m\\ s}^{-1}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.1 \\times 10^{-27} \\mathrm{\\ kg\\ m\\ s}^{-1}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

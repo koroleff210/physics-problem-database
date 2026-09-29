@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_2b6eefffc5bf48c8aef1a1378fcc0121",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle executes simple harmonic motion (SHM). The table gives the acceleration <span class=\"math\" data-latex=\"a\"></span> of the particle for two different values of its displacement <span class=\"math\" data-latex=\"x\"></span> from the equilibrium position.</p>\n<table><thead><tr><th>Displacement <span class=\"math\" data-latex=\"x\"></span> / cm</th><th>Acceleration <span class=\"math\" data-latex=\"a\"></span> / <span class=\"math\" data-latex=\"\\text{m s}^{-2}\"></span></th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"-5.0\"></span></td><td><span class=\"math\" data-latex=\"+20.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"+5.0\"></span></td><td><span class=\"math\" data-latex=\"-20.0\"></span></td></tr></tbody></table>\n<p>What is the period of the oscillation?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.05\\pi \\text{ s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\pi \\text{ s}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.1\\pi \\text{ s}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{10}{\\pi} \\text{ s}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 8,
+  "id": "phys_d8d1aa3928724df5b07adbdba428077d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student drops a solid sphere and a solid cylinder, both with identical mass and radius, from rest at the top of an incline. Assuming rolling without slipping and no air resistance, which object reaches the bottom first, and why?</p>\n<table><thead><tr><th></th><th>Object reaching bottom first</th><th>Reason</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Sphere</td><td>Smaller moment of inertia</td></tr><tr data-label=\"B\"><td>B</td><td>Cylinder</td><td>Greater rotational energy</td></tr><tr data-label=\"C\"><td>C</td><td>Sphere</td><td>Greater translational energy</td></tr><tr data-label=\"D\"><td>D</td><td>Cylinder</td><td>Lower rotational speed</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

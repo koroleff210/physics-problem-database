@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/38aaa2b56865ef6bf52d4b845b9c50671ddef09629d1b2e19d290a94af293ed9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "38aaa2b56865ef6bf52d4b845b9c50671ddef09629d1b2e19d290a94af293ed9"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_2d30d5bbaf6742c18495a21e67bbeac9",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"3.0\\: \\Omega\"></span> resistor is connected to a cell of emf <span class=\"math\" data-latex=\"8.0\"></span> V and a switch as shown on the diagram.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When the switch is open, the voltmeter reading is <span class=\"math\" data-latex=\"8.0\"></span> V and when the switch is closed, the voltmeter reading is <span class=\"math\" data-latex=\"6.0\"></span> V. What is the internal resistance of the cell?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.0\\: \\Omega\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"3.0\\: \\Omega\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"6.0\\: \\Omega\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"9.0\\: \\Omega\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

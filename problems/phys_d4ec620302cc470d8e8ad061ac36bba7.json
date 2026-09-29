@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c28d111b5d20495c9a69b29cef520dc8a56b8871229dec835cd392a26acf31bf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c28d111b5d20495c9a69b29cef520dc8a56b8871229dec835cd392a26acf31bf"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_d4ec620302cc470d8e8ad061ac36bba7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In an experiment on Planet X, a small sphere of radius <span class=\"math\" data-latex=\"1.0\\; \\textup{m}\"></span> and mass <span class=\"math\" data-latex=\"3.0\\; \\textup{kg}\"></span> is made to roll without slipping on a horizontal surface with an angular speed of <span class=\"math\" data-latex=\"5.0\\; \\textup{rad\\,s}^{-1}\"></span>. Then a ramp is placed in the path of the sphere and the sphere rolls up the ramp without slipping.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The maximum vertical height reached by the centre of the sphere is <span class=\"math\" data-latex=\"4.5\\; \\textup{m}\"></span>. The moment of inertia for the sphere is <span class=\"math\" data-latex=\"I = \\frac{2}{5}mr^{2}\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"r\"></span> is the radius of the sphere.</p>\n<p>What is the weight of the sphere on Planet X?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"9.0\\; \\textup{N}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"12\\; \\textup{N}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"15\\; \\textup{N}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"18\\; \\textup{N}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

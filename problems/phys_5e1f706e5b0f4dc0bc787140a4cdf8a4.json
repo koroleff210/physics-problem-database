@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_5e1f706e5b0f4dc0bc787140a4cdf8a4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object of mass 5.0 kg is initially at rest. An impulse of 2.0 N s acts on the object.</p>\n<p>What is the final kinetic energy of the object?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.40 J</li><li data-label=\"B\">10 J</li><li data-label=\"C\">20 J</li><li data-label=\"D\">40 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b513df913bc24e89aafc3493f225dce3",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The centripetal force for an orbiting body is provided by the gravitational force, F = <span class=\"math\" data-latex=\"GmM_{\\mathrm{planet}}\"></span>/r^2. For moon X, <span class=\"math\" data-latex=\"F_{X}\"></span> = <span class=\"math\" data-latex=\"GmM_{p}\"></span>/R^2. For moon Y, <span class=\"math\" data-latex=\"F_{Y}\"></span> = G(2m)<span class=\"math\" data-latex=\"M_{p}\"></span>/(R/2)^2 = 8 * <span class=\"math\" data-latex=\"GmM_{p}\"></span>/R^2. The ratio of the force on X to the force on Y is (<span class=\"math\" data-latex=\"GmM_{p}\"></span>/R^2) / (8 * <span class=\"math\" data-latex=\"GmM_{p}\"></span>/R^2), which simplifies to 1/8.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet has two moons, X and Y, orbiting it in circular orbits. Moon X has mass m and orbital radius R. Moon Y has mass 2m and orbital radius R/2. What is the ratio between the centripetal force acting on X and the centripetal force acting on Y?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"1/8\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"1/4\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"1/2\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"1\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

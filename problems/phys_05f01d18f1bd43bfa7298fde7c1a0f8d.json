@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_05f01d18f1bd43bfa7298fde7c1a0f8d",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>neutron OR <sup>1</sup><sub>0</sub>n ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>nucleus &lt;&lt;is positive and&gt;&gt; repels proton ✔<br/>proton must be close to nucleus for nuclear force to be effective ✔<br/>&lt;&lt;this corresponds to high electric potential energy and&gt;&gt; therefore high initial kinetic energy required ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Use of A <span class=\"math\" data-latex=\"=\"></span> A<sub>0</sub>e<span class=\"math\" data-latex=\"-\"></span><span class=\"math\" data-latex=\"\\lambda\"></span><sup>t </sup>✔ <span class=\"math\" data-latex=\"ln \\frac{0.0012}{1.5}=-1.1\\times 10^{-4}t\"></span> t<span class=\"math\" data-latex=\"=\"></span>6.5<span class=\"math\" data-latex=\"\\times\"></span>10<sup>4</sup> «s» ✔ Allow 18 hours<br/>‘Use of’ requires a substitution NOT just a statement of a formula</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>particle–antiparticle ✔ Allow lepton – antilepton, matter – antimatter</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>electron ✔ Do not allow antipositron</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>any reference to momentum conservation OR energy and momentum cannot be both conserved ✔   a nucleus redistributes the momentum ✔</p></section><section class=\"markscheme-part\" data-label=\"c.iv\"><p><strong>c.iv</strong></p><p>annihilation with an electron ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Fluorine-18 <sup>18</sup><sub>9</sub>F can be created when a proton travelling at high speed interacts with an oxygen-18 <sup>18</sup><sub>8</sub>O nucleus. The following gives the nuclear equation for this process.</p>\n<p><sup>1</sup><sub>1</sub>p + <sup>18</sup><sub>8</sub>O → <sup>18</sup><sub>9</sub>F + X</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State <span class=\"math\" data-latex=\"X\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Explain why the proton must be travelling at high speed for this process to occur. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Fluorine-18 is a positron emitter; it is injected into a patient during a medical procedure. The initial activity required for the procedure is 1.5 GBq. The patient is unsafe to others until this activity has decreased.</p>\n<p>Decay constant of fluorine-18 <span class=\"math\" data-latex=\"=\"></span> 1.1 × 10<span class=\"math\" data-latex=\"-\"></span><sup>4</sup> s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></p>\n<p>Calculate the time taken for the activity to decrease from its initial value to 1.2 MBq. Assume that none of the fluorine leaves the body of the patient during this time.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> A positron can also be produced through the process of pair production.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> State the relationship between particles emitted in pair production. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Identify the other particle produced during the pair production. [1]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Suggest why pair production can only occur when a single photon is close to a nucleus. [2]</p></section><section class=\"question-part\" data-label=\"c.iv\"><p><strong>c.iv</strong> Suggest what is likely to happen to the positron after its production. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

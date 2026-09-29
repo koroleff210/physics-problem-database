@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/879b317a618aeb152c59797244ba4e652d22eaa3196c38794a219932f94364e8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "879b317a618aeb152c59797244ba4e652d22eaa3196c38794a219932f94364e8"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/8ac9184211e935de1c9149d4a72f5b77a5e539290021046ae4d8c7a5962dcfdb.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8ac9184211e935de1c9149d4a72f5b77a5e539290021046ae4d8c7a5962dcfdb"
+    }
+  ],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_6168e028385549ce9bdb4128d6caa970",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a simple climate model for a planet, the incoming intensity is 400 W m<sup>−2</sup> and the radiated intensity is 300 W m<sup>−2</sup>.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The temperature of the planet is constant. What are the reflected intensity from the planet and the albedo of the planet?</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

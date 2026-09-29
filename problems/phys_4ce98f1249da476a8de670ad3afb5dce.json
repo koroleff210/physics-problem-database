@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_4ce98f1249da476a8de670ad3afb5dce",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>White light is incident on a diffraction grating. The second-order maximum of wavelength 600 nm falls directly onto the third-order maximum of a wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>.</p>\n<p>What is <span class=\"math\" data-latex=\"\\lambda\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">250 nm</li><li data-label=\"B\">400 nm</li><li data-label=\"C\">900 nm</li><li data-label=\"D\">1200 nm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

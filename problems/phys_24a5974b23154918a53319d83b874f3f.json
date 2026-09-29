@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/437645295c563ccd3920f9f961a7da113ae9defa306efc7a69a234b81e3ad709.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "437645295c563ccd3920f9f961a7da113ae9defa306efc7a69a234b81e3ad709"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_24a5974b23154918a53319d83b874f3f",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A radioactive nuclide X decays into a nuclide Y. The graph shows the variation with time of the activity A of X. X and Y have the same nucleon number.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is true about nuclide X?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">alpha (α) emitter with a half-life of t</li><li data-label=\"B\">alpha (α) emitter with a half-life of 2t</li><li data-label=\"C\">beta-minus (β<sup>−</sup>) emitter with a half-life of t</li><li data-label=\"D\">beta-minus (β<sup>−</sup>) emitter with a half-life of 2t</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

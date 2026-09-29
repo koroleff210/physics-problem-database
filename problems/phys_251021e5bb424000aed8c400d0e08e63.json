@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 6,
+  "id": "phys_251021e5bb424000aed8c400d0e08e63",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Electrons move in circular orbits of fixed energy.<br/>[1 mark]<br/>- Radiation is emitted or absorbed only when electrons change orbits.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- In allowed orbits, electrons do not radiate energy.<br/>[1 mark]<br/>- The quantized angular momentum keeps them stable.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Bohr model ignores electron-electron repulsion.<br/>[1 mark]<br/>- It cannot explain the spectra of multi-electron atoms.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Bohr’s model provided a framework to explain the hydrogen spectrum.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>State two postulates of the Bohr model.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Explain why electrons in the Bohr model do not spiral into the nucleus.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Suggest why the Bohr model fails for atoms with more than one electron.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

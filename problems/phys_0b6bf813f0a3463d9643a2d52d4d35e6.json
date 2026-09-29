@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_0b6bf813f0a3463d9643a2d52d4d35e6",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A negatively charged particle is moved away from a positively charged sphere. Which of the following are not inversely proportional to the distance between the particle and the centre of the sphere?</p>\n<p>I. The electric force on the negatively charged particle due to the sphere.</p>\n<p>II. The electrical potential energy of the negatively charged particle.</p>\n<p>III. The electric field strength due to the sphere at the position of the negatively charged particle.</p>\n<p></p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/402f35534f62bc39ff4cbf5bf457733d68be75d6e7943e62b42143040b62401d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "402f35534f62bc39ff4cbf5bf457733d68be75d6e7943e62b42143040b62401d"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/999ea84a440c6636f550818778cd51d07f378ce3d58a3935bf75be1335503081.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "999ea84a440c6636f550818778cd51d07f378ce3d58a3935bf75be1335503081"
+    }
+  ],
+  "classes": [
+    "E.1",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_5304662fcf5c444bbac67c3115e59aa6",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\lambda=\\frac{6.63\\times 10^{-34}\\times 3\\times 10^{8}}{1.60\\times 10^{-19}\\times 4.2\\times 10^{8}}\"></span> OR <span class=\"math\" data-latex=\"=2.96\\times 10^{-15}m\"></span> ✓  <br/>Answer to at least <span class=\"math\" data-latex=\"2\"></span> s.f. (i.e. 3.0)</p></section><section class=\"markscheme-part\" data-label=\"b(i)\"><p><strong>b(i)</strong></p><p>«the shape of the graph suggests that» electrons undergo diffraction «with carbon nuclei» ✓</p>\n<p>only waves diffract ✓</p></section><section class=\"markscheme-part\" data-label=\"b(ii)\"><p><strong>b(ii)</strong></p><p><span class=\"math\" data-latex=\"sin\\theta_{0}=\\frac{2.96\\times 10^{-15}}{4.94\\times 10^{-15}}=0.599\"></span> ✓ <span class=\"math\" data-latex=\"37 degrees\"></span> OR <span class=\"math\" data-latex=\"0.64/0.65 rad\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"b(iii)\"><p><strong>b(iii)</strong></p><p>the de Broglie wavelength of electrons is «much» longer than the size of a nucleus ✓ <br/>hence electrons would not undergo diffraction<br/>OR<br/>no diffraction pattern would be observed ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>volume of a nucleus proportional to <span class=\"math\" data-latex=\"{( {A}^{\\frac{1}{3}} )}^{3} = A\"></span> AND mass proportional to <span class=\"math\" data-latex=\"A\"></span> ✓ the ratio <span class=\"math\" data-latex=\"\\frac{mass}{volume}\"></span> independent of <span class=\"math\" data-latex=\"A\"></span> «hence density the same for all nuclei» ✓   Both needed for MP1</p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The de Broglie wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> of a particle accelerated close to the speed of light is approximately</p>\n<p><span class=\"math\" data-latex=\"\\lambda≈\\frac{hc}{E}\"></span></p>\n<p>where <span class=\"math\" data-latex=\"E\"></span> is the energy of the particle.<br/>A beam of electrons of energy <span class=\"math\" data-latex=\"4.2\\times 10^{8} eV\"></span> is produced in an accelerator.</p>\n<p>The electron beam is used to study the nuclear radius of carbon-12. The beam is directed from the left at a thin sample of carbon-12. A detector is placed at an angle <span class=\"math\" data-latex=\"\\theta\"></span> relative to the direction of the incident beam.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation of the intensity of electrons with <span class=\"math\" data-latex=\"\\theta\"></span>. There is a minimum of intensity for <span class=\"math\" data-latex=\"\\theta=\\theta_{0}\"></span>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show that the wavelength of an electron in the beam is about <span class=\"math\" data-latex=\"3\\times 10^{-15} m\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b(i)\"><p><strong>b(i)</strong> Discuss how the results of the experiment provide evidence for matter waves. [2]</p></section><section class=\"question-part\" data-label=\"b(ii)\"><p><strong>b(ii)</strong> The accepted value of the diameter of the carbon-12 nucleus is <span class=\"math\" data-latex=\"4.94\\times 10^{-15} m\"></span>. Estimate the angle <span class=\"math\" data-latex=\"\\theta_{0}\"></span> at which the minimum of the intensity is formed. [2]</p></section><section class=\"question-part\" data-label=\"b(iii)\"><p><strong>b(iii)</strong> Outline why electrons with energy of approximately <span class=\"math\" data-latex=\"10^{7} eV\"></span> would be unsuitable for the investigation of nuclear radii. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Experiments with many nuclides suggest that the radius of a nucleus is proportional to <span class=\"math\" data-latex=\"A^{\\frac{1}{3}}\"></span>, where <span class=\"math\" data-latex=\"A\"></span> is the number of nucleons in the nucleus. Show that the density of a nucleus remains approximately the same for all nuclei. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

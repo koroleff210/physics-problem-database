@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5751cd26b635b3ba844621bc1ac950e54495cca6d760d6f62f714e7ae12e96bb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5751cd26b635b3ba844621bc1ac950e54495cca6d760d6f62f714e7ae12e96bb"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/98af85ebb6e1c31660d20c1b55ee576b1fb92fac9c661905cc4dab25bb5c8a62.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "98af85ebb6e1c31660d20c1b55ee576b1fb92fac9c661905cc4dab25bb5c8a62"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_179bca937f6b40ce82380f7019a11bd2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the magnetic flux through a rectangular coil varies with time as the coil is rotated at constant speed in a magnetic field. </p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<p>Which graph correctly shows how the induced emf in the rotating coil varies with time?</p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

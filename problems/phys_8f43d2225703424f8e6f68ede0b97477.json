@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/25e7f13ac36b9af87fae4a7ea8c38cd9e24255a33ce6167a11a030b90f8f6a25.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "25e7f13ac36b9af87fae4a7ea8c38cd9e24255a33ce6167a11a030b90f8f6a25"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_8f43d2225703424f8e6f68ede0b97477",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle is held at point Y, located at the same distance from the centres of two large spherical masses. The particle is not influenced by any other masses.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What happens when the particle is released?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">It moves to point X and comes to rest there.</li>\n<li data-label=\"B\">It remains at point Y.</li>\n<li data-label=\"C\">It oscillates about point X.</li>\n<li data-label=\"D\">It moves vertically upwards.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

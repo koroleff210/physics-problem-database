@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4c6aa4a6ece5dbbffe73ff92a267aef39c32abc9e581dd4990fc7830139d0460.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4c6aa4a6ece5dbbffe73ff92a267aef39c32abc9e581dd4990fc7830139d0460"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ab18cb8f9148469db0597de8374e3a34",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>electrons are ejected from the surface of a metal ✓</p>\n<p>after gaining energy from photons/electromagnetic radiation ✓</p>\n<p>there is a minimum «threshold» energy/frequency<br/>OR<br/>maximum «threshold» wavelength ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>«<span class=\"math\" data-latex=\"eV = \\frac{1}{2} mv^{2}\"></span>» and manipulation to get <span class=\"math\" data-latex=\"v\"></span> ✓ <span class=\"math\" data-latex=\"v=\\sqrt{\\frac{2\\times 1.6\\times 10^{-19}\\times 1.4}{9.1\\times 10^{-31}}}\"></span>  OR  <span class=\"math\" data-latex=\"702km s^{-1}\"></span>✓ Must see either complete substitution or calculation to at least 3 s.f. for MP2</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"E=2.3+1.4\"></span> ✓ <span class=\"math\" data-latex=\"\\lambda=\\frac{6.63\\times 10^{-34}\\times 3\\times 10^{8}}{3.7\\times 1.6\\times 10^{-19}}\"></span> ✓ <span class=\"math\" data-latex=\"= 3.4 \\times 10^{- 7}~\\text{m~}\\textit{\\textbf{OR}}\\text{~340~nm}\"></span> ✓ <br/>Must see an appropriate unit to award MP3.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>In an electric circuit used to investigate the photoelectric effect, the voltage is varied until the reading in the ammeter is zero. The stopping voltage that produces this reading is 1.40 V.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Describe the photoelectric effect. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the maximum velocity of the photoelectrons is <span class=\"math\" data-latex=\"700 km s^{-1}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>The photoelectrons are emitted from a sodium surface. Sodium has a work function of 2.3 eV.</p>\n<p>Calculate the wavelength of the radiation incident on the sodium. State an appropriate unit for your answer.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

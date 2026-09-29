@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d4a13fe1dee5d4e90e7d38146f33c9fc7d9d12059d41ccdd1d8a2a20a7921e86.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d4a13fe1dee5d4e90e7d38146f33c9fc7d9d12059d41ccdd1d8a2a20a7921e86"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_aeb18c78cf2f43b4b64ebd0f9ee92e00",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small object of mass <em>M </em>moves at constant speed <em>v </em>in a vertical circle on a string of length <em>R</em>. Point A is at the top of the circle.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the tension in the string at point B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"M\\left (\\frac{v^{2}}{R}-\\frac{\\sqrt{3}}{2}g\\right )\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"M\\left (\\frac{v^{2}}{R}+\\frac{\\sqrt{3}}{2}g\\right )\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"M\\left (\\frac{v^{2}}{R}-\\frac{1}{2}g\\right )\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"M\\left (\\frac{v^{2}}{R}+\\frac{1}{2}g\\right )\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_03673281c7a64d0799ab953d07824795",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two surfaces X and Y emit radiation of the same surface intensity. X emits a radiation of peak wavelength twice that of Y.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{emissivity of X}}{\\textit{emissivity of Y}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\">2</li><li data-label=\"D\">16</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_a3732ca441be4fc5aa3aff6f7f4ff35d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The problem states that the fusion reaction releases energy. This means the products are more stable than the reactants, so the total binding energy of the products is greater than the total binding energy of the reactants. Since binding energy is directly proportional to mass defect (BE = δc²), the mass defect of the resulting nucleus Z must be greater than the sum of the mass defects of the initial nuclei X and Y. Therefore, δ_Z &gt; δ_X + δ_Y.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A nucleus X with mass defect <span class=\"math\" data-latex=\"\\delta_{X}\"></span> undergoes nuclear fusion with another nucleus Y with mass defect <span class=\"math\" data-latex=\"\\delta_{Y}\"></span>. The reaction releases energy to the environment, resulting in a nucleus Z with mass defect <span class=\"math\" data-latex=\"\\delta_{Z}\"></span>. What is the correct relation between these mass defects?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"delta_Z = delta_X + delta_Y\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"delta_Z &lt; delta_X + delta_Y\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"delta_X &lt; delta_Z &lt; delta_Y\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"delta_Z &gt; delta_X + delta_Y\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

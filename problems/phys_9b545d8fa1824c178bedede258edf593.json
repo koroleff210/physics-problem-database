@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": null,
+  "id": "phys_9b545d8fa1824c178bedede258edf593",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor drives a model boat across a lake at a constant speed of <span class=\"math\" data-latex=\"2.5\\text{ m s}^{-1}\"></span>. The total drag force acting on the boat is <span class=\"math\" data-latex=\"12\\text{ N}\"></span>. What is the useful power output of the motor?</p><ol class=\"mcq-options\"><li data-label=\"A\">4.8 W</li><li data-label=\"B\">15 W</li><li data-label=\"C\">30 W</li><li data-label=\"D\">75 W</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

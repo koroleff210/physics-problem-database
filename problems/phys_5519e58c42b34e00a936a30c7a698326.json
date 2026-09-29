@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_5519e58c42b34e00a936a30c7a698326",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The number of slits per metre in a diffraction grating is <span class=\"math\" data-latex=\"\\frac{2}{5\\lambda}\"></span>. What is the highest number of maxima that can be observed when light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident normally on the grating?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"7\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"5\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a47907e2a3bb5310326ce2a0537d239974098c776132677e1e672392c3626eda.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a47907e2a3bb5310326ce2a0537d239974098c776132677e1e672392c3626eda"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_c2c971af7aaf402aac7652adb7c5fe39",
+  "level": "sl_hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"6a\"><p><strong>6a</strong></p><p></p>\n<p>Using the first section of the graph:</p>\n<p><span class=\"math\" data-latex=\"(30)(20 \\times 60) = (2700)(10)m\"></span></p>\n<p><span class=\"math\" data-latex=\"m \\approx 1.33 \\approx 1.3\"></span> kg</p>\n<p>Calculated answer must be given to at least 3 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6b\"><p><strong>6b</strong></p><p></p>\n<p>During vaporization the potential energy of the substance increases.</p>\n<p>At the same time, the average random kinetic energy of the particles in the substance does not change.</p>\n<p>Since temperature is a measure of the random kinetic energy of the particles in a substance, temperature does not change.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6c\"><p><strong>6c</strong></p><p></p>\n<p>Using the horizontal section of the graph:</p>\n<p><span class=\"math\" data-latex=\"(30)(25 \\times 60) = (1.33)L\"></span></p>\n<p><span class=\"math\" data-latex=\"L \\approx 34000\"></span> J kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Correct unit (J kg<span class=\"math\" data-latex=\"^{-1}\"></span> or kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span>) must be included to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"6d\"><p><strong>6d</strong></p><p></p>\n<p>The gradient of the third section of the graph is steeper than the gradient of the first section of the graph.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"30\"></span> W heater supplies energy at a constant rate to a substance, initially in the liquid state. The graph shows how the temperature of the substance varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The specific heat capacity of the substance in the liquid state is <span class=\"math\" data-latex=\"2.7\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span> K<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>a. Show that the mass of the substance is approximately <span class=\"math\" data-latex=\"1.3\"></span> kg.</p>\n<p> [2]</p>\n<p>During the process, the liquid starts to evaporate.</p>\n<p>b. Explain why the temperature of the substance does not change during vaporization.</p>\n<p>  [3]</p>\n<p>c. Find the specific latent heat of vaporization of the substance.</p>\n<p>  [2]</p>\n<p>d. State, without a calculation, how the graph can be used to show that the specific heat capacity of the substance in the gas phase is less than the specific heat capacity of the substance in the liquid phase.</p>\n<p>  [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

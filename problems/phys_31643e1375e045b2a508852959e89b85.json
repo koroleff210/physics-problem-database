@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/abca8a1d1f4b3cf3b363dbd53a236e109201a4c4501730102c80dd48908a849b.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "abca8a1d1f4b3cf3b363dbd53a236e109201a4c4501730102c80dd48908a849b"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_31643e1375e045b2a508852959e89b85",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball rolls off the edge of a horizontal table with a speed of <span class=\"math\" data-latex=\"2.0\\text{ m s}^{-1}\"></span>, as shown in the diagram. The table is <span class=\"math\" data-latex=\"1.25\\text{ m}\"></span> above the floor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the horizontal distance <span class=\"math\" data-latex=\"d\"></span> from the edge of the table to the point where the ball strikes the floor? (Assume <span class=\"math\" data-latex=\"g = 10\\text{ m s}^{-2}\"></span> and air resistance is negligible.)</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.50\\text{ m}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.0\\text{ m}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1.25\\text{ m}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"2.5\\text{ m}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

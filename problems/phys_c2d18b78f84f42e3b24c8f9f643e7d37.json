@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2c74aad8ac03a17a4be9fbff31da88aad73a5cb5eca8dd28aef4d89412a280c3.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c74aad8ac03a17a4be9fbff31da88aad73a5cb5eca8dd28aef4d89412a280c3"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/dce8c87469c51674151e9274d0f810100f3a2067a65fe5e3a4f5fff1bb5b5320.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "dce8c87469c51674151e9274d0f810100f3a2067a65fe5e3a4f5fff1bb5b5320"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_c2d18b78f84f42e3b24c8f9f643e7d37",
+  "level": "sl",
+  "marks": 15,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>direction of motion is different / OWTTE ✓</p>\n<p>mv / magnitude of momentum is different «even though v the same» ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>use of ma = mg − T «3.5 x 2.4 = 3.5g − T »</p>\n<p>OR</p>\n<p>T = 3.5(g − 2.4) ✓</p>\n<p>26 «N» ✓</p>\n<p>Accept 27 N from g = 10 m s<sup>−2</sup></p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>proper use of kinematic equation ✓</p>\n<p><span class=\"math\" data-latex=\"\\sqrt{2\\times 2.4\\times 0.95}=2.14\"></span> «m s<sup>−1</sup>» ✓</p>\n<p>Must see either the substituted values OR a value for v to at least three s.f. for MP2.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>use of <span class=\"math\" data-latex=\"\\omega=\\frac{v}{r}\"></span> to give 84 «rad s<sup>−1</sup>»</p>\n<p>OR</p>\n<p><span class=\"math\" data-latex=\"\\omega=2.1/0.025\"></span> to give 84 «rad s<sup>−1</sup>» ✓</p>\n<p>quoted to 2sf only✓</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>ALTERNATIVE 1</p>\n<p>«<span class=\"math\" data-latex=\"v^{2}=u^{2}+2as⇒0=2.1^{2}-2a\\times 0.35\"></span>» leading to a = 6.3 «m s<sup>-2</sup>»</p>\n<p>OR</p>\n<p>« <span class=\"math\" data-latex=\"x=1/2u+vt\"></span> » leading to t = 0.33 « s » ✓</p>\n<p><br/>F<sub>net</sub> = « <span class=\"math\" data-latex=\"ma=1.5\\times 6.3\"></span> = » 9.45 «N» ✓</p>\n<p>Weight down ramp = 1.5 x 9.8 x sin(30) = 7.4 «N» ✓</p>\n<p>friction force = net force – weight down ramp = 2.1 «N» ✓</p>\n<p>ALTERNATIVE 2</p>\n<p>kinetic energy initial = work done to stop 0.5 x 1.5 x (2.1)<sup>2</sup> = F<sub>NET</sub> x 0.35 ✓</p>\n<p>F<sub>net</sub> = 9.45 «N» ✓</p>\n<p>Weight down ramp = 1.5 x 9.8 x sin(30) = 7.4 «N» ✓</p>\n<p>friction force = net force – weight down ramp = 2.1 «N» ✓</p>\n<p>Accept 1.95 N from g = 10 m s<sup>-2</sup>.<br/>Accept 2.42 N from u = 2.14 m s<sup>-1</sup>.</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>static coefficient of friction &gt; dynamic/kinetic coefficient of friction / μ<sub>s</sub> &gt; μ<sub>k</sub> ✓</p>\n<p>«therefore» force of dynamic/kinetic friction will be less than the force of static friction ✓</p>\n<p><br/>there will be a net / unbalanced forward force once in motion «which results in acceleration»</p>\n<p>OR</p>\n<p>reference to net F = ma ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A student uses a load to pull a box up a ramp inclined at 30°. A string of constant length and negligible mass connects the box to the load that falls vertically. The string passes over a pulley that runs on a frictionless axle. Friction acts between the base of the box and the ramp. Air resistance is negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The load has a mass of 3.5 kg and is initially 0.95 m above the floor. The mass of the box is 1.5 kg.</p>\n<p>The load is released and accelerates downwards.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline two differences between the momentum of the box and the momentum of the load at the same instant. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The vertical acceleration of the load downwards is 2.4 m s<sup>−2</sup>.</p>\n<p>Calculate the tension in the string.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the speed of the load when it hits the floor is about 2.1 m s<sup>−1</sup>. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> The radius of the pulley is 2.5 cm. Calculate the angular speed of rotation of the pulley as the load hits the floor. State your answer to an appropriate number of significant figures. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> After the load has hit the floor, the box travels a further 0.35 m along the ramp before coming to rest. Determine the average frictional force between the box and the surface of the ramp. [4]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> </p><p>The student then makes the ramp horizontal and applies a constant horizontal force to the box. The force is just large enough to start the box moving. The force continues to be applied after the box begins to move.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Explain, with reference to the frictional force acting, why the box accelerates once it has started to move.</p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

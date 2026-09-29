@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_5115dd023ebc4871b7846778e0a004e5",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This represents the ratio of the incident intensities (<span class=\"math\" data-latex=\"1000/500\"></span>).</p>\n<p>B: The albedo of sea ice is <span class=\"math\" data-latex=\"\\alpha_{ice} = \\frac{800}{1000} = 0.8\"></span>. The albedo of open ocean is <span class=\"math\" data-latex=\"\\alpha_{ocean} = \\frac{50}{500} = 0.1\"></span>. The ratio is <span class=\"math\" data-latex=\"\\frac{0.8}{0.1} = 8.0\"></span>.</p>\n<p>C: This represents the ratio of the reflected intensities (<span class=\"math\" data-latex=\"800/50\"></span>).</p>\n<p>D: This represents the inverse ratio <span class=\"math\" data-latex=\"\\frac{\\text{albedo of open ocean}}{\\text{albedo of sea ice}}\"></span> (<span class=\"math\" data-latex=\"0.1/0.8\"></span>).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The data in the table were collected by a satellite measuring the radiation balance over two different types of terrain on a planet's surface.</p>\n<table><thead><tr><th>Terrain</th><th>Incident intensity / <span class=\"math\" data-latex=\"\\text{W m}^{-2}\"></span></th><th>Reflected intensity / <span class=\"math\" data-latex=\"\\text{W m}^{-2}\"></span></th></tr></thead><tbody><tr><td>Sea ice</td><td><span class=\"math\" data-latex=\"1000\"></span></td><td><span class=\"math\" data-latex=\"800\"></span></td></tr><tr><td>Open ocean</td><td><span class=\"math\" data-latex=\"500\"></span></td><td><span class=\"math\" data-latex=\"50\"></span></td></tr></tbody></table>\n<p>What is the value of the ratio <span class=\"math\" data-latex=\"\\frac{\\text{albedo of sea ice}}{\\text{albedo of open ocean}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"8.0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"16.0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.125\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ba8555afc09375a0cfa8cc2bda0901558bae08ca909ee0828e79cc76ba304a77.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ba8555afc09375a0cfa8cc2bda0901558bae08ca909ee0828e79cc76ba304a77"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_6cb618b6f69c43afaad47d92051e145d",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass is released from the top of a smooth ramp of height <span class=\"math\" data-latex=\"h\"></span>. After leaving the ramp, the mass slides on a rough horizontal surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The mass comes to rest in a distance d. What is the coefficient of dynamic friction between the mass and the horizontal surface?</p>\n<p><span class=\"math\" data-latex=\"A.  \\frac{gd}{h}\"></span></p>\n<p><span class=\"math\" data-latex=\"B.  \\sqrt{\\frac{d}{2gh}}\"></span></p>\n<p><span class=\"math\" data-latex=\"C.  \\frac{d}{h}\"></span></p>\n<p><span class=\"math\" data-latex=\"D.  \\frac{h}{d}\"></span></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

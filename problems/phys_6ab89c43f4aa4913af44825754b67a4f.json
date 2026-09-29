@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_6ab89c43f4aa4913af44825754b67a4f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The escape speed is given by <span class=\"math\" data-latex=\"v_{esc} = \\sqrt{2GM/R}\"></span>. The planet's mass is <span class=\"math\" data-latex=\"M_P = 6M_E\"></span>. Since volume is proportional to the cube of the radius (<span class=\"math\" data-latex=\"V \\propto R^3\"></span>), a volume 27 times larger means the radius is 3 times larger (<span class=\"math\" data-latex=\"R_P = 3R_E\"></span>). The new escape speed is <span class=\"math\" data-latex=\"v_P = \\sqrt{2G(6M_E)/(3R_E)} = \\sqrt{6/3} \\sqrt{2GM_E/R_E} = \\sqrt{2} v_{\\mathrm{Earth}} \\approx 1.4 v_{\\mathrm{Earth}}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The escape speed from the surface of Earth is <span class=\"math\" data-latex=\"v_{\\mathrm{Earth}}\"></span>.</p>\n<p>What is the escape speed from the surface of a planet that has a mass 6 times that of Earth and a volume 27 times that of Earth?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"0.2v_{\\mathrm{Earth}}\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"0.5v_{\\mathrm{Earth}}\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"1.4v_{\\mathrm{Earth}}\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"2.0v_{\\mathrm{Earth}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

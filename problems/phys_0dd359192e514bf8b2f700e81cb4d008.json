@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/4246cd92237e64459e6fed2fcd573f53ab1ab34a65481cc98caec814ba32ab86.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "4246cd92237e64459e6fed2fcd573f53ab1ab34a65481cc98caec814ba32ab86"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_0dd359192e514bf8b2f700e81cb4d008",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron in a mercury atom transitions from the second excited state to the ground state and emits a photon of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span>. The diagram shows the energy levels for mercury.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is <span class=\"math\" data-latex=\"\\lambda\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"223\"></span> nm</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"250\"></span> nm</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"254\"></span> nm</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"266\"></span> nm</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

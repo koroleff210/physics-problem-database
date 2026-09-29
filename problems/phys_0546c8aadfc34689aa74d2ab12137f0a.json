@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_0546c8aadfc34689aa74d2ab12137f0a",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A constant torque acts on a bicycle wheel. The wheel accelerates from rest to a final angular velocity of 16 rad s<sup>−1</sup> in a time of 4.0 s.</p>\n<p>What is the angular displacement of the wheel during the acceleration?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">16 rad</li><li data-label=\"B\">32 rad</li><li data-label=\"C\">48 rad</li><li data-label=\"D\">64 rad</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/550ef3d213c66b8adf561053aa3c7bc1212ee8a52625d89f601db6c167d53acf.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "550ef3d213c66b8adf561053aa3c7bc1212ee8a52625d89f601db6c167d53acf"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_f99e9dbcb7084fa88a5eb250a01a04a6",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«in the wave theory of light » low intensity light means low «rate of» transfer of energy. ✔<br/>and so electrons would need time to accumulate the energy they need to escape «leading to an observable time delay» ✔</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"1.8=\\frac{1.24\\times 10^{-6}}{5.2\\times 10^{-7}}-ϕ\"></span> ✔ <span class=\"math\" data-latex=\"ϕ\"></span> = 0.59 eV ✔<br/>Accept 0.58 or 0.59.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>KE of electrons at collecting plate is «1.8 − 0.6=» 1.2 eV ✔ <span class=\"math\" data-latex=\"\\frac{1}{2}\\times 9.1\\times 10^{-31}\\times v^{2} =1.2\\times 1.6\\times 10^{-19}\"></span> <sup> </sup>✔ <span class=\"math\" data-latex=\"v\"></span> = 6.5 × 10<sup>5</sup> «m s<sup>−1</sup>» ✔<br/><br/> Award [2] for <span class=\"math\" data-latex=\"v\"></span> = 9.2 × 10<sup>5 </sup>m s<sup>−1</sup> (using KE = 2.4 eV).</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Electrons are emitted from a metal surface when very low intensity light is incident on it. This emission occurs with no observable time delay.</p>\n<p>Outline why this observation is not consistent with the wave theory of light.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>Light of wavelength 5.2 × 10<sup>−7 </sup>m is incident on a metal surface and causes the emission of electrons of maximum kinetic energy 1.8 eV.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Estimate, in eV, the work function of the metal surface. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> The emf of the power supply is set at 0.60 V. Determine the speed of the electrons as they arrive at the collecting plate. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

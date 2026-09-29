@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_41f6c2cedfb441f7a9cd3484560141ee",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The speed of a spacecraft relative to Planet X is <span class=\"math\" data-latex=\"v\"></span>. When the spacecraft passes Planet X, the clocks on the spacecraft and Planet X are synchronised and show zero. The spacecraft then travels to Planet Y. The distance between Planet X and Planet Y as measured by an observer on Planet X, is <span class=\"math\" data-latex=\"s\"></span>.</p>\n<p>Three statements are:</p>\n<p>I. The proper distance between Planet X and Planet Y is <span class=\"math\" data-latex=\"s\"></span>.</p>\n<p>II. When the spacecraft arrives at Planet Y, the clocks on Planet X show a reading of <span class=\"math\" data-latex=\"\\frac{s}{v}\"></span>. </p>\n<p>III. When the spacecraft arrives at Planet Y, the clocks on the spacecraft show a reading of <span class=\"math\" data-latex=\"\\frac{s}{v\\sqrt{1 - \\frac{v^{2}}{c^{2}}}}\"></span>. </p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

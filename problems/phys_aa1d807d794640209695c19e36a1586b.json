@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/06c88351b444356b6f77b3a505f4e4d7d6eb84e60549203ae5ae4eec685611fd.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "06c88351b444356b6f77b3a505f4e4d7d6eb84e60549203ae5ae4eec685611fd"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/314d486c8663e3c417c7358890103bef73d2eed465f45323b028b3f85d76f1f3.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "314d486c8663e3c417c7358890103bef73d2eed465f45323b028b3f85d76f1f3"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_aa1d807d794640209695c19e36a1586b",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charge +Q and a charge +2Q are a distance <span class=\"math\" data-latex=\"3x\"></span> apart. Point P is on the line joining the charges, at a distance <span class=\"math\" data-latex=\"x\"></span> from one of the charges as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the electric field strength E at P?<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

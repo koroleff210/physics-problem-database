@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": null,
+  "id": "phys_a00f4278f164428a88e50880b202332b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An atom has the energy levels shown in the table below. The atom is initially in its ground state (<span class=\"math\" data-latex=\"n = 1\"></span>).</p>\n<table><thead><tr><th>Energy level</th><th>Energy / eV</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"n = 1\"></span> (ground state)</td><td><span class=\"math\" data-latex=\"-12.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"n = 2\"></span></td><td><span class=\"math\" data-latex=\"-7.0\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"n = 3\"></span></td><td><span class=\"math\" data-latex=\"-2.0\"></span></td></tr></tbody></table>\n<p>An electron with a kinetic energy of <span class=\"math\" data-latex=\"9.0\"></span> eV collides with the atom. Which of the following is a possible kinetic energy of the electron after it has collided with the atom and caused an atomic excitation?</p>\n<table><thead><tr><th></th><th>Kinetic energy / eV</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"2.0\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"4.0\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"5.0\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"7.0\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

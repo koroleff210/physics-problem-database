@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6077535d0983de9f90acf705a439acdb888a712f76d6b61f1de38b9ea894e472.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6077535d0983de9f90acf705a439acdb888a712f76d6b61f1de38b9ea894e472"
+    }
+  ],
+  "classes": [
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_04882c0477d542d2bcb9566c2f58fcd4",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"14a\"><p><strong>14a</strong></p><p></p>\n<p>The diagram shows the combined effects of the double-slit and single-slit patterns.</p>\n<p>The single-slit pattern has a minimum at P.</p>\n<p>Destructive interference at P results in zero intensity.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14b\"><p><strong>14b</strong></p><p></p>\n<p>Distance between bright fringes on the screen:</p>\n<p><span class=\"math\" data-latex=\"\\frac{13.3 \\times 10^{-3}}{4} = 3.325 \\times 10^{-3}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"\\lambda = \\frac{(3.325 \\times 10^{-3})(0.83 \\times 10^{-3})}{5.7} \\approx 4.8 \\times 10^{-7}\"></span> m or <span class=\"math\" data-latex=\"480\"></span> nm</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"14c\"><p><strong>14c</strong></p><p></p>\n<p>The fringes on the screen become more narrow.</p>\n<p>The intensity of the bright fringes increases.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Monochromatic light is incident on two slits and forms an interference pattern on a screen. The diagram shows the intensity of the pattern on the screen.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The separation of the slits is <span class=\"math\" data-latex=\"0.83\"></span> mm and the distance between the slits and the screen is <span class=\"math\" data-latex=\"5.7\"></span> m.</p>\n<p>a. Explain why intensity is zero at P.</p>\n<p>   [2]</p>\n<p>The distance between the central maximum and P is <span class=\"math\" data-latex=\"13.3\"></span> mm.</p>\n<p>b. Calculate the wavelength of the incident light.</p>\n<p>   [2]</p>\n<p>c. State <strong>two</strong> changes to the intensity pattern when two slits are replaced by ten slits.</p>\n<p>   [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

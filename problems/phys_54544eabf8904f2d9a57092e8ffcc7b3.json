@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1",
+    "B.2",
+    "C.2",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_54544eabf8904f2d9a57092e8ffcc7b3",
+  "level": "sl_hl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"2a\"><p><strong>2a</strong></p><p></p>\n<p>Thermal radiation: energy transfer through electromagnetic radiation.</p>\n<p>Thermal conduction: energy transfer through particle vibrations/collisions/movement of electrons.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2b\"><p><strong>2b</strong></p><p></p>\n<p>Combining <span class=\"math\" data-latex=\"P=e \\sigma AT^{4}\"></span> with <span class=\"math\" data-latex=\"I = \\frac{power}{A}\"></span>:</p>\n<p><span class=\"math\" data-latex=\"I = \\frac{e \\sigma AT^{4}}{4 \\times \\pi \\times d^{2}} = \\frac{1 \\times (5.67 \\times 10^{-8}) \\times 4 \\pi \\times (6.96 \\times 10^{5} \\times 10^{3})^{2} \\times (5505 + 273)^{4}}{4 \\times \\pi \\times (2.14 \\times 10^{8} \\times 10^{3})^{2}} \\approx 668.47\"></span> W m<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p>Calculated answer must be given to at least 4 s. f. in order to earn final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2c\"><p><strong>2c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\frac{668 \\times (1-a)}{4} = 150\"></span></p>\n<p><span class=\"math\" data-latex=\"a \\approx 0.10\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2d(i)\"><p><strong>2d(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"P = IA = e \\sigma AT^{4}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt[4]{\\frac{150}{5.67 \\times 10^{-8}}} \\approx 226.8\"></span> K <span class=\"math\" data-latex=\"\\approx -46\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"2d(ii)\"><p><strong>2d(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"\\lambda_{max} = \\frac{2.90 \\times 10^{-3}}{227} \\approx 1.3 \\times 10^{-5}\"></span> m</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The average distance between the Sun and Mars is <span class=\"math\" data-latex=\"2.14 \\times 10^{8}\"></span> km. The radius of the Sun is <span class=\"math\" data-latex=\"6.96 \\times 10^{5}\"></span> km and its average surface temperature is  <span class=\"math\" data-latex=\"5505\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C. </p>\n<p></p>\n<p>a. Distinguish between thermal radiation and thermal conduction.</p>\n<p>  [2]</p>\n<p>b. Show that the intensity of solar radiation at the orbit of Mars is approximately <span class=\"math\" data-latex=\"668\"></span> W m<span class=\"math\" data-latex=\"^{-2}\"></span>.</p>\n<p>  [4]</p>\n<p>c. The average intensity of solar radiation at the surface of Mars is 150 W m<span class=\"math\" data-latex=\"^{-2}\"></span>. Calculate the albedo of Mars’s atmosphere. Give your answer to an appropriate number of significant figures.</p>\n<p>  [2]</p>\n<p>d. Mars behaves as a perfect black body.</p>\n<p>i. Deduce that the average surface temperature of Mars is <span class=\"math\" data-latex=\"-46\"></span> <span class=\"math\" data-latex=\"^{o}\"></span>C.</p>\n<p>  [2]</p>\n<p>ii. Calculate the peak wavelength in the intensity of radiation emitted by the surface of Mars.</p>\n<p>  [2]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

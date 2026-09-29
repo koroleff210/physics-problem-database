@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_27f572f5a763446d8b8ee27850dc5c81",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle of mass <span class=\"math\" data-latex=\"m\"></span> is moving in a circle at constant speed. The time period of the particles rotation is <span class=\"math\" data-latex=\"T\"></span> and its kinetic energy is <span class=\"math\" data-latex=\"E\"></span>. What is the radius of the particle’s path?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E T}{2 \\pi^{2} m}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E T^{2}}{2 \\pi^{2} m}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E T}{4 \\pi^{2} m}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{E T^{2}}{4 \\pi^{2} m}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

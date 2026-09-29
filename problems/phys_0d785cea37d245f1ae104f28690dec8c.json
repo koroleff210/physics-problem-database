@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_0d785cea37d245f1ae104f28690dec8c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In the Geiger-Marsden-Rutherford experiment a small percentage of the alpha particles that are fired at the thin gold foil are scattered through large angles. What force is responsible for this large angle scattering?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The strong nuclear force.</li>\n<li data-label=\"B\">The electric force.</li>\n<li data-label=\"C\">The gravitational force.</li>\n<li data-label=\"D\">The weak nuclear force.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

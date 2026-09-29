@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_0dc75d45af684283887f9ee8170e1e86",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Spaceship A is launched from Earth and travels to Planet X. A person on Spaceship B observes the journey of Spaceship A. The time interval between the launch and the arrival is measured at all four locations. The proper time interval between the launch and the arrival is the one measured</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">on Spaceship A.</li>\n<li data-label=\"B\">on Earth.</li>\n<li data-label=\"C\">on Planet X.</li>\n<li data-label=\"D\">on Spaceship B.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

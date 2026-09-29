@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ee61792778827e94cf962975b374ff541212eee4212f59770adf73a6bcad808d.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ee61792778827e94cf962975b374ff541212eee4212f59770adf73a6bcad808d"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_ce8eb334d6114438844400724e9493cd",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The displacement of a particle in a traveling wave varies with time as shown on the graph. What are the amplitude and the frequency of the particle’s motion?</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Amplitude / nm</strong></p>\n</td>\n<td>\n<p><strong>Frequency / MHz</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"0.7\"></span></td>\n<td><span class=\"math\" data-latex=\"50\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"70\"></span></td>\n<td><span class=\"math\" data-latex=\"0.05\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"0.7\"></span></td>\n<td><span class=\"math\" data-latex=\"0.05\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"70\"></span></td>\n<td><span class=\"math\" data-latex=\"50\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

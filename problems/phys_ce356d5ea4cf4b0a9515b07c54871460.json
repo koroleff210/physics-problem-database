@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_ce356d5ea4cf4b0a9515b07c54871460",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An orbital probe cannon orbits around a planet of mass <span class=\"math\" data-latex=\"M\"></span> at a radius of <span class=\"math\" data-latex=\"R\"></span>. If the cannon has a mass of <span class=\"math\" data-latex=\"m\"></span>, what is its angular momentum?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"m\\sqrt{GMR}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"M\\sqrt{GMR}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"m\\sqrt{\\frac{GM}{R}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"M\\sqrt{\\frac{GM}{R}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

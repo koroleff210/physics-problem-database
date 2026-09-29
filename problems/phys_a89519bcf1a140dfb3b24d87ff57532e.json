@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f767353109fbafce4d0a837c4c48fad354c64e068b3652ba7879af5241b9b76e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f767353109fbafce4d0a837c4c48fad354c64e068b3652ba7879af5241b9b76e"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/f2f63cd429fe5ae63ec95da63739a3b43ec2e316b891a66a5f98967527c456a2.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f2f63cd429fe5ae63ec95da63739a3b43ec2e316b891a66a5f98967527c456a2"
+    }
+  ],
+  "classes": [
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a89519bcf1a140dfb3b24d87ff57532e",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A resistor connects two parallel conducting rails a distance d apart. A conducting bar rolls along the rails at a constant velocity v through a uniform magnetic field of 2.0 T perpendicular to the rails as shown.</p>\n<p>The voltage V across the resistor is measured.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation of V with d.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>What is v?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.33 m s<sup>−1</sup></li><li data-label=\"B\">3.0 m s<sup>−1</sup></li><li data-label=\"C\">6.0 m s<sup>−1</sup></li><li data-label=\"D\">12.0 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/a144c74c5376f3e00c17d5211a0d32adafd4a84462e491b21c29702614a7a9ec.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a144c74c5376f3e00c17d5211a0d32adafd4a84462e491b21c29702614a7a9ec"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/5291c2e9d2873f7463bbc7e64c56fe7503cc9ecdb5a58f7db9d34afb4adab32c.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5291c2e9d2873f7463bbc7e64c56fe7503cc9ecdb5a58f7db9d34afb4adab32c"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/9abe51b7dcc56f649e591babe30a3b181c153756098db9b892c5cecf391a970f.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9abe51b7dcc56f649e591babe30a3b181c153756098db9b892c5cecf391a970f"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.2",
+    "C.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_9e72e20435b444709c202b1bb98cad20",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"17a\"><p><strong>17a</strong></p><p></p>\n<p>Rearranging the diffraction grating equation:</p>\n<p><span class=\"math\" data-latex=\"\\frac{1}{sin \\theta} = \\frac{d}{n \\lambda}\"></span></p>\n<p>Using any point from the graph <span class=\"math\" data-latex=\"(\"></span>here I use <span class=\"math\" data-latex=\"(2,1.06))\"></span>:</p>\n<p><span class=\"math\" data-latex=\"1.06 = \\frac{2 \\times 10^{-6}}{3 \\lambda}\"></span></p>\n<p><span class=\"math\" data-latex=\"\\lambda \\approx 6.29 \\times 10^{-7}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"f = \\frac{3 \\times 10^{8}}{6.29 \\times 10^{-7}} \\approx 4.8 \\times 10^{14}\"></span> Hz</p>\n<p></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"17b\"><p><strong>17b</strong></p><p></p>\n<p>The grating has many more slits, so the fringes in the second pattern are much narrower.</p>\n<p>The slits in the grating are much narrower, so the intensity of the fringes in the second pattern is constant.</p>\n<p>More light passes through the grating, so the peaks in the second pattern are higher.</p>\n<p>The distance between the slits in the grating is much smaller, so the maxima in the second pattern are farther apart.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Monochromatic light is incident on a diffraction grating. The distance between adjacent slits in the grating is <span class=\"math\" data-latex=\"D\"></span> and the angle between the straight-through position and the third-order diffraction maximum is <span class=\"math\" data-latex=\"\\theta\"></span>. The graph shows how <span class=\"math\" data-latex=\"\\frac{1}{sin \\theta}\"></span> varies with <span class=\"math\" data-latex=\"D\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Determine the frequency of the incident light.</p>\n<p>  [3]</p>\n<p>The diagrams show interference patterns for a double-slit and a diffraction grating.</p>\n<p>Double-slit:</p>\n\n<figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure>\n\n<p>Diffraction grating:</p>\n\n<figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure>\n\n<p>b. State and explain the differences between the two patterns.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

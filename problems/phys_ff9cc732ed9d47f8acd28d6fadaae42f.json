@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_ff9cc732ed9d47f8acd28d6fadaae42f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spring obeys Hooke’s law and has a spring constant <span class=\"math\" data-latex=\"k\"></span>.<br/>The spring is extended horizontally. The extension of the spring is <span class=\"math\" data-latex=\"x\"></span>.<br/>When released, the spring returns to its original length in time <span class=\"math\" data-latex=\"Δ t\"></span>.</p>\n<p>What is the average power developed by the spring as it returns to its original length?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{k x}{2 Δ t}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{k x}{Δ t}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{k {x}^{2}}{2 Δ t}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{k {x}^{2}}{Δ t}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/bc54cf4a6cffc4954a9481c3ab52ea01e36bbce3a6ba1965e41605c6df89b339.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "bc54cf4a6cffc4954a9481c3ab52ea01e36bbce3a6ba1965e41605c6df89b339"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/b5c2f07cdbde40a62e3f01788343735270664a48bd2cd97c5b27c1a4cfb588ff.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "b5c2f07cdbde40a62e3f01788343735270664a48bd2cd97c5b27c1a4cfb588ff"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_01a82eea746446cfb4bca0e821364ef1",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"10b\"><p><strong>10b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{cp} = \\frac{\\left ( 1300 \\right )\\left ( 20.3 \\right )^{2}}{33} \\approx 16200\"></span></p>\n<p><span class=\"math\" data-latex=\"mg = (1300)(9.81) \\approx 12800\"></span> N</p>\n<p><span class=\"math\" data-latex=\"F_{cp} &gt; mg\"></span>, so the car loses contact with the ground.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11a\"><p><strong>11a</strong></p><p></p>\n<p>At 60 <span class=\"math\" data-latex=\"^{o}\"></span>C potassium is a solid, so molecules are closer to each other and have fixed positions.</p>\n<p>At 70 <span class=\"math\" data-latex=\"^{o}\"></span>C potassium is a liquid, so bonds between molecules are broken and they can move more freely than in a solid.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p></p>\n<p>The energy supplied to the solid is used to break the bonds between the molecules.</p>\n<p>This means that the potential energy of the molecules increases, while the kinetic energy of the molecules remains the same.</p>\n<p>Since temperature is a measure of the kinetic energy of the molecules, there is no temperature change during melting. </p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p></p>\n<p>Total energy supplied by the heater during <span class=\"math\" data-latex=\"11.5\"></span> minutes <span class=\"math\" data-latex=\"= 23 \\times 11.5 \\times 60 = 15870\"></span> J</p>\n<p><span class=\"math\" data-latex=\"15870 = mc \\Delta T + mL\"></span></p>\n<p><span class=\"math\" data-latex=\"15870 = (0.15 \\times 770 \\times 58.2) + 0.15L\"></span></p>\n<p>Solving for <span class=\"math\" data-latex=\"L\"></span>:</p>\n<p><span class=\"math\" data-latex=\"L = 60986 J\"></span> kg<span class=\"math\" data-latex=\"^{-1}\"></span> <span class=\"math\" data-latex=\"\\approx\"></span> 61 kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11d\"><p><strong>11d</strong></p><p></p>\n<p>Some thermal energy from the heater is transferred to the surroundings (instead of the potassium), so the estimated value is larger than the actual value of the specific latent heat.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11e\"><p><strong>11e</strong></p><p></p>\n<p>Sharing work in this manner ensures the validity of the work.</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A race car of mass <span class=\"math\" data-latex=\"1300\"></span> kg passes a hilltop at a speed of <span class=\"math\" data-latex=\"73\"></span> km h<span class=\"math\" data-latex=\"^{-1}\"></span>. The shape of the hill is circular, with a radius of <span class=\"math\" data-latex=\"33\"></span> m.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Draw and label the vertical forces that act on the race car as it passes the hilltop. </p>\n<p>  [2]</p>\n<p>b. Show that the race car loses contact with the ground.</p>\n<p>   [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

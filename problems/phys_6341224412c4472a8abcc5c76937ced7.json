@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_6341224412c4472a8abcc5c76937ced7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of wavelength 5.8 × 10<sup>−7 </sup>m is normally incident on a diffraction grating that has 400 000 lines m<sup>−1</sup>.</p>\n<p>How many maxima can be observed with this diffraction grating?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">4</li><li data-label=\"B\">5</li><li data-label=\"C\">8</li><li data-label=\"D\">9</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c7d7d7b253fd3ce9cba05107246265c0bf2dac5f07e158d43a70bdf007d4c5ab.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c7d7d7b253fd3ce9cba05107246265c0bf2dac5f07e158d43a70bdf007d4c5ab"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0843ce1fbdcf4ffca0733cc98141f684",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>A</p>\n<p>The work done on a charge moving between two points is proportional to the potential difference (W = qΔV). Since the charge moves along an equipotential line, the potential is constant, and the potential difference ΔV between the start and end points is zero. Therefore, the work done by the electric field is zero. Furthermore, the problem states the speed is constant, meaning the change in kinetic energy is zero. By the work-energy theorem, the total (net) work done on the charge must also be zero, regardless of the path.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A point charge is moved at constant speed between two points in the same equipotential line along two paths, X and Y.</p>\n<p>The total work done on the charge when it moves through path X is <span class=\"math\" data-latex=\"W_{X}\"></span>, and through path Y is <span class=\"math\" data-latex=\"W_{Y}\"></span>. Which comparison between these is correct?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> <span class=\"math\" data-latex=\"W_X = W_Y = 0\"></span></li>\n<li data-label=\"B\"> <span class=\"math\" data-latex=\"W_X = W_Y != 0\"></span></li>\n<li data-label=\"C\"> <span class=\"math\" data-latex=\"W_X &lt; W_Y\"></span></li>\n<li data-label=\"D\"> <span class=\"math\" data-latex=\"W_X &gt; W_Y\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

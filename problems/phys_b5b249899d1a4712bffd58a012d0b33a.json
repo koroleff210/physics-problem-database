@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_b5b249899d1a4712bffd58a012d0b33a",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform wire of length <span class=\"math\" data-latex=\"L\"></span> is made of copper. What is the relationship between the wire’s radius <span class=\"math\" data-latex=\"r\"></span>, the wire’s resistance <span class=\"math\" data-latex=\"R\"></span>, and the wire’s resistivity <span class=\"math\" data-latex=\"\\rho\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"r\\: \\alpha\\: \\sqrt{\\frac{\\rho}{R}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"r\\: \\alpha\\: \\sqrt{\\frac{R}{\\rho}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"r\\: \\alpha\\: \\frac{\\rho}{R}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"r\\: \\alpha\\: \\frac{R}{\\rho}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

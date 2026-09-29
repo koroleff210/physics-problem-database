@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "B.4",
+    "C.2",
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_6bd352a1dea24315a94d6926e841cc84",
+  "level": "sl_hl",
+  "marks": 10,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"12a\"><p><strong>12a</strong></p><p> </p>\n<p>Calculating the surface temperature of Gacrux:</p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt[4]{\\frac{L}{4\\pi\\sigma R^{2}}} = \\sqrt[4]{\\frac{3.1 \\times 10^{29}}{4\\pi \\times ( 5.67 \\times 10^{-8}) (5.8 \\times 10^{7})^{2}}} \\approx 3372\\:\\textup{K}\"></span></p>\n<p>Calculating the peak wavelength:</p>\n<p><span class=\"math\" data-latex=\"\\lambda_{\\textup{max}} = \\frac{2.9 \\times 10^{-3}}{3372} \\approx 8.6 \\times 10^{-7}\\:\\textup{m} = 860\\:\\textup{nm}\"></span></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"12b\"><p><strong>12b</strong></p><p> </p>\n<p>The light that arrives at Earth from Gacrux can be passed through a spectrometer/diffraction grating/prism and projected onto a screen to form an absorption spectrum.</p>\n<p>The absorption spectrum is specific to elements, so it can be used to determine the composition of Gacrux.</p></section><section class=\"markscheme-part\" data-label=\"12c(i)\"><p><strong>12c(i)</strong></p><p> </p>\n<p>Before becoming a red giant, Gacrux was a main sequence star.</p></section><section class=\"markscheme-part\" data-label=\"12c(ii)\"><p><strong>12c(ii)</strong></p><p> </p>\n<p>When Gacrux was a main sequence star, it was fusing hydrogen into helium.</p></section><section class=\"markscheme-part\" data-label=\"12d\"><p><strong>12d</strong></p><p> </p>\n<p>The outer shell of Gacrux will keep expanding and its surface temperature will rise.</p>\n<p>As a result, Gacrux will explode in a planetary nebula.</p>\n<p>Eventually, the remaining core will form a white dwarf.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Gacrux is a red giant star with a luminosity of <span class=\"math\" data-latex=\"3.1 \\times 10^{29}\\:\\textup{W}\"></span> and a radius of <span class=\"math\" data-latex=\"5.8 \\times 10^{7}\\: \\textup{km}\"></span>.</p>\n<p>(a)   Determine the peak wavelength emitted by Gacrux.</p>\n<p>  [3]</p>\n<p>Light from Gacrux is detected on Earth through a telescope.</p>\n<p>(b)   Outline how this light can be used to deduce the composition of Gacrux.</p>\n<p>  [2]</p>\n<p>The mass of Gacrux is about <span class=\"math\" data-latex=\"1.5\"></span> solar masses.</p>\n<p>(c)   State</p>\n<p>(i)   in what region of the Hertzsprung-Russell diagram was Gacrux located before it became a red giant.</p>\n<p>  [1]</p>\n<p>(ii)   the name of the element that Gacrux was fusing before it became a red giant.</p>\n<p>  [1]</p>\n<p>(d)   Outline how Gacrux will most likely evolve in the future.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

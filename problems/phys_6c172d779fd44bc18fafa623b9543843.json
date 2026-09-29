@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/439234bd73387e8f3d17faeb0fe10f811a75260d13f28bd663dd02c548b63dab.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "439234bd73387e8f3d17faeb0fe10f811a75260d13f28bd663dd02c548b63dab"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_6c172d779fd44bc18fafa623b9543843",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Water is flowing out of a vertical tube as shown on the diagram. The tube was initially full. The intensity of the detected sound wave is at its maximum only at points X, Y and Z and the frequency of the sound wave is <span class=\"math\" data-latex=\"f\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the speed of the sound wave?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{4af}{5}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{5af}{4}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{2af}{3}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3af}{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

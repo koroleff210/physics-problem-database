@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7c1904c0ba34f03bedb3826a0f484cfcb7ba3dad26b25cdad1894b8f4284e8a9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7c1904c0ba34f03bedb3826a0f484cfcb7ba3dad26b25cdad1894b8f4284e8a9"
+    }
+  ],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_bc0277ff5b774ed99eab4f6dafd5bef4",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>kg m<sup>2</sup> s<sup>−2</sup> ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1 Graph shown is a straight line/linear<br/>OR<br/>expected graph should be a straight line/linear ✓ If ideal then T intercept must be at T = −273 °C ✓ Use of y = mx+c to show that x = −273 °C when y = 0 ✓<br/>(hence ideal) ALTERNATIVE 2 Calculates <span class=\"math\" data-latex=\"\\frac{pV}{T}\"></span> for two different points ✓<br/>Obtains 1.50 «J K<sup>−1</sup>» for both ✓ States that for ideal gas <span class=\"math\" data-latex=\"\\frac{pV}{T}=nR\"></span> which is constant and concludes that gas is ideal ✓</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of <span class=\"math\" data-latex=\"n=\\frac{pV}{RT}\"></span>  OR  <span class=\"math\" data-latex=\"N=\\frac{pV}{kT}\"></span> ✓ Mass of gas = n × N<sub>A</sub> × mass of molecule<br/>OR<br/>Mass of gas = N × mass of molecule ✓ 5.1 «g» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Pressure p, volume V and temperature T are measured for a fixed mass of gas.<br/>T is measured in degrees Celsius.</p>\n<p>The graph shows the variation of pV with T.</p>\n<p>The mass of a molecule of the gas is 4.7 × 10<sup>−26</sup> kg.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the unit for pV in fundamental SI units. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine, using the graph, whether the gas acts as an ideal gas. [3]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate, in g, the mass of the gas. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_fcd2d0e10aad4b0ca08f531397b52fd6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A pipe of length 0.75 m is closed at one end. The speed of sound of the air in the pipe is 330 m s<sup>−1</sup>.</p>\n<p>What are the frequencies of the first two harmonics in the pipe?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">110 Hz and 220 Hz</li><li data-label=\"B\">110 Hz and 330 Hz</li><li data-label=\"C\">220 Hz and 440 Hz</li><li data-label=\"D\">220 Hz and 660 Hz</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

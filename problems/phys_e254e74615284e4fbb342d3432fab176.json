@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_e254e74615284e4fbb342d3432fab176",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform beam of mass 20 kg and length 6.0 m is supported horizontally by two vertical ropes. One rope is 1.0 m from the left end and the other is 1.0 m from the right end. A 40 kg person stands 1.0 m from the left end. Take <span class=\"math\" data-latex=\"g = 9.8\\,\\text{m s}^{-2}\"></span>. What is the tension in the right rope?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"49\\,\\text{N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"98\\,\\text{N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"147\\,\\text{N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"196\\,\\text{N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

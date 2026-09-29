@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_2dc0fbdb599e488ab3471482b48981cf",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\gamma\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{{( 1 - {0.4}^{2} )}^{0.5}}\"></span><br/>OR<br/><span class=\"math\" data-latex=\"\\gamma\"></span> = 1.09 ✔</p>\n<p>d = «2.0 × 10<sup>8</sup>/1.09 =»1.8 × 10<sup>8</sup> «km» ✔</p>\n<p>Allow ECF for MP2 Αllow BCA</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"c\"></span>∆t = <span class=\"math\" data-latex=\"d\"></span> + <span class=\"math\" data-latex=\"v\"></span>∆t , «so ∆t = <span class=\"math\" data-latex=\"\\frac{d}{c-v}\"></span>» ✔</p>\n<p>Δt = <span class=\"math\" data-latex=\"\\frac{3\\times 10^{9}}{0.6\\times 3\\times 10^{8}}\"></span> «s»<br/>OR<br/>16.7 «s» ✔   Answer of 17 s given, so award MP2 if candidates show a correct full substitution OR the value with an extra significant figure.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>use of ∆t′ =γ (Δt − <span class=\"math\" data-latex=\"\\frac{ν Δ x}{{c}^{2}}\"></span>) ✔</p>\n<p>∆t′ = 1.09 × (16.7 − <span class=\"math\" data-latex=\"\\frac{0.4c\\times c\\times 16.7}{c^{2}}\"></span>) = 11 «s» ✔</p>\n<p>Award [2] for a BCA</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A spaceship travels from Earth to the orbit of Mars, at a constant velocity of 0.4c. The distance travelled by the spaceship is 2.0 × 10<sup>8</sup> km, as determined by an observer on Earth.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate, in km, the distance travelled as measured by an observer in the spaceship. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> While the spaceship is travelling, a radio signal is sent from Earth to the spaceship when it is at 3.0 × 10<sup>6</sup> km, as measured from Earth.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that, according to an Earth observer, the time taken for the signal to reach the spaceship is about 17 s. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Determine, according to an observer in the spaceship, the time taken for the signal to reach the spaceship. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

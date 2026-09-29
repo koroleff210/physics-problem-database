@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_34ca2d18cff24a64b163404e57f32a3b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The nuclide uranium-237 follows a sequence of three decays to produce the nuclide uranium-233.</p>\n<p>What is a possible sequence for these decays?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Beta plus, alpha, beta plus</li><li data-label=\"B\">Beta minus, alpha, beta minus</li><li data-label=\"C\">Alpha, beta plus, beta minus</li><li data-label=\"D\">Alpha, beta minus, beta plus</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

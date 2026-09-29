@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_8f605928bcbe4bd1b6be936208fb4009",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which experiment demonstrated that light behaves as particles?</p><ol class=\"mcq-options\"><li data-label=\"A\">Double-slit experiment</li><li data-label=\"B\">Blackbody radiation</li><li data-label=\"C\">Photoelectric effect</li><li data-label=\"D\">Electron diffraction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7ce719992df9007e4977743d5566c544d08fd9de84e9ef7643242aa909d94eef.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7ce719992df9007e4977743d5566c544d08fd9de84e9ef7643242aa909d94eef"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_e2a5135645694a9a8d7622a3f59facb9",
+  "level": "hl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"Markscheme\"><p><strong>Markscheme</strong></p><p>conservation of rotational and linear energy OR<br/><span class=\"math\" data-latex=\"mgh=\\frac{1}{2}mv^{2}+\\frac{1}{2}I\\omega^{2}\"></span> ✓   using <span class=\"math\" data-latex=\"I=\\frac{2}{5}mr^{2}\"></span> AND <span class=\"math\" data-latex=\"\\omega=\\frac{v}{r}\"></span> ✓ with correct manipulation to find the requested relationship ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A solid sphere of radius <span class=\"math\" data-latex=\"r\"></span> and mass <span class=\"math\" data-latex=\"m\"></span> is released from rest and rolls down a slope, without slipping. The vertical height of the slope is <span class=\"math\" data-latex=\"h\"></span>. The moment of inertia <span class=\"math\" data-latex=\"I\"></span> of this sphere about an axis through its centre is <span class=\"math\" data-latex=\"\\frac{2}{5}mr^{2}\"></span>.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>Show that the linear velocity <span class=\"math\" data-latex=\"v\"></span> of the sphere as it leaves the slope is <span class=\"math\" data-latex=\"\\sqrt{\\frac{10gh}{7}}\"></span>.</p><p>[3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

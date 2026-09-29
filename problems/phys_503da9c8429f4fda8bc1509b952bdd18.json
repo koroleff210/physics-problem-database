@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/70386efe98baff48cec16502428820bc9479d3c1f6ea5e8f5dd3ef7e282e3973.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "70386efe98baff48cec16502428820bc9479d3c1f6ea5e8f5dd3ef7e282e3973"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_503da9c8429f4fda8bc1509b952bdd18",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light passes through two parallel layers as shown.</p>\n<p>The refractive indices for light travelling between air and the media are shown in the diagram as n<sub>1</sub> and n<sub>2</sub>.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is <span class=\"math\" data-latex=\"\\theta\"></span>?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">31°</li><li data-label=\"B\">38°</li><li data-label=\"C\">53°</li><li data-label=\"D\">73°</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

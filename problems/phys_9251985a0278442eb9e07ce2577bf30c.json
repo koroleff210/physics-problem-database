@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_9251985a0278442eb9e07ce2577bf30c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a double-slit experiment monochromatic light of wavelength <span class=\"math\" data-latex=\"630\"></span> nm is incident on two slits that are at a distance of <span class=\"math\" data-latex=\"1.2\"></span> m from a screen. The separation of the slits is <span class=\"math\" data-latex=\"2.1\"></span> mm. The distance between the central maximum and the first minimum in the interference pattern that forms on the screen is <span class=\"math\" data-latex=\"s\"></span>. What is the new distance between the central maximum and the first minimum in the interference pattern when the wavelength, the distance between the slits and the screen, and the slit separation are all halved? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{s}{4}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{s}{2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2s\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4s\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

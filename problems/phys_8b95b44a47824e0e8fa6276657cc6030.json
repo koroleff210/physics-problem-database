@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_8b95b44a47824e0e8fa6276657cc6030",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Sketch shows central bright fringe and several symmetrical, equally spaced fringes.</p>\n<p>[1 mark]</p>\n<p>Central fringe labelled, with decreasing brightness shown.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Fringe spacing decreases.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Fringe spacing <span class=\"math\" data-latex=\"x = \\\\dfrac{\\\\lambda D}{d}\"></span></p>\n<p>As <span class=\"math\" data-latex=\"d\"></span> increases, <span class=\"math\" data-latex=\"x\"></span> decreases.</p>\n<p>[1 mark]</p>\n<p>Correct explanation of inverse relationship.</p>\n<p>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A student shines a red laser onto a double slit and observes a pattern on a screen.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Sketch and label the intensity pattern observed. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State how the fringe spacing would change if the slit separation is increased. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Explain this change using the interference equation. <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

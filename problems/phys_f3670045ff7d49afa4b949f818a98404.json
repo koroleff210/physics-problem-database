@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_f3670045ff7d49afa4b949f818a98404",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The statement “planets move in elliptical orbits around the Sun” is</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Newton’s universal law of gravitation.</li>\n<li data-label=\"B\">Kepler’s third law of planetary motion. </li>\n<li data-label=\"C\">Newton’s second law of motion.</li>\n<li data-label=\"D\">Kepler’s first law of planetary motion.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/005f4f2ee339df29a50269952b264b1829046fdfe1f3a9bc924045c15934490a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "005f4f2ee339df29a50269952b264b1829046fdfe1f3a9bc924045c15934490a"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_1b622893cb6d40bfa071868e2895a26f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>According to Newton's Law of Universal Gravitation, the attractive force F is inversely proportional to the square of the distance d from the center of the planet (F ∝ 1/d²). This can be written as F = k * (d⁻²), where k is a positive constant. Therefore, a graph of F versus d⁻² will be a straight line passing through the origin with a positive slope, as shown in option D.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A spaceship is approaching a planet.</p>\n<p>Which graph correctly represents the variation of the attractive force <span class=\"math\" data-latex=\"F\"></span> with distance <span class=\"math\" data-latex=\"d\"></span> as measured to the centre of the planet?</p>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> graph A</li>\n<li data-label=\"B\"> graph B</li>\n<li data-label=\"C\"> graph C</li>\n<li data-label=\"D\"> graph D</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

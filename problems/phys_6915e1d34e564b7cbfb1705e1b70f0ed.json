@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_6915e1d34e564b7cbfb1705e1b70f0ed",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two containers, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are filled with an ideal gas at the same pressure.</p>\n<p>The volume of <span class=\"math\" data-latex=\"X\"></span> is four times the volume of <span class=\"math\" data-latex=\"Y\"></span>. The temperature of <span class=\"math\" data-latex=\"X\"></span> is 327 °C and the temperature of <span class=\"math\" data-latex=\"Y\"></span> is 27 °C.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{amount of substance in X}}{\\textit{amount of substance in Y}}\"></span> ?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"2\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"8\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

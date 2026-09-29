@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_8ca67de7c5a0451ba72e21936f837709",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which wave phenomenon explains why light bends around small obstacles?</p><ol class=\"mcq-options\"><li data-label=\"A\">Reflection</li><li data-label=\"B\">Refraction</li><li data-label=\"C\">Diffraction</li><li data-label=\"D\">Polarization</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

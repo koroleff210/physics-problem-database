@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0cf75b66f3c654e9a90be5798f7b3fa61ae16d0b1318402b06e3339b8e392ef9.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0cf75b66f3c654e9a90be5798f7b3fa61ae16d0b1318402b06e3339b8e392ef9"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_2aaed34c06664dbba61c4937213894b4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A detector measures the count rate from a sample of a radioactive nuclide. The graph shows the variation with time of the count rate.</p>\n<p>The nuclide has a half-life of 20 s. The average background count rate is constant.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the average background count rate?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1 s<sup>−1</sup></li><li data-label=\"B\">2 s<sup>−1</sup></li><li data-label=\"C\">3 s<sup>−1</sup></li><li data-label=\"D\">4 s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

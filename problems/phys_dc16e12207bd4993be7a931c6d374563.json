@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": null,
+  "id": "phys_dc16e12207bd4993be7a931c6d374563",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"0.02\\,\\text{m}\"></span></p>\n<p>[1 mark] for correctly stating the amplitude of the wave</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"\\omega = 4\\pi \\Rightarrow T = \\dfrac{2\\pi}{\\omega} = \\dfrac{2\\pi}{4\\pi} = 0.50\\,\\text{s}\"></span></p>\n<p>[1 mark] for method</p>\n<p>[1 mark] for correct answer</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"k = 2\\pi \\Rightarrow \\lambda = \\dfrac{2\\pi}{k} = 1.0\\,\\text{m}\"></span></p>\n<p>[1 mark] for method</p>\n<p>[1 mark] for correct answer</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Transverse wave.</p>\n<p>[1 mark] for correct identification of a transverse wave</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A wave on a string is described by <span class=\"math\" data-latex=\"y(x,t) = 0.02\\sin(4\\pi t - 2\\pi x)\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the amplitude of the wave. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Determine the period of the wave. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the wavelength. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Identify the type of wave this is. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_d0de2befd3fc4fc29bd17b36e7668e3f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which statement correctly describes the mechanism by which greenhouse gases, such as carbon dioxide (<span class=\"math\" data-latex=\"CO_2\"></span>), contribute to global warming?</p><ol class=\"mcq-options\"><li data-label=\"A\">They absorb long-wave infrared radiation emitted from the Earth's surface and re-radiate it in all directions.</li><li data-label=\"B\">They absorb high-energy ultraviolet radiation from the Sun and convert it into thermal energy in the lower atmosphere.</li><li data-label=\"C\">They form a reflective layer in the stratosphere that prevents heat from escaping via convection.</li><li data-label=\"D\">They react chemically with nitrogen and oxygen to release heat through exothermic decomposition.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

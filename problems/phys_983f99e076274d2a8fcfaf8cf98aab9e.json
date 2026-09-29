@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_983f99e076274d2a8fcfaf8cf98aab9e",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Consider a particle of mass <span class=\"math\" data-latex=\"m\"></span> in a cubic container of side <span class=\"math\" data-latex=\"L\"></span> moving with velocity component <span class=\"math\" data-latex=\"v_x\"></span>.<br/>- The change in momentum per collision with a wall perpendicular to the x-axis is <span class=\"math\" data-latex=\"2mv_x\"></span>. The time between collisions is <span class=\"math\" data-latex=\"\\frac{2L}{v_x}\"></span>. The force exerted is <span class=\"math\" data-latex=\"F_x = \\frac{2mv_x}{2L/v_x} = \\frac{mv_x^2}{L}\"></span> [1 mark]<br/>- The pressure is the sum of forces divided by area <span class=\"math\" data-latex=\"L^2\"></span>: <span class=\"math\" data-latex=\"P = \\frac{N}{L^2} \\frac{m \\overline{v_x^2}}{L} = \\frac{Nm \\overline{v_x^2}}{V} = \\rho \\overline{v_x^2}\"></span> [1 mark]<br/>- Assuming random motion (isotropy), <span class=\"math\" data-latex=\"\\overline{v_x^2} = \\frac{1}{3} \\overline{v^2}\"></span>. Thus <span class=\"math\" data-latex=\"P = \\frac{1}{3} \\rho v^2\"></span> [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Using the relationship <span class=\"math\" data-latex=\"P = \\frac{1}{3} \\rho v^2\"></span>: <span class=\"math\" data-latex=\"P = \\frac{1}{3} \\times 1.2 \\times 500^2\"></span> [1 mark]<br/>- <span class=\"math\" data-latex=\"P = 100,000 \\text{ Pa}\"></span> (or <span class=\"math\" data-latex=\"1.0 \\times 10^5 \\text{ Pa}\"></span>) [1 mark]</p>\n<p>&lt;examTip&gt;Remember to use the relationship <span class=\"math\" data-latex=\"P = \\frac{1}{3} \\rho v^2\"></span> when the rms speed of gas particles is given. The ideal gas law <span class=\"math\" data-latex=\"PV = nRT\"></span> is used when temperature and amount of substance are known.&lt;/examTip&gt;</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- The ideal gas model assumes that gas particles do not interact with each other and have negligible volume [1 mark]<br/>- In real gases, at high pressures and low temperatures, the particle interactions and finite volume become significant, causing deviations from ideal gas behavior [1 mark]</p>\n<p>&lt;commonMistake&gt;<br/>Failing to recognize that the ideal gas model breaks down at high pressures and low temperatures.<br/>&lt;/commonMistake&gt;</p>\n<p>&lt;examTip&gt;<br/>Mention the assumptions of the ideal gas model and how they are violated in real gases under certain conditions.<br/>&lt;/examTip&gt;</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The pressure exerted by gases in the atmosphere is crucial for weather prediction.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Derive the relationship <span class=\"math\" data-latex=\"P = \\frac{1}{3} \\rho v^2\"></span> for an ideal gas, where <span class=\"math\" data-latex=\"\\rho\"></span> is the density and <span class=\"math\" data-latex=\"v\"></span> is the root mean square (rms) speed of gas particles.<p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Calculate the pressure exerted by a gas in a 2 m<span class=\"math\" data-latex=\"^3\"></span> container at a temperature of 350 K, given the density is 1.2 kg/m<span class=\"math\" data-latex=\"^3\"></span> and the root mean square (rms) speed of the molecules is 500 m/s.<p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Discuss the limitations of this model when applied to real gases, particularly in varying temperature and pressure conditions.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

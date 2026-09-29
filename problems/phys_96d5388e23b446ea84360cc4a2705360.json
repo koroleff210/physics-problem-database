@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_96d5388e23b446ea84360cc4a2705360",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which claim about the structure of the atom is falsified by the results of the Geiger–Marsden–Rutherford experiment?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The nucleus is only made up of positively charged particles.</li><li data-label=\"B\">The electrons in the atom move in orbits of fixed radius.</li><li data-label=\"C\">The positive charge occupies all of the atom’s volume.</li><li data-label=\"D\">The electrons in the atom have continuous energy.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

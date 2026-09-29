@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 5,
+  "id": "phys_6098e6cb80d1401f961ee6724714d85b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle decays after traveling <span class=\"math\" data-latex=\"600\\,\\text{m}\"></span> in Earth's frame while moving at <span class=\"math\" data-latex=\"0.80c\"></span>. What is the particle's lifetime in its own rest frame?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.25\\,\\mu\\text{s}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.50\\,\\mu\\text{s}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.50\\,\\mu\\text{s}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"3.13\\,\\mu\\text{s}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

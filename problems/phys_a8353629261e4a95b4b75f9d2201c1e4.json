@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_a8353629261e4a95b4b75f9d2201c1e4",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electric motor raises an object of weight <span class=\"math\" data-latex=\"500 N\"></span> through a vertical distance of <span class=\"math\" data-latex=\"3.0 m\"></span> in <span class=\"math\" data-latex=\"1.5 s\"></span>. The current in the electric motor is <span class=\"math\" data-latex=\"10 A\"></span> at a potential difference of <span class=\"math\" data-latex=\"200 V\"></span>. What is the efficiency of the electric motor?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"17 \\%\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"38 \\%\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"50 \\%\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"75 \\%\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_ec1119dcfae941419c94202d7d33f1fb",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"50\"></span> N and a <span class=\"math\" data-latex=\"20\"></span> N force acts on an object. The acceleration of the object is <span class=\"math\" data-latex=\"5.0\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span>. What is a possible value for the mass of the object?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"15\"></span> kg</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"8.5\"></span> kg</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"5.5\"></span> kg</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"3.0\"></span> kg</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

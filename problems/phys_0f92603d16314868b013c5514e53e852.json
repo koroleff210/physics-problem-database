@@ -1,0 +1,47 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/59aa99308e7ad4097a1b382c656d97c0057c5ab9f33ac7bf53dc8b06bd989363.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "59aa99308e7ad4097a1b382c656d97c0057c5ab9f33ac7bf53dc8b06bd989363"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "A.4",
+    "D.2",
+    "E.3",
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_0f92603d16314868b013c5514e53e852",
+  "level": "hl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Red giant has a much larger radius/luminosity than the Sun;<br/>Red giant has a cooler surface temperature than the Sun.</p>\n<p>Award [1] for each distinct, correct property difference.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>The Sun is a main sequence star, while a red giant is a post-main sequence star.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Energy released = BE(products) - BE(reactants) = 12×7.680 - (8×7.062 + 4×7.074) = 92.160 - (56.496 + 28.296) = 7.368 MeV. Award [1] for correct method (difference in total binding energies). Award [1] for correct answer. Accept 7.37 MeV.</p>\n<p>Answer must be in MeV.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Curve in first quadrant starting at a high positive value for small r; Correct 1/r shape, always positive and approaching the r-axis asymptotically.</p>\n<p>Award [1] for starting high and being in the first quadrant. Award [1] for correct decreasing shape asymptotic to the r-axis.</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p>The negative of the electric field strength / -E.</p>\n<p>Accept 'negative of the electric field'. 'Electric field' alone is incorrect.</p></section><section class=\"markscheme-part\" data-label=\"b.iv\"><p><strong>b.iv</strong></p><p><span class=\"math\" data-latex=\"KE_{\\mathrm{min}}\"></span> = <span class=\"math\" data-latex=\"PE_{\\mathrm{elec}}\"></span> = k(<span class=\"math\" data-latex=\"Q_{\\mathrm{Be}}\"></span>)(Q_α)/r = (8.99×10⁹ × 8 × (1.60×10⁻¹⁹)²) / 4.5×10⁻¹⁵ = 4.09×10⁻¹³ J;<br/>This is 4.09×10⁻¹³ J / (1.60×10⁻¹³ J/MeV) ≈ 2.56 MeV.<br/>Award [1] for setting KE=PE with correct charges. Award [1] for correct calculation and conversion to MeV. Accept 2.6 MeV.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Extremely high temperature AND extremely high density/pressure.</p>\n<p>Both conditions are required.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>The decay constant implies a very short half-life (T½ ≈ 8.7×10⁻¹⁷ s), so the Be-8 nucleus is extremely unstable;<br/>A high density of alpha particles and high collision rate is needed for fusion to occur before the Be-8 nucleus decays.</p>\n<p>Award [1] for linking decay constant to instability/short lifetime. Award [1] for linking this to the need for a high collision rate.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>States conservation of angular momentum, L = Iω = constant;<br/>Shows I ∝ R², so <span class=\"math\" data-latex=\"I_{f}\"></span> = <span class=\"math\" data-latex=\"I_{i}\"></span> / 25² = <span class=\"math\" data-latex=\"I_{i}\"></span> / 625;<br/>Calculates <span class=\"math\" data-latex=\"f_{f}\"></span> = <span class=\"math\" data-latex=\"f_{i}\"></span> × (<span class=\"math\" data-latex=\"I_{i}\"></span>/<span class=\"math\" data-latex=\"I_{f}\"></span>) = (1/5.0 s) × 625 = 125 Hz, which is approximately 100 rev s⁻¹.</p>\n<p>Clear steps must be shown for a 'show that' question.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Uses <span class=\"math\" data-latex=\"E_{k}\"></span> = L²/(2I) OR <span class=\"math\" data-latex=\"E_{k}\"></span> = ½Iω²;<br/>Shows <span class=\"math\" data-latex=\"E_{f}\"></span> / <span class=\"math\" data-latex=\"E_{i}\"></span> = (<span class=\"math\" data-latex=\"I_{i}\"></span> / <span class=\"math\" data-latex=\"I_{f}\"></span>) = 625, so <span class=\"math\" data-latex=\"E_{f}\"></span> = 625 <span class=\"math\" data-latex=\"E_{i}\"></span>. OR <span class=\"math\" data-latex=\"E_{f}\"></span> / <span class=\"math\" data-latex=\"E_{i}\"></span> = (<span class=\"math\" data-latex=\"I_{f}\"></span> ω_f²) / (<span class=\"math\" data-latex=\"I_{i}\"></span> ω_i²) = (1/625) × 625² = 625, so <span class=\"math\" data-latex=\"E_{f}\"></span> = 625 <span class=\"math\" data-latex=\"E_{i}\"></span>.</p>\n<p>Award [1] for correct method/reasoning. Award [1] for final answer.</p></section><section class=\"markscheme-part\" data-label=\"d.iii\"><p><strong>d.iii</strong></p><p>Any two of:<br/>- Gravitational potential energy decreases.<br/>- Rotational kinetic energy increases.<br/>- Internal/thermal energy increases.<br/>- Energy is radiated away (as neutrinos/photons).</p>\n<p>Award [1] for each correct energy change identified.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>9. (a)</strong> Outline the differences between a red giant star and the Sun, with reference to their</p><div class=\"table-responsive\"><table><thead><tr><th>Nuclide</th><th>Binding energy / nucleon</th></tr></thead><tbody><tr><td>^8_4Be</td><td>7.062 MeV</td></tr><tr><td>α</td><td>7.074 MeV</td></tr><tr><td>^12_6C</td><td>7.680 MeV</td></tr></tbody></table></div><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Outline physical-property differences between a red giant and the Sun. [2]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Outline the evolutionary-stage difference. [1]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Calculate energy released in the Be-8 + alpha fusion reaction using binding energy per nucleon data. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Sketch electric potential V due to a Be-8 nucleus versus distance r. [2]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> State the quantity represented by the gradient of the V-r graph. [1]</p></section><section class=\"question-part\" data-label=\"b.iv\"><p><strong>b.iv</strong> Estimate the minimum combined initial kinetic energy for Be-8 and alpha centres to get within about 4.5×10^-15 m. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> State the centre-of-star conditions needed for the fusion reaction. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Explain, with reference to Be-8 half-life, why these conditions must be met. [2]</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Show that the collapsed neutron star rotates at about 100 revolutions per second. [3]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Determine final rotational kinetic energy in terms of initial <span class=\"math\" data-latex=\"E_{i}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"d.iii\"><p><strong>d.iii</strong> Identify two energy changes during collapse. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "needs_review",
+    "issues": [
+      {
+        "code": "source_prompt_incomplete",
+        "field": "question.html",
+        "message": "The neutron-star rotation and final rotational-energy subparts lack their source setup and given quantities. The missing values cannot be inferred safely from the frozen V3 record."
+      }
+    ],
+    "status": "needs_review"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

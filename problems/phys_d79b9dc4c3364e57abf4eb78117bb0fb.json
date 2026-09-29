@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/87d9f33def27c40bc27ba9d5a2fe3c072309ed262480bc54d9b2be50914396f5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "87d9f33def27c40bc27ba9d5a2fe3c072309ed262480bc54d9b2be50914396f5"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/a3d6c3a9e385e15a223a7c9f7beca6fe312f12f929bab92429a58d570e07dd87.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "a3d6c3a9e385e15a223a7c9f7beca6fe312f12f929bab92429a58d570e07dd87"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/8453b2467c9ff741decd96c8feafeb2e3e5b07787d4cf4bd60e15d8174c03a75.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "8453b2467c9ff741decd96c8feafeb2e3e5b07787d4cf4bd60e15d8174c03a75"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_d79b9dc4c3364e57abf4eb78117bb0fb",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>the «restoring» force/acceleration is proportional to displacement ✓  <br/>Allow use of symbols i.e. <span class=\"math\" data-latex=\"F∝-x\"></span> or <span class=\"math\" data-latex=\"a∝-x\"></span></p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Evidence of equating <span class=\"math\" data-latex=\"m {ω}^{2} x = ρ A g x\"></span> «to obtain <span class=\"math\" data-latex=\"\\frac{ρ A g}{m} = {ω}^{2}\"></span>» ✓   <span class=\"math\" data-latex=\"\\omega=\\sqrt{\\frac{1.03\\times 10^{3}\\times 2.29\\times 10^{-1}\\times 9.81}{118}}\"></span> OR <span class=\"math\" data-latex=\"4.43rad s^{-1}\"></span> ✓   Answer to at least <span class=\"math\" data-latex=\"3\"></span> s.f.</p></section><section class=\"markscheme-part\" data-label=\"c(i)\"><p><strong>c(i)</strong></p><p>«<span class=\"math\" data-latex=\"E_{K}\"></span> is a maximum when <span class=\"math\" data-latex=\"x=0\"></span> hence» <span class=\"math\" data-latex=\"E_{K, max}=\\frac{1}{2}\\times 118\\times 4.4^{2}0.250^{2}-0^{2}\"></span> ✓<br/><span class=\"math\" data-latex=\"71.4 J\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c(ii)\"><p><strong>c(ii)</strong></p><p>energy never negative ✓ correct shape with two maxima ✓</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>© International Baccalaureate Organization, 2026</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A vertical solid cylinder of uniform cross-sectional area <span class=\"math\" data-latex=\"A\"></span> floats in water. The cylinder is partially submerged. When the cylinder floats at rest, a mark is aligned with the water surface. The cylinder is pushed vertically downwards so that the mark is a distance <span class=\"math\" data-latex=\"x\"></span> below the water surface.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>At time <span class=\"math\" data-latex=\"t=0\"></span> the cylinder is released. The resultant vertical force <span class=\"math\" data-latex=\"F\"></span> on the cylinder is related to the displacement <span class=\"math\" data-latex=\"x\"></span> of the mark by</p>\n<p><span class=\"math\" data-latex=\"F = - ρ A g x\"></span></p>\n<p>where <span class=\"math\" data-latex=\"\\rho\"></span> is the density of water.</p>\n<p>The cylinder was initially pushed down a distance <span class=\"math\" data-latex=\"x=0.250 m\"></span>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline why the cylinder performs simple harmonic motion when released. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The mass of the cylinder is <span class=\"math\" data-latex=\"118 kg\"></span> and the cross-sectional area of the cylinder is <span class=\"math\" data-latex=\"2.29\\times 10^{-1} m^{2}\"></span>. The density of water is <span class=\"math\" data-latex=\"1.03\\times 10^{3} kg m^{-3}\"></span>. Show that the angular frequency of oscillation of the cylinder is about <span class=\"math\" data-latex=\"4.4 rad s^{-1}\"></span>. [2]</p></section><section class=\"question-part\" data-label=\"c(i)\"><p><strong>c(i)</strong> Determine the maximum kinetic energy <span class=\"math\" data-latex=\"E_{kmax}\"></span> of the cylinder. [2]</p></section><section class=\"question-part\" data-label=\"c(ii)\"><p><strong>c(ii)</strong> </p><p>Draw, on the axes, the graph to show how the kinetic energy of the cylinder varies with time during one period of oscillation <span class=\"math\" data-latex=\"T\"></span>.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

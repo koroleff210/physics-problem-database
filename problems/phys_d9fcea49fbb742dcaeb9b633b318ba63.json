@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_d9fcea49fbb742dcaeb9b633b318ba63",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: Incorrect. Redshift refers to an increase in observed wavelength due to relative motion (Doppler effect) or cosmic expansion, not directly to the object’s temperature.</p>\n<p>B: Correct. A redshift means the observed wavelength is longer than the emitted wavelength, consistent with the source receding (Doppler effect / expansion of space).</p>\n<p>C: Incorrect. Motion toward the observer would produce a blueshift (shorter observed wavelength).</p>\n<p>D: Incorrect. Rotation can broaden spectral lines (different parts moving toward/away), but it does not produce an overall redshift of the entire spectrum.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When light from a distant galaxy is redshifted, this tells us that the galaxy is:</p><ol class=\"mcq-options\"><li data-label=\"A\">Getting cooler</li><li data-label=\"B\">Moving away from us</li><li data-label=\"C\">Moving toward us</li><li data-label=\"D\">Rotating faster</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

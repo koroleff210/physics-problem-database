@@ -1,0 +1,57 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/658a97d52c218e3ba7999cf3a8be35594125d065d998a6ab3b276350d8b85f5c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "658a97d52c218e3ba7999cf3a8be35594125d065d998a6ab3b276350d8b85f5c"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/61e6d4ffca8024448b1bddec4815f9b00898650620227db497ccc4b00bf4d509.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "61e6d4ffca8024448b1bddec4815f9b00898650620227db497ccc4b00bf4d509"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/12cb3269fb29318967c69d418fa5eef6297d9a1b4bafe6115f9da48809ee1fa3.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "12cb3269fb29318967c69d418fa5eef6297d9a1b4bafe6115f9da48809ee1fa3"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.4",
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_4572fcd87b444ef0b288ebcb29317067",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"7a\"><p><strong>7a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"T = \\frac{60}{17} \\approx 3.529\"></span> s <span class=\"math\" data-latex=\"\\approx 3.53\"></span> s</p>\n<p>Calculated answer must be given to at least 4 significant figures in order to earn the mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7b\"><p><strong>7b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"3.53 = 2 \\pi \\sqrt{\\frac{0.78}{g}}\"></span></p>\n<p><span class=\"math\" data-latex=\"g \\approx 2.5\"></span> N kg<span class=\"math\" data-latex=\"^{-1}\"></span> or m s<span class=\"math\" data-latex=\"^{-2}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"7c\"><p><strong>7c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"7d\"><p><strong>7d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A simple pendulum is displaced by a small angle <span class=\"math\" data-latex=\"\\theta\"></span> and when it is released at <span class=\"math\" data-latex=\"t = 0\"></span>, it oscillates with simple harmonic motion (SHM) near the surface of planet X. The length of the pendulum is <span class=\"math\" data-latex=\"78\"></span> cm. The pendulum bob completes <span class=\"math\" data-latex=\"17\"></span> full oscillations in a minute. </p>\n<p>a. Show that the time period of the oscillations is <span class=\"math\" data-latex=\"3.53\"></span> s.</p>\n<p>   [1]</p>\n<p>b. Calculate the gravitational field strength near the surface of planet X. Include an appropriate unit with your answer.</p>\n<p>   [2]</p>\n<p>c. On the graph, sketch how the displacement of the pendulum bob varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>   [2]</p>\n<p></p>\n<p>The pendulum is moved to planet Y where the acceleration of free fall is four times that of the acceleration of free fall on planet X. At <span class=\"math\" data-latex=\"t = 0\"></span> the pendulum is displaced by angle <span class=\"math\" data-latex=\"\\theta\"></span> and released. </p>\n<p>d. On the graph, sketch how the displacement of the pendulum bob varies with time on planet Y.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

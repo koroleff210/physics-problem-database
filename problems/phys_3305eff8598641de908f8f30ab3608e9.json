@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": null,
+  "id": "phys_3305eff8598641de908f8f30ab3608e9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The internal energy of a fixed mass of an ideal gas is independent of the volume it occupies when the temperature is maintained constant. Which kinetic-theory assumption explains this?</p><ol class=\"mcq-options\"><li data-label=\"A\">The molecules move in random directions with a variety of speeds.</li><li data-label=\"B\">The collisions between the molecules and the container walls are perfectly elastic.</li><li data-label=\"C\">The molecules exert no forces of attraction or repulsion on one another.</li><li data-label=\"D\">The volume of the molecules is negligible compared to the volume of the container.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_acd7ad8f37b54552b0191419501ccda7",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the definition of the SI unit for a force?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The force required to accelerate, in the direction of the force, a mass of 1 kg at 1 m s<sup>−2</sup></li><li data-label=\"B\">The force required to accelerate, in the direction of the force, a mass at 1 m s<sup>−2</sup></li><li data-label=\"C\">The weight of a mass of 0.1 kg</li><li data-label=\"D\">The change in momentum per second</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

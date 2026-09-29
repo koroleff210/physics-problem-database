@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0fbdeb1889f89fd2f397151e2a9e8d879b86baa7ad59f93ea6bcdb4660f7e2da.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0fbdeb1889f89fd2f397151e2a9e8d879b86baa7ad59f93ea6bcdb4660f7e2da"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/2c9e35f6dbf1b44fbc09fe4959324ff01e005ea173f9a80ef2615d4b77327ba6.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2c9e35f6dbf1b44fbc09fe4959324ff01e005ea173f9a80ef2615d4b77327ba6"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/81b59529a7801d0dff4768e974dde8874d6ab39089a3c6d49be9e9ff2e5b7154.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "81b59529a7801d0dff4768e974dde8874d6ab39089a3c6d49be9e9ff2e5b7154"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/2f4eeeb8252665ea0426164f1976bd875e1f66e30cf8cee7c70cf9d744d4f61c.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "2f4eeeb8252665ea0426164f1976bd875e1f66e30cf8cee7c70cf9d744d4f61c"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "C.1",
+    "D.1",
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_524a91738e3c454da39296c9af65e8ea",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Constant, non-zero within spheres ✓ A clear, non-zero positive minimum at C ✓ Symmetric bowl shaped up curved shape in between ✓    Do not allow a bowl shaped down curve for MP3.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>V «= 2 × <span class=\"math\" data-latex=\"\\frac{8.99\\times 10^{9}\\times 2.0\\times 10^{-3}}{0.60}\"></span>» = 6.0 × 10<sup>7</sup> «V» ✓ W = «qV = 6.0 × 10<sup>7</sup> × 4.0 × 10<sup>−9</sup> =» 0.24 «J» ✓ Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>The restoring force/acceleration is opposite to the displacement/towards equilibrium / OWTTE ✓ and proportional to displacement from equilibrium / OWTTE✓ Allow discussions based on the diagram (such as towards C for towards equilibrium). Accept F ∝ x OR a ∝ x for MP2</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ω = <span class=\"math\" data-latex=\"\\sqrt{\\frac{32kQq}{mD^{3}}}\"></span> OR use of F =mω<sup>2</sup>r OR F = 1.33x OR a = 53.3x ✓ «<span class=\"math\" data-latex=\"\\sqrt{\\frac{32\\times 8.99\\times 10^{9}\\times 2.0\\times 10^{-3}\\times 4.0\\times 10^{-9}}{0.025\\times 1.2^{3}}}\"></span>» = 7.299 «s<sup>−1</sup>»</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>the net force will no longer be a restoring force/directed towards equilibrium OR the gravitational force is attractive/neutral mass would be pulled towards larger masses/OWTTE ✓ «and so» no, motion will not be the same/no longer be SHM / OWTTE ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>The centres of two identical fixed conducting spheres each of charge +Q are separated by a distance D. C is the midpoint of the line joining the centres of the spheres.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> </p><p>Sketch, on the axes, how the electric potential V due to the two charges varies with the distance r from the centre of the left charge. No numbers are required. Your graph should extend from r = 0 to r = D.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[3]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> </p><p>Calculate the work done to bring a small charge q from infinity to point C.</p>\n<p>Data given:</p>\n<p>Q = 2.0 × 10<sup>−3</sup> C,</p>\n<p>q = 4.0 × 10<sup>−9</sup> C</p>\n<p>D = 1.2 m</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The small positive charge q is placed a distance <span class=\"math\" data-latex=\"x\"></span> to the right of C. The distance <span class=\"math\" data-latex=\"x\"></span> is very small compared to D.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> The magnitude of the net force on q is given by <span class=\"math\" data-latex=\"\\frac{32kQq}{D^{3}}x\"></span>. Explain why the charge q will execute simple harmonic oscillations about C. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>The mass of the charge q is 0.025 kg.</p>\n<p>Calculate the angular frequency of the oscillations using the data in (a)(ii) and the expression in (b)(i).</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> The charges Q are replaced by neutral masses M and the charge q by a neutral mass m. The mass m is displaced away from C by a small distance <span class=\"math\" data-latex=\"x\"></span> and released. Discuss whether the motion of m will be the same as that of q. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

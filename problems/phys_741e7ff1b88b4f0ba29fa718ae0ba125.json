@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": null,
+  "id": "phys_741e7ff1b88b4f0ba29fa718ae0ba125",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An astronomer observes the light from a nearby star and notices that it is blueshifted. What does this blueshift indicate about the star's motion relative to Earth?</p><ol class=\"mcq-options\"><li data-label=\"A\">The star is moving away from Earth, and the frequency of its light decreases.</li><li data-label=\"B\">The star is moving towards Earth, and the wavelength of its light decreases.</li><li data-label=\"C\">The star is stationary relative to Earth, and there is no change in the wavelength of its light.</li><li data-label=\"D\">The star is moving away from Earth, and the frequency of its light increases.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

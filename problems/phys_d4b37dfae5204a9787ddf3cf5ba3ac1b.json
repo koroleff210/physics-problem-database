@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_d4b37dfae5204a9787ddf3cf5ba3ac1b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A loudspeaker emits a sound with intensity <span class=\"math\" data-latex=\"I\"></span> and frequency <span class=\"math\" data-latex=\"f\"></span>. A person is walking towards the loudspeaker and detects that the sound from the loudspeaker has intensity <span class=\"math\" data-latex=\"I_{o}\"></span> and frequency <span class=\"math\" data-latex=\"f_{o}\"></span>. What happens to <span class=\"math\" data-latex=\"I_{o}\"></span> and <span class=\"math\" data-latex=\"f_{o}\"></span> as the person starts walking at a faster pace?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Change to <span class=\"math\" data-latex=\"I_{o}\"></span></strong></p>\n</td>\n<td>\n<p><strong>Change to <span class=\"math\" data-latex=\"f_{o}\"></span></strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Increases</td>\n<td>Decreases</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Increases</td>\n<td>Increases</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Unchanged</td>\n<td>Decreases</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Unchanged</td>\n<td>Increases</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

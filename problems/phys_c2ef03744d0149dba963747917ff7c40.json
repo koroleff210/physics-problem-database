@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_c2ef03744d0149dba963747917ff7c40",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three types of particles that might be emitted during radioactive decay are <span class=\"math\" data-latex=\"\\alpha\"></span>, <span class=\"math\" data-latex=\"\\beta\"></span>, and <span class=\"math\" data-latex=\"\\gamma\"></span> particles. Which of the following correctly lists these particles in decreasing ionizing power?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\alpha\"></span>, <span class=\"math\" data-latex=\"\\gamma\"></span>, <span class=\"math\" data-latex=\"\\beta\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\gamma\"></span>, <span class=\"math\" data-latex=\"\\beta\"></span>, <span class=\"math\" data-latex=\"\\alpha\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\alpha\"></span>, <span class=\"math\" data-latex=\"\\beta\"></span>, <span class=\"math\" data-latex=\"\\gamma\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\gamma\"></span>, <span class=\"math\" data-latex=\"\\alpha\"></span>, <span class=\"math\" data-latex=\"\\beta\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

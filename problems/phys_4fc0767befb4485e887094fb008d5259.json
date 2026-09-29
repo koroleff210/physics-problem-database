@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1a4f4611720ce7fdb5c6cd483e7c4b0da686e47fc756f066b3b1795a6c4771f0.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1a4f4611720ce7fdb5c6cd483e7c4b0da686e47fc756f066b3b1795a6c4771f0"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_4fc0767befb4485e887094fb008d5259",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>This question is duplicated in #82</p>\n<p>A pendulum is displaced by angle <span class=\"math\" data-latex=\"\\theta\"></span> and released from rest.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the initial acceleration of the pendulum?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">zero</li><li data-label=\"B\">g sin <span class=\"math\" data-latex=\"\\theta\"></span></li><li data-label=\"C\">g cos <span class=\"math\" data-latex=\"\\theta\"></span></li><li data-label=\"D\">g</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

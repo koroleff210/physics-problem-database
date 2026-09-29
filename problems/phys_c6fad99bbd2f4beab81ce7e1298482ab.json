@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2b63473610edc010142abadd675c8a44da47d6523a0dc03ead5801a49df49b0c.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2b63473610edc010142abadd675c8a44da47d6523a0dc03ead5801a49df49b0c"
+    }
+  ],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_c6fad99bbd2f4beab81ce7e1298482ab",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: A</p>\n<p>A: From the diagram: <span class=\"math\" data-latex=\"E_{n=2}=-330\\,\\text{kJ mol}^{-1}\"></span> and <span class=\"math\" data-latex=\"E_{n=4}=-80\\,\\text{kJ mol}^{-1}\"></span>. For absorption, photon energy <span class=\"math\" data-latex=\"\\Delta E=E_{n=4}-E_{n=2}=(-80)-(-330)=+250\\,\\text{kJ mol}^{-1}\"></span>.</p>\n<p>B: 80 kJ mol<span class=\"math\" data-latex=\"^{-1}\"></span> is the magnitude of the <span class=\"math\" data-latex=\"n=4\"></span> level relative to zero, not the energy difference between <span class=\"math\" data-latex=\"n=2\"></span> and <span class=\"math\" data-latex=\"n=4\"></span>.</p>\n<p>C: 410 kJ mol<span class=\"math\" data-latex=\"^{-1}\"></span> corresponds to the difference between <span class=\"math\" data-latex=\"n=2\"></span> and <span class=\"math\" data-latex=\"n=\\infty\"></span>: <span class=\"math\" data-latex=\"0-(-330)=330\\,\\text{kJ mol}^{-1}\"></span>, not 410; the <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=4\"></span> gap is <span class=\"math\" data-latex=\"250\\,\\text{kJ mol}^{-1}\"></span>.</p>\n<p>D: 330 kJ mol<span class=\"math\" data-latex=\"^{-1}\"></span> is the energy required to ionize from <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=\\infty\"></span>: <span class=\"math\" data-latex=\"0-(-330)=330\\,\\text{kJ mol}^{-1}\"></span>, not the <span class=\"math\" data-latex=\"n=2\"></span> to <span class=\"math\" data-latex=\"n=4\"></span> transition.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows the energy levels of an atom. All values are given in kJ mol&lt;sup&gt;-1&lt;/sup&gt;.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the energy (in kJ mol&lt;sup&gt;-1&lt;/sup&gt;) of the photon absorbed when an electron transitions from the <span class=\"math\" data-latex=\"n=2\"></span> to the <span class=\"math\" data-latex=\"n=4\"></span> level?</p><ol class=\"mcq-options\"><li data-label=\"A\">250 kJ mol<sup>-1</sup></li><li data-label=\"B\">80 kJ mol<sup>-1</sup></li><li data-label=\"C\">410 kJ mol<sup>-1</sup></li><li data-label=\"D\">330 kJ mol<sup>-1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

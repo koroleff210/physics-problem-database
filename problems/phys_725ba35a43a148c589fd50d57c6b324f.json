@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_725ba35a43a148c589fd50d57c6b324f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A glass block has a refractive index in air of n<sub>g</sub>. The glass block is placed in two different liquids: liquid X with a refractive index of n<sub>X</sub> and liquid Y with a refractive index of n<sub>Y</sub>.</p>\n<p>In liquid X <span class=\"math\" data-latex=\"\\frac{n_{g}}{n_{X}}=2\"></span> and in liquid Y <span class=\"math\" data-latex=\"\\frac{n_{g}}{n_{Y}}=1.5.\"></span> What is <span class=\"math\" data-latex=\"\\frac{\\textit{speed of light in liquid X}}{\\textit{speed of light in liquid Y}}\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{2}{4}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{4}{3}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"3\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

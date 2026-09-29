@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 2,
+  "id": "phys_8e42ad615ae948dd81ce16f35d7adacf",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Used fuel rods are stored in water after removal from a nuclear reactor.</p>\n<p>The reason for this is that the water</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">absorbs the gamma radiation which is emitted by the used fuel</li><li data-label=\"B\">cools the used fuel which is still transferring energy</li><li data-label=\"C\">boils to steam which can then rotate a turbine</li><li data-label=\"D\">reacts chemically with the fuel which reduces the activity</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

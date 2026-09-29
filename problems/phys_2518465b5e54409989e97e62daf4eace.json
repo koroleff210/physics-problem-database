@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2518465b5e54409989e97e62daf4eace",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of mass <span class=\"math\" data-latex=\"5.0\\text{ kg}\"></span> is pulled along a horizontal floor at a constant velocity of <span class=\"math\" data-latex=\"4.0\\text{ m s}^{-1}\"></span> by a horizontal force. A frictional force of <span class=\"math\" data-latex=\"12\\text{ N}\"></span> acts on the block. What is the magnitude of the pulling force?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\\text{ N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"12\\text{ N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"20\\text{ N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"49\\text{ N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

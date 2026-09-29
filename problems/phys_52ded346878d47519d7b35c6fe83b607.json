@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 8,
+  "id": "phys_52ded346878d47519d7b35c6fe83b607",
+  "level": "hl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- <span class=\"math\" data-latex=\"E_4 = \\dfrac{-13.6}{16} = -0.85\"></span> eV<br/>- <span class=\"math\" data-latex=\"E_2 = \\dfrac{-13.6}{4} = -3.4\"></span> eV<br/>- <span class=\"math\" data-latex=\"\\Delta E = 3.4 - 0.85 = 2.55\"></span> eV<br/>- Correct level energies<br/>[1 mark]<br/>- Correct energy difference with appropriate units [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>- Convert to joules:<br/><span class=\"math\" data-latex=\"E = 2.55 \\cdot 1.60 \\times 10^{-19} = 4.08 \\times 10^{-19}\"></span> J<br/>- <span class=\"math\" data-latex=\"\\lambda = \\dfrac{hc}{E} = \\dfrac{6.63 \\times 10^{-34} \\cdot 3.00 \\times 10^8}{4.08 \\times\n10^{-19}} = 4.88 \\times 10^{-7}\"></span> m = 488 nm<br/>- Correct energy conversion and substitution<br/>[1 mark]<br/>- Correct final wavelength [1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- Only specific photon wavelengths are emitted.<br/>[1 mark]<br/>- This indicates electrons can only occupy discrete energy levels.<br/>[1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>In a hydrogen atom, an electron transitions from the <span class=\"math\" data-latex=\"n=4\"></span> level to the <span class=\"math\" data-latex=\"n=2\"></span> level.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the energy difference between the two levels using the Bohr model equation. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Calculate the wavelength of the photon emitted during this transition. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Explain how this transition supports the idea of quantized energy levels in atoms. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

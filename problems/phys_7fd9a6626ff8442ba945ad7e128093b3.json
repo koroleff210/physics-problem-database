@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_7fd9a6626ff8442ba945ad7e128093b3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The radius of planet A is <span class=\"math\" data-latex=\"R\"></span> and its average surface temperature is <span class=\"math\" data-latex=\"2000\"></span> K. The radius of planet B is <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span> and its surface temperature is <span class=\"math\" data-latex=\"4000\"></span> K. Assuming thaty both planets behave as a perfect black body, what is <span class=\"math\" data-latex=\"\\frac{\\textup{power}\\: \\textup{radiated}\\: \\textup{per}\\: \\textup{\\textup{}m}^{2}\\: \\textup{by} \\: \\textup{planet}\\: \\textup{A}}{\\textup{power}\\: \\textup{radiated}\\: \\textup{per}\\: \\textup{m}^{2}\\: \\textup{by} \\: \\textup{planet}\\: \\textup{B}}\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{8}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

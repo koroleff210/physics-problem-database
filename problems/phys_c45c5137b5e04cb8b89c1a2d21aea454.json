@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_c45c5137b5e04cb8b89c1a2d21aea454",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electromagnetic wave has a wavelength that is about the size of the diameter of an atom.</p>\n<p>What region of the electromagnetic spectrum does the wave belong to?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Infrared</li><li data-label=\"B\">Visible light</li><li data-label=\"C\">Ultraviolet</li><li data-label=\"D\">X-ray</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

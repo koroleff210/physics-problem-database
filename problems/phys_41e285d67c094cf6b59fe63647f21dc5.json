@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_41e285d67c094cf6b59fe63647f21dc5",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>D</p>\n<p>The final evolutionary stage of a star is determined by its initial mass. Stars with an initial mass less than about 8 solar masses end their lives as white dwarfs. Since the star's mass is 3 solar masses, which is less than this threshold, its final stage will be a white dwarf. A red giant is an intermediate stage, not the final one.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A main sequence star has a mass equal to three solar masses. What is the most likely final stage in the evolution of the star?</p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"> Black hole</li>\n<li data-label=\"B\"> Neutron star</li>\n<li data-label=\"C\"> Red giant</li>\n<li data-label=\"D\"> White dwarf</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

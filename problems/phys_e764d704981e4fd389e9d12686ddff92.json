@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e764d704981e4fd389e9d12686ddff92",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ion moves in a circle in a uniform magnetic field. Which single change would increase the radius of the circular path?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Decreasing the speed of the ion</li><li data-label=\"B\">Increasing the charge of the ion</li><li data-label=\"C\">Increasing the mass of the ion</li><li data-label=\"D\">Increasing the strength of the magnetic field</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

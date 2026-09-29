@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_c4f626fd6f214e169a4a452bba6ff922",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The angle between the <span class=\"math\" data-latex=\"ct\"></span>-axis of a spacetime diagram and the worldline of a particle travelling at speed <span class=\"math\" data-latex=\"v\"></span>, is <span class=\"math\" data-latex=\"\\theta\"></span>. The two axes of the diagram have the same scale.</p>\n<p>What is true about <span class=\"math\" data-latex=\"\\theta\"></span> and <span class=\"math\" data-latex=\"\\tan \\theta\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td><span class=\"math\" data-latex=\"\\mathbf{\\theta}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\mathbf{\\tan \\theta}\"></span></td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td><span class=\"math\" data-latex=\"\\theta &lt; \\frac{\\pi}{4}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\tan \\theta = \\frac{v}{c}\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td><span class=\"math\" data-latex=\"\\theta &gt; \\frac{\\pi}{4}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\tan \\theta = \\frac{v}{c}\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td><span class=\"math\" data-latex=\"\\theta &lt; \\frac{\\pi}{4}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\tan \\theta = \\frac{c}{v}\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td><span class=\"math\" data-latex=\"\\theta &gt; \\frac{\\pi}{4}\"></span></td>\n<td><span class=\"math\" data-latex=\"\\tan \\theta = \\frac{c}{v}\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

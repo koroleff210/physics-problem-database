@@ -1,0 +1,72 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1b3ba25362dc5e14e41f5fb7dc8b9e69d8fc024ce6e6bfaebc5097e010f39f34.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1b3ba25362dc5e14e41f5fb7dc8b9e69d8fc024ce6e6bfaebc5097e010f39f34"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/2ec20cc0f08a84f1f742840337dbd7840f0fa938122809537a71451c8c85d131.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "2ec20cc0f08a84f1f742840337dbd7840f0fa938122809537a71451c8c85d131"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/11ee58e7a182ea691054c13deba4d8c6e984d2711a95a1f600f3f37fd7aa05e9.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "11ee58e7a182ea691054c13deba4d8c6e984d2711a95a1f600f3f37fd7aa05e9"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/7c1be4cc2c6d116166ef90e4aeab5cb1742799c6f8708dc40e915a25d567cc54.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "7c1be4cc2c6d116166ef90e4aeab5cb1742799c6f8708dc40e915a25d567cc54"
+    },
+    {
+      "alt": "Source markscheme diagram 5",
+      "file": "assets/b46fedeb0034a1e82af345a4a6e35b4fdd7acd9fef98af36fc4f52bde7601b85.png",
+      "id": "fig_05",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "b46fedeb0034a1e82af345a4a6e35b4fdd7acd9fef98af36fc4f52bde7601b85"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_88156b10400c4a4b8f779fe79c7d6df0",
+  "level": "hl",
+  "marks": 16,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"15a\"><p><strong>15a</strong></p><p>A set of coordinates that can be used to determine different characteristics of objects (for example, their position or velocity) in that frame.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15b(i)\"><p><strong>15b(i)</strong></p><p><span class=\"math\" data-latex=\"c + v\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15b(ii)\"><p><strong>15b(ii)</strong></p><p><span class=\"math\" data-latex=\"c\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c(i)\"><p><strong>15c(i)</strong></p><p>The time coordinate of event F in reference frame S’ is <span class=\"math\" data-latex=\"t' = \\frac{L_{b}}{c}\"></span>.</p>\n<p>In Galilean relativity time and space are absolute, so the time coordinate of event F in reference frame S is the same, so <span class=\"math\" data-latex=\"t = \\frac{L_{b}}{c}\"></span>.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15c(ii)\"><p><strong>15c(ii)</strong></p><p>Rearranging the Galilean transformation equation <span class=\"math\" data-latex=\"x' = x - vt\"></span>, we get that <span class=\"math\" data-latex=\"x = x' + vt\"></span>.</p>\n<p>Substituting <span class=\"math\" data-latex=\"L_{b}\"></span> for <span class=\"math\" data-latex=\"x'\"></span> and <span class=\"math\" data-latex=\"\\frac{L_{b}}{c}\"></span> for <span class=\"math\" data-latex=\"t\"></span>, we get that:</p>\n<p><span class=\"math\" data-latex=\"x = L_{b} + \\frac{vL_{b}}{c}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"15d\"><p><strong>15d</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15e(i)\"><p><strong>15e(i)</strong></p><p></p>\n<p>\n<figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15e(ii)\"><p><strong>15e(ii)</strong></p><p>Finding the Lorentz factor for a speed of <span class=\"math\" data-latex=\"0.60c\"></span>:</p>\n<p><span class=\"math\" data-latex=\"\\gamma = \\frac{1}{\\sqrt{1-\\frac{(0.60c)^{2}}{c^{2}}}} \\approx 1.25\"></span></p>\n<p>Substituting into the Lorentz transformation equation for position:</p>\n<p><span class=\"math\" data-latex=\"x' = 1.25(2.0 - 0.6c \\times 0) = 2.5\\;\\textup{m}\"></span></p>\n<p>Substituting into the Lorentz transformation equation for time:</p>\n<p><span class=\"math\" data-latex=\"t' = 1.25\\left ( 0 - \\frac{0.6c \\times 2.0}{c^{2}} \\right ) = - \\frac{1.5}{c}\"></span></p>\n<p>Therefore <span class=\"math\" data-latex=\"ct' = - 1.5\\;\\textup{m}\"></span></p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15f\"><p><strong>15f</strong></p><p>We draw a line through A that is parallel to the <span class=\"math\" data-latex=\"ct'\"></span>-axis and the intersection of this line with the <span class=\"math\" data-latex=\"x'\"></span>-axis is the space coordinate that we are looking for.</p>\n<p> </p>\n<p>\n<figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"15g\"><p><strong>15g</strong></p><p>In order to compare the length of the box in the two reference frames, the ends of the box must be measured at the same time in both reference frames.</p>\n<p>To show this on the diagram, we will draw vertical lines (parallel to the <span class=\"math\" data-latex=\"ct\"></span>-axis) through the ends of the rod, so through the origin and through A (the line through the origin is not visible on the diagram).</p>\n<p> </p>\n<p>\n<figure data-asset-id=\"fig_05\"><img alt=\"Source markscheme diagram 5\" src=\"asset:fig_05\"/></figure>\n</p>\n<p> </p>\n<p>Let’s label the intersection point of the vertical line through A and the <span class=\"math\" data-latex=\"x'\"></span>-axis as C.</p>\n<p>The <span class=\"math\" data-latex=\"x'\"></span>-coordinate of B is <span class=\"math\" data-latex=\"2.0\\;\\textup{m}\"></span>, therefore the <span class=\"math\" data-latex=\"x'\"></span>-coordinate of C is less than <span class=\"math\" data-latex=\"2.0\\;\\textup{m}\"></span> which means that the length of the box is less than <span class=\"math\" data-latex=\"2.0\\;\\textup{m}\"></span> as measured by a person in reference frame S’.</p>\n<p></p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A bus is moving at speed <span class=\"math\" data-latex=\"v\"></span> relative to the surface of a straight road, to the right. Reference frame S is the ground and reference frame S’ is the bus.</p>\n<p>(a)   Define <em>reference frame</em>.</p>\n<p>  [1]</p>\n<p>The length of the bus as measured by a person who is sitting on the bus is <span class=\"math\" data-latex=\"L_{b}\"></span>. When the origins of the reference frames coincide, a light flashes at the left end of the bus. At this instant, clocks are synchronised and show zero. Let F be the event that light from the flash reaches the right end of the bus.</p>\n<p>(b)   State the speed of the light beam as measured by an observer at rest on the road, according to</p>\n<p>(i)   Galilean relativity.</p>\n<p>  [1]</p>\n<p>(ii)   special relativity.</p>\n<p>  [1]</p>\n<p>(c)   Deduce, that according to Galilean relativity,</p>\n<p>(i)   the time coordinate of event F in reference frame S is <span class=\"math\" data-latex=\"t = \\frac{L_{b}}{c}\"></span>.</p>\n<p>  [2]</p>\n<p>(ii)   the space coordinate of event F in reference frame S is <span class=\"math\" data-latex=\"x = L_{b} + \\frac{vL_{b}}{c}\"></span>.</p>\n<p>  [1]</p>\n<p>(d)   Consider the case when <span class=\"math\" data-latex=\"v = 0.60c\"></span>. The spacetime diagram shows reference frame S. When the origins of reference frames S and S’ coincide, clocks in both frames show zero.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>On the diagram, sketch reference frame S’.</p>\n<p>  [2]</p>\n<p>(e)   In reference frame S, event A has spacetime coordinates <span class=\"math\" data-latex=\"x = 2.0\\;\\textup{m}\"></span> and <span class=\"math\" data-latex=\"ct = 0\"></span>.</p>\n<p>(i)   Plot event A on the diagram and label it A.</p>\n<p>  [1]</p>\n<p>(ii)   Calculate the <span class=\"math\" data-latex=\"x'\"></span> and the <span class=\"math\" data-latex=\"ct'\"></span> coordinates of event A in reference frame S’.</p>\n<p>  [3]</p>\n<p>(f)   On the diagram, plot the space coordinate of event A in reference frame S’ and label it as B.</p>\n<p>  [1]</p>\n<p>(g)   The proper length of a box at rest in reference frame S is <span class=\"math\" data-latex=\"2.0\\;\\textup{m}\"></span>. At <span class=\"math\" data-latex=\"t = 0\"></span> the left end of the box is at <span class=\"math\" data-latex=\"x = 0\"></span> and the right end of the box is at <span class=\"math\" data-latex=\"x = 2.0\\;\\textup{m}\"></span>. </p>\n<p>Use the spacetime diagram to outline, without a calculation, why the length of the box is less than <span class=\"math\" data-latex=\"2.0\\;\\textup{m}\"></span> as measured by a person in reference frame S’.</p>\n<p>  [3]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

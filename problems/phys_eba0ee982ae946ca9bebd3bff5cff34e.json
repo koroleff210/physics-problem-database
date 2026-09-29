@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": null,
+  "id": "phys_eba0ee982ae946ca9bebd3bff5cff34e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A microwave source is directed towards a vertical metal reflector to establish a standing wave pattern. A detector is moved along the line between the source and the reflector to identify points of minimum intensity. The distance between the first intensity minimum and the seventh intensity minimum is measured as <span class=\"math\" data-latex=\"d\"></span>.</p>\n<p>Which of the following expressions gives the wavelength of the microwaves?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{d}{3}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{d}{6}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{2d}{7}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{d}{7}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

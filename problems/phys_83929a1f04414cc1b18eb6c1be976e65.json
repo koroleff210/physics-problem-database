@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_83929a1f04414cc1b18eb6c1be976e65",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle of mass <span class=\"math\" data-latex=\"m\"></span> and charge <span class=\"math\" data-latex=\"q\"></span> is accelerated from rest through a potential difference <span class=\"math\" data-latex=\"V\"></span>. What is the final speed of the particle?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{V}{2mq}}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2V}{mq}}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{2qV}{m}}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{qV}{2m}}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

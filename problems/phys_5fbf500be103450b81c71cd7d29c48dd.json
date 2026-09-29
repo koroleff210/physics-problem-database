@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": null,
+  "id": "phys_5fbf500be103450b81c71cd7d29c48dd",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fuel is being evaluated for use in a thermal power plant. The properties of the fuel are shown in the table below:</p>\n<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Specific energy</td><td><span class=\"math\" data-latex=\"45\\text{ MJ kg}^{-1}\"></span></td></tr><tr><td>Energy density</td><td><span class=\"math\" data-latex=\"36\\text{ GJ m}^{-3}\"></span></td></tr></tbody></table>\n<p>What is the density of this fuel?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.80\\text{ kg m}^{-3}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.25\\text{ kg m}^{-3}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"800\\text{ kg m}^{-3}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1250\\text{ kg m}^{-3}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

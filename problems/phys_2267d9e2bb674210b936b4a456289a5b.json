@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2267d9e2bb674210b936b4a456289a5b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>B: Magnetic force magnitude is <span class=\"math\" data-latex=\"F=qvB\\sin\\theta\"></span>. For motion parallel to the field, <span class=\"math\" data-latex=\"\\theta=0\"></span> so <span class=\"math\" data-latex=\"F=qvB\\sin 0=0\"></span>.</p>\n<p>C: This would apply only if <span class=\"math\" data-latex=\"\\theta=90^\\circ\"></span> (motion perpendicular to the field). Here <span class=\"math\" data-latex=\"\\theta=0\"></span> so the force is zero.</p>\n<p>D: The correct dependence is <span class=\"math\" data-latex=\"F=qvB\\sin\\theta\"></span>, not <span class=\"math\" data-latex=\"qvB\\cos\\theta\"></span>. For <span class=\"math\" data-latex=\"\\theta=0\"></span>, <span class=\"math\" data-latex=\"\\sin\\theta=0\"></span> so <span class=\"math\" data-latex=\"F=0\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A charged particle moves parallel to a uniform magnetic field. What is the force on the particle?</p><ol class=\"mcq-options\"><li data-label=\"A\">Maximum</li><li data-label=\"B\">Zero</li><li data-label=\"C\">Equal to <span class=\"math\" data-latex=\"qvB\"></span></li><li data-label=\"D\">Equal to <span class=\"math\" data-latex=\"qvB\\cos\\theta\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

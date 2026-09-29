@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b2700ea6a1507b90a01c2c835125352d7babf9de64a3b638dcc378954b136279.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b2700ea6a1507b90a01c2c835125352d7babf9de64a3b638dcc378954b136279"
+    }
+  ],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_b24647d10a634714b96472240f2b2bb7",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>The areas swept out in unit time by the Sun-comet line are the same at A and B ✓ At B, the distance is greater hence the orbital speed/distance moved in unit time is lower «so that the area remains the same» ✓ A decrease in speed means that the kinetic energy also decreases ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>An attempt to use Kepler’s 3<sup>rd</sup> law, e.g., <span class=\"math\" data-latex=\"\\frac{T}{1}^{2}=\\frac{4.5}{1.5}^{3}\"></span> ✓ <span class=\"math\" data-latex=\"T=\"></span>«<span class=\"math\" data-latex=\"\\frac{4.5}{1.5}^{1.5}=\"></span>» 5.2 «years» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A comet orbits the Sun in an elliptical orbit. A and B are two positions of the comet.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Explain, with reference to Kepler’s second law of planetary motion, the change in the kinetic energy of the comet as it moves from A to B.</p><p>[3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> An asteroid (minor planet) orbits the Sun in a circular orbit of radius 4.5 × 10<sup>8</sup> km. The radius of Earth’s orbit is 1.5 × 10<sup>8</sup> km. Calculate, in years, the orbital period of the asteroid. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

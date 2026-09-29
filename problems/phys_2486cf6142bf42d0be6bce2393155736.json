@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/c113aa8313dd43c7b29a535903bf7efe34e420c7b5c68fdabda8c829846ce5e1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c113aa8313dd43c7b29a535903bf7efe34e420c7b5c68fdabda8c829846ce5e1"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/6fa98001f76d0d536d43827bcc682af06e86b61ccd74bed2d2e4fba55d609913.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6fa98001f76d0d536d43827bcc682af06e86b61ccd74bed2d2e4fba55d609913"
+    }
+  ],
+  "classes": [
+    "B.5",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_2486cf6142bf42d0be6bce2393155736",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><sup>241</sup><sub>95</sub>Am ✓ <sup>237</sup><sub>93</sub>Np+<sup>4</sup><sub>2</sub>He ✓</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Alpha particles only travel a few cm in air / penetration of alpha particles is poor (and will not escape the chamber) ✓ OWTTE</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Half-life <span class=\"math\" data-latex=\"=\\frac{ln 2}{5.08\\times 10^{-11}}≈10^{10}\"></span> s ✓ Idea that this is much longer than lifetime of other components ✓ Reasoned comparison by conversion to reasonable unit eg ≈ 430 year ✓</p>\n<p>The initial activity of the source is 42 kBq. 33% of the alpha particles emitted by this source enter the chamber and form an ion pair.</p>\n<p>Each alpha particle has an initial kinetic energy of 5.5 MeV.</p>\n<p>The energy required to form one ion pair is 15 eV.</p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>Each alpha gives rise to <span class=\"math\" data-latex=\"\\frac{5.5\\times 10^{6}}{15}=3.67\\times 10^{5}\"></span> ion pairs ✓ So <span class=\"math\" data-latex=\"\\frac{3.67\\times 10^{5}\\times 42000}{3}=5.13\\times 10^{9}\"></span> ion pairs per second ✓ current <span class=\"math\" data-latex=\"=1.6\\times 10^{-19}\\times 5.13\\times 10^{9}=0.82\\times 10^{-9}\"></span> «A» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A smoke detector uses the radioactive nuclide americium-241.</p>\n<p>The americium is contained in a chamber that is open to the air. There are two electrodes in the chamber that are connected to a power supply and a current sensor.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Americium-241 emits alpha particles that ionize the air in the chamber. Each ionization forms one positive ion and one electron; these are called an ion pair. The electrons and the positive ions move towards the electrodes and the sensor detects a current in the air.</p>\n<p>When smoke enters the chamber, fewer ion pairs are formed and the current in the sensor decreases, sounding an alarm.</p>\n<p>The decay constant of americium-241 is 5.08 × 10<sup>−11</sup> s<sup>−1</sup>.<br/>The chamber is 0.10 m in each dimension.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>A nucleus of americium-241 has 146 neutrons. This nuclide decays to neptunium through alpha emission.</p>\n<p>Complete the nuclear equation for this decay.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline why the radioactive source is safe for use in a house. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Deduce whether the radioactive source will need to be replaced during the life of the detector. [3]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Calculate the maximum current in the chamber due to the electrons when there is no smoke in the chamber. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

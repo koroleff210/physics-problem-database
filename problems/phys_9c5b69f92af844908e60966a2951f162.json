@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_9c5b69f92af844908e60966a2951f162",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The frequency of the first harmonic for a pipe open at both ends is <span class=\"math\" data-latex=\"f\"></span>. The length of the pipe is 0.4 m. A second pipe, open at one end and closed at the other, produces a first harmonic of the same frequency <span class=\"math\" data-latex=\"f\"></span>.</p>\n<p>What is the length of the second pipe?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.1 m</li><li data-label=\"B\">0.2 m</li><li data-label=\"C\">0.4 m</li><li data-label=\"D\">0.8 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

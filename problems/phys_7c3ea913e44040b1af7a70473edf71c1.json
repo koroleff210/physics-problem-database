@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3",
+    "E.1",
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_7c3ea913e44040b1af7a70473edf71c1",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>86 ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALT 1 mass defect = 226.02540 − 222.01757 − 4.00260 = 0.00523 «u» ✓ 0.00523 × 931.5 = 4.87 «MeV» ✓ ALT 2 initial energy = (226.02540)(931.5) = 210 542.66 «MeV» OR final energy = (222.01757 + 4.00260)(931.5) = 210 537.79 «MeV» ✓ 210 542.66 − 210 537.79 = 4.87 «MeV» ✓   Must see full substitution or answer to at least 2 significant figures.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p><span class=\"math\" data-latex=\"p_{\\alpha}=p_{Rn}\"></span> ✓ «Use of KE = p<sup>2</sup>/2 m to get KE<sub>α</sub>/KE<sub>Rn</sub> =222/4 so» KE<sub>α</sub> = 222/226 OR 0.982 ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«a few» alpha particles bounce back from the foil ✓ «most» alpha particles pass through «undeflected» ✓ «some» alpha particles were scattered/deviated from their path ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>«nucleus is» small AND dense ✓ «nucleus is» positively charged OR a nucleus «is postulated» ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> A stationary isotope of <sub>88</sub>Ra (Radium) decays into Rn (Radon) and an alpha particle.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Identify the proton number of Rn. [1]</p></section><section class=\"context\"><p>The following data are available:</p><table><tbody><tr><td></td><td><p>Atomic mass of Ra</p></td><td><p>= 226.02540 u</p></td></tr><tr><td></td><td><p>Atomic mass of Rn</p></td><td><p>= 222.01757 u</p></td></tr><tr><td></td><td><p>Mass of <span class=\"math\" data-latex=\"\\alpha\"></span></p></td><td><p>= 4.00260 u</p></td></tr></tbody></table></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Show that the energy released in this decay is about 5 MeV. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Show that about 98 % of the energy released is carried by the alpha particle. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> In an experiment performed by Geiger, Marsden and Rutherford to investigate the atomic structure, alpha particles were directed into a thin metal foil.</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Describe two observations of this experiment. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Outline how the experiment was interpreted. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

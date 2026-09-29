@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_56881c33d6a644f49ed165d0c14456a3",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A sealed rigid tank contains a gas that behaves ideally. When the gas is heated at a constant volume, the pressure it exerts increases. Which statement provides the microscopic explanation for this increase?</p><ol class=\"mcq-options\"><li data-label=\"A\">The gas molecules expand in size, reducing the amount of empty space within the tank.</li><li data-label=\"B\">The average potential energy associated with the forces between molecules increases.</li><li data-label=\"C\">The frequency of molecular collisions with the container walls increases and the average change in momentum per collision is greater.</li><li data-label=\"D\">The molecules lose less kinetic energy during their collisions with each other at higher temperatures.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

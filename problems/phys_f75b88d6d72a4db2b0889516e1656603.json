@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_f75b88d6d72a4db2b0889516e1656603",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In a Millikan’s experiment, an oil drop is stationary between two parallel plates. A second oil drop of the same density, between the same plates, has twice the charge and twice the radius of the first oil drop.</p>\n<p>The second oil drop will initially<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">be stationary.</li><li data-label=\"B\">move with constant velocity downwards.</li><li data-label=\"C\">accelerate upwards.</li><li data-label=\"D\">accelerate downwards.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

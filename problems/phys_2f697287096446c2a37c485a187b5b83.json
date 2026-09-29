@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_2f697287096446c2a37c485a187b5b83",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Instantaneous velocity is defined as...<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{displacement}{\\textit{time taken}}\"></span>.</li><li data-label=\"B\">rate of change of position.</li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{\\textit{distance moved}}{\\textit{time taken}}\"></span>.</li><li data-label=\"D\">rate of change of distance.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

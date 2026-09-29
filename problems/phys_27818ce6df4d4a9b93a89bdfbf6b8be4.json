@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/1bc511f843388f70a56ea51d63848cdec8fdfd2330c54ef1d8300c996d1bce46.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "1bc511f843388f70a56ea51d63848cdec8fdfd2330c54ef1d8300c996d1bce46"
+    }
+  ],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_27818ce6df4d4a9b93a89bdfbf6b8be4",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ray of light is incident on the flat side of a semi-circular glass block placed in paraffin. The ray is totally internally reflected inside the glass block as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The refractive index of glass is <span class=\"math\" data-latex=\"n_{1}\"></span> and the refractive index of paraffin is <span class=\"math\" data-latex=\"n_{2}\"></span>.</p>\n<p>What is correct?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"sin \\theta=\\frac{n_{1}}{n_{2}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"sin \\theta=\\frac{n_{2}}{n_{1}}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"sin \\theta=\\frac{1}{n_{1}}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"sin \\theta=\\frac{1}{n_{2}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

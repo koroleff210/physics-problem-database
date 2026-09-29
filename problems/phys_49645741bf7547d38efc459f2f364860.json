@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_49645741bf7547d38efc459f2f364860",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What is the main detector used to measure the activity of a radioactive sample in a lab?</p><ol class=\"mcq-options\"><li data-label=\"A\">Voltmeter</li><li data-label=\"B\">Geiger–Müller tube</li><li data-label=\"C\">Thermocouple</li><li data-label=\"D\">Spectrometer</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

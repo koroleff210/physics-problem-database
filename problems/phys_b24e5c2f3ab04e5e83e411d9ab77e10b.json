@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_b24e5c2f3ab04e5e83e411d9ab77e10b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A ball of mass <span class=\"math\" data-latex=\"0.50\\text{ kg}\"></span> is moving horizontally with a speed of <span class=\"math\" data-latex=\"10\\text{ m s}^{-1}\"></span>. It strikes a vertical wall and rebounds horizontally in the opposite direction with a speed of <span class=\"math\" data-latex=\"6.0\\text{ m s}^{-1}\"></span>. The ball is in contact with the wall for <span class=\"math\" data-latex=\"0.20\\text{ s}\"></span>. What is the magnitude of the average force exerted on the ball by the wall?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"10\\text{ N}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"40\\text{ N}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"25\\text{ N}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"80\\text{ N}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 5,
+  "id": "phys_3bb47799d0a84e1b952aa344cf94faf4",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A uniform ladder of mass <span class=\"math\" data-latex=\"25\\,\\text{kg}\"></span> and length <span class=\"math\" data-latex=\"5.0\\,\\text{m}\"></span> leans against a vertical frictionless wall, making a <span class=\"math\" data-latex=\"60^\\circ\"></span> angle with the ground. The ground is rough. What is the minimum coefficient of static friction required at the base to keep the ladder in equilibrium?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.29\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"0.58\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"0.87\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

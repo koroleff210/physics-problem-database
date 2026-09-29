@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_0fcf9026336c42b89568cac12cef2bdd",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light is incident on a diffraction grating. The diffraction pattern from the diffraction grating is then formed on a screen.</p>\n<p>Only the central maximum and the first-order maxima can be observed on the screen.</p>\n<p>What change will allow the second-order maxima to be observed on the screen?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Decrease the distance between the diffraction grating and the source of light</li><li data-label=\"B\">Increase the distance between the diffraction grating and the screen</li><li data-label=\"C\">Increase the wavelength of the monochromatic light</li><li data-label=\"D\">Reduce the number of lines per unit length of the diffraction grating</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

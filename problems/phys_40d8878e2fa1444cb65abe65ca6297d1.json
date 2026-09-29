@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_40d8878e2fa1444cb65abe65ca6297d1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Greenhouse gases contribute to the Earth's energy balance by absorbing specific wavelengths of radiation. Which row correctly identifies the type of radiation absorbed and the primary effect this has on the greenhouse gas molecules?</p>\n<table><thead><tr><th></th><th>Radiation type</th><th>Molecular effect</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td>Long-wave (infrared)</td><td>Increased molecular vibration</td></tr><tr data-label=\"B\"><td>B</td><td>Long-wave (infrared)</td><td>Transition of electrons to higher levels</td></tr><tr data-label=\"C\"><td>C</td><td>Short-wave (ultraviolet)</td><td>Increased molecular vibration</td></tr><tr data-label=\"D\"><td>D</td><td>Short-wave (ultraviolet)</td><td>Transition of electrons to higher levels</td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

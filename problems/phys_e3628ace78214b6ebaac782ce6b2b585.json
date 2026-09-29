@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_e3628ace78214b6ebaac782ce6b2b585",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two parallel wires carry currents in opposite directions. The distance between the wires is <span class=\"math\" data-latex=\"D\"></span>, the current in each wire is <span class=\"math\" data-latex=\"I\"></span>, and the magnitude of the force exerted by one wire on the other is <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>What is true about the relationship between <span class=\"math\" data-latex=\"F\"></span> and <span class=\"math\" data-latex=\"D\"></span> and between <span class=\"math\" data-latex=\"F\"></span> and <span class=\"math\" data-latex=\"I\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Relationship between </strong><span class=\"math\" data-latex=\"\\boldsymbol{F}\"></span><strong> and </strong><span class=\"math\" data-latex=\"\\boldsymbol{D}\"></span></p>\n</td>\n<td>\n<p><strong>Relationship between </strong><span class=\"math\" data-latex=\"\\boldsymbol{F}\"></span><strong> and </strong><span class=\"math\" data-latex=\"\\boldsymbol{I}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: D^{-1}\"></span></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: I^{2}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: D^{-2}\"></span></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: I^{2}\"></span></p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: D^{-1}\"></span></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: I\"></span></p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: D^{-2}\"></span></p>\n</td>\n<td>\n<p><span class=\"math\" data-latex=\"F\\: \\alpha\\: I\"></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

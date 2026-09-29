@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_de7278f6a3c44a85825bbc20efa50366",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An object is released from rest in a vacuum at a height <span class=\"math\" data-latex=\"H\"></span> above the Earth’s surface.</p>\n<p>As the object falls it passes a point at a height of 0.75<span class=\"math\" data-latex=\"H\"></span> above the surface.</p>\n<p>What is <span class=\"math\" data-latex=\"\\frac{\\textit{kinetic energy of the object at a height of 0.75H}}{\\textit{gravitational potential energy of the object at a height of H}}\"></span> ?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{16}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{9}{16}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

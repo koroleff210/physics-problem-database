@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_07d670fc72e6409a82daf5e99fb0f425",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The mass and radius of two spherical planets, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, are shown in the table below.</p>\n<table><thead><tr><th>Planet</th><th>Mass</th><th>Radius</th></tr></thead><tbody><tr><td><span class=\"math\" data-latex=\"X\"></span></td><td><span class=\"math\" data-latex=\"M\"></span></td><td><span class=\"math\" data-latex=\"R\"></span></td></tr><tr><td><span class=\"math\" data-latex=\"Y\"></span></td><td><span class=\"math\" data-latex=\"2M\"></span></td><td><span class=\"math\" data-latex=\"0.5R\"></span></td></tr></tbody></table>\n<p>The escape speed from the surface of planet <span class=\"math\" data-latex=\"X\"></span> is <span class=\"math\" data-latex=\"v\"></span>. What is the escape speed from the surface of planet <span class=\"math\" data-latex=\"Y\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"v\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt{2}v\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2v\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4v\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

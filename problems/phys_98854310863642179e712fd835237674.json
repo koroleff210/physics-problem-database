@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_98854310863642179e712fd835237674",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>When alpha particle scattering experiments were carried out with high-energy alpha particles, deviations from Geiger-Marsden-Rutherford scattering were observed.</p>\n<p>What was deduced as a result of this observation?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The size of the alpha particle</li><li data-label=\"B\">The size of the nucleus</li><li data-label=\"C\">The nature of the electrostatic field inside the nucleus</li><li data-label=\"D\">The nature of the weak nuclear force within the nucleus</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

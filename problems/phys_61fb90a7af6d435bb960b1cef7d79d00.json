@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_61fb90a7af6d435bb960b1cef7d79d00",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two blocks X and Y at different temperatures are placed in thermal contact with each other until they reach thermal equilibrium. Block X and block Y are of the same material. The mass of block Y is half that of block X. The change in temperature of block X has a magnitude ΔT and the change in internal energy of block X has a magnitude ΔU. What is the change in magnitude of temperature of block Y and the change in magnitude of internal energy of block Y?</p>\n<table><tbody><tr><td></td><td><p>Magnitude of change<br/>in temperature of Y</p></td><td><p>Magnitude of change in<br/>internal energy of Y</p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>ΔT</p></td><td><p>2ΔU</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>2ΔT</p></td><td><p>2ΔU</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>ΔT</p></td><td><p>ΔU</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>2ΔT</p></td><td><p>ΔU</p></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

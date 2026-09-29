@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_1497c3f64e5e4ad89b3b835a1f25cfb6",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two forces act on an object in different directions. The magnitudes of the forces are 18 N and 27 N. The mass of the object is 9.0 kg. What is a possible value for the acceleration of the object?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0 m s<sup>−2</sup></li><li data-label=\"B\">0.5 m s<sup>−2</sup></li><li data-label=\"C\">2.0 m s<sup>−2</sup></li><li data-label=\"D\">6.0 m s<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_26b5586e35e044a785ead8efc1a6baa3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The average binding energy per nucleon versus nucleon number graph has a maximum. The region around this maximum:</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">contains the most stable nuclides</li>\n<li data-label=\"B\">contains nuclides that decay through alpha-decay.</li>\n<li data-label=\"C\">contains nuclides that decay through beta-decay.</li>\n<li data-label=\"D\">is where radioactive decay is most likely to occur.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

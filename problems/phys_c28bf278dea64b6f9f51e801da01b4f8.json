@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5575daa95b54e337805872c34388a85ed825cfaab4c94f1c96586045ee2320cb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5575daa95b54e337805872c34388a85ed825cfaab4c94f1c96586045ee2320cb"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/ef13993162fd774e52456f526851ab27d3abbf82e19bd915e94652ca6c094914.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ef13993162fd774e52456f526851ab27d3abbf82e19bd915e94652ca6c094914"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_c28bf278dea64b6f9f51e801da01b4f8",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>force per unit charge;<br/>on a small positive test charge;</p>\n<p>Award [1] for 'force per unit charge'. Award [1] for 'on a small positive test charge'. 'Small' is to ensure the test charge does not alter the field it is measuring.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Both R and S are negative.</p>\n<p>Reasoning: For the field to be negative (left) near R, R must be negative. For the field to be positive (right) near S, the field from S must be directed to the right and be dominant. A field pointing right towards S (which is at x=5cm) implies S is negative.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Reads the position of zero electric field from the graph as x ≈ 2.1 cm;<br/>At this point, the magnitudes of the fields are equal, so |<span class=\"math\" data-latex=\"q_{S}\"></span>|/|<span class=\"math\" data-latex=\"q_{R}\"></span>| = (5.0-2.1)² / 2.1² ≈ 1.9;</p>\n<p>Accept x in the range 2.05 cm to 2.15 cm. The final calculated ratio must be shown to be close to 2. Award [1] for identifying the zero-field point and stating the principle of equal field magnitudes. Award [1] for the correct substitution and calculation. The ratio must be |<span class=\"math\" data-latex=\"q_{S}\"></span>|/|<span class=\"math\" data-latex=\"q_{R}\"></span>|.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>4.</strong> Two electric point charges, R and S, are 5.0 cm apart.</p><p>The graph shows the variation of the resultant electric field strength due to these two charges along the line joining them, for the interval <span class=\"math\" data-latex=\"1.0\\,\\mathrm{cm} \\le x \\le 4.0\\,\\mathrm{cm}\"></span>, where <span class=\"math\" data-latex=\"x\"></span> is the horizontal position with origin at charge R.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the definition of electric field strength at a point. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Identify the sign of each charge. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Show the ratio of charge magnitudes is about 2. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

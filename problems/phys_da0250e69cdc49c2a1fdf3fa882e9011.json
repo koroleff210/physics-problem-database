@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_da0250e69cdc49c2a1fdf3fa882e9011",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Mars has an escape speed of <span class=\"math\" data-latex=\"v_{e}\"></span> and volume <em>V.</em> The mass of planet X is six times that of Mars and its volume is <span class=\"math\" data-latex=\"\\frac{V}{8}\"></span>.</p>\n<p>What is the escape speed of planet X?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{\\sqrt{3}}{2}\"></span><span class=\"math\" data-latex=\"v_{e}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"\\sqrt{3}\"></span><span class=\"math\" data-latex=\"v_{e}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{12}\"></span><span class=\"math\" data-latex=\"v_{e}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{48}\"></span><span class=\"math\" data-latex=\"v_{e}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

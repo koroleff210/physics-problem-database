@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6ebb163472379c367d70804aefb0883eb87554074f3ca6d2d91a4806a9fa70df.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6ebb163472379c367d70804aefb0883eb87554074f3ca6d2d91a4806a9fa70df"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/279d392cb455066013cbd7130ac88e46801ce4124c47871d3b96a4865bce1823.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "279d392cb455066013cbd7130ac88e46801ce4124c47871d3b96a4865bce1823"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/fac48ce86bade5e7a22a47fbace7c8bcc1f6b6b0777fde91076b91f84ad86c9e.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "fac48ce86bade5e7a22a47fbace7c8bcc1f6b6b0777fde91076b91f84ad86c9e"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_6f7dbcd3c01240b0b2ccc35b10482fb7",
+  "level": "hl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«Changing the variable resistor» changes the current «in the circuit» ✓ V = ε − Ir, so as I changes, V changes ✓ <br/>Do not allow arguments based on Ohm’s law.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>ALTERNATIVE 1 Recognition that the gradient is internal resistance OR The attempt to use gradient ✓<br/><br/> <span class=\"math\" data-latex=\"r=\\frac{6V}{8A}=0.75 Ω\"></span> ✓   ALTERNATIVE 2 Reads 24.7 ± 0.1 V from graph ✓ Use <span class=\"math\" data-latex=\"r=\\frac{ε-V}{I}\"></span> and any data point to give 0.75 ± 0.02 Ω ✓ <br/>Must see full substitution   OR   answer to 2 (or more) significant figures for MP2. Candidates may use the y-intercept value or solve using two discrete data points from the graph.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>Use of ε = I(R + r) OR Reference to y-intercept (I = 0) OR Line extrapolated back to y-axis ✓<br/><br/> 24.7 V ✓ <br/>Accept 24.6–25.2 V for MP2.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>Use of <span class=\"math\" data-latex=\"Δ S = \\frac{Δ Q}{T}\"></span> ✓ <span class=\"math\" data-latex=\"=\\frac{0.012 kg2.3\\times 10^{6}}{100+273}=74 J K^{-1}\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>greater number of possible arrangements (microstates) of particles in steam ✓ greater disorder in particles in steam ✓ greater number of possible ways to distribute energy in steam ✓ Since <span class=\"math\" data-latex=\"Δ Q\"></span> is positive, <span class=\"math\" data-latex=\"Δ S = \\frac{Δ Q}{T}\"></span> is positive ✓<br/>[1 mark max]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A student is investigating the emf and internal resistance of a cell, using the circuit shown. The ammeter and the voltmeter are ideal.<br/><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>The graph shows the variation of the voltmeter reading V with the ammeter reading I.<br/><br/></p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain why V changes when the resistance of the variable resistor is changed. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the internal resistance of the cell is about 0.8 Ω. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the emf of the cell. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>The student then replaces the variable resistor with an electric heating element in order to investigate the thermal output of the system. The heating element is used to raise the temperature of the water to the boiling point.</p>\n<p><br/><br/><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>After the boiling point is reached, 12 g of the water are vaporized. The specific latent heat of vaporization of water is 2.3 × 10<sup>6</sup> J kg<sup>–1</sup>.</p><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Calculate the change in entropy of the vaporized water. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Explain why this entropy change is positive. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

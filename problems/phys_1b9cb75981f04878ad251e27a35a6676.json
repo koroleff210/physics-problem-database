@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0ebee92e7dbc215a982e62c7a333b019fd4538a10dbb53396f1d4d5c96da3635.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0ebee92e7dbc215a982e62c7a333b019fd4538a10dbb53396f1d4d5c96da3635"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_1b9cb75981f04878ad251e27a35a6676",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block of ice of mass <span class=\"math\" data-latex=\"M\"></span> is at its melting point.</p>\n<p>A smaller mass <span class=\"math\" data-latex=\"m\"></span> of water at a temperature of T °C is placed on the top surface of the ice and remains there.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The specific latent heat of fusion of ice is <span class=\"math\" data-latex=\"L\"></span> and the specific heat capacity of water is <span class=\"math\" data-latex=\"c\"></span>.</p>\n<p>What mass of ice melts?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{mcT}{L}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{mLT}{c}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{McT}{L}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{MLT}{c}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

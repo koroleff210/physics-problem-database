@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/6862912c04e0b993940902e6d079964856a41c035085d030e50f87853d97fa89.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "6862912c04e0b993940902e6d079964856a41c035085d030e50f87853d97fa89"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": null,
+  "id": "phys_b3d3dff58cd047e69a5c29df4cced9d0",
+  "level": "hl",
+  "marks": 3,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>- Determine the mass flow rate in <span class=\"math\" data-latex=\"\\text{kg s}^{-1}\"></span> (<span class=\"math\" data-latex=\"1800 / 60 = 30 \\text{ kg s}^{-1}\"></span>) [1 mark]<br/>- Calculate the useful power output using <span class=\"math\" data-latex=\"P = \\frac{mgh}{t}\"></span> (<span class=\"math\" data-latex=\"30 \\times 9.81 \\times 12.5 = 3680 \\text{ W}\"></span> or <span class=\"math\" data-latex=\"3.68 \\text{ kW}\"></span>) [1 mark]<br/>- Calculate the efficiency as a ratio or percentage (<span class=\"math\" data-latex=\"\\eta = \\frac{3.68}{5.2} \\approx 0.71\"></span> or <span class=\"math\" data-latex=\"71\\%\"></span>) [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A conveyor belt system at an industrial site is used to transport crushed ore from a collection pit to a storage silo, as shown in the diagram.</p><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>The following data are recorded for the steady-state operation of the system:</p><table><thead><tr><th>Parameter</th><th>Value</th></tr></thead><tbody><tr><td>Vertical lift height (<span class=\"math\" data-latex=\"h\"></span>)</td><td><span class=\"math\" data-latex=\"12.5 \\text{ m}\"></span></td></tr><tr><td>Average mass of ore transported</td><td><span class=\"math\" data-latex=\"1800 \\text{ kg per minute}\"></span></td></tr><tr><td>Electrical power input to the system</td><td><span class=\"math\" data-latex=\"5.2 \\text{ kW}\"></span></td></tr></tbody></table><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Using the data provided, determine the overall efficiency of the conveyor belt system.<p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

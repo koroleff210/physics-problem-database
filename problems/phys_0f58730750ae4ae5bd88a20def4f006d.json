@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0cf4fa34cf23db56de760cb9bd66f8120abf40ad6e63844cb1d055ab30ed0e48.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0cf4fa34cf23db56de760cb9bd66f8120abf40ad6e63844cb1d055ab30ed0e48"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_0f58730750ae4ae5bd88a20def4f006d",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows an area with a magnetic field pointing upwards and an electric field pointing into the page. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>When a proton enters the field with horizontal velocity <span class=\"math\" data-latex=\"v\"></span> it is undeflected by the fields.</p>\n<p>What is true about the motion of an electron and the motion of an alpha particle that enter the same area at a velocity <span class=\"math\" data-latex=\"v\"></span>?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Motion of electron</strong></p>\n</td>\n<td>\n<p><strong>Motion of alpha particle</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>deflected</p>\n</td>\n<td>\n<p>undeflected</p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>undeflected</p>\n</td>\n<td>\n<p>deflected</p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>undeflected</p>\n</td>\n<td>\n<p>undeflected</p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>deflected</p>\n</td>\n<td>\n<p>deflected</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

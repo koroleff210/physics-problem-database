@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0bf93ecc85bb51652d535925bcd7e14a14f3b650df9e29f6af7696ae05008372.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0bf93ecc85bb51652d535925bcd7e14a14f3b650df9e29f6af7696ae05008372"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_4ff504a68bf143e69dd1294507813944",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A heater is used to supply energy to a substance initially in the solid state. The graph shows how the temperature of the substance varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The mass of the substance is <span class=\"math\" data-latex=\"2.0\"></span> kg and the latent heat of vaporization of the substance is <span class=\"math\" data-latex=\"300\"></span> kJ kg<span class=\"math\" data-latex=\"^{-1}\"></span>. What is the power rating of the heater?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"250\"></span> W</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"330\"></span> W</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"2500\"></span> W</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"3300\"></span> W</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

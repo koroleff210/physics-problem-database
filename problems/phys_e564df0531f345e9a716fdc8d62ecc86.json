@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_e564df0531f345e9a716fdc8d62ecc86",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Monochromatic light is incident on ten slits and creates an interference pattern on a screen located at distance <em>d </em>from the slits. </p>\n<p>Which of the following changes is correct when half of the slits are covered while <em>d</em> is unchanged?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">The intensity of the maxima increases</li>\n<li data-label=\"B\">The width of the maxima increases</li>\n<li data-label=\"C\">The separation of the maxima decreases</li>\n<li data-label=\"D\">The number of dark fringes observed increases</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

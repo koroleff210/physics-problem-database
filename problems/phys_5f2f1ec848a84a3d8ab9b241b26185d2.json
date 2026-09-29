@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_5f2f1ec848a84a3d8ab9b241b26185d2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The velocity of an object changes from <span class=\"math\" data-latex=\"+\"></span>2 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup> to v. What is the value of v for which the magnitude of the impulse acting on the object is greatest?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"-\"></span>4 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"B\"><span class=\"math\" data-latex=\"-\"></span>2 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"C\"><span class=\"math\" data-latex=\"+\"></span>2 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li><li data-label=\"D\"><span class=\"math\" data-latex=\"+\"></span>4 m s<span class=\"math\" data-latex=\"-\"></span><sup>1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

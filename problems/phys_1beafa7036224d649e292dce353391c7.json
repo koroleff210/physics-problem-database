@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_1beafa7036224d649e292dce353391c7",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Element <span class=\"math\" data-latex=\"_{13}^{26}\\textrm{X}\"></span> decays into element Y through 4<span class=\"math\" data-latex=\"\\alpha\"></span> and 2<span class=\"math\" data-latex=\"\\beta^{-}\"></span> emissions. The average binding energy per nucleon of element X is twice that of Y. The total energy needed to separate the nucleons of one <span class=\"math\" data-latex=\"_{13}^{26}\\textrm{X}\"></span> nucleus is 130 MeV.</p>\n<p>What is the total energy needed to separate the nucleons of one nucleus of Y?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">25 MeV</li>\n<li data-label=\"B\">45 MeV</li>\n<li data-label=\"C\">50 MeV</li>\n<li data-label=\"D\">90 MeV</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

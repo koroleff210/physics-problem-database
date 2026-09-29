@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0cfc741a7df5b4050d665077906cc17dce6e970c3d6913ca5dd29cfd139e598c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0cfc741a7df5b4050d665077906cc17dce6e970c3d6913ca5dd29cfd139e598c"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_546f0124235343f7a4f8c0f534b4e3f2",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>C</p>\n<p>The voltmeter is connected in parallel with the ideal cell (negligible internal resistance), so it always measures the cell's EMF, E. Thus, the new voltmeter reading is <span class=\"math\" data-latex=\"V_{0}\"></span>. Initially, the total resistance is R_total_0 = (<span class=\"math\" data-latex=\"R_{\\mathrm{XY}}\"></span> * <span class=\"math\" data-latex=\"R_{Z}\"></span>) / (<span class=\"math\" data-latex=\"R_{\\mathrm{XY}}\"></span> + <span class=\"math\" data-latex=\"R_{Z}\"></span>) = (2R * R) / (2R + R) = 2R/3. The initial current is <span class=\"math\" data-latex=\"I_{0}\"></span> = E / (2R/3) = 3E/2R. When bulb Z burns out, its branch becomes an open circuit. The new total resistance is just the resistance of the branch with bulbs X and Y, R_total_new = 2R. The new current is <span class=\"math\" data-latex=\"I_{\\mathrm{new}}\"></span> = E / (2R). The ratio of the new current to the old current is <span class=\"math\" data-latex=\"I_{\\mathrm{new}}\"></span> / <span class=\"math\" data-latex=\"I_{0}\"></span> = (E/2R) / (3E/2R) = 1/3. Therefore, the new ammeter reading is (1/3)<span class=\"math\" data-latex=\"I_{0}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Three identical lightbulbs are connected to a cell as shown. The cell has a negligible internal resistance. The ammeter and voltmeter read <span class=\"math\" data-latex=\"I_0\"></span> and <span class=\"math\" data-latex=\"V_0\"></span> respectively. Lightbulb Z (shown in grey) burns out and can no longer conduct electricity.</p>\n<p>What are the new readings of the ammeter and the voltmeter?</p>\n<table><thead><tr><th>Option</th><th>Ammeter reading</th><th>Voltmeter reading</th></tr></thead><tbody><tr data-label=\"A\"><td>A</td><td><span class=\"math\" data-latex=\"\\frac{1}{3}I_0\"></span></td><td>less than <span class=\"math\" data-latex=\"V_0\"></span></td></tr><tr data-label=\"B\"><td>B</td><td><span class=\"math\" data-latex=\"\\frac{2}{3}I_0\"></span></td><td>less than <span class=\"math\" data-latex=\"V_0\"></span></td></tr><tr data-label=\"C\"><td>C</td><td><span class=\"math\" data-latex=\"\\frac{1}{3}I_0\"></span></td><td><span class=\"math\" data-latex=\"V_0\"></span></td></tr><tr data-label=\"D\"><td>D</td><td><span class=\"math\" data-latex=\"\\frac{2}{3}I_0\"></span></td><td><span class=\"math\" data-latex=\"V_0\"></span></td></tr></tbody></table>\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

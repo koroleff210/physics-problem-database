@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": null,
+  "id": "phys_3bdd506feea34bea88fb11a24087fb54",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below lists the refractive indices for four different transparent substances.</p>\n<table><thead><tr><th>Substance</th><th>Refractive Index (<span class=\"math\" data-latex=\"n\"></span>)</th></tr></thead><tbody><tr><td>Diamond</td><td><span class=\"math\" data-latex=\"2.42\"></span></td></tr><tr><td>Flint glass</td><td><span class=\"math\" data-latex=\"1.66\"></span></td></tr><tr><td>Water</td><td><span class=\"math\" data-latex=\"1.33\"></span></td></tr><tr><td>Ice</td><td><span class=\"math\" data-latex=\"1.31\"></span></td></tr></tbody></table>\n<p>Which combination of materials and direction of light travel would result in the smallest critical angle for total internal reflection?</p><ol class=\"mcq-options\"><li data-label=\"A\">From flint glass to water</li><li data-label=\"B\">From diamond to ice</li><li data-label=\"C\">From water to ice</li><li data-label=\"D\">From diamond to flint glass</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

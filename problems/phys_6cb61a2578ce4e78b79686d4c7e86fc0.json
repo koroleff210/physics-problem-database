@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_6cb61a2578ce4e78b79686d4c7e86fc0",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>In frame <span class=\"math\" data-latex=\"S\"></span>, two events occur at the same place but are separated by <span class=\"math\" data-latex=\"2.00\\ \\mu s\"></span>. What is the spatial separation between the events in a frame <span class=\"math\" data-latex=\"S'\"></span> moving at <span class=\"math\" data-latex=\"0.80c\"></span> relative to <span class=\"math\" data-latex=\"S\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\\ m\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"200\\ m\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"400\\ m\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"800\\ m\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

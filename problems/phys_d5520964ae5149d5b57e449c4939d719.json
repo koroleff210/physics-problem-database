@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_d5520964ae5149d5b57e449c4939d719",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The frequency of an electromagnetic wave travelling through a liquid is <span class=\"math\" data-latex=\"500\"></span> THz. The wavelength of the wave is <span class=\"math\" data-latex=\"400\"></span> nm. What is the nature of the wave and what is the distance travelled by the wave in <span class=\"math\" data-latex=\"4\"></span> <span class=\"math\" data-latex=\"\\mu\"></span>s?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Nature of the wave</strong></p>\n</td>\n<td>\n<p><strong>Distance travelled</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Longitudinal</td>\n<td><span class=\"math\" data-latex=\"8\"></span> km</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Longitudinal</td>\n<td><span class=\"math\" data-latex=\"0.8\"></span> km</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Transverse</td>\n<td><span class=\"math\" data-latex=\"8\"></span> km</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Transverse</td>\n<td><span class=\"math\" data-latex=\"0.8\"></span> km</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

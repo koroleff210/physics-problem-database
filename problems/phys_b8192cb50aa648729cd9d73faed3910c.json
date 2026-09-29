@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_b8192cb50aa648729cd9d73faed3910c",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass-spring system undergoes simple harmonic motion with an amplitude of <span class=\"math\" data-latex=\"x_0\"></span>. When the displacement of the mass is <span class=\"math\" data-latex=\"0.5x_0\"></span>, what is the ratio of its kinetic energy to the total energy of the system?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"\\frac{3}{4}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"\\frac{\\sqrt{3}}{2}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

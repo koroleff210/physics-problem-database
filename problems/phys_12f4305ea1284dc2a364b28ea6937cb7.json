@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7d27d5531185ecbf2e7b62ec27d58be126f9a66addee0d76217d35087f8277d8.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7d27d5531185ecbf2e7b62ec27d58be126f9a66addee0d76217d35087f8277d8"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_12f4305ea1284dc2a364b28ea6937cb7",
+  "level": "sl",
+  "marks": 12,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>milligram OR 0.001 g ✔<br/>Accept half milligram / 0.0005 g Ignore use of plus/minus</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>(0.001427 − 0.001208) · 9.8   OR   2.1 mN ✔  <br/>Allow the calculation to give a result in mN or N. Look for full substitution or answer with at least two SF.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"ρ g V = 0.002146\"></span> ✔ <span class=\"math\" data-latex=\"\\rho=1200 kg m^{-3}\"></span> ✔<br/>Do not penalise the use of SF. Watch for ECF from 1b and POT errors.</p>\n<p>To determine the viscosity, they immerse the sphere in the liquid and drop it from rest.</p>\n<p>They collect values and plot a graph of the position d of the sphere from the moment they drop it. They verify that the sphere reaches terminal velocity v<sub>t</sub> after 0.5 s.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"d\"><p><strong>d</strong></p><p>A single, straight line passing through most points, which does not attempt to pass through the origin. ✔ Curved line passing through first three points ✔<br/>Allow MP1 straight lines to extend to the x-axis</p></section><section class=\"markscheme-part\" data-label=\"e\"><p><strong>e</strong></p><p>The gradient is constant / the line is straight «when terminal v is reached» ✔<br/>Ignore any comments not explicitly referring to the graph</p>\n<p>They repeat the experiment several times and estimate an average for</p>\n<p><span class=\"math\" data-latex=\"v_{t}=0.71±0.05 m s^{-1}\"></span>.</p>\n<p>They use the equation</p>\n<p><span class=\"math\" data-latex=\"η = \\frac{{m}_{a i r} g - ρ V g}{6 π r {v}_{t}}\"></span>,</p>\n<p>where</p>\n<p><span class=\"math\" data-latex=\"r\"></span> = radius of the sphere,</p>\n<p><span class=\"math\" data-latex=\"v_{t}\"></span> = terminal velocity of the sphere,</p>\n<p><span class=\"math\" data-latex=\"η\"></span> = viscosity of the liquid.</p>\n<p>The radius <span class=\"math\" data-latex=\"r\"></span> of the sphere is 3.520 mm.</p></section><section class=\"markscheme-part\" data-label=\"f\"><p><strong>f</strong></p><p><span class=\"math\" data-latex=\"η\"></span> = 0.2512 ✔ 7%   OR   0.02 ✔ <span class=\"math\" data-latex=\"η\"></span> = 0.25 ± 0.02 ✔ Pa s   OR   kg m<sup>–1</sup> s<sup>–1</sup> ✔<br/>MP1 and MP2 are for the calculations, accept any number of SF, MP3 is for the matching precision of the value and its uncertainty. ECF may apply but uncertainty may only have 1SF. Allow other suitable units such as N m<sup>–2</sup> s</p>\n<p>The students search literature values and find the viscosity of this liquid to be 0.24, when expressed in SI base units.</p></section><section class=\"markscheme-part\" data-label=\"g\"><p><strong>g</strong></p><p>the value lies within the range of the uncertainties «so the experiment was accurate» ✔<br/>Watch for ECF from 1f</p></section>"
+  },
+  "paper": "paper_1b",
+  "question": {
+    "html": "<section class=\"context\"><p>A group of students is trying to determine the density and the viscosity of a liquid.</p>\n<p>To determine the density, they use a balance to read the mass m of a sphere in air and immersed in the liquid.</p>\n<p>They use a sphere of volume V = 1.827 × 10<sup>−7</sup> m<sup>3</sup>.</p>\n<p>The readings are m<sub>air</sub> = 1.427 g in air and m<sub>lmmersed</sub> = 1.208 g in the liquid.</p>\n<p>The readings are different due to buoyancy. The buoyancy force <span class=\"math\" data-latex=\"F_{b}\"></span> is given by</p>\n<p><span class=\"math\" data-latex=\"{F}_{b} = ρ V g\"></span>,</p>\n<p>where <span class=\"math\" data-latex=\"V\"></span> is the volume of the sphere and <span class=\"math\" data-latex=\"\\rho\"></span> is the density of the liquid.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the level of precision in the measurement of m. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that <span class=\"math\" data-latex=\"F_{b}\"></span> is about 2 mN. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the density of the liquid. [2]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Draw the line of best fit on the graph. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> Outline how the students may verify that the sphere reaches terminal velocity. [1]</p></section><section class=\"question-part\" data-label=\"f\"><p><strong>f</strong> Calculate the viscosity of the liquid and its absolute uncertainty. Ignore uncertainties in the mass, radius and volume of the sphere. Give your answer in the form <span class=\"math\" data-latex=\"η±\\Deltaη\"></span>, to an appropriate number of significant figures, including units. [4]</p></section><section class=\"question-part\" data-label=\"g\"><p><strong>g</strong> Suggest a conclusion reached by the students. [1]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

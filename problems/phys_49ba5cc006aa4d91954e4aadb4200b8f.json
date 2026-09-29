@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_49ba5cc006aa4d91954e4aadb4200b8f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>B</p>\n<p>© International Baccalaureate Organization, 2026</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A train is moving in a straight line away from a stationary observer when the train horn emits a sound of frequency <span class=\"math\" data-latex=\"f_{0}\"></span>. The speed of the train is <span class=\"math\" data-latex=\"0.10v\"></span> where <span class=\"math\" data-latex=\"v\"></span> is the speed of sound. What is the frequency of the horn as heard by the observer?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{0.9}{1}f_{0}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{1.1}f_{0}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{1.1}{1}f_{0}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{0.9}f_{0}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

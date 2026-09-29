@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b1d93d6f668a880c5f0434d87a6361fb129969116c4bd5bdece1792241cc5acc.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b1d93d6f668a880c5f0434d87a6361fb129969116c4bd5bdece1792241cc5acc"
+    }
+  ],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_ca22518e71934551962529ea145f872c",
+  "level": "sl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>«16 000/(0.25 × 14) =» 4600 «Jkg<sup>−1</sup>K<sup>−1</sup>» ✔</p>\n<p>Accept unrounded answer.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 evidence of one fractional uncertainty found «0.002/0.25 or 0.5/14 or 300/16 000» ✔<br/>the three correct fractional uncertainties correctly summed «= 0.002/0.25 + 0.5/14 + 300/16 000 = 0.0625» ✔<br/>absolute uncertainty «0.0625 x 4571»=286 «J kg<sup>−1</sup>K<sup>−1</sup>» ✔   ALTERNATIVE 2</p>\n<p>evidence of max/min approach ✔<br/>maximal value = 16 300 / (13.5 × 0.248) = 4868 «J kg<sup>−1</sup>K<sup>−1</sup>»<br/>OR<br/>minimal value = 4571 «J kg<sup>−1</sup>K<sup>−1</sup>» ✔<br/>4868-4571=298 «J kg<sup>−1</sup>K<sup>−1</sup>» ✔</p>\n<p>Allow % uncertainty. Allow ECF from (a)(i). Allow ECF from MP2 to MP3.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>4600± 300 «J kg<sup>−1</sup>K<sup>−1</sup>» ✔</p>\n<p>Allow ECF from (a)(i). This mark requires 1 significant figure for uncertainty AND appropriate rounding of the heat capacity.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>water evaporated / decreasing mass<br/>OR<br/>energy transferred from the water to the surroundings<br/>OR<br/>energy transferred to the beaker / not all input energy is transferred to water ✔</p>\n<p>overestimates value/ the calculated/measured value is higher than the real value ✔</p>\n<p>For MP1, answer like the process is not 100 % efficient is not enough, we require a specific source of systematic error. We can award MP2 for such answers.</p>\n<p>If only systematic error in the any value given is correctly discussed, award MP2 only.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>An experiment is conducted to measure the specific heat capacity of water. A mass of water is placed in a glass beaker and energy is transferred from an electric heater.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The data collected are:</p>\n<p>Mass of water = (0.250 ± 0.002) kg</p>\n<p>Change in temperature of the water = (14.0 ± 0.5) °C</p>\n<p>Energy transferred from the electric heater = (16 000 ± 300) J</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Calculate the specific heat capacity of water. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Determine the absolute uncertainty in the specific heat capacity of water. [3]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Write down the specific heat capacity of water and its absolute uncertainty to the appropriate number of significant figures. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline one source of systematic error in the experiment and its effect on the calculated value of the specific heat capacity of water. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

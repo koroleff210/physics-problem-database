@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 4,
+  "id": "phys_36c6e1c9df7c45448aad37c5d1283f54",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle, travelling at <span class=\"math\" data-latex=\"20\"></span> % of the speed of light, interacts with an atom and transfers all of its energy to a photon that is emitted from the atom. The frequency of the photon is <span class=\"math\" data-latex=\"400\"></span> THz. What is the frequency when a different photon is emitted from the same atom as a result of an interaction with a particle that is travelling at <span class=\"math\" data-latex=\"10\"></span> % of the speed of light?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"100\"></span> THz</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"200\"></span> THz</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"800\"></span> THz</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"1600\"></span> THz</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

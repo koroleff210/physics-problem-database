@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_41245f43905e4374a59a9ce250fe9b5c",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Relative velocity of two objects in free fall. Two particles are released from rest in a region of space where the acceleration due to gravity is uniform. Particle A is released at time <span class=\"math\" data-latex=\"t = 0\"></span> and particle B is released at a later time <span class=\"math\" data-latex=\"t = T\"></span>. During the interval when both particles are in motion and air resistance is neglected, how does the magnitude of the velocity of particle A relative to particle B behave?</p><ol class=\"mcq-options\"><li data-label=\"A\">It is zero at all times</li><li data-label=\"B\">It remains constant and non-zero</li><li data-label=\"C\">It increases linearly with time</li><li data-label=\"D\">It increases as the square of the time elapsed</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

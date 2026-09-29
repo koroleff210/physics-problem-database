@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_563db6af941e46c1b05d7a6ece19b8ea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fifth-harmonic standing wave is formed in a pipe of length 25 cm that is closed at both ends.</p>\n<p>What two points along the pipe have a phase difference of <span class=\"math\" data-latex=\"\\pi\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">2 cm and 7 cm</li><li data-label=\"B\">4 cm and 21 cm</li><li data-label=\"C\">7 cm and 9 cm</li><li data-label=\"D\">11 cm and 14 cm</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

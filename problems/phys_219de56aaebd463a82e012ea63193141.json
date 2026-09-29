@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7ad5f5eeb695aef62b9a70c70efdaf34cff6c57dccd132684b2365b7c00a5f2a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7ad5f5eeb695aef62b9a70c70efdaf34cff6c57dccd132684b2365b7c00a5f2a"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_219de56aaebd463a82e012ea63193141",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Ball 1 is released at rest from the top of a building. At the same instant in time, Ball 2 is projected horizontally from the same height. The effect of air resistance is negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Which statement is true?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">The velocity on impact with the ground is the same for both balls.</li><li data-label=\"B\">The time taken to hit the ground is greater for Ball 2.</li><li data-label=\"C\">The speed on impact with the ground is the same for both balls.</li><li data-label=\"D\">The velocity on impact with the ground is greater for Ball 2.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

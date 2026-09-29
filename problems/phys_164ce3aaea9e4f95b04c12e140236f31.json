@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/9622772cbc170b02c6e0a97bd47fa63254362cd82525a78da404201c06bee4e1.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "9622772cbc170b02c6e0a97bd47fa63254362cd82525a78da404201c06bee4e1"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/e5f008aec4b772e7d016e4e4367f1b11038b5d447e68db2ea5fefe272460dbf9.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e5f008aec4b772e7d016e4e4367f1b11038b5d447e68db2ea5fefe272460dbf9"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_164ce3aaea9e4f95b04c12e140236f31",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"3a\"><p><strong>3a</strong></p><p></p>\n<p>The snowmobile is moving at constant speed in a straight line, so the frictional force due to the ground is equal to the driving force of the engine.</p>\n<p><span class=\"math\" data-latex=\"F_{driving} = F_{f} = N \\mu = mg \\mu = (225 + 57)(9.81)(0.12) \\approx 332\"></span> N</p>\n<p>Power delivered to the snowmobile by the engine <span class=\"math\" data-latex=\"= (332)(18) \\approx 5980\"></span> W</p>\n<p><span class=\"math\" data-latex=\"P_{in} = \\frac{5980}{0.27} \\approx 22000\"></span> W</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3b\"><p><strong>3b</strong></p><p></p>\n<p>Net force on the snowmobile while it is accelerating <span class=\"math\" data-latex=\"=(225 + 57)(3.1) \\approx 874\"></span> N</p>\n<p>Kinetic energy gained by the snowmobile = work done by the net force on the snowmobile <span class=\"math\" data-latex=\"=(874)(30) = 26220\"></span> J</p>\n<p>Initial kinetic energy of the snowmobile <span class=\"math\" data-latex=\"=\\frac{1}{2}(225 + 57)(18)^{2} \\approx 45700\"></span> J</p>\n<p>Percentage increase <span class=\"math\" data-latex=\"= \\frac{26220}{45700} \\times 100\"></span> % <span class=\"math\" data-latex=\"\\approx 57\"></span> %</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"3c\"><p><strong>3c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A snowmobile is a vehicle that, instead of wheels, has skis that help the snowmobile slide over snow and other icy surfaces. A person of mass <span class=\"math\" data-latex=\"57\"></span> kg is driving a snowmobile of mass <span class=\"math\" data-latex=\"225\"></span> kg on a horizontal, straight road at a constant speed of <span class=\"math\" data-latex=\"18\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. The dynamic friction coefficient between the road and the skis of the snowmobile is <span class=\"math\" data-latex=\"0.12\"></span>. The efficiency of the snowmobile’s engine is <span class=\"math\" data-latex=\"27\"></span> %.</p>\n<p> </p>\n<p>a. Determine the average power input to the engine.</p>\n<p>   [3]</p>\n<p>The person driving the snowmobile decides to accelerate at a rate of <span class=\"math\" data-latex=\"3.1\"></span> m s<span class=\"math\" data-latex=\"^{-2}\"></span> over a distance of <span class=\"math\" data-latex=\"30\"></span> m.</p>\n<p>b. Calculate the percentage increase in the snowmobile’s and the person’s combined kinetic energy at the end of this distance.</p>\n<p>  [3]</p>\n<p>At time <span class=\"math\" data-latex=\"t = 0\"></span> the person turns off the snowmobile’s engine and the snowmobile decelerates at a constant rate.</p>\n<p>c. Sketch how the snowmobile’s kinetic energy varies with time as the snowmobile decelerates and comes to rest at time <span class=\"math\" data-latex=\"t = T\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>    [1]</p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

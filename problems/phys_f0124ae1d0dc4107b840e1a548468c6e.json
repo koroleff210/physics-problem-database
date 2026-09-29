@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ee8be93d2927c66dffc1e303d7a824c639194deabeb715b2e91b4753d35346eb.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ee8be93d2927c66dffc1e303d7a824c639194deabeb715b2e91b4753d35346eb"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_f0124ae1d0dc4107b840e1a548468c6e",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two masses <span class=\"math\" data-latex=\"m_{1}\"></span> and <span class=\"math\" data-latex=\"m_{2}\"></span> are connected by a string over a frictionless pulley of negligible mass. The masses are released from rest. Air resistance is negligible.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Mass <span class=\"math\" data-latex=\"m_{2}\"></span> accelerates downwards at <span class=\"math\" data-latex=\"\\frac{g}{2}\"></span>. What is <span class=\"math\" data-latex=\"\\frac{m_{1}}{m_{2}}\"></span>?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{3}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\">2</li><li data-label=\"D\">3</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

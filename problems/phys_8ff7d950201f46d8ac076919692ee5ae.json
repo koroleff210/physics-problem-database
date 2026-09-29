@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_8ff7d950201f46d8ac076919692ee5ae",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>White light is incident on gas at very low pressure. The light passing through the gas is analysed.</p>\n<p>What phenomenon is being investigated?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">Absorption spectrum</li><li data-label=\"B\">Emission spectrum</li><li data-label=\"C\">Photoelectric effect</li><li data-label=\"D\">Diffraction</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

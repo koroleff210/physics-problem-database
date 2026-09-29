@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_208ec6dc8fa34204a3ba450511a92883",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A train, initially traveling at a speed of <span class=\"math\" data-latex=\"50\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>, slows down with constant deceleration. After moving <span class=\"math\" data-latex=\"160\"></span> m in a straight line, the train’s speed is reduced by <span class=\"math\" data-latex=\"40\"></span> %. How long does it take the train to reduce its speed by <span class=\"math\" data-latex=\"40\"></span> %?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"4\"></span> s</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"6\"></span> s</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"8\"></span> s</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"10\"></span> s</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

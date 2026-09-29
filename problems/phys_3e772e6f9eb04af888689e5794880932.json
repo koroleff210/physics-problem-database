@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Four answer options A to D, each showing horizontal and vertical projectile velocity graphs against time",
+      "file": "assets/d96a0006bece325134f005b6d77446962dfd5ff851df9cb737587d882f59d054.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d96a0006bece325134f005b6d77446962dfd5ff851df9cb737587d882f59d054"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_3e772e6f9eb04af888689e5794880932",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A projectile is launched at an angle above the horizontal with a horizontal component of velocity <span class=\"math\" data-latex=\"V_{h}\"></span> and a vertical component of velocity <span class=\"math\" data-latex=\"V_{v}\"></span>. Air resistance is negligible. Which graphs show the variation with time of <span class=\"math\" data-latex=\"V_{h}\"></span> and of <span class=\"math\" data-latex=\"V_{v}\"></span>? [1]</p><figure data-asset-id=\"fig_01\"><img alt=\"Four answer options A to D, each showing paired graphs of horizontal and vertical projectile velocity against time\" src=\"asset:fig_01\"/></figure><ol class=\"mcq-options\"><li data-label=\"A\">Graph option A is shown in the composite figure above.</li><li data-label=\"B\">Graph option B is shown in the composite figure above.</li><li data-label=\"C\">Graph option C is shown in the composite figure above.</li><li data-label=\"D\">Graph option D is shown in the composite figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

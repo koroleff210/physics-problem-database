@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 8,
+  "id": "phys_b0b8ff1dcc0c40da90b9f8a1746a30e2",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why the pressure exerted by a gas increases when it is heated at constant volume?</p><ol class=\"mcq-options\"><li data-label=\"A\">Molecules strike the container walls more frequently and with greater force</li><li data-label=\"B\">The number of molecules in the gas increases</li><li data-label=\"C\">The volume of the gas increases</li><li data-label=\"D\">The potential energy between molecules increases</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_4c8be2dbc2824b7096532ed51bfebc2e",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A fuel has mass density <span class=\"math\" data-latex=\"\\rho\"></span> and energy density <span class=\"math\" data-latex=\"u\"></span>. What mass of the fuel has to be burned to release thermal energy <span class=\"math\" data-latex=\"E\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{ρ E}{u}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{uE}{\\rho}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{ρ u}{E}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"ρ u E\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

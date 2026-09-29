@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/637da4b9c85ad98df881bc294e41170666dac2c492c54b63588998ffc8ad2af4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "637da4b9c85ad98df881bc294e41170666dac2c492c54b63588998ffc8ad2af4"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_0c375109a0784737b94255b61565d02b",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The variation with time of the displacement of an object is shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What are the average speed and average velocity of the object over the 10 s time interval?</p>\n<table><tbody><tr><td></td><td><p>Average speed / m s<sup>−1</sup></p></td><td><p>Average velocity / m s<sup>−1</sup><br/></p></td></tr><tr data-label=\"A\"><td><p>A.</p></td><td><p>0.8</p></td><td><p>0.8</p></td></tr><tr data-label=\"B\"><td><p>B.</p></td><td><p>0.8</p></td><td><p>1.2</p></td></tr><tr data-label=\"C\"><td><p>C.</p></td><td><p>1.2</p></td><td><p>0.8</p></td></tr><tr data-label=\"D\"><td><p>D.</p></td><td><p>1.2</p></td><td><p>1.2</p></td></tr></tbody></table>\n<p>[1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

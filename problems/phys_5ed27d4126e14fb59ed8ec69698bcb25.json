@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": null,
+  "id": "phys_5ed27d4126e14fb59ed8ec69698bcb25",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A DC source is connected to an external circuit. The table shows the rate at which energy is transferred in different parts of the circuit when a steady current of <span class=\"math\" data-latex=\"0.80\\text{ A}\"></span> flows.</p>\n<table><thead><tr><th>Location of energy transfer</th><th>Rate of transfer / W</th></tr></thead><tbody><tr><td>External components</td><td>10.5</td></tr><tr><td>Internal resistance of source</td><td>1.5</td></tr></tbody></table>\n<p>What is the electromotive force (e.m.f.) of the source?</p><ol class=\"mcq-options\"><li data-label=\"A\">1.88 V</li><li data-label=\"B\">13.1 V</li><li data-label=\"C\">15.0 V</li><li data-label=\"D\">9.60 V</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

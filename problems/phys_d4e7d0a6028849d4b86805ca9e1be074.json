@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7916d82e035149f15a119936b53e9faefa8eb8a56c7ec5ab64c11d58e6a795b5.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7916d82e035149f15a119936b53e9faefa8eb8a56c7ec5ab64c11d58e6a795b5"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_d4e7d0a6028849d4b86805ca9e1be074",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A continuous belt of width 0.60 m travels at a constant speed of 2.5 m s<sup>−1</sup>. The belt has a uniform distribution of charge of 5.0 mC m<sup>−2</sup> on its surface.</p>\n<p>As the belt passes a point all the charge is removed and is carried as a current in a wire.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the current in the wire?<br/><br/></p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">1.2 mA</li><li data-label=\"B\">7.5 mA</li><li data-label=\"C\">19 mA</li><li data-label=\"D\">21 mA</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

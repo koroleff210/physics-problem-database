@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b9d9bd1b85808cb9b7fafa5975e84eb007700b218639beb7ebeec03e9f921b56.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b9d9bd1b85808cb9b7fafa5975e84eb007700b218639beb7ebeec03e9f921b56"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ca1ca63bb7c34ad59168d36d82a4d24f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p><span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span> are the two endpoints of a rod. <span class=\"math\" data-latex=\"X\"></span> is a point on the rod between <span class=\"math\" data-latex=\"A\"></span> and <span class=\"math\" data-latex=\"B\"></span>. A constant force <span class=\"math\" data-latex=\"F\"></span> is applied to the rod at point <span class=\"math\" data-latex=\"B\"></span>, causing the rod to rotate about point <span class=\"math\" data-latex=\"B\"></span>. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>The angle between the rod and <span class=\"math\" data-latex=\"F\"></span> is <span class=\"math\" data-latex=\"\\theta\"></span>. The net torque on the rod is <span class=\"math\" data-latex=\"\\tau\"></span>.</p>\n<p>The following changes can be made to the system:</p>\n<p>I. Decrease <span class=\"math\" data-latex=\"\\theta\"></span>.</p>\n<p>II. Reverse the direction of <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>III. Move the point of application of <span class=\"math\" data-latex=\"F\"></span> from <span class=\"math\" data-latex=\"B\"></span> to <span class=\"math\" data-latex=\"X\"></span>.</p>\n<p></p>\n<p>Which of these changes will cause the magnitude of <span class=\"math\" data-latex=\"\\tau\"></span> to decrease? </p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

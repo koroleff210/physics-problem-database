@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/7a901cdd99ec6b6c49db91d08ee01367abdd43ec2ddedd275238078f2ef96d25.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "7a901cdd99ec6b6c49db91d08ee01367abdd43ec2ddedd275238078f2ef96d25"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/28d42018b90c6a86fb4fab8b0fe3e0033ca8752c1eed36004d617c1b11be1721.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "28d42018b90c6a86fb4fab8b0fe3e0033ca8752c1eed36004d617c1b11be1721"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/3348e4a1c3802f1197aaa52619d7c629662f7b65502e3318051f15206bfdfcf4.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "3348e4a1c3802f1197aaa52619d7c629662f7b65502e3318051f15206bfdfcf4"
+    }
+  ],
+  "classes": [
+    "E.3",
+    "E.4",
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_dafb4add9818480096442a01fc6ae380",
+  "level": "sl",
+  "marks": 13,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Weak nuclear: 2 ticks ✓<br/>Strong nuclear: quarks only ✓</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>«𝜇» = 2.0141 + 3.0160 − (4.0026 + 1.008665) «= 0.0188 u» OR In MeV: 1876.13415 + 2809.404 − (3728.4219 + 939.5714475) ✓   = 0.0188 × 931.5 OR = 17.512 «MeV» ✓   Must see either clear substitutions or answer to at least 3 s.f. for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>ALTERNATIVE 1 0.40 kg of deuterium is «<span class=\"math\" data-latex=\"\\frac{400}{2}\"></span> × 6.02 × 10<sup>23</sup>» = 1.2 × 10<sup>26</sup> nuclei<br/>« 0.60 kg of tritium is the same number » ✓ So specific energy «<span class=\"math\" data-latex=\"\\frac{1.2\\times 10^{26}\\times 17.51\\times 10^{6}\\times 1.6\\times 10^{-19}}{0.4+0.6}\"></span>» = 3.4 × 10<sup>14</sup> «J kg<sup>−1</sup>»   ALTERNATIVE 2 «17.51 × 10<sup>6</sup> × 1.6 × 10<sup>−19</sup> =» 2.8 × 10<sup>−12</sup> «J» AND «(2.0141 + 3.0160) × 1.66 × 10<sup>−27</sup> =» 8.35 × 10<sup>−27</sup> ✓ «<span class=\"math\" data-latex=\"\\frac{2.8\\times 10^{-12}}{8.35\\times 10^{-37}}\"></span>» = 3.4 × 10<sup>14</sup> «J kg<sup>−1</sup>»   Allow ∼2.1 × 10<sup>27</sup> MeV kg<sup>−1</sup> for MP2. Allow ECF from MP1 for both ALTs.</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>Requires high temp/pressure ✓<br/>Must overcome Coulomb/intermolecular repulsion ✓<br/>Difficult to contain / control «at high temp/pressure» ✓<br/>Difficult to produce excess energy/often energy input greater than output / OWTTE ✓<br/>Difficult to capture energy from fusion reactions ✓<br/>Difficult to maintain/sustain a constant reaction rate ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Plentiful fuel supplies OR larger specific energy OR larger energy density OR little or no «major radioactive» waste products ✓   Allow descriptions such as “more energy per unit mass” or “more energy per unit volume”</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>3 ✓   Do not accept <span class=\"math\" data-latex=\"_{ }^{ }e\"></span> by itself.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p>Proton shown ✓ W- shown ✓ Produces electron/e<sup>−</sup> / 𝛽<sup>−</sup> and antineutrino / <span class=\"math\" data-latex=\"v\"></span> with proper arrow directions. ✓    Allow solid, dashed, or wavy line for W-particle. Must see bar on antineutrino if symbol used.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p><p>Identify with ticks [✓] in the table, the forces that can act on electrons and the forces that can act on quarks.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The following data is available for atomic masses for the fusion reaction</p>\n<p><sup>2</sup><sub>1</sub>H + <sup>3</sup><sub>1</sub>H → <sup>4</sup><sub>2</sub>He + <sup>1</sup><sub>0</sub>n:</p>\n<table><tbody><tr><td><p><sup>2</sup><sub>1</sub>H</p></td><td><p>2.0141 u</p></td></tr><tr><td><p><sup>3</sup><sub>1</sub>H</p></td><td><p>3.0160 u</p></td></tr><tr><td><p><sup>4</sup><sub>2</sub>He</p></td><td><p>4.0026 u</p></td></tr></tbody></table><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the energy released is about 18 MeV. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Estimate the specific energy of hydrogen by finding the energy produced when 0.4 kg of <sup>2</sup><sub>1</sub>H and 0.6 kg of <sup>3</sup><sub>1</sub>H undergo fusion. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>It is hoped that nuclear fusion can be used for commercial production of energy.</p>\n<p>Outline</p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> two difficulties of energy production by nuclear fusion. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> one advantage of energy production by nuclear fusion compared to nuclear fission. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> Tritium (<sup>3</sup><sub>1</sub>H) is unstable and decays into an isotope of helium (He) by beta minus decay with a half-life of 12.3 years.</p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> State the nucleon number of the He isotope that <sup>3</sup><sub>1</sub>H decays into. [1]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> </p><p>The following diagram is an incomplete Feynman diagram describing the beta minus decay of <sup>3</sup><sub>1</sub>H into He. Complete the diagram and label all the missing particles.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

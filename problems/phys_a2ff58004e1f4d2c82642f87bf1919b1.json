@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": null,
+  "id": "phys_a2ff58004e1f4d2c82642f87bf1919b1",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A small stone is released from rest and falls a vertical distance <span class=\"math\" data-latex=\"s\"></span> in time <span class=\"math\" data-latex=\"t\"></span>. If air resistance is negligible, what is the total vertical distance fallen by the stone from rest in a time of <span class=\"math\" data-latex=\"3t\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"3s\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"6s\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"9s\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"27s\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

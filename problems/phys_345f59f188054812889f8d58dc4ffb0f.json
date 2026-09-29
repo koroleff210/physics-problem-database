@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_345f59f188054812889f8d58dc4ffb0f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why the surface temperature of Venus is significantly higher than that of Earth, despite a similar solar constant?</p><ol class=\"mcq-options\"><li data-label=\"A\">Venus has a larger surface area than Earth.</li><li data-label=\"B\">Venus has a much higher albedo than Earth.</li><li data-label=\"C\">Venus has a denser atmosphere rich in greenhouse gases.</li><li data-label=\"D\">Venus rotates more slowly than Earth.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

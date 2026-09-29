@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_9970b1ebacfa4a09a9673633d6991299",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The relative speed of reference frame <span class=\"math\" data-latex=\"S\"></span> and <span class=\"math\" data-latex=\"S'\"></span> is <span class=\"math\" data-latex=\"0.70c\"></span>. The Lorentz factor for this relative speed is <span class=\"math\" data-latex=\"1.4\"></span>. Frame <span class=\"math\" data-latex=\"S'\"></span> is moving in the direction of the positive <span class=\"math\" data-latex=\"x\"></span>-axis of frame <span class=\"math\" data-latex=\"S\"></span>. At <span class=\"math\" data-latex=\"t = 0\"></span> the origins of the two frames coincide. The spacetime coordinates of events P and Q as measured in frame <span class=\"math\" data-latex=\"S\"></span> are as follows:</p>\n<p>Event P: <span class=\"math\" data-latex=\"x_{P} = 110\\;\\textup{m}\"></span>, <span class=\"math\" data-latex=\"y_{P} = z_{P} = 0\"></span>, <span class=\"math\" data-latex=\"t_{P} = 0.75\\;\\mu \\textup{s}\"></span></p>\n<p>Event Q: <span class=\"math\" data-latex=\"x_{Q} = 160\\;\\textup{m}\"></span>, <span class=\"math\" data-latex=\"y_{Q} = z_{Q} = 0\"></span>, <span class=\"math\" data-latex=\"t_{Q} = 0.85\\;\\mu \\textup{s}\"></span></p>\n<p>What is the best estimate for the distance between events P and Q as measured in frame <span class=\"math\" data-latex=\"S'\"></span>?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"25\\;\\textup{m}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"35\\;\\textup{m}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"41\\;\\textup{m}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"46\\;\\textup{m}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

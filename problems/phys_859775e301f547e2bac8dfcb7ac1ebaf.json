@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 5,
+  "id": "phys_859775e301f547e2bac8dfcb7ac1ebaf",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A mass is suspended by a rope and pulled sideways by a horizontal force until the rope makes an angle of <span class=\"math\" data-latex=\"25^\\circ\"></span> to the vertical. Which of the following free-body diagrams best represents the forces acting on the mass?</p><ol class=\"mcq-options\"><li data-label=\"A\">Tension diagonally up, weight down, horizontal force to right</li><li data-label=\"B\">Weight up, tension down, horizontal force to right</li><li data-label=\"C\">Weight down, tension to left, horizontal force to right</li><li data-label=\"D\">Tension vertically up, weight down, no horizontal force</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

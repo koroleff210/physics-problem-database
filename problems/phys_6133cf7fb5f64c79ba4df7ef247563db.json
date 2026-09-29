@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f99081b8a2190334bbe98bfefb75fd2d3eeba46123b4de933b09382a1cdeae47.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f99081b8a2190334bbe98bfefb75fd2d3eeba46123b4de933b09382a1cdeae47"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/8cb52af04e23f2d6946aa4ea2b650d062dee663d9ae91f9373072b241fcfc4fb.jpg",
+      "id": "fig_02",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "8cb52af04e23f2d6946aa4ea2b650d062dee663d9ae91f9373072b241fcfc4fb"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/59eaae36240a06f792c26df8122cc07b702f09ea526eacf35032a9ebf2e4c391.jpg",
+      "id": "fig_03",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "59eaae36240a06f792c26df8122cc07b702f09ea526eacf35032a9ebf2e4c391"
+    },
+    {
+      "alt": "Source question diagram 4",
+      "file": "assets/3e430137a2e91cddb4d57f32d3db01c32183697febc0bcaaee337722f28f08f6.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3e430137a2e91cddb4d57f32d3db01c32183697febc0bcaaee337722f28f08f6"
+    }
+  ],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_6133cf7fb5f64c79ba4df7ef247563db",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A body moves in simple harmonic motion (SHM). At time <span class=\"math\" data-latex=\"t = 0\"></span>, the displacement is zero and the body is moving in the positive direction.</p>\n<p>Which graph correctly shows the variation of the body's kinetic energy <span class=\"math\" data-latex=\"E_k\"></span> with time?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></li><li data-label=\"B\"><p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p></li><li data-label=\"C\"><p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p></li><li data-label=\"D\"><p><figure data-asset-id=\"fig_04\"><img alt=\"Source question diagram 4\" src=\"asset:fig_04\"/></figure></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_12f94a921dd846e4962c2ffc5da2a779",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The albedo of a planet with no atmosphere is 0.25. The reflected intensity is 240 W m<sup>−2</sup>.</p>\n<p>What is the outgoing radiated intensity?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\">180 W m<sup>−2</sup></li><li data-label=\"B\">300 W m<sup>−2</sup></li><li data-label=\"C\">720 W m<sup>−2</sup></li><li data-label=\"D\">960 W m<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

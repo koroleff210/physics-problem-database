@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_bf2b4bd2f2a44ac9acc838e1ededdc1f",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A student investigates the photoelectric effect by illuminating a metal surface with monochromatic light of two different frequencies <span class=\"math\" data-latex=\"f\"></span>. The table shows the recorded values for the maximum kinetic energy <span class=\"math\" data-latex=\"E_{max}\"></span> of the emitted photoelectrons.</p>\n<table><thead><tr><th><span class=\"math\" data-latex=\"f\"></span> / <span class=\"math\" data-latex=\"10^{14}\"></span> Hz</th><th><span class=\"math\" data-latex=\"E_{max}\"></span> / <span class=\"math\" data-latex=\"10^{-19}\"></span> J</th></tr></thead><tbody><tr><td>5.0</td><td>1.0</td></tr><tr><td>15.0</td><td>7.6</td></tr></tbody></table>\n<p>Based on these data, which of the following is the best estimate for the work function of the metal?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.0 \\times 10^{-19}\"></span> J</p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2.3 \\times 10^{-19}\"></span> J</p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"3.3 \\times 10^{-19}\"></span> J</p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.3 \\times 10^{-19}\"></span> J</p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_2d5233791fc8483e93da9a308c046e8a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A horizontal force <span class=\"math\" data-latex=\"F\"></span> acts on a sphere. A horizontal resistive force <span class=\"math\" data-latex=\"kv^{2}\"></span> acts on the sphere where <span class=\"math\" data-latex=\"v\"></span> is the speed of the sphere and <span class=\"math\" data-latex=\"k\"></span> is a constant. What is the terminal velocity of the sphere?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{k}{F}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{k}{F}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{F}{k}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\sqrt{\\frac{F}{k}}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

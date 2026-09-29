@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/2a1fb0a2589a387a7d8d69d075af1d65f86882803392388155892a4d93a4094f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "2a1fb0a2589a387a7d8d69d075af1d65f86882803392388155892a4d93a4094f"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_2f621e0464f2408cb9994d510d2c196d",
+  "level": "sl",
+  "marks": 6,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>kg m s<sup>−2</sup> A<sup>−2</sup> ✓</p>\n<p>A long straight wire carries a current of 2.0 A. A square conducting loop ABCD of side length 0.20 m is placed near the straight wire, with side AB at a distance of 0.30 m from the wire. There is a current of 1.0 A in the loop. The directions of the currents are shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source markscheme diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Into the page ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>Repulsive / to the right ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{4\\pi\\times 10^{-7}\\times 2.0\\times 1.0}{2\\pi\\times 0.30}-\\frac{4\\pi\\times 10^{-7}\\times 2.0\\times 1.0}{2\\pi\\times 0.50}\\times 0.20\"></span> ✓ <span class=\"math\" data-latex=\"1.1\\times 10^{-7}\"></span> «N»  ✓</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>Repulsive / to the right ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> State the fundamental SI units for permeability of free space, <span class=\"math\" data-latex=\"μ_{0}\"></span>. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the direction, due to the current in the straight wire, of the</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> magnetic field at A; [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> magnetic force on section AB of the loop. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine the</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> magnitude of the net force acting on the loop; [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> direction of the net force acting on the loop. [1]</p></section><p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

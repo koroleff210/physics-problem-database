@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ed54674881b444ecb931ffef9a9c012b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>What are the fundamental SI units for angular impulse?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">kg m s<sup>−1</sup></li><li data-label=\"B\">kg m<sup>2</sup> s<sup>−1</sup></li><li data-label=\"C\">kg m s<sup>−2</sup></li><li data-label=\"D\">kg m<sup>2</sup> s<sup>−2</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

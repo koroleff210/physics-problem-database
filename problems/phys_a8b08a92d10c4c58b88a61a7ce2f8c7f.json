@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/92093d0a77d61d3e420108fb5dd605f0af4af5d1ee322354eca243bf2361e890.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "92093d0a77d61d3e420108fb5dd605f0af4af5d1ee322354eca243bf2361e890"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/e291f231aa3875778a70fffda18255a62ec1b462c8221b32c568922f634e79f8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "e291f231aa3875778a70fffda18255a62ec1b462c8221b32c568922f634e79f8"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_a8b08a92d10c4c58b88a61a7ce2f8c7f",
+  "level": "sl_hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"11a\"><p><strong>11a</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"_{\\, \\, \\, 90}^{231}\\textrm{Th} \\rightarrow _{\\, \\, \\, 89}^{231}\\textrm{Ac} + _{+1}^{\\, \\, \\, \\, 0}\\textrm{e} + _{0}^{0}\\textrm{}{v}_{e}\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11b\"><p><strong>11b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"25-26\"></span> hours</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"11c\"><p><strong>11c</strong></p><p> </p>\n<p>\n<figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure>\n</p>\n<p> </p></section><section class=\"markscheme-part\" data-label=\"11d\"><p><strong>11d</strong></p><p></p>\n<p>Mass of thorium in the sample after two days: <span class=\"math\" data-latex=\"160\"></span> g</p>\n<p>The atomic mass of thorium in this sample is <span class=\"math\" data-latex=\"231\"></span> g</p>\n<p>Number of moles of thorium nuclides after two days: <span class=\"math\" data-latex=\"\\frac{160}{231} \\approx 0.693\"></span></p>\n<p><span class=\"math\" data-latex=\"N = (6.02 \\times 10^{23})(0.693) \\approx 4.2 \\times 10^{23}\"></span></p>\n<p> </p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>Thorium decays into actinium through positive beta <span class=\"math\" data-latex=\"(\\beta^{+})\"></span> decay. </p>\n<p>a. Complete the equation for this decay.</p>\n<p><span class=\"math\" data-latex=\"_{\\square}^{\\square}\\textrm{Th} \\rightarrow _{\\, \\, \\, 89}^{231}\\textrm{Ac} + _{\\square}^{\\square}\\textrm{e} + \\square\"></span></p>\n<p>   [2]</p>\n<p>The graph shows how the mass of thorium remaining in a sample varies with time.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>b. State the half-life of thorium.</p>\n<p>   [1]</p>\n<p>c. Sketch on the graph how the mass of actinium varies with time in the sample.</p>\n<p>   [2]</p>\n<p>d. Estimate the number of thorium nuclides in the sample after two days.</p>\n<p>  [2]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

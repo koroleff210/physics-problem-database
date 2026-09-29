@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/62063dbc194717a2da66f38a73ab62a44e36c1bb092b43302a6e97d8f5f20573.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "62063dbc194717a2da66f38a73ab62a44e36c1bb092b43302a6e97d8f5f20573"
+    }
+  ],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_a98e858511bf40aba85f110d594c6819",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The diagram shows electrical equipotential lines. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the work done by the electric field when a negative ion with a charge of <span class=\"math\" data-latex=\"-40\"></span> nC moves from point A to point B?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.024\"></span> J</li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.24\"></span> J</li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"-0.024\"></span> J</li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"-0.24\"></span> J</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_f1b0b3d54ac746e1a128a1b32ec133ea",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An ice block with a mass of <span class=\"math\" data-latex=\"0.50\\:\\textup{kg}\"></span> and at a temperature of <span class=\"math\" data-latex=\"0\\:{}^{\\circ}\\textup{C}\"></span> is placed outdoors on a day when air temperature is <span class=\"math\" data-latex=\"20\\:{}^{\\circ}\\textup{C}\"></span>. The ice block melts completely. The specific latent heat of fusion of ice is <span class=\"math\" data-latex=\"336\\:\\textup{kJ\\,kg}^{-1}\"></span>.</p>\n<p>What is the best estimate for the change in entropy of the ice-air system as the ice block melts?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"42\\:\\textup{J\\,K}^{-1}\"></span> </li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"46\\:\\textup{J\\,K}^{-1}\"></span> </li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"570\\:\\textup{J\\,K}^{-1}\"></span> </li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"620\\:\\textup{J\\,K}^{-1}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/49e638a93fcacf2b87a5620058e21c56e88151845099e80c1c6301131441d570.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "49e638a93fcacf2b87a5620058e21c56e88151845099e80c1c6301131441d570"
+    }
+  ],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_f63f2baaf98b4dcdb2a2289ac9641c5f",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two particles, <span class=\"math\" data-latex=\"X\"></span> and <span class=\"math\" data-latex=\"Y\"></span>, with the same electric charge enter a region of uniform magnetic field <span class=\"math\" data-latex=\"B\"></span> with the same kinetic energy. The magnetic field is perpendicular to the initial velocity of the particles. The diagram shows the semi-circular paths of the particles within the field.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The radius of the path for particle <span class=\"math\" data-latex=\"Y\"></span> is twice the radius of the path for particle <span class=\"math\" data-latex=\"X\"></span>. What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{mass of particle } Y}{\\text{mass of particle } X}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

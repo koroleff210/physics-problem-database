@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/0bce48c7b216b0033c938cd47d36b1567babe9e7dfd8a63af2263dae950f5e40.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0bce48c7b216b0033c938cd47d36b1567babe9e7dfd8a63af2263dae950f5e40"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_f163db4afbbc4b44b502afd4665f7479",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"\\frac{-0.75 - 0.6}{1 + 0.75 \\times  0.6}c\"></span> ✔ −0.93<span class=\"math\" data-latex=\"c\"></span> ✔</p>\n<p>The particles were emitted at the same time according to observer X at rest with respect to the ground. Another observer, Y, is moving parallel to the ground.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Δt' = γ <span class=\"math\" data-latex=\"( 0   -   \\frac{v Δ x}{{c}^{2}} )\"></span>OR mention of gamma factor for Y with respect to ground ✔</p>\n<p>Conclude ∆t ′ ≠ 0 , meaning that the particles were not emitted at the same time ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The diagram below shows two particles travelling in opposite directions above the ground.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The velocity with respect to the ground of particle A is 0.6<span class=\"math\" data-latex=\"c\"></span> and the velocity of particle B with respect to the ground is –0.75<span class=\"math\" data-latex=\"c\"></span>.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the velocity of particle B according to particle A. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Show that the particles are not emitted simultaneously in the frame of observer Y, according to the Lorentz transformation equations. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/82b0799cd35ccb46a879f9b102c52517ade31a34ed15e4e4ceec34e86517bf02.jpg",
+      "id": "fig_01",
+      "media_type": "image/jpeg",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "82b0799cd35ccb46a879f9b102c52517ade31a34ed15e4e4ceec34e86517bf02"
+    }
+  ],
+  "classes": [
+    "A.3"
+  ],
+  "difficulty": 5,
+  "id": "phys_6adf2c68b9454dce9d624787a998dd3a",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A block slides down a smooth inclined plane from height <span class=\"math\" data-latex=\"H\"></span> to height <span class=\"math\" data-latex=\"h\"></span>, as shown.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Assuming no friction, what is the work done by the gravitational force on the block during the motion?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"mgx\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"mg(H - h)\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"mg(H + h)\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"mgH\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

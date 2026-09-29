@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_2c7fa809f3b1442ba7a57fa92a1fae80",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>How do molecules such as methane and carbon dioxide contribute to the greenhouse effect in the atmosphere?</p><ol class=\"mcq-options\"><li data-label=\"A\">They absorb long-wavelength radiation from the Earth and re-radiate it in all directions</li><li data-label=\"B\">They reflect high-energy ultraviolet radiation from the Sun before it reaches the surface</li><li data-label=\"C\">They act as a catalyst for the exothermic combustion of nitrogen in the air</li><li data-label=\"D\">They trap warm air particles near the ground and prevent them from rising via convection</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

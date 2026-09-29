@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/5afa45cd9629117f23112d9c28b66af85450bc9125534172203d2dce0f3c3f8a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "5afa45cd9629117f23112d9c28b66af85450bc9125534172203d2dce0f3c3f8a"
+    }
+  ],
+  "classes": [
+    "C.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_14591b00520942fd9c074bf41b7f66e1",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A wave travels along a string. Graph M shows the variation with time of the displacement of a point X on the string. Graph N shows the variation with distance of the displacement of the string. PQ and RS are marked on the graphs.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the speed of the wave?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{PQ}{RS}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"PQ\\times RS\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\frac{RS}{PQ}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"\\frac{1}{PQ\\times RS}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

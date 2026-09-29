@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_aa4f1332e091402fa8a7e31bc978a504",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Two identical simple pendulums, <span class=\"math\" data-latex=\"P\"></span> and <span class=\"math\" data-latex=\"Q\"></span>, oscillate with amplitude <span class=\"math\" data-latex=\"A\"></span> and period <span class=\"math\" data-latex=\"T\"></span>. At <span class=\"math\" data-latex=\"t = 0\"></span>, pendulum <span class=\"math\" data-latex=\"P\"></span> is at its maximum positive displacement and pendulum <span class=\"math\" data-latex=\"Q\"></span> is at its maximum negative displacement.</p>\n<p>Which row correctly identifies the total distance travelled by the bob of pendulum <span class=\"math\" data-latex=\"P\"></span> during one complete period and the phase difference between the two oscillations?</p>\n<table><thead><tr><th></th><th>Total distance travelled <br/> in one period</th><th>Phase difference / rad</th></tr></thead><tbody><tr data-label=\"A\"><td>A.</td><td><span class=\"math\" data-latex=\"2A\"></span></td><td><span class=\"math\" data-latex=\"\\pi\"></span></td></tr><tr data-label=\"B\"><td>B.</td><td><span class=\"math\" data-latex=\"4A\"></span></td><td><span class=\"math\" data-latex=\"\\pi\"></span></td></tr><tr data-label=\"C\"><td>C.</td><td><span class=\"math\" data-latex=\"2A\"></span></td><td><span class=\"math\" data-latex=\"2\\pi\"></span></td></tr><tr data-label=\"D\"><td>D.</td><td><span class=\"math\" data-latex=\"4A\"></span></td><td><span class=\"math\" data-latex=\"2\\pi\"></span></td></tr></tbody></table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

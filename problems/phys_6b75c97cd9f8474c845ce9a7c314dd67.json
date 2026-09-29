@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_6b75c97cd9f8474c845ce9a7c314dd67",
+  "level": "hl",
+  "marks": 7,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>The energy of the electron is discrete/quantized ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATE 1 <span class=\"math\" data-latex=\"v\"></span> ∝ <span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{r}}\"></span> ✔ Leading to <span class=\"math\" data-latex=\"\\frac{v_{2}}{v_{1}}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{4}}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> ✔   ALTERNATE 2 E<sub>k</sub> = −E<sub>T</sub> = <span class=\"math\" data-latex=\"\\frac{13.6}{n^{2}}\"></span> «eV» ⇒ <span class=\"math\" data-latex=\"\\frac{\\frac{1}{2}mv_{2}^{2}}{\\frac{1}{2}mv_{1}^{2}}\"></span> = <span class=\"math\" data-latex=\"\\frac{\\frac{13.6}{4}}{\\frac{13.6}{1}}\"></span>= <span class=\"math\" data-latex=\"\\frac{1}{4}\"></span> ✔ Leading to <span class=\"math\" data-latex=\"\\frac{v_{2}}{v_{1}}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{4}}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> ✔   ALTERNATE 3 Use of quantization condition: <span class=\"math\" data-latex=\"\\frac{mv_{2}r_{2}}{mv_{1}r_{1}}\"></span> = <span class=\"math\" data-latex=\"\\frac{2 \\times  h}{1 \\times  h}\"></span> ✔ <span class=\"math\" data-latex=\"\\frac{v_{2}}{v_{1}}\"></span> = 2 × <span class=\"math\" data-latex=\"\\frac{1}{4}\"></span> = <span class=\"math\" data-latex=\"\\frac{1}{2}\"></span> ✔</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>The Bohr model predicts a specific orbit radius for each level/state ✔ The wavefunction assigns a probability «distribution» for the electron to be at various distances from the nucleus «for each level/state»<br/>OR<br/>the Bohr radius is the most likely electron distance «from the nucleus» ✔</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025).<br/>Δp =« <span class=\"math\" data-latex=\"\\frac{h}{4 π Δ x}\"></span> =» <span class=\"math\" data-latex=\"\\frac{6.63 \\times  10^{-34}}{4\\pi \\times  3 \\times  10^{-15}}\"></span> «= 1.76 × 10<sup>−20</sup>» «Ns» ✔</p>\n<p>E<sub>k</sub> =« <span class=\"math\" data-latex=\"\\frac{{( Δ p )}^{2}}{2 {m}_{n}}\"></span> = <span class=\"math\" data-latex=\"\\frac{{( 1.76   \\times  {10}^{- 20} )}^{2}}{2   \\times    1.67   \\times    {10}^{- 27}}\"></span> =» 9.2 × 10<sup>−14</sup> OR 9.3 × 10<sup>−14</sup> «J» or 0.58 «MeV» ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> In the Bohr model for the hydrogen atom orbital angular momentum is quantized <span class=\"math\" data-latex=\"mvr = n\\frac{h}{2\\pi}\"></span> . Outline the effect this has on the electron energy. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> For the hydrogen atom, the orbit radius of the electron in the <span class=\"math\" data-latex=\"n\"></span> = 2 state is four times larger than the orbit radius in the <span class=\"math\" data-latex=\"n\"></span> = 1 state. Determine the ratio <span class=\"math\" data-latex=\"\\frac{v_{2}}{v_{1}}\"></span> of the electron speed in the <span class=\"math\" data-latex=\"n\"></span> = 2 state to the speed in the <span class=\"math\" data-latex=\"n\"></span> = 1. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Compare and contrast the Bohr prediction for the radius of an electron orbit in hydrogen to that of the description of the electron in terms of a wave function. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Determine, using the uncertainty principle, the minimum kinetic energy of a neutron inside a nucleus of radius 3 × 10<sup>−15</sup> m. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

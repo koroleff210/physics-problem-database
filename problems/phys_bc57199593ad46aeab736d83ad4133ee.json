@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_bc57199593ad46aeab736d83ad4133ee",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A restoring force acts on an object that performs simple harmonic motion (SHM) about a fixed point. What is correct about the direction of the restoring force and the direction of the object’s velocity?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Never opposite</li>\n<li data-label=\"B\">Always opposite</li>\n<li data-label=\"C\">Opposite for half of a period</li>\n<li data-label=\"D\">Opposite for a quarter of a period.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

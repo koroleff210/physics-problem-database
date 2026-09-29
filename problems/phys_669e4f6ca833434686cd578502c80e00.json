@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_669e4f6ca833434686cd578502c80e00",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A photon of frequency <span class=\"math\" data-latex=\"f\"></span> scatters off a stationary electron. </p>\n<p>What type of energy is gained by the electron and what is true about the frequency of the photon after the scattering?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Type of energy gained by the electron</strong></p>\n</td>\n<td>\n<p><strong>Frequency of the photon after the scattering</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td>\n<p><strong>A.</strong></p>\n</td>\n<td>\n<p>light energy</p>\n</td>\n<td>\n<p>Greater than <span class=\"math\" data-latex=\"f\"></span></p>\n</td>\n</tr>\n<tr data-label=\"B\">\n<td>\n<p><strong>B.</strong></p>\n</td>\n<td>\n<p>kinetic energy</p>\n</td>\n<td>\n<p>Greater than <span class=\"math\" data-latex=\"f\"></span></p>\n</td>\n</tr>\n<tr data-label=\"C\">\n<td>\n<p><strong>C.</strong></p>\n</td>\n<td>\n<p>light energy</p>\n</td>\n<td>\n<p>Less than <span class=\"math\" data-latex=\"f\"></span></p>\n</td>\n</tr>\n<tr data-label=\"D\">\n<td>\n<p><strong>D.</strong></p>\n</td>\n<td>\n<p>kinetic energy</p>\n</td>\n<td>\n<p>Less than <span class=\"math\" data-latex=\"f\"></span></p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

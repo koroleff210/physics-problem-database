@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2",
+    "E.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_0a2ae7ec045b4949b005be9d6a151b75",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Strong nuclear force ✓ <br/>Allow strong force.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>ALTERNATIVE 1 Protons repel each other so no nuclei could form ✓ Unless an attractive force exists to overcome this repulsion ✓   ALTERNATIVE 2 Deviation from Rutherford scattering / drop off of scattering at high energies (≥28 MeV) ✓ This is due to strong nuclear force acting on alpha particle ✓   ALTERNATIVE 3 The binding energy per nucleon is mostly constant above a certain point (A~60) ✓ this is the consequence of an attractive «short range» force ✓   ALTERNATIVE 4 Most nuclei have large binding energies ✓ Indicating that a strong force keeps nucleons together ✓ <br/>MP1 is required to award MP2</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p><span class=\"math\" data-latex=\"_{ }^{ } → _{ }^{ }\"></span> ✓ <span class=\"math\" data-latex=\"+ _{-1}^{ }+v\"></span> both shown ✓</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"\\lambda=\\frac{h}{mv}=\\frac{6.63\\times 10^{-34}}{9.11\\times 10^{-31}580}=1.3\\times 10^{-6} m\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p><span class=\"math\" data-latex=\"\\lambda=\\frac{In 2}{1.28\\times 10^{9}365243600}=1.72\\times 10^{-17} s^{-1}\"></span> ✓ <br/>Must see full substitution   OR   answer to 3 (or more) significant figures.</p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"N_{0}=\\frac{5}{39.1}\\times 0.00012\\times 6.02\\times 10^{23}=9.24\\times 10^{18}\"></span> ✓ <span class=\"math\" data-latex=\"{A}_{0} = λ {N}_{0} = ( 1.72 \\times  {10}^{- 17} ) ( 9.24 \\times  {10}^{18} ) = 159 \\, B q\"></span> ✓</p></section><section class=\"markscheme-part\" data-label=\"c.iii\"><p><strong>c.iii</strong></p><p>ALTERNATIVE 1 0.98 = e<sup>–</sup><sup>λt</sup> ✓ ln (0.98)= –(1.72 × 10<sup>–17</sup>)t  to give  t = 1.2 × 10<sup>15</sup> s   or   3.7 × 10<sup>7</sup> years ✓   ALTERNATIVE 2 <span class=\"math\" data-latex=\"0.98=\\frac{1}{2}^{n}\"></span> ✓ <span class=\"math\" data-latex=\"n=\\frac{\\textit{ln 0.98}}{\\textit{ln 0.50}}=0.029\"></span>  to give  t = (1.28 × 10<sup>9</sup>)(0.029) = 3.7 × 10<sup>7</sup> years ✓</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A short-range attractive force operates between nucleons.</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the name of this force. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> State and explain one piece of evidence that suggests the presence of this force. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Radioactive potassium-40 <sup>40</sup><sub>19</sub>K undergoes β<sup>–</sup> decay to form a nuclide of calcium (Ca).</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> </p><p>Write down the complete equation for this radioactive decay.</p>\n<p><span class=\"math\" data-latex=\"_{ }^{ } →\"></span></p><p>[2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> </p><p>In one decay, a negative beta particle is emitted at a speed of 580 m s<sup>–1</sup>.</p>\n<p>Calculate the de Broglie wavelength of the beta particle.</p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> A sample of potassium has a mass of 5.00 g. The sample contains 0.012% of potassium-40 by mass. The remainder of the sample is a stable nuclide of potassium. The half-life of potassium-40 is 1.28 × 10<sup>9</sup> years.</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Show that the decay constant of potassium-40 is about 1.7 × 10<sup>–17</sup> s<sup>–1</sup>. [1]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> </p><p>The mass of one mole of potassium is 39.1 g mol<sup>–1</sup>.</p>\n<p>Determine the initial activity of the sample.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"c.iii\"><p><strong>c.iii</strong> Estimate the time taken for the potassium-40 to decrease to 98% of the initial amount. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

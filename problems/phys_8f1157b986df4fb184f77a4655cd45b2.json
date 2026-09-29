@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/090bcbfc477b0563f0d1da10bc9c4c77cb8cc650031e06e189333a160b0c271e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "090bcbfc477b0563f0d1da10bc9c4c77cb8cc650031e06e189333a160b0c271e"
+    },
+    {
+      "alt": "Source markscheme diagram 2",
+      "file": "assets/539bc2536b8d653b4315fd2fc4d5c62c5cbd38cf13ce44173f472463451f2308.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "539bc2536b8d653b4315fd2fc4d5c62c5cbd38cf13ce44173f472463451f2308"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/f34bef9eac480822a22acb2e279006cd93d3465687f1c7aba441570b83a299a1.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "f34bef9eac480822a22acb2e279006cd93d3465687f1c7aba441570b83a299a1"
+    }
+  ],
+  "classes": [
+    "A.2",
+    "B.1",
+    "C.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_8f1157b986df4fb184f77a4655cd45b2",
+  "level": "sl",
+  "marks": 20,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>Weight and Buoyancy drawn in proper directions (by eye) and correctly identified ✓   Allow any sensible identification of the forces (e.g. mg for F<sub>g</sub>) Do not allow “gravity” for weight.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>Weight = <span class=\"math\" data-latex=\"\\rho_{C}⋅A⋅H⋅g\"></span> OR Buoyancy = <span class=\"math\" data-latex=\"\\rho_{W}⋅A⋅D⋅g\"></span> ✓ <span class=\"math\" data-latex=\"\\rho_{C}⋅A⋅H⋅g=\\rho_{W}⋅A⋅D⋅g\"></span> ✓ «algebraic manipulation to show the relationship»</p>\n<p>The cork is displaced downward by a force. It is then released and it oscillates.</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>When cork is released, upthrust/buoyant force is larger than weight<br/>OR<br/>buoyant force is increased when cork submerged. ✓ «net» force/acceleration is proportional to displacement<br/>OR<br/>quotes a = «−» ω<sup>2</sup>x OR a ∝ «−» x ✓ «net» force/acceleration is in opposite direction of displacement<br/>OR<br/>«net» force/acceleration is directed towards equilibrium ✓</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>solid state volume is less than liquid state OR molecules/particles/atoms are closer in solids so volume is smaller ✓ Same mass in smaller volume «so larger density» OR More mass per unit volume ✓</p>\n<p>Water shows an anomaly with respect to what is stated in (c)(i).</p>\n<p>Graph 1 shows the variation with temperature of the density of water between −100 °C and 100 °C. Graph 2 shows the same graph enlarged for the range 0 to 10 °C.</p>\n<p>Graph 1</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source markscheme diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>Graph 2</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p>4 «°C» ✓   Allow 3.9 °C − 4.1 °C. Accept answer in Kelvin (e.g. 277 K) if proper unit shown.</p></section><section class=\"markscheme-part\" data-label=\"d.i\"><p><strong>d.i</strong></p><p>«(H −32 ) / H = 920 / 1030 so» H = 300 «m» OR D = 268 «m» ✓ m = 920 × 300 × 4200 OR 1.16 × 10<sup>9</sup> «kg» ✓   Must see either full substitution or answer to 3 or more significant figures.</p>\n<p>The designers assume that the mass of the ship is about <span class=\"math\" data-latex=\"\\frac{1}{40}\"></span> the mass of the iceberg and is moving at 12 m s<sup>−1</sup> when it collides with the iceberg. They stick together after the collision.</p></section><section class=\"markscheme-part\" data-label=\"d.ii\"><p><strong>d.ii</strong></p><p><span class=\"math\" data-latex=\"\\frac{1}{40}m 12=\\frac{1}{40}m+mv\"></span> ✓ <span class=\"math\" data-latex=\"v\"></span> = 0.29 «m s<sup>−1</sup>» ✓</p>\n<p>Ice in a still lake will usually form in a single layer on the surface.</p></section><section class=\"markscheme-part\" data-label=\"e.i\"><p><strong>e.i</strong></p><p>use of ΔT = 6 «°C» ✓ <span class=\"math\" data-latex=\"\\frac{Δ Q}{Δ t   A} =\"></span>«<span class=\"math\" data-latex=\"\\frac{2.3⋅6}{0.019}=\"></span>»<span class=\"math\" data-latex=\"730\"></span> «<span class=\"math\" data-latex=\"W m^{-2}\"></span>» ✓</p></section><section class=\"markscheme-part\" data-label=\"e.ii\"><p><strong>e.ii</strong></p><p>m = (ρA)(22) = (1000)(A)(22) = 22 000A AND ΔT = 2 «°C» ✓ Q/A = «mcΔT» = (22)(1000)(4200 * 2) =1.85 × 10<sup>8</sup> «J m<sup>−2</sup>»<br/>OR<br/>Q/A = «mL» = (22)(1000)(330 000) = 7.26 × 10<sup>9</sup> «J m<sup>−2</sup>» ✓ Q/A = 7.4 × 10<sup>9</sup> «J m<sup>−2</sup>» ✓</p>\n<p>Layers of ice on lakes do not grow thicker than a small percentage of the lake’s depth even when the exterior temperature remains constant below the freezing point for some time.</p></section><section class=\"markscheme-part\" data-label=\"e.iii\"><p><strong>e.iii</strong></p><p>«the thicker the layer the» lower the rate of transfer ✓</p></section><section class=\"markscheme-part\" data-label=\"e.iv\"><p><strong>e.iv</strong></p><p>if solid water were denser than liquid, ice layer would sink<br/>OR<br/>water at 4 °C sinks to bottom ✔ ice layer «would isolate water below ice to» maintain conditions «above freezing» ✔ this insulates the lake OR prevents the lake from freezing completely ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A cylindrical cork of height H and cross-sectional area A is floating stationary in water. Its depth below the water surface is D.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Draw and label the forces acting on the cork. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> </p><p>Show that</p>\n<p><span class=\"math\" data-latex=\"\\frac{D}{H}=\\frac{\\rho_{C}}{\\rho_{W}}\"></span></p>\n<p>where <span class=\"math\" data-latex=\"\\rho_{C}\"></span> is the density of the cork and <span class=\"math\" data-latex=\"\\rho_{W}\"></span> is the density of water.</p><p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Outline why the cork undergoes simple harmonic motion. [2]</p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Explain why the density of most substances in a solid state is larger than its density in a liquid state. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Identify the temperature at which water has its maximum density. [1]</p></section><section class=\"question-part\" data-label=\"d\"><p><strong>d</strong> </p><p>An icebreaking ship is designed to withstand a collision with an iceberg, a large partially submerged body of ice freely floating in water. The designers model the shape of the iceberg as a cylinder with an approximate cross-sectional area of 4200 m<sup>2</sup> and height above sea level of 32 m.</p>\n<p>The following data are available:</p>\n<table><tbody><tr><td></td><td><p><span class=\"math\" data-latex=\"\\rho_{ice}\"></span><br/></p></td><td><p>= 920 kg m<sup>−3</sup></p></td></tr><tr><td></td><td><p><span class=\"math\" data-latex=\"\\rho_{seawater}\"></span></p></td><td><p>= 1030 kg m<sup>−3</sup></p></td></tr></tbody></table><p></p></section><section class=\"question-part\" data-label=\"d.i\"><p><strong>d.i</strong> Show that the mass of the iceberg is about 1.2 × 10<sup>9</sup> kg. [2]</p></section><section class=\"question-part\" data-label=\"d.ii\"><p><strong>d.ii</strong> Calculate the speed of the ship after the collision. [2]</p></section><section class=\"question-part\" data-label=\"e\"><p><strong>e</strong> On a winter day, the surface of a lake is frozen. The temperature of the air above the lake is −6.0 °C. The layer of ice frozen on the surface of the lake has a thickness of 1.9 cm.</p></section><section class=\"question-part\" data-label=\"e.i\"><p><strong>e.i</strong> The thermal conductivity of ice is 2.3 W m<sup>−1</sup> K<sup>−1</sup>. Calculate the rate per unit area at which thermal energy leaves the lake by conduction through the ice layer. [2]</p></section><section class=\"question-part\" data-label=\"e.ii\"><p><strong>e.ii</strong> </p><p>The depth of water below the ice is 22 m and its average initial temperature is 2.0 °C. Estimate the minimum thermal energy per unit area that must be removed to freeze all the water in the lake.</p>\n<p>The following data are available:</p>\n<table><tbody><tr><td></td><td><p>Specific heat capacity of water</p></td><td><p>= 4.2 × 10<sup>3</sup> J kg<sup>−1</sup> K<sup>−1</sup></p></td></tr><tr><td></td><td><p>Latent heat of fusion of water</p></td><td><p>= 3.3 × 10<sup>5</sup> J kg<sup>−1</sup></p></td></tr><tr><td></td><td><p><span class=\"math\" data-latex=\"\\rho_{water}\"></span></p></td><td><p>= 1000 kg m<sup>−3</sup></p></td></tr></tbody></table><p>[3]</p></section><section class=\"question-part\" data-label=\"e.iii\"><p><strong>e.iii</strong> Explain how the rate calculated in (e)(i) changes as the layer of ice grows thicker. [1]</p></section><section class=\"question-part\" data-label=\"e.iv\"><p><strong>e.iv</strong> Discuss why the anomaly in the value of the density of water supports life in water on Earth. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

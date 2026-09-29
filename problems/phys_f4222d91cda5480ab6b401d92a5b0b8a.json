@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_f4222d91cda5480ab6b401d92a5b0b8a",
+  "level": "sl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p><span class=\"math\" data-latex=\"I = \\dfrac{S(1 - \\alpha)}{4} = \\dfrac{1370 \\cdot 0.7}{4} = 240,\\text{W m}^{-2}\"></span><br/>[1 mark] for formula<br/>[1 mark] for answer</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"I = \\sigma T^4\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"T = \\left( \\dfrac{240}{5.67 \\times 10^{-8}} \\right)^{1/4} = 255,\\text{K}\"></span><br/>[1 mark] substitution<br/>[1 mark] final answer</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The intensity of sunlight reaching the top of Earth's atmosphere is <span class=\"math\" data-latex=\"S = 1370,\\text{W m}^{-2}\"></span>. The albedo is 0.30.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Calculate the average intensity absorbed by Earth’s surface.<p>[2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>Write down the energy balance equation for equilibrium.<p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the equilibrium temperature of the Earth assuming a black body.<p>[2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

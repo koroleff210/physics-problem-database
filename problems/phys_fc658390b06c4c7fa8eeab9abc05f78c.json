@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f829a6403ab37af8e46e04962d61eeb69299944cb4535ff18eac4ff7bf7be940.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f829a6403ab37af8e46e04962d61eeb69299944cb4535ff18eac4ff7bf7be940"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_fc658390b06c4c7fa8eeab9abc05f78c",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>«for Carnot cycle, A to B is » isothermal process / no change in T / ∆U = 0 ✔<br/>expansion so W &gt; 0 ✔<br/>Q = W &gt; 0 ✔</p>\n<p>MP3 can only be awarded if MP1and MP2 are achieved. Allow working with W as negative for “work done on system”.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Any use of adiabatic formula ✔ <span class=\"math\" data-latex=\"V_{D}\"></span> = « 4.3(2.2 10<sup>−3</sup>)<sup>5/3</sup>= 1.7(<span class=\"math\" data-latex=\"V_{D}\"></span>)<sup>5/3</sup> » =3.8 10<sup>−3</sup> «m<sup>3</sup>» ✔</p>\n<p>Answer to 2 or more SF OR clear working/substitution is required for MP2.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>efficiency = 1 − <span class=\"math\" data-latex=\"\\frac{T_{D}}{T_{A}}\"></span> ✔ <span class=\"math\" data-latex=\"\\frac{T_{D}}{T_{A}}\"></span> = <span class=\"math\" data-latex=\"\\frac{P_{D}V_{D}}{P_{A}V_{A}}\"></span> ✔</p>\n<p>=«1 − <span class=\"math\" data-latex=\"\\frac{1.7 \\times  3.8}{4.3 \\times  2.2}\"></span> =»0.32 or 32 % ✔</p>\n<p>Allow use hot/cold instead A, D. Award [3] for bald correct answer for interval [0.28, 0.34]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>The pressure p and volume V diagram represents a Carnot cycle for an ideal monatomic gas.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Show, using the first law of thermodynamics, that during the process from A to B energy is supplied to the gas. [3]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The following data are given:</p>\n<p>Volume of the gas at A: 2.2 × 10<sup>−3</sup> m<sup>3</sup><br/>Pressure of the gas at A: 4.3 × 10<sup>5</sup> Pa<br/>Pressure of the gas at D: 1.7 × 10<sup>5</sup> Pa</p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Show that the volume of the gas at D is about 4 × 10<sup>−3</sup> m<sup>3</sup>. [2]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Calculate the efficiency of this Carnot cycle. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

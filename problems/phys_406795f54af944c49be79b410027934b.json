@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/3ba05ad166c4eb0e110939aa1d0c76060a78191fe99362a33b336668eab319ec.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "3ba05ad166c4eb0e110939aa1d0c76060a78191fe99362a33b336668eab319ec"
+    }
+  ],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_406795f54af944c49be79b410027934b",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The graph shows how the net torque varies with time on a wheel that lies in the horizontal plane. The wheel is initially at rest and is free to rotate about its central axis. </p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>After the first <span class=\"math\" data-latex=\"45\\; \\textup{ms}\"></span>, no external torque acts on the wheel and it eventually comes to rest due to a constant, applied decelerating force, while completing a total of four full rotations. The mass of the wheel is <span class=\"math\" data-latex=\"480\\; \\textup{kg}\"></span>, the diameter of the wheel is <span class=\"math\" data-latex=\"10\\; \\textup{m}\"></span>, and the moment of inertia of the wheel is <span class=\"math\" data-latex=\"I = \\frac{1}{2}MR^{2}\"></span>, where <span class=\"math\" data-latex=\"M\"></span> is the mass and <span class=\"math\" data-latex=\"R\"></span> is the radius of the wheel.</p>\n<p>What is the best estimate for the magnitude of the angular deceleration of the wheel during the time when no external torque acts on it?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"0.020\\; \\textup{rad}\\textup{s}^{-2}\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"0.13\\; \\textup{rad}\\textup{s}^{-2}\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"0.32\\; \\textup{rad}\\textup{s}^{-2}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"2.0\\; \\textup{rad}\\textup{s}^{-2}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

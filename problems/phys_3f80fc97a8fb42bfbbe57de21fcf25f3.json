@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_3f80fc97a8fb42bfbbe57de21fcf25f3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table below lists the latent heat of fusion and latent heat of vaporization for various substances.</p>\n<table><thead><tr><th>Substance</th><th>Latent Heat of Fusion <span class=\"math\" data-latex=\"(J/g)\"></span></th><th>Latent Heat of Vaporization <span class=\"math\" data-latex=\"(J/g)\"></span></th></tr></thead><tbody><tr><td>Water</td><td>334</td><td>2260</td></tr><tr><td>Ethanol</td><td>109</td><td>841</td></tr><tr><td>Mercury</td><td>11.4</td><td>272</td></tr><tr><td>Lead</td><td>24.5</td><td>870</td></tr></tbody></table>\n<p>If 100 g of ethanol at its boiling point is converted from liquid to vapor, how much thermal energy is required?</p><ol class=\"mcq-options\"><li data-label=\"A\">109 J</li><li data-label=\"B\">841 J</li><li data-label=\"C\">8700 J</li><li data-label=\"D\">84100 J</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

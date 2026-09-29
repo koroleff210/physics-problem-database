@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/88ca122e27de04aee7c8b9c8b14694183a8763a76a49b11bdd401155fca2072e.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "88ca122e27de04aee7c8b9c8b14694183a8763a76a49b11bdd401155fca2072e"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/f7378a301b3b2fe72eba73930fdac0d4f68ea4f4dbb9d79abdd930a9b05888f8.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f7378a301b3b2fe72eba73930fdac0d4f68ea4f4dbb9d79abdd930a9b05888f8"
+    },
+    {
+      "alt": "Source markscheme diagram 3",
+      "file": "assets/529987d78154559a20a7fbaceecee3d6bee68a6595ae468c3c83077626387216.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "529987d78154559a20a7fbaceecee3d6bee68a6595ae468c3c83077626387216"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/81dcde35b05ba7efaed675222c605b9d5836bb6ec9555e0f39f7842b5b098fe7.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "81dcde35b05ba7efaed675222c605b9d5836bb6ec9555e0f39f7842b5b098fe7"
+    }
+  ],
+  "classes": [
+    "A.1",
+    "C.1",
+    "C.2",
+    "C.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_ddc170cb072545618febe5bae3fa2352",
+  "level": "sl",
+  "marks": 9,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>the displacement/oscillation is at right angles/perpendicular to the direction of energy transfer/propagation ✔ <br/>Accept vibration/movement of particles for oscillation.</p>\n<p>A transverse wave is travelling to the right on a string. The graph shows, at one particular time, the variation of the displacement <span class=\"math\" data-latex=\"y\"></span> with distance <span class=\"math\" data-latex=\"x\"></span> along the string. Two points, P and Q, on the string have been marked.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source markscheme diagram 3\" src=\"asset:fig_03\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>P and Q are performing SHM ✔<br/>«in SHM» acceleration is proportional to displacement so P ✔<br/>acceleration is a maximum at P AND zero/minimum at Q ✔ <br/>MP2 can be expressed as an equation.</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>wavelength is 1.20 «m» ✔<br/><span class=\"math\" data-latex=\"T=\"></span>«<span class=\"math\" data-latex=\"\\frac{\\lambda}{c}=\\frac{1.20}{62}=1.936\\times 10^{-2}\"></span>» <span class=\"math\" data-latex=\"1.9\\times 10^{-2}\"></span>«s» ✔ <br/>For MP2 the final answer must be to 2 s.f. Allow ECF from MP1 provided the answer is to 2 s.f.</p></section><section class=\"markscheme-part\" data-label=\"a.iv\"><p><strong>a.iv</strong></p><p>distance travelled is 4 × 0.04 OR 0.16 «m» ✔<br/><span class=\"math\" data-latex=\"v=\"></span>«<span class=\"math\" data-latex=\"\\frac{0.16}{1.936\\times 10^{-2}}=\"></span>» <span class=\"math\" data-latex=\"8.3\"></span> «m s<sup>−1</sup>» ✔<br/><br/> Allow ECF from (aiii). Allow 8.3 or 8.4 «m s<sup>−1</sup>».</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>✔ <br/>Accept either the solid or dashed line alone, or 2 solid lines.</p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>SHM helps understand wave motion<br/>OR<br/>Real/complex systems resemble SHM for small oscillations<br/>OR<br/>Complex oscillations can be modelled as a combination of SHM / reference to Fourier analysis<br/>OR<br/>If friction is small, SHM can be a good approximation to the real system / small damping ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State what is meant by a transverse wave. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Explain whether P or Q has the greater acceleration. [2]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> The speed of the wave is 62 m s<sup>−1</sup>. Calculate the period of the wave giving your answer to the correct number of significant figures. [2]</p></section><section class=\"question-part\" data-label=\"a.iv\"><p><strong>a.iv</strong> Calculate the average speed of P during one complete oscillation. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>The string is now stretched between an oscillator and a fixed point. When the oscillator is set to a frequency of 120 Hz the standing wave shown in the diagram is observed on the string.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>Draw the standing wave that would be observed on the same string when the oscillator is set to a frequency of 180 Hz.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p><p>[1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Physicists and engineers study simple harmonic oscillations even though most oscillations are not simple harmonic. Suggest why this is a useful thing to do. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

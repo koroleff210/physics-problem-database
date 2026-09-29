@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_78f4d761105b4a6ba20576997e828f31",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An electron in a hydrogen atom is in the <span class=\"math\" data-latex=\"n=5\"></span> state. How many distinct photon emission lines are possible if it transitions to the ground state by any allowed path?</p><ol class=\"mcq-options\"><li data-label=\"A\">4</li><li data-label=\"B\">5</li><li data-label=\"C\">10</li><li data-label=\"D\">6</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

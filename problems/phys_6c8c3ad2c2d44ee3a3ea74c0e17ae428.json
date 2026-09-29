@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_6c8c3ad2c2d44ee3a3ea74c0e17ae428",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Light of wavelength <span class=\"math\" data-latex=\"\\lambda\"></span> is incident on a slit of width b and forms a diffraction pattern. The central maximum has a width of θ radians. The wavelength of the light is now changed to <span class=\"math\" data-latex=\"\\frac{2}{3}\\lambda\"></span> and the slit width is changed to <span class=\"math\" data-latex=\"\\frac{1}{6}\"></span>b.</p>\n<p>What is the angle between the first diffraction minimum and the point of maximum intensity?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{4}\"></span>θ</li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span>θ</li><li data-label=\"C\">2θ</li><li data-label=\"D\">4θ</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

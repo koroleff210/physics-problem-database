@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a0e8c28c1dea4f028e4b0f4646c931ca",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following has the highest albedo?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Desert</li>\n<li data-label=\"B\">Asphalt</li>\n<li data-label=\"C\">Forest</li>\n<li data-label=\"D\">Fresh snow</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

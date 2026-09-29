@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/cb1fb29804786b02459bc48e4b606fdad29ce71c43641a2291ea1651a7dbf110.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "cb1fb29804786b02459bc48e4b606fdad29ce71c43641a2291ea1651a7dbf110"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/c16358ef27985c5f1d224a83a5c3ca4504bb988c15ba162547682fd885b09090.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c16358ef27985c5f1d224a83a5c3ca4504bb988c15ba162547682fd885b09090"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/96ae7c9e6a86c230b6275d1f1a481a7968f7ba25794f34d3ce5c68382e9bc76f.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "96ae7c9e6a86c230b6275d1f1a481a7968f7ba25794f34d3ce5c68382e9bc76f"
+    },
+    {
+      "alt": "Source markscheme diagram 4",
+      "file": "assets/3448b813669f0ed90546b206cf5f2a9c15184d9ee9c0dccc475a657f24328c0e.png",
+      "id": "fig_04",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "markscheme_diagram",
+      "sha256": "3448b813669f0ed90546b206cf5f2a9c15184d9ee9c0dccc475a657f24328c0e"
+    }
+  ],
+  "classes": [
+    "A.5"
+  ],
+  "difficulty": 4,
+  "id": "phys_7be8a9603afd494480d090b2f01d333c",
+  "level": "hl",
+  "marks": 11,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p><span class=\"math\" data-latex=\"\\frac{12.0}{0.800}=15.0yrs\"></span> ✔</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p><span class=\"math\" data-latex=\"\\gamma=\\frac{1}{\\sqrt{1-0.8^{2}}}\"></span> OR <span class=\"math\" data-latex=\"\\gamma=\\frac{5}{3}\"></span> ✔ <span class=\"math\" data-latex=\"t=\\frac{15}{\\gamma}=9.00yrs\"></span> ✔ Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>the length of an object in the object’s rest frame ✔</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p><span class=\"math\" data-latex=\"\\frac{-0.800c-0.600c}{1+\\frac{0.800c\\times 0.600c}{c^{2}}}\"></span> ✔ «<span class=\"math\" data-latex=\"=\"></span>0.946c » Correct substitution<br/>Allow positive values in the numerator</p></section><section class=\"markscheme-part\" data-label=\"b.iii\"><p><strong>b.iii</strong></p><p><span class=\"math\" data-latex=\"\\gamma=\\frac{1}{\\sqrt{1-0.946^{2}}}\"></span> OR  <span class=\"math\" data-latex=\"\\gamma=3.08\"></span> ✔ <span class=\"math\" data-latex=\"L=\\frac{992}{\\gamma}=322 m\"></span> ✔ Allow ECF from MP1</p></section><section class=\"markscheme-part\" data-label=\"c.i\"><p><strong>c.i</strong></p><p>45 degree line to the right from F ✔<br/>intersecting vertical line from B ✔ eg:<br/></p>\n<p><figure data-asset-id=\"fig_04\"><img alt=\"Source markscheme diagram 4\" src=\"asset:fig_04\"/></figure></p></section><section class=\"markscheme-part\" data-label=\"c.ii\"><p><strong>c.ii</strong></p><p><span class=\"math\" data-latex=\"Δ t ' = 3.08 \\times  ( \\frac{922}{c} + \\frac{0.946 \\times  992}{c} )\"></span> ✔ <span class=\"math\" data-latex=\"=\"></span>1.98<span class=\"math\" data-latex=\"\\times\"></span>10<span class=\"math\" data-latex=\"-\"></span><sup>5</sup> « s » ✔</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A spacecraft leaves Earth with speed 0.800 c, relative to Earth, on its way to a planet that is 12.0 light years away according to Earth measurements.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Calculate the time of arrival of the spacecraft at the planet according to the</p></section><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> Earth. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> spacecraft. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p><p>On its way to the planet the spacecraft moves past a cargo ship returning to Earth. The proper length of the cargo ship is 992 m and its speed is 0.600 c relative to Earth.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> State what is meant by proper length. [1]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> Show that the speed of the cargo ship relative to the spacecraft is 0.946 c. [1]</p></section><section class=\"question-part\" data-label=\"b.iii\"><p><strong>b.iii</strong> Calculate the length of the cargo ship according to the spacecraft. [2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p><p>As the spacecraft approaches the cargo ship a light signal is emitted from the front of the cargo ship (F) towards the back (B).</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>This situation is represented in the spacetime diagram that shows the rest frame of the cargo ship. F and B represent the front and back of the cargo ship when the light signal is emitted. The scale on the axes is the same.</p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p><p></p></section><section class=\"question-part\" data-label=\"c.i\"><p><strong>c.i</strong> Annotate the spacetime diagram to show the arrival of the light signal at the back of the cargo ship. Label this event using the letter A. [2]</p></section><section class=\"question-part\" data-label=\"c.ii\"><p><strong>c.ii</strong> Determine the time it takes the signal to arrive at the back of the cargo ship according to the spacecraft. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

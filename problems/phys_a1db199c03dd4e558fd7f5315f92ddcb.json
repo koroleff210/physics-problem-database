@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_a1db199c03dd4e558fd7f5315f92ddcb",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>A: This would be the ratio if the particles had the same momentum, but because they are accelerated through the same potential, their momenta differ.</p>\n<p>B: The work done on each particle is <span class=\"math\" data-latex=\"W = qV\"></span>. This equals the kinetic energy <span class=\"math\" data-latex=\"K = \\frac{1}{2}mv^2\"></span>, so <span class=\"math\" data-latex=\"v = \\sqrt{\\frac{2qV}{m}}\"></span>. The radius of the path is <span class=\"math\" data-latex=\"r = \\frac{mv}{qB}\"></span>. Substituting <span class=\"math\" data-latex=\"v\"></span> gives <span class=\"math\" data-latex=\"r = \\frac{m}{qB} \\sqrt{\\frac{2qV}{m}} = \\frac{1}{B} \\sqrt{\\frac{2mV}{q}}\"></span>. Since <span class=\"math\" data-latex=\"B, V,\"></span> and <span class=\"math\" data-latex=\"q\"></span> are the same for both, <span class=\"math\" data-latex=\"r \\propto \\sqrt{m}\"></span>. Given <span class=\"math\" data-latex=\"m_d = 2m_p\"></span>, the ratio is <span class=\"math\" data-latex=\"\\sqrt{2}\"></span>.</p>\n<p>C: This would be the ratio if the particles entered the field with the same velocity (<span class=\"math\" data-latex=\"r \\propto m\"></span>), but the acceleration through the same potential results in different velocities.</p>\n<p>D: This distractor results from a failure to account for the square root relationship between mass and radius when the potential difference is held constant (<span class=\"math\" data-latex=\"r^2 \\propto m\"></span>).</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton and a deuteron (possessing twice the mass of a proton but the same charge) are accelerated from rest through an identical potential difference <span class=\"math\" data-latex=\"V\"></span>. Both particles then enter a region of constant magnetic flux density <span class=\"math\" data-latex=\"B\"></span> acting at right angles to their velocity. What is the ratio of the deuteron's path radius to the proton's path radius?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/21bc846879c4a9f16723fb21c801222da44b7a353e852fc37dc042237fd29e4a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "21bc846879c4a9f16723fb21c801222da44b7a353e852fc37dc042237fd29e4a"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_191ecb00ac3445c4a5f8bd8545f756bc",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rock is thrown vertically upwards with an initial speed of 40 m s<span class=\"math\" data-latex=\"^{-1}\"></span> from point A on the surface of planet X. The planet has no atmosphere. The diagram shows four photos of the rock taken at 2 second intervals. At point B, the rock is moving upwards with a speed of 16 m s<span class=\"math\" data-latex=\"^{-1}\"></span> .</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the best estimate for the acceleration of free fall on planet X?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">3 m s<span class=\"math\" data-latex=\"^{-2}\"></span> </li>\n<li data-label=\"B\">4 m s<span class=\"math\" data-latex=\"^{-2}\"></span> </li>\n<li data-label=\"C\">7 m s<span class=\"math\" data-latex=\"^{-2}\"></span> </li>\n<li data-label=\"D\">9 m s<span class=\"math\" data-latex=\"^{-2}\"></span> </li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

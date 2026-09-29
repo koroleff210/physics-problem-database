@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_7c66354cb951490d80ce11eab938116e",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>An iceberg oscillates up and down in the sea with simple harmonic motion. At time <span class=\"math\" data-latex=\"t=0\"></span> the iceberg is at the lowest point in its motion. At this instant its displacement is <span class=\"math\" data-latex=\"-x_{0}\"></span> relative to the equilibrium sea level. The angular frequency of the iceberg is <span class=\"math\" data-latex=\"\\omega\"></span>.</p>\n<p>What is the velocity of the iceberg at time <span class=\"math\" data-latex=\"t\"></span>?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"ω {x}_{0}   c o s \\, ω t\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"ω {x}_{0}   s i n \\, ω t\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"- ω {x}_{0}   c o s \\, ω t\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"- ω {x}_{0}   s i n \\, ω t\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

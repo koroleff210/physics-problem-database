@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/d754e58dcaf0e0547807e7f2e38364eedb6e14c33275f084c778d4098efe9f4c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "d754e58dcaf0e0547807e7f2e38364eedb6e14c33275f084c778d4098efe9f4c"
+    }
+  ],
+  "classes": [
+    "B.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_016ba50358c345879ef104d9cfefed64",
+  "level": "hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>B «has more microstates» ✓ Because there are many ways to swap the particles/exchange energy of the particles in B OR Because any energy exchange starting in A results in a different configuration «so A has only one microstate» ✓</p>\n</section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>A valid reference to the 2<sup>nd</sup> law, e.g. that the entropy of an isolated system never decreases ✓ The entropy is greater in configuration B «because entropy is proportional to ln Ω» ✓ Process 1 leads to an increase in entropy ✓   Allow ‘degree of disorder’ for entropy. Accept reverse statement for configuration A. Accept reverse statement for process 2.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>A system consists of ten distinguishable particles which can exchange energy in integer multiples of a constant value E. The total energy of the system is 10E.</p>\n<p>The diagram shows two possible energy configurations of the system. In configuration A, all particles have the same energy E. In configuration B, the particles have a range of energies from 0 to 4E.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>When the energy of any particle in the system changes, a new microstate of the system is formed.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Outline which of the two configurations has a greater number of microstates. [2]</p></section><section class=\"context\"><p>The system of ten particles is isolated. Two processes are considered for the overall evolution of the system.</p><p>Process 1: the system is initially in configuration A and evolves to configuration B</p><p>Process 2: the system is initially in configuration B and evolves to configuration A</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> Explain why process 1 is more likely to occur. [3]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

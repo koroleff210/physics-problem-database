@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.2"
+  ],
+  "difficulty": null,
+  "id": "phys_567f89bbc0b74918ae468f5a517ee285",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: C</p>\n<p>A: This would be the result if the student incorrectly calculated <span class=\"math\" data-latex=\"R / 0.75\"></span>.</p>\n<p>B: This is the maximum height above the surface (<span class=\"math\" data-latex=\"4R - R\"></span>), not the distance from the centre.</p>\n<p>C: - The energy required to escape is <span class=\"math\" data-latex=\"\\Delta U = \\frac{GMm}{R}\"></span>.<br/>- Initial kinetic energy is <span class=\"math\" data-latex=\"E_k = \\frac{3}{4} \\frac{GMm}{R}\"></span>.<br/>- By conservation of energy, the gain in gravitational potential energy is equal to the loss in kinetic energy: <span class=\"math\" data-latex=\"\\Delta E_p = E_k\"></span>.<br/>- <span class=\"math\" data-latex=\"(-\\frac{GMm}{r_{max}}) - (-\\frac{GMm}{R}) = \\frac{3}{4} \\frac{GMm}{R}\"></span>.<br/>- <span class=\"math\" data-latex=\"-\\frac{1}{r_{max}} + \\frac{1}{R} = \\frac{3}{4R}\"></span>.<br/>- <span class=\"math\" data-latex=\"\\frac{1}{r_{max}} = \\frac{1}{R} - \\frac{3}{4R} = \\frac{1}{4R}\"></span>.<br/>- Therefore, <span class=\"math\" data-latex=\"r_{max} = 4R\"></span>.</p>\n<p>D: This could result from a sign error, e.g. using <span class=\"math\" data-latex=\"\\left(-\\frac{GMm}{R}\\right)-\\left(-\\frac{GMm}{r_{max}}\\right)=\\frac{3}{4}\\frac{GMm}{R}\"></span>, giving <span class=\"math\" data-latex=\"\\frac{1}{R}-\\frac{1}{r_{max}}=\\frac{3}{4R}\"></span> and hence <span class=\"math\" data-latex=\"\\frac{1}{r_{max}}=\\frac{1}{4R}\"></span> misapplied as <span class=\"math\" data-latex=\"r_{max}=\\frac{7}{4}R\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A space probe of mass <span class=\"math\" data-latex=\"m\"></span> is launched vertically from the surface of a planet of radius <span class=\"math\" data-latex=\"R\"></span>. The initial kinetic energy of the probe is three-quarters of the energy required for the probe to escape the planet's gravitational field. Air resistance is negligible.</p>\n<p>What is the maximum distance from the centre of the planet reached by the probe?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1.3 R\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"3.0 R\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"4.0 R\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"1.75 R\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

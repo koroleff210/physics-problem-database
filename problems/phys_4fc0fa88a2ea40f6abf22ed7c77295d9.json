@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.1",
+    "A.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_4fc0fa88a2ea40f6abf22ed7c77295d9",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A car takes 20 minutes to climb a hill at constant speed. The mass of the car is 1200 kg and the car gains gravitational potential energy at a rate of 6.0 kW. Take the acceleration of gravity to be 10 m s<sup>−2</sup>. What is the height of the hill?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">0.6 m</li><li data-label=\"B\">10 m</li><li data-label=\"C\">600 m</li><li data-label=\"D\">6000 m<br/><br/></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_4c3d7d79d708416b9c11ddaeda483499",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A planet of mass <span class=\"math\" data-latex=\"M\"></span> has radius <span class=\"math\" data-latex=\"r\"></span>. What changes in <span class=\"math\" data-latex=\"M\"></span> and <span class=\"math\" data-latex=\"r\"></span> will definitely increase the escape speed of the planet?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Change in <span class=\"math\" data-latex=\"M\"></span></strong></p>\n</td>\n<td>\n<p><strong>Change in <span class=\"math\" data-latex=\"r\"></span></strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Increase</td>\n<td>Increase</td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Increase</td>\n<td>Decrease</td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Decrease</td>\n<td>Increase</td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Decrease</td>\n<td>Decrease</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

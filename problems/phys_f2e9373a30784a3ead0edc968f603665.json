@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/84b4a1729e5f63aec0b37eeeab3d08f8d50f109d8a7b45195e07e897299c3c18.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "84b4a1729e5f63aec0b37eeeab3d08f8d50f109d8a7b45195e07e897299c3c18"
+    }
+  ],
+  "classes": [
+    "A.3",
+    "A.4",
+    "D.2",
+    "D.3"
+  ],
+  "difficulty": 4,
+  "id": "phys_f2e9373a30784a3ead0edc968f603665",
+  "level": "hl",
+  "marks": 8,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a.i\"><p><strong>a.i</strong></p><p>into (the plane of) the page ✔</p>\n<p>The centripetal force is to the right. The electron's velocity is upwards. By the left-hand rule for negative charges (or reversing the right-hand rule), the field must be into the page.</p></section><section class=\"markscheme-part\" data-label=\"a.ii\"><p><strong>a.ii</strong></p><p>The magnetic force is always perpendicular to the velocity, so no work is done on the electron «and its kinetic energy is constant». ✔</p></section><section class=\"markscheme-part\" data-label=\"a.iii\"><p><strong>a.iii</strong></p><p>Equating magnetic force and centripetal force: e u B = <span class=\"math\" data-latex=\"m_{e}\"></span> u^2 / R ✔<br/>u = (e B R) / <span class=\"math\" data-latex=\"m_{e}\"></span> = (1.60e-19 × 1.5e-3 × 4.0e-2) / 9.11e-31 = 1.1 × 10^7 «m s⁻¹» ✔</p>\n<p>Award [1] for setting up the force balance equation. Award [1] for correct substitution and answer to 2 s.f.</p></section><section class=\"markscheme-part\" data-label=\"b.i\"><p><strong>b.i</strong></p><p>Kinetic energy gained from accelerating potential: eV = ½ <span class=\"math\" data-latex=\"m_{e}\"></span> u² ✔<br/>From circular motion, u = eBR / <span class=\"math\" data-latex=\"m_{e}\"></span> ✔<br/>Substituting u: V = (<span class=\"math\" data-latex=\"m_{e}\"></span> / 2e) * (eBR / <span class=\"math\" data-latex=\"m_{e}\"></span>)² = (e / 2m_e) B² R². Comparing with V = k B² R² gives k = e / (2m_e) ✔</p>\n<p>Award [1] for relating V and KE. Award [1] for recalling or re-deriving the expression for u. Award [1] for correct substitution and algebraic simplification to the final result.</p></section><section class=\"markscheme-part\" data-label=\"b.ii\"><p><strong>b.ii</strong></p><p>V T⁻² m⁻² ✔</p>\n<p>Units derived from the given equation V = k B² R². The equivalent C kg⁻¹ from the derived expression for k is also acceptable.</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p><strong>7.</strong> An electron is moving in a uniform magnetic field of strength B. The path of the electron is a circle of radius R. The diagram shows the path of the electron and the direction of the electron's velocity, u, at one instant.</p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure><section class=\"question-part\" data-label=\"a.i\"><p><strong>a.i</strong> State the direction of the magnetic field. [1]</p></section><section class=\"question-part\" data-label=\"a.ii\"><p><strong>a.ii</strong> Outline why the kinetic energy remains constant. [1]</p></section><section class=\"question-part\" data-label=\"a.iii\"><p><strong>a.iii</strong> Determine u for B=1.5 mT and R=4.0 cm. [2]</p></section><section class=\"question-part\" data-label=\"b.i\"><p><strong>b.i</strong> Derive k in terms of e and <span class=\"math\" data-latex=\"m_{e}\"></span>. [3]</p></section><section class=\"question-part\" data-label=\"b.ii\"><p><strong>b.ii</strong> State the units of k. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

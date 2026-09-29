@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_23f342e3dc6442b69d239291d799e698",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Planet X has a gravitational field strength of <span class=\"math\" data-latex=\"18 N kg^{-1}\"></span> at its surface. Planet Y has the same density as X but three times the radius of X. What is the gravitational field strength at the surface of Y?</p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"6 m s^{-2}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"18 m s^{-2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"54 m s^{-2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"162 m s^{-2}\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

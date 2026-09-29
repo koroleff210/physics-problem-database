@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/b97c4f8b34ce5da0a834604a7f9906e43791d4f295236209086434d4b826d5ac.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "b97c4f8b34ce5da0a834604a7f9906e43791d4f295236209086434d4b826d5ac"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 2,
+  "id": "phys_a040a7653cdc47f0865c66f4ff81e404",
+  "level": "sl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A model rocket is launched from rest. The graph shows the variation with time t of the net force F applied on the rocket. The average mass of the rocket is 0.20 kg.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>What is the maximum velocity reached by the rocket?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">3.0 m s<sup>−1</sup></li><li data-label=\"B\">25 m s<sup>−1</sup></li><li data-label=\"C\">75 m s<sup>−1</sup></li><li data-label=\"D\">150 m s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_daa0a51d809e4646a1ede90c88c5a10c",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A simple pendulum is displaced by a small angle from its equilibrium position and when released, it oscillates with simple harmonic motion (SHM). The acceleration of the pendulum is <span class=\"math\" data-latex=\"a\"></span> and its displacement is <span class=\"math\" data-latex=\"s\"></span>. Which of the following is the correct relationship between the acceleration and the displacement of the pendulum?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"a\\: \\alpha\\: s\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"a\\: \\alpha\\: -s\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"a\\: \\alpha\\: \\frac{1}{s}\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"a\\: \\alpha\\: -\\frac{1}{s}\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

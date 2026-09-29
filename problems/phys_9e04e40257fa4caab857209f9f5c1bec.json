@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/e20432d6f45dc48be37f3ab48b6c71da49f518afb6e702c39461a1aa41eb709a.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "e20432d6f45dc48be37f3ab48b6c71da49f518afb6e702c39461a1aa41eb709a"
+    }
+  ],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": 3,
+  "id": "phys_9e04e40257fa4caab857209f9f5c1bec",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A circular disk is rotated anticlockwise at constant speed as shown on the diagram. A and B are two small objects, each with mass <span class=\"math\" data-latex=\"m\"></span>, that are fixed to the disk. The angular speed of B is <span class=\"math\" data-latex=\"\\omega\"></span> and the net force acting on B is <span class=\"math\" data-latex=\"F\"></span>.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is true about the magnitude of the angular speed of object A and the magnitude of the net force acting on object A?</p>\n\n<table>\n<tbody>\n<tr>\n<td></td>\n<td>\n<p><strong>Magnitude of the angular </strong><strong>speed of object A</strong></p>\n</td>\n<td>\n<p><strong>Magnitude of the net force </strong><strong>acting on object A</strong></p>\n</td>\n</tr>\n<tr data-label=\"A\">\n<td><strong>A.</strong></td>\n<td>Same as <span class=\"math\" data-latex=\"\\omega\"></span></td>\n<td>Smaller than <span class=\"math\" data-latex=\"F\"></span></td>\n</tr>\n<tr data-label=\"B\">\n<td><strong>B.</strong></td>\n<td>Larger than <span class=\"math\" data-latex=\"\\omega\"></span></td>\n<td>Smaller than <span class=\"math\" data-latex=\"F\"></span></td>\n</tr>\n<tr data-label=\"C\">\n<td><strong>C.</strong></td>\n<td>Same as <span class=\"math\" data-latex=\"\\omega\"></span></td>\n<td>Larger than <span class=\"math\" data-latex=\"F\"></span></td>\n</tr>\n<tr data-label=\"D\">\n<td><strong>D.</strong></td>\n<td>Larger than <span class=\"math\" data-latex=\"\\omega\"></span></td>\n<td>Larger than <span class=\"math\" data-latex=\"F\"></span></td>\n</tr>\n</tbody>\n</table>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

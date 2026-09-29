@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/ec0ef97ab2d9d6222a042a23cd887524f73b737d47d4ab70635e00588649248c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "ec0ef97ab2d9d6222a042a23cd887524f73b737d47d4ab70635e00588649248c"
+    }
+  ],
+  "classes": [
+    "E.3"
+  ],
+  "difficulty": 3,
+  "id": "phys_755b92f289b94354ac48af0008394237",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>The table shows how the count rate from a sample of a radioactive nuclide varies with time t. The nuclide has a half-life of 50 s. The average background count rate is constant.</p>\n<p><br/></p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p><br/>What count rate will the detector measure when t = 150 s?</p>\n<p>[1]</p>\n<ol class=\"mcq-options\"><li data-label=\"A\">8 s<sup>−1</sup></li><li data-label=\"B\">16 s<sup>−1</sup></li><li data-label=\"C\">24 s<sup>−1</sup></li><li data-label=\"D\">32 s<sup>−1</sup></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

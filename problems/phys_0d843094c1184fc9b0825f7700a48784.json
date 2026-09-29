@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.1"
+  ],
+  "difficulty": 5,
+  "id": "phys_0d843094c1184fc9b0825f7700a48784",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which of the following best explains why most alpha particles in the Geiger–Marsden (Rutherford) experiment passed straight through the gold foil?</p><ol class=\"mcq-options\"><li data-label=\"A\">The nucleus is negatively charged</li><li data-label=\"B\">Atoms are mostly empty space</li><li data-label=\"C\">Alpha particles are too light to be deflected</li><li data-label=\"D\">Gold atoms absorb most of the radiation</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

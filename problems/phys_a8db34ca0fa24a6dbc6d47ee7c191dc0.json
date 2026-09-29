@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/f1dff36d6582283edbcd6a1031f4f78daea7dc5d70b037c4e2941fe7235559c4.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "f1dff36d6582283edbcd6a1031f4f78daea7dc5d70b037c4e2941fe7235559c4"
+    },
+    {
+      "alt": "Source question diagram 2",
+      "file": "assets/0b5e270386fe28828dc8dbc1fdc85ce414a6fa2a2c361ffa2a6cdce4e089c901.png",
+      "id": "fig_02",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "0b5e270386fe28828dc8dbc1fdc85ce414a6fa2a2c361ffa2a6cdce4e089c901"
+    },
+    {
+      "alt": "Source question diagram 3",
+      "file": "assets/c5a734d5106ae52ad5f381fb8af6d32613ce0818faa34e2827aedc20820ececf.png",
+      "id": "fig_03",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "c5a734d5106ae52ad5f381fb8af6d32613ce0818faa34e2827aedc20820ececf"
+    }
+  ],
+  "classes": [
+    "C.1",
+    "D.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_a8db34ca0fa24a6dbc6d47ee7c191dc0",
+  "level": "hl",
+  "marks": 1,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A magnet attached to a spring oscillates above a coil as shown. The period of the oscillation is T.</p>\n<p><figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure></p>\n<p>The graph shows the variation with time <span class=\"math\" data-latex=\"t\"></span> of the current <span class=\"math\" data-latex=\"I\"></span> in the coil.</p>\n<p><figure data-asset-id=\"fig_02\"><img alt=\"Source question diagram 2\" src=\"asset:fig_02\"/></figure></p>\n<p>The amplitude of the magnet’s oscillation is now decreased.</p>\n<p>What is the new variation of <span class=\"math\" data-latex=\"I\"></span> with <span class=\"math\" data-latex=\"t\"></span>?<br/><br/></p>\n<p><figure data-asset-id=\"fig_03\"><img alt=\"Source question diagram 3\" src=\"asset:fig_03\"/></figure></p>\n<p>[1]</p><ol class=\"mcq-options\"><li data-label=\"A\">Option A is shown in the figure above.</li><li data-label=\"B\">Option B is shown in the figure above.</li><li data-label=\"C\">Option C is shown in the figure above.</li><li data-label=\"D\">Option D is shown in the figure above.</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

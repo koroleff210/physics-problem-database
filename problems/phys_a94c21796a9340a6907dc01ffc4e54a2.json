@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_a94c21796a9340a6907dc01ffc4e54a2",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> D</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>X and Y are two parallel copper wires that both carry current <span class=\"math\" data-latex=\"I\"></span> out of the plane of the page. The magnitude of the force exerted per unit length by X on Y is <span class=\"math\" data-latex=\"F\"></span>.</p>\n<p>What is the magnitude of the force exerted per unit length by Y on X when the current in both wires is doubled, the distance between the wires is halved and the current direction in Y is reversed?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"F\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2F\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"4F\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"8F\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

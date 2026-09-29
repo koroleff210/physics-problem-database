@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.3"
+  ],
+  "difficulty": 6,
+  "id": "phys_129b925f8c6b420ea69fc789b1ee42ec",
+  "level": "hl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Ratio of speed of light in vacuum to speed in the medium.<br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p><span class=\"math\" data-latex=\"n = \\dfrac{\\sin i}{\\sin r}\"></span><br/>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>- <span class=\"math\" data-latex=\"\\sin r = \\dfrac{\\sin 30^\\circ}{1.50} = 0.333 \\Rightarrow r = 19.5^\\circ\"></span><br/>- Correct substitution<br/>[1 mark]<br/>- Correct final answer [1 mark]</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A ray of light enters a transparent block from air at an angle of incidence of <span class=\"math\" data-latex=\"30^\\circ\"></span>.</p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Define the term “refractive index”. [1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> State the equation that relates angle of incidence and refraction. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Calculate the angle of refraction in glass of refractive index <span class=\"math\" data-latex=\"n = 1.50\"></span>. [2]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.4"
+  ],
+  "difficulty": 4,
+  "id": "phys_48495e5dd1534531a216d39d6e068f58",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p>Correct answer: B</p>\n<p>B: Use <span class=\"math\" data-latex=\"K=\\frac{1}{2}I\\omega^2\"></span>.<br/><span class=\"math\" data-latex=\"60=\\frac{1}{2}I(8^2)=32I \\Rightarrow I=\\frac{60}{32}=1.875\\ \\text{kg m}^2\"></span>.<br/>For a solid sphere, <span class=\"math\" data-latex=\"I=\\frac{2}{5}mr^2=\\frac{2}{5}(3)r^2=1.2r^2\"></span>.<br/>So <span class=\"math\" data-latex=\"1.2r^2=1.875 \\Rightarrow r^2=\\frac{1.875}{1.2}=1.5625 \\Rightarrow r=1.25\\ \\text{m}\"></span>.</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A 3 kg solid sphere rotates about its diameter with an angular speed of 8 rad s<span class=\"math\" data-latex=\"^{-1}\"></span>. For a solid sphere, <span class=\"math\" data-latex=\"I=\\frac{2}{5}mr^2\"></span>, where <span class=\"math\" data-latex=\"m\"></span> is the mass and <span class=\"math\" data-latex=\"r\"></span> is the radius. If the rotational kinetic energy of the sphere is 60 J, what is its radius?</p><ol class=\"mcq-options\"><li data-label=\"A\">1.5 m</li><li data-label=\"B\">1.25 m</li><li data-label=\"C\">2.5 m</li><li data-label=\"D\">2.75 m</li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

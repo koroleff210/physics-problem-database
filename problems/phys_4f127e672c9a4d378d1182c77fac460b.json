@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "D.3"
+  ],
+  "difficulty": null,
+  "id": "phys_4f127e672c9a4d378d1182c77fac460b",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton and an alpha particle follow circular paths of identical radii in a uniform magnetic field. The direction of motion for both particles is perpendicular to the magnetic field lines. What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{magnitude of the momentum of the alpha particle}}{\\text{magnitude of the momentum of the proton}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.5\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"1.0\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

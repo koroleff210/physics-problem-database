@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "C.1"
+  ],
+  "difficulty": null,
+  "id": "phys_4587e13a97cc4845bf8263ed01f103cf",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A particle undergoes simple harmonic motion. Its maximum speed is <span class=\"math\" data-latex=\"v_{\\text{max}}\"></span> and its maximum acceleration is <span class=\"math\" data-latex=\"a_{\\text{max}}\"></span>. Which of the following is a correct expression for the period <span class=\"math\" data-latex=\"T\"></span> of the particle's motion?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"T = 2\\pi \\sqrt{\\frac{v_{\\text{max}}}{a_{\\text{max}}}}\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"T = 2\\pi \\frac{a_{\\text{max}}}{v_{\\text{max}}}\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"T = 2\\pi \\frac{v_{\\text{max}}}{a_{\\text{max}}}\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"T = \\frac{1}{2\\pi} \\frac{v_{\\text{max}}}{a_{\\text{max}}}\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

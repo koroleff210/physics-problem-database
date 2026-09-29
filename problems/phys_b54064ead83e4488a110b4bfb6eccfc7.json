@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.2"
+  ],
+  "difficulty": null,
+  "id": "phys_b54064ead83e4488a110b4bfb6eccfc7",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A proton and an alpha particle are moving with the same non-relativistic kinetic energy. The mass of an alpha particle is approximately four times the mass of a proton. What is the ratio <span class=\"math\" data-latex=\"\\frac{\\text{de Broglie wavelength of the proton}}{\\text{de Broglie wavelength of the alpha particle}}\"></span>?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0.25\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"0.50\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2.0\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4.0\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

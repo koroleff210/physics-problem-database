@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.5"
+  ],
+  "difficulty": 3,
+  "id": "phys_db1363aaa1904d51a370c37403c2a385",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p><span class=\"math\" data-latex=\"X\"></span> is a star of luminosity L and apparent brightness b. <span class=\"math\" data-latex=\"Y\"></span> is a star of luminosity L and apparent brightness 2b.</p>\n<p>As viewed from Earth, what is <span class=\"math\" data-latex=\"\\frac{\\textit{parallax angle subtended by X}}{\\textit{parallax angle subtended by Y}}\"></span>?<br/><br/></p>\n<ol class=\"mcq-options\"><li data-label=\"A\"><span class=\"math\" data-latex=\"\\frac{1}{\\sqrt{2}}\"></span></li><li data-label=\"B\"><span class=\"math\" data-latex=\"\\frac{1}{2}\"></span></li><li data-label=\"C\"><span class=\"math\" data-latex=\"\\sqrt{2}\"></span></li><li data-label=\"D\"><span class=\"math\" data-latex=\"2\"></span></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

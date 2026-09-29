@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2",
+    "D.1"
+  ],
+  "difficulty": 4,
+  "id": "phys_d143898132634fd09d089a1a4c7d5800",
+  "level": "sl_hl",
+  "marks": 18,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"10a\"><p><strong>10a</strong></p><p></p>\n<p>Equating centripetal acceleration of the moon and gravitational field strength:: <span class=\"math\" data-latex=\"\\frac{4 \\pi^{2} r}{T^{2}} = \\frac{GM}{r^{2}}\"></span></p>\n<p>Rearranging to find orbital radius:</p>\n<p><span class=\"math\" data-latex=\"R_{orbital} = \\sqrt[3]{\\frac{T^{2}GM}{4 \\pi^{2}}}\"></span></p>\n<p>Shortest distance between the surface of the moon and the surface of the planet:</p>\n<p><span class=\"math\" data-latex=\"R_{orbital}-(R+r) = \\sqrt[3]{\\frac{T^{2}GM}{4 \\pi^{2}}}-(R+r)\"></span></p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10b\"><p><strong>10b</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"75R = \\sqrt[3]{\\frac{T^{2}GM}{4 \\pi^{2}}}-1.25R\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt{\\frac{(76.25R)^{3} \\times 4 \\pi^{2}}{GM}}\"></span></p>\n<p><span class=\"math\" data-latex=\"T = \\sqrt{\\frac{(76.25 \\times 5250 \\times 10^{3})^{3} \\times 4 \\pi^{2}}{(6.67 \\times 10^{-11}) \\times (8.3 \\times 10^{25})}} \\approx 676358\"></span> s</p>\n<p><span class=\"math\" data-latex=\"T = \\frac{676358}{60 \\times 60 \\times 24} \\approx 7.8\"></span> days</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c(i)\"><p><strong>10c(i)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"R_{orbital} = \\sqrt[3]{\\frac{676358^{2} \\times (6.67 \\times 10^{-11}) \\times (8.3 \\times 10^{25})}{4 \\pi^{2}}} \\approx 4 \\times 10^{8}\"></span> m</p>\n<p><span class=\"math\" data-latex=\"v = \\frac{2 \\pi \\times (4 \\times 10^{8})}{676358} \\approx 3716\"></span> m s<span class=\"math\" data-latex=\"^{-1} \\approx 3.7\"></span> km s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>(Calculated answer must be given to at least 3 s. f. to earn final mark)</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"10c(ii)\"><p><strong>10c(ii)</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"m = \\frac{8.3 \\times 10^{25}}{80} \\approx 1.04 \\times 10^{24}\"></span> kg</p>\n<p><span class=\"math\" data-latex=\"F = \\frac{1.04 \\times 10^{24} \\times 3716^{2}}{4 \\times 10^{8}} \\approx 3.6 \\times 10^{22}\"></span> N</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>A moon has a circular orbit around a planet. The radius of the planet is <em>R</em>, the radius of the moon is <em>r</em>, the time it takes for the moon to complete one full orbit around the planet is <em>T</em> and the mass of the planet is <em>M</em> and the mass of the moon is <em>m</em>.</p>\n<p></p>\n<p>a. Show that the shortest distance between the surface of the moon and the surface of the planet is <span class=\"math\" data-latex=\"\\sqrt[3]{\\frac{T^{2}GM}{4 \\pi^{2}}} - (R+r)\"></span>.</p>\n<p>  [3]</p>\n<p>b. The following data is known about the moon and the planet:</p>\n<p></p>\n<p>Mass of the planet = <span class=\"math\" data-latex=\"8.3 \\times 10^{25}\"></span> kg</p>\n<p>Diameter of the planet = 10500 km</p>\n<p>Ratio of <span class=\"math\" data-latex=\"\\frac{r}{R} = \\frac{1}{4}\"></span></p>\n<p>Shortest distance between the surface of the planet and the surface of the moon = <span class=\"math\" data-latex=\"75R\"></span></p>\n<p><em></em></p>\n<p>   Find, in days, the orbital period of the moon.</p>\n<p>  [4]</p>\n<p>c. The ratio of <span class=\"math\" data-latex=\"\\frac{m}{M} = \\frac{1}{80}\"></span>.</p>\n<p>i. Show that the orbital speed of the moon is 3.7 km s<span class=\"math\" data-latex=\"^{-1}\"></span>.</p>\n<p>  [3]</p>\n<p>ii. Find the gravitational force exerted by the moon on the planet.</p>\n<p>  [2]</p>\n<p></p>\n<p></p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

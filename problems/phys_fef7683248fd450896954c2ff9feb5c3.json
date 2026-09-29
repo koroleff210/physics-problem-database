@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/143170791e5d3bdc40934ca5efcdbf02f06d2f17e75c8305a9cc464a98c4132f.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "143170791e5d3bdc40934ca5efcdbf02f06d2f17e75c8305a9cc464a98c4132f"
+    }
+  ],
+  "classes": [
+    "A.1"
+  ],
+  "difficulty": 2,
+  "id": "phys_fef7683248fd450896954c2ff9feb5c3",
+  "level": "sl_hl",
+  "marks": 5,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"1a\"><p><strong>1a</strong></p><p></p>\n<p>Impulse is change in momentum.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1b\"><p><strong>1b</strong></p><p></p>\n<p>The area under the graph <span class=\"math\" data-latex=\"= \\Delta p = \\frac{1}{2}(10 \\times 10^{-3})(350) = 1.75\"></span> N s</p>\n<p><span class=\"math\" data-latex=\"1.75 = (0.046)v\"></span></p>\n<p><span class=\"math\" data-latex=\"v = 38 \\approx 40\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span></p>\n<p>Calculated answer must be given to at least 2 significant figures in order to earn the final mark.</p>\n<p></p></section><section class=\"markscheme-part\" data-label=\"1c\"><p><strong>1c</strong></p><p></p>\n<p><span class=\"math\" data-latex=\"F_{ave} = \\frac{\\Delta p}{\\Delta t} = \\frac{1.75}{10 \\times 10^{-3}} = 175\"></span> N</p>\n<p></p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The graph shows how the horizontal force exerted by a golf club on a golf ball varies with time. The mass of the golf ball is <span class=\"math\" data-latex=\"46\"></span> grams. The golf ball is initially at rest.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>a. Define impulse.</p>\n<p>   [1]</p>\n<p>b. Show that the speed of the golf ball as it loses contact with the golf club is about <span class=\"math\" data-latex=\"40\"></span> m s<span class=\"math\" data-latex=\"^{-1}\"></span>. </p>\n<p>   [3]</p>\n<p>c. Calculate the average force exerted by the golf club on the golf ball.</p>\n<p>   [1]</p>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

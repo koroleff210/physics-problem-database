@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2"
+  ],
+  "difficulty": null,
+  "id": "phys_99d7b4b31fa14215b27502946f58e17c",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>Solar constant is the intensity of solar radiation at the top of Earth's atmosphere.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>Earth only intercepts sunlight across a disc (<span class=\"math\" data-latex=\"\\\\pi R^2\"></span>), but radiates over full surface (<span class=\"math\" data-latex=\"4\\\\pi R^2\"></span>).</p>\n<p>[1 mark]</p>\n<p>So average intensity = <span class=\"math\" data-latex=\"\\\\dfrac{S}{4}\"></span>.</p>\n<p>[1 mark]</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p><span class=\"math\" data-latex=\"I = \\\\dfrac{1370}{4} = 342,\\\\text{W m}^{-2}\"></span></p>\n<p>[1 mark] **</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<p>The intensity of solar radiation received by Earth is not equal to the solar constant. **a) Define the term “solar constant”. <span class=\"math\" data-latex=\"1\"></span><strong> </strong>b) State why the average solar intensity received by Earth is less than the solar constant.  <span class=\"math\" data-latex=\"2\"></span><strong> </strong>c) Calculate the average intensity if <span class=\"math\" data-latex=\"S = 1370,\\\\text{W m}^{-2}\"></span>.  <span class=\"math\" data-latex=\"1\"></span><strong></strong></p><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> </p>Define the term “solar constant”. <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> </p>State why the average solar intensity received by Earth is less than the solar constant.  <span class=\"math\" data-latex=\"2\"></span><p>[2]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> </p>Calculate the average intensity if <span class=\"math\" data-latex=\"S = 1370,\\\\text{W m}^{-2}\"></span>.  <span class=\"math\" data-latex=\"1\"></span><p>[1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

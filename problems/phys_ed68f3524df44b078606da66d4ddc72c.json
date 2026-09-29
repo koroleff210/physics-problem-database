@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "classes": [
+    "B.2",
+    "E.1"
+  ],
+  "difficulty": 3,
+  "id": "phys_ed68f3524df44b078606da66d4ddc72c",
+  "level": "sl",
+  "marks": 4,
+  "markscheme": {
+    "html": "<section class=\"markscheme-part\" data-label=\"a\"><p><strong>a</strong></p><p>* This question is from an examination for a previous syllabus. Please note that it may contain minor differences in marking or structure or contain parts that are not a match to the new syllabus (first assessment 2025).<br/>mention of spectrum/spectral lines ✔ lines/wavelengths/transitions are specific for an element ✔</p>\n<p>OWTTE</p></section><section class=\"markscheme-part\" data-label=\"b\"><p><strong>b</strong></p><p>502 «nm» ✔   Accept 502 or 500</p>\n<p>5.02 × 10<sup>−7</sup> scores [1] if unit (m) stated.</p></section><section class=\"markscheme-part\" data-label=\"c\"><p><strong>c</strong></p><p>** This question part has been identified as not part of the new syllabus (first assessment 2025). <br/>(most) orbits of planets are nearly circular/slightly elliptical<br/>OR<br/>orbits of comets highly/more elliptical ✔</p>\n<p>OWTTE</p></section>"
+  },
+  "paper": "paper_2",
+  "question": {
+    "html": "<section class=\"context\"><p>Over 60 elements, apart from hydrogen, have been identified in the composition of the Sun.</p></section><section class=\"question-part\" data-label=\"a\"><p><strong>a</strong> Explain how elements present in the Sun are identified. [2]</p></section><section class=\"question-part\" data-label=\"b\"><p><strong>b</strong> The temperature of the surface of the Sun is 5780 K. Calculate, in nm, <span class=\"math\" data-latex=\"\\lambda\"></span><sub>max</sub> for the spectrum of the Sun. [1]</p></section><section class=\"question-part\" data-label=\"c\"><p><strong>c</strong> Planets and comets orbit the Sun. Distinguish, with reference to their orbits, between planets and comets. [1]</p></section>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "structured"
+}

@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "A.2"
+  ],
+  "difficulty": null,
+  "id": "phys_db4c583e2ac2402b8f032afb9df1dea1",
+  "level": "hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A rubber ball of mass <span class=\"math\" data-latex=\"M\"></span> travels horizontally with speed <span class=\"math\" data-latex=\"u\"></span> towards a rigid vertical wall. It collides with the wall and rebounds along its original path with the same speed <span class=\"math\" data-latex=\"u\"></span>.</p>\n<p>What is the magnitude of the change in momentum of the ball during the collision?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"0\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"Mu\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"2Mu\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4Mu\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

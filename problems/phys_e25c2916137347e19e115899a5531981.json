@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "E.4"
+  ],
+  "difficulty": 3,
+  "id": "phys_e25c2916137347e19e115899a5531981",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> B</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Consider the following statements:</p>\n<p></p>\n<p>I. The reaction <span class=\"math\" data-latex=\"_{\\; \\, 98}^{252}\\textrm{Cf} \\: \\rightarrow \\:{}  _{\\, \\; 54}^{140}\\textrm{Xe} + _{\\, \\; 44}^{108}\\textrm{Ru} + 4\\,{} _{0}^{1}\\textrm{n}\"></span> is an example of spontaneous fission.</p>\n<p>II. In an induced fission reaction, the total mass of the reactants is less than the total mass of the products.</p>\n<p>III. Energy is released during both induced and spontaneous fission.</p>\n<p></p>\n<p>Which of these statements are correct?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">I and II only</li>\n<li data-label=\"B\">I and III only</li>\n<li data-label=\"C\">II and III only</li>\n<li data-label=\"D\">I, II and III</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

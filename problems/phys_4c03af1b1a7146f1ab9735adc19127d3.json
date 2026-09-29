@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "alt": "Source question diagram 1",
+      "file": "assets/80a72dc96697c66bac641b78408ffa9208ae13ae89db5475f2478d07ee51db0c.png",
+      "id": "fig_01",
+      "media_type": "image/png",
+      "placement_status": "placed",
+      "role": "question_diagram",
+      "sha256": "80a72dc96697c66bac641b78408ffa9208ae13ae89db5475f2478d07ee51db0c"
+    }
+  ],
+  "classes": [
+    "B.5"
+  ],
+  "difficulty": 2,
+  "id": "phys_4c03af1b1a7146f1ab9735adc19127d3",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A <span class=\"math\" data-latex=\"2.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span> resistor is connected to a cell with an emf of <span class=\"math\" data-latex=\"12\"></span> V. The current through the resistor is <span class=\"math\" data-latex=\"4.0\"></span> A.</p>\n\n<figure data-asset-id=\"fig_01\"><img alt=\"Source question diagram 1\" src=\"asset:fig_01\"/></figure>\n\n<p>What is the internal resistance of the cell?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\"><span class=\"math\" data-latex=\"1.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></li>\n<li data-label=\"B\"><span class=\"math\" data-latex=\"2.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></li>\n<li data-label=\"C\"><span class=\"math\" data-latex=\"3.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></li>\n<li data-label=\"D\"><span class=\"math\" data-latex=\"4.0\"></span> <span class=\"math\" data-latex=\"\\Omega\"></span></li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

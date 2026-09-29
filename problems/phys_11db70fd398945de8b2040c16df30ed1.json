@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.3"
+  ],
+  "difficulty": 2,
+  "id": "phys_11db70fd398945de8b2040c16df30ed1",
+  "level": "sl_hl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> A</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>Which one of the following is not an assumption made in the kinetic model of ideal gases?</p>\n<p></p>\n<ol class=\"mcq-options\">\n<li data-label=\"A\">Forces between the gas particles are attractive.</li>\n<li data-label=\"B\">The molecules undergo perfectly elastic collisions.</li>\n<li data-label=\"C\">The gas consists of a large number of identical particles.</li>\n<li data-label=\"D\">The volume of the molecules is negligible compared to the volume of the gas.</li>\n</ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}

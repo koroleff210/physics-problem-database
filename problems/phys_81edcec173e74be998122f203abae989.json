@@ -1,0 +1,26 @@
+{
+  "assets": [],
+  "classes": [
+    "B.1"
+  ],
+  "difficulty": null,
+  "id": "phys_81edcec173e74be998122f203abae989",
+  "level": "sl",
+  "marks": null,
+  "markscheme": {
+    "html": "<p><strong>Answer:</strong> C</p>"
+  },
+  "paper": "paper_1a",
+  "question": {
+    "html": "<p>A star has surface temperature <span class=\"math\" data-latex=\"T\"></span> and radius <span class=\"math\" data-latex=\"R\"></span>. A second star has the same surface temperature but radius <span class=\"math\" data-latex=\"\\frac{R}{2}\"></span>. What is the ratio of the luminosity of the second star to the luminosity of the first star?</p><ol class=\"mcq-options\"><li data-label=\"A\"><p><span class=\"math\" data-latex=\"1 : 2\"></span></p></li><li data-label=\"B\"><p><span class=\"math\" data-latex=\"2 : 1\"></span></p></li><li data-label=\"C\"><p><span class=\"math\" data-latex=\"1 : 4\"></span></p></li><li data-label=\"D\"><p><span class=\"math\" data-latex=\"4 : 1\"></span></p></li></ol>"
+  },
+  "review": {
+    "assets": "approved",
+    "classification": "approved",
+    "content": "approved",
+    "issues": [],
+    "status": "approved"
+  },
+  "schema_version": "question.v4",
+  "type": "mcq"
+}
